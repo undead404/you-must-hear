@@ -9,6 +9,10 @@ title: spanish guitar
 
 Last updated: <time datetime="2025-11-03T17:25:00.335Z">Mon Nov 03 2025 19:25:00 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitars played in styles rooted in flamenco, classical, and Latin traditions. The music features intricate fingerpicking, rapid strumming techniques, and passionate melodies that evoke Mediterranean and Latin American atmospheres. It ranges from traditional solo performances to contemporary fusion blending world music, jazz, and new age elements.
+
 ### 100 chronological releases
 
 <table>
@@ -526,7 +530,7 @@ Last updated: <time datetime="2025-11-03T17:25:00.335Z">Mon Nov 03 2025 19:25:00
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 42</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 43</li>
         </ul>
       </td>
     </tr>

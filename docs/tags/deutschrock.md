@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T23:35:51.012Z
+date: 2025-11-04T05:15:15.428Z
 permalink: tags/deutschrock
 title: deutschrock
 ---
 
 ## deutschrock
 
-Last updated: <time datetime="2025-11-02T23:35:51.012Z">Mon Nov 03 2025 01:35:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T05:15:15.428Z">Tue Nov 04 2025 07:15:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -386,7 +386,7 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>1993-05-24</td>
@@ -529,7 +529,7 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fe61d616101d64ec6ae1c65277f01a3.png" alt="Cover for Morgen" style="max-width:120px; height:auto;" />
       </td>
@@ -636,7 +636,7 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>1999</td>
@@ -653,7 +653,7 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>1999-04-23</td>
@@ -740,7 +740,7 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 77</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -816,7 +816,7 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/ez8oFcMsmRsNx66_6kXOuaLQkDaze2fupQD1jcYxRgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTA1/MzEtMTQ0NjgxODU0/Ni03MDE4LmpwZWc.jpeg" alt="Cover for Verschwende Deine Zeit - Live" style="max-width:120px; height:auto;" />
       </td>
@@ -890,7 +890,7 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2004-07-12</td>
@@ -971,7 +971,7 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2005-01-17</td>
@@ -984,7 +984,7 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 10</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 11</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 55</li>
         </ul>
       </td>
@@ -1201,12 +1201,12 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 31</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2007-06-29</td>
@@ -1447,7 +1447,7 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2010-02-19</td>
@@ -1487,7 +1487,8 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 18</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 1</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 19</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 81</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 85</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 93</li>
@@ -1561,7 +1562,7 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/FkxHMS2aeID2_MQj-XkTsxwWbFdw0YLxMX7mc-goOVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDUz/MDQtMTMxNzg0OTUw/MS5qcGVn.jpeg" alt="Cover for Ich muss gar nichts" style="max-width:120px; height:auto;" />
       </td>
@@ -1580,7 +1581,7 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ca4d12dbfc5507cf44cd8f99db26883.png" alt="Cover for All Die Ganzen Jahre: Ihre Besten Lieder" style="max-width:120px; height:auto;" />
       </td>
@@ -1640,7 +1641,7 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2013-01-25</td>
@@ -1821,25 +1822,6 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a433da8806def23dbe0a13d3a4a14a49.png" alt="Cover for Heute" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-10-28</td>
-      <td>Böhse Onkelz</td>
-      <td>Heute</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>19</td>
       <td>
           <img src="https://i.discogs.com/kmyIvAG_BikVKJPt65Pwq7oaHjxd_fS_A_e8wpRsJ1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjI1/NzYtMTQ4NDM5Mjkz/MS05MDY5LmpwZWc.jpeg" alt="Cover for Revolution" style="max-width:120px; height:auto;" />
@@ -1906,7 +1888,27 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48eee6797a2a1b5ec66353ef5afc47e1.png" alt="Cover for Für Usszeschnigge" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-11-12</td>
+      <td>BAP</td>
+      <td>Für Usszeschnigge</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>
       </td>
       <td></td>

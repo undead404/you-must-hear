@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T23:15:51.005Z
+date: 2025-11-04T05:11:35.398Z
 permalink: tags/glam-metal
 title: glam metal
 ---
 
 ## glam metal
 
-Last updated: <time datetime="2025-11-02T23:15:51.005Z">Mon Nov 03 2025 01:15:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T05:11:35.398Z">Tue Nov 04 2025 07:11:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,13 +44,13 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 31</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 59</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 46</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c7a410c1f654642c63c901a47400c06.png" alt="Cover for Killers" style="max-width:120px; height:auto;" />
       </td>
@@ -68,7 +68,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/zodrW7Wok1qjYjI5TyRIpovQPY8OecB9wyOZMX-tlQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjQ2/Ni0xMjMyMDU4Nzcw/LmpwZWc.jpeg" alt="Cover for Creatures Of The Night" style="max-width:120px; height:auto;" />
       </td>
@@ -111,7 +111,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/214e48c1c3666fe16c92d6b80f64ca1c.png" alt="Cover for Cool Kids" style="max-width:120px; height:auto;" />
       </td>
@@ -130,7 +130,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/ui0XO-4b-foOsEZCahmMtiWTs7y7wRQbHU2thaFLz4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTYx/MDYtMTI2ODU4MzA2/Mi5qcGVn.jpeg" alt="Cover for Back to Mystery City" style="max-width:120px; height:auto;" />
       </td>
@@ -166,7 +166,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a641a2b0e5c63d458a54df87164523b.png" alt="Cover for Metal Health" style="max-width:120px; height:auto;" />
       </td>
@@ -184,7 +184,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1406e1e08554f9acf2c0dc386f0c413.png" alt="Cover for Metal Magic" style="max-width:120px; height:auto;" />
       </td>
@@ -194,7 +194,6 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
         </ul>
       </td>
       <td>
@@ -233,12 +232,12 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 88</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/BAlrSFiDxwhADlM2PefbbeAWtb8mXb5GVKSRav3LHhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTUy/Ni0xMTY3NjcwNzUy/LmpwZWc.jpeg" alt="Cover for Steeler" style="max-width:120px; height:auto;" />
       </td>
@@ -253,7 +252,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 8</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -271,12 +270,12 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 72</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15e2f410d813e7f254fa0465a233b02f.png" alt="Cover for Out of the Cellar" style="max-width:120px; height:auto;" />
       </td>
@@ -289,12 +288,12 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 69</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fb32a7fedc74780c709cc58f37c5f80.png" alt="Cover for Projects in the Jungle" style="max-width:120px; height:auto;" />
       </td>
@@ -326,12 +325,12 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 68</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfb6710021a3d62efa9d1b0aece2a27c.png" alt="Cover for Stay Hungry" style="max-width:120px; height:auto;" />
       </td>
@@ -344,7 +343,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 35</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 45</li>
             <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 46</li>
         </ul>
       </td>
@@ -363,12 +362,12 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 17</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>1985</td>
@@ -383,12 +382,12 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 15</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f23fd2e716bce1eddb541596350702a5.png" alt="Cover for Rough Cutt" style="max-width:120px; height:auto;" />
       </td>
@@ -475,7 +474,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 6</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 13</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 21</li>
         </ul>
       </td>
@@ -498,7 +497,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ba49ae032034a1c9d0fba7b4f976f0d.png" alt="Cover for Change of Address" style="max-width:120px; height:auto;" />
       </td>
@@ -537,7 +536,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/374348aae0ba6265a59b36e7c9377891.png" alt="Cover for The Final Countdown" style="max-width:120px; height:auto;" />
       </td>
@@ -551,12 +550,12 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 33</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa6118daf460177db7f8c6cf7b4df28a.png" alt="Cover for Look What the Cat Dragged In" style="max-width:120px; height:auto;" />
       </td>
@@ -569,13 +568,13 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 46</li>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 48</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 50</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21ea18d0ca1bedeacb9fca79611883e5.png" alt="Cover for Night Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -588,7 +587,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 24</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -606,14 +605,14 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 47</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 70</li>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 76</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 51</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 75</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad904b9c3f3c8c51af9f65d3416d269d.png" alt="Cover for Dancing Undercover" style="max-width:120px; height:auto;" />
       </td>
@@ -631,7 +630,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0967470a07dd17b0a48cd07bbff1c341.png" alt="Cover for Faster Pussycat" style="max-width:120px; height:auto;" />
       </td>
@@ -650,7 +649,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/B1hSiHaet7qcdAQQfSEb7PUCV8R1MEmEayfZdjzllYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODQ0/MzctMTMzNjMyODQy/OC5qcGVn.jpeg" alt="Cover for The Yellow and Black Attack" style="max-width:120px; height:auto;" />
       </td>
@@ -670,7 +669,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>1987</td>
@@ -687,7 +686,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e26a1741f82f85dc9b1a004a890e6075.png" alt="Cover for Bad Animals" style="max-width:120px; height:auto;" />
       </td>
@@ -704,7 +703,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0595bafb958df54a66bfd314829dfaa0.png" alt="Cover for Girls, Girls, Girls" style="max-width:120px; height:auto;" />
       </td>
@@ -722,7 +721,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29a61cf1f995f6ec3beb63e0a1d7ca2a.png" alt="Cover for Hysteria" style="max-width:120px; height:auto;" />
       </td>
@@ -736,12 +735,12 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 52</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b735e5552ca709d2226b95f5bebe5c3b.png" alt="Cover for Power Metal" style="max-width:120px; height:auto;" />
       </td>
@@ -778,7 +777,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29e1ca8345c556eb7de01c2ee286f8e6.png" alt="Cover for L.A. Guns" style="max-width:120px; height:auto;" />
       </td>
@@ -791,7 +790,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 71</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -844,12 +843,12 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 85</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d4f0c745f34da63d100f1c7dd6f0a2a.png" alt="Cover for Vixen" style="max-width:120px; height:auto;" />
       </td>
@@ -867,7 +866,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8115b760eefa4bca8e7995d911d6925e.png" alt="Cover for Open Up And Say.. Ahh!" style="max-width:120px; height:auto;" />
       </td>
@@ -883,13 +882,13 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 17</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 96</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 21</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffe699da34552e913f69fa86a2a2b5e2.png" alt="Cover for Cold Lake" style="max-width:120px; height:auto;" />
       </td>
@@ -908,7 +907,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/053cb822b26dba549b5b48fbdaf53af7.png" alt="Cover for Reach for the Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -921,6 +920,35 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>1989</td>
+      <td>Shotgun Messiah</td>
+      <td>Shotgun Messiah</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 26</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 46</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -943,7 +971,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30c084fbf5044beda9389fdc53c8980c.png" alt="Cover for Mr. Big" style="max-width:120px; height:auto;" />
       </td>
@@ -960,7 +988,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e6d1f54e5a24595c5c7b2bd37263cb8.png" alt="Cover for Cocked &amp; Loaded" style="max-width:120px; height:auto;" />
       </td>
@@ -974,12 +1002,12 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 93</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8aa0fab933615e2a5a3b96381187e9e.png" alt="Cover for Wake Me When It&#39;s Over" style="max-width:120px; height:auto;" />
       </td>
@@ -992,7 +1020,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1010,7 +1038,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 41</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1028,13 +1056,13 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 2</li>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 22</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 9</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99efb059cac3deb207fede1ec97e0011.png" alt="Cover for Steelheart" style="max-width:120px; height:auto;" />
       </td>
@@ -1064,12 +1092,12 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 14</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ccbf2f1127e5a2320955325c0fa643c.png" alt="Cover for In the Heart of the Young" style="max-width:120px; height:auto;" />
       </td>
@@ -1087,7 +1115,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf767a9e074b84e74483388203d787e3.png" alt="Cover for Firehouse" style="max-width:120px; height:auto;" />
       </td>
@@ -1100,12 +1128,12 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 92</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15c3a935a332d4bae8bdff1da8157dea.png" alt="Cover for Against The Law" style="max-width:120px; height:auto;" />
       </td>
@@ -1123,7 +1151,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8550001bdabc44e8aca4c34a56dc7cc3.png" alt="Cover for Detonator" style="max-width:120px; height:auto;" />
       </td>
@@ -1141,7 +1169,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e74606316a594b259465ee38edd740a.png" alt="Cover for Second Coming" style="max-width:120px; height:auto;" />
       </td>
@@ -1160,7 +1188,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40741e6c134590c3212bfe47500329d5.png" alt="Cover for One Size Fits All" style="max-width:120px; height:auto;" />
       </td>
@@ -1181,7 +1209,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
       </td>
       <td>1992</td>
@@ -1202,7 +1230,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47d19a7e935e65acf14cd31d0675fdf4.png" alt="Cover for Hold Your Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -1219,7 +1247,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f897caaa7190c425ed8512d4eaffd7c8.png" alt="Cover for Diamond Star Halos" style="max-width:120px; height:auto;" />
       </td>
@@ -1239,7 +1267,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>1994-09-10</td>
@@ -1265,7 +1293,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d6dfcbcec63e35d5b3a28d93fff7c25.png" alt="Cover for 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1283,7 +1311,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5ca450c7c16a3439ab172ec44d5f697.png" alt="Cover for The Best of Warrant" style="max-width:120px; height:auto;" />
       </td>
@@ -1300,7 +1328,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/i7l66mk4eApqeD8Vk6WU1S_mu2CDax855G2hn824dAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDgw/NjgtMTM0NjQwODE5/OS0yODgzLmpwZWc.jpeg" alt="Cover for Drag Me Down" style="max-width:120px; height:auto;" />
       </td>
@@ -1319,12 +1347,12 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 89</li>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 91</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a33904e9f1760fae0c2eaf4e2af39ad.png" alt="Cover for 7800° Fahrenheit" style="max-width:120px; height:auto;" />
       </td>
@@ -1341,7 +1369,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>2002-12-04</td>
@@ -1358,7 +1386,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>2003-04-14</td>
@@ -1379,7 +1407,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0efeaa5b9a584fd8b05f7b8430fda54e.png" alt="Cover for Hysteria 2013 (Re-Recorded Version) - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1396,13 +1424,13 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 37</li>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 80</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 49</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>2004-04-02</td>
@@ -1423,7 +1451,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/BNso6jE0grdKf0mb9cQTf60vi1Xh-sVLF9EpGFrF5uE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzQw/MjktMTU1ODY4NjUx/MC01MjU1LmpwZWc.jpeg" alt="Cover for Classic Motley Crue" style="max-width:120px; height:auto;" />
       </td>
@@ -1438,12 +1466,12 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 89</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>2005-08-16</td>
@@ -1457,11 +1485,12 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/BnuqIlXF4TEqVg5UfgjiBhrcr0-nWBZtG5NZ3gaLzsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzA4/ODQtMTUyODQ3NDQ1/NC03MjYwLmpwZWc.jpeg" alt="Cover for Lit Up Let Down" style="max-width:120px; height:auto;" />
       </td>
@@ -1479,7 +1508,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>2006-03-13</td>
@@ -1496,12 +1525,12 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 45</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/897a6182d09a41699d29236f4ecff48f.png" alt="Cover for Sex &amp; Hollywood" style="max-width:120px; height:auto;" />
       </td>
@@ -1520,7 +1549,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/ctOLgYLO6dcxBZOG6okWTR2GglqXVMDZAL7UbZnIhNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA3/NDEtMTUxNjg2MTM4/OC0yNDcyLnBuZw.jpeg" alt="Cover for Blonde" style="max-width:120px; height:auto;" />
       </td>
@@ -1589,12 +1618,12 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 33</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 34</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 38</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 40</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 41</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 49</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 51</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 51</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 59</li>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 64</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 65</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 68</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 69</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 70</li>
@@ -1617,7 +1646,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>2008-06-18</td>
@@ -1634,7 +1663,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
       </td>
       <td>2008-08-18</td>
@@ -1651,7 +1680,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51cd2d5991534f449e5335f2dddf61ce.png" alt="Cover for Beg For It" style="max-width:120px; height:auto;" />
       </td>
@@ -1665,12 +1694,12 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 28</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/W81VvSN5tGduZgvqeKgno1x55FwFJ-W7bQmqoLCH5ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjE2/NzItMTYwNDYxNTI1/NS05MTA5LmpwZWc.jpeg" alt="Cover for Young &amp; Reckless" style="max-width:120px; height:auto;" />
       </td>
@@ -1692,7 +1721,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f53589b49baacb12f727a921e31df5b.png" alt="Cover for Feel the Steel" style="max-width:120px; height:auto;" />
       </td>
@@ -1708,12 +1737,61 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 4</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 11</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 64</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 98</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2009-09-01</td>
+      <td>Insane Clown Posse</td>
+      <td>Bang! Pow! Boom!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 11</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 19</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 44</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 46</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 53</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 61</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 64</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 68</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 68</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 68</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 69</li>
+            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 69</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 74</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 77</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 79</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 79</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 85</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 86</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 86</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 86</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 90</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 91</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/365e455ba3573982855e06751bccb93d.png" alt="Cover for Reckless Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1726,12 +1804,12 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 36</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
       </td>
       <td>2010-04-14</td>
@@ -1745,12 +1823,12 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 20</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c48bdbfd07e4289c2090f305f2fbfcb.png" alt="Cover for Balls Out" style="max-width:120px; height:auto;" />
       </td>
@@ -1768,9 +1846,9 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 50</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 64</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 73</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 75</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 83</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 80</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 83</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 83</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 83</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 88</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 91</li>
@@ -1779,7 +1857,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>2012-01-24</td>
@@ -1799,7 +1877,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7307f68d4ccc44469c0e579680369df9.png" alt="Cover for Wretched And Divine: The Story Of The Wild Ones" style="max-width:120px; height:auto;" />
       </td>
@@ -1814,8 +1892,8 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 15</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 57</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 63</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 64</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 66</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 78</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 87</li>
@@ -1825,7 +1903,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2013-04-16</td>
@@ -1842,26 +1920,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dccbe12764770797d987b9254028a8d0.png" alt="Cover for Party Like Tomorrow Is the End of the World" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-10-28</td>
-      <td>Steel Panther</td>
-      <td>Party Like Tomorrow Is the End of the World</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/444fd3b0180b487ac84b662a12cf6b9f.png" alt="Cover for All You Can Eat" style="max-width:120px; height:auto;" />
       </td>
@@ -1879,7 +1938,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/HXRBS0tGwWqKjC3AcPjQXEGH_OPsJh3oM0wSlBsnOT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzI2/NjItMTQ1NjUwNjc2/Mi05MzQ4LmdpZg.jpeg" alt="Cover for Live from Lexxi&#39;s Mom&#39;s Garage" style="max-width:120px; height:auto;" />
       </td>
@@ -1897,13 +1956,13 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 11</li>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 34</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 18</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/813f899edec78387421cd1999ffc8004.png" alt="Cover for Lower the Bar" style="max-width:120px; height:auto;" />
       </td>
@@ -1921,7 +1980,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/405d48ebfc6757871eb8312faf8b06ce.png" alt="Cover for Vale" style="max-width:120px; height:auto;" />
       </td>
@@ -1938,7 +1997,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14a0c1d56225361f512f61d14481e5bd.png" alt="Cover for Vicious" style="max-width:120px; height:auto;" />
       </td>
@@ -1951,29 +2010,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 16</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>53</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cc16e17bf4044a010348013993bed8f.png" alt="Cover for American Dream" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-05-07</td>
-      <td>DIAMANTE</td>
-      <td>American Dream</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 85</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1994,13 +2031,13 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 66</li>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 78</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 82</li>
             <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -2021,8 +2058,8 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
 
 ### Related genres
 
-- [hard rock]({{ "/tags/hard-rock" | relative_url }})
 - [heavy metal]({{ "/tags/heavy-metal" | relative_url }})
+- [hard rock]({{ "/tags/hard-rock" | relative_url }})
 - [hair metal]({{ "/tags/hair-metal" | relative_url }})
 - [sleaze rock]({{ "/tags/sleaze-rock" | relative_url }})
 - [glam rock]({{ "/tags/glam-rock" | relative_url }})
@@ -2030,4 +2067,4 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
 - [power metal]({{ "/tags/power-metal" | relative_url }})
 - [thrash metal]({{ "/tags/thrash-metal" | relative_url }})
 - [grunge]({{ "/tags/grunge" | relative_url }})
-- [nu metal]({{ "/tags/nu-metal" | relative_url }})
+- [metalcore]({{ "/tags/metalcore" | relative_url }})
