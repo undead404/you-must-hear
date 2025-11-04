@@ -9,6 +9,10 @@ title: concert
 
 Last updated: <time datetime="2025-10-30T09:18:40.167Z">Thu Oct 30 2025 11:18:40 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+The &quot;concert&quot; tag captures live performances recorded in front of audiences, preserving the raw energy and spontaneity of music in its most immediate form. These recordings feature crowd noise, extended improvisations, and the unique atmosphere created when artists and fans share physical space. The tag spans all genres, united by the authentic, unpolished quality that distinguishes live performance from studio recording.
+
 ### 100 chronological releases
 
 <table>
@@ -170,7 +174,7 @@ Last updated: <time datetime="2025-10-30T09:18:40.167Z">Thu Oct 30 2025 11:18:40
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 1</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 3</li>
             <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 49</li>
         </ul>
       </td>
@@ -268,7 +272,7 @@ Last updated: <time datetime="2025-10-30T09:18:40.167Z">Thu Oct 30 2025 11:18:40
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 48</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -289,7 +293,7 @@ Last updated: <time datetime="2025-10-30T09:18:40.167Z">Thu Oct 30 2025 11:18:40
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 27</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -449,7 +453,6 @@ Last updated: <time datetime="2025-10-30T09:18:40.167Z">Thu Oct 30 2025 11:18:40
       <td>Beethoven: Complete Works For Violin And Orchestra</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
@@ -589,7 +592,7 @@ Last updated: <time datetime="2025-10-30T09:18:40.167Z">Thu Oct 30 2025 11:18:40
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 58</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -954,7 +957,7 @@ Last updated: <time datetime="2025-10-30T09:18:40.167Z">Thu Oct 30 2025 11:18:40
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 45</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1475,7 +1478,7 @@ Last updated: <time datetime="2025-10-30T09:18:40.167Z">Thu Oct 30 2025 11:18:40
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 35</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1604,6 +1607,7 @@ Last updated: <time datetime="2025-10-30T09:18:40.167Z">Thu Oct 30 2025 11:18:40
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1626,7 +1630,7 @@ Last updated: <time datetime="2025-10-30T09:18:40.167Z">Thu Oct 30 2025 11:18:40
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 52</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 53</li>
             <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 73</li>
         </ul>
       </td>
@@ -1668,7 +1672,7 @@ Last updated: <time datetime="2025-10-30T09:18:40.167Z">Thu Oct 30 2025 11:18:40
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 7</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1726,7 +1730,7 @@ Last updated: <time datetime="2025-10-30T09:18:40.167Z">Thu Oct 30 2025 11:18:40
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 59</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 60</li>
         </ul>
       </td>
     </tr>

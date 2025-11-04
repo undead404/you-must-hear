@@ -9,6 +9,10 @@ title: psydub
 
 Last updated: <time datetime="2025-11-03T11:27:51.000Z">Mon Nov 03 2025 13:27:51 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Psydub blends the deep bass and spacious production of dub with psychedelic trance&#39;s trippy textures and Eastern-influenced melodies. Born from the fusion of reggae sound system culture and Goa trance, it creates meditative, downtempo soundscapes filled with organic instruments, ethnic samples, and mind-bending electronic effects. The style emphasizes hypnotic grooves and immersive atmospheres perfect for contemplative listening or chill-out spaces.
+
 ### 100 chronological releases
 
 <table>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T22:35:56.074Z
+date: 2025-11-04T04:01:50.984Z
 permalink: tags/traditional-doom-metal
 title: traditional doom metal
 ---
 
 ## traditional doom metal
 
-Last updated: <time datetime="2025-11-02T22:35:56.074Z">Mon Nov 03 2025 00:35:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T04:01:50.984Z">Tue Nov 04 2025 06:01:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -80,7 +80,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 23</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -98,7 +98,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 22</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -461,7 +461,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 15</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -623,25 +623,6 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/336683a8e691e61ca9c27ab3ff87d587.png" alt="Cover for Show &#39;Em How" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Pentagram</td>
-      <td>Show &#39;Em How</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
         </ul>
       </td>
       <td>
@@ -845,7 +826,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 48</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1158,7 +1139,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 9</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1562,7 +1543,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 49</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1688,6 +1669,25 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2013-05-13</td>
+      <td>The Fërtility Cült</td>
+      <td>Heavenly Bodies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
         </ul>
       </td>
@@ -1878,8 +1878,8 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
 - [stoner metal]({{ "/tags/stoner-metal" | relative_url }})
 - [metal]({{ "/tags/metal" | relative_url }})
 - [stoner rock]({{ "/tags/stoner-rock" | relative_url }})
-- [hard rock]({{ "/tags/hard-rock" | relative_url }})
 - [stoner doom]({{ "/tags/stoner-doom" | relative_url }})
+- [hard rock]({{ "/tags/hard-rock" | relative_url }})
 - [sludge]({{ "/tags/sludge" | relative_url }})
 - [swedish]({{ "/tags/swedish" | relative_url }})
 - [sludge metal]({{ "/tags/sludge-metal" | relative_url }})

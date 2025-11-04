@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T22:09:51.007Z
+date: 2025-11-04T03:51:51.016Z
 permalink: tags/spanish-metal
 title: spanish metal
 ---
 
 ## spanish metal
 
-Last updated: <time datetime="2025-11-02T22:09:51.007Z">Mon Nov 03 2025 00:09:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T03:51:51.016Z">Tue Nov 04 2025 05:51:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
   </thead>
   <tbody>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3a01d161c3abc0af69ee57aa4dba32d.png" alt="Cover for Larga Vida Al Rock and Roll" style="max-width:120px; height:auto;" />
       </td>
@@ -46,7 +46,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/218fdbcbbba83846ab0c68bba657eaa2.png" alt="Cover for Leo Metal Covers, Vol. 15" style="max-width:120px; height:auto;" />
       </td>
@@ -63,7 +63,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad31b879b0f34adb853bec0061ef0372.png" alt="Cover for Al Pie Del Cañón" style="max-width:120px; height:auto;" />
       </td>
@@ -83,7 +83,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>1983</td>
@@ -100,7 +100,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72fc98a4652a441983c321fd6e35a138.png" alt="Cover for Metalmorfosis" style="max-width:120px; height:auto;" />
       </td>
@@ -118,7 +118,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef88b629bc1f699bd9df3142107aa1c0.png" alt="Cover for Pacto Con El Diablo" style="max-width:120px; height:auto;" />
       </td>
@@ -136,7 +136,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ed66cf8ebcdf35c73424b1bd93a9951.png" alt="Cover for Diabolicca" style="max-width:120px; height:auto;" />
       </td>
@@ -155,7 +155,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/BPUHPSCDG6iEW5JHTnJWSNaCEEs0k2QdlVZ48S5hMQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTgz/ODctMTM0MzIwNjk4/Ni05NzIzLmpwZWc.jpeg" alt="Cover for En Directo" style="max-width:120px; height:auto;" />
       </td>
@@ -174,7 +174,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>1987</td>
@@ -191,7 +191,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/JIEM7rRcIK1GeeLDw2jb8P_io2C4AzOS8ELb0mEHHOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjE1/MTYtMTQ5MzU1MDY0/NS0xMTg2LmpwZWc.jpeg" alt="Cover for El Mensaje del Mago" style="max-width:120px; height:auto;" />
       </td>
@@ -211,7 +211,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/g-KtvAURCTTLN0-Uk8LqNHpTGomZicguEQ61cLvklLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzA3/NDgtMTM2NjgwNzk2/OC0xNTk5LmpwZWc.jpeg" alt="Cover for Tierra De Nadie" style="max-width:120px; height:auto;" />
       </td>
@@ -229,7 +229,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/A1SufuYOVA4igJjvasL8KaLnM2Og-G3Etu4nNabk2BM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDM4/OTgtMTMyNzgxNDQ2/NC5qcGVn.jpeg" alt="Cover for ¡No Va Más!" style="max-width:120px; height:auto;" />
       </td>
@@ -248,7 +248,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/8boMVXZrxW4-SpDY3IZYF8cRfoYAt7m7FfAlJN9cHNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjY1/ODQtMTQyNTc0ODIy/OS01OTIyLmpwZWc.jpeg" alt="Cover for Now or Never" style="max-width:120px; height:auto;" />
       </td>
@@ -266,7 +266,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/oUQxefwm9OmGNhiMA8ZEwtTEEsnfBneL5mPZhyON6Wo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzY0/MzEtMTMyMzU0MjEx/OC5qcGVn.jpeg" alt="Cover for Telón de Acero" style="max-width:120px; height:auto;" />
       </td>
@@ -285,7 +285,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/KGjCzl7YREKXt4EuepQCTAtADdnBm9NEjuAqALlpWrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQ3/ODMtMTQyNjA3MTQ5/NS01MDUzLmpwZWc.jpeg" alt="Cover for Mutant Hunter" style="max-width:120px; height:auto;" />
       </td>
@@ -304,7 +304,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b77465e9da934efa9d323df0f67dc2cb.png" alt="Cover for Obstinato" style="max-width:120px; height:auto;" />
       </td>
@@ -342,7 +342,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/095c88dd5c660e218de47c1f7ae89db3.png" alt="Cover for Pacto de Sangre" style="max-width:120px; height:auto;" />
       </td>
@@ -362,7 +362,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
       </td>
       <td>1992</td>
@@ -380,7 +380,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>1994</td>
@@ -398,7 +398,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/4pdY4wx5Z4KHY2Rqjb8GHpCDFtIdM6RN6TZziD_HBMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTEz/NDItMTMxMzQyNjcz/MS5qcGVn.jpeg" alt="Cover for Herederos de una Historia" style="max-width:120px; height:auto;" />
       </td>
@@ -424,7 +424,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/23e9b627ebc746dcb3591fa5a16aab30.png" alt="Cover for Saratoga" style="max-width:120px; height:auto;" />
       </td>
@@ -443,7 +443,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
       </td>
       <td>1996</td>
@@ -461,7 +461,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/cUZE_IsmWZzCsI1SC8vBGl3nB5ZhxNbB874S5bkMVv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTE2/ODAtMTQyODg4NDQ5/NS00NjkzLmpwZWc.jpeg" alt="Cover for Orden Genetico" style="max-width:120px; height:auto;" />
       </td>
@@ -479,7 +479,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>1996</td>
@@ -496,7 +496,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e77f7ad07b44a99a5538338aa8e1960.png" alt="Cover for Arma Secreta" style="max-width:120px; height:auto;" />
       </td>
@@ -515,7 +515,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/-uqC57bmOLms3e6fEb7wCMy9oN98A8weRqvH-AobpuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTM4/ODAtMTQ1MjAxMzEx/Mi04NzU4LmpwZWc.jpeg" alt="Cover for Confrontacion" style="max-width:120px; height:auto;" />
       </td>
@@ -555,7 +555,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>1998</td>
@@ -575,7 +575,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/e2XUeDBc4nF4l9LDwW_DzUqW2I0IDwDdx92ppwAuRI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTgy/MDUtMTM0OTEzMjMz/MS01MzAzLmpwZWc.jpeg" alt="Cover for El Latido Del Miedo" style="max-width:120px; height:auto;" />
       </td>
@@ -593,7 +593,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/705f3dac0deb4100f51e728f4312a4df.png" alt="Cover for Leo Metal Covers Volume 5" style="max-width:120px; height:auto;" />
       </td>
@@ -614,7 +614,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d444ee952b77bca2dcdff98814aa3673.png" alt="Cover for Leo Metal Covers Volume 4" style="max-width:120px; height:auto;" />
       </td>
@@ -635,7 +635,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6af0abcb2e05bc767a6974b3f4f31492.png" alt="Cover for Leo Metal Covers Volume 2" style="max-width:120px; height:auto;" />
       </td>
@@ -673,160 +673,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3b9065b97a342e9b2ca0294aa9049ce.png" alt="Cover for Turn Down for What (Metal Version)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Leo</td>
-      <td>Turn Down for What (Metal Version)</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/090aa54700a28d4e3461bd9ae6e96b0c.png" alt="Cover for Leo Metal Volume 17" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Leo</td>
-      <td>Leo Metal Volume 17</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5670a6f146b3b4688f3aa1aa437a069.png" alt="Cover for Leo Metal Covers Volume 9" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Leo</td>
-      <td>Leo Metal Covers Volume 9</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb670dae78f0ecea4fff01d8ab623ed7.png" alt="Cover for Metal, Vol. 16" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Leo</td>
-      <td>Metal, Vol. 16</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/893915be2aa95ba44a8258820a00e301.png" alt="Cover for Leo Metal Covers Volume 8" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Leo</td>
-      <td>Leo Metal Covers Volume 8</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24f856cb434d4812bd785abcb2f13ce3.png" alt="Cover for Leo Metal Covers Volume 7" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Leo</td>
-      <td>Leo Metal Covers Volume 7</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8f0b3dffc862c36d8795ec9a4aaad2d.png" alt="Cover for Leo Metal Covers Volume 1" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Leo</td>
-      <td>Leo Metal Covers Volume 1</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/089068188338c95720e44d9daef5edbc.png" alt="Cover for Leo Metal Covers Volume 3" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Leo</td>
-      <td>Leo Metal Covers Volume 3</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/216b3ae80bbb955b49b0c0ac2d2c64c8.png" alt="Cover for Leo Metal, Vol. 18" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Leo</td>
-      <td>Leo Metal, Vol. 18</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d510888b7ad44df9a7a6506ac4ef27e.png" alt="Cover for Títere con cabeza" style="max-width:120px; height:auto;" />
       </td>
@@ -843,7 +690,143 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/090aa54700a28d4e3461bd9ae6e96b0c.png" alt="Cover for Leo Metal Volume 17" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Leo Metal Volume 17</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5670a6f146b3b4688f3aa1aa437a069.png" alt="Cover for Leo Metal Covers Volume 9" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Leo Metal Covers Volume 9</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb670dae78f0ecea4fff01d8ab623ed7.png" alt="Cover for Metal, Vol. 16" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Metal, Vol. 16</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/893915be2aa95ba44a8258820a00e301.png" alt="Cover for Leo Metal Covers Volume 8" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Leo Metal Covers Volume 8</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24f856cb434d4812bd785abcb2f13ce3.png" alt="Cover for Leo Metal Covers Volume 7" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Leo Metal Covers Volume 7</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8f0b3dffc862c36d8795ec9a4aaad2d.png" alt="Cover for Leo Metal Covers Volume 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Leo Metal Covers Volume 1</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/089068188338c95720e44d9daef5edbc.png" alt="Cover for Leo Metal Covers Volume 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Leo Metal Covers Volume 3</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/216b3ae80bbb955b49b0c0ac2d2c64c8.png" alt="Cover for Leo Metal, Vol. 18" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Leo Metal, Vol. 18</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>
       </td>
       <td>1998-10</td>
@@ -861,7 +844,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/FdNqGAG9zRrWkvdg7OIc7d27WxGr2mgbT_lr0IGYlkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODg0/NjQtMTIzNzAzNzIx/MC5qcGVn.jpeg" alt="Cover for Peligro Inminente" style="max-width:120px; height:auto;" />
       </td>
@@ -881,7 +864,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>1999</td>
@@ -898,7 +881,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>1999</td>
@@ -934,7 +917,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
       </td>
       <td>2000</td>
@@ -968,7 +951,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
       </td>
       <td>2000-02</td>
@@ -986,7 +969,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b130230127213cc198feb97288a1b7a8.png" alt="Cover for 20+" style="max-width:120px; height:auto;" />
       </td>
@@ -1005,7 +988,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/O5cdRd_xqbpQDMVF78FKwzxEAmWpBekOPasl1Fg50fM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTMz/MTcxLTE2NzM3NzMy/NDAtNDg1Mi5qcGVn.jpeg" alt="Cover for Corazón de Metal" style="max-width:120px; height:auto;" />
       </td>
@@ -1024,7 +1007,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/5H21KNnLosnGxgxtTi0z8b942uUFaoEwCWQhSDyJzg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjc0/ODAtMTM2NDU4MzU1/NS05NzAyLmpwZWc.jpeg" alt="Cover for El Angel Caido" style="max-width:120px; height:auto;" />
       </td>
@@ -1043,7 +1026,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/juc6Uze2iRBRnRaANR_oBbF4yR26bvlLf492SsHtmIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTYw/MjAtMTQxODIzMDA4/Ny00NjkyLmpwZWc.jpeg" alt="Cover for Noche de Tormenta" style="max-width:120px; height:auto;" />
       </td>
@@ -1061,7 +1044,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/KYlFTxbDLTji2dyFlX-o0f3CiHSAK8YJuxKwopZfXyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTk2/NjUtMTU0MDM5MjY1/MC04NDY5LmpwZWc.jpeg" alt="Cover for Dimension IV" style="max-width:120px; height:auto;" />
       </td>
@@ -1099,7 +1082,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1323ba3e93e6f9f09c891b655ffca36.png" alt="Cover for Joven Para Morir" style="max-width:120px; height:auto;" />
       </td>
@@ -1154,7 +1137,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2003</td>
@@ -1173,7 +1156,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/35cf695e6d0b403e84d9622f7e5de35d.png" alt="Cover for Indomable" style="max-width:120px; height:auto;" />
       </td>
@@ -1191,7 +1174,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b2e149b1d0a44a4907a38e237fd0982.png" alt="Cover for Todos Somos Angeles" style="max-width:120px; height:auto;" />
       </td>
@@ -1210,7 +1193,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/W74gBqV-e6QWMlIucFGP14C93-Lg4lv2D-CWxBUU9A0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTE5/MjUtMTMwOTA5MzI4/MC5qcGVn.jpeg" alt="Cover for Autóctono" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,7 +1217,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
       </td>
       <td>2003</td>
@@ -1252,7 +1235,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
       </td>
       <td>2003-09-08</td>
@@ -1292,7 +1275,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/f2vhEP-FAfLGUrjQuWmb14Xn0JOHPjfgWqCVEsOPQxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MzI0/MjktMTQ0MTQwMTc2/OC01MjEyLmpwZWc.jpeg" alt="Cover for En Tierra Firme" style="max-width:120px; height:auto;" />
       </td>
@@ -1334,7 +1317,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>2005</td>
@@ -1355,7 +1338,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/4GCiD5zkbCasXFOqu8ZFuRI8q3gl0sGYT3obgqqCf0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTUy/Njc3LTE2MDg0NjM5/ODgtODg0NC5qcGVn.jpeg" alt="Cover for Demo 2005" style="max-width:120px; height:auto;" />
       </td>
@@ -1409,7 +1392,25 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/237ef7ae06394a4fb4a38c6d6c48c462.png" alt="Cover for Beyond the Sea" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-02-28</td>
+      <td>Dark Moor</td>
+      <td>Beyond the Sea</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
       <td>
       </td>
       <td>2006</td>
@@ -1463,7 +1464,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/hLpS5qAZvR8hbt1E41PaGZmYYG9gg41p0wVWjOJLrEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTk2/MjctMTI5MDQ0MDgw/MS5qcGVn.jpeg" alt="Cover for Thru The Shadows" style="max-width:120px; height:auto;" />
       </td>
@@ -1498,7 +1499,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/06787bd4638b411c854e941652ce3a54.png" alt="Cover for Tarot" style="max-width:120px; height:auto;" />
       </td>
@@ -1517,7 +1518,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
       </td>
       <td>2007-03</td>
@@ -1535,7 +1536,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/9OgUYWOdMC9Bob5rebQ0On56NvJkb_a_cA-CwTAId1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc2/Mzg1LTE1NDM2Njkw/MjMtNDQ4NC5qcGVn.jpeg" alt="Cover for Kaleya" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,7 +1589,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2008</td>
@@ -1607,7 +1608,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3a180b9abe241dc9f91497e824aa8c5.png" alt="Cover for Alma de Fuego" style="max-width:120px; height:auto;" />
       </td>
@@ -1627,7 +1628,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/frt5OUIFJ_IOo1ufYdYMlpZ6jwm4NHXqGm35Y3K_9KA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNzgy/ODYtMTQ1ODQ5Nzcx/OC03MzM2LmpwZWc.jpeg" alt="Cover for Jardim in erva" style="max-width:120px; height:auto;" />
       </td>
@@ -1651,7 +1652,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/863118e91ab76fc8b00978f1f126e06d.png" alt="Cover for Human" style="max-width:120px; height:auto;" />
       </td>
@@ -1686,7 +1687,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/h56duFmGqFyJV-CbegNTBfuyEHs-nkDyQtVNL6ajVUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzQ3/NTMtMTQwNzgxMDE5/MC0yMTYzLmpwZWc.jpeg" alt="Cover for Exmundus" style="max-width:120px; height:auto;" />
       </td>
@@ -1704,7 +1705,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/cBK8BCX6hf8N6U3aVjbtcJnEaQfvZ82I1ZQlXCfCXAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjU3/MzUtMTQ2OTcwNTQx/NS0zNjIxLmpwZWc.jpeg" alt="Cover for Cadenas De Odio" style="max-width:120px; height:auto;" />
       </td>
@@ -1743,7 +1744,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>2012-10-30</td>
@@ -1759,7 +1760,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/JvyRmPbYm0aFuGo3U-Wwe6nXZ6WpQ6cpaJqfAWauTFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzU1/OTk1LTE1NDEwODY0/MjItMjg5MC5qcGVn.jpeg" alt="Cover for Héroes" style="max-width:120px; height:auto;" />
       </td>
@@ -1782,7 +1783,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/v5vnB-oG_9Rw6JbY6XRbMEi_QzEb-rlvlxxe0JJxk30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTM1/NzQtMTQyNjA0MTY4/My0xNzAzLmpwZWc.jpeg" alt="Cover for El Cuarto Jinete" style="max-width:120px; height:auto;" />
       </td>
@@ -1801,7 +1802,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/AWlXdL_GklsutmqpTSg4pbg9VLZHrA6QbuK2YOcF1R4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODkw/NzYtMTQ5NzYwOTc2/My05MzI2LmpwZWc.jpeg" alt="Cover for Mar de Cuernos" style="max-width:120px; height:auto;" />
       </td>
@@ -1819,7 +1820,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2015-05-29</td>
@@ -1837,7 +1838,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b23fd24c603ab8241d6782f88bdfe2e7.png" alt="Cover for Leo Metal Covers Volume 6" style="max-width:120px; height:auto;" />
       </td>
@@ -1855,7 +1856,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a2ff26a3c04731cc775b0f00962e737.png" alt="Cover for Metal Covers, Vol. 13" style="max-width:120px; height:auto;" />
       </td>
@@ -1872,7 +1873,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a53d6387bbfe78c0c4008f8ebe23df77.png" alt="Cover for Metal Covers, Vol. 10" style="max-width:120px; height:auto;" />
       </td>
@@ -1906,7 +1907,7 @@ Spanish metal encompasses heavy metal music performed in Spanish or originating 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
       </td>
       <td>2024</td>
