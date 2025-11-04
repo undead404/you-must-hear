@@ -9,6 +9,10 @@ title: dark rock
 
 Last updated: <time datetime="2025-11-03T06:28:49.269Z">Mon Nov 03 2025 08:28:49 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic imagery, and introspective themes exploring heartbreak, despair, and existential darkness. The style emerged from the intersection of hard rock, gothic rock, and alternative metal, favoring emotional intensity over aggression. Characterized by brooding vocals, minor-key melodies, and shadowy production, it appeals to listeners drawn to romanticism tinged with darkness.
+
 ### 100 chronological releases
 
 <table>
@@ -1816,7 +1820,7 @@ Last updated: <time datetime="2025-11-03T06:28:49.269Z">Mon Nov 03 2025 08:28:49
       <td>
         <ul>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 14</li>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 25</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1990,7 +1994,7 @@ Last updated: <time datetime="2025-11-03T06:28:49.269Z">Mon Nov 03 2025 08:28:49
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 28</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 32</li>
         </ul>
       </td>
     </tr>
