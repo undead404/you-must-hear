@@ -9,6 +9,10 @@ title: electric guitar
 
 Last updated: <time datetime="2025-11-03T06:50:51.395Z">Mon Nov 03 2025 08:50:51 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Electric guitar refers to music prominently featuring the amplified, electronically-processed sound of guitar, ranging from clean, shimmering tones to heavily distorted textures. This tag spans multiple genres and eras, united by the instrument&#39;s capacity for sustained notes, expressive bends, and dynamic range that acoustic guitars cannot achieve. The electric guitar&#39;s versatility makes it central to rock, blues, jazz, and pop, serving as both rhythmic foundation and lead voice.
+
 ### 100 chronological releases
 
 <table>
@@ -1286,16 +1290,14 @@ Last updated: <time datetime="2025-11-03T06:50:51.395Z">Mon Nov 03 2025 08:50:51
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/EFnQ31sWivJ4yej4Hs34LTjByjRdyeo-VwVXHwvDV64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjQw/MjgtMTI4MzgyMDcy/NS5qcGVn.jpeg" alt="Cover for In The Studio" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/972ba92374be36db0b5db95d409fc642.png" alt="Cover for In The Studio" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Pan Sonic &amp; Keiji Haino</td>
       <td>In The Studio</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
         </ul>
       </td>
@@ -2203,5 +2205,5 @@ Last updated: <time datetime="2025-11-03T06:50:51.395Z">Mon Nov 03 2025 08:50:51
 - [pop]({{ "/tags/pop" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
 - [bass]({{ "/tags/bass" | relative_url }})
-- [ambient]({{ "/tags/ambient" | relative_url }})
 - [progressive rock]({{ "/tags/progressive-rock" | relative_url }})
+- [ambient]({{ "/tags/ambient" | relative_url }})

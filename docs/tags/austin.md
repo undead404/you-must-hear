@@ -9,6 +9,10 @@ title: austin
 
 Last updated: <time datetime="2025-11-04T09:30:28.724Z">Tue Nov 04 2025 11:30:28 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+The &quot;austin&quot; tag represents the eclectic, genre-blending music scene of Austin, Texas, known for its &quot;keep it weird&quot; ethos and diverse artistic community. This sound spans indie rock, blues, folk, and experimental music, unified by a raw, authentic approach that values artistic independence over commercial polish. Austin music embodies a laid-back yet creative spirit where musical boundaries blur and cross-pollination between styles is celebrated.
+
 ### 100 chronological releases
 
 <table>

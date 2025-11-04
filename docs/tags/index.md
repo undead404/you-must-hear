@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-04T11:19:52.600Z
+date: 2025-11-04T12:18:26.054Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T12:18:26.054Z">Tue Nov 04 2025 14:18:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [diy]({{ "tags/diy" | relative_url }}) | <time datetime="2025-11-04T12:18:26.054Z">Tue Nov 04 2025 14:18:26 GMT+0200 (Eastern European Standard Time)</time> |
 | [drum]({{ "tags/drum" | relative_url }}) | <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [death metal]({{ "tags/death-metal" | relative_url }}) | <time datetime="2025-11-04T11:11:51.109Z">Tue Nov 04 2025 13:11:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [industrial metal]({{ "tags/industrial-metal" | relative_url }}) | <time datetime="2025-11-04T11:10:51.075Z">Tue Nov 04 2025 13:10:51 GMT+0200 (Eastern European Standard Time)</time> |
@@ -604,7 +605,6 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
 | [ballet]({{ "tags/ballet" | relative_url }}) | <time datetime="2025-10-28T06:38:09.967Z">Tue Oct 28 2025 08:38:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [noisecore]({{ "tags/noisecore" | relative_url }}) | <time datetime="2025-10-28T06:37:46.133Z">Tue Oct 28 2025 08:37:46 GMT+0200 (Eastern European Standard Time)</time> |
 | [country blues]({{ "tags/country-blues" | relative_url }}) | <time datetime="2025-10-28T06:37:32.190Z">Tue Oct 28 2025 08:37:32 GMT+0200 (Eastern European Standard Time)</time> |
-| [diy]({{ "tags/diy" | relative_url }}) | <time datetime="2025-10-28T06:37:27.331Z">Tue Oct 28 2025 08:37:27 GMT+0200 (Eastern European Standard Time)</time> |
 | [outlaw country]({{ "tags/outlaw-country" | relative_url }}) | <time datetime="2025-10-28T06:37:22.374Z">Tue Oct 28 2025 08:37:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [merengue]({{ "tags/merengue" | relative_url }}) | <time datetime="2025-10-28T06:37:04.135Z">Tue Oct 28 2025 08:37:04 GMT+0200 (Eastern European Standard Time)</time> |
 | [memphis]({{ "tags/memphis" | relative_url }}) | <time datetime="2025-10-28T06:36:52.770Z">Tue Oct 28 2025 08:36:52 GMT+0200 (Eastern European Standard Time)</time> |
