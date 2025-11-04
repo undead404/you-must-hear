@@ -9,110 +9,2398 @@ title: ethno
 
 Last updated: <time datetime="2025-10-21T05:23:19.306Z">Tue Oct 21 2025 08:23:19 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Ethno encompasses music that draws from traditional folk and indigenous musical traditions from around the world, often blending them with contemporary production techniques. It emphasizes authentic cultural sounds, regional instruments, and native vocal styles while making them accessible to global audiences. The tag captures both pure world music explorations and modern fusions that bridge ancient heritage with electronic, ambient, or pop elements.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 1 |  |  | Lowhum | Ethnomation |
-| 18 |  |  | Apples From Mars | Apple Number One |
-| 20 |  |  | Андрей Байкалец | Раю мой Раю (2001) |
-| 21 |  |  | Юстус | Песни Бесконечности |
-| 40 |  |  | Gong Kebyar of Peliatan | Bali: Court Music and Banjar Music |
-| 45 |  |  | Huun Hur Tu feat. Sainkho | Mother Earth! Father Sky! |
-| 49 |  |  | Baka Pygmies | Cameroon: Baka Pygmy Music |
-| 56 |  |  | Vedan Kolod | Plemena (Tribes) |
-| 62 |  |  | Castro and the Didgecrew | Live-Walkabout 2007 Castro and the Didgecrew |
-| 63 |  |  | Castro and the Didgecrew | Cross Over - Didgeridoo |
-| 68 |  |  | Bayanihan Philippine Dance Company | Christmas In the Philippines |
-| 43 |  | 1969 | Holger Czukay &amp; Rolf Dammers | Canaxis |
-| 36 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1972 | Various Artists | Indian Music of Mexico |
-| 48 |  | 1972 | Various Artists | Makedonija Zasekogash |
-| 30 | ![Cover](https://i.discogs.com/O1LDgjxHr_-A8LKBQw-Eas0UAyQ0_1OYrUrNEFmVbBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2OTM5/My0xMzM5NzM3Nzgx/LTE0NzEuanBlZw.jpeg) | 1982 | Rick James | Disco Funk Fever |
-| 82 |  | 1986 | Babatunde Olatunji | Drums of Passion: The Beat |
-| 11 | ![Cover](https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg) | 1987 | Various Artists | Nordic Roots 3 |
-| 51 | ![Cover](https://i.discogs.com/76Md6WQjhxLY6rngVLtL2wiEGxfT5CEDowRuq4NcKqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA1/MTg3LTE1MTM4MzE4/MDYtOTgzNi5wbmc.jpeg) | 1987 | Ustad Ali Akbar Khan | Passing On The Tradition [Live] |
-| 26 | ![Cover](https://i.discogs.com/4d2RlzA8L0aSgX2zhdhOTJFgqzFJPXtxSv1EqZx2W5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDQ1/MDgtMTMyOTA3OTA5/My5qcGVn.jpeg) | 1991 | Frifot | Frifot |
-| 35 |  | 1991 | László Hortobágyi | Traditional Music of Amygdala |
-| 85 |  | 1994 | Anastasia | Before the Rain |
-| 93 | ![Cover](https://i.discogs.com/1C0Bw35_TtsJP-1hb7lK6J6ysNSS1K2f3RPQk-KAkbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTM0/Ny0xNTkwMTA5OTk5/LTgzODEuanBlZw.jpeg) | 1994 | Huun-Huur-Tu | The Orphan&#39;s Lament |
-| 57 | ![Cover](https://i.discogs.com/hVk1nFZIIZE4mXIb_JEudbB6msiEdFHPWX8s7hSHxpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDk4/NTgtMTU4MjQwNjA4/OS04MTgxLmpwZWc.jpeg) | 1995 | Annbjørg Lien | Felefeber (Norwegian Fiddle Fantasia) |
-| 96 |  | 1995 | Axiom Of Choice | Beyond Denial |
-| 86 | ![Cover](https://i.discogs.com/dDc4rpQ1MHRjKRHs6Yaa5BH2A-rYZTKoNzdXEI43uBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Mjk5/OC0xMTQ1NDczMzYw/LmpwZWc.jpeg) | 1997 | Dreamcatcher | Dreamcatcher |
-| 87 | ![Cover](https://i.discogs.com/4AkJXQucPnuLrcXo58MSrNiFh0xszrkBM9Kpf_LrKkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mjcx/LTEyMDUwMTI4MzEu/anBlZw.jpeg) | 1997 | Uman | Purple Passage |
-| 42 | ![Cover](https://i.discogs.com/9Ns2O_ILd83qX6YMQCQD8w_h4TYF5ofacKp8GdTL5Nw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg1/OTQtMTI3NDAzNDM5/OS5qcGVn.jpeg) | 1998 | Vlatko Stefanovski &amp; Miroslav Tadic | Treta majka |
-| 95 | ![Cover](https://i.discogs.com/nRFOhBxoShyOPSWRomFyHncsucwWMGTvkHCXnRw6VrI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDYw/NTEtMTQ4MTQ3Mjg5/MS0zMDc4LmpwZWc.jpeg) | 1998 | Anna Maria Jopek | ID - International |
-| 100 |  | 1999-04-19 | Faithless | Bring My Family Back |
-| 37 |  | 2000 | Orkiestra Św. Mikołaja | Z Dawna Dawnego |
-| 73 | ![Cover](https://i.discogs.com/muZIvAmf3l4XdGPbHDvLncQuxP6i-Tnu6Ezg0J7jR1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzM5/OTgtMTIzNTIwODQ5/NS5qcGVn.jpeg) | 2000-06-28 | Foltin | Archimed |
-| 67 | ![Cover](https://i.discogs.com/nzNF-Q3iVhQFWc4Lopz5sIdZ3XHx4hNOK4SHJZINkWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTMx/ODEyLTE2MzYzNjU0/OTMtNDc3Mi5qcGVn.jpeg) | 2001 | Spirit Nation | Winter Moons |
-| 70 | ![Cover](https://i.discogs.com/k7WoiklphUU-jD-tnFmDxZkYpYOBDwxCJaZExuuPSGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODY0/NzIyLTE1ODMwNjgx/NTYtNTQyMy5qcGVn.jpeg) | 2001-07 | Ash Dargan | Breath Of Man |
-| 4 | ![Cover](https://i.discogs.com/SZoPs9yxfIvENZh5kMpEEHfQs798S3Bc7fwFKvEPfCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjMx/NDYtMTQ2MTAwOTc5/MS0yMzMzLmpwZWc.jpeg) | 2002 | Птица Тылобурдо | Концерт в театре Колесо |
-| 61 | ![Cover](https://i.discogs.com/sS_035iMUCNZ44mnKFPbNSaHKy4bPSsJiqTt5Qi5eno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTY3/MTAtMTQ3ODQ2NzQ3/MS0yNTc4LmpwZWc.jpeg) | 2003 | Umkulu | Kungulu |
-| 76 |  | 2003-06-10 | Shiva in Exile | Ethnic |
-| 9 | ![Cover](https://i.discogs.com/vQYA-e_dfQ-dsx7PXy2ahg5MTBQw3rsLpFOpy5OD14Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDY4/OTU4LTE1MzU5MDA2/NTAtNDQ3My5qcGVn.jpeg) | 2004 | Sanctity | In the Name of the Mother the Daughter and the Holy Will |
-| 71 |  | 2004 | Ratnabali | India |
-| 81 | ![Cover](https://i.discogs.com/R1GbQf-L6nxAAFCAbB1xcTjVTcyxp0-MoKDIOsnEKfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYw/NDQtMTQ3ODUwNTA4/Ni03OTkwLmpwZWc.jpeg) | 2004 | Atalyja | Močia |
-| 72 | ![Cover](https://i.discogs.com/gIMiZJhp_zp06etVeATRKdUnnecJTWk6dd6ZDshebxc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTgy/NTktMTQ2NjA2OTk5/NS0zMTUzLmpwZWc.jpeg) | 2004-08 | Yerba Mater | Raga Praga |
-| 79 |  | 2004-10-29 | Gaudi | Bass Sweat &amp; Tears |
-| 88 |  |  | Warsaw Village Band | Wiosna Ludu |
-| 90 |  | 2000-11-27 | Deep Forest | Pacifique |
-| 97 |  | 2001 | Warsaw Village Band | People&#39;s Spring |
-| 98 | ![Cover](https://i.discogs.com/dyhcp2BzDoM8NmDyU2_9_jX5-G8a3LQ_ut7fyhjo-po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTUx/OC0xNDk1MzcyNjgz/LTIzNDAuanBlZw.jpeg) | 2003-09-29 | Oi Va Voi | Laughter Through Tears |
-| 69 | ![Cover](https://i.discogs.com/DYF4fEPc-uri_D0Se_zzNMYCpR0KgA6_woUbmQp2pNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTc1/NC0xMzg5NDU4Njk5/LTYwMDIuanBlZw.jpeg) | 2005 | Atman | The Traveler |
-| 78 | ![Cover](https://i.discogs.com/bEjXRHE13k1TjAwAFOKWy26DEwnyNDvoBGDns1KKFSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDYz/MjEtMTM3NzM1OTk4/Mi0zMjI4LmpwZWc.jpeg) | 2005 | Spiritual | Pulse |
-| 12 | ![Cover](https://i.discogs.com/FCGebGUmZJNZr8EQCs6LJwiFmNYzoAb8VgoBXwPYRE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDk4/NjEtMTY4NDc1OTQy/OC03OTMzLmpwZWc.jpeg) | 2006 | Susanne Lundeng | Nattevåk |
-| 80 | ![Cover](https://i.discogs.com/k1W_I7akCKs0mWmhvWN7NUevYAhSluxYUHPLojgSDLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDA3/OC0xMTU0OTgyNjc2/LmpwZWc.jpeg) | 2006 | Askura Alexander Shkuratov | From Nowhere |
-| 94 |  | 2006 | Modus | The Colour of Love |
-| 64 |  | 2006-04-12 | Askura Alexander Shkuratov | TO THE LIGHT |
-| 55 | ![Cover](https://i.discogs.com/PnvhOyX7ZXx8_8dt_Rw30O9loOmVABTP5fBhKnzMWh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzAw/MTktMTM1MjkwNTIw/MC02NjY5LmpwZWc.jpeg) | 2007 | KATAN | Katan |
-| 77 |  | 2007 | Warsaw Village Band | Upmixing |
-| 92 |  | 2007-10-26 | Al Andaluz Project | Deus et Diabolus |
-| 39 | ![Cover](https://i.discogs.com/nzTfxzbi3bCGn51P_TzcnZWfopeWvoQpxl25l9xGpYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTY4/MDc4LTE1ODQ4NzIy/MDEtMzg4Ni5qcGVn.jpeg) | 2008 | Papa Wemba | New Morning |
-| 52 | ![Cover](https://i.discogs.com/TUIRXg2Ir6_DDyyk396OxWtRzb-lXUKxbVX9Dm0zgbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Njcw/OTYtMTQ2MjE4MDg1/MS0xNDA3LmpwZWc.jpeg) | 2008 | Toše Proeski | Bozilak |
-| 83 | ![Cover](https://i.discogs.com/x2J7qMl4yy4HyfOREvEfY_FHV-GGGgd_BCeqy3Ndsdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTMx/MzUtMTQzNzc3MTA3/OS03ODE0LmpwZWc.jpeg) | 2008 | Emir Hot | Sevdah Metal |
-| 84 | ![Cover](https://i.discogs.com/RgyhnlNkEAVxFqMOtYWjgxW5VqKUfB1hnCP4tfBJjJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDM0/OTItMTI5NzI2MjEz/Ny5qcGVn.jpeg) | 2008-09 | Kapela ze wsi Warszawa | Infinity |
-| 7 | ![Cover](https://i.discogs.com/AU2532b2RU3i2QBwDjyb-eL_jNki3L6tDaZFKjdUJK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjIy/NzYtMTM5NTY2MTY0/Ni05NDQ4LmpwZWc.jpeg) | 2008-12-10 | Afion | Čudni svati |
-| 58 |  | 2009 | Atalyja | Saula Riduolėla |
-| 65 |  | 2009 | Mystica | Second Dive |
-| 91 | ![Cover](https://i.discogs.com/mTDQnK7u0WJ_5NGySrGVuu-rjp5GnkXEXH37nFYXkpQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjEy/NDEtMTQyMzI2MTcy/My0yMzYyLmpwZWc.jpeg) | 2009 | Inga &amp; Anush | Heartbeat of My Land |
-| 3 | ![Cover](https://i.discogs.com/i4MZpFqsyX9Ogq9ivfzpQIiGjnkS9Fuv8TzsgBlAOqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDAx/NTQtMTI4NDE2ODc2/NC5qcGVn.jpeg) | 2009-07-20 | Mindex | SPIRITS GATHERING EP |
-| 14 |  |  | МГИЭТ | Концерт в Миноритенкихе, г.Кёльн |
-| 15 | ![Cover](https://i.discogs.com/diauvrel2je2ukzGl00AaQl8ub7k2KAMFFpYHQ_uadc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjMz/MDQtMTM2ODQ3MDk2/MS02ODA0LmpwZWc.jpeg) | 1999 | Волга | Volga |
-| 23 | ![Cover](https://i.discogs.com/zV8GECLk7YCyNgyBG8Gp900tY0xuTXrhuq2euzUiInw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTUw/LTE1MjEwMTAyNTMt/MjM2Ni5qcGVn.jpeg) | 2001-09-01 | Ikarus | Praying To Different Gods |
-| 50 |  |  | Aka Pygmies | Aka Pygmy Music |
-| 34 | ![Cover](https://i.discogs.com/vMspJ9PNKO4boQ_g6GvdcH_6TLxG2mx_Iab_JGt5kls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDc0/NDkyLTE1ODYzNTY3/MjQtNzcxNy5qcGVn.jpeg) | 2004 | Osimira | PROSHCHA (прошча) 2004 |
-| 47 | ![Cover](https://i.discogs.com/Km4oH1lHfQenptVc8XiB9rdIIBOovd9pqLMJ-o_f6PU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDQz/MTY5LTE2MDI0MjM5/MzMtNTA4MC5wbmc.jpeg) | 2006 | Algor Mortis | Circle Of Fire |
-| 25 |  | 2008-08-04 | NEIZAN | Beijing 2008 |
-| 44 | ![Cover](https://i.discogs.com/7PpMxAPhFxG6-7OeR8uq52KBu8aT0n4N4jketfS_xhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjMw/MTUtMTI1MjcwMjI5/NS5qcGVn.jpeg) | 2009 | Dubravko Lapaine | Kosmopterix |
-| 99 |  | 2009-10-05 | Yasmin Levy | Sentir |
-| 60 | ![Cover](https://i.discogs.com/_H_8kAcpxczS9erbUcwVwO5yyg0pUYDqJrjMqcbnAB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDE3/NjItMTQ0MTEyMTQw/MC05NjA0LmpwZWc.jpeg) | 2011 | Volosi | Wolosi I Lasoniowie |
-| 33 | ![Cover](https://i.discogs.com/oLkl7QIcWByJeMZ_-jdyB12ezVfiBTOwixhQoMxKtJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzA0/NzQ2LTE1Nzk5OTA0/NTgtNzk2Mi5tcG8.jpeg) | 2012 | Khaossia | De Migratione |
-| 13 | ![Cover](https://i.discogs.com/5c5bJdPq8tlatv0qOgYmTCAlUlLUn2WsIqYY-duFar0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTQw/MjEtMTM4MDQ1OTU0/Ny0zOTk3LmpwZWc.jpeg) | 2013 | Aherusia | As I Cross The Seas Of My Soul |
-| 53 | ![Cover](https://i.discogs.com/_9EvjnLOJD21h_8398Fa27avLsdwtFIYZAENokMBo_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODY0/NjYtMTQwMDI2NjIy/Ny00MDcwLmpwZWc.jpeg) | 2013-09-14 | Dzivia | Žniajar Mrojaŭ (Dream Reaper) |
-| 66 | ![Cover](https://i.discogs.com/y1NehT94evaSqK_OEw03bXkvvvEHxR2URmFouq-E5RA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODQ3/NDQtMTQ1ODYyNTc4/NS03MDI2LmpwZWc.jpeg) | 2015 | Daliborovo Granje | Daliborovo Granje |
-| 75 | ![Cover](https://i.discogs.com/6MsN7RlE7iS8ix19kJl-w5jjcAt00yQnjkEaakqgFaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODMx/NjYtMTU2NDQ0ODU4/NC03ODk1LmpwZWc.jpeg) | 2015-04 | Karolina | Makedonsko Devojče |
-| 6 | ![Cover](https://i.discogs.com/ku12xDaPcTPx7wynpsXfpw3QZBa_Ov3S2MVCRjEqK5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTAy/MTMtMTQ2NDY0MDA3/NC05MjI3LmpwZWc.jpeg) | 2016 | Folkbeat | Светлая Встреча |
-| 54 | ![Cover](https://i.discogs.com/kyYeYjYMxu-kLdcO38sC7m8f9b27_JkhsO4FVSLwMw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzI4/NzA0LTE0OTU0MDU5/MTYtMzA0MS5qcGVn.jpeg) | 2017-05-20 | Olga Scotland | Крадущийся |
-| 89 | ![Cover](https://i.discogs.com/UaHFIOEWO6nKaB4rd3yrQpCKTk6x9n366uEh-Crspfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk1/MTI4LTE1ODUyNTEx/ODItNjc2MS5qcGVn.jpeg) | 2019-02-15 | Этносфера | Та русь |
-| 59 | ![Cover](https://i.discogs.com/mioqlzRCJyBQssaD4koIMtZrPQaqKUsceKfdOAPA1fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDE3/Nzk4LTE2OTIzMTk4/NTYtNzY0NC5qcGVn.jpeg) | 2019-07-30 | Modus | The Earth Beneath Our Feet |
-| 74 | ![Cover](https://i.discogs.com/mOHKAI-PUwL_2SEC1agqtYKls8w4eOCjp12BZjG32d8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTc2/OTU0LTE2MjI1ODAy/NjktMjI0Ny5qcGVn.jpeg) | 2020-12-01 | Kirill Bogomilov | Slavic Heroic Music |
-| 5 | ![Cover](https://i.discogs.com/0NwD8TnmVhicqm1mmg33teWKWNe0KIfilMtH0bLezUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDgw/MzA5LTE2NzExOTEz/MzUtODA5OS5qcGVn.jpeg) | 2022-01-21 | Luca Congedo | Dialogo (live) |
-| 16 |  |  | Jecks | Juice Box |
-| 17 |  | 2001-01-01 | Nitin Sawhney | Prophesy |
-| 27 |  |  | МГИЭТ | Русские народные песни |
-| 28 |  |  | Vietnamese National Song and Dance Ensemble | Songs and Dances of Vietnam |
-| 32 | ![Cover](https://i.discogs.com/ATSEDNkW_ocm53FuHQ85z0icBqG-G4U6P1fSoABtZ6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzk0/MDMtMTM3MTg2MzY5/Mi0xNTM3LmpwZWc.jpeg) | 2010 | ВеданЪ КолодЪ | У Кривой Дороги |
-| 41 | ![Cover](https://i.discogs.com/ntz-IT9F8Zrj6oScoTAzEAP-0FN43mj9ePmYst89-zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzQ3/MjItMTQ3MjU3NDA1/OC04OTYwLmpwZWc.jpeg) | 2010 | Janusz Prusinowski Trio | Serce - Heart |
-| 38 | ![Cover](https://i.discogs.com/bslDljjZ33lAvv4Vge40HstcSfTrjQ0CzHqHWI2GIVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ2/OTQ3LTE1MjE2Nzc1/MDctNzIwNC5qcGVn.jpeg) | 2011 | FullSet | Notes At Liberty |
-| 46 | ![Cover](https://i.discogs.com/Mq-qGg2hVJG5mDm-68w_jk_qJy5LzzorZ2U9oGfFAqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg0/Njc1LTE1NDE4ODM4/MDYtNDA4My5qcGVn.jpeg) | 2012 | ALFIDA | No comments |
-| 29 | ![Cover](https://i.discogs.com/tl8PSNmlqSFKNlG4QatPiH4Bbd6onMDrHo2Whiq8CVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDQw/NTgtMTQyMTY1Njg4/OC04NDIxLmpwZWc.jpeg) | 2014-12 | Diskreetse Mango Trio | Hea mees (single) |
-| 31 | ![Cover](https://i.discogs.com/CDkVECTcL3Q_JTRo8cAr56Ysv8Bp3SOpckM6kpHoHpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY3/OTM0LTE1OTkyNTk0/MTUtMzA5Ni5qcGVn.jpeg) | 2014-12-19 | Sonam Dorji | Music from the Mountains of Bhutan |
-| 2 |  | 2023 | Various Artists | Tuva: Voices from the Center of Asia |
-| 8 | ![Cover](https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg) | 2023 | Various Artists | Indonesia: Music from West Java |
-| 10 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 2023 | Various Artists | Music of Indonesia |
-| 22 |  | 2023 | Various Artists | Instrumental Music of the Kalahari San |
-| 24 |  | 2023 | Various Artists | Wolof Music of Senegal and the Gambia |
-| 19 | ![Cover](https://i.discogs.com/ZcM1FSV-U_OOe5Z6m_BxtcaE6LLxU4yirIscmCeGqcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk4/MzExLTE1OTYxMjMy/MTEtNDk4MC5qcGVn.jpeg) | 2023-04-15 | Mile Kolarov | Ezgije |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td>1969</td>
+      <td>Holger Czukay &amp; Rolf Dammers</td>
+      <td>Canaxis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td>1972</td>
+      <td>Various Artists</td>
+      <td>Makedonija Zasekogash</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Indian Music of Mexico" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Various Artists</td>
+      <td>Indian Music of Mexico</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/O1LDgjxHr_-A8LKBQw-Eas0UAyQ0_1OYrUrNEFmVbBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2OTM5/My0xMzM5NzM3Nzgx/LTE0NzEuanBlZw.jpeg" alt="Cover for Disco Funk Fever" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982</td>
+      <td>Rick James</td>
+      <td>Disco Funk Fever</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jam" | relative_url }}">jam</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/motown" | relative_url }}">motown</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 24</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>1986</td>
+      <td>Babatunde Olatunji</td>
+      <td>Drums of Passion: The Beat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/76Md6WQjhxLY6rngVLtL2wiEGxfT5CEDowRuq4NcKqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA1/MTg3LTE1MTM4MzE4/MDYtOTgzNi5wbmc.jpeg" alt="Cover for Passing On The Tradition [Live]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Ustad Ali Akbar Khan</td>
+      <td>Passing On The Tradition [Live]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/india" | relative_url }}">india</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg" alt="Cover for Nordic Roots 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Various Artists</td>
+      <td>Nordic Roots 3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td>1991</td>
+      <td>László Hortobágyi</td>
+      <td>Traditional Music of Amygdala</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 7</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/4d2RlzA8L0aSgX2zhdhOTJFgqzFJPXtxSv1EqZx2W5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDQ1/MDgtMTMyOTA3OTA5/My5qcGVn.jpeg" alt="Cover for Frifot" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Frifot</td>
+      <td>Frifot</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Anastasia</td>
+      <td>Before the Rain</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/1C0Bw35_TtsJP-1hb7lK6J6ysNSS1K2f3RPQk-KAkbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTM0/Ny0xNTkwMTA5OTk5/LTgzODEuanBlZw.jpeg" alt="Cover for The Orphan&#39;s Lament" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Huun-Huur-Tu</td>
+      <td>The Orphan&#39;s Lament</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>Axiom Of Choice</td>
+      <td>Beyond Denial</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/hVk1nFZIIZE4mXIb_JEudbB6msiEdFHPWX8s7hSHxpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDk4/NTgtMTU4MjQwNjA4/OS04MTgxLmpwZWc.jpeg" alt="Cover for Felefeber (Norwegian Fiddle Fantasia)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Annbjørg Lien</td>
+      <td>Felefeber (Norwegian Fiddle Fantasia)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/dDc4rpQ1MHRjKRHs6Yaa5BH2A-rYZTKoNzdXEI43uBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Mjk5/OC0xMTQ1NDczMzYw/LmpwZWc.jpeg" alt="Cover for Dreamcatcher" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Dreamcatcher</td>
+      <td>Dreamcatcher</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/india" | relative_url }}">india</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/4AkJXQucPnuLrcXo58MSrNiFh0xszrkBM9Kpf_LrKkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mjcx/LTEyMDUwMTI4MzEu/anBlZw.jpeg" alt="Cover for Purple Passage" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Uman</td>
+      <td>Purple Passage</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/9Ns2O_ILd83qX6YMQCQD8w_h4TYF5ofacKp8GdTL5Nw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg1/OTQtMTI3NDAzNDM5/OS5qcGVn.jpeg" alt="Cover for Treta majka" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Vlatko Stefanovski &amp; Miroslav Tadic</td>
+      <td>Treta majka</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a> # 47</li>
+            <li> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/nRFOhBxoShyOPSWRomFyHncsucwWMGTvkHCXnRw6VrI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDYw/NTEtMTQ4MTQ3Mjg5/MS0zMDc4LmpwZWc.jpeg" alt="Cover for ID - International" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Anna Maria Jopek</td>
+      <td>ID - International</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/diauvrel2je2ukzGl00AaQl8ub7k2KAMFFpYHQ_uadc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjMz/MDQtMTM2ODQ3MDk2/MS02ODA0LmpwZWc.jpeg" alt="Cover for Volga" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Волга</td>
+      <td>Volga</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td>1999-04-19</td>
+      <td>Faithless</td>
+      <td>Bring My Family Back</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 23</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Orkiestra Św. Mikołaja</td>
+      <td>Z Dawna Dawnego</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/muZIvAmf3l4XdGPbHDvLncQuxP6i-Tnu6Ezg0J7jR1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzM5/OTgtMTIzNTIwODQ5/NS5qcGVn.jpeg" alt="Cover for Archimed" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-06-28</td>
+      <td>Foltin</td>
+      <td>Archimed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dada" | relative_url }}">dada</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a> # 90</li>
+            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>2000-11-27</td>
+      <td>Deep Forest</td>
+      <td>Pacifique</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/nzNF-Q3iVhQFWc4Lopz5sIdZ3XHx4hNOK4SHJZINkWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTMx/ODEyLTE2MzYzNjU0/OTMtNDc3Mi5qcGVn.jpeg" alt="Cover for Winter Moons" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Spirit Nation</td>
+      <td>Winter Moons</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>Warsaw Village Band</td>
+      <td>People&#39;s Spring</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+      </td>
+      <td>2001-01-01</td>
+      <td>Nitin Sawhney</td>
+      <td>Prophesy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/k7WoiklphUU-jD-tnFmDxZkYpYOBDwxCJaZExuuPSGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODY0/NzIyLTE1ODMwNjgx/NTYtNTQyMy5qcGVn.jpeg" alt="Cover for Breath Of Man" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-07</td>
+      <td>Ash Dargan</td>
+      <td>Breath Of Man</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australia" | relative_url }}">australia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 8</li>
+            <li> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/zV8GECLk7YCyNgyBG8Gp900tY0xuTXrhuq2euzUiInw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTUw/LTE1MjEwMTAyNTMt/MjM2Ni5qcGVn.jpeg" alt="Cover for Praying To Different Gods" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-09-01</td>
+      <td>Ikarus</td>
+      <td>Praying To Different Gods</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/SZoPs9yxfIvENZh5kMpEEHfQs798S3Bc7fwFKvEPfCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjMx/NDYtMTQ2MTAwOTc5/MS0yMzMzLmpwZWc.jpeg" alt="Cover for Концерт в театре Колесо" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Птица Тылобурдо</td>
+      <td>Концерт в театре Колесо</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/sS_035iMUCNZ44mnKFPbNSaHKy4bPSsJiqTt5Qi5eno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTY3/MTAtMTQ3ODQ2NzQ3/MS0yNTc4LmpwZWc.jpeg" alt="Cover for Kungulu" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Umkulu</td>
+      <td>Kungulu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australia" | relative_url }}">australia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td>2003-06-10</td>
+      <td>Shiva in Exile</td>
+      <td>Ethnic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 77</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/dyhcp2BzDoM8NmDyU2_9_jX5-G8a3LQ_ut7fyhjo-po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTUx/OC0xNDk1MzcyNjgz/LTIzNDAuanBlZw.jpeg" alt="Cover for Laughter Through Tears" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-09-29</td>
+      <td>Oi Va Voi</td>
+      <td>Laughter Through Tears</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 24</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 31</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td>2004</td>
+      <td>Ratnabali</td>
+      <td>India</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/india" | relative_url }}">india</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 23</li>
+            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/vQYA-e_dfQ-dsx7PXy2ahg5MTBQw3rsLpFOpy5OD14Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDY4/OTU4LTE1MzU5MDA2/NTAtNDQ3My5qcGVn.jpeg" alt="Cover for In the Name of the Mother the Daughter and the Holy Will" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Sanctity</td>
+      <td>In the Name of the Mother the Daughter and the Holy Will</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/vMspJ9PNKO4boQ_g6GvdcH_6TLxG2mx_Iab_JGt5kls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDc0/NDkyLTE1ODYzNTY3/MjQtNzcxNy5qcGVn.jpeg" alt="Cover for PROSHCHA (прошча) 2004" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Osimira</td>
+      <td>PROSHCHA (прошча) 2004</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/R1GbQf-L6nxAAFCAbB1xcTjVTcyxp0-MoKDIOsnEKfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYw/NDQtMTQ3ODUwNTA4/Ni03OTkwLmpwZWc.jpeg" alt="Cover for Močia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Atalyja</td>
+      <td>Močia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/gIMiZJhp_zp06etVeATRKdUnnecJTWk6dd6ZDshebxc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTgy/NTktMTQ2NjA2OTk5/NS0zMTUzLmpwZWc.jpeg" alt="Cover for Raga Praga" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-08</td>
+      <td>Yerba Mater</td>
+      <td>Raga Praga</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td>2004-10-29</td>
+      <td>Gaudi</td>
+      <td>Bass Sweat &amp; Tears</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/DYF4fEPc-uri_D0Se_zzNMYCpR0KgA6_woUbmQp2pNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTc1/NC0xMzg5NDU4Njk5/LTYwMDIuanBlZw.jpeg" alt="Cover for The Traveler" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Atman</td>
+      <td>The Traveler</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/bEjXRHE13k1TjAwAFOKWy26DEwnyNDvoBGDns1KKFSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDYz/MjEtMTM3NzM1OTk4/Mi0zMjI4LmpwZWc.jpeg" alt="Cover for Pulse" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Spiritual</td>
+      <td>Pulse</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/Km4oH1lHfQenptVc8XiB9rdIIBOovd9pqLMJ-o_f6PU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDQz/MTY5LTE2MDI0MjM5/MzMtNTA4MC5wbmc.jpeg" alt="Cover for Circle Of Fire" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Algor Mortis</td>
+      <td>Circle Of Fire</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hungary" | relative_url }}">hungary</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 15</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 38</li>
+            <li> <a href="{{ "/tags/hungary" | relative_url }}">hungary</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/k1W_I7akCKs0mWmhvWN7NUevYAhSluxYUHPLojgSDLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDA3/OC0xMTU0OTgyNjc2/LmpwZWc.jpeg" alt="Cover for From Nowhere" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Askura Alexander Shkuratov</td>
+      <td>From Nowhere</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asia" | relative_url }}">asia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japan" | relative_url }}">japan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 2</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 22</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Modus</td>
+      <td>The Colour of Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 2</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 38</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 42</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 46</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 63</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 66</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 73</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 77</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 88</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 89</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/FCGebGUmZJNZr8EQCs6LJwiFmNYzoAb8VgoBXwPYRE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDk4/NjEtMTY4NDc1OTQy/OC03OTMzLmpwZWc.jpeg" alt="Cover for Nattevåk" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Susanne Lundeng</td>
+      <td>Nattevåk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td>2006-04-12</td>
+      <td>Askura Alexander Shkuratov</td>
+      <td>TO THE LIGHT</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asia" | relative_url }}">asia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japan" | relative_url }}">japan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 31</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/PnvhOyX7ZXx8_8dt_Rw30O9loOmVABTP5fBhKnzMWh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzAw/MTktMTM1MjkwNTIw/MC02NjY5LmpwZWc.jpeg" alt="Cover for Katan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>KATAN</td>
+      <td>Katan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/magyar" | relative_url }}">magyar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/magyar" | relative_url }}">magyar</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Warsaw Village Band</td>
+      <td>Upmixing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td>2007-10-26</td>
+      <td>Al Andaluz Project</td>
+      <td>Deus et Diabolus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/TUIRXg2Ir6_DDyyk396OxWtRzb-lXUKxbVX9Dm0zgbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Njcw/OTYtMTQ2MjE4MDg1/MS0xNDA3LmpwZWc.jpeg" alt="Cover for Bozilak" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Toše Proeski</td>
+      <td>Bozilak</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/nzTfxzbi3bCGn51P_TzcnZWfopeWvoQpxl25l9xGpYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTY4/MDc4LTE1ODQ4NzIy/MDEtMzg4Ni5qcGVn.jpeg" alt="Cover for New Morning" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Papa Wemba</td>
+      <td>New Morning</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/x2J7qMl4yy4HyfOREvEfY_FHV-GGGgd_BCeqy3Ndsdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTMx/MzUtMTQzNzc3MTA3/OS03ODE0LmpwZWc.jpeg" alt="Cover for Sevdah Metal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Emir Hot</td>
+      <td>Sevdah Metal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td>2008-08-04</td>
+      <td>NEIZAN</td>
+      <td>Beijing 2008</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum" | relative_url }}">drum</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musical" | relative_url }}">musical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spain" | relative_url }}">spain</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 2</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 23</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 33</li>
+            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 34</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 43</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 45</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/RgyhnlNkEAVxFqMOtYWjgxW5VqKUfB1hnCP4tfBJjJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDM0/OTItMTI5NzI2MjEz/Ny5qcGVn.jpeg" alt="Cover for Infinity" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-09</td>
+      <td>Kapela ze wsi Warszawa</td>
+      <td>Infinity</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/AU2532b2RU3i2QBwDjyb-eL_jNki3L6tDaZFKjdUJK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjIy/NzYtMTM5NTY2MTY0/Ni05NDQ4LmpwZWc.jpeg" alt="Cover for Čudni svati" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-12-10</td>
+      <td>Afion</td>
+      <td>Čudni svati</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/7PpMxAPhFxG6-7OeR8uq52KBu8aT0n4N4jketfS_xhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjMw/MTUtMTI1MjcwMjI5/NS5qcGVn.jpeg" alt="Cover for Kosmopterix" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Dubravko Lapaine</td>
+      <td>Kosmopterix</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australia" | relative_url }}">australia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/mTDQnK7u0WJ_5NGySrGVuu-rjp5GnkXEXH37nFYXkpQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjEy/NDEtMTQyMzI2MTcy/My0yMzYyLmpwZWc.jpeg" alt="Cover for Heartbeat of My Land" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Inga &amp; Anush</td>
+      <td>Heartbeat of My Land</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 46</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 52</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Atalyja</td>
+      <td>Saula Riduolėla</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Mystica</td>
+      <td>Second Dive</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/i4MZpFqsyX9Ogq9ivfzpQIiGjnkS9Fuv8TzsgBlAOqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDAx/NTQtMTI4NDE2ODc2/NC5qcGVn.jpeg" alt="Cover for SPIRITS GATHERING EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-07-20</td>
+      <td>Mindex</td>
+      <td>SPIRITS GATHERING EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>2009-10-05</td>
+      <td>Yasmin Levy</td>
+      <td>Sentir</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/ATSEDNkW_ocm53FuHQ85z0icBqG-G4U6P1fSoABtZ6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzk0/MDMtMTM3MTg2MzY5/Mi0xNTM3LmpwZWc.jpeg" alt="Cover for У Кривой Дороги" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>ВеданЪ КолодЪ</td>
+      <td>У Кривой Дороги</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/ntz-IT9F8Zrj6oScoTAzEAP-0FN43mj9ePmYst89-zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzQ3/MjItMTQ3MjU3NDA1/OC04OTYwLmpwZWc.jpeg" alt="Cover for Serce - Heart" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Janusz Prusinowski Trio</td>
+      <td>Serce - Heart</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/bslDljjZ33lAvv4Vge40HstcSfTrjQ0CzHqHWI2GIVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ2/OTQ3LTE1MjE2Nzc1/MDctNzIwNC5qcGVn.jpeg" alt="Cover for Notes At Liberty" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>FullSet</td>
+      <td>Notes At Liberty</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/_H_8kAcpxczS9erbUcwVwO5yyg0pUYDqJrjMqcbnAB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDE3/NjItMTQ0MTEyMTQw/MC05NjA0LmpwZWc.jpeg" alt="Cover for Wolosi I Lasoniowie" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Volosi</td>
+      <td>Wolosi I Lasoniowie</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/oLkl7QIcWByJeMZ_-jdyB12ezVfiBTOwixhQoMxKtJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzA0/NzQ2LTE1Nzk5OTA0/NTgtNzk2Mi5tcG8.jpeg" alt="Cover for De Migratione" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Khaossia</td>
+      <td>De Migratione</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/Mq-qGg2hVJG5mDm-68w_jk_qJy5LzzorZ2U9oGfFAqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg0/Njc1LTE1NDE4ODM4/MDYtNDA4My5qcGVn.jpeg" alt="Cover for No comments" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>ALFIDA</td>
+      <td>No comments</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/5c5bJdPq8tlatv0qOgYmTCAlUlLUn2WsIqYY-duFar0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTQw/MjEtMTM4MDQ1OTU0/Ny0zOTk3LmpwZWc.jpeg" alt="Cover for As I Cross The Seas Of My Soul" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Aherusia</td>
+      <td>As I Cross The Seas Of My Soul</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/_9EvjnLOJD21h_8398Fa27avLsdwtFIYZAENokMBo_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODY0/NjYtMTQwMDI2NjIy/Ny00MDcwLmpwZWc.jpeg" alt="Cover for Žniajar Mrojaŭ (Dream Reaper)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-09-14</td>
+      <td>Dzivia</td>
+      <td>Žniajar Mrojaŭ (Dream Reaper)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 14</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 42</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/CDkVECTcL3Q_JTRo8cAr56Ysv8Bp3SOpckM6kpHoHpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY3/OTM0LTE1OTkyNTk0/MTUtMzA5Ni5qcGVn.jpeg" alt="Cover for Music from the Mountains of Bhutan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-12-19</td>
+      <td>Sonam Dorji</td>
+      <td>Music from the Mountains of Bhutan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asia" | relative_url }}">asia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/tl8PSNmlqSFKNlG4QatPiH4Bbd6onMDrHo2Whiq8CVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDQw/NTgtMTQyMTY1Njg4/OC04NDIxLmpwZWc.jpeg" alt="Cover for Hea mees (single)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-12</td>
+      <td>Diskreetse Mango Trio</td>
+      <td>Hea mees (single)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 71</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/y1NehT94evaSqK_OEw03bXkvvvEHxR2URmFouq-E5RA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODQ3/NDQtMTQ1ODYyNTc4/NS03MDI2LmpwZWc.jpeg" alt="Cover for Daliborovo Granje" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Daliborovo Granje</td>
+      <td>Daliborovo Granje</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/6MsN7RlE7iS8ix19kJl-w5jjcAt00yQnjkEaakqgFaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODMx/NjYtMTU2NDQ0ODU4/NC03ODk1LmpwZWc.jpeg" alt="Cover for Makedonsko Devojče" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-04</td>
+      <td>Karolina</td>
+      <td>Makedonsko Devojče</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/ku12xDaPcTPx7wynpsXfpw3QZBa_Ov3S2MVCRjEqK5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTAy/MTMtMTQ2NDY0MDA3/NC05MjI3LmpwZWc.jpeg" alt="Cover for Светлая Встреча" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Folkbeat</td>
+      <td>Светлая Встреча</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/kyYeYjYMxu-kLdcO38sC7m8f9b27_JkhsO4FVSLwMw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzI4/NzA0LTE0OTU0MDU5/MTYtMzA0MS5qcGVn.jpeg" alt="Cover for Крадущийся" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-05-20</td>
+      <td>Olga Scotland</td>
+      <td>Крадущийся</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/UaHFIOEWO6nKaB4rd3yrQpCKTk6x9n366uEh-Crspfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk1/MTI4LTE1ODUyNTEx/ODItNjc2MS5qcGVn.jpeg" alt="Cover for Та русь" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-02-15</td>
+      <td>Этносфера</td>
+      <td>Та русь</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/mioqlzRCJyBQssaD4koIMtZrPQaqKUsceKfdOAPA1fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDE3/Nzk4LTE2OTIzMTk4/NTYtNzY0NC5qcGVn.jpeg" alt="Cover for The Earth Beneath Our Feet" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-07-30</td>
+      <td>Modus</td>
+      <td>The Earth Beneath Our Feet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/india" | relative_url }}">india</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 29</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/mOHKAI-PUwL_2SEC1agqtYKls8w4eOCjp12BZjG32d8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTc2/OTU0LTE2MjI1ODAy/NjktMjI0Ny5qcGVn.jpeg" alt="Cover for Slavic Heroic Music" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-12-01</td>
+      <td>Kirill Bogomilov</td>
+      <td>Slavic Heroic Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/0NwD8TnmVhicqm1mmg33teWKWNe0KIfilMtH0bLezUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDgw/MzA5LTE2NzExOTEz/MzUtODA5OS5qcGVn.jpeg" alt="Cover for Dialogo (live)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-01-21</td>
+      <td>Luca Congedo</td>
+      <td>Dialogo (live)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Indonesia: Music from West Java" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Indonesia: Music from West Java</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 20</li>
+            <li> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a> # 23</li>
+            <li> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Music of Indonesia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Music of Indonesia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asia" | relative_url }}">asia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a> # 24</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Tuva: Voices from the Center of Asia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Instrumental Music of the Kalahari San</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Wolof Music of Senegal and the Gambia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/ZcM1FSV-U_OOe5Z6m_BxtcaE6LLxU4yirIscmCeGqcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk4/MzExLTE1OTYxMjMy/MTEtNDk4MC5qcGVn.jpeg" alt="Cover for Ezgije" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-04-15</td>
+      <td>Mile Kolarov</td>
+      <td>Ezgije</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td></td>
+      <td>МГИЭТ</td>
+      <td>Концерт в Миноритенкихе, г.Кёльн</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 17</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Jecks</td>
+      <td>Juice Box</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jam" | relative_url }}">jam</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 13</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Apples From Mars</td>
+      <td>Apple Number One</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/choral" | relative_url }}">choral</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 8</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 25</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 26</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Vietnamese National Song and Dance Ensemble</td>
+      <td>Songs and Dances of Vietnam</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vietnamese" | relative_url }}">vietnamese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/vietnamese" | relative_url }}">vietnamese</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Castro and the Didgecrew</td>
+      <td>Live-Walkabout 2007 Castro and the Didgecrew</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australia" | relative_url }}">australia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Castro and the Didgecrew</td>
+      <td>Cross Over - Didgeridoo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australia" | relative_url }}">australia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Lowhum</td>
+      <td>Ethnomation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Андрей Байкалец</td>
+      <td>Раю мой Раю (2001)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Юстус</td>
+      <td>Песни Бесконечности</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td></td>
+      <td>МГИЭТ</td>
+      <td>Русские народные песни</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Gong Kebyar of Peliatan</td>
+      <td>Bali: Court Music and Banjar Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Huun Hur Tu feat. Sainkho</td>
+      <td>Mother Earth! Father Sky!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Baka Pygmies</td>
+      <td>Cameroon: Baka Pygmy Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Aka Pygmies</td>
+      <td>Aka Pygmy Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Vedan Kolod</td>
+      <td>Plemena (Tribes)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Bayanihan Philippine Dance Company</td>
+      <td>Christmas In the Philippines</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Warsaw Village Band</td>
+      <td>Wiosna Ludu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

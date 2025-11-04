@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T20:54:57.492Z
+date: 2025-11-04T02:38:51.024Z
 permalink: tags/live-set
 title: live set
 ---
 
 ## live set
 
-Last updated: <time datetime="2025-11-02T20:54:57.492Z">Sun Nov 02 2025 22:54:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T02:38:51.024Z">Tue Nov 04 2025 04:38:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -2589,6 +2589,27 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2024-01-25</td>
+      <td>Solipsism</td>
+      <td>Live at Nice &#39;n Sleazy Glasgow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-set" | relative_url }}">live set</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>75</td>
       <td>
       </td>
@@ -2615,27 +2636,6 @@ A live set in music typically refers to a performance by a musician or group of 
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 18</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>DJ Chris K:ay</td>
-      <td>Infinity Mixes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-set" | relative_url }}">live set</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
