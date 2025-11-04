@@ -9,6 +9,10 @@ title: waltz
 
 Last updated: <time datetime="2025-11-03T06:38:30.853Z">Mon Nov 03 2025 08:38:30 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Waltz is characterized by its distinctive triple-time signature, creating a flowing one-two-three rhythm that has defined everything from 19th-century Viennese ballrooms to modern cinematic scores. This three-beat pattern naturally evokes circular, elegant movement, making it equally suited for classical orchestral works, vintage jazz reinterpretations, and intimate contemporary compositions. The form transcends genre boundaries while maintaining its graceful, rotating pulse that feels both timeless and adaptable across cultures and eras.
+
 ### 100 chronological releases
 
 <table>
@@ -673,7 +677,7 @@ Last updated: <time datetime="2025-11-03T06:38:30.853Z">Mon Nov 03 2025 08:38:30
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 6</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 7</li>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 9</li>
         </ul>
       </td>
@@ -1085,7 +1089,7 @@ Last updated: <time datetime="2025-11-03T06:38:30.853Z">Mon Nov 03 2025 08:38:30
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 14</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1823,7 +1827,6 @@ Last updated: <time datetime="2025-11-03T06:38:30.853Z">Mon Nov 03 2025 08:38:30
       <td>The Complete Serenades</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
