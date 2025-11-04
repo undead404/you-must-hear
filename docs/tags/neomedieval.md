@@ -9,110 +9,2207 @@ title: neomedieval
 
 Last updated: <time datetime="2025-10-22T03:59:35.928Z">Wed Oct 22 2025 06:59:35 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Neomedieval music reimagines the sounds and atmosphere of the Middle Ages through a contemporary lens, blending ancient instruments, modal melodies, and early music traditions with modern production techniques. The style evokes mystical, romantic visions of medieval Europe through folk instrumentation like hurdy-gurdies and recorders, often incorporating ethereal vocals and darkly atmospheric elements. It bridges historical authenticity with fantasy-inspired aesthetics, appealing to listeners drawn to both early music revival and gothic or folk sensibilities.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 41 |  | 1974 | Malicorne | Malicorne |
-| 92 | ![Cover](https://i.discogs.com/720hy8WA-XKN94nwRJyHDcO2jmV-HDzR0HJRYsgPgbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODQw/NzEtMTYwMjM0ODYw/OC05MDk4LmpwZWc.jpeg) | 1976 | Malicorne | Almanach |
-| 6 | ![Cover](https://i.discogs.com/7XPe0-pySlSgY0N1AJ-CwVkPde73jR2bsjpVWnerpeo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjIx/OTItMTI2NTI3NjA3/NC5qcGVn.jpeg) | 1977 | Les Menestriers | Le Bouvier |
-| 49 |  | 1977 | Malicorne | Nous sommes chanteurs de sornettes |
-| 82 |  | 1990-07-02 | Dead Can Dance | Aion |
-| 32 | ![Cover](https://i.discogs.com/UwTTJRcGPG663DKMczDkjNPlb9SBRzx9lI6NqjXFCIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDE0/My0xNDM4MTU4NzUz/LTMyNjIuanBlZw.jpeg) | 1992-01-08 | Qntal | Qntal I |
-| 27 | ![Cover](https://i.discogs.com/EnHlFtF86eQvGfk2d8C6fis-0Bj1VdtrExxFOAOOxlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTQw/NzAtMTMwMTMzMjgz/My5qcGVn.jpeg) | 1994-12-01 | JURI et LISA | All Things Are Quite Silent |
-| 14 |  | 1995 | Rosa†Crvx | Proficere |
-| 29 | ![Cover](https://i.discogs.com/nCrPFvv-wAb7Qlf2_VySrpWuRdgWi-cexfiBySV2ewI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzE1/OTAtMTUyNjI5NjM0/OC04NDU2LmpwZWc.jpeg) | 1995 | Grabesmond | In schwindendem Licht |
-| 31 |  | 1995 | Stille Volk | Ode aux lointains souverains |
-| 47 |  | 1995 | Sopor Aeternus &amp; The Ensemble of Shadows | Todeswunsch - Sous Le Soleil De Saturne |
-| 55 |  | 1996 | Ataraxia | Concerto No. 6: A Baroque Plaisanterie |
-| 79 | ![Cover](https://i.discogs.com/0xucgqdWWC4IbNv-Q1R7IQ4aXjBM2AqRVI8E6vxU8fE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc2/MDAtMTUyODU0ODk5/My01Njk5LmpwZWc.jpeg) | 1996 | Angelo Branduardi | Camminando camminando |
-| 3 |  | 1996-11-02 | Camerata Mediolanense | Campo di Marte |
-| 45 |  | 1997 | The Soil Bleeds Black | March of the Infidels |
-| 90 |  | 1997 | Stille Volk | Hantaoma |
-| 2 |  | 1997-04-23 | Blackmore&#39;s Night | Shadow Of The Moon |
-| 7 | ![Cover](https://i.discogs.com/OznnMZkVwA8LGt_zy7b46mWDVo0U44VyX8g9K1o_78k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDY4/NDEtMTI5Mjg3NTE5/My5qcGVn.jpeg) | 1998 | The Soil Bleeds Black | May the Blood of Many a Valiant Knight be Avenged |
-| 58 |  | 1998 | Ataraxia | Historiae |
-| 30 | ![Cover](https://i.discogs.com/MVyESA5KS30pjaWTmWp7jiIreUY1TkUgiohIvFF1AyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTAx/MTItMTU1MTM2Mzg3/MS04NTY5LmpwZWc.jpeg) | 1999 | Greg Joy | The Minstrel and the Maiden |
-| 61 | ![Cover](https://i.discogs.com/lhfENTWZpRu8UDCIalpNmc-hNVJDxMVeMVxgvtUOgic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjAw/NS0xMTQzNzM0Njc3/LmpwZWc.jpeg) | 2001 | Stille Volk | Satyre Cornu |
-| 77 |  | 2001-09-19 | Blackmore&#39;s Night | Minstrels and Ballads |
-| 8 |  | 2001-10 | Blood Axis &amp; In Gowan Ring | Witch-hunt: The Rites of Samhain |
-| 10 | ![Cover](https://i.discogs.com/RUTWrkp06RVxy_YvWCdHlElZubBTVlVaHZZwcFBF-So/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODQz/OS0xMTQzODMyOTE3/LmpwZWc.jpeg) | 2001-10-29 | Helium Vola | Helium Vola |
-| 15 |  |  | Ludmillus | Lebendig |
-| 16 | ![Cover](https://i.discogs.com/ZEI1fiplRXinzfBM6ABfP-K5h1qcOlM24_VHmfq5xKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTQz/NS0xNDUwODEzMzU0/LTYyMDMuanBlZw.jpeg) | 1996 | The Soil Bleeds Black | The kingdom &amp; its fey |
-| 39 | ![Cover](https://i.discogs.com/H4eNvdro4N07LGwTLwcmwAkqwlJ2ZhNuk-6w4mdigqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDQ1/MTctMTQwODMwNjgw/Mi02MDEzLmpwZWc.jpeg) | 2001 | Tri Yann | Le Pelegrin |
-| 17 | ![Cover](https://i.discogs.com/EpvVxrlZWcAI9WxyZKpeIP56OQaK1RMjhhl1q3umaF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg1/My0xMTU4OTcyODYy/LmpwZWc.jpeg) | 2001-03 | Ataraxia | Sueños |
-| 72 |  | 2001-11-28 | 志方あきこ | 緑の森で眠ル鳥 |
-| 84 | ![Cover](https://i.discogs.com/tUg-R2_-TjqNtrcWM8vxxhD4saQHjKCMNtrtT3Y955g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM2/NzItMTIxMzk2ODY3/NS5qcGVn.jpeg) | 2002 | In Gowan Ring | Hazel Steps Throug a Weathered Home |
-| 88 |  | 2002 | In Gowan Ring | Hazel Steps through a Weathered Home |
-| 64 | ![Cover](https://i.discogs.com/9AJcm_MXRNqmz2nrfqLsNohLrXxYYs3QHlw7bEmdyRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTgx/MS0xNDE4ODM3NDg1/LTQ2NTYuanBlZw.jpeg) | 2002-02-18 | Ataraxia | Mon Seul Désir |
-| 94 |  | 2002-02-18 | Estampie | Fin Amor |
-| 57 | ![Cover](https://i.discogs.com/tIR5ZzO_H7vixxGuvv8fLajBxrBE2WUGiImmslrkgso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODc5/OS0xNDQ3MDc3Mjcy/LTIyMDcuanBlZw.jpeg) | 2003 | Stille Volk | Maudat |
-| 95 |  | 2003 | Triskilian | TRISKILIAN |
-| 89 | ![Cover](https://i.discogs.com/lvDW_bqSU7ixgD7ipXKMweaYfmAD8H7E68Er9XGMEIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTQ3/MS0xMzgyMjAwNDAx/LTQ1NjguanBlZw.jpeg) | 2003-01 | Ordo Funebris | Cantar a la Morte: Fabula Triste |
-| 60 |  | 2003-08-24 | 志方あきこ | 廃墟と楽園 |
-| 38 | ![Cover](https://i.discogs.com/oXMbHPSd_xOGdw0QNKynFqrw9eW3kGepiOrwkYatab4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODE3/OC0xMTA5NDIxMjE5/LmpwZw.jpeg) | 2004 | The Soil Bleeds Black | Three Living, Three Dead |
-| 53 |  | 2004 | Lupercalia | Florilegium |
-| 73 | ![Cover](https://i.discogs.com/kaA0h4yVLjGjSFtpIiBfEtGQDs5ZVqVcWHwIeS4K23I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTg0/OC0xMjk0MTUzMzc5/LmpwZWc.jpeg) | 2004-04-14 | Ataraxia | Saphir |
-| 13 | ![Cover](https://i.discogs.com/-fQ1pu0kuE_NTyqcU9CIZXbbgFK8IMgnkfhuIRmZA94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTA3/ODYtMTQzNjc5NDI3/OS00MzEzLmpwZWc.jpeg) | 2005 | Luc Arbogast | Domus |
-| 25 | ![Cover](https://i.discogs.com/FbFF9SjMeoVVqeiyyAdYe-A3zWsow1tPIEom5jLRZwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MzIz/MjYtMTM5NTc5NzY1/NS0yMzA4LmpwZWc.jpeg) | 2005 | Gerald Jay Markoe | Ancient Ceremonies |
-| 85 |  | 2005 | Ataraxia | Arcana Eco |
-| 83 | ![Cover](https://i.discogs.com/Qev6G_kTMSzr89K8x8N38QyNxHeFDCl1YqHjoo1UhnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTQ4/My0xMjAwNDc5NDAx/LmpwZWc.jpeg) | 2005-02-14 | Trobar de Morte | Fairydust |
-| 80 | ![Cover](https://i.discogs.com/uNYyb1BDfGmi1I4RIRF6pD_ooqK4Ghcdp-qGa_MMj4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTA3/MTUtMTQxODU0OTMw/NC01MTQxLmpwZWc.jpeg) | 2005-03-01 | Peter Ulrich | Enter the Mysterium |
-| 98 | ![Cover](https://i.discogs.com/TwLcCuU1NQQRg9Y9aPAKYaZtNd0DT9IBsNs8-CoZxvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg0/ODEtMTY3NjA1NjA0/OC02NDY1LmpwZWc.jpeg) | 2005-03-29 | Rhapsody | The Magic of the Wizard&#39;s Dream |
-| 97 |  | 2005-07-18 | Mediæval Bæbes | Mirabilis |
-| 46 |  | 2006 | Birch Book | Fortune &amp; Folly |
-| 51 | ![Cover](https://i.discogs.com/x1YXTRP7jgMaYJ7ZuyZRuJUTgDOu2-BVyEb7Oc7On4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzE0/NzgtMTI5MDI0NTk5/Ny5qcGVn.jpeg) | 2006 | Espers | Espers II |
-| 87 |  | 2006 | The Soil Bleeds Black | Alchemie |
-| 69 |  | 2006-01-01 | Ana Alcaide | Viola De Teclas |
-| 75 | ![Cover](https://i.discogs.com/eUKd0L_sXYn_DA9_-2GH2lc10Usd5Oh7NW9JnOSdZLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQx/ODQtMTE4OTMzOTQ1/My5qcGVn.jpeg) | 2006-04 | Narsilion | Arcadia |
-| 59 |  | 2006-10-25 | 志方あきこ | Raka |
-| 26 | ![Cover](https://i.discogs.com/92kHSzRJTZZD2Jaj8DftiEV6ATIqXqIKk_fWQvRniy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTIx/OC0xMTM3NTM5OTYz/LmpwZWc.jpeg) | 2006-11 | Ataraxia | Os cavaleiros do templo |
-| 37 |  | 2007 | Luc Arbogast | Hortus Dei |
-| 66 | ![Cover](https://i.discogs.com/COnCyTrVmVkV3OcJjHvs02lz50adJ-Y_jTq-YO103dE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTY4/MzAtMTI1MDg2Mzc2/OS5qcGVn.jpeg) | 2007 | Triskilian | Do durch der werlde... |
-| 70 |  | 2007 | Ataraxia | Kremasta Nera |
-| 74 | ![Cover](https://i.discogs.com/ycZ2oW4AXVFG0KGDzLJqGOIEgDAOZumV2TNaN7a3RxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE1/MDEtMTE5NTQwNTI4/NC5qcGVn.jpeg) | 2007 | Sangre Cavallum | Veleno de Teixo |
-| 44 | ![Cover](https://i.discogs.com/kozfr-oEOfLflt6DCqEyaWFHf7PEP2nWDLVMjDaTtwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA5/NDktMTE4OTg3Njg0/NC5qcGVn.jpeg) | 2007-02 | Ataraxia | Sous Le Blanc Rosier |
-| 36 |  | 2008 | Duivelspack | Mal die Teufel an die Wand |
-| 65 | ![Cover](https://i.discogs.com/GkiXDTlBfhHEM1LDqJCttw8yoDgli102s7a3PzayVug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODky/ODUtMTIwNzMzMzgz/MC5qcGVn.jpeg) | 2008 | Narsilion | Namárië |
-| 67 |  | 2008 | Corvus Corax | Cantus Buranus - Das Orgelwerk |
-| 35 |  | 2008-02-28 | Faun | Faun and the Pagan Folk Festival: Live |
-| 100 |  | 2008-08-01 | Corvus Corax | Cantus Buranus II |
-| 71 |  | 2008-11-07 | Sava | Metamorphosis |
-| 20 | ![Cover](https://i.discogs.com/1-3J97g7BgIjuZnPFwbJMg9PNmPEpbuH8cgnU_PGvps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDM1/NjUtMTI1MTM1NDU1/Ni5qcGVn.jpeg) | 2009 | Lupercalia | Soehrimnir &amp; Mediestetica |
-| 52 | ![Cover](https://i.discogs.com/Ed_sZdB8E4bdDgqxgxl_-St9wFPhiWarMSnHYESaqm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTI2/OTQtMTI0NDk5Mjg2/My5qcGVn.jpeg) | 2009 | The Soil Bleeds Black | The Knightly Years |
-| 62 |  | 2009 | Luc Arbogast | Aux Portes De Sananda |
-| 86 |  | 2009 | Annwn | Aeon |
-| 48 | ![Cover](https://i.discogs.com/YM1JcyHH_r_EFzC1R-dMwJT42anreOauYcYF8OnG4VE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDk1/NjAtMTQyMTA1Nzg3/NC02NzQ3LmpwZWc.jpeg) | 2009-02-20 | Gny | Ærlig Pæl |
-| 96 | ![Cover](https://i.discogs.com/wgh4B5s5GzulubXdO7P2Nu0wg1JM0_ZNwiiQGBZ1tuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzIx/MDMtMTIzOTc4ODg4/MS5qcGVn.jpeg) | 2009-03-15 | The Moon and the Nightspirit | Osforras |
-| 42 |  | 2009-03-18 | 志方あきこ | Harmonia |
-| 40 |  | 2009-06 | Omasphère | Prélude |
-| 50 | ![Cover](https://i.discogs.com/ZzxXzn9xWVOcMU00vQf_lsRewG5Nx7inZDfxvPY2Y2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODE0/NTktMTI0OTgzNDEx/Ny5qcGVn.jpeg) | 2009-08-11 | Lisa Hammer | Dakini |
-| 78 |  | 2009-08-19 | 志方あきこ | 片翼の鳥 |
-| 68 |  | 2010-09-29 | 志方あきこ | 謳う丘 ～Ar&#x3D;Ciel Ar&#x3D;Dor～ |
-| 18 | ![Cover](https://i.discogs.com/Fp3B7gSAU9SrkJHJECCDDjVdPkkg6ICsx1vVvNL2CKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzc1/ODEtMTM1MzcxMDUy/Ni01MzYwLmpwZWc.jpeg) | 2010-12 | Mediæval Bæbes | Temptation |
-| 9 | ![Cover](https://i.discogs.com/R0_YaVRrdnDC1eZiOjVGMAtLw1NH7JWimJZ_2slyFZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA1/NTM4LTE1MDYyODQ0/MjMtMzg0NS5qcGVn.jpeg) | 2011-05-21 | Morgan the Bard | Lost In Time |
-| 33 |  | 2011-12-31 | 志方あきこ | Istoria~Kalliope~ |
-| 34 |  | 2012 | Luc Arbogast | Canticum in Terra |
-| 76 |  | 2012-04-20 | Vermaledeyt | SaltaNeo |
-| 63 | ![Cover](https://i.discogs.com/owWU1Zudk5hqv_d_IaIjvWYSQ6j_pkm1IrnVsFAUouM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTAz/ODAtMTM0ODIzMzEx/NC0xNTM2LmpwZWc.jpeg) | 2012-08-03 | Malicorne | Pierre De Grenoble |
-| 22 | ![Cover](https://i.discogs.com/4dltzSfFrqtINqR_oyZ4UDwsY_hDL2QAzT6ZwyLObgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjA3/NTAtMTM5NTUxMjg5/OC0xMzExLmpwZWc.jpeg) | 2013-01-01 | Luc Arbogast | Odysseus |
-| 21 | ![Cover](https://i.discogs.com/Jb6ezdnAdEyNwnEOTd9M63Ync2o3CotHRb1Z1IADNW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTEx/OTUtMTQxMjM1MTQz/Mi02NTUzLmpwZWc.jpeg) | 2014-05-02 | Stille Volk | Pèira Negra |
-| 56 | ![Cover](https://i.discogs.com/h1xF_JoJdmhDEMSh8q7zCjqcoDACeHCkrcZLFWkWlGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzQ5/ODQtMTQyODUxMDgy/Ny01NzA3LmpwZWc.jpeg) | 2014-08-25 | Luc Arbogast | Oreflam |
-| 54 | ![Cover](https://i.discogs.com/sQiAA8cZHOOijw1dPdJSbEovtbY50wsVa5dxmeeQiag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ2/NzAtMTQ2MjUzMTk0/NS05OTYwLmpwZWc.jpeg) | 2016 | Estampie | Amor Lontano |
-| 93 | ![Cover](https://i.discogs.com/sJiTb5dLhmOq8Uf8IzNuRC4Pr_UXDbRygRepBLcgJCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU1/NTk3LTE1OTE4MTE1/OTYtNTM1MS5qcGVn.jpeg) | 2016 | John Debney | The Sims Medieval Vol. 1 |
-| 81 | ![Cover](https://i.discogs.com/YIQhDYne8GzEmzo2DGiLnu-OCtCcFN7oQ3P0FSDL39s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDU4/NzQtMTQ4NjU5NTgy/MS0yOTUwLmpwZWc.jpeg) | 2016-06-24 | Ana Alcaide | Leyenda |
-| 19 | ![Cover](https://i.discogs.com/Mc3xI0VUq14JqvrI9fKYB0RTr9fWTqkRsafJ2r19JKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mjcw/MTQtMTQ4MDM3NTIx/MC04NjU3LmpwZWc.jpeg) | 2016-10-16 | Utred | Forest |
-| 4 | ![Cover](https://i.discogs.com/SE3VjmfRvHj9qSnmxbPsOEHgUJZjH6QZuMSts3ovuPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzAx/MTYtMTM1NDIxNzYz/OS0zNzk3LmpwZWc.jpeg) | 2017 | Luc Arbogast | Game Of Thrones - Main Title Theme |
-| 11 | ![Cover](https://i.discogs.com/YxWxpYrdEbhxJ8fnHwUQ0ODnAC8z1cicdPd43e2c0Bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTM4/NDE1LTE1MjkwNjk4/NTYtMjYwMS5qcGVn.jpeg) | 2018-05-31 | Morketsvind | Saga of Blood Lands |
-| 99 | ![Cover](https://i.discogs.com/bOlovZ6zg_ZuhXl9omWlWM-2lcJe6HOOUS5c4OzqxHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc1/Njg4LTE1MzkzMDI3/MjQtOTE1Mi5qcGVn.jpeg) | 2018-11-02 | Dead Can Dance | Dionysus |
-| 91 | ![Cover](https://i.discogs.com/5h6XJI0b2H6yc5Qyq8Yu2FFxNGWX3nL3Z12ky2IZ33g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODMx/MjgzLTE1NDI3OTk0/NjktODMxNS5qcGVn.jpeg) | 2018-11-20 | Irfan | Roots |
-| 5 | ![Cover](https://i.discogs.com/fkBDzuD999Ds1oeQ1FCA-WGZAkDw8dzLx8iRXfltSsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk4/OTM5LTE1ODkzODE3/MTctNzc2Ni5qcGVn.jpeg) | 2019 | In Vino Veritas | Grimorium Magi |
-| 23 | ![Cover](https://i.discogs.com/kyGQldEj40gazAsGKYj87MgUuFcbmCwdl0U69C6euVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODI3/NzQyLTE1NjIwMTM5/NzQtNjUwNy5qcGVn.jpeg) | 2019-06-21 | Mediæval Bæbes | A Pocketful of Posies |
-| 28 | ![Cover](https://i.discogs.com/8nblDuqOnU97z2ZCwT4Y9K25HcyLDaAPrgU6atzoWs8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzA2/NDAxLTE2MTI3MTgz/MTktOTA2Ni5qcGVn.jpeg) | 2020-04-12 | Patrick Lenk | Lo Boier |
-| 24 | ![Cover](https://i.discogs.com/1y_IauParXES-9CYpCgfUXMHBkmRhMdXCb10KA9ICys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzg0/NjY4LTE2MDc0MjQw/NDctOTA4Mi5qcGVn.jpeg) | 2020-11-15 | Inlustris | Stella Splendens |
-| 1 | ![Cover](https://i.discogs.com/hcdG1y-4Juqmu5oqB9LJZqHsRoo3lWQaOeE9psX6wa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjU1/NDc1LTE2MDkwOTA4/NTMtMTQ5NS5qcGVn.jpeg) | 2020-12-25 | A Compendium of Curiosities | Visions éternelles |
-| 43 | ![Cover](https://i.discogs.com/LvBecmBKP-A9TF-z4h6E5D-_4E7L93mOE3-dgJFKyMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDQx/OTE3LTE2MzczMzQ3/MjAtOTY2OC5qcGVn.jpeg) | 2022-04-29 | Sopor Aeternus &amp; The Ensemble of Shadows | Todeswunsch |
-| 12 | ![Cover](https://i.discogs.com/QvlGOM3NAR5-zUVPdBH-uzJY9Tc_sews709WOK_Kwls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDU2/ODQxLTE2Njc2MDY2/MTQtMTUxMy5wbmc.jpeg) | 2022-11-04 | Fathomage | The Doxologion Codex |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td>1974</td>
+      <td>Malicorne</td>
+      <td>Malicorne</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/720hy8WA-XKN94nwRJyHDcO2jmV-HDzR0HJRYsgPgbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODQw/NzEtMTYwMjM0ODYw/OC05MDk4LmpwZWc.jpeg" alt="Cover for Almanach" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Malicorne</td>
+      <td>Almanach</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/7XPe0-pySlSgY0N1AJ-CwVkPde73jR2bsjpVWnerpeo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjIx/OTItMTI2NTI3NjA3/NC5qcGVn.jpeg" alt="Cover for Le Bouvier" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Les Menestriers</td>
+      <td>Le Bouvier</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Malicorne</td>
+      <td>Nous sommes chanteurs de sornettes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>1990-07-02</td>
+      <td>Dead Can Dance</td>
+      <td>Aion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 26</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 41</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/UwTTJRcGPG663DKMczDkjNPlb9SBRzx9lI6NqjXFCIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDE0/My0xNDM4MTU4NzUz/LTMyNjIuanBlZw.jpeg" alt="Cover for Qntal I" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992-01-08</td>
+      <td>Qntal</td>
+      <td>Qntal I</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/EnHlFtF86eQvGfk2d8C6fis-0Bj1VdtrExxFOAOOxlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTQw/NzAtMTMwMTMzMjgz/My5qcGVn.jpeg" alt="Cover for All Things Are Quite Silent" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-12-01</td>
+      <td>JURI et LISA</td>
+      <td>All Things Are Quite Silent</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>Rosa†Crvx</td>
+      <td>Proficere</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial" | relative_url }}">martial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/martial" | relative_url }}">martial</a> # 11</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/nCrPFvv-wAb7Qlf2_VySrpWuRdgWi-cexfiBySV2ewI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzE1/OTAtMTUyNjI5NjM0/OC04NDU2LmpwZWc.jpeg" alt="Cover for In schwindendem Licht" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Grabesmond</td>
+      <td>In schwindendem Licht</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fantasy-ambient" | relative_url }}">fantasy ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 28</li>
+            <li> <a href="{{ "/tags/fantasy-ambient" | relative_url }}">fantasy ambient</a> # 41</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>Stille Volk</td>
+      <td>Ode aux lointains souverains</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>Sopor Aeternus &amp; The Ensemble of Shadows</td>
+      <td>Todeswunsch - Sous Le Soleil De Saturne</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Ataraxia</td>
+      <td>Concerto No. 6: A Baroque Plaisanterie</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-baroque" | relative_url }}">italian baroque</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 57</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 75</li>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 76</li>
+            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 77</li>
+            <li> <a href="{{ "/tags/italian-baroque" | relative_url }}">italian baroque</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/0xucgqdWWC4IbNv-Q1R7IQ4aXjBM2AqRVI8E6vxU8fE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc2/MDAtMTUyODU0ODk5/My01Njk5LmpwZWc.jpeg" alt="Cover for Camminando camminando" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Angelo Branduardi</td>
+      <td>Camminando camminando</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/ZEI1fiplRXinzfBM6ABfP-K5h1qcOlM24_VHmfq5xKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTQz/NS0xNDUwODEzMzU0/LTYyMDMuanBlZw.jpeg" alt="Cover for The kingdom &amp; its fey" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>The Soil Bleeds Black</td>
+      <td>The kingdom &amp; its fey</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td>1996-11-02</td>
+      <td>Camerata Mediolanense</td>
+      <td>Campo di Marte</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial" | relative_url }}">martial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/martial" | relative_url }}">martial</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Stille Volk</td>
+      <td>Hantaoma</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 29</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 31</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 48</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 65</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>The Soil Bleeds Black</td>
+      <td>March of the Infidels</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>1997-04-23</td>
+      <td>Blackmore&#39;s Night</td>
+      <td>Shadow Of The Moon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 16</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Ataraxia</td>
+      <td>Historiae</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 14</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 20</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 34</li>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 48</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/OznnMZkVwA8LGt_zy7b46mWDVo0U44VyX8g9K1o_78k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDY4/NDEtMTI5Mjg3NTE5/My5qcGVn.jpeg" alt="Cover for May the Blood of Many a Valiant Knight be Avenged" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>The Soil Bleeds Black</td>
+      <td>May the Blood of Many a Valiant Knight be Avenged</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/MVyESA5KS30pjaWTmWp7jiIreUY1TkUgiohIvFF1AyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTAx/MTItMTU1MTM2Mzg3/MS04NTY5LmpwZWc.jpeg" alt="Cover for The Minstrel and the Maiden" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Greg Joy</td>
+      <td>The Minstrel and the Maiden</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/H4eNvdro4N07LGwTLwcmwAkqwlJ2ZhNuk-6w4mdigqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDQ1/MTctMTQwODMwNjgw/Mi02MDEzLmpwZWc.jpeg" alt="Cover for Le Pelegrin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Tri Yann</td>
+      <td>Le Pelegrin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/breizh" | relative_url }}">breizh</a> # 29</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 59</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/lhfENTWZpRu8UDCIalpNmc-hNVJDxMVeMVxgvtUOgic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjAw/NS0xMTQzNzM0Njc3/LmpwZWc.jpeg" alt="Cover for Satyre Cornu" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Stille Volk</td>
+      <td>Satyre Cornu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/EpvVxrlZWcAI9WxyZKpeIP56OQaK1RMjhhl1q3umaF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg1/My0xMTU4OTcyODYy/LmpwZWc.jpeg" alt="Cover for Sueños" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-03</td>
+      <td>Ataraxia</td>
+      <td>Sueños</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 1</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 26</li>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 42</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 44</li>
+            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2001-09-19</td>
+      <td>Blackmore&#39;s Night</td>
+      <td>Minstrels and Ballads</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/RUTWrkp06RVxy_YvWCdHlElZubBTVlVaHZZwcFBF-So/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODQz/OS0xMTQzODMyOTE3/LmpwZWc.jpeg" alt="Cover for Helium Vola" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-10-29</td>
+      <td>Helium Vola</td>
+      <td>Helium Vola</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 13</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td>2001-10</td>
+      <td>Blood Axis &amp; In Gowan Ring</td>
+      <td>Witch-hunt: The Rites of Samhain</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>2001-11-28</td>
+      <td>志方あきこ</td>
+      <td>緑の森で眠ル鳥</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 21</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 25</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 57</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/tUg-R2_-TjqNtrcWM8vxxhD4saQHjKCMNtrtT3Y955g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM2/NzItMTIxMzk2ODY3/NS5qcGVn.jpeg" alt="Cover for Hazel Steps Throug a Weathered Home" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>In Gowan Ring</td>
+      <td>Hazel Steps Throug a Weathered Home</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 46</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 56</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 58</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>In Gowan Ring</td>
+      <td>Hazel Steps through a Weathered Home</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 7</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 61</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 66</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 68</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/9AJcm_MXRNqmz2nrfqLsNohLrXxYYs3QHlw7bEmdyRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTgx/MS0xNDE4ODM3NDg1/LTQ2NTYuanBlZw.jpeg" alt="Cover for Mon Seul Désir" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-02-18</td>
+      <td>Ataraxia</td>
+      <td>Mon Seul Désir</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 65</li>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>2002-02-18</td>
+      <td>Estampie</td>
+      <td>Fin Amor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/tIR5ZzO_H7vixxGuvv8fLajBxrBE2WUGiImmslrkgso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODc5/OS0xNDQ3MDc3Mjcy/LTIyMDcuanBlZw.jpeg" alt="Cover for Maudat" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Stille Volk</td>
+      <td>Maudat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 18</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 25</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 52</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Triskilian</td>
+      <td>TRISKILIAN</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 44</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 72</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/lvDW_bqSU7ixgD7ipXKMweaYfmAD8H7E68Er9XGMEIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTQ3/MS0xMzgyMjAwNDAx/LTQ1NjguanBlZw.jpeg" alt="Cover for Cantar a la Morte: Fabula Triste" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-01</td>
+      <td>Ordo Funebris</td>
+      <td>Cantar a la Morte: Fabula Triste</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 38</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+      </td>
+      <td>2003-08-24</td>
+      <td>志方あきこ</td>
+      <td>廃墟と楽園</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 6</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 18</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 20</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 35</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+      </td>
+      <td>2004</td>
+      <td>Lupercalia</td>
+      <td>Florilegium</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/oXMbHPSd_xOGdw0QNKynFqrw9eW3kGepiOrwkYatab4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODE3/OC0xMTA5NDIxMjE5/LmpwZw.jpeg" alt="Cover for Three Living, Three Dead" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>The Soil Bleeds Black</td>
+      <td>Three Living, Three Dead</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/kaA0h4yVLjGjSFtpIiBfEtGQDs5ZVqVcWHwIeS4K23I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTg0/OC0xMjk0MTUzMzc5/LmpwZWc.jpeg" alt="Cover for Saphir" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-04-14</td>
+      <td>Ataraxia</td>
+      <td>Saphir</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 20</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 76</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 85</li>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 86</li>
+            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/FbFF9SjMeoVVqeiyyAdYe-A3zWsow1tPIEom5jLRZwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MzIz/MjYtMTM5NTc5NzY1/NS0yMzA4LmpwZWc.jpeg" alt="Cover for Ancient Ceremonies" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Gerald Jay Markoe</td>
+      <td>Ancient Ceremonies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Ataraxia</td>
+      <td>Arcana Eco</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 91</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/-fQ1pu0kuE_NTyqcU9CIZXbbgFK8IMgnkfhuIRmZA94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTA3/ODYtMTQzNjc5NDI3/OS00MzEzLmpwZWc.jpeg" alt="Cover for Domus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Luc Arbogast</td>
+      <td>Domus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/Qev6G_kTMSzr89K8x8N38QyNxHeFDCl1YqHjoo1UhnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTQ4/My0xMjAwNDc5NDAx/LmpwZWc.jpeg" alt="Cover for Fairydust" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-02-14</td>
+      <td>Trobar de Morte</td>
+      <td>Fairydust</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 10</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 38</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 41</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 57</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/uNYyb1BDfGmi1I4RIRF6pD_ooqK4Ghcdp-qGa_MMj4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTA3/MTUtMTQxODU0OTMw/NC01MTQxLmpwZWc.jpeg" alt="Cover for Enter the Mysterium" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-03-01</td>
+      <td>Peter Ulrich</td>
+      <td>Enter the Mysterium</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/TwLcCuU1NQQRg9Y9aPAKYaZtNd0DT9IBsNs8-CoZxvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg0/ODEtMTY3NjA1NjA0/OC02NDY1LmpwZWc.jpeg" alt="Cover for The Magic of the Wizard&#39;s Dream" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-03-29</td>
+      <td>Rhapsody</td>
+      <td>The Magic of the Wizard&#39;s Dream</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 65</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td>2005-07-18</td>
+      <td>Mediæval Bæbes</td>
+      <td>Mirabilis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Birch Book</td>
+      <td>Fortune &amp; Folly</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/x1YXTRP7jgMaYJ7ZuyZRuJUTgDOu2-BVyEb7Oc7On4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzE0/NzgtMTI5MDI0NTk5/Ny5qcGVn.jpeg" alt="Cover for Espers II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Espers</td>
+      <td>Espers II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>The Soil Bleeds Black</td>
+      <td>Alchemie</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 35</li>
+            <li> <a href="{{ "/tags/fantasy-ambient" | relative_url }}">fantasy ambient</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td>2006-01-01</td>
+      <td>Ana Alcaide</td>
+      <td>Viola De Teclas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/eUKd0L_sXYn_DA9_-2GH2lc10Usd5Oh7NW9JnOSdZLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQx/ODQtMTE4OTMzOTQ1/My5qcGVn.jpeg" alt="Cover for Arcadia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-04</td>
+      <td>Narsilion</td>
+      <td>Arcadia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 8</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 13</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>2006-10-25</td>
+      <td>志方あきこ</td>
+      <td>Raka</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 41</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 42</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 47</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 53</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 65</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/92kHSzRJTZZD2Jaj8DftiEV6ATIqXqIKk_fWQvRniy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTIx/OC0xMTM3NTM5OTYz/LmpwZWc.jpeg" alt="Cover for Os cavaleiros do templo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-11</td>
+      <td>Ataraxia</td>
+      <td>Os cavaleiros do templo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Luc Arbogast</td>
+      <td>Hortus Dei</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/COnCyTrVmVkV3OcJjHvs02lz50adJ-Y_jTq-YO103dE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTY4/MzAtMTI1MDg2Mzc2/OS5qcGVn.jpeg" alt="Cover for Do durch der werlde..." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Triskilian</td>
+      <td>Do durch der werlde...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Ataraxia</td>
+      <td>Kremasta Nera</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/ycZ2oW4AXVFG0KGDzLJqGOIEgDAOZumV2TNaN7a3RxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE1/MDEtMTE5NTQwNTI4/NC5qcGVn.jpeg" alt="Cover for Veleno de Teixo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Sangre Cavallum</td>
+      <td>Veleno de Teixo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/kozfr-oEOfLflt6DCqEyaWFHf7PEP2nWDLVMjDaTtwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA5/NDktMTE4OTg3Njg0/NC5qcGVn.jpeg" alt="Cover for Sous Le Blanc Rosier" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-02</td>
+      <td>Ataraxia</td>
+      <td>Sous Le Blanc Rosier</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 50</li>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 71</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 73</li>
+            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Corvus Corax</td>
+      <td>Cantus Buranus - Das Orgelwerk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Duivelspack</td>
+      <td>Mal die Teufel an die Wand</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/GkiXDTlBfhHEM1LDqJCttw8yoDgli102s7a3PzayVug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODky/ODUtMTIwNzMzMzgz/MC5qcGVn.jpeg" alt="Cover for Namárië" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Narsilion</td>
+      <td>Namárië</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td>2008-02-28</td>
+      <td>Faun</td>
+      <td>Faun and the Pagan Folk Festival: Live</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td>2008-08-01</td>
+      <td>Corvus Corax</td>
+      <td>Cantus Buranus II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td>2008-11-07</td>
+      <td>Sava</td>
+      <td>Metamorphosis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Luc Arbogast</td>
+      <td>Aux Portes De Sananda</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/1-3J97g7BgIjuZnPFwbJMg9PNmPEpbuH8cgnU_PGvps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDM1/NjUtMTI1MTM1NDU1/Ni5qcGVn.jpeg" alt="Cover for Soehrimnir &amp; Mediestetica" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Lupercalia</td>
+      <td>Soehrimnir &amp; Mediestetica</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/Ed_sZdB8E4bdDgqxgxl_-St9wFPhiWarMSnHYESaqm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTI2/OTQtMTI0NDk5Mjg2/My5qcGVn.jpeg" alt="Cover for The Knightly Years" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>The Soil Bleeds Black</td>
+      <td>The Knightly Years</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Annwn</td>
+      <td>Aeon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/YM1JcyHH_r_EFzC1R-dMwJT42anreOauYcYF8OnG4VE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDk1/NjAtMTQyMTA1Nzg3/NC02NzQ3LmpwZWc.jpeg" alt="Cover for Ærlig Pæl" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-02-20</td>
+      <td>Gny</td>
+      <td>Ærlig Pæl</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/wgh4B5s5GzulubXdO7P2Nu0wg1JM0_ZNwiiQGBZ1tuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzIx/MDMtMTIzOTc4ODg4/MS5qcGVn.jpeg" alt="Cover for Osforras" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-03-15</td>
+      <td>The Moon and the Nightspirit</td>
+      <td>Osforras</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 17</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 66</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 69</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td>2009-03-18</td>
+      <td>志方あきこ</td>
+      <td>Harmonia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 43</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 48</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 49</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 50</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+      </td>
+      <td>2009-06</td>
+      <td>Omasphère</td>
+      <td>Prélude</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 41</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/ZzxXzn9xWVOcMU00vQf_lsRewG5Nx7inZDfxvPY2Y2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODE0/NTktMTI0OTgzNDEx/Ny5qcGVn.jpeg" alt="Cover for Dakini" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-08-11</td>
+      <td>Lisa Hammer</td>
+      <td>Dakini</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>2009-08-19</td>
+      <td>志方あきこ</td>
+      <td>片翼の鳥</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 49</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 54</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 77</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 84</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td>2010-09-29</td>
+      <td>志方あきこ</td>
+      <td>謳う丘 ～Ar&#x3D;Ciel Ar&#x3D;Dor～</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 16</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 30</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 31</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 44</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/Fp3B7gSAU9SrkJHJECCDDjVdPkkg6ICsx1vVvNL2CKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzc1/ODEtMTM1MzcxMDUy/Ni01MzYwLmpwZWc.jpeg" alt="Cover for Temptation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-12</td>
+      <td>Mediæval Bæbes</td>
+      <td>Temptation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/R0_YaVRrdnDC1eZiOjVGMAtLw1NH7JWimJZ_2slyFZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA1/NTM4LTE1MDYyODQ0/MjMtMzg0NS5qcGVn.jpeg" alt="Cover for Lost In Time" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-05-21</td>
+      <td>Morgan the Bard</td>
+      <td>Lost In Time</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+      </td>
+      <td>2011-12-31</td>
+      <td>志方あきこ</td>
+      <td>Istoria~Kalliope~</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 16</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 18</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td>2012</td>
+      <td>Luc Arbogast</td>
+      <td>Canticum in Terra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td>2012-04-20</td>
+      <td>Vermaledeyt</td>
+      <td>SaltaNeo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/owWU1Zudk5hqv_d_IaIjvWYSQ6j_pkm1IrnVsFAUouM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTAz/ODAtMTM0ODIzMzEx/NC0xNTM2LmpwZWc.jpeg" alt="Cover for Pierre De Grenoble" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-08-03</td>
+      <td>Malicorne</td>
+      <td>Pierre De Grenoble</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/4dltzSfFrqtINqR_oyZ4UDwsY_hDL2QAzT6ZwyLObgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjA3/NTAtMTM5NTUxMjg5/OC0xMzExLmpwZWc.jpeg" alt="Cover for Odysseus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-01-01</td>
+      <td>Luc Arbogast</td>
+      <td>Odysseus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 10</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 19</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 23</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 33</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 44</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 45</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/Jb6ezdnAdEyNwnEOTd9M63Ync2o3CotHRb1Z1IADNW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTEx/OTUtMTQxMjM1MTQz/Mi02NTUzLmpwZWc.jpeg" alt="Cover for Pèira Negra" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-05-02</td>
+      <td>Stille Volk</td>
+      <td>Pèira Negra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/h1xF_JoJdmhDEMSh8q7zCjqcoDACeHCkrcZLFWkWlGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzQ5/ODQtMTQyODUxMDgy/Ny01NzA3LmpwZWc.jpeg" alt="Cover for Oreflam" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-08-25</td>
+      <td>Luc Arbogast</td>
+      <td>Oreflam</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 10</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 34</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 35</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/sJiTb5dLhmOq8Uf8IzNuRC4Pr_UXDbRygRepBLcgJCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU1/NTk3LTE1OTE4MTE1/OTYtNTM1MS5qcGVn.jpeg" alt="Cover for The Sims Medieval Vol. 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>John Debney</td>
+      <td>The Sims Medieval Vol. 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/sQiAA8cZHOOijw1dPdJSbEovtbY50wsVa5dxmeeQiag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ2/NzAtMTQ2MjUzMTk0/NS05OTYwLmpwZWc.jpeg" alt="Cover for Amor Lontano" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Estampie</td>
+      <td>Amor Lontano</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/YIQhDYne8GzEmzo2DGiLnu-OCtCcFN7oQ3P0FSDL39s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDU4/NzQtMTQ4NjU5NTgy/MS0yOTUwLmpwZWc.jpeg" alt="Cover for Leyenda" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-06-24</td>
+      <td>Ana Alcaide</td>
+      <td>Leyenda</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/Mc3xI0VUq14JqvrI9fKYB0RTr9fWTqkRsafJ2r19JKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mjcw/MTQtMTQ4MDM3NTIx/MC04NjU3LmpwZWc.jpeg" alt="Cover for Forest" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-10-16</td>
+      <td>Utred</td>
+      <td>Forest</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/SE3VjmfRvHj9qSnmxbPsOEHgUJZjH6QZuMSts3ovuPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzAx/MTYtMTM1NDIxNzYz/OS0zNzk3LmpwZWc.jpeg" alt="Cover for Game Of Thrones - Main Title Theme" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Luc Arbogast</td>
+      <td>Game Of Thrones - Main Title Theme</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/YxWxpYrdEbhxJ8fnHwUQ0ODnAC8z1cicdPd43e2c0Bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTM4/NDE1LTE1MjkwNjk4/NTYtMjYwMS5qcGVn.jpeg" alt="Cover for Saga of Blood Lands" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-05-31</td>
+      <td>Morketsvind</td>
+      <td>Saga of Blood Lands</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fantasy-ambient" | relative_url }}">fantasy ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 36</li>
+            <li> <a href="{{ "/tags/fantasy-ambient" | relative_url }}">fantasy ambient</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/bOlovZ6zg_ZuhXl9omWlWM-2lcJe6HOOUS5c4OzqxHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc1/Njg4LTE1MzkzMDI3/MjQtOTE1Mi5qcGVn.jpeg" alt="Cover for Dionysus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-11-02</td>
+      <td>Dead Can Dance</td>
+      <td>Dionysus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 10</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 57</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 76</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 77</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 77</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 85</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 85</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 88</li>
+            <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 93</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 94</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 94</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 96</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 98</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 99</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/5h6XJI0b2H6yc5Qyq8Yu2FFxNGWX3nL3Z12ky2IZ33g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODMx/MjgzLTE1NDI3OTk0/NjktODMxNS5qcGVn.jpeg" alt="Cover for Roots" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-11-20</td>
+      <td>Irfan</td>
+      <td>Roots</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 40</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/fkBDzuD999Ds1oeQ1FCA-WGZAkDw8dzLx8iRXfltSsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk4/OTM5LTE1ODkzODE3/MTctNzc2Ni5qcGVn.jpeg" alt="Cover for Grimorium Magi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019</td>
+      <td>In Vino Veritas</td>
+      <td>Grimorium Magi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/kyGQldEj40gazAsGKYj87MgUuFcbmCwdl0U69C6euVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODI3/NzQyLTE1NjIwMTM5/NzQtNjUwNy5qcGVn.jpeg" alt="Cover for A Pocketful of Posies" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-06-21</td>
+      <td>Mediæval Bæbes</td>
+      <td>A Pocketful of Posies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/8nblDuqOnU97z2ZCwT4Y9K25HcyLDaAPrgU6atzoWs8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzA2/NDAxLTE2MTI3MTgz/MTktOTA2Ni5qcGVn.jpeg" alt="Cover for Lo Boier" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-04-12</td>
+      <td>Patrick Lenk</td>
+      <td>Lo Boier</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 11</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/1y_IauParXES-9CYpCgfUXMHBkmRhMdXCb10KA9ICys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzg0/NjY4LTE2MDc0MjQw/NDctOTA4Mi5qcGVn.jpeg" alt="Cover for Stella Splendens" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-11-15</td>
+      <td>Inlustris</td>
+      <td>Stella Splendens</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/hcdG1y-4Juqmu5oqB9LJZqHsRoo3lWQaOeE9psX6wa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjU1/NDc1LTE2MDkwOTA4/NTMtMTQ5NS5qcGVn.jpeg" alt="Cover for Visions éternelles" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-12-25</td>
+      <td>A Compendium of Curiosities</td>
+      <td>Visions éternelles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fantasy-ambient" | relative_url }}">fantasy ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/fantasy-ambient" | relative_url }}">fantasy ambient</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/LvBecmBKP-A9TF-z4h6E5D-_4E7L93mOE3-dgJFKyMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDQx/OTE3LTE2MzczMzQ3/MjAtOTY2OC5qcGVn.jpeg" alt="Cover for Todeswunsch" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-04-29</td>
+      <td>Sopor Aeternus &amp; The Ensemble of Shadows</td>
+      <td>Todeswunsch</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/QvlGOM3NAR5-zUVPdBH-uzJY9Tc_sews709WOK_Kwls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDU2/ODQxLTE2Njc2MDY2/MTQtMTUxMy5wbmc.jpeg" alt="Cover for The Doxologion Codex" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-11-04</td>
+      <td>Fathomage</td>
+      <td>The Doxologion Codex</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Ludmillus</td>
+      <td>Lebendig</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

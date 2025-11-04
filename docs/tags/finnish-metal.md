@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-30T08:16:39.484Z
+date: 2025-11-04T12:47:42.153Z
 permalink: tags/finnish-metal
 title: finnish metal
 ---
 
 ## finnish metal
 
-Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T12:47:42.153Z">Tue Nov 04 2025 14:47:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
   </thead>
   <tbody>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/ZtYN2QDx_XIOkMNANUR7portnmklaqyF9kV_kOG2h5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzc3/NjQtMTI4NDAyODYx/NS5qcGVn.jpeg" alt="Cover for No Anaesthesia [Remastered]" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/rx9wJsasdJ389uqVfRPMdLh1ejWCHBS0I_YHN2UX4FA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODcz/NTktMTUxMTUyMDIx/Ny0xNTU0LmpwZWc.jpeg" alt="Cover for Regurgitation of Blood" style="max-width:120px; height:auto;" />
       </td>
@@ -74,7 +74,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/g5tGHpYDkEKQX59MeV2jO6lmjIbGnMHHRLILo3jJQSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTg2/NDAtMTI0NTQxOTYz/Mi5qcGVn.jpeg" alt="Cover for The Echo" style="max-width:120px; height:auto;" />
       </td>
@@ -101,7 +101,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/6QOqlPehrNE3Tq6uVpIiFvY0KpI3_52AfF3TArLsc7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjUy/MDUtMTQ1NTYxMTY5/Ny02ODYwLmpwZWc.jpeg" alt="Cover for ...Somewhere Inside the Bowels of Endlessness..." style="max-width:120px; height:auto;" />
       </td>
@@ -147,7 +147,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>1997-02-28</td>
@@ -164,7 +164,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/qQIDap0FP-7TfhJiKmuH6u3RXBDwS9RoR0ZoUpVxffI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTkz/MTMtMTQ4MzcwODcw/MC0zODA3LmpwZWc.jpeg" alt="Cover for Dark Side of Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -217,7 +217,26 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/JcGNgZ6h3ET9RZCWt2tqNzlqZ2rxTWX370dgYL90BMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjE4/NjQtMTU4MjQ2MDM5/Ny02MTMzLmpwZWc.jpeg" alt="Cover for Reborn Through Hate" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-10</td>
+      <td>Gloomy Grim</td>
+      <td>Reborn Through Hate</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd0b8de038366325eef31fdd35eba62f.png" alt="Cover for Ecliptica" style="max-width:120px; height:auto;" />
       </td>
@@ -276,7 +295,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2001-01</td>
@@ -296,7 +315,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0265888b1b545de2bb497adea57326c.png" alt="Cover for Ensiferum" style="max-width:120px; height:auto;" />
       </td>
@@ -373,7 +392,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 7</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -401,7 +420,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/irSyISitTEN9Bjie8Eb4Dh9ydY-ig4n6k6p-w4MSN7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODg2/NzEtMTY0MTQ4NDEw/MS00MDQxLmpwZWc.jpeg" alt="Cover for Yesterday&#39;s Grave" style="max-width:120px; height:auto;" />
       </td>
@@ -425,7 +444,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/3ijXohPd_KFukDdpZVXq5agCtduq9NPGDVmCr2VCAFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzQ5/Ny0xMTQ0OTU2OTQ2/LmpwZWc.jpeg" alt="Cover for Escapexstacy" style="max-width:120px; height:auto;" />
       </td>
@@ -476,7 +495,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       <td>
         <ul>
             <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 49</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 71</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 72</li>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 77</li>
         </ul>
       </td>
@@ -505,7 +524,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bf7cb8b6dd5d30c4bb32204dd09b1d2.png" alt="Cover for Scenery of a Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -522,8 +541,8 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 6</li>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 44</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 9</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -626,7 +645,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fd441ab8084474b9bc48c0ebeffa153.png" alt="Cover for Divinity" style="max-width:120px; height:auto;" />
       </td>
@@ -644,7 +663,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/4jsL0p2ZoQJqJ4_mA47kk3u7E_h9iHR-1xvJ-HsUNUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQz/MzUtMTQ4OTY2OTE5/OC05MjU1LmpwZWc.jpeg" alt="Cover for Conquistador" style="max-width:120px; height:auto;" />
       </td>
@@ -681,7 +700,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46ba724229a046e687746c7ac105fb0b.png" alt="Cover for 7" style="max-width:120px; height:auto;" />
       </td>
@@ -700,7 +719,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/EnxhsgVAGrJMFLekSjCxJtscCisiGytGbeEg8zWugNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNDUy/NS0xMzI1NDEyMTc3/LmpwZWc.jpeg" alt="Cover for Winternight Tragedies" style="max-width:120px; height:auto;" />
       </td>
@@ -736,7 +755,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 1</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -776,7 +795,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 5</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -902,7 +921,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2007-02-07</td>
@@ -922,7 +941,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b89ce5730047bebf741586a737128c18.png" alt="Cover for Evolution 4.0" style="max-width:120px; height:auto;" />
       </td>
@@ -1029,13 +1048,13 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 3</li>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 3</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 4</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/6ShXJfZAQh-0zPdQZJvsJU6kWm4Upg7VtzQPmcegSqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjA0/NjktMTQ1OTI4Nzc3/My02MDkyLmpwZWc.jpeg" alt="Cover for Uneasy Listening Vol. 1 &amp; 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1053,7 +1072,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2008</td>
@@ -1071,7 +1090,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/zu3RUaMwEap14r7lJF7zDhOy2fvLBMRaKtV7OEBZocs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTMz/NjktMTMzNTAzMTAw/Ni5qcGVn.jpeg" alt="Cover for Sinner" style="max-width:120px; height:auto;" />
       </td>
@@ -1106,7 +1125,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 31</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1128,7 +1147,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/jwUQwfWyC2SAQBEtk1QJz1XWiXke7qcq7caFa8pZEeU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY1/NjEtMTIyODE1MzI5/MS5qcGVn.jpeg" alt="Cover for Frozen Chambers" style="max-width:120px; height:auto;" />
       </td>
@@ -1141,23 +1160,6 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc3b96875b314c21b84aaf8908316643.png" alt="Cover for IV" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-04-02</td>
-      <td>Kilpi</td>
-      <td>IV</td>
-      <td>
-        <ul>
         </ul>
       </td>
       <td>
@@ -1203,7 +1205,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f5dd0456bbd4e24824e2766c3b6b4fb.png" alt="Cover for A Dead Heavy Day" style="max-width:120px; height:auto;" />
       </td>
@@ -1221,7 +1223,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/6fj_r89OhP0OJV8kUjWl9mCKjdiRCIuCnl87fptHEtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDUx/MzAtMTYyNzQ3MjMy/Ni0yNTU0LmpwZWc.jpeg" alt="Cover for As The Path Unfolds…" style="max-width:120px; height:auto;" />
       </td>
@@ -1248,7 +1250,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/17307c1210d84bcf9eab57d75587959d.png" alt="Cover for Soul For Sale" style="max-width:120px; height:auto;" />
       </td>
@@ -1288,7 +1290,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2009-09-13</td>
@@ -1308,7 +1310,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>2009-11-18</td>
@@ -1329,7 +1331,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/TsiS_9U_Uvaq_ZQSfrT8hxCgQGma7CyyXFg4EL7HX0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjk2/MDctMTQ5NTk2ODUz/OS04MTM3LmpwZWc.jpeg" alt="Cover for Vapaa on sana" style="max-width:120px; height:auto;" />
       </td>
@@ -1375,7 +1377,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/ygrVp7-ZP8QzZ8uPmbNM0d2oAsm2M_M7WUkZGRU0bF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTkz/NzU0LTE1OTQyMTQy/ODQtNjYzMC5qcGVn.jpeg" alt="Cover for Insights" style="max-width:120px; height:auto;" />
       </td>
@@ -1464,7 +1466,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/iQCjtL3OpSd9o4uPDATPcPGIYQhXTbfiXtGkPsenl20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjMy/NjctMTM0MzQxMjQ3/MS0xOTMxLmpwZWc.jpeg" alt="Cover for Subukokous" style="max-width:120px; height:auto;" />
       </td>
@@ -1486,7 +1488,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2012-10-19</td>
@@ -1547,7 +1549,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/VBFP2FVu5DMdu_MnHqj5Q7yq6tWYRu7mJXw5CpYMjNs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzkz/NTUyLTE1MTU1MjM2/NDAtMTQ0NS5qcGVn.jpeg" alt="Cover for Predators Among Us" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,7 +1614,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/dROoqFgOq5M5Z9itVCmrbuxH9ji_Dz2SuqiTvf3dEuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTc1/OTEtMTUyMDIxMzk4/My00NjIyLmpwZWc.jpeg" alt="Cover for Project Utopia" style="max-width:120px; height:auto;" />
       </td>
@@ -1635,7 +1637,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/Uy3N7ePO7Y3M27lb3rFPZhzbm0WuD7QB76mNoGP0_yY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDYy/NDYtMTQxNDY3MDkw/NC0zNTEyLmpwZWc.jpeg" alt="Cover for The Candlelight Years" style="max-width:120px; height:auto;" />
       </td>
@@ -1659,7 +1661,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/KtxH7DT0Wgerf40l8wq3UQxFMsnkNYb78M5VfRMl4JY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDY5/NDYtMTQ5MjQyMDk5/MS04MzMzLmpwZWc.jpeg" alt="Cover for Galileo" style="max-width:120px; height:auto;" />
       </td>
@@ -1685,7 +1687,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/64ZQ4_ujdAKj2SoJVCQRxI2T2MpgAADhZ5LjZqJCXNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDU5/NTItMTQyNTAxMTQz/Ny00ODExLmpwZWc.jpeg" alt="Cover for Infektiko" style="max-width:120px; height:auto;" />
       </td>
@@ -1862,7 +1864,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/39acdd2d87402de80c33f2105d188d62.png" alt="Cover for A Call To Arms" style="max-width:120px; height:auto;" />
       </td>
@@ -1880,7 +1882,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/L68LLYaHGwc07NRVEz0yXX8Dzaqpy5VzrOiQ3gIr2FM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjcw/MzI5LTE1MDcwNTA1/OTctMjU5Ny5qcGVn.jpeg" alt="Cover for Ruoto" style="max-width:120px; height:auto;" />
       </td>
@@ -1941,7 +1943,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/V_20j_zo6PHtv0L-RPTLxrGXqHa14sVLM1U_zgMq3Qw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjc1/NTc5LTE1NTg3OTY5/NzQtNTExMy5qcGVn.jpeg" alt="Cover for Demo 2019" style="max-width:120px; height:auto;" />
       </td>
@@ -1987,7 +1989,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -2015,7 +2017,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -2068,7 +2070,7 @@ Finnish metal represents the distinctive heavy music scene from Finland, charact
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>

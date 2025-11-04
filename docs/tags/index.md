@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-04T12:18:26.054Z
+date: 2025-11-04T12:47:42.153Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-04T12:18:26.054Z">Tue Nov 04 2025 14:18:26 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T12:47:42.153Z">Tue Nov 04 2025 14:47:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [finnish metal]({{ "tags/finnish-metal" | relative_url }}) | <time datetime="2025-11-04T12:47:42.153Z">Tue Nov 04 2025 14:47:42 GMT+0200 (Eastern European Standard Time)</time> |
 | [diy]({{ "tags/diy" | relative_url }}) | <time datetime="2025-11-04T12:18:26.054Z">Tue Nov 04 2025 14:18:26 GMT+0200 (Eastern European Standard Time)</time> |
 | [drum]({{ "tags/drum" | relative_url }}) | <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [death metal]({{ "tags/death-metal" | relative_url }}) | <time datetime="2025-11-04T11:11:51.109Z">Tue Nov 04 2025 13:11:51 GMT+0200 (Eastern European Standard Time)</time> |
@@ -311,7 +312,6 @@ Last updated: <time datetime="2025-11-04T12:18:26.054Z">Tue Nov 04 2025 14:18:26
 | [pop rock]({{ "tags/pop-rock" | relative_url }}) | <time datetime="2025-10-30T08:53:50.940Z">Thu Oct 30 2025 10:53:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [mali]({{ "tags/mali" | relative_url }}) | <time datetime="2025-10-30T08:36:48.512Z">Thu Oct 30 2025 10:36:48 GMT+0200 (Eastern European Standard Time)</time> |
 | [polski hip hop]({{ "tags/polski-hip-hop" | relative_url }}) | <time datetime="2025-10-30T08:17:39.347Z">Thu Oct 30 2025 10:17:39 GMT+0200 (Eastern European Standard Time)</time> |
-| [finnish metal]({{ "tags/finnish-metal" | relative_url }}) | <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [europe]({{ "tags/europe" | relative_url }}) | <time datetime="2025-10-30T08:15:39.506Z">Thu Oct 30 2025 10:15:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [disco house]({{ "tags/disco-house" | relative_url }}) | <time datetime="2025-10-30T08:04:02.201Z">Thu Oct 30 2025 10:04:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [female rapper]({{ "tags/female-rapper" | relative_url }}) | <time datetime="2025-10-30T08:03:53.054Z">Thu Oct 30 2025 10:03:53 GMT+0200 (Eastern European Standard Time)</time> |
