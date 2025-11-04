@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T02:46:51.051Z
+date: 2025-11-04T09:12:51.396Z
 permalink: tags/baltimore
 title: baltimore
 ---
 
 ## baltimore
 
-Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T09:12:51.396Z">Tue Nov 04 2025 11:12:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -547,7 +547,7 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/2hn1yawjmqmiRWhK4s0HEwRjZlVtfDQBWRA4jS4VQSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTg3/MDEtMTM2NDY1MjM3/My04ODk1LmpwZWc.jpeg" alt="Cover for Vena Cava&#x2F;Sick Sick Birds split 7&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -605,7 +605,7 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 26</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 27</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 71</li>
         </ul>
       </td>
@@ -632,7 +632,7 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/JuKfJQaNdnFi0Ur_thlEi4W_YIzaClo5ex06yVM6qQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDI2/Mzk0LTE2MTkxOTM3/MDgtNTMyOC5qcGVn.jpeg" alt="Cover for Psychology 101 (2006)" style="max-width:120px; height:auto;" />
       </td>
@@ -652,7 +652,7 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/JuKfJQaNdnFi0Ur_thlEi4W_YIzaClo5ex06yVM6qQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDI2/Mzk0LTE2MTkxOTM3/MDgtNTMyOC5qcGVn.jpeg" alt="Cover for Spirit Avenue (2002)" style="max-width:120px; height:auto;" />
       </td>
@@ -859,7 +859,7 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/a-xxZ4VI7RiPnwfH89EgDX0LihxX5iCx_uORDCMy20w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDQw/NzQtMTMxMTI4MTE2/NS5qcGVn.jpeg" alt="Cover for Still Petals EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1032,7 +1032,7 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/1ioCFL0D7j3wUU9_aiB1SzBFiYj-Ww0hgWcHF-inB5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDE3/OTMtMTM0NTM3ODgy/Ny01MTY0LmpwZWc.jpeg" alt="Cover for wanton Ethers" style="max-width:120px; height:auto;" />
       </td>
@@ -1140,7 +1140,7 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2013-03-30</td>
@@ -1161,7 +1161,7 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/pBuWmUrMfNDrnewqoGLq0Xkm_KHZmklbmZA3__h3n4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzQ2/NTAtMTQ4MTIxODYz/NS0yMzg0LmpwZWc.jpeg" alt="Cover for The New Mystikal Troubadours" style="max-width:120px; height:auto;" />
       </td>
@@ -1206,7 +1206,7 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2014-02-19</td>
@@ -1272,7 +1272,7 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/9bxS9-e9Cq-m75YI8pGhT6IdkyrScI8SXdV-VSAqBEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDgy/MzAtMTQ0NDAwMzc3/Ni0zNTU2LmpwZWc.jpeg" alt="Cover for Agenda" style="max-width:120px; height:auto;" />
       </td>
@@ -1292,7 +1292,7 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/fxynyJfLYp3CD9-anH35m37sBlCc93rFwXEcoVh9X5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzIw/MzMtMTQyMTM5NDIy/Ny0zMDgwLmpwZWc.jpeg" alt="Cover for Golem&#x2F;Heavy Ether" style="max-width:120px; height:auto;" />
       </td>
@@ -1353,7 +1353,7 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/37zaLMRddUYLYO345gm0OynBN6ja3hMvgwQ16fXaOis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTUy/MzYtMTQ0MzkyNDg2/MS00MDMxLmpwZWc.jpeg" alt="Cover for The Mouse Shadow" style="max-width:120px; height:auto;" />
       </td>
@@ -1493,7 +1493,7 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/S63KMTRVsBqMwCOC5vNIi_zkZ-5WUO-RinpdW-rf_kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMw/ODQ2LTE1MDg1ODI1/NDctMjU1Mi5qcGVn.jpeg" alt="Cover for How Far I&#39;ll Go - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1600,7 +1600,7 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/zsuKi0XKOJj5LukJDA0fsiLD7qbqdaexHqy3v-LV5Z0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEz/MTM5LTE1NTU2MjE0/OTItNTY0OC5qcGVn.jpeg" alt="Cover for Go Home" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,7 +1690,7 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/OY_trPNRv-hStdE3AxKm4j0ZMADC3Gxxh36tRmrHW-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjA4/Mjg5LTE1ODgxMTM5/NTItNDkwMi5qcGVn.jpeg" alt="Cover for Forced Friendship" style="max-width:120px; height:auto;" />
       </td>
@@ -1807,7 +1807,7 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/5UjEh09V6R0aQfX87O1lr97XE3f-G_J7-k307bNADu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDA1/NDYxLTE2MDc1Mzk0/NTktMzQxOC5wbmc.jpeg" alt="Cover for Red Hot Cheeto Fingers (Hosted by Fridgidair Karats)" style="max-width:120px; height:auto;" />
       </td>
@@ -1862,26 +1862,6 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bd5a4c4cf8a1153adacc94857e1dc6e.png" alt="Cover for Evolve &amp; Escape" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022</td>
-      <td>In The Blind</td>
-      <td>Evolve &amp; Escape</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
         </ul>
       </td>
       <td>
@@ -1957,7 +1937,7 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -1983,7 +1963,27 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>White Shadow</td>
+      <td>Panopticon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -2000,7 +2000,7 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -2018,7 +2018,7 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -2043,7 +2043,7 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -2068,7 +2068,7 @@ Last updated: <time datetime="2025-11-03T02:46:51.051Z">Mon Nov 03 2025 04:46:51
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>

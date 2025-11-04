@@ -9,6 +9,10 @@ title: switzerland
 
 Last updated: <time datetime="2025-11-03T06:51:51.044Z">Mon Nov 03 2025 08:51:51 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+The Switzerland tag encompasses the diverse multilingual music scene emerging from the Alpine nation, reflecting its cultural crossroads between French, German, and Italian influences. Artists blend indie rock, folk, electronic, and chanson traditions with a distinctly Swiss sensibility characterized by understated experimentation and regional authenticity. The sound often carries a cosmopolitan yet intimate quality, mirroring Switzerland&#39;s small-scale creative communities and linguistic diversity.
+
 ### 100 chronological releases
 
 <table>
@@ -178,7 +182,7 @@ Last updated: <time datetime="2025-11-03T06:51:51.044Z">Mon Nov 03 2025 08:51:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 27</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -239,7 +243,7 @@ Last updated: <time datetime="2025-11-03T06:51:51.044Z">Mon Nov 03 2025 08:51:51
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 8</li>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 77</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -262,7 +266,7 @@ Last updated: <time datetime="2025-11-03T06:51:51.044Z">Mon Nov 03 2025 08:51:51
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 26</li>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 47</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -484,7 +488,7 @@ Last updated: <time datetime="2025-11-03T06:51:51.044Z">Mon Nov 03 2025 08:51:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 12</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -753,7 +757,7 @@ Last updated: <time datetime="2025-11-03T06:51:51.044Z">Mon Nov 03 2025 08:51:51
         <ul>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 45</li>
             <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 54</li>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 65</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1538,7 +1542,7 @@ Last updated: <time datetime="2025-11-03T06:51:51.044Z">Mon Nov 03 2025 08:51:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 30</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 34</li>
             <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 44</li>
         </ul>
       </td>

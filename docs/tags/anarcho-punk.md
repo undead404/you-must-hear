@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T12:17:51.196Z
+date: 2025-11-04T08:39:28.755Z
 permalink: tags/anarcho-punk
 title: anarcho-punk
 ---
 
 ## anarcho-punk
 
-Last updated: <time datetime="2025-11-01T12:17:51.196Z">Sat Nov 01 2025 14:17:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T08:39:28.755Z">Tue Nov 04 2025 10:39:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -64,7 +64,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/s5fTRlshc_Yp1SUtbgI-Po-Aj4SeVoG1IrcVfI6EhmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTkw/MC0xNTYzNzc0MzMz/LTUzNTYuanBlZw.jpeg" alt="Cover for Demolition War" style="max-width:120px; height:auto;" />
       </td>
@@ -152,7 +152,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>1981-12</td>
@@ -622,7 +622,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/eVLX-rKpKLyFpG5rSWQCSZaGEFSvGbnK2Eu763WMdNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQ5/NjAtMTQyMzU3MTU1/OS0zMjAyLmpwZWc.jpeg" alt="Cover for Hatred Surge" style="max-width:120px; height:auto;" />
       </td>
@@ -1084,7 +1084,26 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/g5CgppAA0KfVwH_nAPGPcdPD4IC4MqaatzL9nIW7GIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTg0/MC0xMzc1ODM5Nzk0/LTY5OTcuanBlZw.jpeg" alt="Cover for Crime And Punishment" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Unhinged</td>
+      <td>Crime And Punishment</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/Sa_ZhFslnfSfzeBNlrZgyKJtBkg0CjjwihIaMoZ5JnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTIw/NjAtMTMzNjIzNTM5/OC5qcGVn.jpeg" alt="Cover for Ruido Anticapitalista &amp; Alerta" style="max-width:120px; height:auto;" />
       </td>
@@ -1154,9 +1173,9 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 70</li>
             <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 75</li>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 82</li>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 93</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1196,12 +1215,12 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 39</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/C9rs6duppC9EkJ4gfm-lSaLOMREtcTzLvNmSUrMg0Ko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc5/NjItMTIyMjY2ODc2/NC5qcGVn.jpeg" alt="Cover for Enter The Dragon EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1289,7 +1308,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/k4nWwHOAs5vGf8txdk9VaTyMlUxejzMj77hUrcoaxPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzA3/MDItMTU5MTM0Mjcy/My05Mzg1LmpwZWc.jpeg" alt="Cover for 2003 - El Ritmo De Las Ideas" style="max-width:120px; height:auto;" />
       </td>
@@ -1363,7 +1382,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 47</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1452,25 +1471,6 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://i.discogs.com/0k0PYyDdVo-petR8PC87ajPmRcjTkoMH8n0FnrmAe1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODAz/NjMtMTM5OTg0Mzkx/MC03NTk5LmpwZWc.jpeg" alt="Cover for People Who Care Are Angry" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Liberty</td>
-      <td>People Who Care Are Angry</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>39</td>
       <td>
           <img src="https://i.discogs.com/hc8YlefGL6kACaUseNCduY7KQefAjM9jxfM42EK7_i8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDIz/MDktMTU2Njk0MzQy/NC0yMzA3LmpwZWc.jpeg" alt="Cover for Archaic" style="max-width:120px; height:auto;" />
@@ -1524,8 +1524,8 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 69</li>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 81</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 72</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1547,7 +1547,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 49</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1733,7 +1733,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/-M4VuWy-pNMXuVyyWL_frOan-cRr5_Kfn0VGc5u90y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTc2/Njc0LTE1Nzc0NzAy/MDctMTQxOS5qcGVn.jpeg" alt="Cover for Resilience" style="max-width:120px; height:auto;" />
       </td>
@@ -1771,7 +1771,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/p9fUfZvGqlM0mk4W7ApUuoniwJemy7u-MzsDmtAr6ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzE0/NjM4LTE1NDA1MDI4/MjktOTczOS5qcGVn.jpeg" alt="Cover for Torment &amp; Torture Demo" style="max-width:120px; height:auto;" />
       </td>
