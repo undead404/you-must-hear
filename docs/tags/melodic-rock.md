@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T01:30:53.158Z
+date: 2025-11-04T07:04:51.433Z
 permalink: tags/melodic-rock
 title: melodic rock
 ---
 
 ## melodic rock
 
-Last updated: <time datetime="2025-11-03T01:30:53.158Z">Mon Nov 03 2025 03:30:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T07:04:51.433Z">Tue Nov 04 2025 09:04:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -91,7 +91,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
       </td>
       <td>1979</td>
@@ -100,6 +100,23 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e33f759219580b03557dba918b3c8dbf.png" alt="Cover for Head Games" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>Foreigner</td>
+      <td>Head Games</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -176,12 +193,11 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -203,7 +219,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db579c6e6ed538b084a42b778a2d9f15.png" alt="Cover for Chase the Dragon" style="max-width:120px; height:auto;" />
       </td>
@@ -216,6 +232,46 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f533e8e6a3fad013faedc6201f21c321.png" alt="Cover for I Paralyze" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982-05-28</td>
+      <td>Cher</td>
+      <td>I Paralyze</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/sY0kws8DEuo7ntB5gvl4obsSrDQJVee5KSE-cgu1FiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzQw/MS0xMzYxNzQ5NDI2/LTM2MTUuanBlZw.jpeg" alt="Cover for The Honeydrippers, Vol. 1 [Expanded]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>The Honeydrippers</td>
+      <td>The Honeydrippers, Vol. 1 [Expanded]</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -240,23 +296,6 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>80</td>
-      <td>
-          <img src="https://i.discogs.com/sY0kws8DEuo7ntB5gvl4obsSrDQJVee5KSE-cgu1FiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzQw/MS0xMzYxNzQ5NDI2/LTM2MTUuanBlZw.jpeg" alt="Cover for The Honeydrippers, Vol. 1 [Expanded]" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1984</td>
-      <td>The Honeydrippers</td>
-      <td>The Honeydrippers, Vol. 1 [Expanded]</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d635338997905313482b395bed7467f.png" alt="Cover for Lay Down the Law" style="max-width:120px; height:auto;" />
@@ -271,7 +310,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 38</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -400,7 +439,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d8f30dfd7d94ef0ce7a60274cf30378.png" alt="Cover for Out Of The Silence" style="max-width:120px; height:auto;" />
       </td>
@@ -417,7 +456,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
       </td>
       <td>1988-11-24</td>
@@ -506,6 +545,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -546,7 +586,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
       </td>
       <td>1993</td>
@@ -692,7 +732,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
       </td>
       <td>1997-03-10</td>
@@ -762,12 +802,12 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 19</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c493b3dcd0d4866c82153aafbd4a752.png" alt="Cover for Mindfields" style="max-width:120px; height:auto;" />
       </td>
@@ -858,7 +898,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/H2FAc4WOB4YzcA6dcO74ulpkUDZHpq1chxHONl__ZxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODAx/NTYtMTQ5MTM3OTM2/Ni00MDM2LmpwZWc.jpeg" alt="Cover for Seventh Key" style="max-width:120px; height:auto;" />
       </td>
@@ -952,7 +992,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       <td>
         <ul>
             <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 17</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 48</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1029,7 +1069,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
       </td>
       <td>2003</td>
@@ -1045,7 +1085,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bf7cb8b6dd5d30c4bb32204dd09b1d2.png" alt="Cover for Scenery of a Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1062,7 +1102,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 44</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 45</li>
             <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 66</li>
         </ul>
       </td>
@@ -1144,44 +1184,6 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e14200cc7dd1416a857137835c425be3.png" alt="Cover for From The Inside" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004-08-30</td>
-      <td>From The Inside</td>
-      <td>From The Inside</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca640a7f82fcf59516699919d27b1ab2.png" alt="Cover for The Destiny Stone" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004-11-08</td>
-      <td>Pride of Lions</td>
-      <td>The Destiny Stone</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf10038f95f564aaed556d6b412f7835.png" alt="Cover for Pride of Lions" style="max-width:120px; height:auto;" />
@@ -1213,12 +1215,12 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 43</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
       </td>
       <td>2005</td>
@@ -1235,7 +1237,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd11e8fdefa043d59ee860f0bbe3376c.png" alt="Cover for Lipservice" style="max-width:120px; height:auto;" />
       </td>
@@ -1288,7 +1290,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/W8l8wPDeaVYK02F8RME4GmLAJomm3iLa1qVsFE9hWrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDUw/ODEtMTU5Njc3ODkw/MC01NzA0LmpwZWc.jpeg" alt="Cover for Weapons Of Choice" style="max-width:120px; height:auto;" />
       </td>
@@ -1308,7 +1310,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
       </td>
       <td>2006-07-26</td>
@@ -1456,16 +1458,14 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>4</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8114cfa7db14c6d846f5bf571e5ff22.png" alt="Cover for Brooke Barrettsmith" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
-      <td>Brooke Barrettsmith</td>
-      <td>Brooke Barrettsmith</td>
+      <td>Free Spirit</td>
+      <td>Pale Sister of Light</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a></li>
         </ul>
       </td>
@@ -1544,26 +1544,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c638e64b73494522b53077df228f1cdc.png" alt="Cover for Dream the Dream" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-08-31</td>
-      <td>Stan Bush</td>
-      <td>Dream the Dream</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>2010-10-21</td>
@@ -1580,7 +1561,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
       </td>
       <td>2011-10-29</td>
@@ -1616,7 +1597,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/331f90432fc2af50fb573171edfd6c0a.png" alt="Cover for Look Inside" style="max-width:120px; height:auto;" />
       </td>
@@ -1650,6 +1631,24 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2013</td>
+      <td>JoNo</td>
+      <td>Requiem</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>54</td>
       <td>
           <img src="https://i.discogs.com/MqJkQqv-Zc1YwG2TA4ViaPCZZIYDBdYaHw94XX00234/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjIx/ODY0LTE1NTAyMjc0/NjQtODgwNi5qcGVn.jpeg" alt="Cover for Little By Little" style="max-width:120px; height:auto;" />
@@ -1668,7 +1667,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>10</td>
       <td>
       </td>
       <td>2013-08-07</td>
@@ -1726,7 +1725,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f54c364ef41a4a33caa27aa21c0a5281.png" alt="Cover for Dew On Roses" style="max-width:120px; height:auto;" />
       </td>
@@ -1747,7 +1746,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/74b25efabd5a225acb9378fc24b2f8f8.png" alt="Cover for Living As Ghosts With Buildings As Teeth" style="max-width:120px; height:auto;" />
       </td>
@@ -1783,7 +1782,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
       </td>
       <td>2017-04-26</td>
@@ -1800,7 +1799,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>2020-11-10</td>
@@ -1834,7 +1833,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 3</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1855,7 +1854,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 60</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 65</li>
         </ul>
       </td>
     </tr>

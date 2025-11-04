@@ -9,6 +9,10 @@ title: old-school heavy metal
 
 Last updated: <time datetime="2025-11-02T06:06:13.981Z">Sun Nov 02 2025 08:06:13 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Old-school heavy metal refers to the raw, energetic sound that defined the genre&#39;s formative era from the late 1970s through mid-1980s. Characterized by powerful riffs, soaring vocals, and an unpolished production aesthetic, it captures metal before it splintered into numerous subgenres. This tag celebrates the rebellious spirit and straightforward approach that established heavy metal&#39;s foundational sound.
+
 ### 100 chronological releases
 
 <table>
@@ -89,8 +93,6 @@ Last updated: <time datetime="2025-11-02T06:06:13.981Z">Sun Nov 02 2025 08:06:13
       <td>Cycle of life</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a></li>
         </ul>
       </td>
@@ -296,6 +298,25 @@ Last updated: <time datetime="2025-11-02T06:06:13.981Z">Sun Nov 02 2025 08:06:13
       </td>
     </tr>
     <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td>1984</td>
+      <td>Battleaxe</td>
+      <td>Power From the Universe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>9</td>
       <td>
           <img src="https://i.discogs.com/F2WdX8W7bAAmRRm9FUc2mnl2Eyhh1aplhw_nb-LDDH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODMz/NTItMTcyNzYyMzk4/Ni00Njk5LmpwZWc.jpeg" alt="Cover for Warrior" style="max-width:120px; height:auto;" />
@@ -454,24 +475,6 @@ Last updated: <time datetime="2025-11-02T06:06:13.981Z">Sun Nov 02 2025 08:06:13
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
-      <td>
-      </td>
-      <td>1984</td>
-      <td>Battleaxe</td>
-      <td>Power From the Universe</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a></li>
         </ul>
       </td>
@@ -795,9 +798,7 @@ Last updated: <time datetime="2025-11-02T06:06:13.981Z">Sun Nov 02 2025 08:06:13
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
         </ul>
       </td>
       <td>
@@ -1456,7 +1457,7 @@ Last updated: <time datetime="2025-11-02T06:06:13.981Z">Sun Nov 02 2025 08:06:13
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 17</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1627,10 +1628,7 @@ Last updated: <time datetime="2025-11-02T06:06:13.981Z">Sun Nov 02 2025 08:06:13
       <td>Cyclone</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
         </ul>
       </td>
       <td>
@@ -1924,7 +1922,7 @@ Last updated: <time datetime="2025-11-02T06:06:13.981Z">Sun Nov 02 2025 08:06:13
 - [speed metal]({{ "/tags/speed-metal" | relative_url }})
 - [nwobhm]({{ "/tags/nwobhm" | relative_url }})
 - [power metal]({{ "/tags/power-metal" | relative_url }})
-- [rock]({{ "/tags/rock" | relative_url }})
 - [traditional heavy metal]({{ "/tags/traditional-heavy-metal" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
 - [metal]({{ "/tags/metal" | relative_url }})
 - [female fronted metal]({{ "/tags/female-fronted-metal" | relative_url }})

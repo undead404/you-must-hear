@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T11:07:51.513Z
+date: 2025-11-04T07:12:51.493Z
 permalink: tags/miami-bass
 title: miami bass
 ---
 
 ## miami bass
 
-Last updated: <time datetime="2025-11-01T11:07:51.513Z">Sat Nov 01 2025 13:07:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T07:12:51.493Z">Tue Nov 04 2025 09:12:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/rfLxFuASfblLhnPG5-TnKpxDrRj3wMeSHX2dpLK9Y9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIx/OTI1LTE2MjY0OTgy/MDctMTIyNy5qcGVn.jpeg" alt="Cover for Masters Of Tweak! (TWCD-001)" style="max-width:120px; height:auto;" />
       </td>
@@ -796,7 +796,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       <td>
         <ul>
             <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 45</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 63</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 64</li>
             <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 96</li>
         </ul>
       </td>
@@ -1198,7 +1198,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/VPksA0AGXgLDarsrDTcfuE788Oe9tMfeJPN9hFiszpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjgw/ODAtMTQ3NzY3MzM0/OC03MzQ1LmpwZWc.jpeg" alt="Cover for NO SERVICE vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1591,16 +1591,16 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       <td>
         <ul>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 6</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 39</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 41</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 60</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 70</li>
             <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 80</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 82</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 83</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 87</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 92</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 95</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 96</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
             <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 97</li>
             <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 98</li>
             <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 99</li>
@@ -1656,7 +1656,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/Q2W2PgAOIcbWzb64Mcem5xNfMbQVvZ0q5ulIx5buuKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzEy/Mjc5LTE2NDIwMjMw/ODQtNDgxNC5qcGVn.jpeg" alt="Cover for FLOODLIGHT: DNB AID FOR PAKISTAN" style="max-width:120px; height:auto;" />
       </td>
@@ -1774,7 +1774,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/F-qamzpG1A2XMwD71l7FgLLzpAK6SSA4m74XJPvwZu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQx/NjU0LTE2NDk2NzY5/MjAtOTUyMC5wbmc.jpeg" alt="Cover for NO SERVICE vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -2010,14 +2010,11 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       <td>
       </td>
       <td></td>
-      <td>Operation Human Mind Expansion</td>
-      <td>Developments</td>
+      <td>Tianetta</td>
+      <td>Unknown Album (2&#x2F;17&#x2F;2009 5:48:30 PM)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
         </ul>
       </td>
