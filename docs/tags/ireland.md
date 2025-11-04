@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:35:22.091Z
+date: 2025-11-04T11:07:50.972Z
 permalink: tags/ireland
 title: ireland
 ---
 
 ## ireland
 
-Last updated: <time datetime="2025-10-28T06:35:22.091Z">Tue Oct 28 2025 08:35:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T11:07:50.972Z">Tue Nov 04 2025 13:07:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -68,7 +68,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/ln9DfoQNU2e8ncRSCrbBCDUYzMxuS3xgY9i5drtG78s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTcy/NTEtMTM5Mzc4MjE4/NS05MDI2LmpwZWc.jpeg" alt="Cover for Traditional Irish Accordion" style="max-width:120px; height:auto;" />
       </td>
@@ -111,7 +111,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/NCmenC-cQ2cWyX6-uxFdnFXlNRVPhPzIbm0Q5JJONOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODgx/Mjg1LTE1NjMyMTI0/MzAtOTMxOC5qcGVn.jpeg" alt="Cover for Take 1" style="max-width:120px; height:auto;" />
       </td>
@@ -169,7 +169,30 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/k56AlvOihFHVHD6iKCk8PiTLoEdL3xlcIzctL6rSsOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTY4/ODUtMTQyMDg4NjY2/Ni0xMzE0LmpwZWc.jpeg" alt="Cover for Beauty Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Trevor Herion</td>
+      <td>Beauty Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d3a77ce45f4790783d480d2dae3af34.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -186,7 +209,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/_9FAVqUgB79rExX_JM8ViPgPUaCC9yxp_GBIovXlE8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzM0/NzQtMTM2Nzc4MTk3/OS05MzcwLmpwZWc.jpeg" alt="Cover for The Last Man in Europe" style="max-width:120px; height:auto;" />
       </td>
@@ -204,7 +227,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/xcJxmpl0V2G1dCoiUY43IOrW1dTSI5Uv8bk8iZUse9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjQ0/MTMtMTMxODY4OTA0/Mi5qcGVn.jpeg" alt="Cover for Raytown Revisited" style="max-width:120px; height:auto;" />
       </td>
@@ -222,7 +245,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/weKnSdd0h6iSYzBrdPazFiAgZL7g5h6Ypiz0obIThyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDMz/NC0xNTIyMjMzNTEw/LTM4MzcuanBlZw.jpeg" alt="Cover for Lion And The Cobra" style="max-width:120px; height:auto;" />
       </td>
@@ -288,7 +311,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>1991</td>
@@ -404,7 +427,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 16</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 78</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -577,26 +600,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>35</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/277743e7054493e7301cb1b8bed45687.png" alt="Cover for Suicide Pact - You First" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999-10-18</td>
-      <td>Therapy?</td>
-      <td>Suicide Pact - You First</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/aQz7iYsgfKbKDXTr4VEYesBDG0GdCXVlGci-_TRTas0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTg3/MTctMTQzNjQzNDMy/NS0yMzE0LmpwZWc.jpeg" alt="Cover for Terra Celtica" style="max-width:120px; height:auto;" />
       </td>
@@ -675,7 +679,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/yE1entnjEzFl-oIoq88_s8Lf_tPhshGZxCOi8SnasRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjEw/NjAtMTI3OTQ5MjU5/MS5qcGVn.jpeg" alt="Cover for Knievel Is Evil" style="max-width:120px; height:auto;" />
       </td>
@@ -693,7 +697,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/tv9S9CxUL6-Uy5LF7mAtvhPXQDxiEQTMfdBuVqEWq4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDgz/OS0xMjYyMjI0NzMz/LmpwZWc.jpeg" alt="Cover for Sean-Nos Nua" style="max-width:120px; height:auto;" />
       </td>
@@ -712,7 +716,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>2002-10-02</td>
@@ -730,7 +734,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2003</td>
@@ -868,7 +872,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/uwz4Jc4FP0Q6ZMcpW8EOMHTypU5hG-IvJRZV9Eqoqq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjQx/NzEtMTIzNjk1MDQw/OC5qcGVn.jpeg" alt="Cover for The Lunar Observatory" style="max-width:120px; height:auto;" />
       </td>
@@ -994,7 +998,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/oxCd0-JGoD6Nl6NGfCA2Gx40MQb5jFDe-ZfilOH5ySE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDkz/MDgtMTQwOTc1NzU1/OC03OTA3LmpwZWc.jpeg" alt="Cover for My Whole Life Is Have To" style="max-width:120px; height:auto;" />
       </td>
@@ -1012,7 +1016,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/kYLbhdkYHN85VEbyP8-NkUnDn43wq_4Kv8Va91xtN2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzkx/NTMtMTQ3NTQ0Mjg3/Mi01ODE1LmpwZWc.jpeg" alt="Cover for acupofteaandasliceofcake" style="max-width:120px; height:auto;" />
       </td>
@@ -1050,7 +1054,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/nflAE6CHlLzXj6YrT_tRpFG9p_GP6LBHffLrN-SoCbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTAx/MzQtMTIzMTk3OTAw/NC5naWY.jpeg" alt="Cover for I Make Me Rigid" style="max-width:120px; height:auto;" />
       </td>
@@ -1093,7 +1097,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/MZNR_HTwbydSOLxsMifAA07fdCA-2lner9WvsH3PTLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzI1/NzUtMTU5OTI1OTYy/MC04MTgyLmpwZWc.jpeg" alt="Cover for Raincloud Free" style="max-width:120px; height:auto;" />
       </td>
@@ -1252,7 +1256,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/gw0xWTvxjHuuuSW9ZAhq5slu9By8p1b2NFg_82T7vAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDUw/NTctMTM4NzM5NzE4/Mi0xMTUwLmpwZWc.jpeg" alt="Cover for Mountbatten Class" style="max-width:120px; height:auto;" />
       </td>
@@ -1283,7 +1287,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/Nbl6thafwaatOLiiP48agK5UELGKYdeTihBVtzI-E-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTk1/ODYtMTU5OTA2Mjk2/OS03MTY1LmpwZWc.jpeg" alt="Cover for V" style="max-width:120px; height:auto;" />
       </td>
@@ -1310,7 +1314,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/44TNBs6HbbTKvCX6Oa-bowcsF-3lxteAGtFhwhF6AWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTQ1/NzctMTM1ODE4NzUw/MC0xNzM0LmpwZWc.jpeg" alt="Cover for DJ Rue&#39;s Mash-Ups" style="max-width:120px; height:auto;" />
       </td>
@@ -1411,7 +1415,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/tkk1onLF5-7k2XZt53SG7kg8W_FZluKTnUCczgPqVg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDIw/NzYtMTQwODUyMzYw/Ny03MTg5LmpwZWc.jpeg" alt="Cover for MMXIII [Demo]" style="max-width:120px; height:auto;" />
       </td>
@@ -1430,7 +1434,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/6W2rcVap3ZvKNac4Peg7PvuuL6I5KTyB3THomgILmdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDk0/NTYtMTQ1NzE5NDI4/MS0zNTU1LmpwZWc.jpeg" alt="Cover for Conquest" style="max-width:120px; height:auto;" />
       </td>
@@ -1451,7 +1455,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/PggThgwUusiMxJZDLxZXF1xoweKLFs1xQoiQojuqgN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTU1/OTUtMTQzODcwNDQw/Ny0zMDE2LmpwZWc.jpeg" alt="Cover for Bolts" style="max-width:120px; height:auto;" />
       </td>
@@ -1473,7 +1477,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/HEty3CmkbExBUP4PBhyt6Ts82no9HdNhx7fRr2-ppyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDU2/ODQtMTQyMzc2NTUy/Mi03MjI1LmpwZWc.jpeg" alt="Cover for Live at the Theatre at the Ace Hotel" style="max-width:120px; height:auto;" />
       </td>
@@ -1570,7 +1574,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/x3Xp0P2XQ3vdLoAU3WFYcFgv6CPxbF92k_pUJffUQzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDAz/ODYtMTQ2OTg4MDY3/MS00OTk1LmpwZWc.jpeg" alt="Cover for Dusk" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,7 +1694,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/3LiDUflckEuRz-zQI_2oQ5nkfs5kTch9EcxAp-enmA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQw/MTA3LTE1NTQyNDE0/MjQtMTMzOS5qcGVn.jpeg" alt="Cover for Veneration" style="max-width:120px; height:auto;" />
       </td>
@@ -1715,7 +1719,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/iPue0xaSwHCJ7zTpcKZjKxxAQ8TNQ_XWLiqM-hHnQz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM2/MzkxLTE1NTgwMDc0/NjAtMjI2Ny5qcGVn.jpeg" alt="Cover for This Is the Part I Feared Would Occur" style="max-width:120px; height:auto;" />
       </td>
@@ -1740,7 +1744,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/sp7cY9phQAdFff6Q2d56m0Yr56BmXrYuAOyWFpzBnUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk5/NjE0LTE2MDM0MTAz/NjYtODgzMy5qcGVn.jpeg" alt="Cover for Summer Demos" style="max-width:120px; height:auto;" />
       </td>
@@ -1798,7 +1802,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/6vgwfN3aE2RvR2wgFgpYp6Db06YhsmxDJw7VH7v1NHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTMy/ODg0LTE2MjIyOTc4/MjctNTMyMC5qcGVn.jpeg" alt="Cover for I Like You" style="max-width:120px; height:auto;" />
       </td>
@@ -1843,7 +1847,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1898,7 +1902,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td></td>
@@ -1924,7 +1928,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>
@@ -1946,7 +1950,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td></td>
@@ -1970,7 +1974,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1993,7 +1997,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -2011,7 +2015,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
