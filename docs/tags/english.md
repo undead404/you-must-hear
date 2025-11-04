@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T03:00:51.017Z
+date: 2025-11-04T01:11:50.980Z
 permalink: tags/english
 title: english
 ---
 
 ## english
 
-Last updated: <time datetime="2025-11-01T03:00:51.017Z">Sat Nov 01 2025 05:00:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T01:11:50.980Z">Tue Nov 04 2025 03:11:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -101,7 +101,7 @@ Last updated: <time datetime="2025-11-01T03:00:51.017Z">Sat Nov 01 2025 05:00:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 13</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 12</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 25</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 72</li>
         </ul>
@@ -253,7 +253,7 @@ Last updated: <time datetime="2025-11-01T03:00:51.017Z">Sat Nov 01 2025 05:00:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 55</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -279,7 +279,7 @@ Last updated: <time datetime="2025-11-01T03:00:51.017Z">Sat Nov 01 2025 05:00:51
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1c23a1f2ffd4715b9e32547c9160d3a.png" alt="Cover for Let It Ride" style="max-width:120px; height:auto;" />
       </td>
@@ -289,6 +289,26 @@ Last updated: <time datetime="2025-11-01T03:00:51.017Z">Sat Nov 01 2025 05:00:51
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/DHCxzgFtK6MwDEODdprdc_lf99xO2o74CAZZwUkNaRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjYz/NS0xMzc0MzIzOTEy/LTMyNjEuanBlZw.jpeg" alt="Cover for Look at Me" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-05-07</td>
+      <td>Geri Halliwell</td>
+      <td>Look at Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -316,7 +336,7 @@ Last updated: <time datetime="2025-11-01T03:00:51.017Z">Sat Nov 01 2025 05:00:51
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1484cbdafb649a5900bcdf5be4a89df.png" alt="Cover for a saucerful of secrets (2011 remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -514,7 +534,7 @@ Last updated: <time datetime="2025-11-01T03:00:51.017Z">Sat Nov 01 2025 05:00:51
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2005</td>
@@ -568,7 +588,7 @@ Last updated: <time datetime="2025-11-01T03:00:51.017Z">Sat Nov 01 2025 05:00:51
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/elx6D5iW2h7gNez-3sKSXx65ULORlR-6Mb5x0ueB2w4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjEz/My0xMTMxODEyMTE0/LmpwZWc.jpeg" alt="Cover for A Great Day For The Race" style="max-width:120px; height:auto;" />
       </td>
@@ -587,14 +607,14 @@ Last updated: <time datetime="2025-11-01T03:00:51.017Z">Sat Nov 01 2025 05:00:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 23</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 24</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 39</li>
             <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfa629a21f668d697e752797c4fe6c77.png" alt="Cover for As Super Novas" style="max-width:120px; height:auto;" />
       </td>
@@ -806,7 +826,7 @@ Last updated: <time datetime="2025-11-01T03:00:51.017Z">Sat Nov 01 2025 05:00:51
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/9svmgh7D1dF2KTRz2JCZ3Mo_1r9bYYr7N12Puom3Tlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDAy/MzQ5LTE1OTA5NDU2/MTgtNzc5NS5qcGVn.jpeg" alt="Cover for Damage (UK edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -861,7 +881,7 @@ Last updated: <time datetime="2025-11-01T03:00:51.017Z">Sat Nov 01 2025 05:00:51
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/KRThvhBu2GWoCfpeaHgzoIr47uQY1uD-1HxfQtm3eQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTcy/NTAtMTIzODg4MjMx/OS5qcGVn.jpeg" alt="Cover for 8 Bit Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -903,7 +923,7 @@ Last updated: <time datetime="2025-11-01T03:00:51.017Z">Sat Nov 01 2025 05:00:51
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/XvtTljUXTHbyWUPCR0Tiq7G7ANfLtYqs9pKdj52G8HA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk1/Mzg0LTE1MDYyNjM2/NzQtNTg3Mi5qcGVn.jpeg" alt="Cover for Genki Rockets I" style="max-width:120px; height:auto;" />
       </td>
@@ -938,7 +958,7 @@ Last updated: <time datetime="2025-11-01T03:00:51.017Z">Sat Nov 01 2025 05:00:51
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/mFtz6EWrv1Z-cw8dJu9pVDz1hamR8mbQGKpExo__wQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/NTctMTE4NTc1NTUw/Ny5qcGVn.jpeg" alt="Cover for Truth is Stranger" style="max-width:120px; height:auto;" />
       </td>
@@ -977,7 +997,7 @@ Last updated: <time datetime="2025-11-01T03:00:51.017Z">Sat Nov 01 2025 05:00:51
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2007-10-01</td>
@@ -1001,7 +1021,7 @@ Last updated: <time datetime="2025-11-01T03:00:51.017Z">Sat Nov 01 2025 05:00:51
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30148134a2d6a1d06f8e3a5ef5d39874.png" alt="Cover for Multishow Registro Ivete - Pode Entrar" style="max-width:120px; height:auto;" />
       </td>
@@ -1132,10 +1152,11 @@ Last updated: <time datetime="2025-11-01T03:00:51.017Z">Sat Nov 01 2025 05:00:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 38</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 50</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 88</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 7</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 43</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 51</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 88</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 88</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 92</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 94</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 94</li>
@@ -1190,7 +1211,7 @@ Last updated: <time datetime="2025-11-01T03:00:51.017Z">Sat Nov 01 2025 05:00:51
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/BAH2djGANFLNIRbzcx3hYfMJQoeWgsjX0yvSpu_mld4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzAw/NzItMTQyMTM0MzMz/OC0yMjk4LmpwZWc.jpeg" alt="Cover for Someone Loves You" style="max-width:120px; height:auto;" />
       </td>
@@ -1247,7 +1268,7 @@ Last updated: <time datetime="2025-11-01T03:00:51.017Z">Sat Nov 01 2025 05:00:51
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/mAzBygXbFks06S31TiyARbAho5eVtKh7ycQCuS9K-Ic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzUz/NDUtMTMxNDU0NDA4/NC5qcGVn.jpeg" alt="Cover for Amalgamation" style="max-width:120px; height:auto;" />
       </td>
@@ -1422,11 +1443,11 @@ Last updated: <time datetime="2025-11-01T03:00:51.017Z">Sat Nov 01 2025 05:00:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 61</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 62</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 92</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 96</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 96</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 97</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1897,24 +1918,6 @@ Last updated: <time datetime="2025-11-01T03:00:51.017Z">Sat Nov 01 2025 05:00:51
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://i.discogs.com/o_AaQHhlsP8TI-OTVBvhTZANonl4ALiuJyHxQggJJEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjUx/OTI3LTE2ODkxNTM4/MjUtMTAwNS5qcGVn.jpeg" alt="Cover for Sweet Crazy Love (Eng ver.)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-07-12</td>
-      <td>ODD EYE CIRCLE</td>
-      <td>Sweet Crazy Love (Eng ver.)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>85</td>
       <td>
           <img src="https://i.discogs.com/-E8VapTeHsNt7ChJlfwR6x3jnoVcBJqw0hfpWeQjnds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTg3/Mi0xMzI4MjkwMzE3/LmpwZWc.jpeg" alt="Cover for One Look" style="max-width:120px; height:auto;" />
@@ -2122,7 +2125,7 @@ Last updated: <time datetime="2025-11-01T03:00:51.017Z">Sat Nov 01 2025 05:00:51
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/ntCb9yuBdCbPl0s7wbrt5UQCRUYv5bZ4SS8B1DHpHhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDM5/OTE4LTE3MjkyNzcx/ODgtMjk5MS5qcGVn.jpeg" alt="Cover for APT." style="max-width:120px; height:auto;" />
       </td>

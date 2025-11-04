@@ -9,6 +9,10 @@ title: poland
 
 Last updated: <time datetime="2025-10-31T08:46:18.976Z">Fri Oct 31 2025 10:46:18 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#39;s contemporary scene, spanning hip-hop, electronic, indie rock, and experimental sounds that reflect the country&#39;s post-communist cultural evolution. Artists blend Western influences with distinctly Polish sensibilities, often incorporating local language, melancholic undertones, and urban narratives. The sound ranges from introspective downtempo to energetic rap and alternative rock, united by Poland&#39;s unique artistic perspective.
+
 ### 100 chronological releases
 
 <table>
@@ -429,7 +433,7 @@ Last updated: <time datetime="2025-10-31T08:46:18.976Z">Fri Oct 31 2025 10:46:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 21</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -964,7 +968,7 @@ Last updated: <time datetime="2025-10-31T08:46:18.976Z">Fri Oct 31 2025 10:46:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 55</li>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 57</li>
             <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 87</li>
         </ul>
       </td>

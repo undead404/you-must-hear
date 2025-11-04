@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T18:30:51.118Z
+date: 2025-11-04T01:10:50.988Z
 permalink: tags/sweden
 title: sweden
 ---
 
 ## sweden
 
-Last updated: <time datetime="2025-11-02T18:30:51.118Z">Sun Nov 02 2025 20:30:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T01:10:50.988Z">Tue Nov 04 2025 03:10:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -52,7 +52,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>1976-10-11</td>
@@ -139,7 +139,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>1990</td>
@@ -512,7 +512,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f706f3a4d0e2902652ec14fc15e1880.png" alt="Cover for Casino" style="max-width:120px; height:auto;" />
       </td>
@@ -555,7 +555,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2001-02-01</td>
@@ -754,7 +754,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/mf3qlmFaB9wGsL45VF19n8cSDP82H-1kem1a7_VwMtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTc3/Ni0xMTI2NDI4Nzc4/LmpwZWc.jpeg" alt="Cover for Kiss and Tell" style="max-width:120px; height:auto;" />
       </td>
@@ -822,7 +822,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/BNkmnJWuKiEQMCEoh5ER2nUnjsJkmL9PqKqvaMz1N0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDQ0/MzAtMTQwNjk5NjU1/Ni01ODA3LmpwZWc.jpeg" alt="Cover for Kongressen" style="max-width:120px; height:auto;" />
       </td>
@@ -847,7 +847,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/JWpH3DuXWDsxFdNk-h_RKU2WC9nGMQeTXDgKnqRLPas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI3/OTczLTE0OTM3NDMx/MjUtMzI4MS5qcGVn.jpeg" alt="Cover for Drifting" style="max-width:120px; height:auto;" />
       </td>
@@ -908,7 +908,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/HloHMKscbmaMmKVuBvd6vwMl_0d4XU0I2qPlU7a0uFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzU0/MTQtMTMxMjM4Mzk4/OS5qcGVn.jpeg" alt="Cover for Make way for the ocean floor to fall to the surface" style="max-width:120px; height:auto;" />
       </td>
@@ -1166,7 +1166,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 4</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 5</li>
             <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 98</li>
         </ul>
       </td>
@@ -1194,7 +1194,29 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2a61c37964c4695b8cd5c1fc092d7cf.png" alt="Cover for The Nautilus Years" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-03-10</td>
+      <td>Surrounded</td>
+      <td>The Nautilus Years</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/Y4udu_vJejtT0ehmulfQcOHl9Z7G4qxj4eg0H-inbks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzYz/NDAtMTMzNTkxNDg2/MC5qcGVn.jpeg" alt="Cover for It&#39;s Getting Clearer" style="max-width:120px; height:auto;" />
       </td>
@@ -1381,25 +1403,6 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2af125f6c4a410cc172ff23879f005a.png" alt="Cover for Bleed and Scream" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012</td>
-      <td>Eclipse</td>
-      <td>Bleed and Scream</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>39</td>
       <td>
       </td>
@@ -1459,7 +1462,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 16</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 18</li>
             <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 74</li>
             <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 81</li>
         </ul>
@@ -1581,7 +1584,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2013-09-23</td>
@@ -1646,7 +1649,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ad4943fa46e4530c5e4a2b563aae7f6.png" alt="Cover for They Worshipped Cats" style="max-width:120px; height:auto;" />
       </td>
@@ -1662,7 +1665,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 33</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1883,7 +1886,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/kv0vvthkNQPgKoG1-aYBxASskc3S-_rqIv7RX90lLEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDQ1/NjQzLTE2MTEzMjA0/NDMtOTE4NS5qcGVn.jpeg" alt="Cover for II" style="max-width:120px; height:auto;" />
       </td>
@@ -1898,7 +1901,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 31</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1947,7 +1950,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/3osBL5Rr6jhgdYx2MlWp3sWYW9AWOfTN7bqV6rZ_aVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODAz/MDU1LTE3MTczMTQz/NDgtODQwNS5qcGVn.jpeg" alt="Cover for HELLBUTCHER" style="max-width:120px; height:auto;" />
       </td>
@@ -1967,7 +1970,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
