@@ -9,110 +9,2752 @@ title: iran
 
 Last updated: <time datetime="2025-10-22T09:01:37.952Z">Wed Oct 22 2025 12:01:37 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Music from Iran encompasses a rich tradition spanning classical Persian music with its intricate modal systems and microtonal scales, to contemporary rock, electronic, and experimental sounds. The tag captures both traditional instruments like the tar and santur alongside modern production, reflecting Iran&#39;s complex cultural heritage and diaspora experience. Whether meditative and ornamental or rebelliously modern, this music carries distinctive Middle Eastern melodic sensibilities and poetic depth.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 1 |  |  | PERSROCK | Persrock |
-| 2 |  |  | Pouran | Molla Mammad Jaan - Persian Music |
-| 3 |  |  | Mohammad Reza Shajarian | Beyade Aref, Shajarian 4 - Persian Music |
-| 53 |  |  | Sogand | Romantic |
-| 54 |  |  | Artoush | Nefrin |
-| 57 |  |  | Mohammad Nouri | Jaane Maryam - Persian Music |
-| 59 |  |  | Alireza Ghorbani | Rosvaye Zamaneh |
-| 60 |  |  | Sami Beigi | King |
-| 65 |  |  | Niaz Nawab | Hafez |
-| 66 |  |  | Alireza Eftekhari | Navay -e Asatid (The Tunes of the Masters) |
-| 75 |  |  | Ali Sorena | Kavir |
-| 76 |  |  | Mohsen Yeganeh | Hobab |
-| 90 |  |  | King Raam | The Vulture |
-| 70 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1977 | Various Artists | Pomegranates |
-| 61 | ![Cover](https://i.discogs.com/v4GLkYvhA5W8XKNEI5rGLOQGhOdsxtQrF3zpaFPUM1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTI0/NDYyLTE2NTgxNjAz/MzAtOTMyNC5qcGVn.jpeg) | 1985 | Mohammad Reza Shajarian | Rendan e Mast |
-| 52 | ![Cover](https://i.discogs.com/IlR6akxkf6ioqPoYWyibF2BPOgj3A14Z9OUCltX_Zko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDAy/NTQyLTE3MTMyNzAy/MzUtMjEyNy5qcGVn.jpeg) | 1991 | Dariush | 40 Dariush Golden Songs, Vol 1 |
-| 15 | ![Cover](https://i.discogs.com/vwbN6Zs4zMPeljq0v97nPjMFuNGfpApK7cizSyldY2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTc2/NTUtMTU2MzI2NzYx/Ni03NDUyLmpwZWc.jpeg) | 1995 | Madjid Khaladj | Iranian Percussions |
-| 73 |  | 1998 | Sima Bina | Nava&#39;i |
-| 91 | ![Cover](https://i.discogs.com/FNJkdL4-eC3JBAL_OQajufR-nn_ru8twxxUqYFfw5mE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NTI2/NDQtMTQ3MDE0OTc5/Ni01OTQxLmpwZWc.jpeg) | 2003 | Marjan | Kavire Del |
-| 96 | ![Cover](https://i.discogs.com/lynkQZAJV3LtYGGks-lJLmE9elfahSWM5y8pX-2_TVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTU1/MTktMTM3ODA1ODAx/Ny00MTU5LmpwZWc.jpeg) | 2003-08-26 | Ghazal | The Rain |
-| 89 | ![Cover](https://i.discogs.com/5pICpZzCF_9WIoaGWOXWa665h6NMYvTVTsoOBZP9I8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjI5/MTYtMTY4MDIwNDIw/MS03OTg4LmpwZWc.jpeg) | 2005 | O-Hum | Aloodeh |
-| 64 | ![Cover](https://i.discogs.com/L-AQ3siqhywkg0C_CAOgIevWeMPJhI1KXsEJKMvky1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njc1/NjQ5LTE2MjA2ODYw/NTItOTkwNC5qcGVn.jpeg) | 2006 | Habib | Mardeh Tanhayeh Shab |
-| 56 | ![Cover](https://i.discogs.com/vXE8PKBtqqOrLB_Y9PsMwb-mvbS2DxnvIBVO2qe0eMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTg3/NzAtMTQ1ODEzMDI0/My02NDM1LmpwZWc.jpeg) | 2007 | Sarakhs | Mordad 85 |
-| 77 | ![Cover](https://i.discogs.com/vKZJz-zbsGmhmZwjXL8EOEBdMU1pjKEgKaf4JIi0a1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDYy/MTQ0LTE0OTc5MTk4/NjgtMjcyMi5qcGVn.jpeg) | 2007 | Haale | Paratrooper |
-| 85 |  | 2007 | Farhad | Snow |
-| 63 |  | 2007-01 | Haale | Morning |
-| 74 |  | 2008 | Ballgard | Zigiland |
-| 82 |  | 2008-12-01 | Ekove Efrits | Suicidal Rebirth |
-| 67 | ![Cover](https://i.discogs.com/OPO1R_6UjdssQVx7Ms670EKs6l3hrXtjpCr_87_3FC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODU5/LTE2Mzk3MjkxOTct/ODI3OS5qcGVn.jpeg) | 2009-08-17 | Rez | Shahrvand |
-| 84 |  |  | Shahram Nazeri | Mythical Chant |
-| 93 | ![Cover](https://i.discogs.com/BWguEuc7vK-8MGDXKUYIrqbWW80LjiUjtIgyGz5tYzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIw/NDQtMTI0OTIxMjc5/Mi5qcGVn.jpeg) | 2009 | Kiosk | bagh e vahsh e jahani (Global Zoo) |
-| 8 | ![Cover](https://i.discogs.com/OQolA-cYLRZJcwKWZ6af-WPZgqLVohSs98nGBsEq5SA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Njg3/MTMtMTQ5OTkzMTY5/Ny0zOTY3LmpwZWc.jpeg) | 2010 | Hypernova | Fairy Tales (Single) |
-| 51 | ![Cover](https://i.discogs.com/fwCSV7qhuCMHgHSce_GNZg-6_r863-5eicYc6XM9rH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDIy/OTQtMTI5NDYwMTcz/OS5qcGVn.jpeg) | 2010 | Ekove Efrits | Hypermnesia |
-| 97 |  | 2010-04-06 | Hypernova | Through The Chaos |
-| 4 | ![Cover](https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg) | 2010-12-01 | Various Artists | Les chats persans (Bande originale du film) |
-| 5 |  |  | Kourosh Yaghmaei | Gol-e Yakh |
-| 6 |  |  | Milad Derakhshani | Harf Bezan |
-| 98 | ![Cover](https://i.discogs.com/AMWmIAwrSaZ1SGQZqGpSRjJUK1LnD2L049mExr2X254/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjEz/MjUtMTMxNjc4MDcy/NS5qcGVn.jpeg) | 2011 | Kourosh Yaghmaei | Back From The Brink: Pre-Revolution Psychedelic Rock From Iran: 1973-1979 |
-| 88 |  | 2011-04-11 | 1000 Funerals | Butterfly Decadence |
-| 79 | ![Cover](https://i.discogs.com/U7rGQEPHJhxopjG2J5HdD1UYglDWzdTqfGuHu4taQBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTY1/MDgtMTM4NDM3NDA3/NS00ODczLnBuZw.jpeg) | 2012 | Habib | Bezan Baran |
-| 87 | ![Cover](https://i.discogs.com/xxuEM9znAV2_NZLfTfWUHU4r5Vn--urc09jlCi2KELQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDkx/ODctMTQwOTMwMDY0/NS00MDY0LmpwZWc.jpeg) | 2012 | Kourosh Yaghmaei | Gole Yakh - Persian Music |
-| 80 |  | 2012-02-14 | Kayhan Kalhor | I Will Not Stand Alone |
-| 71 |  | 2012-03-24 | Kayhan Kalhor | The Wind |
-| 95 |  | 2012-03-24 | Kayhan Kalhor | Silent City |
-| 7 | ![Cover](https://i.discogs.com/6NTdext0oPbpOrOO8hUxCLJCVou7ptl8jNHa3jMt9L4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Nzg3/MjgtMTM2ODk1Mzcy/MC0zODUyLmpwZWc.jpeg) | 2012-07-28 | Silent Path | Mourner Portraits |
-| 9 |  |  | Kilometre23 | Locomotive Khasteh (Tired Locomotive) |
-| 10 |  |  | Naser Montazeri | The Days Bygone&#x2F; Roozoon e Raftah |
-| 14 |  |  | Houshmand Aghili | Houshmand Aghili, Vol. 5 - Persian Music |
-| 27 |  |  | Mist Within | Post Mortem Dump |
-| 29 |  |  | Reza Yazdani | Khaterat Mobham |
-| 30 |  |  | Afshin Moghadam | Zemestoon - Persian Music |
-| 34 |  |  | Ebrahim Monsefi | Râmi&#39;s Songs |
-| 37 |  |  | Bomrani | 1340 |
-| 39 |  |  | Aida Shamlou | Ever Shining Suns |
-| 40 |  |  | Zir-Cigari | Nale dar Kenare Zohr |
-| 43 |  |  | Hadi Pakzad | Darkness |
-| 46 |  |  | Shahram Gholami | Persian Oud, Dirine Delkhah |
-| 48 |  |  | Alireza Eftekhari | Sayyad(Hunter)-Iranian Classical Music |
-| 49 |  |  | Shahram Shabpareh | Khejalati |
-| 24 | ![Cover](https://i.discogs.com/bfYdBGnabmXPk38PI2hJu6dFFK9YPQC61Yusu81ohWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQy/MDItMTE4NTI4NjI0/Ni5qcGVn.jpeg) | 1991 | Dariush | 40 Golden Hits of Dariush |
-| 22 | ![Cover](https://i.discogs.com/SaiDgccMVMxhF3N7bxnjZlgjKUG3K6iDmosKTL_CIQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTI0/ODIwLTE2NTk4NTMw/ODEtNTY0Ny5qcGVn.jpeg) | 1993 | Hossein Alizadeh | Under the Cutting Blade (Original Motion Picture Soundtrack) |
-| 47 | ![Cover](https://i.discogs.com/hHxbz-ujcPRdniTDrZ9IJ0fsNp6Y_x6WBMxlVem-eYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjg4/NTQtMTQ1Mzc4OTQ2/Ny0yNDYxLmpwZWc.jpeg) | 1993 | Faramarz Aslani | Roozhaye Taraneh Va Andooh - Persian Music |
-| 32 | ![Cover](https://i.discogs.com/4kvW_2Rm6MvjyHe53kOy-3r4GAPUtZvcGYwO3aKkkPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQy/ODY2LTE2ODIxMzIy/MjgtMTE2Mi5qcGVn.jpeg) | 1994 | Farhad | Khab dar Bidari |
-| 28 | ![Cover](https://i.discogs.com/M043B-EUkzk6oV1vl_gjTuHTniyKYNT_GewQsdFg5gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODg5/MTQtMTMzMjUzMzA5/NC5qcGVn.jpeg) | 1996 | Mirza | Pinocchio |
-| 20 |  | 1998 | Minoo Javan | Persian Folk Songs |
-| 21 | ![Cover](https://i.discogs.com/djmN_DjNi0dJb34-CORTjvhamQpprTEcXHnUnZQ12fA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk3/MDU1LTE1OTc5NTk1/MzAtMjQ3Ni5qcGVn.jpeg) | 1999 | Sima Bina | Music of North Khorassan |
-| 25 |  | 2004-05-18 | Vas | Feast Of Silence |
-| 41 | ![Cover](https://i.discogs.com/46N8NvXLNqAPSqkCEkOekCVUM2x9-WLHD8Dpw_2ktS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/NTUyLTE1MDg4NTY2/NjctODE5My5qcGVn.jpeg) | 2006 | Vigen | Viguen [Ahanghaye Do Sedaiy] |
-| 42 | ![Cover](https://i.discogs.com/46N8NvXLNqAPSqkCEkOekCVUM2x9-WLHD8Dpw_2ktS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/NTUyLTE1MDg4NTY2/NjctODE5My5qcGVn.jpeg) | 2006 | Vigen | Zane Irooni |
-| 13 | ![Cover](https://i.discogs.com/_bkQcMuEki2rc7IOg5LFSpE7WKqN8I7_dv8UgdkBt60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDgy/MjEtMTE5NjAwMjM0/Ni5qcGVn.jpeg) | 2007 | Aras | Depressive Rebellion |
-| 38 |  | 2007 | Farhad | Vahdat |
-| 35 | ![Cover](https://i.discogs.com/70eVp5HVAxGZVP0G06StLaqdPMArZ_hqQRq3XaMxYDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU0/MTM0LTE1OTE3OTUz/NjktODg4MC5qcGVn.jpeg) | 2007-08-01 | Emerna | Mortem Animalium |
-| 50 |  | 2008-12-30 | Abdi Behravanfar | Shalamrood |
-| 45 |  | 2009-07-02 | Ekove Efrits | Nettlesome Solitude |
-| 31 | ![Cover](https://i.discogs.com/4_oHcKlhyHv_T4r9Z9DZ7S-GkLQ065KpAjtBiJA6rWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTM0/NTAtMTI4NDI3MTM3/MC5qcGVn.jpeg) | 2010 | Mehrpouya | Soul Raga |
-| 11 | ![Cover](https://i.discogs.com/Ev1rcN47Sesr4n-u625eOch57xjC3lHXZmnZdrCRMd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTA5/OTItMTQ4NDIyNjAz/MS0xMTIzLmpwZWc.jpeg) | 2010-01-16 | Zakhm | Drowned In Suicide Thoughts |
-| 23 | ![Cover](https://i.discogs.com/2Y5KAtLic-1n9dOxEb5GuW-cHRzTD-9-weKi8qgSlvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDY0/MzUtMTM5NjE4NTE1/My0zNjcwLmpwZWc.jpeg) | 2014-03-30 | Yestegan chaY | Shikoon |
-| 44 | ![Cover](https://i.discogs.com/FOzEmAozLmmYDMHXiy2HmXa-Z7QZla4eXh-IFg283DA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDIz/NTktMTQ0OTA4MTI1/NS03NzQ5LmpwZWc.jpeg) | 2014-05-09 | Comment Band | Rafte Az Dast |
-| 26 | ![Cover](https://i.discogs.com/WCVdfOflpYBGSh3NJGENJ7j6Wct0SQxbRJLpyt6_t9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzI4/MDMtMTQxMDM1MDYw/Ny0xNTI0LmpwZWc.jpeg) | 2014-10-06 | From the Vastland | Temple Of Daevas |
-| 33 | ![Cover](https://i.discogs.com/5mfjZVbh4ch4m6MxsGKnGjvq4S9A2sgJNpfqCxFFE68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTQ1/NDMtMTQ1MTE0NDY5/My00NDg1LmpwZWc.jpeg) | 2015-12-11 | 9T Antiope | Syzygys |
-| 18 | ![Cover](https://i.discogs.com/WsKWKkE_MHuDkIg8XYrzwVnMQMiaJsN_nJOJLNih56M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM3/ODkzLTE1MDA4MjQ2/NzgtODM5Ny5qcGVn.jpeg) | 2016-06-25 | Blaakyum | Riot Against Riot |
-| 17 | ![Cover](https://i.discogs.com/8aXZP7hnFijKh9hrgTC_eHKhYclSxSEeEPuPYvbaRmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzg2/NDgyLTE2MDk4MDky/MjktNzU3MS5qcGVn.jpeg) | 2020-03-13 | Shab | Spell On Me |
-| 12 | ![Cover](https://i.discogs.com/1saCA1eapP7OYtEH8ETjCV5E4rwTEPBDnAc55d4ol_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDI2/ODQyLTE2MTM0MDAz/ODUtOTk0NC5qcGVn.jpeg) | 2020-03-31 | Hichkas | Firooz |
-| 16 |  |  | Mohammad Reza Shajarian | Bote Chin, Shajarian 1 - Persian Music |
-| 19 |  |  | Fereydoon Farrokhzad | Memories (Best of Farrokhzad Vol. 1) - Persian Music |
-| 55 | ![Cover](https://i.discogs.com/FOzEmAozLmmYDMHXiy2HmXa-Z7QZla4eXh-IFg283DA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDIz/NTktMTQ0OTA4MTI1/NS03NzQ5LmpwZWc.jpeg) | 2013-11-17 | Comment Band | Slipped Away |
-| 94 | ![Cover](https://i.discogs.com/4j5tDHK_XMy0dDJAIz_ZxiuORuPYb_Lym7hGcBDtQ0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDUx/MjQtMTQwNjE4OTc1/Ny01MjEwLmpwZWc.jpeg) | 2014-05-28 | Mohsen Namjoo | Trust The Tangerine Peel |
-| 68 | ![Cover](https://i.discogs.com/mG4g9Bv8H3dYzPGRD_QcIOnHesiisqUf_LmhycvTaRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njkx/Njg1LTE1OTYwMDI3/OTYtMzAyNC5qcGVn.jpeg) | 2015 | Arta | Ye Wan Tony |
-| 78 |  | 2016 | Various Artists | Cien gaviotas donde iran... Un tributo a Duncan Dhu |
-| 69 | ![Cover](https://i.discogs.com/WsKWKkE_MHuDkIg8XYrzwVnMQMiaJsN_nJOJLNih56M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM3/ODkzLTE1MDA4MjQ2/NzgtODM5Ny5qcGVn.jpeg) | 2016-06-25 | Blaakyum | Line Of Fear |
-| 100 | ![Cover](https://i.discogs.com/5d1gJ5SBAAl8vpicA6Zxj5BAyblYetiimDuGnEWqg2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg5/MDE2LTE0OTY0OTY3/MDUtMjYzOS5qcGVn.jpeg) | 2017-06-02 | Hiatus | All The Troubled Hearts |
-| 99 | ![Cover](https://i.discogs.com/4lKtvBk4TkPT-_RnskiDmenMZwYK9HZT21Nc-v2yENA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzc2/NTk1LTE1NzMyOTgy/NDctNjY2NS5qcGVn.jpeg) | 2019-11-08 | Shida Shahabi | Shifts |
-| 62 | ![Cover](https://i.discogs.com/f3ZoiwvbfYH2LlNembvMyuKrTWxGyFQQFWGh4UFkmq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjgw/NDQ1LTE2MTI1OTc4/MjUtMjA4Mi5qcGVn.jpeg) | 2020-08-11 | Sirvan Khosravi | 9 O&#39;Clock |
-| 72 | ![Cover](https://i.discogs.com/ualU873VCFrnPx4tBuL5M95RGrPAGHUquWGPuNt72fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTUx/NDk0LTE2NDA5NDY1/MTMtNjUzOC5qcGVn.jpeg) | 2021-04-24 | Crows in the Rain | Sorrow For An Unfinished Dream |
-| 81 | ![Cover](https://i.discogs.com/ualU873VCFrnPx4tBuL5M95RGrPAGHUquWGPuNt72fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTUx/NDk0LTE2NDA5NDY1/MTMtNjUzOC5qcGVn.jpeg) | 2021-04-24 | Crows in the Rain | Dri:m Wan; Därk Blü |
-| 58 | ![Cover](https://i.discogs.com/J_Tct5zj4dvEFdZV6SLZh0PdaZLdCaH_nqU607Nj0c0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQ5/OTIwLTE2MjUyMTU4/NTItNzczNC5qcGVn.jpeg) | 2021-06-11 | Siavash Amini | A Trail of Laughters |
-| 36 | ![Cover](https://i.discogs.com/5pICpZzCF_9WIoaGWOXWa665h6NMYvTVTsoOBZP9I8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjI5/MTYtMTY4MDIwNDIw/MS03OTg4LmpwZWc.jpeg) | 2022-03-15 | O-Hum | In Kherghe Biandaz |
-| 83 |  |  | Simin Ghanem | Gollake Cheshat - Persian Music |
-| 86 |  |  | Fereydoon Foroughi | Fetneh Chakmehpoosh (Persian Music) |
-| 92 |  |  | Omid Shabani | Blooming in the Valley |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Pomegranates" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Pomegranates</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/v4GLkYvhA5W8XKNEI5rGLOQGhOdsxtQrF3zpaFPUM1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTI0/NDYyLTE2NTgxNjAz/MzAtOTMyNC5qcGVn.jpeg" alt="Cover for Rendan e Mast" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985</td>
+      <td>Mohammad Reza Shajarian</td>
+      <td>Rendan e Mast</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 30</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 31</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 54</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 60</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/bfYdBGnabmXPk38PI2hJu6dFFK9YPQC61Yusu81ohWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQy/MDItMTE4NTI4NjI0/Ni5qcGVn.jpeg" alt="Cover for 40 Golden Hits of Dariush" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Dariush</td>
+      <td>40 Golden Hits of Dariush</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 12</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/IlR6akxkf6ioqPoYWyibF2BPOgj3A14Z9OUCltX_Zko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDAy/NTQyLTE3MTMyNzAy/MzUtMjEyNy5qcGVn.jpeg" alt="Cover for 40 Dariush Golden Songs, Vol 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Dariush</td>
+      <td>40 Dariush Golden Songs, Vol 1</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 11</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 41</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 60</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 66</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/SaiDgccMVMxhF3N7bxnjZlgjKUG3K6iDmosKTL_CIQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTI0/ODIwLTE2NTk4NTMw/ODEtNTY0Ny5qcGVn.jpeg" alt="Cover for Under the Cutting Blade (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Hossein Alizadeh</td>
+      <td>Under the Cutting Blade (Original Motion Picture Soundtrack)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 11</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 36</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/hHxbz-ujcPRdniTDrZ9IJ0fsNp6Y_x6WBMxlVem-eYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjg4/NTQtMTQ1Mzc4OTQ2/Ny0yNDYxLmpwZWc.jpeg" alt="Cover for Roozhaye Taraneh Va Andooh - Persian Music" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Faramarz Aslani</td>
+      <td>Roozhaye Taraneh Va Andooh - Persian Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/4kvW_2Rm6MvjyHe53kOy-3r4GAPUtZvcGYwO3aKkkPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQy/ODY2LTE2ODIxMzIy/MjgtMTE2Mi5qcGVn.jpeg" alt="Cover for Khab dar Bidari" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Farhad</td>
+      <td>Khab dar Bidari</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 20</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 43</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 52</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/vwbN6Zs4zMPeljq0v97nPjMFuNGfpApK7cizSyldY2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTc2/NTUtMTU2MzI2NzYx/Ni03NDUyLmpwZWc.jpeg" alt="Cover for Iranian Percussions" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Madjid Khaladj</td>
+      <td>Iranian Percussions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 3</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 29</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 32</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/M043B-EUkzk6oV1vl_gjTuHTniyKYNT_GewQsdFg5gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODg5/MTQtMTMzMjUzMzA5/NC5qcGVn.jpeg" alt="Cover for Pinocchio" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Mirza</td>
+      <td>Pinocchio</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 16</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 50</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Minoo Javan</td>
+      <td>Persian Folk Songs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 9</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 34</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 35</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Sima Bina</td>
+      <td>Nava&#39;i</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 8</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 51</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 52</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 66</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 68</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/djmN_DjNi0dJb34-CORTjvhamQpprTEcXHnUnZQ12fA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk3/MDU1LTE1OTc5NTk1/MzAtMjQ3Ni5qcGVn.jpeg" alt="Cover for Music of North Khorassan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Sima Bina</td>
+      <td>Music of North Khorassan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 10</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 35</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/FNJkdL4-eC3JBAL_OQajufR-nn_ru8twxxUqYFfw5mE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NTI2/NDQtMTQ3MDE0OTc5/Ni01OTQxLmpwZWc.jpeg" alt="Cover for Kavire Del" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Marjan</td>
+      <td>Kavire Del</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asia" | relative_url }}">asia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 71</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 84</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 89</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/lynkQZAJV3LtYGGks-lJLmE9elfahSWM5y8pX-2_TVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTU1/MTktMTM3ODA1ODAx/Ny00MTU5LmpwZWc.jpeg" alt="Cover for The Rain" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-08-26</td>
+      <td>Ghazal</td>
+      <td>The Rain</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td>2004-05-18</td>
+      <td>Vas</td>
+      <td>Feast Of Silence</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 17</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 40</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 43</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/5pICpZzCF_9WIoaGWOXWa665h6NMYvTVTsoOBZP9I8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjI5/MTYtMTY4MDIwNDIw/MS03OTg4LmpwZWc.jpeg" alt="Cover for Aloodeh" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>O-Hum</td>
+      <td>Aloodeh</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 82</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 87</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 93</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 94</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/46N8NvXLNqAPSqkCEkOekCVUM2x9-WLHD8Dpw_2ktS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/NTUyLTE1MDg4NTY2/NjctODE5My5qcGVn.jpeg" alt="Cover for Viguen [Ahanghaye Do Sedaiy]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Vigen</td>
+      <td>Viguen [Ahanghaye Do Sedaiy]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 30</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/46N8NvXLNqAPSqkCEkOekCVUM2x9-WLHD8Dpw_2ktS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/NTUyLTE1MDg4NTY2/NjctODE5My5qcGVn.jpeg" alt="Cover for Zane Irooni" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Vigen</td>
+      <td>Zane Irooni</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 31</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/L-AQ3siqhywkg0C_CAOgIevWeMPJhI1KXsEJKMvky1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njc1/NjQ5LTE2MjA2ODYw/NTItOTkwNC5qcGVn.jpeg" alt="Cover for Mardeh Tanhayeh Shab" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Habib</td>
+      <td>Mardeh Tanhayeh Shab</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 36</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 58</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 74</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/_bkQcMuEki2rc7IOg5LFSpE7WKqN8I7_dv8UgdkBt60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDgy/MjEtMTE5NjAwMjM0/Ni5qcGVn.jpeg" alt="Cover for Depressive Rebellion" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Aras</td>
+      <td>Depressive Rebellion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 27</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 41</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Farhad</td>
+      <td>Vahdat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 27</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 49</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 57</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/vXE8PKBtqqOrLB_Y9PsMwb-mvbS2DxnvIBVO2qe0eMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTg3/NzAtMTQ1ODEzMDI0/My02NDM1LmpwZWc.jpeg" alt="Cover for Mordad 85" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Sarakhs</td>
+      <td>Mordad 85</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 17</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 46</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 64</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 69</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/vKZJz-zbsGmhmZwjXL8EOEBdMU1pjKEgKaf4JIi0a1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDYy/MTQ0LTE0OTc5MTk4/NjgtMjcyMi5qcGVn.jpeg" alt="Cover for Paratrooper" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Haale</td>
+      <td>Paratrooper</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 56</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 70</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 80</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 82</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Farhad</td>
+      <td>Snow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 35</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 72</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 80</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 86</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 89</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 89</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td>2007-01</td>
+      <td>Haale</td>
+      <td>Morning</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 35</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 57</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 72</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 73</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/70eVp5HVAxGZVP0G06StLaqdPMArZ_hqQRq3XaMxYDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU0/MTM0LTE1OTE3OTUz/NjktODg4MC5qcGVn.jpeg" alt="Cover for Mortem Animalium" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-08-01</td>
+      <td>Emerna</td>
+      <td>Mortem Animalium</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 23</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 45</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 54</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Ballgard</td>
+      <td>Zigiland</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 52</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 67</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 79</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 80</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>2008-12-01</td>
+      <td>Ekove Efrits</td>
+      <td>Suicidal Rebirth</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 68</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 77</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 85</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 87</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td>2008-12-30</td>
+      <td>Abdi Behravanfar</td>
+      <td>Shalamrood</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 7</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 38</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 63</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/BWguEuc7vK-8MGDXKUYIrqbWW80LjiUjtIgyGz5tYzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIw/NDQtMTI0OTIxMjc5/Mi5qcGVn.jpeg" alt="Cover for bagh e vahsh e jahani (Global Zoo)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Kiosk</td>
+      <td>bagh e vahsh e jahani (Global Zoo)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 87</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 92</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 97</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td>2009-07-02</td>
+      <td>Ekove Efrits</td>
+      <td>Nettlesome Solitude</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 1</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 34</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 56</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 62</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/OPO1R_6UjdssQVx7Ms670EKs6l3hrXtjpCr_87_3FC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODU5/LTE2Mzk3MjkxOTct/ODI3OS5qcGVn.jpeg" alt="Cover for Shahrvand" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-08-17</td>
+      <td>Rez</td>
+      <td>Shahrvand</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 42</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 62</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/OQolA-cYLRZJcwKWZ6af-WPZgqLVohSs98nGBsEq5SA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Njg3/MTMtMTQ5OTkzMTY5/Ny0zOTY3LmpwZWc.jpeg" alt="Cover for Fairy Tales (Single)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Hypernova</td>
+      <td>Fairy Tales (Single)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 21</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 37</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/4_oHcKlhyHv_T4r9Z9DZ7S-GkLQ065KpAjtBiJA6rWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTM0/NTAtMTI4NDI3MTM3/MC5qcGVn.jpeg" alt="Cover for Soul Raga" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Mehrpouya</td>
+      <td>Soul Raga</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 19</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 42</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/fwCSV7qhuCMHgHSce_GNZg-6_r863-5eicYc6XM9rH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDIy/OTQtMTI5NDYwMTcz/OS5qcGVn.jpeg" alt="Cover for Hypermnesia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Ekove Efrits</td>
+      <td>Hypermnesia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 9</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 40</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 59</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 65</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/Ev1rcN47Sesr4n-u625eOch57xjC3lHXZmnZdrCRMd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTA5/OTItMTQ4NDIyNjAz/MS0xMTIzLmpwZWc.jpeg" alt="Cover for Drowned In Suicide Thoughts" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-01-16</td>
+      <td>Zakhm</td>
+      <td>Drowned In Suicide Thoughts</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 25</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 40</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td>2010-04-06</td>
+      <td>Hypernova</td>
+      <td>Through The Chaos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 92</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 97</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 99</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Les chats persans (Bande originale du film)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-12-01</td>
+      <td>Various Artists</td>
+      <td>Les chats persans (Bande originale du film)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/AMWmIAwrSaZ1SGQZqGpSRjJUK1LnD2L049mExr2X254/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjEz/MjUtMTMxNjc4MDcy/NS5qcGVn.jpeg" alt="Cover for Back From The Brink: Pre-Revolution Psychedelic Rock From Iran: 1973-1979" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Kourosh Yaghmaei</td>
+      <td>Back From The Brink: Pre-Revolution Psychedelic Rock From Iran: 1973-1979</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 27</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 94</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 98</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 99</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 100</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>2011-04-11</td>
+      <td>1000 Funerals</td>
+      <td>Butterfly Decadence</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 81</li>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 82</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 86</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 92</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 93</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/U7rGQEPHJhxopjG2J5HdD1UYglDWzdTqfGuHu4taQBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTY1/MDgtMTM4NDM3NDA3/NS00ODczLnBuZw.jpeg" alt="Cover for Bezan Baran" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Habib</td>
+      <td>Bezan Baran</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 62</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 74</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 83</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/xxuEM9znAV2_NZLfTfWUHU4r5Vn--urc09jlCi2KELQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDkx/ODctMTQwOTMwMDY0/NS00MDY0LmpwZWc.jpeg" alt="Cover for Gole Yakh - Persian Music" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Kourosh Yaghmaei</td>
+      <td>Gole Yakh - Persian Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 77</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 85</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 91</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 92</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>2012-02-14</td>
+      <td>Kayhan Kalhor</td>
+      <td>I Will Not Stand Alone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 90</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 93</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td>2012-03-24</td>
+      <td>Kayhan Kalhor</td>
+      <td>The Wind</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kurdistan" | relative_url }}">kurdistan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 46</li>
+            <li> <a href="{{ "/tags/kurdistan" | relative_url }}">kurdistan</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>2012-03-24</td>
+      <td>Kayhan Kalhor</td>
+      <td>Silent City</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 86</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 89</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 90</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 94</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/6NTdext0oPbpOrOO8hUxCLJCVou7ptl8jNHa3jMt9L4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Nzg3/MjgtMTM2ODk1Mzcy/MC0zODUyLmpwZWc.jpeg" alt="Cover for Mourner Portraits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-07-28</td>
+      <td>Silent Path</td>
+      <td>Mourner Portraits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 20</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 36</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 48</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/FOzEmAozLmmYDMHXiy2HmXa-Z7QZla4eXh-IFg283DA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDIz/NTktMTQ0OTA4MTI1/NS03NzQ5LmpwZWc.jpeg" alt="Cover for Slipped Away" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-11-17</td>
+      <td>Comment Band</td>
+      <td>Slipped Away</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 15</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 45</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 63</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 68</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/2Y5KAtLic-1n9dOxEb5GuW-cHRzTD-9-weKi8qgSlvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDY0/MzUtMTM5NjE4NTE1/My0zNjcwLmpwZWc.jpeg" alt="Cover for Shikoon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-03-30</td>
+      <td>Yestegan chaY</td>
+      <td>Shikoon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 28</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 48</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 50</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/FOzEmAozLmmYDMHXiy2HmXa-Z7QZla4eXh-IFg283DA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDIz/NTktMTQ0OTA4MTI1/NS03NzQ5LmpwZWc.jpeg" alt="Cover for Rafte Az Dast" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-05-09</td>
+      <td>Comment Band</td>
+      <td>Rafte Az Dast</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 33</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 55</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 61</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/4j5tDHK_XMy0dDJAIz_ZxiuORuPYb_Lym7hGcBDtQ0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDUx/MjQtMTQwNjE4OTc1/Ny01MjEwLmpwZWc.jpeg" alt="Cover for Trust The Tangerine Peel" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-05-28</td>
+      <td>Mohsen Namjoo</td>
+      <td>Trust The Tangerine Peel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 55</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 88</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 93</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 97</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 98</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/WCVdfOflpYBGSh3NJGENJ7j6Wct0SQxbRJLpyt6_t9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzI4/MDMtMTQxMDM1MDYw/Ny0xNTI0LmpwZWc.jpeg" alt="Cover for Temple Of Daevas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-10-06</td>
+      <td>From the Vastland</td>
+      <td>Temple Of Daevas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 14</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 39</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 48</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/mG4g9Bv8H3dYzPGRD_QcIOnHesiisqUf_LmhycvTaRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njkx/Njg1LTE1OTYwMDI3/OTYtMzAyNC5qcGVn.jpeg" alt="Cover for Ye Wan Tony" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Arta</td>
+      <td>Ye Wan Tony</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 44</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 63</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/5mfjZVbh4ch4m6MxsGKnGjvq4S9A2sgJNpfqCxFFE68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTQ1/NDMtMTQ1MTE0NDY5/My00NDg1LmpwZWc.jpeg" alt="Cover for Syzygys" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-12-11</td>
+      <td>9T Antiope</td>
+      <td>Syzygys</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 21</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>2016</td>
+      <td>Various Artists</td>
+      <td>Cien gaviotas donde iran... Un tributo a Duncan Dhu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/WsKWKkE_MHuDkIg8XYrzwVnMQMiaJsN_nJOJLNih56M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM3/ODkzLTE1MDA4MjQ2/NzgtODM5Ny5qcGVn.jpeg" alt="Cover for Riot Against Riot" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-06-25</td>
+      <td>Blaakyum</td>
+      <td>Riot Against Riot</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 7</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 32</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 43</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/WsKWKkE_MHuDkIg8XYrzwVnMQMiaJsN_nJOJLNih56M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM3/ODkzLTE1MDA4MjQ2/NzgtODM5Ny5qcGVn.jpeg" alt="Cover for Line Of Fear" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-06-25</td>
+      <td>Blaakyum</td>
+      <td>Line Of Fear</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 45</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 64</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 77</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 77</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/5d1gJ5SBAAl8vpicA6Zxj5BAyblYetiimDuGnEWqg2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg5/MDE2LTE0OTY0OTY3/MDUtMjYzOS5qcGVn.jpeg" alt="Cover for All The Troubled Hearts" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-06-02</td>
+      <td>Hiatus</td>
+      <td>All The Troubled Hearts</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/london" | relative_url }}">london</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 62</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 96</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 100</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/4lKtvBk4TkPT-_RnskiDmenMZwYK9HZT21Nc-v2yENA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzc2/NTk1LTE1NzMyOTgy/NDctNjY2NS5qcGVn.jpeg" alt="Cover for Shifts" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-11-08</td>
+      <td>Shida Shahabi</td>
+      <td>Shifts</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 68</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 79</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/8aXZP7hnFijKh9hrgTC_eHKhYclSxSEeEPuPYvbaRmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzg2/NDgyLTE2MDk4MDky/MjktNzU3MS5qcGVn.jpeg" alt="Cover for Spell On Me" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-03-13</td>
+      <td>Shab</td>
+      <td>Spell On Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 5</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 31</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 42</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/1saCA1eapP7OYtEH8ETjCV5E4rwTEPBDnAc55d4ol_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDI2/ODQyLTE2MTM0MDAz/ODUtOTk0NC5qcGVn.jpeg" alt="Cover for Firooz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-03-31</td>
+      <td>Hichkas</td>
+      <td>Firooz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/f3ZoiwvbfYH2LlNembvMyuKrTWxGyFQQFWGh4UFkmq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjgw/NDQ1LTE2MTI1OTc4/MjUtMjA4Mi5qcGVn.jpeg" alt="Cover for 9 O&#39;Clock" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-08-11</td>
+      <td>Sirvan Khosravi</td>
+      <td>9 O&#39;Clock</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 32</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 56</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 71</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 72</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/ualU873VCFrnPx4tBuL5M95RGrPAGHUquWGPuNt72fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTUx/NDk0LTE2NDA5NDY1/MTMtNjUzOC5qcGVn.jpeg" alt="Cover for Sorrow For An Unfinished Dream" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-04-24</td>
+      <td>Crows in the Rain</td>
+      <td>Sorrow For An Unfinished Dream</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 50</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 65</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 78</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 78</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/ualU873VCFrnPx4tBuL5M95RGrPAGHUquWGPuNt72fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTUx/NDk0LTE2NDA5NDY1/MTMtNjUzOC5qcGVn.jpeg" alt="Cover for Dri:m Wan; Därk Blü" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-04-24</td>
+      <td>Crows in the Rain</td>
+      <td>Dri:m Wan; Därk Blü</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 65</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 76</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 84</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 85</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/J_Tct5zj4dvEFdZV6SLZh0PdaZLdCaH_nqU607Nj0c0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQ5/OTIwLTE2MjUyMTU4/NTItNzczNC5qcGVn.jpeg" alt="Cover for A Trail of Laughters" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-06-11</td>
+      <td>Siavash Amini</td>
+      <td>A Trail of Laughters</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/5pICpZzCF_9WIoaGWOXWa665h6NMYvTVTsoOBZP9I8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjI5/MTYtMTY4MDIwNDIw/MS03OTg4LmpwZWc.jpeg" alt="Cover for In Kherghe Biandaz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-03-15</td>
+      <td>O-Hum</td>
+      <td>In Kherghe Biandaz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 24</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 46</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 55</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>PERSROCK</td>
+      <td>Persrock</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 14</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 31</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Pouran</td>
+      <td>Molla Mammad Jaan - Persian Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 16</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 21</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mohammad Reza Shajarian</td>
+      <td>Beyade Aref, Shajarian 4 - Persian Music</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 17</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Kourosh Yaghmaei</td>
+      <td>Gol-e Yakh</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 18</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 35</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Milad Derakhshani</td>
+      <td>Harf Bezan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Kilometre23</td>
+      <td>Locomotive Khasteh (Tired Locomotive)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 22</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 38</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Naser Montazeri</td>
+      <td>The Days Bygone&#x2F; Roozoon e Raftah</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 23</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Houshmand Aghili</td>
+      <td>Houshmand Aghili, Vol. 5 - Persian Music</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 2</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 28</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mohammad Reza Shajarian</td>
+      <td>Bote Chin, Shajarian 1 - Persian Music</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 4</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 30</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Fereydoon Farrokhzad</td>
+      <td>Memories (Best of Farrokhzad Vol. 1) - Persian Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 8</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 33</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 44</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mist Within</td>
+      <td>Post Mortem Dump</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 15</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 40</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 49</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Reza Yazdani</td>
+      <td>Khaterat Mobham</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 17</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Afshin Moghadam</td>
+      <td>Zemestoon - Persian Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 18</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 41</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Ebrahim Monsefi</td>
+      <td>Râmi&#39;s Songs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 22</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 44</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 53</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Bomrani</td>
+      <td>1340</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 25</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Aida Shamlou</td>
+      <td>Ever Shining Suns</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 28</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 50</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 58</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Zir-Cigari</td>
+      <td>Nale dar Kenare Zohr</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 29</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 51</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 59</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Hadi Pakzad</td>
+      <td>Darkness</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 32</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 54</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 60</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Shahram Gholami</td>
+      <td>Persian Oud, Dirine Delkhah</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 2</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 8</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 36</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Alireza Eftekhari</td>
+      <td>Sayyad(Hunter)-Iranian Classical Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 4</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 12</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 37</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 49</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Shahram Shabpareh</td>
+      <td>Khejalati</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Sogand</td>
+      <td>Romantic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/woman" | relative_url }}">woman</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 13</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 43</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 61</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Artoush</td>
+      <td>Nefrin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 14</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 44</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 62</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 67</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mohammad Nouri</td>
+      <td>Jaane Maryam - Persian Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 18</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 24</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 47</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 57</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Alireza Ghorbani</td>
+      <td>Rosvaye Zamaneh</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 27</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 29</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 52</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 58</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Sami Beigi</td>
+      <td>King</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 28</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 53</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Niaz Nawab</td>
+      <td>Hafez</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 37</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 59</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Alireza Eftekhari</td>
+      <td>Navay -e Asatid (The Tunes of the Masters)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 38</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 40</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 60</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 61</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Ali Sorena</td>
+      <td>Kavir</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 53</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 68</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mohsen Yeganeh</td>
+      <td>Hobab</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Simin Ghanem</td>
+      <td>Gollake Cheshat - Persian Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 69</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 72</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 73</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 78</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Shahram Nazeri</td>
+      <td>Mythical Chant</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kurdish" | relative_url }}">kurdish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kurdistan" | relative_url }}">kurdistan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kurdish" | relative_url }}">kurdish</a> # 94</li>
+            <li> <a href="{{ "/tags/kurdistan" | relative_url }}">kurdistan</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Fereydoon Foroughi</td>
+      <td>Fetneh Chakmehpoosh (Persian Music)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 74</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 83</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 90</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 91</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td></td>
+      <td>King Raam</td>
+      <td>The Vulture</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 83</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 88</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 94</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 95</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Omid Shabani</td>
+      <td>Blooming in the Valley</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum" | relative_url }}">drum</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 86</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 87</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 91</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mohammad Reza Shajarian</td>
+      <td>Bote Chin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

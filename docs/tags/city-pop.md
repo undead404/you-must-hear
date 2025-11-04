@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T23:29:51.401Z
+date: 2025-11-03T20:31:45.015Z
 permalink: tags/city-pop
 title: city pop
 ---
 
 ## city pop
 
-Last updated: <time datetime="2025-10-31T23:29:51.401Z">Sat Nov 01 2025 01:29:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T20:31:45.015Z">Mon Nov 03 2025 22:31:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
   </thead>
   <tbody>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td>1976-03-25</td>
@@ -46,7 +46,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
       </td>
       <td>1977-07-25</td>
@@ -64,7 +64,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
       </td>
       <td>1979-10-21</td>
@@ -81,7 +81,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/fPwUZPN8p3IxEYSFCyGp1PYVdySzrvZJZJx1HnZJGYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NzI5/MTktMTUzMTkyNTk1/Ni03Njg4LmpwZWc.jpeg" alt="Cover for Push" style="max-width:120px; height:auto;" />
       </td>
@@ -116,7 +116,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
       </td>
       <td>1980-09-19</td>
@@ -133,7 +133,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/X6geJ0DR-7hB1pFCmrDyMl9Pl0gMuy_6xAlXyH51X3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NzIz/OTktMTYwNzMwMjQ5/Ni03NTQ5LmpwZWc.jpeg" alt="Cover for ゴールデン☆ベスト もんた&amp;ブラザーズ シングルス・プラス" style="max-width:120px; height:auto;" />
       </td>
@@ -154,7 +154,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td>1981-04-05</td>
@@ -208,7 +208,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
       </td>
       <td>1982-01-21</td>
@@ -225,7 +225,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td>1982-06-21</td>
@@ -271,7 +271,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/cvZTe5aUTOJ1pJS1YJwHfY7VQMpdEcJmc4CN-MaAyIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg3/MTAzLTE1ODMwNjkx/NjItNTI3MS5qcGVn.jpeg" alt="Cover for MUGSHOT" style="max-width:120px; height:auto;" />
       </td>
@@ -289,7 +289,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
       </td>
       <td>1983-05-21</td>
@@ -306,7 +306,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
       </td>
       <td>1983-12-01</td>
@@ -328,7 +328,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
       </td>
       <td>1983-12-05</td>
@@ -345,7 +345,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/MIqiHkASkQ8vphQ4P4gGSaMNGHTOw17n818CEkQf3v8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDU0/MTEzLTE1ODk0MzEz/NzctMzgxNi5qcGVn.jpeg" alt="Cover for Tasogare" style="max-width:120px; height:auto;" />
       </td>
@@ -363,7 +363,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
       </td>
       <td>1985</td>
@@ -417,7 +417,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/wNA4vlAQTO5Ri8Pw-yILHH8DKt7bUrwkDArF4hucCsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDEw/Mjc5LTE2MDc1NzA2/MjgtNDgyNC5qcGVn.jpeg" alt="Cover for After 5 Clash" style="max-width:120px; height:auto;" />
       </td>
@@ -435,7 +435,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td>1986-12-24</td>
@@ -453,7 +453,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/pPro77l8w06gtSb5D77-daJVfWoMKqNFymBE87DOfCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzU3/MTE2LTE2Njg2MDY2/MTktMTk3OC5qcGVn.jpeg" alt="Cover for Friday Magic" style="max-width:120px; height:auto;" />
       </td>
@@ -471,7 +471,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/GJ8bSry1zxLjTHmyEqUWBbW8x2DJSp2uMAcuenFIwew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDQ3/Mzk3LTE2MTkzMDY5/NDQtMTkzNS5qcGVn.jpeg" alt="Cover for SOLITUDE" style="max-width:120px; height:auto;" />
       </td>
@@ -507,7 +507,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/E1wRTmEVU7vyoskx8ni8HpNfO9dmFxOXpgSiW67b6Sw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDUw/MTMtMTUyMjI0ODIz/OS0yMzU4LmpwZWc.jpeg" alt="Cover for Saravah!" style="max-width:120px; height:auto;" />
       </td>
@@ -526,7 +526,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/F3HZF-mxtjg3WzNk213-JG0s2NBc1n6_pS2UANUMnaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjQ4/NTQtMTcxMTkyNjQ5/Ni0zMjg2LmpwZWc.jpeg" alt="Cover for OCCULT" style="max-width:120px; height:auto;" />
       </td>
@@ -565,7 +565,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/DG2vZze5qnXIjVzgOruhrO08kLycj_JcSmmIPhdf22k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzE1/ODUtMTM2NDcwMTM1/MS05MTQ5LmpwZWc.jpeg" alt="Cover for SONGS" style="max-width:120px; height:auto;" />
       </td>
@@ -586,7 +586,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/e1ncUdow7pveb0EsgczNe-ZtH05ZPXRRJ_9_9WBLmOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzU1/NjM3LTE2MjMxNTgy/MTktODE2Ni5qcGVn.jpeg" alt="Cover for VITAMIN E・P・O" style="max-width:120px; height:auto;" />
       </td>
@@ -630,7 +630,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/tQZeA1knoV1v82m88KiNHdtVAfgh3_q5_dYKtmiJPK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTQy/OC0xMTYxODczOTE1/LmpwZWc.jpeg" alt="Cover for (a). sip" style="max-width:120px; height:auto;" />
       </td>
@@ -648,7 +648,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/oZj_QHa7c-E36gx9earj4VwCpo2F_jbSDyCKxhYF-lY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc1/MzA3LTE1NjA4NTc0/NTctNTA1Ni5qcGVn.jpeg" alt="Cover for GOODIES" style="max-width:120px; height:auto;" />
       </td>
@@ -687,7 +687,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td>2002-07-03</td>
@@ -706,7 +706,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
       </td>
       <td>2003-04-23</td>
@@ -723,14 +723,14 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 19</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 21</li>
             <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 23</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/cXqAJL7iDQ2rr3ZNho-llaAqVEcmpwO3o00q-82iAJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjc5/NDYtMTUzOTExOTA2/NS0zMDQyLmpwZWc.jpeg" alt="Cover for Kenji Shock" style="max-width:120px; height:auto;" />
       </td>
@@ -768,7 +768,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
       </td>
       <td>2006-08-30</td>
@@ -833,7 +833,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/yRW6OXreoFmQ-NKfQecxN-muqyfQcYfYvlo_5GChF10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzE2/MTI5LTE2MTg1NTM5/OTgtMTQwMC5qcGVn.jpeg" alt="Cover for LAGOON (Remastered 2017)" style="max-width:120px; height:auto;" />
       </td>
@@ -850,30 +850,13 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 39</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 38</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2008-05-25</td>
-      <td>竹内まりや</td>
-      <td>Expressions</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/5JKDr21RqFnlJXtWgaHdvAPg0MJdjkqX6kn6e_aypoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDEz/OTI1LTE1NzU0Nzk2/MzgtOTM4Ny5qcGVn.jpeg" alt="Cover for DOWN TOWN" style="max-width:120px; height:auto;" />
       </td>
@@ -916,7 +899,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
       </td>
       <td>2016</td>
@@ -933,7 +916,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/Q4VJYdy2WOQAcxBFx-RuLvbv7U8x2q2nKQ8u5F85zSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTEy/NzctMTQ3MDkwOTMz/Ny04NDM0LmpwZWc.jpeg" alt="Cover for Designs in Rhythm" style="max-width:120px; height:auto;" />
       </td>
@@ -951,7 +934,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/QL2rMrTwShjo0kOPX0TGzoa9TarvxW2RH6BtjcJPYrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDUy/MDY4LTE1MTY1NjQ0/MzgtNzMyMy5qcGVn.jpeg" alt="Cover for Pink" style="max-width:120px; height:auto;" />
       </td>
@@ -1020,7 +1003,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/nxUpqqgGJ8P2akJoOIxsyDi9P8dTjdheynEo8KrokPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk1/NDk2LTE1Mzk4MDU0/MTUtOTAyNy5qcGVn.jpeg" alt="Cover for The Perfect Red Velvet" style="max-width:120px; height:auto;" />
       </td>
@@ -1160,7 +1143,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/w_7C_rFpVkP-BGPhMNUlZ5t_nKuVptR8B36ij4C7erw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTU3/MTUtMTQ0MTA1MDIw/OS0zNDIwLmpwZWc.jpeg" alt="Cover for East Shore" style="max-width:120px; height:auto;" />
       </td>
@@ -1196,7 +1179,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/zR7i9qYmYBHo7oFZ-Lj84d52Pe5TcvPxO91U-47yfC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTYy/Njc5LTE1NzcxMzA5/NDAtODQyOC5qcGVn.jpeg" alt="Cover for EMMA HAZY MINAMI Cover Selection 1 -Midnight Lady-" style="max-width:120px; height:auto;" />
       </td>
@@ -1255,7 +1238,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/UiRloOPWwhbM1sP1OCw6TOYU2NwI7ZQA6BSBPVFGpmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI1/NDExLTE1OTMwMDkz/NDItMzk5Mi5qcGVn.jpeg" alt="Cover for Tinted Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -1292,7 +1275,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/eIYbbTlyMFbzzu7XoyVv7iw3lyuHGqrmoUPjJRh2-Tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjA0/OTM3LTE2MDUyMzgz/NTctMzEwNy5qcGVn.jpeg" alt="Cover for PREP" style="max-width:120px; height:auto;" />
       </td>
@@ -1310,7 +1293,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/Sp0AezxZh8EhONZ080pl4RB--i9GAuBZHRGoSxguz04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTQw/MjkwLTE2MzgwMTU2/MTUtNDA4Ni5qcGVn.jpeg" alt="Cover for MIRACLE FOOD" style="max-width:120px; height:auto;" />
       </td>
@@ -1333,7 +1316,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/c6K7_rRhgtLN49aCWDL8tuh7wCsyhTeMZoaBPwoOoOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzEx/MjkxLTE2NTYzNTQx/NzctOTk2OS5qcGVn.jpeg" alt="Cover for Ciudad Portuaria" style="max-width:120px; height:auto;" />
       </td>
@@ -1352,7 +1335,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/ggpE7mFao06Sae9Hj571E-l8QuJ2hV1x_ZoRospc1eI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzcy/NDcyLTE3MDM5Nzcz/NDQtODk2OS5qcGVn.jpeg" alt="Cover for POP IN CITY ~for covers only~" style="max-width:120px; height:auto;" />
       </td>
@@ -1370,7 +1353,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/lkkpNV3ROSKmKvoe1a5_K4Ueu8PEQzK3bec_JebuxTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTgz/ODQzLTE2MTY1NjI2/MzEtMTQ1NC5qcGVn.jpeg" alt="Cover for City Poppin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -1391,7 +1374,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/oZGjr4YTn54Al6RJt_FhBVbk_l6pN_fKZ6obvgU5Yd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjU4/MTYwLTE2NDkyMjI4/MDktMzA0NC5qcGVn.jpeg" alt="Cover for timeabout, - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1430,7 +1413,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/tdc8aH_cPJ7njZylBi-BhS0eSoPDaLXThwPTEOGZ_fU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzA0/ODk4LTE2Mjc4Mzk4/NDgtNzIwOC5qcGVn.jpeg" alt="Cover for City Slicker - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,7 +1452,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/R2QM2BqXZgHkbhxeeceLL6Ow5o3GJ7765Mv2tcvQUhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTA0/MTIxLTE2NjY0MTU3/ODYtNDUyOC5qcGVn.jpeg" alt="Cover for citopia" style="max-width:120px; height:auto;" />
       </td>
@@ -1505,7 +1488,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/JnqCKHUg3b2P3ME_iC_rxxnO9vrGyK_wQBcXbiHaceY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzA4/NTcxLTE2OTUwNzgw/ODAtNzA5NC5qcGVn.jpeg" alt="Cover for World of Hassle" style="max-width:120px; height:auto;" />
       </td>
@@ -1564,7 +1547,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>
@@ -1583,13 +1566,13 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 66</li>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 67</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
       </td>
       <td></td>
@@ -1613,7 +1596,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td></td>
@@ -1639,7 +1622,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
       </td>
       <td></td>
@@ -1662,7 +1645,29 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>74</td>
+      <td>
+      </td>
+      <td></td>
+      <td>ヴァリアス・アーティスト</td>
+      <td>TOKYO - CITY POP -</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -1679,7 +1684,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1696,7 +1701,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1715,7 +1720,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -1732,7 +1737,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -1750,7 +1755,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
@@ -1772,7 +1777,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
@@ -1789,7 +1794,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
       </td>
       <td></td>
@@ -1806,7 +1811,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -1823,7 +1828,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
       </td>
       <td></td>
@@ -1841,7 +1846,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
       </td>
       <td></td>
@@ -1858,7 +1863,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
       </td>
       <td></td>
@@ -1875,7 +1880,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
       </td>
       <td></td>
@@ -1894,12 +1899,30 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
       </td>
       <td></td>
       <td>オメガトライブ</td>
       <td>AQUA CITY</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72f5e382e552dcb1cc1b26807cd4a865.png" alt="Cover for Plastic Candy" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>HaSeul</td>
+      <td>Plastic Candy</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a></li>
@@ -1920,27 +1943,6 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
-      <td>
-      </td>
-      <td></td>
-      <td>ヴァリアス・アーティスト</td>
-      <td>TOKYO - CITY POP -</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
