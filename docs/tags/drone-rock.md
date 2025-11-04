@@ -9,6 +9,10 @@ title: drone rock
 
 Last updated: <time datetime="2025-11-02T06:04:48.488Z">Sun Nov 02 2025 08:04:48 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s volume and intensity, creating hypnotic soundscapes built on minimal chord changes and textural layering. Emerging from psychedelic and experimental rock scenes, it emphasizes mood and atmosphere over traditional song structure, often inducing meditative or trance-like states through its insistent, unvarying patterns. The sound ranges from blissed-out and ethereal to crushing and overwhelming, unified by its commitment to sonic immersion.
+
 ### 100 chronological releases
 
 <table>
@@ -40,7 +44,7 @@ Last updated: <time datetime="2025-11-02T06:04:48.488Z">Sun Nov 02 2025 08:04:48
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 63</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -100,7 +104,7 @@ Last updated: <time datetime="2025-11-02T06:04:48.488Z">Sun Nov 02 2025 08:04:48
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 14</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 16</li>
             <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 46</li>
         </ul>
       </td>
@@ -120,7 +124,7 @@ Last updated: <time datetime="2025-11-02T06:04:48.488Z">Sun Nov 02 2025 08:04:48
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 21</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -140,7 +144,7 @@ Last updated: <time datetime="2025-11-02T06:04:48.488Z">Sun Nov 02 2025 08:04:48
       <td>
         <ul>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 34</li>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 50</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -161,7 +165,7 @@ Last updated: <time datetime="2025-11-02T06:04:48.488Z">Sun Nov 02 2025 08:04:48
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 33</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -382,7 +386,7 @@ Last updated: <time datetime="2025-11-02T06:04:48.488Z">Sun Nov 02 2025 08:04:48
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 26</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 29</li>
             <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 90</li>
         </ul>
       </td>
@@ -1041,7 +1045,7 @@ Last updated: <time datetime="2025-11-02T06:04:48.488Z">Sun Nov 02 2025 08:04:48
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 56</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 58</li>
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 94</li>
             <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 97</li>
             <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 99</li>
@@ -1179,7 +1183,7 @@ Last updated: <time datetime="2025-11-02T06:04:48.488Z">Sun Nov 02 2025 08:04:48
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 71</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -2311,6 +2315,7 @@ Last updated: <time datetime="2025-11-02T06:04:48.488Z">Sun Nov 02 2025 08:04:48
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 4</li>
             <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 28</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 47</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 67</li>

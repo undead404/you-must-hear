@@ -9,6 +9,10 @@ title: china
 
 Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Music tagged as &quot;china&quot; encompasses traditional and contemporary sounds rooted in Chinese musical heritage, featuring distinctive instruments like the erhu, pipa, and guzheng alongside pentatonic scales and regional folk melodies. The tag spans ancient court music, ethnic minority traditions, and modern fusion works that blend Chinese elements with pop, rock, and experimental styles. This diverse category reflects China&#39;s vast cultural landscape, from meditative instrumental pieces to energetic folk performances and innovative cross-cultural collaborations.
+
 ### 100 chronological releases
 
 <table>
@@ -20,6 +24,7 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
@@ -37,6 +42,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>56</td>
@@ -47,7 +56,12 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
       <td>Masters Of Guqin (Da Shi Gu Qin)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -62,6 +76,57 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for 電視劇《想見你》原聲帶" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>電視劇《想見你》原聲帶</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 6</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/V2QL9mN9q0VOaNgGuRm6Ib6cAFfvLEuFJpBHmAdGSxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTk5/MTYtMTQ0NDg2OTEx/MS04NzIwLmpwZWc.jpeg" alt="Cover for 支線任務" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Hush</td>
+      <td>支線任務</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -83,22 +148,8 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for 電視劇《想見你》原聲帶" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1977</td>
-      <td>Various Artists</td>
-      <td>電視劇《想見你》原聲帶</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
         </ul>
       </td>
     </tr>
@@ -125,23 +176,8 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>58</td>
-      <td>
-          <img src="https://i.discogs.com/V2QL9mN9q0VOaNgGuRm6Ib6cAFfvLEuFJpBHmAdGSxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTk5/MTYtMTQ0NDg2OTEx/MS04NzIwLmpwZWc.jpeg" alt="Cover for 支線任務" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1977</td>
-      <td>Hush</td>
-      <td>支線任務</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
         </ul>
       </td>
     </tr>
@@ -159,6 +195,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>72</td>
@@ -171,6 +211,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -188,6 +232,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -212,6 +260,12 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 6</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 9</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>65</td>
@@ -226,6 +280,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -243,6 +301,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>79</td>
@@ -257,6 +319,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -279,6 +345,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>30</td>
@@ -291,6 +361,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -309,18 +383,26 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/Ns--dNtcdBFZcsmEmYQbbFowHqLgHTulEMXS7k088Hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUw/OTE5LTE3MzAzMTAy/NjYtNDQ3My5qcGVn.jpeg" alt="Cover for Collection Of Instrumental Music From Minority Nationalities" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/HW14VQKmpAkIKawWtRM55k_ZzF0WM39MetWNrtj0sMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTQ5/MzUtMTM5MTkyMjM4/Ny01NTM5LmpwZWc.jpeg" alt="Cover for Collection of the Most Famous Guqin Players" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Various Artists</td>
-      <td>Collection Of Instrumental Music From Minority Nationalities</td>
+      <td>Collection of the Most Famous Guqin Players</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -339,15 +421,25 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 18</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/HW14VQKmpAkIKawWtRM55k_ZzF0WM39MetWNrtj0sMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTQ5/MzUtMTM5MTkyMjM4/Ny01NTM5LmpwZWc.jpeg" alt="Cover for Collection of the Most Famous Guqin Players" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/Ns--dNtcdBFZcsmEmYQbbFowHqLgHTulEMXS7k088Hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUw/OTE5LTE3MzAzMTAy/NjYtNDQ3My5qcGVn.jpeg" alt="Cover for Collection Of Instrumental Music From Minority Nationalities" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Various Artists</td>
-      <td>Collection of the Most Famous Guqin Players</td>
+      <td>Collection Of Instrumental Music From Minority Nationalities</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -370,6 +462,13 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/lute" | relative_url }}">lute</a> # 15</li>
+            <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 35</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 35</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>85</td>
@@ -385,20 +484,8 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>
-          <img src="https://i.discogs.com/Uh-czjxeoY3nSAEe-qXnd2JqTZsk-u9vyl6vwFYa3-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODY4/NjA0LTE2NjYxMzIx/ODAtODU5OC5wbmc.jpeg" alt="Cover for Ancient Chinese Music: Lofty Mountains and Flowing Water" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Various Artists</td>
-      <td>Ancient Chinese Music: Lofty Mountains and Flowing Water</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asia" | relative_url }}">asia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
     </tr>
@@ -437,6 +524,33 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 2</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 22</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/Uh-czjxeoY3nSAEe-qXnd2JqTZsk-u9vyl6vwFYa3-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODY4/NjA0LTE2NjYxMzIx/ODAtODU5OC5wbmc.jpeg" alt="Cover for Ancient Chinese Music: Lofty Mountains and Flowing Water" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Various Artists</td>
+      <td>Ancient Chinese Music: Lofty Mountains and Flowing Water</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asia" | relative_url }}">asia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -486,6 +600,12 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 31</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 64</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>93</td>
@@ -499,6 +619,11 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -526,6 +651,11 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 42</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>68</td>
@@ -538,6 +668,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -553,6 +687,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -573,6 +711,12 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 71</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 82</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>21</td>
@@ -588,18 +732,8 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>37</td>
-      <td>
-          <img src="https://i.discogs.com/rfLxFuASfblLhnPG5-TnKpxDrRj3wMeSHX2dpLK9Y9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIx/OTI1LTE2MjY0OTgy/MDctMTIyNy5qcGVn.jpeg" alt="Cover for The Rough Guide To The Music Of China" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Various Artists</td>
-      <td>The Rough Guide To The Music Of China</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
         </ul>
       </td>
     </tr>
@@ -620,6 +754,29 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/rfLxFuASfblLhnPG5-TnKpxDrRj3wMeSHX2dpLK9Y9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIx/OTI1LTE2MjY0OTgy/MDctMTIyNy5qcGVn.jpeg" alt="Cover for The Rough Guide To The Music Of China" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Various Artists</td>
+      <td>The Rough Guide To The Music Of China</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>67</td>
@@ -636,6 +793,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>89</td>
@@ -650,6 +811,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>90</td>
@@ -661,6 +826,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -679,6 +848,13 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 52</li>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 58</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -738,6 +914,15 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 1</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 16</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 20</li>
+            <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 56</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 68</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>11</td>
@@ -751,6 +936,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -777,6 +966,11 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -814,6 +1008,13 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip" | relative_url }}">trip</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 4</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 7</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 81</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>96</td>
@@ -826,6 +1027,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -842,6 +1047,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>94</td>
@@ -855,6 +1064,29 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 48</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/VGtEgx4gf3rgNT4r6S7ARfGjk1HuNBpEk7LUkjfg9PY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDUy/MTEtMTY4ODU3MDAx/OS02Mjg0LmpwZWc.jpeg" alt="Cover for Lament In The River Mansion" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Zhou Yu</td>
+      <td>Lament In The River Mansion</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -875,6 +1107,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>83</td>
@@ -889,15 +1125,6 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>74</td>
-      <td>
-          <img src="https://i.discogs.com/VGtEgx4gf3rgNT4r6S7ARfGjk1HuNBpEk7LUkjfg9PY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDUy/MTEtMTY4ODU3MDAx/OS02Mjg0LmpwZWc.jpeg" alt="Cover for Lament In The River Mansion" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016</td>
-      <td>Zhou Yu</td>
-      <td>Lament In The River Mansion</td>
       <td>
         <ul>
         </ul>
@@ -913,6 +1140,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -931,6 +1162,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>61</td>
@@ -945,6 +1180,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>41</td>
@@ -954,6 +1193,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
       <td>2017-03-03</td>
       <td>Various Artists</td>
       <td>Guzheng Classics by Chinese Guzheng Masters</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -976,6 +1219,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>98</td>
@@ -987,9 +1234,28 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
       <td>Dionysus</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 10</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 57</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 76</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 77</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 77</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 85</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 85</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 88</li>
+            <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 93</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 94</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 94</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 96</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 99</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 99</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1005,6 +1271,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1023,6 +1293,11 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 6</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>32</td>
@@ -1033,6 +1308,226 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
       <td>Anthology of Chinese Traditional &amp; Folk Music: Collection Played on the Pipa Vol. 2</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 48</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Spiral Cow</td>
+      <td>Like Playing To A Cow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/animals" | relative_url }}">animals</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 35</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td></td>
+      <td>王詩安</td>
+      <td>詩</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 9</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td></td>
+      <td>張惠妹</td>
+      <td>我可以抱你嗎?愛人</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td></td>
+      <td>TANK 呂建忠</td>
+      <td>延長比賽 Keep Fighting</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td></td>
+      <td>颜人中</td>
+      <td>很需要</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Jiangsu Art Troupe Folk Music Band</td>
+      <td>Sound of Homeland Vol. 3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asia" | relative_url }}">asia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 8</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Jiangsu Art Troupe Folk Music Band</td>
+      <td>Sound of Homeland Vol. 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asia" | relative_url }}">asia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td></td>
+      <td>蕭敬騰</td>
+      <td>同名專輯</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td></td>
+      <td>王力宏</td>
+      <td>改變自己</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 14</li>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 16</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Zyboy忠宇</td>
+      <td>妈妈的话</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 64</li>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1051,6 +1546,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>5</td>
@@ -1064,6 +1563,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asia" | relative_url }}">asia</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1084,6 +1587,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>8</td>
@@ -1100,19 +1607,8 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Spiral Cow</td>
-      <td>Like Playing To A Cow</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/animals" | relative_url }}">animals</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
         </ul>
       </td>
     </tr>
@@ -1136,6 +1632,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>14</td>
@@ -1150,6 +1650,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1169,6 +1673,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>18</td>
@@ -1182,6 +1690,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1199,6 +1711,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>22</td>
@@ -1210,6 +1726,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1224,6 +1744,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1242,6 +1766,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>33</td>
@@ -1255,6 +1783,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1273,6 +1805,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>35</td>
@@ -1287,6 +1823,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1305,22 +1845,8 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>38</td>
-      <td>
-      </td>
-      <td></td>
-      <td>王詩安</td>
-      <td>詩</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
         </ul>
       </td>
     </tr>
@@ -1334,6 +1860,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1352,21 +1882,8 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>47</td>
-      <td>
-      </td>
-      <td></td>
-      <td>張惠妹</td>
-      <td>我可以抱你嗎?愛人</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
         </ul>
       </td>
     </tr>
@@ -1385,6 +1902,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>49</td>
@@ -1398,21 +1919,8 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>50</td>
-      <td>
-      </td>
-      <td></td>
-      <td>TANK 呂建忠</td>
-      <td>延長比賽 Keep Fighting</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
         </ul>
       </td>
     </tr>
@@ -1431,6 +1939,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>55</td>
@@ -1447,21 +1959,8 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>59</td>
-      <td>
-      </td>
-      <td></td>
-      <td>颜人中</td>
-      <td>很需要</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
         </ul>
       </td>
     </tr>
@@ -1479,6 +1978,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>62</td>
@@ -1493,6 +1996,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>63</td>
@@ -1504,6 +2011,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1522,6 +2033,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>73</td>
@@ -1532,21 +2047,11 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
       <td>Spirit Of The East</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>77</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Jiangsu Art Troupe Folk Music Band</td>
-      <td>Sound of Homeland Vol. 3</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asia" | relative_url }}">asia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
         </ul>
       </td>
     </tr>
@@ -1565,18 +2070,8 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>82</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Jiangsu Art Troupe Folk Music Band</td>
-      <td>Sound of Homeland Vol. 2</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asia" | relative_url }}">asia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
         </ul>
       </td>
     </tr>
@@ -1596,21 +2091,8 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>86</td>
-      <td>
-      </td>
-      <td></td>
-      <td>蕭敬騰</td>
-      <td>同名專輯</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
         </ul>
       </td>
     </tr>
@@ -1627,6 +2109,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>88</td>
@@ -1640,21 +2126,8 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>91</td>
-      <td>
-      </td>
-      <td></td>
-      <td>王力宏</td>
-      <td>改變自己</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
         </ul>
       </td>
     </tr>
@@ -1670,20 +2143,8 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>97</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Zyboy忠宇</td>
-      <td>妈妈的话</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
         </ul>
       </td>
     </tr>
@@ -1699,6 +2160,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>75</td>
@@ -1708,6 +2173,10 @@ Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11
       <td></td>
       <td>周杰倫</td>
       <td>November&#39;s Chopin</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
