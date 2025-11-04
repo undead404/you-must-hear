@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T20:51:27.752Z
+date: 2025-11-04T02:32:18.905Z
 permalink: tags/russian-rock
 title: russian rock
 ---
 
 ## russian rock
 
-Last updated: <time datetime="2025-11-02T20:51:27.752Z">Sun Nov 02 2025 22:51:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T02:32:18.905Z">Tue Nov 04 2025 04:32:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -82,7 +82,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/Mwf7_nCsFH0o-1ufH_XBhJ4Ewzxt7wGdKUvsYw5TE1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Nzgw/MTYtMTQyMDUzNDkx/Ny0zMzYxLmpwZWc.jpeg" alt="Cover for День Серебра" style="max-width:120px; height:auto;" />
       </td>
@@ -102,7 +102,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/75rtQyLxC05RlravecmpQ0mXnQQLp8jx_OXQ-nDHjUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODc5/NzgtMTY1MzA4NzU4/MS0yNDEyLmpwZWc.jpeg" alt="Cover for Десять стрел" style="max-width:120px; height:auto;" />
       </td>
@@ -160,7 +160,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>1988</td>
@@ -178,7 +178,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/yl9gNB_yvMLdo7JfxEf06VwhWS_M5RJAQ2-uVET93QQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTk4/MTItMTI5ODQ0OTIz/Ni5qcGVn.jpeg" alt="Cover for Вершки и корешки" style="max-width:120px; height:auto;" />
       </td>
@@ -196,7 +196,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>1989</td>
@@ -231,7 +231,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/Am7kUEFpHSIhtKMRsTZcv6RZqUDMEqBqSXL-Qg9aCl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg3/NzEtMTU5MjUzOTE4/MS0zMTc2LmpwZWc.jpeg" alt="Cover for Бодун" style="max-width:120px; height:auto;" />
       </td>
@@ -269,7 +269,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>1991-04-25</td>
@@ -286,7 +286,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>1992</td>
@@ -307,7 +307,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/nl13g8uk0WHf_GaQlHDfUjdlZveiWBkHAgBdTFjDNEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE1/ODI3LTE1MTU5NDMy/MzAtNjc2OS5qcGVn.jpeg" alt="Cover for Моя любовь" style="max-width:120px; height:auto;" />
       </td>
@@ -382,7 +382,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/q5nEK6FqQeDJEZzGIDIatlRbDgOA_aI9_uRLcEQHujM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODQ5/NjEtMTMxOTU1Njc2/Ny5qcGVn.jpeg" alt="Cover for Брат 1" style="max-width:120px; height:auto;" />
       </td>
@@ -400,7 +400,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/JdzzKZNWZ41FMBq8veWTdHzWN0cqHucoIp7BE5ocBEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzA5/ODg5LTE3MTYwMjE3/ODAtMzkxMC5qcGVn.jpeg" alt="Cover for О Любви" style="max-width:120px; height:auto;" />
       </td>
@@ -419,7 +419,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>1996</td>
@@ -436,7 +436,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>1996</td>
@@ -453,7 +453,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>1997</td>
@@ -470,7 +470,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/XQAy71sRf_m_UJWKPzI0icFYXhzdDuT_g7oOCQyePC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDEz/MDEtMTIzMTQyNDYy/Mi5qcGVn.jpeg" alt="Cover for Стекло" style="max-width:120px; height:auto;" />
       </td>
@@ -488,7 +488,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0f56c69c5b5468daf9548eb1085912f.png" alt="Cover for Морская" style="max-width:120px; height:auto;" />
       </td>
@@ -508,7 +508,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/U1L-3C8MxgfabSZ51wQLjxoMmd9LeGjd-JLpPxu4qZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjE1/MDEtMTI0NTYxNDQ2/My5qcGVn.jpeg" alt="Cover for Русское Поле Эксперимента (Акустика)" style="max-width:120px; height:auto;" />
       </td>
@@ -527,7 +527,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>1998</td>
@@ -564,7 +564,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>1999</td>
@@ -603,7 +603,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>1999-05</td>
@@ -640,7 +640,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2000</td>
@@ -766,7 +766,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2001</td>
@@ -784,7 +784,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/MLkQypWsmyNQT1k4Iue1nyvkSGAw6MMZwA8dNjqqx24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDg3/ODAxLTE1MTcyMDI1/NjYtMzMyOC5qcGVn.jpeg" alt="Cover for Порядок вещей" style="max-width:120px; height:auto;" />
       </td>
@@ -804,7 +804,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2001</td>
@@ -839,7 +839,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2001-03-01</td>
@@ -856,7 +856,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/cHg2pFx7fxMlCeDZU6F1HIxqZJ_ugXmuDRJnGgIC92M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTE4/NTItMTI5MjEwMDIy/NS5qcGVn.jpeg" alt="Cover for Ч.П.Х." style="max-width:120px; height:auto;" />
       </td>
@@ -876,7 +876,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>2001-09</td>
@@ -929,7 +929,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>2002-07-12</td>
@@ -963,7 +963,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/pkG2-Lu2MwpsDMk4Osv5zz2thKh5BQ1pVQr8EqRbYMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjQ3/ODMtMTI4NTEzNzA1/OS5qcGVn.jpeg" alt="Cover for ...Танцевать" style="max-width:120px; height:auto;" />
       </td>
@@ -981,7 +981,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2003</td>
@@ -1020,7 +1020,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7c9d7c6a3424063a3a0d0d6dcbe032b.png" alt="Cover for Новые люди" style="max-width:120px; height:auto;" />
       </td>
@@ -1095,7 +1095,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aab3200489b34a03aa8e9e4a28d064bc.png" alt="Cover for Три пути" style="max-width:120px; height:auto;" />
       </td>
@@ -1132,7 +1132,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>2005</td>
@@ -1201,26 +1201,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>56</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91da3dde04a747d28e7f27fc1531e0de.png" alt="Cover for Пропавший без вести" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-04-22</td>
-      <td>ДДТ</td>
-      <td>Пропавший без вести</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>2005-07-15</td>
@@ -1238,7 +1219,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2005-12</td>
@@ -1260,7 +1241,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/-7vxjX30kaD6mRAUZqKfm5I1JI9maK-N4fMZC_iCbZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjM2/NzgtMTI2NTEyNzIx/OS5qcGVn.jpeg" alt="Cover for Ч\Б" style="max-width:120px; height:auto;" />
       </td>
@@ -1278,7 +1259,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>2006</td>
@@ -1315,7 +1296,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/g9jzKucAMAiucoU_OOAOfLc5ktUsXNUIVTXodZzEsmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU4/NjMtMTQ5NDY4NTcw/NS04ODcyLmpwZWc.jpeg" alt="Cover for Дыши" style="max-width:120px; height:auto;" />
       </td>
@@ -1336,7 +1317,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/DfWxZ7NIH6EdJivypUAhbJiMxCjs1myistb_gaWNEqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQw/OTEzLTE1MDUxNjY4/NzUtNzE5My5qcGVn.jpeg" alt="Cover for Черный альбом" style="max-width:120px; height:auto;" />
       </td>
@@ -1356,7 +1337,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/jEAOXbIM_ajOUfNSV2l6KG_ZOOOrYfCUgtuouh59xRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDIw/MzUtMTM5MzUyOTYx/OS0yNTU0LmpwZWc.jpeg" alt="Cover for 57 параллель" style="max-width:120px; height:auto;" />
       </td>
@@ -1414,7 +1395,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>2007-03-31</td>
@@ -1455,7 +1436,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2007-05-24</td>
@@ -1474,7 +1455,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2007-11-30</td>
@@ -1529,7 +1510,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/Tkv3GpmhSPMd9-br4zxOOU0l6NhfGDR8Yxfp8JZLd70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDYy/MzQtMTI4MjU3NTE5/Ni5qcGVn.jpeg" alt="Cover for Это все" style="max-width:120px; height:auto;" />
       </td>
@@ -1547,7 +1528,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2011-09</td>
@@ -1564,7 +1545,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2011-10-01</td>
@@ -1616,7 +1597,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/jjp8QH9HfMeq4XWsAfhDg-QPkgYgSmUZnzwqBJz_5dg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzQy/MjYtMTM1MzA0MjUx/OC0xMDg5LmpwZWc.jpeg" alt="Cover for Рыба" style="max-width:120px; height:auto;" />
       </td>
@@ -1636,7 +1617,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/DxwZ2f7BSDaYZ3kfgNisZ5HlJh5py1Ep0o6cJamSnYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDYw/NjgtMTM4MzAzODY3/NC02MjQyLmpwZWc.jpeg" alt="Cover for Нет времени для любви" style="max-width:120px; height:auto;" />
       </td>
@@ -1655,7 +1636,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>2014-03-07</td>
@@ -1691,7 +1672,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/u9tCJnpUZUcqWt2w2pTK5m1sfc_bzIivT7XdBQXMqoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NzA3/OTktMTQ4Mjk1Nzg0/NC01MjY4LmpwZWc.jpeg" alt="Cover for Второй Магаданский" style="max-width:120px; height:auto;" />
       </td>
@@ -1709,7 +1690,26 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2016-03-31</td>
+      <td>Бумажные Тигры</td>
+      <td>Ботаника</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/FbWIbQxXF18Lz7Pzi9iacLNokDTtU-dwwJEclO1hL_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDMw/ODcyLTE0OTA0Mjgy/MjAtNzIxNi5qcGVn.jpeg" alt="Cover for Хроника бешеных дней" style="max-width:120px; height:auto;" />
       </td>
@@ -1730,7 +1730,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/Yb7nH0SRq3FBRKD8NXvOpbCrPlZlVnjbdJdtaUP77TQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTI3/NTMxLTE1NDQ3MDMw/MDQtOTUwMS5qcGVn.jpeg" alt="Cover for XX лет. Избранное" style="max-width:120px; height:auto;" />
       </td>
@@ -1751,7 +1751,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>2023</td>
@@ -1787,7 +1787,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1806,7 +1806,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td></td>

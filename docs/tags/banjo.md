@@ -9,110 +9,2154 @@ title: banjo
 
 Last updated: <time datetime="2025-10-28T06:05:04.330Z">Tue Oct 28 2025 08:05:04 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+The banjo tag highlights music featuring the distinctive, bright twang of this stringed instrument, traditionally associated with American folk, bluegrass, and country traditions. Its rapid-fire picking patterns and percussive resonance create an energetic, rootsy sound that can range from traditional Appalachian melodies to modern genre-blending experimentation. The banjo brings an unmistakable rustic character that evokes both heritage and playful innovation.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 2 |  |  | Matt LaGoy | Late Harvest |
-| 3 |  |  | Cady Finlayson | Irish Coffee |
-| 11 | ![Cover](https://i.discogs.com/VT6Q3Tn0wjkvq49AiQJG8qhkKJnjUYmZTmiMsWfM84E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Njcy/ODUtMTQxMzgyMjU5/OS0xMjQyLmpwZWc.jpeg) | 1968-05-03 | The Cedars | Live Studio Sessions |
-| 12 |  |  | Yo-Yo Ma, Edgar Meyer, Joshua Bell, Mark O&#39;Connor | Heartland: An Appalachian Anthology |
-| 22 |  |  | cold_elf | Stereo |
-| 23 |  |  | The Gulf of Michigan | Live at The Trash Bar 3.14.08 |
-| 28 |  |  | Space Banjo | Fire Spirits |
-| 30 |  |  | Matt LaGoy | 2005 |
-| 35 |  |  | Pickin&#39; On Series | The Bluegrass Tribute To Air: Blue Safari - Featuring Old School Freight Train |
-| 37 |  |  | 1800s Sea Monster | Soundtrack Tapes For Crazy Red |
-| 41 |  |  | The Almanac Shouters | A Long Road Home |
-| 43 |  |  | Raise High the Roof Beam | Family EP |
-| 48 | ![Cover](https://i.discogs.com/ffh8oNMbIRux0_R-3CXsKBK9aXdNUz6gMYyKXMLz_Bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTk0/MzAtMTQwMDI2Nzkx/Ny02Njk0LmpwZWc.jpeg) | 1959 | Danny Barker | The Fabulous Banjo Of Danny Barker |
-| 47 |  | 1964 | Dave Van Ronk | Ragtime Jug Stompers |
-| 64 | ![Cover](https://i.discogs.com/HAAvsVa8PbTVY5ysxmBl5aGyK2qrLXpkCPl5Lv9dQSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDgz/MDAtMTI4MjM4NTAy/Ni5qcGVn.jpeg) | 1964 | Dock Boggs | Country Blues |
-| 15 |  | 1965 | Pete Seeger | Hard Travelling: The Best of Pete Seeger |
-| 45 | ![Cover](https://i.discogs.com/dzF_kP3ncexhWD7HCMySLgoTjCmTsdUbk1wPOJUqKog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzE2/OTMtMTYyMDE1MjEx/Ny05NTExLmpwZWc.jpeg) | 1967 | Pete Seeger | Darling Corey &#x2F; Goofing-Off Suite |
-| 25 | ![Cover](https://i.discogs.com/OiZ3akr6VyASLXsSplbWRe7Gt5PFibC0IBqgHs5VuzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDQ1/MDUtMTYwMDcwMzg1/Mi02MjE1LmpwZWc.jpeg) | 1969 | Flatt and Scruggs and the Foggy Mountain Boys | Foggy Mountain Banjo: Flatt and Scruggs and the Foggy Mountain Boys |
-| 32 | ![Cover](https://i.discogs.com/jzBPQq8f4AAmdUEK1OOwGClpliFaItvPFCsY8YAbcYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTcw/MDktMTYxOTU1OTQy/Ni0zNTYxLmpwZWc.jpeg) | 1972 | Papa Charlie Jackson | Papa Charlie Jackson Vol. 3 (1928 - 1934) |
-| 10 | ![Cover](https://i.discogs.com/hjg_BmyhwqbEClYEuZ8KVytgbpKCPSLq7rjkDJn4zTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTky/MTgtMTQxNzg5MzMx/MC0yNTU1LmpwZWc.jpeg) | 1977 | Southbound | Southbound |
-| 84 | ![Cover](https://i.discogs.com/wu7qDiwvZ16ClFjK34HNRj-pJXiji3M2UYQwvS0cStY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAz/OTkxLTE1NTczNDA3/MDYtNjc5Ni5qcGVn.jpeg) | 1979 | The Dillards | Decade Waltz |
-| 83 | ![Cover](https://i.discogs.com/iqZ3Q6WBkroDvAGoehWZyir4nAVLQtPrA3_ObSjQHQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMy/ODItMTMyOTg5Mjc5/NS5qcGVn.jpeg) | 1981-11 | Steve Martin | The Steve Martin Brothers |
-| 38 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1987 | Various Artists | Happy Times |
-| 82 |  | 1988 | Beck | Banjo Story |
-| 97 | ![Cover](https://i.discogs.com/Zi2rmjJFLUThrVB4ernbIq5bOZhj5c1iv8VSkaASMTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjIz/Ni0xMTU3NjMxNDYz/LmpwZWc.jpeg) | 1988 | Steve Martin | Rare Bird Alert |
-| 6 | ![Cover](https://i.discogs.com/_f7xlkdGmjgnT_IE4UvOswne8G7Vz5NHavmkmM7PcK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTc0/MDMtMTQ0NDgyNjQx/My0zNzkxLmpwZWc.jpeg) | 1990 | Gus Cannon &amp; Noah Lewis | Gus Cannon &amp; Noah Lewis Vol. 2 (1929 - 1930) |
-| 34 | ![Cover](https://i.discogs.com/upCDtGlm-Fqaa4YwvPJPc0jynWJA5CRoA3AeokHqp_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDIw/MzYtMTQwMzA1Nzk2/MC0xNzE0LmpwZWc.jpeg) | 1992 | The Red Hots | Ready to Roll |
-| 39 | ![Cover](https://i.discogs.com/Jcm_83YH9dtDMKx6d1uCBWVENtXEKSYWDGUa2opftU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTc3/OTE5LTE1Mjk4NTY0/NjUtNTMyMS5qcGVn.jpeg) | 1992 | Bill Keith | Beating Around the Bush |
-| 91 |  | 1993-09-14 | Béla Fleck and the Flecktones | Three Flew Over The Cuckoo&#39;s Nest |
-| 72 | ![Cover](https://i.discogs.com/_Dpdu2QwO9VEwkAD5i_2zu-JCg96zp2Sm6N6n7r9vEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTcx/NDktMTUxNTg4OTM4/NC04ODY2LmpwZWc.jpeg) | 1997 | Béla Fleck | Left Of Cool |
-| 55 | ![Cover](https://i.discogs.com/5SExRiBfhv-nc6x6Rp_VYo0vACvHJkvObGoUkIYKEDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODQ4/MTEtMTUyMjI0OTE0/Ni05MTMwLmpwZWc.jpeg) | 1998 | The Dubliners | Best of the Dubliners [Epic&#x2F;Legacy] |
-| 40 | ![Cover](https://i.discogs.com/xUuLSRQ6mzweC5vBzIQuotinFs2oKYJCll9CKkc2W5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTE5/MjMzLTE1ODY5MjM0/ODEtNjA4MC5qcGVn.jpeg) | 1999 | Ryan Shupe &amp; The Rubberband | Simplify |
-| 29 | ![Cover](https://i.discogs.com/xcckQj50fXfK-fV7zCJeFzPoK37xUJL0S54qWBFmAPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTc1/MDM5LTE1NDkzNjQ5/MjctNzEyMS5qcGVn.jpeg) | 2000 | The Gordons | Covered Bridge |
-| 36 | ![Cover](https://i.discogs.com/QqoQsl1Gjx6J987vFRMM3VvKAHVDW1Qs-eR8G5EWPzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTk5/MjgzLTE2MzE0NDI3/NjItODg5Ny5qcGVn.jpeg) | 2001 | Bela Fleck | The Bluegrass Sessions |
-| 44 | ![Cover](https://i.discogs.com/L8mcjK-a92e5_00ZA3y9nK9Z0aAyg0tb3ZlCB7U973A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njk3/MjMtMTQ1MjY0MTAx/Ni03NDI2LmpwZWc.jpeg) | 2001-06-19 | Hobart Smith | Blue Ridge Legacy |
-| 21 |  | 2001-09-11 | Bill Evans | Bill Evans Plays Banjo |
-| 19 | ![Cover](https://i.discogs.com/kBwDBJsKk9b1c02HQOih6-U8m3joksOTXbrRdUhxNXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjY5/OTgtMTMxMTQ4NjE0/MS5qcGVn.jpeg) | 2003 | Scott Tuma | The River 1234 |
-| 20 | ![Cover](https://i.discogs.com/RgIPnWgVoG7s-YhKLQCY3K0cVlAwgesg4DBhzglUFuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODMw/NTctMTQyNDU0NTYx/Mi02MjY5LmpwZWc.jpeg) | 2004 | Uncle Dave Macon | Classic Sides 1924-1938 |
-| 56 |  | 2004-02-24 | Old Crow Medicine Show | O.C.M.S. |
-| 33 |  | 2005-08-30 | Hobart Smith | In Sacred Trust: The 1963 Fleming Brown Tapes |
-| 58 |  |  | TiMBR ZEAL | Cosmic Wanderer |
-| 60 |  | 1964-04-20 | The Kentucky Colonels | Appalachian Swing! |
-| 86 |  | 1976 | Bill Keith | Something Auld, Something Newgrass, Something Borrowed, Something Bluegrass |
-| 73 |  | 1995 | Bill Evans | Native and Fine |
-| 85 |  | 1997 | Grandpa Jones | Everybody&#39;s Grandpa |
-| 66 |  | 2005-08-02 | Danny Barnes | Get Myself Together |
-| 99 | ![Cover](https://i.discogs.com/WYDgd2Gfv-QRZyLaaXFkbkxa5EAPasYOvtI6BSMSmm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzAy/NjctMTI4MzYyNTUx/NC5qcGVn.jpeg) | 2005-08-02 | Abigail Washburn | Song of the Traveling Daughter |
-| 18 | ![Cover](https://i.discogs.com/TOIDAIDdioyKNE7gIMtMUzJxKdSotICBWHGl62SlwPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzcy/MDM0LTE1OTc1MDk1/MzAtMzczMS5qcGVn.jpeg) | 2006 | Tangleweed | Where You Been So Long |
-| 52 | ![Cover](https://i.discogs.com/B-70ZajbMD9crKpEbDkpHO8Yss079NP8BsjN26pnQNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc5/NDYtMTMzMDc3NjE1/My5qcGVn.jpeg) | 2006 | The Meat Purveyors | Someday Soon Things Will Be Much Worse! |
-| 63 | ![Cover](https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg) | 2006 | Various Artists | The Old Time Banjo Festival |
-| 65 | ![Cover](https://i.discogs.com/gUrc7o0lNtYGhNty8pnQtvOzxuexRtlpwKVzReAPCGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzUw/OTEtMTM0MzkyNDk1/My01Mjg1LmpwZWc.jpeg) | 2006-03-14 | Grandpa Jones | Steppin&#39; Out Kind |
-| 77 |  | 2006-11 | Jeff Zentner | Hymns to the Darkness |
-| 24 | ![Cover](https://i.discogs.com/hKG_JFexk5WJFpu5b3PoSuHsQC6QNuDfYcKh2SfiLxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDI4/MzM4LTE1MTYxNDgx/MzQtOTg3Ni5qcGVn.jpeg) | 2007 | Enda Scahill | Pick it Up |
-| 27 | ![Cover](https://i.discogs.com/ZDbSeRJbbZN_qIEvL6enfRVo1rhYEmts-uDxfBvU1IM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjQ5/ODAwLTE1ODg2Nzk1/ODYtOTY2NC5qcGVn.jpeg) | 2007 | Pete Wernick | On a Roll |
-| 81 |  | 2007 | The Silent Comedy | Sunset Stables |
-| 90 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a0ca92a45ab388441a1859f685434d14.png) | 2007-03-23 | The John Butler Trio | Grand National |
-| 94 |  | 2007-04-09 | Hayseed Dixie | Weapons Of Grass Destruction |
-| 74 | ![Cover](https://i.discogs.com/cKddnO4HYm1-hyZtiBOnDe6h_2zGFWybSYQfjgQiaeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODgy/NS0xMTgyNDQ1MTIx/LmpwZWc.jpeg) | 2007-06-17 | June Madrona | A Long And Ugly Road (European edition) |
-| 50 | ![Cover](https://i.discogs.com/5IKMA9q2eXznSyJFWCzuyowL6JFga1o1bYLEcvWGxp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIx/MTMtMTI4ODEyNjc2/OS5qcGVn.jpeg) | 2008 | M. Ward | Transfiguration of Vincent |
-| 31 | ![Cover](https://i.discogs.com/SmkPDutLByiJMeTe2XsUrRzW9UM2jC1tn2RWPETFGI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDg5/MjctMTQwMzI2NjIx/NC0yODI5LmpwZWc.jpeg) | 2008-03-24 | Luke Abbott | Take Me Home |
-| 76 |  | 2008-04-15 | The Silent Comedy | The Silent Comedy |
-| 62 |  | 2008-06-07 | Courtney Marie Andrews | Urban Myths |
-| 59 |  | 2008-08-19 | Darrell Scott | Modern Hymns |
-| 13 | ![Cover](https://i.discogs.com/dJCzVa7vONgAp39MjO_vQGroA2-SeB_V5d1EFy0_Km4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDk3/Njk4LTE1NzU3NTMz/NDAtMTYxMi5qcGVn.jpeg) | 2008-11-17 | Emzel Café | Hourvari |
-| 78 |  | 2008-12-09 | Uncle Sinner | Ballads and Mental Breakdowns |
-| 14 | ![Cover](https://i.discogs.com/BYSen-krqqCKFr_l4zI4ktQsD2OsSTT0hLdfeD6RMK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcz/NjgzLTE1NDc2MDYz/MTItMTk5Ny5qcGVn.jpeg) | 2009 | Atwater-Donnelly | The Blackest Crow |
-| 42 |  | 2009 | Earl Scruggs | Nashville&#39;s Rock |
-| 98 |  | 2009-01-27 | Steve Martin | The Crow |
-| 93 | ![Cover](https://i.discogs.com/txU7PZ3uTF5vTQyeNGPNGwceEFbGC1U7C4GtE-UO1dk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTIy/Ni0xNDIyMjQwMTA1/LTk4NjQuanBlZw.jpeg) | 2009-05-19 | Steve Martin | The Crow: New Songs For the Five-String Banjo |
-| 67 |  | 2009-06-23 | Tall Tall Trees | Tall Tall Trees |
-| 68 | ![Cover](https://i.discogs.com/Kd6rmlF5V1rpI5BtaU9SeqCDgoobVDrPpgO2v7dzhBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDEw/MjctMTM4NzI5Mzc4/MS02MjQ1LmpwZWc.jpeg) | 2009-11-17 | Steve Martin | The Crow New Songs for the 5-String Banjo |
-| 54 | ![Cover](https://i.discogs.com/busVHFCgXuugezOsfomO1SF75MsYNwTaqxiaW992eNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAz/NDc0LTE1MjgzNzE0/NjMtNTE0NS5qcGVn.jpeg) | 2010 | G2 | Untapped Routes |
-| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5f1e1342afa0efca6f815e16336d63f5.png) | 2011 | haystax | Showdown in Motor City |
-| 7 | ![Cover](https://i.discogs.com/CMQqu0vfxS4bG9lpN9s-hJCt9Q8Fyp_PdQfC2WzEW1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzU2/MDYtMTMxNDU1MTIy/OC5qcGVn.jpeg) | 2011-03-31 | Howlin&#39; Lord | Gold Fury |
-| 71 | ![Cover](https://i.discogs.com/cSNzL-8yvkLlETcrv_3a6kQs4NhodcUpLsH4aW7Pt8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjIy/MzYtMTQzOTMwMDYx/MC0yMTkwLmpwZWc.jpeg) | 2011-06-07 | matt bauer | The Jessamine County Book Of The Living |
-| 80 |  | 2012-02-14 | To All My Friends | Ride With Me |
-| 88 | ![Cover](https://i.discogs.com/6XInZgXzMNXG7NuCLky8lQmyI-32G0JYH3_AoIsR16g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDgy/MzAtMTQ5MjA1MTIw/MS01Mjc0LmpwZWc.jpeg) | 2012-02-28 | Dreamend | And the Tears Washed Me, Wave After Cowardly Wave |
-| 17 | ![Cover](https://i.discogs.com/97JiPfQtTpYBkSGkD1J8MBwHQh93_lUY52ulHqFVV6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTU2/NTAtMTM1ODc3OTIy/NC01MTc3LmpwZWc.jpeg) | 2013-01-18 | The Fucking Buckaroos | II |
-| 51 |  | 2013-03-11 | The Cedars | Little Copper Still |
-| 46 | ![Cover](https://i.discogs.com/14RfjHnSDce0E4nWz2vmG6BDFiLfHwFnFJZqHopBixM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzIy/NjE4LTE2NjQ5Mjc5/NTEtMzMzMC5qcGVn.jpeg) | 2014-03-01 | Rob Scallon | Everything Song |
-| 75 | ![Cover](https://i.discogs.com/99lXspvJVRVfTU-ZYBrh3LCWpGOpqbxwEBsEqOvVkac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjg5/OTEtMTQzOTk4NDU1/OS0zODQzLmpwZWc.jpeg) | 2015-01-26 | Uncle Sinner | Let the Devil In |
-| 53 | ![Cover](https://i.discogs.com/O4yOPKE4rZpTxRldszvK1Uuy8rAAfgEGsAXJsCGTmW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Nzc0/NzEtMTQ0NjUyMjM5/Mi02MDA5LmpwZWc.jpeg) | 2015-10-16 | Valley Maker | Yes I Know I&#39;ve Loved This World |
-| 49 | ![Cover](https://i.discogs.com/GWvHVR7Ce0CK5AmdNaoTdQJ7r9EYVrX_c59Mo5V1wZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzI4/MDEwLTE2NTM3OTA5/NzEtNzk5MC5qcGVn.jpeg) | 2017 | Nava | Tapestry |
-| 61 | ![Cover](https://i.discogs.com/w-N23yN3IJ07M2SQ9XQyJY9HMS83E-JJdOmC7wnscYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjM4/MjA4LTE1ODg1MjIz/MjEtMTYzNi5qcGVn.jpeg) | 2018-01-23 | Artisti Vari | A Very Special Acoustic Christmas |
-| 4 | ![Cover](https://i.discogs.com/koXnW8K7FHSS88aALeLGJctda8ulVYXpuWKKGmcduPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzU0/MzU1LTE1NTI2NTEx/NTQtMzQyOS5qcGVn.jpeg) | 2019-03 | Matt Gray | Wood |
-| 8 | ![Cover](https://i.discogs.com/G09mB4VQHjOK16T98-o4wLhzm-6F3T_-t3L_IpT-6qU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjkz/NjUzLTE1ODkzMDE2/OTctNzgxNy5qcGVn.jpeg) | 2020-03-16 | Uncle Sinner | Trouble of this World |
-| 16 |  |  | Swords and Horns | Old Country |
-| 57 | ![Cover](https://i.discogs.com/Kbmemv-N4NxYiFXdx7wym8R0_nKJhqmp2crVnjO9Vq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDQ0/MjktMTYyOTkxOTc5/My02ODU5LmpwZWc.jpeg) | 2022-05-27 | Bela Fleck | Greatest Hits of the 20th Century |
-| 69 |  |  | Crazy Mountain Billies | Hit Like a Hammer |
-| 70 |  |  | TiMBR ZEAL | Terraform |
-| 79 |  |  | Frater Chaovsky and the God Fearing Mongrels | Fake it till you make it |
-| 87 |  |  | Crazy Mountain Billies | Badlands III |
-| 89 |  |  | Southern Ghosts | The Great Depression Pt. 1 |
-| 92 |  |  | Crazy Mountain Billies | Badlands II |
-| 96 |  |  | Steve ´n´ Seagulls | Brothers In Farms |
-| 100 |  |  | Steve ´n´ Seagulls | Farm Machine |
-| 95 | ![Cover](https://i.discogs.com/i7f4ci3m3z8M67pqmMnwHJBqrpPBj97OUc1mGfj4DYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjM1/NjktMTUzNjQ3MzAx/Ny04NTM1LmpwZWc.jpeg) | 2015 | The Lowest Pair | The Sacred Heart Sessions |
-| 1 |  | 2023 | Various Artists | Banjo Jamboree |
-| 5 |  | 2023 | Various Artists | Classic Bluegrass Vol. 2 from Smithsonian Folkways |
-| 26 | ![Cover](https://i.discogs.com/ieAth7t29san5KAz52DLM3NUMZJ_6-eE6U8_mHbmKlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjE1/MzgwLTE3MzA5MjI1/MDYtODQ3NC5qcGVn.jpeg) | 2023 | Various Artists | Old Time Music From West Virginia |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/ffh8oNMbIRux0_R-3CXsKBK9aXdNUz6gMYyKXMLz_Bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTk0/MzAtMTQwMDI2Nzkx/Ny02Njk0LmpwZWc.jpeg" alt="Cover for The Fabulous Banjo Of Danny Barker" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1959</td>
+      <td>Danny Barker</td>
+      <td>The Fabulous Banjo Of Danny Barker</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>1964</td>
+      <td>Dave Van Ronk</td>
+      <td>Ragtime Jug Stompers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/HAAvsVa8PbTVY5ysxmBl5aGyK2qrLXpkCPl5Lv9dQSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDgz/MDAtMTI4MjM4NTAy/Ni5qcGVn.jpeg" alt="Cover for Country Blues" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1964</td>
+      <td>Dock Boggs</td>
+      <td>Country Blues</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+      </td>
+      <td>1964-04-20</td>
+      <td>The Kentucky Colonels</td>
+      <td>Appalachian Swing!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td>1965</td>
+      <td>Pete Seeger</td>
+      <td>Hard Travelling: The Best of Pete Seeger</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/dzF_kP3ncexhWD7HCMySLgoTjCmTsdUbk1wPOJUqKog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzE2/OTMtMTYyMDE1MjEx/Ny05NTExLmpwZWc.jpeg" alt="Cover for Darling Corey &#x2F; Goofing-Off Suite" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1967</td>
+      <td>Pete Seeger</td>
+      <td>Darling Corey &#x2F; Goofing-Off Suite</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/VT6Q3Tn0wjkvq49AiQJG8qhkKJnjUYmZTmiMsWfM84E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Njcy/ODUtMTQxMzgyMjU5/OS0xMjQyLmpwZWc.jpeg" alt="Cover for Live Studio Sessions" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1968-05-03</td>
+      <td>The Cedars</td>
+      <td>Live Studio Sessions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/london" | relative_url }}">london</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/OiZ3akr6VyASLXsSplbWRe7Gt5PFibC0IBqgHs5VuzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDQ1/MDUtMTYwMDcwMzg1/Mi02MjE1LmpwZWc.jpeg" alt="Cover for Foggy Mountain Banjo: Flatt and Scruggs and the Foggy Mountain Boys" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969</td>
+      <td>Flatt and Scruggs and the Foggy Mountain Boys</td>
+      <td>Foggy Mountain Banjo: Flatt and Scruggs and the Foggy Mountain Boys</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/jzBPQq8f4AAmdUEK1OOwGClpliFaItvPFCsY8YAbcYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTcw/MDktMTYxOTU1OTQy/Ni0zNTYxLmpwZWc.jpeg" alt="Cover for Papa Charlie Jackson Vol. 3 (1928 - 1934)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Papa Charlie Jackson</td>
+      <td>Papa Charlie Jackson Vol. 3 (1928 - 1934)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td>1976</td>
+      <td>Bill Keith</td>
+      <td>Something Auld, Something Newgrass, Something Borrowed, Something Bluegrass</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/hjg_BmyhwqbEClYEuZ8KVytgbpKCPSLq7rjkDJn4zTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTky/MTgtMTQxNzg5MzMx/MC0yNTU1LmpwZWc.jpeg" alt="Cover for Southbound" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Southbound</td>
+      <td>Southbound</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/wu7qDiwvZ16ClFjK34HNRj-pJXiji3M2UYQwvS0cStY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAz/OTkxLTE1NTczNDA3/MDYtNjc5Ni5qcGVn.jpeg" alt="Cover for Decade Waltz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>The Dillards</td>
+      <td>Decade Waltz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/iqZ3Q6WBkroDvAGoehWZyir4nAVLQtPrA3_ObSjQHQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMy/ODItMTMyOTg5Mjc5/NS5qcGVn.jpeg" alt="Cover for The Steve Martin Brothers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1981-11</td>
+      <td>Steve Martin</td>
+      <td>The Steve Martin Brothers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Happy Times" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Various Artists</td>
+      <td>Happy Times</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>1988</td>
+      <td>Beck</td>
+      <td>Banjo Story</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/Zi2rmjJFLUThrVB4ernbIq5bOZhj5c1iv8VSkaASMTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjIz/Ni0xMTU3NjMxNDYz/LmpwZWc.jpeg" alt="Cover for Rare Bird Alert" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Steve Martin</td>
+      <td>Rare Bird Alert</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/_f7xlkdGmjgnT_IE4UvOswne8G7Vz5NHavmkmM7PcK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTc0/MDMtMTQ0NDgyNjQx/My0zNzkxLmpwZWc.jpeg" alt="Cover for Gus Cannon &amp; Noah Lewis Vol. 2 (1929 - 1930)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Gus Cannon &amp; Noah Lewis</td>
+      <td>Gus Cannon &amp; Noah Lewis Vol. 2 (1929 - 1930)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/upCDtGlm-Fqaa4YwvPJPc0jynWJA5CRoA3AeokHqp_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDIw/MzYtMTQwMzA1Nzk2/MC0xNzE0LmpwZWc.jpeg" alt="Cover for Ready to Roll" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>The Red Hots</td>
+      <td>Ready to Roll</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/Jcm_83YH9dtDMKx6d1uCBWVENtXEKSYWDGUa2opftU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTc3/OTE5LTE1Mjk4NTY0/NjUtNTMyMS5qcGVn.jpeg" alt="Cover for Beating Around the Bush" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Bill Keith</td>
+      <td>Beating Around the Bush</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td>1993-09-14</td>
+      <td>Béla Fleck and the Flecktones</td>
+      <td>Three Flew Over The Cuckoo&#39;s Nest</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>Bill Evans</td>
+      <td>Native and Fine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/_Dpdu2QwO9VEwkAD5i_2zu-JCg96zp2Sm6N6n7r9vEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTcx/NDktMTUxNTg4OTM4/NC04ODY2LmpwZWc.jpeg" alt="Cover for Left Of Cool" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Béla Fleck</td>
+      <td>Left Of Cool</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Grandpa Jones</td>
+      <td>Everybody&#39;s Grandpa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/5SExRiBfhv-nc6x6Rp_VYo0vACvHJkvObGoUkIYKEDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODQ4/MTEtMTUyMjI0OTE0/Ni05MTMwLmpwZWc.jpeg" alt="Cover for Best of the Dubliners [Epic&#x2F;Legacy]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>The Dubliners</td>
+      <td>Best of the Dubliners [Epic&#x2F;Legacy]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/xUuLSRQ6mzweC5vBzIQuotinFs2oKYJCll9CKkc2W5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTE5/MjMzLTE1ODY5MjM0/ODEtNjA4MC5qcGVn.jpeg" alt="Cover for Simplify" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Ryan Shupe &amp; The Rubberband</td>
+      <td>Simplify</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lds" | relative_url }}">lds</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/xcckQj50fXfK-fV7zCJeFzPoK37xUJL0S54qWBFmAPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTc1/MDM5LTE1NDkzNjQ5/MjctNzEyMS5qcGVn.jpeg" alt="Cover for Covered Bridge" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>The Gordons</td>
+      <td>Covered Bridge</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 29</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/QqoQsl1Gjx6J987vFRMM3VvKAHVDW1Qs-eR8G5EWPzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTk5/MjgzLTE2MzE0NDI3/NjItODg5Ny5qcGVn.jpeg" alt="Cover for The Bluegrass Sessions" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Bela Fleck</td>
+      <td>The Bluegrass Sessions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/L8mcjK-a92e5_00ZA3y9nK9Z0aAyg0tb3ZlCB7U973A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njk3/MjMtMTQ1MjY0MTAx/Ni03NDI2LmpwZWc.jpeg" alt="Cover for Blue Ridge Legacy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-06-19</td>
+      <td>Hobart Smith</td>
+      <td>Blue Ridge Legacy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td>2001-09-11</td>
+      <td>Bill Evans</td>
+      <td>Bill Evans Plays Banjo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/kBwDBJsKk9b1c02HQOih6-U8m3joksOTXbrRdUhxNXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjY5/OTgtMTMxMTQ4NjE0/MS5qcGVn.jpeg" alt="Cover for The River 1234" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Scott Tuma</td>
+      <td>The River 1234</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/RgIPnWgVoG7s-YhKLQCY3K0cVlAwgesg4DBhzglUFuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODMw/NTctMTQyNDU0NTYx/Mi02MjY5LmpwZWc.jpeg" alt="Cover for Classic Sides 1924-1938" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Uncle Dave Macon</td>
+      <td>Classic Sides 1924-1938</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td>2004-02-24</td>
+      <td>Old Crow Medicine Show</td>
+      <td>O.C.M.S.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 18</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 45</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td>2005-08-02</td>
+      <td>Danny Barnes</td>
+      <td>Get Myself Together</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/WYDgd2Gfv-QRZyLaaXFkbkxa5EAPasYOvtI6BSMSmm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzAy/NjctMTI4MzYyNTUx/NC5qcGVn.jpeg" alt="Cover for Song of the Traveling Daughter" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-08-02</td>
+      <td>Abigail Washburn</td>
+      <td>Song of the Traveling Daughter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+      </td>
+      <td>2005-08-30</td>
+      <td>Hobart Smith</td>
+      <td>In Sacred Trust: The 1963 Fleming Brown Tapes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/TOIDAIDdioyKNE7gIMtMUzJxKdSotICBWHGl62SlwPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzcy/MDM0LTE1OTc1MDk1/MzAtMzczMS5qcGVn.jpeg" alt="Cover for Where You Been So Long" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Tangleweed</td>
+      <td>Where You Been So Long</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 13</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/B-70ZajbMD9crKpEbDkpHO8Yss079NP8BsjN26pnQNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc5/NDYtMTMzMDc3NjE1/My5qcGVn.jpeg" alt="Cover for Someday Soon Things Will Be Much Worse!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>The Meat Purveyors</td>
+      <td>Someday Soon Things Will Be Much Worse!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for The Old Time Banjo Festival" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Various Artists</td>
+      <td>The Old Time Banjo Festival</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/gUrc7o0lNtYGhNty8pnQtvOzxuexRtlpwKVzReAPCGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzUw/OTEtMTM0MzkyNDk1/My01Mjg1LmpwZWc.jpeg" alt="Cover for Steppin&#39; Out Kind" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-03-14</td>
+      <td>Grandpa Jones</td>
+      <td>Steppin&#39; Out Kind</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2006-11</td>
+      <td>Jeff Zentner</td>
+      <td>Hymns to the Darkness</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>The Silent Comedy</td>
+      <td>Sunset Stables</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/hKG_JFexk5WJFpu5b3PoSuHsQC6QNuDfYcKh2SfiLxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDI4/MzM4LTE1MTYxNDgx/MzQtOTg3Ni5qcGVn.jpeg" alt="Cover for Pick it Up" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Enda Scahill</td>
+      <td>Pick it Up</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/ZDbSeRJbbZN_qIEvL6enfRVo1rhYEmts-uDxfBvU1IM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjQ5/ODAwLTE1ODg2Nzk1/ODYtOTY2NC5qcGVn.jpeg" alt="Cover for On a Roll" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Pete Wernick</td>
+      <td>On a Roll</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0ca92a45ab388441a1859f685434d14.png" alt="Cover for Grand National" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-03-23</td>
+      <td>The John Butler Trio</td>
+      <td>Grand National</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 52</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 80</li>
+            <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>2007-04-09</td>
+      <td>Hayseed Dixie</td>
+      <td>Weapons Of Grass Destruction</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/cKddnO4HYm1-hyZtiBOnDe6h_2zGFWybSYQfjgQiaeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODgy/NS0xMTgyNDQ1MTIx/LmpwZWc.jpeg" alt="Cover for A Long And Ugly Road (European edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-06-17</td>
+      <td>June Madrona</td>
+      <td>A Long And Ugly Road (European edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 98 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 2</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 18</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 26</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 29</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 51</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 64</li>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 81</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/5IKMA9q2eXznSyJFWCzuyowL6JFga1o1bYLEcvWGxp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIx/MTMtMTI4ODEyNjc2/OS5qcGVn.jpeg" alt="Cover for Transfiguration of Vincent" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>M. Ward</td>
+      <td>Transfiguration of Vincent</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 13</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 36</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 39</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 41</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 46</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/SmkPDutLByiJMeTe2XsUrRzW9UM2jC1tn2RWPETFGI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDg5/MjctMTQwMzI2NjIx/NC0yODI5LmpwZWc.jpeg" alt="Cover for Take Me Home" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-03-24</td>
+      <td>Luke Abbott</td>
+      <td>Take Me Home</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 33</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td>2008-04-15</td>
+      <td>The Silent Comedy</td>
+      <td>The Silent Comedy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>2008-06-07</td>
+      <td>Courtney Marie Andrews</td>
+      <td>Urban Myths</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>2008-08-19</td>
+      <td>Darrell Scott</td>
+      <td>Modern Hymns</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/dJCzVa7vONgAp39MjO_vQGroA2-SeB_V5d1EFy0_Km4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDk3/Njk4LTE1NzU3NTMz/NDAtMTYxMi5qcGVn.jpeg" alt="Cover for Hourvari" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-11-17</td>
+      <td>Emzel Café</td>
+      <td>Hourvari</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>2008-12-09</td>
+      <td>Uncle Sinner</td>
+      <td>Ballads and Mental Breakdowns</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 31</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 33</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 48</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 60</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 64</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/BYSen-krqqCKFr_l4zI4ktQsD2OsSTT0hLdfeD6RMK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcz/NjgzLTE1NDc2MDYz/MTItMTk5Ny5qcGVn.jpeg" alt="Cover for The Blackest Crow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Atwater-Donnelly</td>
+      <td>The Blackest Crow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Earl Scruggs</td>
+      <td>Nashville&#39;s Rock</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>2009-01-27</td>
+      <td>Steve Martin</td>
+      <td>The Crow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/txU7PZ3uTF5vTQyeNGPNGwceEFbGC1U7C4GtE-UO1dk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTIy/Ni0xNDIyMjQwMTA1/LTk4NjQuanBlZw.jpeg" alt="Cover for The Crow: New Songs For the Five-String Banjo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-05-19</td>
+      <td>Steve Martin</td>
+      <td>The Crow: New Songs For the Five-String Banjo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>2009-06-23</td>
+      <td>Tall Tall Trees</td>
+      <td>Tall Tall Trees</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 7</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/Kd6rmlF5V1rpI5BtaU9SeqCDgoobVDrPpgO2v7dzhBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDEw/MjctMTM4NzI5Mzc4/MS02MjQ1LmpwZWc.jpeg" alt="Cover for The Crow New Songs for the 5-String Banjo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-11-17</td>
+      <td>Steve Martin</td>
+      <td>The Crow New Songs for the 5-String Banjo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/busVHFCgXuugezOsfomO1SF75MsYNwTaqxiaW992eNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAz/NDc0LTE1MjgzNzE0/NjMtNTE0NS5qcGVn.jpeg" alt="Cover for Untapped Routes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>G2</td>
+      <td>Untapped Routes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f1e1342afa0efca6f815e16336d63f5.png" alt="Cover for Showdown in Motor City" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>haystax</td>
+      <td>Showdown in Motor City</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/CMQqu0vfxS4bG9lpN9s-hJCt9Q8Fyp_PdQfC2WzEW1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzU2/MDYtMTMxNDU1MTIy/OC5qcGVn.jpeg" alt="Cover for Gold Fury" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-03-31</td>
+      <td>Howlin&#39; Lord</td>
+      <td>Gold Fury</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 18</li>
+            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/cSNzL-8yvkLlETcrv_3a6kQs4NhodcUpLsH4aW7Pt8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjIy/MzYtMTQzOTMwMDYx/MC0yMTkwLmpwZWc.jpeg" alt="Cover for The Jessamine County Book Of The Living" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-06-07</td>
+      <td>matt bauer</td>
+      <td>The Jessamine County Book Of The Living</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>2012-02-14</td>
+      <td>To All My Friends</td>
+      <td>Ride With Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/6XInZgXzMNXG7NuCLky8lQmyI-32G0JYH3_AoIsR16g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDgy/MzAtMTQ5MjA1MTIw/MS01Mjc0LmpwZWc.jpeg" alt="Cover for And the Tears Washed Me, Wave After Cowardly Wave" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-02-28</td>
+      <td>Dreamend</td>
+      <td>And the Tears Washed Me, Wave After Cowardly Wave</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/97JiPfQtTpYBkSGkD1J8MBwHQh93_lUY52ulHqFVV6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTU2/NTAtMTM1ODc3OTIy/NC01MTc3LmpwZWc.jpeg" alt="Cover for II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-01-18</td>
+      <td>The Fucking Buckaroos</td>
+      <td>II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+      </td>
+      <td>2013-03-11</td>
+      <td>The Cedars</td>
+      <td>Little Copper Still</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/london" | relative_url }}">london</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 12</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 25</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 38</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 44</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 57</li>
+            <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 65</li>
+            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/14RfjHnSDce0E4nWz2vmG6BDFiLfHwFnFJZqHopBixM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzIy/NjE4LTE2NjQ5Mjc5/NTEtMzMzMC5qcGVn.jpeg" alt="Cover for Everything Song" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-03-01</td>
+      <td>Rob Scallon</td>
+      <td>Everything Song</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/i7f4ci3m3z8M67pqmMnwHJBqrpPBj97OUc1mGfj4DYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjM1/NjktMTUzNjQ3MzAx/Ny04NTM1LmpwZWc.jpeg" alt="Cover for The Sacred Heart Sessions" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>The Lowest Pair</td>
+      <td>The Sacred Heart Sessions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/99lXspvJVRVfTU-ZYBrh3LCWpGOpqbxwEBsEqOvVkac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjg5/OTEtMTQzOTk4NDU1/OS0zODQzLmpwZWc.jpeg" alt="Cover for Let the Devil In" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-01-26</td>
+      <td>Uncle Sinner</td>
+      <td>Let the Devil In</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 27</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 28</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 46</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 58</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 63</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/O4yOPKE4rZpTxRldszvK1Uuy8rAAfgEGsAXJsCGTmW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Nzc0/NzEtMTQ0NjUyMjM5/Mi02MDA5LmpwZWc.jpeg" alt="Cover for Yes I Know I&#39;ve Loved This World" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-10-16</td>
+      <td>Valley Maker</td>
+      <td>Yes I Know I&#39;ve Loved This World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/GWvHVR7Ce0CK5AmdNaoTdQJ7r9EYVrX_c59Mo5V1wZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzI4/MDEwLTE2NTM3OTA5/NzEtNzk5MC5qcGVn.jpeg" alt="Cover for Tapestry" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Nava</td>
+      <td>Tapestry</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/w-N23yN3IJ07M2SQ9XQyJY9HMS83E-JJdOmC7wnscYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjM4/MjA4LTE1ODg1MjIz/MjEtMTYzNi5qcGVn.jpeg" alt="Cover for A Very Special Acoustic Christmas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-01-23</td>
+      <td>Artisti Vari</td>
+      <td>A Very Special Acoustic Christmas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/koXnW8K7FHSS88aALeLGJctda8ulVYXpuWKKGmcduPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzU0/MzU1LTE1NTI2NTEx/NTQtMzQyOS5qcGVn.jpeg" alt="Cover for Wood" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-03</td>
+      <td>Matt Gray</td>
+      <td>Wood</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/G09mB4VQHjOK16T98-o4wLhzm-6F3T_-t3L_IpT-6qU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjkz/NjUzLTE1ODkzMDE2/OTctNzgxNy5qcGVn.jpeg" alt="Cover for Trouble of this World" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-03-16</td>
+      <td>Uncle Sinner</td>
+      <td>Trouble of this World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 10</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/Kbmemv-N4NxYiFXdx7wym8R0_nKJhqmp2crVnjO9Vq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDQ0/MjktMTYyOTkxOTc5/My02ODU5LmpwZWc.jpeg" alt="Cover for Greatest Hits of the 20th Century" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-05-27</td>
+      <td>Bela Fleck</td>
+      <td>Greatest Hits of the 20th Century</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/ieAth7t29san5KAz52DLM3NUMZJ_6-eE6U8_mHbmKlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjE1/MzgwLTE3MzA5MjI1/MDYtODQ3NC5qcGVn.jpeg" alt="Cover for Old Time Music From West Virginia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Old Time Music From West Virginia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Banjo Jamboree</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Classic Bluegrass Vol. 2 from Smithsonian Folkways</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Yo-Yo Ma, Edgar Meyer, Joshua Bell, Mark O&#39;Connor</td>
+      <td>Heartland: An Appalachian Anthology</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td></td>
+      <td>1800s Sea Monster</td>
+      <td>Soundtrack Tapes For Crazy Red</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/portland" | relative_url }}">portland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukulele" | relative_url }}">ukulele</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 30</li>
+            <li> <a href="{{ "/tags/ukulele" | relative_url }}">ukulele</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Raise High the Roof Beam</td>
+      <td>Family EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukulele" | relative_url }}">ukulele</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ukulele" | relative_url }}">ukulele</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Crazy Mountain Billies</td>
+      <td>Badlands III</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 15</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Crazy Mountain Billies</td>
+      <td>Badlands II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 24</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Steve ´n´ Seagulls</td>
+      <td>Brothers In Farms</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finland" | relative_url }}">finland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Steve ´n´ Seagulls</td>
+      <td>Farm Machine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finland" | relative_url }}">finland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 12</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 36</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Matt LaGoy</td>
+      <td>Late Harvest</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Cady Finlayson</td>
+      <td>Irish Coffee</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harp" | relative_url }}">harp</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Swords and Horns</td>
+      <td>Old Country</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td></td>
+      <td>cold_elf</td>
+      <td>Stereo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Gulf of Michigan</td>
+      <td>Live at The Trash Bar 3.14.08</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Space Banjo</td>
+      <td>Fire Spirits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Matt LaGoy</td>
+      <td>2005</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Pickin&#39; On Series</td>
+      <td>The Bluegrass Tribute To Air: Blue Safari - Featuring Old School Freight Train</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Almanac Shouters</td>
+      <td>A Long Road Home</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td></td>
+      <td>TiMBR ZEAL</td>
+      <td>Cosmic Wanderer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Crazy Mountain Billies</td>
+      <td>Hit Like a Hammer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td></td>
+      <td>TiMBR ZEAL</td>
+      <td>Terraform</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Frater Chaovsky and the God Fearing Mongrels</td>
+      <td>Fake it till you make it</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Southern Ghosts</td>
+      <td>The Great Depression Pt. 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

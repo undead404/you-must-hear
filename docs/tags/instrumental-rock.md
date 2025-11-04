@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T20:53:05.688Z
+date: 2025-11-04T02:33:55.490Z
 permalink: tags/instrumental-rock
 title: instrumental rock
 ---
 
 ## instrumental rock
 
-Last updated: <time datetime="2025-11-02T20:53:05.688Z">Sun Nov 02 2025 22:53:05 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T02:33:55.490Z">Tue Nov 04 2025 04:33:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
   </thead>
   <tbody>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>1959</td>
@@ -61,13 +61,13 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 26</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 28</li>
             <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/84d5d8f2bf3110d46256f1d7cff85d89.png" alt="Cover for Jeff Beck&#39;s Guitar Shop" style="max-width:120px; height:auto;" />
       </td>
@@ -123,7 +123,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3271be6770604053c0a479da21682a98.png" alt="Cover for Flex-able" style="max-width:120px; height:auto;" />
       </td>
@@ -175,7 +175,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 71</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -218,7 +218,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7cb0543384fea84c9a1d5ee4fff944d.png" alt="Cover for Perpetual Burn" style="max-width:120px; height:auto;" />
       </td>
@@ -239,7 +239,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/7M98acktpXx-NT-4BAIk3meZlOA3XTRHtxyPzp1KnZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDM1/NDYtMTMxOTcyMzM1/Mi5qcGVn.jpeg" alt="Cover for Greg Howe" style="max-width:120px; height:auto;" />
       </td>
@@ -274,7 +274,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>1989</td>
@@ -298,7 +298,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fe0c8fba5575890077d3b36f326582e.png" alt="Cover for Flying In A Blue Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -311,7 +311,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 61</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -329,7 +329,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 50</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -348,7 +348,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 77</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -374,7 +374,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/K4dQTCtke-MnwCMIg_kQ9MLXmGg6rPJQYD0u8Lz85LU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA1/NzQtMTM0NzY1MDE5/OS03Mzg5LmpwZWc.jpeg" alt="Cover for Michael Lee Firkins" style="max-width:120px; height:auto;" />
       </td>
@@ -396,7 +396,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>1991</td>
@@ -456,7 +456,26 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Joe Satriani</td>
+      <td>The Beautiful Guitar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
       <td>
       </td>
       <td>1993-10-26</td>
@@ -469,12 +488,12 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 49</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>1994</td>
@@ -491,7 +510,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bbffdc77bb04a68caca8a48c2f52ed2.png" alt="Cover for Giant Robot" style="max-width:120px; height:auto;" />
       </td>
@@ -510,7 +529,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>1995</td>
@@ -562,12 +581,12 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 60</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>1996</td>
@@ -586,7 +605,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/461465a6e6bc4a11900b3b0c1ea12405.png" alt="Cover for Fire Garden" style="max-width:120px; height:auto;" />
       </td>
@@ -604,7 +623,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/J9T1cJbUlrPpeQFU5GoZq3CM3OieWuJhlqk3AjIRmIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDky/ODE3LTE1MzYzNjQ2/NTItODQ1My5wbmc.jpeg" alt="Cover for Sex and Religion" style="max-width:120px; height:auto;" />
       </td>
@@ -619,12 +638,12 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 82</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>1997</td>
@@ -647,7 +666,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/WLgbzHkVrpu2r-ZcxJgFtyGiou5oUmc2NDdEqTAXlyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mjc1/MDEtMTQwMTAzODEy/OS0zMDA3LmpwZWc.jpeg" alt="Cover for G3 - Live in concert" style="max-width:120px; height:auto;" />
       </td>
@@ -744,7 +763,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/hjfNi7V-nTesc_KDFtv1rCMTvt8HeERj2n4UfR2RhAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDYz/MjEtMTU0MDE0Mjg0/Ni03MTA1LmpwZWc.jpeg" alt="Cover for G3: Live in Concert" style="max-width:120px; height:auto;" />
       </td>
@@ -765,7 +784,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/hjfNi7V-nTesc_KDFtv1rCMTvt8HeERj2n4UfR2RhAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDYz/MjEtMTU0MDE0Mjg0/Ni03MTA1LmpwZWc.jpeg" alt="Cover for The 7th Song" style="max-width:120px; height:auto;" />
       </td>
@@ -780,7 +799,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 42</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -798,7 +817,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 30</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -820,7 +839,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2001</td>
@@ -910,7 +929,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 38</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -934,7 +953,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9da4ee5291fe4ad8cad414b484ce801a.png" alt="Cover for Marching Out" style="max-width:120px; height:auto;" />
       </td>
@@ -950,12 +969,12 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       <td>
         <ul>
             <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 32</li>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 53</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d517f2eebb427e28c5ec887adc27ee0.png" alt="Cover for Is There Love in Space?" style="max-width:120px; height:auto;" />
       </td>
@@ -968,8 +987,8 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 67</li>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 94</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 68</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -994,26 +1013,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>35</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad8cafc6e1664dcdadcb34f1c6c740e3.png" alt="Cover for Real Illusions: Reflections" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-02-22</td>
-      <td>Steve Vai</td>
-      <td>Real Illusions: Reflections</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/kH3P-t-XKxIttfZkjNUSHnrOpRH3NNgs4oqmxTHr5E0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODM2/NTgtMTQ4NjI3NTA1/Ni01NzQ5LmpwZWc.jpeg" alt="Cover for Varia Suite" style="max-width:120px; height:auto;" />
       </td>
@@ -1037,7 +1037,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/kH3P-t-XKxIttfZkjNUSHnrOpRH3NNgs4oqmxTHr5E0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODM2/NTgtMTQ4NjI3NTA1/Ni01NzQ5LmpwZWc.jpeg" alt="Cover for Expansion Pack" style="max-width:120px; height:auto;" />
       </td>
@@ -1117,12 +1117,12 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 59</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40a891405c92b34d2fda3712c1796dc0.png" alt="Cover for The Devil Knows My Name" style="max-width:120px; height:auto;" />
       </td>
@@ -1141,7 +1141,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2007-04-18</td>
@@ -1177,7 +1177,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/242e29602408461d937ebdafb76c7cc1.png" alt="Cover for Entertainment System 64" style="max-width:120px; height:auto;" />
       </td>
@@ -1203,7 +1203,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>2007-10-30</td>
@@ -1220,7 +1220,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2008-01-23</td>
@@ -1237,7 +1237,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cb28f932bcd4f31899c27b22c5f9dea.png" alt="Cover for Professor Satchafunkilus and the Musterion of Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -1297,7 +1297,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/rVNr5jS9VM7HGJiMFLhybV1_NyPNiY-mN-_DWjRO8YI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTE3/NTctMTI5Njg1OTc4/Ny5qcGVn.jpeg" alt="Cover for Professor Satchafunkilus &amp; The Musterion Of Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -1316,7 +1316,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/nV3_ywMk2ppT1pcDyDWmJaRvsbvlxTL2AuglnGSGd_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg5/MTYtMTUzMjc4MTk3/Ni0xMzkxLmpwZWc.jpeg" alt="Cover for Station" style="max-width:120px; height:auto;" />
       </td>
@@ -1338,7 +1338,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/pdO3uDMFkBSgT3GatHAuD8_2xdYMWF0vMrxJjYnJM-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTA3/NjgtMTYzNTc5Nzc4/OS05MDEyLmpwZWc.jpeg" alt="Cover for Out Standing In Their Field" style="max-width:120px; height:auto;" />
       </td>
@@ -1355,7 +1355,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 93</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1382,7 +1382,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/vx2jVT24ChFTLs_svq3liIQ66-mOodSkPv3jz2-d8LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODEz/OTMtMTI4NjQwNzk3/Ny5qcGVn.jpeg" alt="Cover for Black Swans &amp; Wormhole Wizards" style="max-width:120px; height:auto;" />
       </td>
@@ -1399,13 +1399,13 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 51</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 52</li>
             <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7032a3ca45274b0da39eed4699597ab2.png" alt="Cover for Fuzz Universe" style="max-width:120px; height:auto;" />
       </td>
@@ -1419,7 +1419,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 48</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1444,7 +1444,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
       </td>
       <td>2010-10-21</td>
@@ -1504,7 +1504,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/KzGzI4Dww5laho_jQzdNLBjnJx67uyNE_wEOXvKQiBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDI3/NTgtMTQwMzA4OTM4/Ny05ODc1LmpwZWc.jpeg" alt="Cover for Brick City Ghosts" style="max-width:120px; height:auto;" />
       </td>
@@ -1536,7 +1536,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td>2011-06-28</td>
@@ -1559,7 +1559,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2011-07-29</td>
@@ -1579,7 +1579,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/18f7b37c2124296d530cd3f6a3b9f03d.png" alt="Cover for Vacation Wasteland" style="max-width:120px; height:auto;" />
       </td>
@@ -1602,7 +1602,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td>2012-05-08</td>
@@ -1621,7 +1621,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee374c5531c14526b76ea76c202f81ec.png" alt="Cover for Unstoppable Momentum" style="max-width:120px; height:auto;" />
       </td>
@@ -1679,7 +1679,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 6</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1702,7 +1702,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>2014-07-01</td>
@@ -1720,7 +1720,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8442c105590b46ee3e30dec300bf64ca.png" alt="Cover for Shockwave Supernova" style="max-width:120px; height:auto;" />
       </td>
@@ -1740,7 +1740,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/fxPzjIz0sLL1tu7oQDcjulK3uCZOZuthd-OOApbbWfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTY5/NjgtMTQ1NzMxNTM4/NC03MjExLmpwZWc.jpeg" alt="Cover for Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -1763,7 +1763,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e9a555a4372c946ca79dc3ae8a813ff.png" alt="Cover for Tres Caballeros" style="max-width:120px; height:auto;" />
       </td>
@@ -1802,7 +1802,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/rDj_pY_U6Ef4M0yPVwcbYw8DcUmcKQZlC57M8N5HTHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzE3/ODYtMTQ3NzIzOTA0/OC0zNDA4LmpwZWc.jpeg" alt="Cover for Come to Mexico" style="max-width:120px; height:auto;" />
       </td>
@@ -1823,7 +1823,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/SMMj6IUDhZqoayz8BY9egPHGK7-_rvpNVvKvnT5Wowo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ0/Nzg5LTE0OTc1NzAz/MDYtMzQ4OC5qcGVn.jpeg" alt="Cover for Balsams" style="max-width:120px; height:auto;" />
       </td>
@@ -1838,12 +1838,12 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 52</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/z1eNmd63Y23nPvpeix12AWGtWJr56skmpgQSQ1R1Jc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/MzEyLTE1MjgzMTYy/ODAtNTI1OC5qcGVn.jpeg" alt="Cover for Copper Wasp" style="max-width:120px; height:auto;" />
       </td>
@@ -1865,7 +1865,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/rwZpNbD58mETYMUB3JWeSxzO-XcO1tJTS91atM7wYyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDA0/NjY5LTE1NjU5MDEz/NzgtODQzMC5qcGVn.jpeg" alt="Cover for Unending" style="max-width:120px; height:auto;" />
       </td>
@@ -1884,7 +1884,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2020-03-20</td>
@@ -1917,12 +1917,12 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       <td>
         <ul>
             <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 14</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 20</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2023</td>
@@ -1942,7 +1942,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg" alt="Cover for G3: Live in Concert" style="max-width:120px; height:auto;" />
       </td>
@@ -1981,7 +1981,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td></td>
@@ -2006,7 +2006,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
