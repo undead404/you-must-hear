@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T19:38:51.576Z
+date: 2025-11-03T17:24:34.439Z
 permalink: tags/nu-disco
 title: nu-disco
 ---
 
 ## nu-disco
 
-Last updated: <time datetime="2025-10-31T19:38:51.576Z">Fri Oct 31 2025 21:38:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T17:24:34.439Z">Mon Nov 03 2025 19:24:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,28 +47,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>31</td>
-      <td>
-      </td>
-      <td>1977</td>
-      <td>Various Artists</td>
-      <td>Funky Gabber</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 23</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>1979</td>
@@ -86,7 +65,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/30PLiLdVwACUH3M7R6NH3_p0Jvji2GTKbh9DYXljMEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjA0/MzgtMTIzNDk4MDYx/NC5qcGVn.jpeg" alt="Cover for You Got Something Special" style="max-width:120px; height:auto;" />
       </td>
@@ -136,7 +115,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2000-11-27</td>
@@ -155,7 +134,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2001-08-27</td>
@@ -169,12 +148,12 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 39</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>2001-08-29</td>
@@ -259,7 +238,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/EIT6G4j7DG2yTlqsmriZu2AfAarqjEJIhaXFppC6AJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTMw/ODAtMTI2NzgwNTQ1/MS5qcGVn.jpeg" alt="Cover for The Active Touch EP" style="max-width:120px; height:auto;" />
       </td>
@@ -282,7 +261,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 73</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 74</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 76</li>
         </ul>
       </td>
@@ -358,7 +337,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/E4Ny84A85h93ol4CHPnyM0ugRjcYKOM_QnpWIGtI1zA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODM1/MDQtMTI3NTAzMjkz/Ni5qcGVn.jpeg" alt="Cover for No Worries &#x2F; Tease Me" style="max-width:120px; height:auto;" />
       </td>
@@ -394,7 +373,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       <td>
         <ul>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 61</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 71</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 72</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 74</li>
         </ul>
       </td>
@@ -418,7 +397,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/IgOBSd5fcWlVXFIhsLPOAV8XDYvNeZm-SuY4UCC8P7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTk0/MzgtMTMyMDE3Mjgx/My5qcGVn.jpeg" alt="Cover for Wiki &amp; Leaks" style="max-width:120px; height:auto;" />
       </td>
@@ -466,7 +445,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
         <ul>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 71</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 81</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 82</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -484,6 +463,42 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/pv-n9Mg9gOXZK7qmEhK1yNzUDMrOLIXYxrOaDXA6vqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzgy/MDgtMTMzNDQwMDc4/MC5qcGVn.jpeg" alt="Cover for For You EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-03-03</td>
+      <td>Shinamo Moki</td>
+      <td>For You EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -527,7 +542,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/oipNm5t0zEbZK7B76aZ284CEqjOw5lpKYVasmzV8pno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzU5/OTMtMTM0Nzc0MTM3/NC0zNDIzLmpwZWc.jpeg" alt="Cover for Kiss (デラックスインターナショナルバージョン)" style="max-width:120px; height:auto;" />
       </td>
@@ -606,16 +621,16 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 72</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 73</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 75</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 78</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 86</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 88</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/6chtIdc-DruBNFS1-OSZtBeJCrkv4Ybi0okW1CngQ5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzA3/MDUtMTM4OTIwOTQy/NC0yMTM3LmpwZWc.jpeg" alt="Cover for Tonight" style="max-width:120px; height:auto;" />
       </td>
@@ -750,7 +765,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/3b2wtDMzj1wkW3qCvxk9gvhFCKJL5xid7NKoYW0fzeo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTIw/MTEtMTM3NDUyNDM3/MC0zMDA1LmpwZWc.jpeg" alt="Cover for Selfdestructive Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -770,7 +785,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/6jFFqvewhRHpuE1KjdxZbvQkASpjKTW-CK8RiB9xOOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjQx/MDQtMTM5NzQ4Mzc2/OS00NDUzLmpwZWc.jpeg" alt="Cover for Maybeso" style="max-width:120px; height:auto;" />
       </td>
@@ -799,7 +814,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 31</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 32</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 40</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 49</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 52</li>
@@ -878,7 +893,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/gqW6Lp_7e7lPj9tHTT4bwqn9XLhc-aIOtsY-_AA0IXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTEz/NDItMTM5OTEwMzA2/Ni0zMjAxLmpwZWc.jpeg" alt="Cover for WOLFEP023" style="max-width:120px; height:auto;" />
       </td>
@@ -915,7 +930,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/PJ0CrXimkE2CX8nZoG3W26yFTyCNbxLGKH6TkJONA2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODQ4/NTAtMTQwNTM3OTEx/MC02NTc0LmpwZWc.jpeg" alt="Cover for BETTER" style="max-width:120px; height:auto;" />
       </td>
@@ -1007,7 +1022,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 69</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 73</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 83</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 85</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1079,7 +1094,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/CF1g_gc0yK9Bqizc4w2u6cjSS5jA4GS0vOUtKl6rqWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NjQ1/NTAtMTQ0NDEyODM2/MS0xMzUxLmpwZWc.jpeg" alt="Cover for Oceanview Dr." style="max-width:120px; height:auto;" />
       </td>
@@ -1097,7 +1112,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/nF52UsdKGiGZT_0l9YDFxEn9AVV_PR4oHPyPkvFny1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mjk5/MjUtMTQ0NTUxMDE4/Ny00MjEzLmpwZWc.jpeg" alt="Cover for Don&#39;t Let the System Get You Down" style="max-width:120px; height:auto;" />
       </td>
@@ -1176,7 +1191,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/CX-EYL_rW2iTsZL8j1KK_ys7gwSjFwigdxJyUVPU7Hc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzUy/MDYtMTQ2MzU2OTA4/NC01MDQyLmpwZWc.jpeg" alt="Cover for Keep Moving" style="max-width:120px; height:auto;" />
       </td>
@@ -1240,7 +1255,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/uvkcjoFfdh_wIvAVeExogP3e9fqSjNuWMm7v8kM7XHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NjEz/NzAtMTQ2ODA0ODYx/MC04MjYzLmpwZWc.jpeg" alt="Cover for Wildflower" style="max-width:120px; height:auto;" />
       </td>
@@ -1259,7 +1274,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/wH1zBrrkwWVATXCbD7RwGTiqBaYjW4JXs_NnEvoEdEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTEy/ODAtMTQ3Mzk2NzEy/NS05ODg1LmpwZWc.jpeg" alt="Cover for No Stoppin&#39; Dat Rockin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -1279,7 +1294,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/xzZcVWvZ-MULRWIVuAraFMvJbfNMXLZpdMcvHe7ImAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTc5/NDYtMTQ3OTg0ODk0/Mi00MDcwLnBuZw.jpeg" alt="Cover for Vaporwave" style="max-width:120px; height:auto;" />
       </td>
@@ -1345,7 +1360,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/38a7BPfTiAUor_XQRkfxyCywAKB528P_rqkYnDu4WOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjkw/NDMtMTQ3OTM3NTM0/My01ODQ0LmpwZWc.jpeg" alt="Cover for Disconnect" style="max-width:120px; height:auto;" />
       </td>
@@ -1382,7 +1397,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 58</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 55</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 93</li>
         </ul>
       </td>
@@ -1453,7 +1468,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/Qz3UQ9V25yzYhc0m9ERP7NDRUOKFYcFDJJbh2sjJD7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI1/MjA1LTE2MzAwMzgx/ODAtOTUyMS5qcGVn.jpeg" alt="Cover for Moonstruck" style="max-width:120px; height:auto;" />
       </td>
@@ -1490,7 +1505,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/GrZPOWp4fGhvCqTkiXLAEnfPoHzJQdnKvaftsVB_h8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ5/NjYzLTE1MzkzMzYw/NTctNzc0NS5qcGVn.jpeg" alt="Cover for The Need for Speed" style="max-width:120px; height:auto;" />
       </td>
@@ -1587,7 +1602,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 5</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1694,7 +1709,6 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 1</li>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 73</li>
             <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 92</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 96</li>
@@ -1702,7 +1716,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/IDRP3f3Vnd-_cHoJW8MH5y-xvZ732S1Bdk8KsHjWI0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzU1/MTg3LTE1OTcxODk0/NzctNjMxNy5qcGVn.jpeg" alt="Cover for Procrastination" style="max-width:120px; height:auto;" />
       </td>
@@ -1726,7 +1740,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/8wlVFTRFq4ArvKAZllaMuNgxKfOThAQtxQVMlTlmZhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ0/NzY0LTE1OTAwNjMw/ODktOTkzNi5qcGVn.jpeg" alt="Cover for pomegranate" style="max-width:120px; height:auto;" />
       </td>
@@ -1788,7 +1802,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/ra5nzzH1IQPgTHGSxxZlO9kbtXpGm2wYOlUi02aaxOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODg4/NzEwLTE2MTA0MTg5/NjItODYzNy5wbmc.jpeg" alt="Cover for Lynch" style="max-width:120px; height:auto;" />
       </td>
@@ -1947,7 +1961,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/4WhSxia3FtaiG_pLkm08L87GFxGtCCoHVtLgAbOURUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTE3/MjcwLTE2MzY0OTkw/MzgtMTM3OS5qcGVn.jpeg" alt="Cover for Between Us" style="max-width:120px; height:auto;" />
       </td>
@@ -2035,7 +2049,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/JGBCyJYPTPb1HSi_9IWpbYmObTdD4vSSWtYxz9Ijk8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTUw/NjgtMTQ4NjM4MjU1/My0zNzAyLmpwZWc.jpeg" alt="Cover for Kiss (Japanese Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -2237,7 +2251,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/68338384c97611d3801a00a3b36b8d4c.png" alt="Cover for ペルソナ4 オリジナル・サウンドトラック" style="max-width:120px; height:auto;" />
       </td>
@@ -2260,7 +2274,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>

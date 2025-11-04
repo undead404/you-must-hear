@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T06:36:45.230Z
+date: 2025-11-03T17:25:40.825Z
 permalink: tags/afro-cuban
 title: afro-cuban
 ---
 
 ## afro-cuban
 
-Last updated: <time datetime="2025-10-22T06:36:45.230Z">Wed Oct 22 2025 09:36:45 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-03T17:25:40.825Z">Mon Nov 03 2025 19:25:40 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
   </thead>
   <tbody>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/7Jmj9k5griuWQUZv4GN4nwZ6A5SMxIdrUmVTyJy0GLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA2/MDMyLTE1MzY2MzQ3/NDAtNjc2My5qcGVn.jpeg" alt="Cover for Congas And Rumbas From The Unforgettable Band" style="max-width:120px; height:auto;" />
       </td>
@@ -53,7 +53,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/ecrumZ4C5lJdVSrxmS2dkLJXghxeMm42saHVFJSexk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mzgy/MTEtMTU2Mjg5OTE5/My04OTI4LmpwZWc.jpeg" alt="Cover for Rumbas &amp; Congas: Gold Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -76,7 +76,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
       </td>
       <td>1955</td>
@@ -93,7 +93,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
       </td>
       <td>1958</td>
@@ -132,7 +132,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/_SCL9xBPBAw-rFaIMVGSCjP_iY1Mj9bg6Qqy1DYcLjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDM3/NzYtMTQyNTM1NTg1/Mi0yNjAyLmpwZWc.jpeg" alt="Cover for Kenya: Afro-Cuban Jazz" style="max-width:120px; height:auto;" />
       </td>
@@ -150,7 +150,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/2txw4LSiVkXKNigYAo_-QOiVDV-AP_I0_-gr_EVC1FY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODA1/NTUyLTE1MDQ2MDg1/NzktNjU1OS5qcGVn.jpeg" alt="Cover for Vintage Cuba Nº21 - EPs Collectors &quot;Dancing With Bebo Valdes And His Orchestra&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -193,7 +193,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td>1964</td>
@@ -209,7 +209,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/9JuS9AD0T88phvbW8j-33dHKRnwfYMj2fg7n2XXrgZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTg1/OTYtMTM5NjgyNjQy/My05NjY3LmpwZWc.jpeg" alt="Cover for Lo Mejor de lo Mejor" style="max-width:120px; height:auto;" />
       </td>
@@ -233,7 +233,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/9JuS9AD0T88phvbW8j-33dHKRnwfYMj2fg7n2XXrgZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTg1/OTYtMTM5NjgyNjQy/My05NjY3LmpwZWc.jpeg" alt="Cover for Lo Mejor De Lo Mejor De Beny More" style="max-width:120px; height:auto;" />
       </td>
@@ -252,7 +252,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/spo8j1X7YpXg_W0-Fwf21A40gVuQbPj_0RlQ8FF7mIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MjEx/NDAtMTQ1MTcwNTYz/Ni0xMjk2LmpwZWc.jpeg" alt="Cover for Cuban Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -293,7 +293,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Rumba Pa&#39;l Pueblo" style="max-width:120px; height:auto;" />
       </td>
@@ -314,7 +314,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/8R33Lh5TrChqOeiqon2GIruxb7LVr9E23SQQ0acNyq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ2/MjI0LTE1MzkyNjU5/NjktNTkwMi5qcGVn.jpeg" alt="Cover for Afro Cuban Roots Presents Rhythms of Cuba" style="max-width:120px; height:auto;" />
       </td>
@@ -334,7 +334,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/zDkEyEYXvFByyFpSh3RNhKWjhEsRgJPlnZDgGZzeAyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mjg5/MDEtMTY5MzAxMTUz/OS04OTc5LmpwZWc.jpeg" alt="Cover for Los Rebeldes" style="max-width:120px; height:auto;" />
       </td>
@@ -374,7 +374,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>86</td>
       <td>
       </td>
       <td>1982</td>
@@ -394,7 +394,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/vj18U4EwO5b_BJsDoqJU2LPb2NcwlqNAYPSWuLXzVBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzU3/MjQtMTQwMzYyMjky/Ny05OTcxLmpwZWc.jpeg" alt="Cover for El Conguero" style="max-width:120px; height:auto;" />
       </td>
@@ -413,7 +413,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/RDa3cm_OCi9tbq_c9KPgv2shel-f-rRDilhkn-909zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMx/NTQ2LTE1Mjg5MjI2/ODMtNjUzOC5qcGVn.jpeg" alt="Cover for Afro Cuban Roots Presents; Cuban Feelings the Bolero Era" style="max-width:120px; height:auto;" />
       </td>
@@ -433,7 +433,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/Mgfjtfwj1lkEt7OSmUTVXx-Nw79c0gK1H2N0h-MOMT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjQz/ODItMTI5MzgwODcz/NS5qcGVn.jpeg" alt="Cover for Sandunguera" style="max-width:120px; height:auto;" />
       </td>
@@ -453,7 +453,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/WQfbVOc_IBvjiR-5acheGhmWkkj2z6fPcaDHmFn2t3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzEy/MzYtMTMwNjA1ODM5/Mi5qcGVn.jpeg" alt="Cover for Afro Cuban Roots Vol. 6 - Havana After Hours" style="max-width:120px; height:auto;" />
       </td>
@@ -473,7 +473,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/PFByN_Bsxin7cjv19OnlijSzpklD9heVAvOjofyAGDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTE5/ODAtMTM5OTk1ODQ5/OS0yNjQ0LmpwZWc.jpeg" alt="Cover for Afro Roots" style="max-width:120px; height:auto;" />
       </td>
@@ -494,7 +494,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/vuLvnrrr04pMUsSx5d0U4SyKer-UGenl27FrnXY2Vqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MjI4/Ni0xMTY2ODY2OTc3/LmpwZWc.jpeg" alt="Cover for Y Los Cubanos Positzos" style="max-width:120px; height:auto;" />
       </td>
@@ -513,7 +513,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/ecrumZ4C5lJdVSrxmS2dkLJXghxeMm42saHVFJSexk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mzgy/MTEtMTU2Mjg5OTE5/My04OTI4LmpwZWc.jpeg" alt="Cover for Lecuona Cuban Boys, Vol. 5 (1932-1940)" style="max-width:120px; height:auto;" />
       </td>
@@ -552,7 +552,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/5C7OXP4gvNOZcRaDAO-PVRLYw44nJrRvaG-POBmPT94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg4/ODcyLTE1OTk3NTI1/MTMtMTUyNC5qcGVn.jpeg" alt="Cover for Mambo Time" style="max-width:120px; height:auto;" />
       </td>
@@ -571,7 +571,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/5C7OXP4gvNOZcRaDAO-PVRLYw44nJrRvaG-POBmPT94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg4/ODcyLTE1OTk3NTI1/MTMtMTUyNC5qcGVn.jpeg" alt="Cover for King Of Son" style="max-width:120px; height:auto;" />
       </td>
@@ -591,7 +591,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/trnjfafmb5jyeuQz28F839N-ZnHLs8usV982FfWYzvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTk4/MDg2LTE2MTIxMTU1/NDgtMzI2My5qcGVn.jpeg" alt="Cover for Y Hoy Como Ayer" style="max-width:120px; height:auto;" />
       </td>
@@ -610,7 +610,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/-WN-ctE1JB2D-o4rs3Ku8N7U4V2XPwmC3E3cQw6rZAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODUx/MjUwLTE1MjM0Njgx/NTItNzUwMC5qcGVn.jpeg" alt="Cover for Yemaya Et Ochun" style="max-width:120px; height:auto;" />
       </td>
@@ -629,7 +629,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/TAlWvrb606xIRG4VjlPpxd_bJQJVeJg8iHfNvwzwApw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjEy/MDQtMTQ4MDI2OTMx/My0xNTU2LmpwZWc.jpeg" alt="Cover for Carnaval De Exitos" style="max-width:120px; height:auto;" />
       </td>
@@ -669,7 +669,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/PQUiflScbEAnH5TeEF7DTJlzll1CLuRC1Z0GVgPOlQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTU1/LTEzNzUwMTcyNDYt/NTQ1MC5qcGVn.jpeg" alt="Cover for Afro Temple" style="max-width:120px; height:auto;" />
       </td>
@@ -689,7 +689,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/rXzk2W6XzarAXfWD1IpST6MfWjGQuYigSxQjr1y83n4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDEw/OTQ4LTE1MDgxODYx/NzQtNjc4Ny5qcGVn.jpeg" alt="Cover for Congo Yambumba" style="max-width:120px; height:auto;" />
       </td>
@@ -712,7 +712,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/PoBRP1Uq5TIRXrGeSCdhTQvdYhxrMIrDvPrN1fL_3B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzE4/NjgtMTQxMTIzNzE0/My02MDU2LmpwZWc.jpeg" alt="Cover for Noche de la Rumba" style="max-width:120px; height:auto;" />
       </td>
@@ -732,7 +732,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/6PZLvtJ_lulSOS-N3OT7LRMXNSSQ4EoFcMTeXySPuKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU3/MzI5LTE1NjAxNzc0/MDQtNTczMS5qcGVn.jpeg" alt="Cover for Eggun" style="max-width:120px; height:auto;" />
       </td>
@@ -750,7 +750,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td>1995</td>
@@ -768,7 +768,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td>1995</td>
@@ -787,7 +787,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/mGwqrx8oJjnY3408j-qMAfXe8YNWsl8VOnffS3F8vLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTEx/My0xNDAxMjk1Mzkw/LTk4NjcuanBlZw.jpeg" alt="Cover for Hitting Hard" style="max-width:120px; height:auto;" />
       </td>
@@ -811,7 +811,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td>1995</td>
@@ -829,7 +829,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/8Mg56_t8jnOpuGHePez__3qv4Wn5qEY5qEJ5iZn2xS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTg1/NjktMTIzODk2NTgy/OS5qcGVn.jpeg" alt="Cover for Master Sessions, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -916,7 +916,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/muCuej_po8XshKnLzRW1k3ZJ5kQBluD5rRAj564MOyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTYx/MzItMTQwNTY5NzA1/Mi03NDI2LmpwZWc.jpeg" alt="Cover for Master Sessions Volume II" style="max-width:120px; height:auto;" />
       </td>
@@ -935,7 +935,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/c0yqGeaXq1ZKz6hli32OTQurvd3TC9uswn34x0NDsXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzAw/MjgtMTQzMjA1NjQ1/Ny01Mzg3LmpwZWc.jpeg" alt="Cover for 10 De Colección" style="max-width:120px; height:auto;" />
       </td>
@@ -955,7 +955,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/oEkt0G6UhGkXMzIschmvwTGn56J2mp2qTw9AfcZwcNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDM0/ODItMTQxMTE1MDEz/OS00OTk5LmpwZWc.jpeg" alt="Cover for Songs for Eleguá" style="max-width:120px; height:auto;" />
       </td>
@@ -991,31 +991,6 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/G5Utr8FZw7jV5oi0rM2LQoFBLfFdQ-8npQkUz2irn68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDM0/LTEyODExOTUyMDUu/anBlZw.jpeg" alt="Cover for Finding A New World EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997-12</td>
-      <td>Utsumi</td>
-      <td>Finding A New World EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>88</td>
       <td>
           <img src="https://i.discogs.com/s8aV9O3YHlryXnT_mYT5rfDgshO7F2V35qGTJRhLEgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MTE1/NjEtMTQ4MzYzMzEy/Mi0zMTcxLmpwZWc.jpeg" alt="Cover for Homenaje" style="max-width:120px; height:auto;" />
@@ -1037,7 +1012,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/tFG80hYIaJZrIJIwArmTTlKQvq9INIC-n9IY6EzNjMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODQy/NjMtMTQ4NjkxNDA0/MC0xNjA5LmpwZWc.jpeg" alt="Cover for Cuba!" style="max-width:120px; height:auto;" />
       </td>
@@ -1057,7 +1032,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/iWSu1kVM3LET1vE7gMlZCwva23fSDlbVBnZzliofcyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjY4/MzY0LTE1NzEwOTU1/MTktOTM2My5qcGVn.jpeg" alt="Cover for El Barbaro Del Ritmo" style="max-width:120px; height:auto;" />
       </td>
@@ -1105,7 +1080,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/iWSu1kVM3LET1vE7gMlZCwva23fSDlbVBnZzliofcyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjY4/MzY0LTE1NzEwOTU1/MTktOTM2My5qcGVn.jpeg" alt="Cover for El Barbaro de la Melodia" style="max-width:120px; height:auto;" />
       </td>
@@ -1128,7 +1103,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/iWSu1kVM3LET1vE7gMlZCwva23fSDlbVBnZzliofcyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjY4/MzY0LTE1NzEwOTU1/MTktOTM2My5qcGVn.jpeg" alt="Cover for Baila Mi Son" style="max-width:120px; height:auto;" />
       </td>
@@ -1151,7 +1126,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/iWSu1kVM3LET1vE7gMlZCwva23fSDlbVBnZzliofcyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjY4/MzY0LTE1NzEwOTU1/MTktOTM2My5qcGVn.jpeg" alt="Cover for Classic Cuban Hits Of The &#39;50s" style="max-width:120px; height:auto;" />
       </td>
@@ -1172,7 +1147,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/ghv2FkOKGdbF_xL4u2qBYJFhrP_1DBwTwLdIFOTl0RQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzc5/MDEwLTE1OTA1ODQw/NjAtMzQ5NS5qcGVn.jpeg" alt="Cover for Serie Platino: 20 Exitos" style="max-width:120px; height:auto;" />
       </td>
@@ -1192,7 +1167,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/iWSu1kVM3LET1vE7gMlZCwva23fSDlbVBnZzliofcyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjY4/MzY0LTE1NzEwOTU1/MTktOTM2My5qcGVn.jpeg" alt="Cover for Afro Cuban Roots Presents... Benny More: The Greatest!" style="max-width:120px; height:auto;" />
       </td>
@@ -1211,7 +1186,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/iWSu1kVM3LET1vE7gMlZCwva23fSDlbVBnZzliofcyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjY4/MzY0LTE1NzEwOTU1/MTktOTM2My5qcGVn.jpeg" alt="Cover for Babarabatiri" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,7 +1209,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/MJTdmyR_aR1JnKo2FsNLewbH_9JcATfLnq01EBoXDRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzc5/NTQtMTI5MDc3ODI2/OC5qcGVn.jpeg" alt="Cover for The Very Best of Beny Moré" style="max-width:120px; height:auto;" />
       </td>
@@ -1255,7 +1230,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/2YgpUl06Mdwn0osXRVei7dGAp0PPKae3SsllkcGLIr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTUz/MDYtMTUyMDQ0OTc3/MS03ODY4LmpwZWc.jpeg" alt="Cover for The Heart of a Legend" style="max-width:120px; height:auto;" />
       </td>
@@ -1276,7 +1251,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/3hV6OcvUKmzrsXfBj5oHs_cL0wnlWOXmiCpErxqWiSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODE1/ODMxLTE1MDQ3Nzky/MzMtODEyNS5qcGVn.jpeg" alt="Cover for Obatala" style="max-width:120px; height:auto;" />
       </td>
@@ -1294,7 +1269,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/WMGyQqQHGMMPgfDlyTHoWU_7uXCz2Krp38nqL5TmPQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTc4/My0xNTg3NzYxODU4/LTQ0MzMuanBlZw.jpeg" alt="Cover for H2O" style="max-width:120px; height:auto;" />
       </td>
@@ -1332,7 +1307,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/csYMuNTsfrv975FeIkbg3dcvC0GILUovkuCn6a6ELpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzAy/MzUtMTU4MzE1NDAx/My0zODE1LmpwZWc.jpeg" alt="Cover for Mandali" style="max-width:120px; height:auto;" />
       </td>
@@ -1354,7 +1329,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/QmEkcVpybfnynypp5d5YcCZj_whzM8q2-14C9G8kmOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE2/MjUtMTM1NTUyMjIx/My01MzMyLmpwZWc.jpeg" alt="Cover for Moliendo Café" style="max-width:120px; height:auto;" />
       </td>
@@ -1374,7 +1349,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/k4ep01GqxMAPPhZWn01DNzqS0v4GJ7LaFNY2w1Xpz28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODgw/NTA0LTE2MjE5Njc2/NDEtNDc1Ni5qcGVn.jpeg" alt="Cover for Herencia" style="max-width:120px; height:auto;" />
       </td>
@@ -1418,7 +1393,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/cWPPRBLAMT1yMR5yQ4VY-1McpC-BmneMLvBDUmkec9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODk5/MTQyLTE1ODM2OTUy/MTAtNzU4NC5qcGVn.jpeg" alt="Cover for Historia Del Soldado" style="max-width:120px; height:auto;" />
       </td>
@@ -1444,7 +1419,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/YcvRmZ308RDHP9IlbgaEryDgbC4afoSyl5u2YJ6vWSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/MDE3LTE2MzQwNjg5/MjktODI3My5qcGVn.jpeg" alt="Cover for Descarga Cubana" style="max-width:120px; height:auto;" />
       </td>
@@ -1462,7 +1437,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td>2003</td>
@@ -1482,7 +1457,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/tWWpkZo4GGmE5Q-unLEcD-7M5mhkHg3m9uX6F5KQ7bE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDY0/Ni0xMzQyMzM4NTE5/LTU2NzAuanBlZw.jpeg" alt="Cover for Buena Vista Social Club" style="max-width:120px; height:auto;" />
       </td>
@@ -1502,7 +1477,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/o2dl2pm2nooN9e8Uenmn2_w8vm8NuiEFZkxe8ndKPd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzEw/MDktMTM3NDE5NTkw/OS04NDIzLmpwZWc.jpeg" alt="Cover for Portraits of Cuba" style="max-width:120px; height:auto;" />
       </td>
@@ -1552,7 +1527,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/-1NRJycmwUXaV87ND9fC-P0QzFbEJsjin94CjXssCeA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg1/NDIyLTE1NDE4OTg0/MDktMTc5NC5qcGVn.jpeg" alt="Cover for BataMbira" style="max-width:120px; height:auto;" />
       </td>
@@ -1574,7 +1549,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td>2005</td>
@@ -1616,7 +1591,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/KjUna0s6PWW3z8fg_peOUzLye4vVU6x7wrgRei1FlWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODgz/NzM0LTE1MDU5MTY1/NDEtNzExOS5qcGVn.jpeg" alt="Cover for Maria Juanez" style="max-width:120px; height:auto;" />
       </td>
@@ -1664,7 +1639,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/TTZyjlfLIXJ9Vf7zwgdJ0q-WGV_IeWgKM7ECx9qi2w8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjU2/MDQ3LTE2NDE5MTg2/NzYtMTExNC5qcGVn.jpeg" alt="Cover for Méta Méta" style="max-width:120px; height:auto;" />
       </td>
@@ -1701,7 +1676,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/6Ls8OOwvpNHOfGGstSqFiLsqBNp4cB5q1uL4evTsS3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDA3/NjAtMTY0MDM1MTcx/OC03MzM0LmpwZWc.jpeg" alt="Cover for Buena Vista Social Club Presents Manuel Guajiro Mirabal" style="max-width:120px; height:auto;" />
       </td>
@@ -1742,7 +1717,31 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>42</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2649e4510f757bc6002a6a2ea0f9d628.png" alt="Cover for Swop" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-02-15</td>
+      <td>Club Des Belugas</td>
+      <td>Swop</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 41</li>
+            <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 57</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 92</li>
+            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/iOC0mWYnoFrhXADMTY2wwx0mJmxkyt0l4I-AIXXd2cY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTc1/NTkxLTE1Nzc0NTMz/NTAtOTkwOC5qcGVn.jpeg" alt="Cover for La Herencia" style="max-width:120px; height:auto;" />
       </td>
@@ -1765,7 +1764,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/5J62wtclCcxl1Pe-jV7h79gO_lsOg7A3tG_330mwe4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjg0/NTQtMTQ3NTI1ODk0/Ny0yNTQ2LmpwZWc.jpeg" alt="Cover for Ancients Speak" style="max-width:120px; height:auto;" />
       </td>
@@ -1809,7 +1808,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/Lekq8yRdbmYNPBlsuUnf92bXYsu5ZtVw1Z2RY6aT0zs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDEy/MDAtMTI2NDA3MTk5/OS5qcGVn.jpeg" alt="Cover for Tropical Discotheque" style="max-width:120px; height:auto;" />
       </td>
@@ -1875,7 +1874,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/ZOSu-BtbSYKGGKViK-85wGoVJtC7Ogt0utSXoBXkI0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODcz/NzQtMTQzNTY4NDQw/MS0yMzQ5LmpwZWc.jpeg" alt="Cover for Amara Touré (1973 - 1980)" style="max-width:120px; height:auto;" />
       </td>
@@ -1894,7 +1893,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bacf8b8104d104745e67d1dd64e99d82.png" alt="Cover for Perfectamundo" style="max-width:120px; height:auto;" />
       </td>
@@ -1911,7 +1910,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2023</td>
@@ -1929,7 +1928,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>
@@ -1980,7 +1979,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -2011,7 +2010,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
       </td>
       <td></td>
@@ -2028,7 +2027,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td></td>
@@ -2045,7 +2044,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td></td>
@@ -2063,7 +2062,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -2079,7 +2078,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td></td>

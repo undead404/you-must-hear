@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T08:07:50.974Z
+date: 2025-11-03T17:25:00.335Z
 permalink: tags/spanish-guitar
 title: spanish guitar
 ---
 
 ## spanish guitar
 
-Last updated: <time datetime="2025-11-02T08:07:50.974Z">Sun Nov 02 2025 10:07:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T17:25:00.335Z">Mon Nov 03 2025 19:25:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -1166,8 +1166,8 @@ Last updated: <time datetime="2025-11-02T08:07:50.974Z">Sun Nov 02 2025 10:07:50
       <td>
           <img src="https://i.discogs.com/mtP-I78lDKCUe2gBNSw49iJ_IRAP8byve9sqS6AjaSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzA5/ODYtMTQyMzQ2ODk2/OS00MTk1LmpwZWc.jpeg" alt="Cover for Möbius" style="max-width:120px; height:auto;" />
       </td>
-      <td>2004-05-12</td>
-      <td>RIN</td>
+      <td>2004-09-29</td>
+      <td>Rin</td>
       <td>Möbius</td>
       <td>
         <ul>
@@ -1618,7 +1618,7 @@ Last updated: <time datetime="2025-11-02T08:07:50.974Z">Sun Nov 02 2025 10:07:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 9</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 11</li>
         </ul>
       </td>
     </tr>
