@@ -9,6 +9,10 @@ title: bagpipes
 
 Last updated: <time datetime="2025-10-31T20:34:51.364Z">Fri Oct 31 2025 22:34:51 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+This tag features the distinctive drone and melody of bagpipes, recognizable by their continuous, reedy sound produced by air-filled bags and multiple pipes. Rooted in Celtic, Scottish, and various European folk traditions, the instrument evokes both ceremonial grandeur and rustic festivity. The music ranges from traditional folk melodies to modern fusion styles that blend bagpipes with rock, metal, and contemporary arrangements.
+
 ### 100 chronological releases
 
 <table>
@@ -340,7 +344,7 @@ Last updated: <time datetime="2025-10-31T20:34:51.364Z">Fri Oct 31 2025 22:34:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 52</li>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -775,7 +779,7 @@ Last updated: <time datetime="2025-10-31T20:34:51.364Z">Fri Oct 31 2025 22:34:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 27</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 29</li>
             <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 75</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 80</li>
         </ul>
@@ -1589,7 +1593,7 @@ Last updated: <time datetime="2025-10-31T20:34:51.364Z">Fri Oct 31 2025 22:34:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 17</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1669,7 +1673,7 @@ Last updated: <time datetime="2025-10-31T20:34:51.364Z">Fri Oct 31 2025 22:34:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 47</li>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 46</li>
         </ul>
       </td>
     </tr>

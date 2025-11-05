@@ -11,114 +11,2014 @@ Last updated: <time datetime="2025-10-28T16:51:11.569Z">Tue Oct 28 2025 18:51:11
 
 ### Description
 
-Old School EBM (Electronic Body Music) is a genre of electronic music that emerged in the early 1980s in Belgium and Germany. It is characterized by a combination of aggressive industrial sounds, repetitive rhythms, and often distorted vocals. The term &quot;Electronic Body Music&quot; was coined by the Belgian band Front 242, who were one of the pioneers of the genre.
-
-Old School EBM often makes use of analog synthesizers and drum machines, and is known for its minimalist, stripped-down approach to composition. Other notable artists in the genre include Nitzer Ebb, DAF (Deutsch Amerikanische Freundschaft), and Skinny Puppy.
+Old school EBM (Electronic Body Music) is a hard-hitting industrial dance genre that emerged in the early 1980s, characterized by aggressive synthesizer sequences, pounding drum machines, and commanding shouted vocals. Born from the intersection of punk attitude and electronic experimentation, it created a raw, militaristic sound designed to make bodies move on dark dancefloors. The style emphasizes repetitive bass lines, minimal melodic elements, and an intense, physical energy that defined the underground club scene of its era.
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 51 |  | 1981 | Deutsch Amerikanische Freundschaft | Der Mussolini |
-| 76 | ![Cover](https://i.discogs.com/ZUkrXFZqbfTa03smoxQrZncykzlCLc_ktKOzvJqWTZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/MTgtMTYwNzQxNjAy/NC0zNzExLmpwZWc.jpeg) | 1983 | Nitzer Ebb | Basic Pain Procedure |
-| 87 | ![Cover](https://i.discogs.com/-vL8dHHYwPRbd-PFTnENM-ku7maKSgDACRpRaWXfEPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzg0/MS0xNDIzMzk2NzI2/LTYxNDUuanBlZw.jpeg) | 1985-10-14 | Nitzer Ebb | Warsaw Ghetto |
-| 69 | ![Cover](https://i.discogs.com/wFKRuyH32iB1JyWDFEl8INL3Ls4V9Pipump18W8p_bs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDcz/My0xMTk0NzUxNzM3/LmpwZWc.jpeg) | 1986 | ELITE! | Work or Riot |
-| 82 | ![Cover](https://i.discogs.com/x3uYU55gTNQERCbg4Res4DaOjsB1_2Ft4wV_Pz7eyyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY0/MjItMTIwOTQ1NzY1/Mi5qcGVn.jpeg) | 1986 | The Invincible Spirit | Push! |
-| 94 |  | 1987 | Front 242 | Back Catalogue |
-| 96 | ![Cover](https://i.discogs.com/QCVO_m5YkTWmkcfcMOOfZZgtW0Ir85fruOJ9_GaKbKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTA1/LTExNzY2NDQyMjgu/anBlZw.jpeg) | 1987 | The Invincible Spirit | Current News |
-| 4 |  | 1987-03 | Front 242 | Official Version |
-| 92 |  | 1987-05-11 | Nitzer Ebb | That Total Age |
-| 65 | ![Cover](https://i.discogs.com/tdUAwuWYqNZglmfeJOiVC98pEDJxqXzZMHDiy6Qb5NE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzUx/LTE0Mzg5NzgyNDct/MjkxNy5qcGVn.jpeg) | 1988 | Manufacture | Terrorvision |
-| 98 | ![Cover](https://i.discogs.com/G9MYE9KpJ-uHhpr76cbFAI4gcFCHVKJ3MTBUWxYLGZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE0/MS0xNDIwMzMwODk3/LTY3MTguanBlZw.jpeg) | 1988 | Nitzer Ebb | So Bright, So Strong |
-| 17 | ![Cover](https://i.discogs.com/8JN3h-8Hr-V3h0RDyrkxmgMgTpjHF6GCRqUg_AdxPgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTA2/LTEzNzgwMjM4MzIt/OTE1Ny5qcGVn.jpeg) | 1988-10-28 | Front 242 | Front by Front |
-| 78 |  | 1989 | Signal Aout 42 | Pro Patria |
-| 63 |  | 1989-01-09 | Nitzer Ebb | Belief |
-| 52 | ![Cover](https://i.discogs.com/vb72Kr8xVFvU98VX4Umsxai09IWIcs369EsrFLnbeJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzIy/MS0xMTg1ODEwODg4/LmpwZWc.jpeg) | 1989-04 | Die Krupps | The Machineries of Joy |
-| 73 | ![Cover](https://i.discogs.com/TwZAUbhuS-EcMC6laObo1JibezVMw8E_zF1PS4o9ris/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDg1/LTEyOTc5ODA1MzYu/anBlZw.jpeg) | 1990-02-25 | Nitzer Ebb | Showtime |
-| 8 | ![Cover](https://i.discogs.com/pRViOY1yg7l1idAJyXMz36mX5pKpQPk24sYQwkR0DnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzIx/MC0xMTk2OTQzNzMy/LmpwZWc.jpeg) | 1991 | Armageddon Dildos | Thats Armageddon |
-| 15 | ![Cover](https://i.discogs.com/LBsjkp3tompfhm0CN7qlRSJLazX7SDMjdl-bGtWx0Gw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODA2/My0xMjEyNTczMzg0/LmpwZWc.jpeg) | 1991 | Negrosex | Teknó La Drôga |
-| 60 | ![Cover](https://i.discogs.com/5hVfUvCvRqPSlqDYTuUJhsQ-dvwBNQr5jiwhl5740W0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAx/Ni0xNTQ2MjI1NjEy/LTM5NTAuanBlZw.jpeg) | 1991 | Vomito Negro | The New Drug |
-| 44 | ![Cover](https://i.discogs.com/d3q6vnt2zc2OUFjBVKWg8kqSaRCvgVrTuPhskopXS8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjk4/MjkwLTE2NDU3OTQy/MTYtMzM4MS5qcGVn.jpeg) | 1992 | Schakt Neun | The Grave |
-| 58 | ![Cover](https://i.discogs.com/l6S4BLbOViPBam68YLf9kOmPGJQTMpp4CZrhmRoyemU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA5/MC0xMjQ0NjYyODg0/LmpwZWc.jpeg) | 1992 | Pouppée Fabrikk | Crusader |
-| 27 | ![Cover](https://i.discogs.com/53O15XzPYLAVKTgySLhZEuuFOvA-VHbcV1mm0LKJfi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDg0/MC0xNjA5NTE4MDk0/LTI4MTguanBlZw.jpeg) | 1992-01-01 | Plastic Noise Experience | Transmission |
-| 1 | ![Cover](https://i.discogs.com/gVuq_DsauCddYCFkmV7COgORjDmUx2QIgNVDGPmQ9zI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzgz/MzAtMTIwMjg5MTc2/MS5qcGVn.jpeg) | 1993 | The Dark | Clear |
-| 21 | ![Cover](https://i.discogs.com/BoDKlQLv_VOAehTVzPI-eyo6txBBXMhlV3KKSyHP7tg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjYx/OC0xMjM0Nzg3OTky/LmpwZWc.jpeg) | 1993 | Signal Aout 42 | The Last Quest |
-| 37 | ![Cover](https://i.discogs.com/4e2VMxlAfwDXqThkGz2z169qTvOzpJfGZcA4mb7FDTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDM2/OC0xMTQ5NzY2MDAy/LmpwZWc.jpeg) | 1993 | !Bang Elektronika | Aktivierung! |
-| 88 | ![Cover](https://i.discogs.com/VL0RfSMIs6KBAZ1VsI4p7E1jJcwIY64kH8bUtihyG_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Njc1/Mi0xMTY0OTExNzk4/LmpwZWc.jpeg) | 1994-06 | Tyske Ludder | Bombt die Mörder? |
-| 91 | ![Cover](https://i.discogs.com/0FD-zpzfz7lurh7oisK1pXdwJJ9_bE9LRyz1Y7JeNvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODEz/OS0xMTQxODk4MTEy/LmpwZWc.jpeg) | 1995 | Tyske Ludder | Dalmarnock |
-| 35 |  | 1995-10-16 | Signal Aout 42 | Immortal Collection 1983 - 1995 |
-| 11 | ![Cover](https://i.discogs.com/XqYf7pHz5oambPvBBELNbf6f-vFiCRWIyvjHFNY4v7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc5/OC0xMzA1MTUwOTY1/LmpwZWc.jpeg) | 1996 | Limbo | Sein Und Zeit |
-| 32 | ![Cover](https://i.discogs.com/qTpatpnUwWb2FztJrEYlyp0-ePQ1R9eAdIZ7iulNvmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTQ0/Mi0xMTc2ODM3MDYw/LmpwZWc.jpeg) | 1996 | Signal Aout 42 | Immortal collection 1983-1995 |
-| 62 | ![Cover](https://i.discogs.com/XhRYe4-PoSr0pEOlVhlxPkJobkn0S_Z1vBwqRjgFaYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTAx/Ny0xMTk5MDI5Njgw/LmpwZWc.jpeg) | 1996 | Tyske Ludder | Creutzfeldt E.P. |
-| 3 | ![Cover](https://i.discogs.com/q5Zt3bK1GgaR0mWOBx7FUMR2blqgiiDywbEkwSFJg_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjc0/NS0xNTIzMTY3MjI1/LTMyMjAuanBlZw.jpeg) | 1999 | The November Commandment | A Motorised Mind |
-| 80 | ![Cover](https://i.discogs.com/21gOeGv-jamnKsOtzAkooevpdjdTH9jw8mWEPQMTeys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjAx/MTAtMTIzMDIzMzYy/OC5qcGVn.jpeg) | 1999 | Deutsch Amerikanische Freundschaft | Das Beste Von DAF (20 Lieder der Deutsch Amerikanischen Freundschaft) |
-| 86 | ![Cover](https://i.discogs.com/HaDTJM3r2IGbsB-K9ffGsKo82elWl3UfOzbN_-UIGYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjMz/Ny0xNTc5NjQ2MDMy/LTUxMDkuanBlZw.jpeg) | 1999 | Ionic Vision | Homo Sovieticus |
-| 57 |  | 1999-11-10 | Pouppée Fabrikk | Your Pain - Our Gain |
-| 79 | ![Cover](https://i.discogs.com/Rqq9veuKh_zYQCiGR_DZt0eFizaNBJ8sKpe4ENZMvEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTky/MS0xMTcwMTkzNzY0/LmpwZWc.jpeg) | 2000 | Dupont | Behave |
-| 25 |  | 2001 | Void Kampf | First Assault |
-| 77 | ![Cover](https://i.discogs.com/h0gnZQLiZdCkYGqdYIBfVlJ5u8_H8o6qRs5meGoitt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Nzcz/LTExOTAwNDc2Njku/anBlZw.jpeg) | 2001-04-26 | Klinik | End of the Line (disc 2: Best of 1982-1991) |
-| 72 |  | 2002-11 | Ionic Vision | Neumaschinen |
-| 9 |  | 2003 | Void Kampf | Suck My Beat |
-| 7 | ![Cover](https://i.discogs.com/Ns--dNtcdBFZcsmEmYQbbFowHqLgHTulEMXS7k088Hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUw/OTE5LTE3MzAzMTAy/NjYtNDQ3My5qcGVn.jpeg) | 2004 | Various Artists | Stahl Disko : Stahl Compilation Volume 1 |
-| 97 | ![Cover](https://i.discogs.com/B1Dc9sHym7yStGlH6j3jkU3lMaMVoQeUv4vV32qxX78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDYx/OS0xMzM0NDM5OTk1/LmpwZWc.jpeg) | 2004-04-29 | Spetsnaz | Grand Design re-designed |
-| 43 | ![Cover](https://i.discogs.com/mKnQIQKcr_TMRou6Cl3q2U1ToZLheIYYRSRZ0Hu4G0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjAz/MS0xNTgwOTM5Mjg0/LTQ1NjMuanBlZw.jpeg) | 2004-10 | Proceed | Fehlgesteuert |
-| 84 | ![Cover](https://i.discogs.com/WkFH5dS4P1D5T5kiC3KlahZaAYACh5mBl6IBpQm4JYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMw/NTYtMTIzMDEyMDc3/My5qcGVn.jpeg) | 2005-11 | Die Krupps | Volle Kraft Voraus |
-| 47 | ![Cover](https://i.discogs.com/xNmN6GC1PpdoV34W8y2uwoW8uM-9iJQozJpKv4V51M4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mzc2/NS0xNTQ0MjgzNDE1/LTgzMzguanBlZw.jpeg) | 2005-11-08 | Ionic Vision | Actual |
-| 61 | ![Cover](https://i.discogs.com/cSzqXzeeZ0PvT3uQrPZ11Lh8s4Glnhe4lO-o2Mr17kM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTUy/OC0xMTQ4MjMzNjUw/LmpwZWc.jpeg) | 2006-01-26 | Orange Sector | Bassprodukt |
-| 89 | ![Cover](https://i.discogs.com/9cQ4_0-NZ1b6ajJ1CfhfZfI0ERAkvX-2hdChwmV1Rcs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODM0/OS0xMjc4MDcwNzA4/LmpwZWc.jpeg) | 2007-05-29 | Menticide | N.M.E. |
-| 70 | ![Cover](https://i.discogs.com/ItpzBwY6-t0U8SDUUCmFZDXjHwYZvmcBLS0_e4Tr3zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM4/MzUxLTE0OTc0NDQz/MjMtMjU5Ny5qcGVn.jpeg) | 2007-12 | SPARK! | 65 Ton Stål |
-| 22 | ![Cover](https://i.discogs.com/_d9CTFI4xo7IswYCDAdyZ1pe-fouIKM-3bl8Z4RBFXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI1/MjAtMTE5ODk2OTQ3/MC5qcGVn.jpeg) | 2007-12-26 | JUDGE:DRED | Be My Enemy And You Will Die! E.P. |
-| 48 |  | 2008 | Kropp | Kropp |
-| 74 |  | 2008-06-11 | onecyze project | confused mental state |
-| 2 | ![Cover](https://i.discogs.com/IhTl-E3w5EY1I9OJEDQPa1gafF8Qj1e2V4SuBqyUWj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MzctMTIxODQ4Mzgx/MC5qcGVn.jpeg) | 2008-06-13 | Batch ID | Chartertont |
-| 30 | ![Cover](https://i.discogs.com/-7QOExpY82Tpo0jYuBkTw10UoqrzaB709nAfA8tShIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDI0/ODUtMTI1Nzg4MDcy/Ni5qcGVn.jpeg) | 2008-06-13 | Body Pleasure | Entity |
-| 50 | ![Cover](https://i.discogs.com/FqIAtxqjnyqEhQBGEVyJKXPovxjrIxQx-5R-xfGHNtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjIy/MjUtMTIxMzIxMzgy/MS5qcGVn.jpeg) | 2008-06-13 | A.D.A.C. 8286 | Straight on |
-| 55 | ![Cover](https://i.discogs.com/HHl_m-kc4YZZKKyyfKPdLkIdV9-6RpLnywxpn-2Sz3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDI4/MDItMTIyNjM0Njk4/NC5qcGVn.jpeg) | 2008-06-13 | SPARK! | Tiden är vår |
-| 75 | ![Cover](https://i.discogs.com/lMBW-a9Hc1trwfHJyKvck-CstKEx6EWrBDE7cOCacZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzIw/NjItMTIxMzgxODY2/NS5qcGVn.jpeg) | 2008-06-13 | Body Pleasure | Dictator |
-| 14 | ![Cover](https://i.discogs.com/ugcjBMIkYhFlg_-5tfwa7Mz2fo0u5FcgaLagPIJmxPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NzY1/MDItMTQyNDQxNTY5/Mi04MjgxLmpwZWc.jpeg) | 2008-10-31 | Orange Sector | Untertage E.P. |
-| 66 |  | 2008-11-27 | AD:keY | Thema Nummer Eins |
-| 24 |  | 2009 | Nitzer Ebb | Industrial Complex |
-| 36 |  | 2009 | Sequenz-E | Körperkraftkontrolle |
-| 90 | ![Cover](https://i.discogs.com/QiMOPl5XBf_acI6LmCFbxrZRFw8Y8JxELK56Ehu53yM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjA0/NTQtMTMzNzY2NTg0/OS0zMTYwLmpwZWc.jpeg) | 2009 | Sturm Café | Der Löwe |
-| 64 | ![Cover](https://i.discogs.com/KYB0P4QJGBTasAipHSQwANWNUM7j7trCVS7zjbmk_uw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDA3/MDYtMTM1NjEyNjk2/OS00NzYwLmpwZWc.jpeg) | 2009-03-23 | A.D.A.C. 8286 | Love, Hate &#39;n&#39; Rage |
-| 95 |  | 2009-05-18 | SPARK! | Ett lejon i dig |
-| 19 | ![Cover](https://i.discogs.com/YrS2QATWsFwUwKAGorr76y-1ELOfnKIieaturLM6F8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDY5/MjQtMTI1MTEzMzA1/MS5qcGVn.jpeg) | 2009-06-12 | Tech Nomader | New Seed |
-| 29 | ![Cover](https://i.discogs.com/vdJ2ocMcTGQjFVlpCQ0EXCmowZr4zmmRMZbZYScGodo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODY2/NjktMTI1MDE2NzIw/NS5qcGVn.jpeg) | 2009-08-15 | Batch ID | Tanz Anarchie |
-| 46 |  | 2009-12-14 | Bodystyler | Your Boots |
-| 41 | ![Cover](https://i.discogs.com/sqvQTzPcHD1mYotw9vQ5w8kg0RjPSWuxlPxTLXaVWog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc4/MzEtMTI2OTM5MDM2/MS5qcGVn.jpeg) | 2010-03-01 | Void Kampf | Severe Mais Juste |
-| 81 |  | 2010-05-28 | Frontal | Alles Lüge |
-| 20 | ![Cover](https://i.discogs.com/l_eTHJihi7KtEiNQ-XO_h4f7ISf2u9UKP3YLXL7a_gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzM3/NzEtMTQxMDM2Nzc0/MS01MjE1LmpwZWc.jpeg) | 2011 | Alt-G | Propaganda |
-| 68 | ![Cover](https://i.discogs.com/6G1xqF0UOWZJ-DN8IvDLosPAONJQB1By2DoDZEY-_b0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDU0/OTItMTM1MzQxNzcy/OS0zOTA0LmpwZWc.jpeg) | 2011 | Sturm Café | Rarities |
-| 31 | ![Cover](https://i.discogs.com/iYrS9-uJz3gXKJcSO8p_uRkC11v2wXo0oMVQ1s6Ep7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODYw/MjktMTQzMTAzMjg0/OC00MDA4LmpwZWc.jpeg) | 2012 | Stechschritt | Promo |
-| 49 | ![Cover](https://i.discogs.com/y4T3800dJ1B7IYTaQarDtL7nolYyQ_sP4fi2UR_Mkwk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzYy/MTEtMTMyNzk1MDY4/Ny5qcGVn.jpeg) | 2012 | Brigade Werther | Killbeat |
-| 18 |  | 2012-02-08 | Various Artists | Halotan Records Sampler 03 |
-| 28 | ![Cover](https://i.discogs.com/f5UcBmEfgzKa4WOktf9wck2GjtYXvjJuqVlDekyFMn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzE1/MjItMTM0MjExNTI5/MS0xOTcxLmpwZWc.jpeg) | 2012-09-14 | Batch ID | Ni Skrämmer Inte Mig |
-| 45 | ![Cover](https://i.discogs.com/MSbXw4KXNKc9FBcJzFTqeLN_XBeUsp-o6pmZsB7_lqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjUz/NjItMTM5NDk2NTg0/NC0xMjczLmpwZWc.jpeg) | 2013 | Stechschritt | An die Front |
-| 93 | ![Cover](https://i.discogs.com/R0F3HZkS11cn1m7T59w7mg9bBe3unSTubym09xeuAtQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDkx/MC0xMTUxMDA4NDcy/LmpwZWc.jpeg) | 2013-01-18 | Leæther Strip | Living On Video |
-| 40 | ![Cover](https://i.discogs.com/Z9Q2SbeI-HGnutJIMDYwNUxC9EQVEJP8sRwxkBNX2a0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDg3/MjMtMTM5NjU5MjMy/NS0xMzE4LmpwZWc.jpeg) | 2013-04-13 | Orange Sector | Vorwärts nach weit |
-| 53 | ![Cover](https://i.discogs.com/QxnftQCqr4kPyK2PXqYD_FwWNJUL4yBVKSBKFl3PB2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTUy/MzgtMTM2NzAwNTky/MC04NTAxLmpwZWc.jpeg) | 2013-04-26 | Container 90 | Working Class League |
-| 42 | ![Cover](https://i.discogs.com/Drogt5puKFNsAXdOF_j9ornjAUIiNr8hpLzQhm8pNJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTU3/NDAtMTM3MjUxOTg5/MS0yMDg2LmpwZWc.jpeg) | 2013-06-28 | Jäger 90 | Wir Bitten zum Tanz |
-| 6 | ![Cover](https://i.discogs.com/TBhqDx5fVSLeN0WLKYXIJErFNd2OaMhDwh1OksjPkPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTU0/NjcxLTE1NDkwMTMz/MTItNDkwNy5qcGVn.jpeg) | 2014 | Kryptonia85 | Kryptonia85 |
-| 59 |  | 2014-03-15 | Frontal | Lass uns Tanzen |
-| 67 | ![Cover](https://i.discogs.com/mrKMT-V1BF2lOTevXh0kofn8VLbLGbZ56uvpztSoSTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3OTMw/MzgtMTQwMjgyODI1/Mi05NzY4LmpwZWc.jpeg) | 2014-06-06 | Click Click | Those Nervous Surgeons |
-| 39 | ![Cover](https://i.discogs.com/Pl9cQS013jZI2Ns9cRv2b2s7HE7P5uG-xi6NnwWlcbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mjc1/ODktMTQ1Mzc0ODI4/Ny0zNzQzLmpwZWc.jpeg) | 2014-07-30 | Angst | Tar Ner Skylten |
-| 10 | ![Cover](https://i.discogs.com/LVZw9FtgQTK1cFoUJ7lCLuG-8n1dGetozKJSzwxbCHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDI5/NDktMTQxMTE0MTA2/My0xNDA2LmpwZWc.jpeg) | 2014-09-26 | Sequential Access | Sex Addicts Anonymous |
-| 54 | ![Cover](https://i.discogs.com/re3I9UOxeqJVuB1we5v2vLhmvkDjRZOGPvc8FEddcUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTY0/MTctMTQxMjQ5Mjk2/OS03NzMxLmpwZWc.jpeg) | 2014-10-02 | NZ | Aggressions |
-| 56 | ![Cover](https://i.discogs.com/QQNgIwzPB-m0zEJrKhEJXHYeGoPrgKDIuUKIYDiV9Ik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTg0/My0xMTg0MTgzNDM5/LmpwZWc.jpeg) | 2015-01-22 | Orange Sector | Glasmensch |
-| 13 | ![Cover](https://i.discogs.com/T6G8BmqNMNbhInj7gOTB9PSoijmNRZeu0oG1L6MgIb0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzM0/MjMtMTQ2MDM0MDMw/MS04NTQ4LmpwZWc.jpeg) | 2016-04 | Pantser Fabriek | Krachtpatser |
-| 26 | ![Cover](https://i.discogs.com/Fj9b5bXL0fLEoH6UC4BKn-aIEVy7oJ7kjUn0HcExGZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODk2/NTgtMTQ2NDYzNDI3/OC04NjUzLmpwZWc.jpeg) | 2016-04-22 | Elm | Hardline (Deluxe Edition) |
-| 34 | ![Cover](https://i.discogs.com/UVIeRgNc_XxXoLSra4dfal1j0IfwWYDu9CzmpOPJxyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE4/NDk0LTE0OTM1ODE1/NDctNjk3Mi5qcGVn.jpeg) | 2017-04-11 | Visitor | E.B.E. |
-| 33 | ![Cover](https://i.discogs.com/JclCIb9yeXdV0p9uLhvpSTtNvXH-GVjt5Vy-8rEJFW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTMy/MTI5LTE0OTkzNTc3/MDQtODI0MS5qcGVn.jpeg) | 2017-07-05 | Brigade Werther | North + South |
-| 16 | ![Cover](https://i.discogs.com/HKK1OwWyx8GFdZXcNaZyw-jDqIc43MZXRaqZ7FqckjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODI0/LTEzNDE2ODYzMTMt/NzE0NC5qcGVn.jpeg) | 2017-09-30 | Deutsch Amerikanische Freundschaft | Das ist DAF |
-| 83 | ![Cover](https://i.discogs.com/lJWIdutyrG4nW5EtLxbDH0P-pALuzowI91QyjQgJbu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg5/ODI2LTE1MjA3MDU3/MDgtMjQ2My5qcGVn.jpeg) | 2018-03-02 | Rue Oberkampf | Waveclash |
-| 5 | ![Cover](https://i.discogs.com/Bo9bIQEXmzPwYkeIpLa4WuRkMMgtIph0gewZ6QI1-f0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTYy/MDc4LTE1NjQ5OTk5/MjktMTQ5OC5qcGVn.jpeg) | 2019-02-14 | Batch ID | Ifred |
-| 100 | ![Cover](https://i.discogs.com/9WhTz-G95iXPtfSDT7jt8DvwVW8mvECQnkR0KVvMhuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE5/OTM1LTE2NTM1NTYz/ODctNzg2Ni5qcGVn.jpeg) | 2019-10-04 | Rue Oberkampf | Christophe-Philippe |
-| 12 | ![Cover](https://i.discogs.com/a2C9dF4UTIDPjzZnfBbpz_F5Yc6gOS0PUC5Tbv7SwpU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTky/MTI4LTE1ODc5MDMy/OTgtNTg1MC5qcGVn.jpeg) | 2020-04-26 | Orange Sector | Love It! |
-| 23 |  |  | Baykuş | Cancer |
-| 99 | ![Cover](https://i.discogs.com/bTXd3lXOlTCwit7XzUDJEY_Qn-t_vuZ4wg8gVhkfhJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODA2/OTYzLTE1OTgxNTQ5/MzctMjk4NS5qcGVn.jpeg) | 2020-08-21 | Rein | Reincarnated |
-| 71 | ![Cover](https://i.discogs.com/Z2j4MSAiJj5FQV6Ne2esJ3G3yD-7QDmDJ6lRJPE3nJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzI1/MjY4LTE2MDcwNzky/MzQtMTc3MC5qcGVn.jpeg) | 2020-12-04 | Pouppée Fabrikk | Rage (2013 Remaster) |
-| 85 | ![Cover](https://i.discogs.com/qCsukQYMA0L72MQ80upgllHqDqz6qwV_sbsfe2Qf184/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjYy/Mzk3LTE2MzE4NjQy/MDktNzE5NC5qcGVn.jpeg) | 2021-09-17 | Noise Unit | Deviator |
-| 38 | ![Cover](https://i.discogs.com/Q7QbbAWrdjDaSd5TP1LB_L84VaNm4G9zCNx9N298WuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzk0/MDEtMTMzNDQ5Njkz/My5qcGVn.jpeg) | 2023-04-03 | Impulz 21 | Demo 2008 |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>51</td>
+      <td>
+      </td>
+      <td>1981</td>
+      <td>Deutsch Amerikanische Freundschaft</td>
+      <td>Der Mussolini</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/ZUkrXFZqbfTa03smoxQrZncykzlCLc_ktKOzvJqWTZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/MTgtMTYwNzQxNjAy/NC0zNzExLmpwZWc.jpeg" alt="Cover for Basic Pain Procedure" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Nitzer Ebb</td>
+      <td>Basic Pain Procedure</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/-vL8dHHYwPRbd-PFTnENM-ku7maKSgDACRpRaWXfEPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzg0/MS0xNDIzMzk2NzI2/LTYxNDUuanBlZw.jpeg" alt="Cover for Warsaw Ghetto" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985-10-14</td>
+      <td>Nitzer Ebb</td>
+      <td>Warsaw Ghetto</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/wFKRuyH32iB1JyWDFEl8INL3Ls4V9Pipump18W8p_bs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDcz/My0xMTk0NzUxNzM3/LmpwZWc.jpeg" alt="Cover for Work or Riot" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>ELITE!</td>
+      <td>Work or Riot</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/x3uYU55gTNQERCbg4Res4DaOjsB1_2Ft4wV_Pz7eyyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY0/MjItMTIwOTQ1NzY1/Mi5qcGVn.jpeg" alt="Cover for Push!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>The Invincible Spirit</td>
+      <td>Push!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>1987</td>
+      <td>Front 242</td>
+      <td>Back Catalogue</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/QCVO_m5YkTWmkcfcMOOfZZgtW0Ir85fruOJ9_GaKbKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTA1/LTExNzY2NDQyMjgu/anBlZw.jpeg" alt="Cover for Current News" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>The Invincible Spirit</td>
+      <td>Current News</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td>1987-03</td>
+      <td>Front 242</td>
+      <td>Official Version</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td>1987-05-11</td>
+      <td>Nitzer Ebb</td>
+      <td>That Total Age</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/tdUAwuWYqNZglmfeJOiVC98pEDJxqXzZMHDiy6Qb5NE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzUx/LTE0Mzg5NzgyNDct/MjkxNy5qcGVn.jpeg" alt="Cover for Terrorvision" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Manufacture</td>
+      <td>Terrorvision</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/G9MYE9KpJ-uHhpr76cbFAI4gcFCHVKJ3MTBUWxYLGZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE0/MS0xNDIwMzMwODk3/LTY3MTguanBlZw.jpeg" alt="Cover for So Bright, So Strong" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Nitzer Ebb</td>
+      <td>So Bright, So Strong</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/8JN3h-8Hr-V3h0RDyrkxmgMgTpjHF6GCRqUg_AdxPgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTA2/LTEzNzgwMjM4MzIt/OTE1Ny5qcGVn.jpeg" alt="Cover for Front by Front" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988-10-28</td>
+      <td>Front 242</td>
+      <td>Front by Front</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>1989</td>
+      <td>Signal Aout 42</td>
+      <td>Pro Patria</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td>1989-01-09</td>
+      <td>Nitzer Ebb</td>
+      <td>Belief</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/vb72Kr8xVFvU98VX4Umsxai09IWIcs369EsrFLnbeJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzIy/MS0xMTg1ODEwODg4/LmpwZWc.jpeg" alt="Cover for The Machineries of Joy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989-04</td>
+      <td>Die Krupps</td>
+      <td>The Machineries of Joy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/TwZAUbhuS-EcMC6laObo1JibezVMw8E_zF1PS4o9ris/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDg1/LTEyOTc5ODA1MzYu/anBlZw.jpeg" alt="Cover for Showtime" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990-02-25</td>
+      <td>Nitzer Ebb</td>
+      <td>Showtime</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/pRViOY1yg7l1idAJyXMz36mX5pKpQPk24sYQwkR0DnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzIx/MC0xMTk2OTQzNzMy/LmpwZWc.jpeg" alt="Cover for Thats Armageddon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Armageddon Dildos</td>
+      <td>Thats Armageddon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/LBsjkp3tompfhm0CN7qlRSJLazX7SDMjdl-bGtWx0Gw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODA2/My0xMjEyNTczMzg0/LmpwZWc.jpeg" alt="Cover for Teknó La Drôga" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Negrosex</td>
+      <td>Teknó La Drôga</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/5hVfUvCvRqPSlqDYTuUJhsQ-dvwBNQr5jiwhl5740W0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAx/Ni0xNTQ2MjI1NjEy/LTM5NTAuanBlZw.jpeg" alt="Cover for The New Drug" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Vomito Negro</td>
+      <td>The New Drug</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/d3q6vnt2zc2OUFjBVKWg8kqSaRCvgVrTuPhskopXS8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjk4/MjkwLTE2NDU3OTQy/MTYtMzM4MS5qcGVn.jpeg" alt="Cover for The Grave" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Schakt Neun</td>
+      <td>The Grave</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/l6S4BLbOViPBam68YLf9kOmPGJQTMpp4CZrhmRoyemU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA5/MC0xMjQ0NjYyODg0/LmpwZWc.jpeg" alt="Cover for Crusader" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Pouppée Fabrikk</td>
+      <td>Crusader</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/53O15XzPYLAVKTgySLhZEuuFOvA-VHbcV1mm0LKJfi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDg0/MC0xNjA5NTE4MDk0/LTI4MTguanBlZw.jpeg" alt="Cover for Transmission" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992-01-01</td>
+      <td>Plastic Noise Experience</td>
+      <td>Transmission</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/BoDKlQLv_VOAehTVzPI-eyo6txBBXMhlV3KKSyHP7tg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjYx/OC0xMjM0Nzg3OTky/LmpwZWc.jpeg" alt="Cover for The Last Quest" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Signal Aout 42</td>
+      <td>The Last Quest</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 20</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/gVuq_DsauCddYCFkmV7COgORjDmUx2QIgNVDGPmQ9zI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzgz/MzAtMTIwMjg5MTc2/MS5qcGVn.jpeg" alt="Cover for Clear" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>The Dark</td>
+      <td>Clear</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/4e2VMxlAfwDXqThkGz2z169qTvOzpJfGZcA4mb7FDTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDM2/OC0xMTQ5NzY2MDAy/LmpwZWc.jpeg" alt="Cover for Aktivierung!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>!Bang Elektronika</td>
+      <td>Aktivierung!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/VL0RfSMIs6KBAZ1VsI4p7E1jJcwIY64kH8bUtihyG_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Njc1/Mi0xMTY0OTExNzk4/LmpwZWc.jpeg" alt="Cover for Bombt die Mörder?" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-06</td>
+      <td>Tyske Ludder</td>
+      <td>Bombt die Mörder?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/0FD-zpzfz7lurh7oisK1pXdwJJ9_bE9LRyz1Y7JeNvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODEz/OS0xMTQxODk4MTEy/LmpwZWc.jpeg" alt="Cover for Dalmarnock" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Tyske Ludder</td>
+      <td>Dalmarnock</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td>1995-10-16</td>
+      <td>Signal Aout 42</td>
+      <td>Immortal Collection 1983 - 1995</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/qTpatpnUwWb2FztJrEYlyp0-ePQ1R9eAdIZ7iulNvmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTQ0/Mi0xMTc2ODM3MDYw/LmpwZWc.jpeg" alt="Cover for Immortal collection 1983-1995" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Signal Aout 42</td>
+      <td>Immortal collection 1983-1995</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 25</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/XqYf7pHz5oambPvBBELNbf6f-vFiCRWIyvjHFNY4v7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc5/OC0xMzA1MTUwOTY1/LmpwZWc.jpeg" alt="Cover for Sein Und Zeit" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Limbo</td>
+      <td>Sein Und Zeit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/XhRYe4-PoSr0pEOlVhlxPkJobkn0S_Z1vBwqRjgFaYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTAx/Ny0xMTk5MDI5Njgw/LmpwZWc.jpeg" alt="Cover for Creutzfeldt E.P." style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Tyske Ludder</td>
+      <td>Creutzfeldt E.P.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/q5Zt3bK1GgaR0mWOBx7FUMR2blqgiiDywbEkwSFJg_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjc0/NS0xNTIzMTY3MjI1/LTMyMjAuanBlZw.jpeg" alt="Cover for A Motorised Mind" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>The November Commandment</td>
+      <td>A Motorised Mind</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/svensk" | relative_url }}">svensk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/svensk" | relative_url }}">svensk</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/21gOeGv-jamnKsOtzAkooevpdjdTH9jw8mWEPQMTeys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjAx/MTAtMTIzMDIzMzYy/OC5qcGVn.jpeg" alt="Cover for Das Beste Von DAF (20 Lieder der Deutsch Amerikanischen Freundschaft)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Deutsch Amerikanische Freundschaft</td>
+      <td>Das Beste Von DAF (20 Lieder der Deutsch Amerikanischen Freundschaft)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 23</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/HaDTJM3r2IGbsB-K9ffGsKo82elWl3UfOzbN_-UIGYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjMz/Ny0xNTc5NjQ2MDMy/LTUxMDkuanBlZw.jpeg" alt="Cover for Homo Sovieticus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Ionic Vision</td>
+      <td>Homo Sovieticus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>1999-11-10</td>
+      <td>Pouppée Fabrikk</td>
+      <td>Your Pain - Our Gain</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/Rqq9veuKh_zYQCiGR_DZt0eFizaNBJ8sKpe4ENZMvEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTky/MS0xMTcwMTkzNzY0/LmpwZWc.jpeg" alt="Cover for Behave" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Dupont</td>
+      <td>Behave</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>Void Kampf</td>
+      <td>First Assault</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/h0gnZQLiZdCkYGqdYIBfVlJ5u8_H8o6qRs5meGoitt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Nzcz/LTExOTAwNDc2Njku/anBlZw.jpeg" alt="Cover for End of the Line (disc 2: Best of 1982-1991)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-04-26</td>
+      <td>Klinik</td>
+      <td>End of the Line (disc 2: Best of 1982-1991)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>2002-11</td>
+      <td>Ionic Vision</td>
+      <td>Neumaschinen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Void Kampf</td>
+      <td>Suck My Beat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/Ns--dNtcdBFZcsmEmYQbbFowHqLgHTulEMXS7k088Hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUw/OTE5LTE3MzAzMTAy/NjYtNDQ3My5qcGVn.jpeg" alt="Cover for Stahl Disko : Stahl Compilation Volume 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Various Artists</td>
+      <td>Stahl Disko : Stahl Compilation Volume 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/B1Dc9sHym7yStGlH6j3jkU3lMaMVoQeUv4vV32qxX78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDYx/OS0xMzM0NDM5OTk1/LmpwZWc.jpeg" alt="Cover for Grand Design re-designed" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-04-29</td>
+      <td>Spetsnaz</td>
+      <td>Grand Design re-designed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/mKnQIQKcr_TMRou6Cl3q2U1ToZLheIYYRSRZ0Hu4G0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjAz/MS0xNTgwOTM5Mjg0/LTQ1NjMuanBlZw.jpeg" alt="Cover for Fehlgesteuert" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-10</td>
+      <td>Proceed</td>
+      <td>Fehlgesteuert</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/xNmN6GC1PpdoV34W8y2uwoW8uM-9iJQozJpKv4V51M4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mzc2/NS0xNTQ0MjgzNDE1/LTgzMzguanBlZw.jpeg" alt="Cover for Actual" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-11-08</td>
+      <td>Ionic Vision</td>
+      <td>Actual</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/WkFH5dS4P1D5T5kiC3KlahZaAYACh5mBl6IBpQm4JYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMw/NTYtMTIzMDEyMDc3/My5qcGVn.jpeg" alt="Cover for Volle Kraft Voraus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-11</td>
+      <td>Die Krupps</td>
+      <td>Volle Kraft Voraus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/cSzqXzeeZ0PvT3uQrPZ11Lh8s4Glnhe4lO-o2Mr17kM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTUy/OC0xMTQ4MjMzNjUw/LmpwZWc.jpeg" alt="Cover for Bassprodukt" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-01-26</td>
+      <td>Orange Sector</td>
+      <td>Bassprodukt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/9cQ4_0-NZ1b6ajJ1CfhfZfI0ERAkvX-2hdChwmV1Rcs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODM0/OS0xMjc4MDcwNzA4/LmpwZWc.jpeg" alt="Cover for N.M.E." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-05-29</td>
+      <td>Menticide</td>
+      <td>N.M.E.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/_d9CTFI4xo7IswYCDAdyZ1pe-fouIKM-3bl8Z4RBFXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI1/MjAtMTE5ODk2OTQ3/MC5qcGVn.jpeg" alt="Cover for Be My Enemy And You Will Die! E.P." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-12-26</td>
+      <td>JUDGE:DRED</td>
+      <td>Be My Enemy And You Will Die! E.P.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/ItpzBwY6-t0U8SDUUCmFZDXjHwYZvmcBLS0_e4Tr3zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM4/MzUxLTE0OTc0NDQz/MjMtMjU5Ny5qcGVn.jpeg" alt="Cover for 65 Ton Stål" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-12</td>
+      <td>SPARK!</td>
+      <td>65 Ton Stål</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Kropp</td>
+      <td>Kropp</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td>2008-06-11</td>
+      <td>onecyze project</td>
+      <td>confused mental state</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/IhTl-E3w5EY1I9OJEDQPa1gafF8Qj1e2V4SuBqyUWj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MzctMTIxODQ4Mzgx/MC5qcGVn.jpeg" alt="Cover for Chartertont" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-06-13</td>
+      <td>Batch ID</td>
+      <td>Chartertont</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/-7QOExpY82Tpo0jYuBkTw10UoqrzaB709nAfA8tShIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDI0/ODUtMTI1Nzg4MDcy/Ni5qcGVn.jpeg" alt="Cover for Entity" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-06-13</td>
+      <td>Body Pleasure</td>
+      <td>Entity</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/FqIAtxqjnyqEhQBGEVyJKXPovxjrIxQx-5R-xfGHNtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjIy/MjUtMTIxMzIxMzgy/MS5qcGVn.jpeg" alt="Cover for Straight on" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-06-13</td>
+      <td>A.D.A.C. 8286</td>
+      <td>Straight on</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/HHl_m-kc4YZZKKyyfKPdLkIdV9-6RpLnywxpn-2Sz3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDI4/MDItMTIyNjM0Njk4/NC5qcGVn.jpeg" alt="Cover for Tiden är vår" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-06-13</td>
+      <td>SPARK!</td>
+      <td>Tiden är vår</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/lMBW-a9Hc1trwfHJyKvck-CstKEx6EWrBDE7cOCacZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzIw/NjItMTIxMzgxODY2/NS5qcGVn.jpeg" alt="Cover for Dictator" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-06-13</td>
+      <td>Body Pleasure</td>
+      <td>Dictator</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/ugcjBMIkYhFlg_-5tfwa7Mz2fo0u5FcgaLagPIJmxPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NzY1/MDItMTQyNDQxNTY5/Mi04MjgxLmpwZWc.jpeg" alt="Cover for Untertage E.P." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-10-31</td>
+      <td>Orange Sector</td>
+      <td>Untertage E.P.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td>2008-11-27</td>
+      <td>AD:keY</td>
+      <td>Thema Nummer Eins</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Nitzer Ebb</td>
+      <td>Industrial Complex</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Sequenz-E</td>
+      <td>Körperkraftkontrolle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/QiMOPl5XBf_acI6LmCFbxrZRFw8Y8JxELK56Ehu53yM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjA0/NTQtMTMzNzY2NTg0/OS0zMTYwLmpwZWc.jpeg" alt="Cover for Der Löwe" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Sturm Café</td>
+      <td>Der Löwe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/KYB0P4QJGBTasAipHSQwANWNUM7j7trCVS7zjbmk_uw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDA3/MDYtMTM1NjEyNjk2/OS00NzYwLmpwZWc.jpeg" alt="Cover for Love, Hate &#39;n&#39; Rage" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-03-23</td>
+      <td>A.D.A.C. 8286</td>
+      <td>Love, Hate &#39;n&#39; Rage</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>2009-05-18</td>
+      <td>SPARK!</td>
+      <td>Ett lejon i dig</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/YrS2QATWsFwUwKAGorr76y-1ELOfnKIieaturLM6F8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDY5/MjQtMTI1MTEzMzA1/MS5qcGVn.jpeg" alt="Cover for New Seed" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-06-12</td>
+      <td>Tech Nomader</td>
+      <td>New Seed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/vdJ2ocMcTGQjFVlpCQ0EXCmowZr4zmmRMZbZYScGodo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODY2/NjktMTI1MDE2NzIw/NS5qcGVn.jpeg" alt="Cover for Tanz Anarchie" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-08-15</td>
+      <td>Batch ID</td>
+      <td>Tanz Anarchie</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td>2009-12-14</td>
+      <td>Bodystyler</td>
+      <td>Your Boots</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/sqvQTzPcHD1mYotw9vQ5w8kg0RjPSWuxlPxTLXaVWog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc4/MzEtMTI2OTM5MDM2/MS5qcGVn.jpeg" alt="Cover for Severe Mais Juste" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-03-01</td>
+      <td>Void Kampf</td>
+      <td>Severe Mais Juste</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td>2010-05-28</td>
+      <td>Frontal</td>
+      <td>Alles Lüge</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/l_eTHJihi7KtEiNQ-XO_h4f7ISf2u9UKP3YLXL7a_gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzM3/NzEtMTQxMDM2Nzc0/MS01MjE1LmpwZWc.jpeg" alt="Cover for Propaganda" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Alt-G</td>
+      <td>Propaganda</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/6G1xqF0UOWZJ-DN8IvDLosPAONJQB1By2DoDZEY-_b0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDU0/OTItMTM1MzQxNzcy/OS0zOTA0LmpwZWc.jpeg" alt="Cover for Rarities" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Sturm Café</td>
+      <td>Rarities</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/iYrS9-uJz3gXKJcSO8p_uRkC11v2wXo0oMVQ1s6Ep7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODYw/MjktMTQzMTAzMjg0/OC00MDA4LmpwZWc.jpeg" alt="Cover for Promo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Stechschritt</td>
+      <td>Promo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/y4T3800dJ1B7IYTaQarDtL7nolYyQ_sP4fi2UR_Mkwk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzYy/MTEtMTMyNzk1MDY4/Ny5qcGVn.jpeg" alt="Cover for Killbeat" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Brigade Werther</td>
+      <td>Killbeat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td>2012-02-08</td>
+      <td>Various Artists</td>
+      <td>Halotan Records Sampler 03</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/f5UcBmEfgzKa4WOktf9wck2GjtYXvjJuqVlDekyFMn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzE1/MjItMTM0MjExNTI5/MS0xOTcxLmpwZWc.jpeg" alt="Cover for Ni Skrämmer Inte Mig" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-09-14</td>
+      <td>Batch ID</td>
+      <td>Ni Skrämmer Inte Mig</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/MSbXw4KXNKc9FBcJzFTqeLN_XBeUsp-o6pmZsB7_lqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjUz/NjItMTM5NDk2NTg0/NC0xMjczLmpwZWc.jpeg" alt="Cover for An die Front" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Stechschritt</td>
+      <td>An die Front</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/R0F3HZkS11cn1m7T59w7mg9bBe3unSTubym09xeuAtQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDkx/MC0xMTUxMDA4NDcy/LmpwZWc.jpeg" alt="Cover for Living On Video" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-01-18</td>
+      <td>Leæther Strip</td>
+      <td>Living On Video</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/Z9Q2SbeI-HGnutJIMDYwNUxC9EQVEJP8sRwxkBNX2a0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDg3/MjMtMTM5NjU5MjMy/NS0xMzE4LmpwZWc.jpeg" alt="Cover for Vorwärts nach weit" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-04-13</td>
+      <td>Orange Sector</td>
+      <td>Vorwärts nach weit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/QxnftQCqr4kPyK2PXqYD_FwWNJUL4yBVKSBKFl3PB2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTUy/MzgtMTM2NzAwNTky/MC04NTAxLmpwZWc.jpeg" alt="Cover for Working Class League" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-04-26</td>
+      <td>Container 90</td>
+      <td>Working Class League</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/Drogt5puKFNsAXdOF_j9ornjAUIiNr8hpLzQhm8pNJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTU3/NDAtMTM3MjUxOTg5/MS0yMDg2LmpwZWc.jpeg" alt="Cover for Wir Bitten zum Tanz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-06-28</td>
+      <td>Jäger 90</td>
+      <td>Wir Bitten zum Tanz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/TBhqDx5fVSLeN0WLKYXIJErFNd2OaMhDwh1OksjPkPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTU0/NjcxLTE1NDkwMTMz/MTItNDkwNy5qcGVn.jpeg" alt="Cover for Kryptonia85" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Kryptonia85</td>
+      <td>Kryptonia85</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>2014-03-15</td>
+      <td>Frontal</td>
+      <td>Lass uns Tanzen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/mrKMT-V1BF2lOTevXh0kofn8VLbLGbZ56uvpztSoSTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3OTMw/MzgtMTQwMjgyODI1/Mi05NzY4LmpwZWc.jpeg" alt="Cover for Those Nervous Surgeons" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-06-06</td>
+      <td>Click Click</td>
+      <td>Those Nervous Surgeons</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/Pl9cQS013jZI2Ns9cRv2b2s7HE7P5uG-xi6NnwWlcbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mjc1/ODktMTQ1Mzc0ODI4/Ny0zNzQzLmpwZWc.jpeg" alt="Cover for Tar Ner Skylten" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-07-30</td>
+      <td>Angst</td>
+      <td>Tar Ner Skylten</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/LVZw9FtgQTK1cFoUJ7lCLuG-8n1dGetozKJSzwxbCHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDI5/NDktMTQxMTE0MTA2/My0xNDA2LmpwZWc.jpeg" alt="Cover for Sex Addicts Anonymous" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-09-26</td>
+      <td>Sequential Access</td>
+      <td>Sex Addicts Anonymous</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/re3I9UOxeqJVuB1we5v2vLhmvkDjRZOGPvc8FEddcUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTY0/MTctMTQxMjQ5Mjk2/OS03NzMxLmpwZWc.jpeg" alt="Cover for Aggressions" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-10-02</td>
+      <td>NZ</td>
+      <td>Aggressions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/QQNgIwzPB-m0zEJrKhEJXHYeGoPrgKDIuUKIYDiV9Ik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTg0/My0xMTg0MTgzNDM5/LmpwZWc.jpeg" alt="Cover for Glasmensch" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-01-22</td>
+      <td>Orange Sector</td>
+      <td>Glasmensch</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/Fj9b5bXL0fLEoH6UC4BKn-aIEVy7oJ7kjUn0HcExGZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODk2/NTgtMTQ2NDYzNDI3/OC04NjUzLmpwZWc.jpeg" alt="Cover for Hardline (Deluxe Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-04-22</td>
+      <td>Elm</td>
+      <td>Hardline (Deluxe Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/T6G8BmqNMNbhInj7gOTB9PSoijmNRZeu0oG1L6MgIb0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzM0/MjMtMTQ2MDM0MDMw/MS04NTQ4LmpwZWc.jpeg" alt="Cover for Krachtpatser" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-04</td>
+      <td>Pantser Fabriek</td>
+      <td>Krachtpatser</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/UVIeRgNc_XxXoLSra4dfal1j0IfwWYDu9CzmpOPJxyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE4/NDk0LTE0OTM1ODE1/NDctNjk3Mi5qcGVn.jpeg" alt="Cover for E.B.E." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-04-11</td>
+      <td>Visitor</td>
+      <td>E.B.E.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/JclCIb9yeXdV0p9uLhvpSTtNvXH-GVjt5Vy-8rEJFW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTMy/MTI5LTE0OTkzNTc3/MDQtODI0MS5qcGVn.jpeg" alt="Cover for North + South" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-07-05</td>
+      <td>Brigade Werther</td>
+      <td>North + South</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/HKK1OwWyx8GFdZXcNaZyw-jDqIc43MZXRaqZ7FqckjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODI0/LTEzNDE2ODYzMTMt/NzE0NC5qcGVn.jpeg" alt="Cover for Das ist DAF" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-09-30</td>
+      <td>Deutsch Amerikanische Freundschaft</td>
+      <td>Das ist DAF</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/lJWIdutyrG4nW5EtLxbDH0P-pALuzowI91QyjQgJbu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg5/ODI2LTE1MjA3MDU3/MDgtMjQ2My5qcGVn.jpeg" alt="Cover for Waveclash" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-03-02</td>
+      <td>Rue Oberkampf</td>
+      <td>Waveclash</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/Bo9bIQEXmzPwYkeIpLa4WuRkMMgtIph0gewZ6QI1-f0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTYy/MDc4LTE1NjQ5OTk5/MjktMTQ5OC5qcGVn.jpeg" alt="Cover for Ifred" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-02-14</td>
+      <td>Batch ID</td>
+      <td>Ifred</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/9WhTz-G95iXPtfSDT7jt8DvwVW8mvECQnkR0KVvMhuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE5/OTM1LTE2NTM1NTYz/ODctNzg2Ni5qcGVn.jpeg" alt="Cover for Christophe-Philippe" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-10-04</td>
+      <td>Rue Oberkampf</td>
+      <td>Christophe-Philippe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 36</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 58</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 61</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/a2C9dF4UTIDPjzZnfBbpz_F5Yc6gOS0PUC5Tbv7SwpU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTky/MTI4LTE1ODc5MDMy/OTgtNTg1MC5qcGVn.jpeg" alt="Cover for Love It!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-04-26</td>
+      <td>Orange Sector</td>
+      <td>Love It!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/bTXd3lXOlTCwit7XzUDJEY_Qn-t_vuZ4wg8gVhkfhJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODA2/OTYzLTE1OTgxNTQ5/MzctMjk4NS5qcGVn.jpeg" alt="Cover for Reincarnated" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-08-21</td>
+      <td>Rein</td>
+      <td>Reincarnated</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 19</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 38</li>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 55</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 60</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 71</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/Z2j4MSAiJj5FQV6Ne2esJ3G3yD-7QDmDJ6lRJPE3nJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzI1/MjY4LTE2MDcwNzky/MzQtMTc3MC5qcGVn.jpeg" alt="Cover for Rage (2013 Remaster)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-12-04</td>
+      <td>Pouppée Fabrikk</td>
+      <td>Rage (2013 Remaster)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/qCsukQYMA0L72MQ80upgllHqDqz6qwV_sbsfe2Qf184/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjYy/Mzk3LTE2MzE4NjQy/MDktNzE5NC5qcGVn.jpeg" alt="Cover for Deviator" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-09-17</td>
+      <td>Noise Unit</td>
+      <td>Deviator</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/Q7QbbAWrdjDaSd5TP1LB_L84VaNm4G9zCNx9N298WuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzk0/MDEtMTMzNDQ5Njkz/My5qcGVn.jpeg" alt="Cover for Demo 2008" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-04-03</td>
+      <td>Impulz 21</td>
+      <td>Demo 2008</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Baykuş</td>
+      <td>Cancer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
