@@ -9,6 +9,10 @@ title: prog-rock
 
 Last updated: <time datetime="2025-11-03T07:56:48.164Z">Mon Nov 03 2025 09:56:48 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Progressive rock emerged in the late 1960s as an ambitious reimagining of rock music, incorporating complex time signatures, extended compositions, and influences from classical, jazz, and experimental music. The genre emphasizes technical virtuosity and conceptual depth, often featuring elaborate keyboard work, intricate instrumental passages, and philosophical or fantastical lyrics. It represents rock&#39;s artistic aspirations, pushing beyond conventional song structures to create expansive, theatrical soundscapes.
+
 ### 100 chronological releases
 
 <table>
@@ -210,7 +214,7 @@ Last updated: <time datetime="2025-11-03T07:56:48.164Z">Mon Nov 03 2025 09:56:48
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 24</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -246,7 +250,6 @@ Last updated: <time datetime="2025-11-03T07:56:48.164Z">Mon Nov 03 2025 09:56:48
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -288,7 +291,7 @@ Last updated: <time datetime="2025-11-03T07:56:48.164Z">Mon Nov 03 2025 09:56:48
       <td>
         <ul>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 21</li>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 67</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -416,7 +419,7 @@ Last updated: <time datetime="2025-11-03T07:56:48.164Z">Mon Nov 03 2025 09:56:48
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 62</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -956,7 +959,7 @@ Last updated: <time datetime="2025-11-03T07:56:48.164Z">Mon Nov 03 2025 09:56:48
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 18</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1076,7 +1079,7 @@ Last updated: <time datetime="2025-11-03T07:56:48.164Z">Mon Nov 03 2025 09:56:48
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 74</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1136,7 +1139,7 @@ Last updated: <time datetime="2025-11-03T07:56:48.164Z">Mon Nov 03 2025 09:56:48
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 41</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 16</li>
         </ul>
       </td>
     </tr>
