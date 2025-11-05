@@ -9,6 +9,10 @@ title: new jersey
 
 Last updated: <time datetime="2025-11-04T06:05:51.353Z">Tue Nov 04 2025 08:05:51 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+The &quot;new jersey&quot; tag represents the diverse musical output from the Garden State, reflecting its position between New York City&#39;s urban energy and Philadelphia&#39;s working-class grit. Artists from this region often blend raw authenticity with polished ambition, spanning from heartland rock and hardcore punk to golden-age hip-hop and indie experimentation. The tag captures New Jersey&#39;s scrappy, unpretentious spirit and its role as a cultural crossroads where multiple American music traditions intersect.
+
 ### 100 chronological releases
 
 <table>
@@ -1284,7 +1288,7 @@ Last updated: <time datetime="2025-11-04T06:05:51.353Z">Tue Nov 04 2025 08:05:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 32</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 33</li>
             <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 74</li>
         </ul>
       </td>

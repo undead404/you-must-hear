@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T06:38:14.134Z
+date: 2025-11-04T18:06:27.064Z
 permalink: tags/stoner-rock
 title: stoner rock
 ---
 
 ## stoner rock
 
-Last updated: <time datetime="2025-11-03T06:38:14.134Z">Mon Nov 03 2025 08:38:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T18:06:27.064Z">Tue Nov 04 2025 20:06:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/696fd518637f472080af1f234261a019.png" alt="Cover for Wretch" style="max-width:120px; height:auto;" />
       </td>
@@ -60,8 +60,8 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 31</li>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 45</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 15</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -80,13 +80,13 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 29</li>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 98</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 30</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="http://coverartarchive.org/release/c02820b6-2fe7-4342-983e-617aa1bf7799/15868913031-250.jpg" alt="Cover for Sleep&#39;s Holy Mountain" style="max-width:120px; height:auto;" />
       </td>
@@ -126,7 +126,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/49663522cd3652371e0186545e87e6d4.png" alt="Cover for Welcome to Sky Valley" style="max-width:120px; height:auto;" />
       </td>
@@ -140,8 +140,8 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 30</li>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 94</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 31</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -185,7 +185,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f67b86d246e02ebdc9114cd8ef29d546.png" alt="Cover for Dopes to Infinity" style="max-width:120px; height:auto;" />
       </td>
@@ -233,7 +233,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 83</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -252,7 +252,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 49</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -301,7 +301,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/x8V6seWVKeBfswzrD97ABQdDd1ozoAtnhcppBTA5zd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjIx/Mi0xMTQ4OTk1NTc4/LmpwZWc.jpeg" alt="Cover for Pentastar: In the Style of Demons" style="max-width:120px; height:auto;" />
       </td>
@@ -319,7 +319,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>1996-11-12</td>
@@ -339,7 +339,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e30d6121ede4a3daa9c0e2b6cc42455.png" alt="Cover for The Action Is Go" style="max-width:120px; height:auto;" />
       </td>
@@ -371,7 +371,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 2</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -394,7 +394,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a77f6216b814a8cbe1b375fea03c879.png" alt="Cover for Powertrip" style="max-width:120px; height:auto;" />
       </td>
@@ -425,12 +425,12 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 79</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>1999-06-22</td>
@@ -461,7 +461,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 31</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -497,7 +497,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 97</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -516,7 +516,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 42</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -557,7 +557,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de6b3f11b3fdb5953b874606d62a28e0.png" alt="Cover for Agents of Oblivion" style="max-width:120px; height:auto;" />
       </td>
@@ -575,7 +575,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>2000-05-16</td>
@@ -608,7 +608,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 3</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -630,7 +630,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4928649042be94c90dc3c64ca4bb35ad.png" alt="Cover for California Crossing" style="max-width:120px; height:auto;" />
       </td>
@@ -644,12 +644,30 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 82</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76a6d1f4ccf5416680745532c60fee32.png" alt="Cover for Liquid" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>35007</td>
+      <td>Liquid</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/BmIr6mnPimJgKcxmnuS4K9djy-jKiXiwYP7bRFf7sE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjEw/MDctMTQ3MDI5ODky/MC0xNzI4Lm1wbw.jpeg" alt="Cover for Songs For The Deaf (UK Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -698,12 +716,12 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 41</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c26c5e47f304cb4cc6d7c5948f6cf74.png" alt="Cover for The Desert Sessions Volume 9 &amp; 10" style="max-width:120px; height:auto;" />
       </td>
@@ -718,12 +736,12 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 66</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>2003-04-22</td>
@@ -744,7 +762,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88666db81b163fd51d9c25b77dfba829.png" alt="Cover for Akuma No Uta" style="max-width:120px; height:auto;" />
       </td>
@@ -764,26 +782,6 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
     <tr>
       <td>19</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0a57546b64afcbbd5ecce353e92d8ed.png" alt="Cover for A Drug Problem That Never Existed" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003-07-04</td>
-      <td>Mondo Generator</td>
-      <td>A Drug Problem That Never Existed</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d8737b035eb7426728c6cdd2676f10c.png" alt="Cover for Call It Conspiracy" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-16</td>
@@ -800,7 +798,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b683916cba84fb2b7f766497606e26b.png" alt="Cover for Colour Haze" style="max-width:120px; height:auto;" />
       </td>
@@ -818,7 +816,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b02ea8d13be4c03a9fce8d1cdd5ccdc.png" alt="Cover for Witchcraft" style="max-width:120px; height:auto;" />
       </td>
@@ -892,7 +890,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2005-03-08</td>
@@ -909,7 +907,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c09895b66194dfecd5c27a157086ca2.png" alt="Cover for Little Sister" style="max-width:120px; height:auto;" />
       </td>
@@ -940,7 +938,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 24</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -979,12 +977,12 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 18</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2005-04-12</td>
@@ -1019,7 +1017,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ddedb6cb8a14d858bd3d33b07886466.png" alt="Cover for Hello Master" style="max-width:120px; height:auto;" />
       </td>
@@ -1037,7 +1035,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/deb95261a54a87e861c15c611908abe2.png" alt="Cover for Wolfmother" style="max-width:120px; height:auto;" />
       </td>
@@ -1056,7 +1054,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td>2005-11-07</td>
@@ -1090,7 +1088,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2005-12-05</td>
@@ -1168,7 +1166,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>2006-07-18</td>
@@ -1203,7 +1201,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       <td>
         <ul>
             <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 84</li>
-            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 97</li>
+            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1245,7 +1243,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2007-05-16</td>
@@ -1263,7 +1261,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc38b6d5f91a3de19f9122fc676b9ee4.png" alt="Cover for Era Vulgaris" style="max-width:120px; height:auto;" />
       </td>
@@ -1276,12 +1274,12 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 16</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25208fc1d256c86e4956688afa5bed91.png" alt="Cover for Phi" style="max-width:120px; height:auto;" />
       </td>
@@ -1335,7 +1333,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2008-10-07</td>
@@ -1372,7 +1370,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2009-02-12</td>
@@ -1425,7 +1423,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 35</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 42</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 58</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 59</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 62</li>
@@ -1473,7 +1471,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d536d356fd93438dc3b9fd711826b62e.png" alt="Cover for Them Crooked Vultures" style="max-width:120px; height:auto;" />
       </td>
@@ -1511,8 +1509,9 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b392d429a9e64f0dcf7ad3982a1a52ed.png" alt="Cover for Mars Red Sky" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-11</td>
       <td>Mars Red Sky</td>
@@ -1542,7 +1541,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 38</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 39</li>
             <li> <a href="{{ "/tags/greekpunk" | relative_url }}">greekpunk</a> # 98</li>
         </ul>
       </td>
@@ -1566,7 +1565,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0270bb85ce549649d99dcfaa6375030.png" alt="Cover for Yellow &amp; Green" style="max-width:120px; height:auto;" />
       </td>
@@ -1610,7 +1609,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfd9bf18f31445b6c54cc979cdbd3a51.png" alt="Cover for Earth Rocker" style="max-width:120px; height:auto;" />
       </td>
@@ -1664,7 +1663,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td>2013-07-23</td>
@@ -1681,7 +1680,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be6f523a8aea26c241e3c4d3d4633e4d.png" alt="Cover for From the Ages" style="max-width:120px; height:auto;" />
       </td>
@@ -1716,7 +1715,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2014-05-09</td>
@@ -1791,7 +1790,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f5aafe02e50f68e0e6b49934c2fe105.png" alt="Cover for Highmare" style="max-width:120px; height:auto;" />
       </td>
@@ -1832,7 +1831,7 @@ Stoner rock is a subgenre of rock music that emerged in the 1990s and is charact
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/4VD9cF_I276Z5JGica4CJxWZ_meAW0wy6UrsNfnzmKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Nzg3/MDMtMTQ4NjIwODU2/Ni0yOTI5LmpwZWc.jpeg" alt="Cover for Sleeping Through The War" style="max-width:120px; height:auto;" />
       </td>

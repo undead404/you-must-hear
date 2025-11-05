@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T06:42:05.261Z
+date: 2025-11-04T18:17:51.004Z
 permalink: tags/dance-punk
 title: dance-punk
 ---
 
 ## dance-punk
 
-Last updated: <time datetime="2025-11-03T06:42:05.261Z">Mon Nov 03 2025 08:42:05 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T18:17:51.004Z">Tue Nov 04 2025 20:17:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
   </thead>
   <tbody>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td>1981-03</td>
@@ -142,7 +142,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       <td>
         <ul>
             <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 23</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 35</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -204,7 +204,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>2000</td>
@@ -298,7 +298,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/84dcd046207626d7a57fc19061242652.png" alt="Cover for Fever To Tell (Deluxe Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -627,27 +627,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/A1XbzN9Zy2NSZCl-CypRBtARXgQk82dNtvcWL0plSsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTcy/OC0xMTY4NTM4NjQz/LmpwZWc.jpeg" alt="Cover for Telescope Mind" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-11-21</td>
-      <td>Tussle</td>
-      <td>Telescope Mind</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/aUvYG7bFvfq0rNjDYiOH6x_MGmIhpcGx1g0stePGhvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTcw/Ni0xMzUxMDAyNDY5/LTUyNDMuanBlZw.jpeg" alt="Cover for Myth of The Near Future" style="max-width:120px; height:auto;" />
       </td>
@@ -718,7 +698,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/aUvYG7bFvfq0rNjDYiOH6x_MGmIhpcGx1g0stePGhvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTcw/Ni0xMzUxMDAyNDY5/LTUyNDMuanBlZw.jpeg" alt="Cover for Myth of the Near Future" style="max-width:120px; height:auto;" />
       </td>
@@ -737,7 +717,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/aUvYG7bFvfq0rNjDYiOH6x_MGmIhpcGx1g0stePGhvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTcw/Ni0xMzUxMDAyNDY5/LTUyNDMuanBlZw.jpeg" alt="Cover for Myth Of The Near Future" style="max-width:120px; height:auto;" />
       </td>
@@ -941,6 +921,24 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/753cd0c010fe4ad6b8fbb4c3327803f0.png" alt="Cover for Fasciinatiion" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-08-05</td>
+      <td>The Faint</td>
+      <td>Fasciinatiion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>82</td>
       <td>
           <img src="https://i.discogs.com/s4cOmK3Fm3vfDwAsNtbPaTnUCnmHXBr1PMHrX_2VDuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzIz/NjQtMTIxOTI0NTkx/Mi5qcGVn.jpeg" alt="Cover for Fantasy Black Channel" style="max-width:120px; height:auto;" />
@@ -963,7 +961,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/OQmV8uaen0cByP3Yc7l-_pUX0jdha_q1-OgcsvuJLwQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQ3/NTgtMTIyODgwMjcx/OC5qcGVn.jpeg" alt="Cover for Cream Cuts" style="max-width:120px; height:auto;" />
       </td>
@@ -1068,7 +1066,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td>2011-02-14</td>
@@ -1254,7 +1252,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 38</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 39</li>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 65</li>
             <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 99</li>
             <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 99</li>
@@ -1634,7 +1632,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/750b92ffc6522bda761987fad719fb31.png" alt="Cover for Я вб&#39;ю всіх богів" style="max-width:120px; height:auto;" />
       </td>
@@ -1739,7 +1737,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       <td>
         <ul>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 19</li>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 55</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1901,7 +1899,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 10</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 13</li>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 33</li>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 33</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 68</li>
@@ -2035,7 +2033,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/puajrPiBM_454E-V02tbC-L2iaNGQO8bz_nFHblcaGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODUx/Mjc5LTE3MDgzNDky/NjItMTc0OS5qcGVn.jpeg" alt="Cover for Effigy" style="max-width:120px; height:auto;" />
       </td>
