@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T04:18:19.064Z
+date: 2025-11-05T00:11:27.309Z
 permalink: tags/american
 title: american
 ---
 
 ## american
 
-Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-05T00:11:27.309Z">Wed Nov 05 2025 02:11:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -121,25 +121,6 @@ Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/csptpH-mwu0pXEHU88bExOQO-kzbQVoTCgpls6uy5HU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDgz/NzAtMTM5MDMyMjA0/OC00MTkyLmpwZWc.jpeg" alt="Cover for Brenda Lee" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1989</td>
-      <td>Brenda Lee</td>
-      <td>Brenda Lee</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>30</td>
       <td>
           <img src="https://i.discogs.com/SbEC7ZkEIWqzl2isQLQamRio-FIzYDFF47sMM9h-wog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDE0/NTUtMTM4MTc5ODMz/MC02NzI1LnBuZw.jpeg" alt="Cover for Screaming Suicide" style="max-width:120px; height:auto;" />
@@ -175,7 +156,7 @@ Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 65</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -195,7 +176,7 @@ Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 66</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -216,6 +197,33 @@ Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b768d7ceb684170b98c68ba52a7ae9d.png" alt="Cover for What Would the Community Think" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-09-10</td>
+      <td>Cat Power</td>
+      <td>What Would the Community Think</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 89.02439024390245 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 89.02439024390245 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 89.02439024390245 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 89.02439024390245 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 4</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 67</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 93</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -290,7 +298,7 @@ Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 72</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -350,7 +358,7 @@ Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19
       <td>
         <ul>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 11</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 49</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -503,8 +511,8 @@ Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 16</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 53</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 18</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -554,7 +562,7 @@ Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/EclCSStpxb1n6wI7QmVQxzALGgkGDEMFLyMvjriFqbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc3/NTAtMTIyODczMzg4/OS5qcGVn.jpeg" alt="Cover for I Am... Sasha Fierce (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -773,7 +781,7 @@ Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 48</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 49</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 81</li>
         </ul>
       </td>
@@ -804,7 +812,7 @@ Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td>2012-01-11</td>
@@ -921,8 +929,8 @@ Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19
         <ul>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 99</li>
             <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 100</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 100</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 100</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -948,7 +956,7 @@ Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 30</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 31</li>
             <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 86</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 95</li>
         </ul>
@@ -972,7 +980,7 @@ Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>2014-05-19</td>
@@ -1051,7 +1059,7 @@ Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 22</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 23</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 43</li>
         </ul>
       </td>
@@ -1246,7 +1254,7 @@ Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 70</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1267,7 +1275,7 @@ Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 40</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1328,7 +1336,7 @@ Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 32</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 30</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 83</li>
             <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 87</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 97</li>
@@ -1765,7 +1773,7 @@ Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19
         <ul>
             <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 17</li>
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 45</li>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 83</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1785,7 +1793,7 @@ Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 40</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -2103,9 +2111,9 @@ Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 55</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 56</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 73</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 56</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 64</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 76</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 97</li>
         </ul>
       </td>

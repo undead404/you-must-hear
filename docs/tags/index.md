@@ -1,18 +1,21 @@
 ---
 category: list
-date: 2025-11-04T21:12:07.935Z
+date: 2025-11-05T00:14:02.931Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-04T21:12:07.935Z">Tue Nov 04 2025 23:12:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-05T00:14:02.931Z">Wed Nov 05 2025 02:14:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [seattle]({{ "tags/seattle" | relative_url }}) | <time datetime="2025-11-05T00:14:02.931Z">Wed Nov 05 2025 02:14:02 GMT+0200 (Eastern European Standard Time)</time> |
+| [liverpool]({{ "tags/liverpool" | relative_url }}) | <time datetime="2025-11-05T00:12:06.812Z">Wed Nov 05 2025 02:12:06 GMT+0200 (Eastern European Standard Time)</time> |
+| [american]({{ "tags/american" | relative_url }}) | <time datetime="2025-11-05T00:11:27.309Z">Wed Nov 05 2025 02:11:27 GMT+0200 (Eastern European Standard Time)</time> |
 | [spanish]({{ "tags/spanish" | relative_url }}) | <time datetime="2025-11-04T21:12:07.935Z">Tue Nov 04 2025 23:12:07 GMT+0200 (Eastern European Standard Time)</time> |
 | [power pop]({{ "tags/power-pop" | relative_url }}) | <time datetime="2025-11-04T21:10:24.674Z">Tue Nov 04 2025 23:10:24 GMT+0200 (Eastern European Standard Time)</time> |
 | [glam rock]({{ "tags/glam-rock" | relative_url }}) | <time datetime="2025-11-04T21:09:06.034Z">Tue Nov 04 2025 23:09:06 GMT+0200 (Eastern European Standard Time)</time> |
@@ -136,8 +139,6 @@ Last updated: <time datetime="2025-11-04T21:12:07.935Z">Tue Nov 04 2025 23:12:07
 | [technical thrash metal]({{ "tags/technical-thrash-metal" | relative_url }}) | <time datetime="2025-11-03T09:30:51.134Z">Mon Nov 03 2025 11:30:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [beatdown hardcore]({{ "tags/beatdown-hardcore" | relative_url }}) | <time datetime="2025-11-03T09:22:51.035Z">Mon Nov 03 2025 11:22:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [exotica]({{ "tags/exotica" | relative_url }}) | <time datetime="2025-11-03T09:18:52.463Z">Mon Nov 03 2025 11:18:52 GMT+0200 (Eastern European Standard Time)</time> |
-| [seattle]({{ "tags/seattle" | relative_url }}) | <time datetime="2025-11-03T09:01:51.056Z">Mon Nov 03 2025 11:01:51 GMT+0200 (Eastern European Standard Time)</time> |
-| [liverpool]({{ "tags/liverpool" | relative_url }}) | <time datetime="2025-11-03T08:41:52.495Z">Mon Nov 03 2025 10:41:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [hammond]({{ "tags/hammond" | relative_url }}) | <time datetime="2025-11-03T08:40:51.806Z">Mon Nov 03 2025 10:40:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [y2k prog]({{ "tags/y2k-prog" | relative_url }}) | <time datetime="2025-11-03T08:33:51.658Z">Mon Nov 03 2025 10:33:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [rock opera]({{ "tags/rock-opera" | relative_url }}) | <time datetime="2025-11-03T08:26:51.473Z">Mon Nov 03 2025 10:26:51 GMT+0200 (Eastern European Standard Time)</time> |
@@ -299,7 +300,6 @@ Last updated: <time datetime="2025-11-04T21:12:07.935Z">Tue Nov 04 2025 23:12:07
 | [chicago blues]({{ "tags/chicago-blues" | relative_url }}) | <time datetime="2025-10-31T06:52:19.070Z">Fri Oct 31 2025 08:52:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [australian]({{ "tags/australian" | relative_url }}) | <time datetime="2025-10-31T06:05:29.509Z">Fri Oct 31 2025 08:05:29 GMT+0200 (Eastern European Standard Time)</time> |
 | [comedian]({{ "tags/comedian" | relative_url }}) | <time datetime="2025-10-31T05:57:20.492Z">Fri Oct 31 2025 07:57:20 GMT+0200 (Eastern European Standard Time)</time> |
-| [american]({{ "tags/american" | relative_url }}) | <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [mastersinger]({{ "tags/mastersinger" | relative_url }}) | <time datetime="2025-10-31T02:45:30.082Z">Fri Oct 31 2025 04:45:30 GMT+0200 (Eastern European Standard Time)</time> |
 | [california]({{ "tags/california" | relative_url }}) | <time datetime="2025-10-31T02:43:14.094Z">Fri Oct 31 2025 04:43:14 GMT+0200 (Eastern European Standard Time)</time> |
 | [chinese]({{ "tags/chinese" | relative_url }}) | <time datetime="2025-10-31T02:42:14.444Z">Fri Oct 31 2025 04:42:14 GMT+0200 (Eastern European Standard Time)</time> |
