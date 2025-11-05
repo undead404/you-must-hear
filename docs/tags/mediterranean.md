@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T17:52:13.968Z
+date: 2025-11-05T12:18:52.599Z
 permalink: tags/mediterranean
 title: mediterranean
 ---
 
 ## mediterranean
 
-Last updated: <time datetime="2025-11-02T17:52:13.968Z">Sun Nov 02 2025 19:52:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-05T12:18:52.599Z">Wed Nov 05 2025 14:18:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1356,7 +1356,7 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 48</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 49</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 71</li>
         </ul>
       </td>
@@ -1412,24 +1412,6 @@ Mediterranean music refers to the music styles that originate from the countries
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2023</td>
-      <td>Various Artists</td>
-      <td>Folk Songs Of The Greek Islands Vol. 4</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/greek" | relative_url }}">greek</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a></li>
         </ul>
       </td>
@@ -1562,6 +1544,25 @@ Mediterranean music refers to the music styles that originate from the countries
         <ul>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 14</li>
             <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Grup de Restauració Folklòrica de València i Fermín Pardo</td>
+      <td>Done&#39;m L&#39;Asguilando!: Cançons Populars del Nadal Valencià</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spain" | relative_url }}">spain</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
