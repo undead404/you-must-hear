@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T04:01:31.597Z
+date: 2025-11-05T04:10:51.018Z
 permalink: tags/avanthop
 title: avanthop
 ---
 
 ## avanthop
 
-Last updated: <time datetime="2025-10-22T04:01:31.597Z">Wed Oct 22 2025 07:01:31 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-05T04:10:51.018Z">Wed Nov 05 2025 06:10:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -85,7 +85,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
       </td>
       <td>2000</td>
@@ -235,7 +235,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/bLWw-PVyXJna0wQOgVobQ69yCMZzCGPKiKRRAqXRWsA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTAx/NjItMTI5NDk1MDA5/Mi5qcGVn.jpeg" alt="Cover for fresh produce" style="max-width:120px; height:auto;" />
       </td>
@@ -292,7 +292,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/996OgXLwN5vPQmBtGoSadTpixnTk1UrtYQDLTMJPJIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDI5/NjItMTM0NjU4NjI4/MC0xMDQ2LmpwZWc.jpeg" alt="Cover for MarionetteWorkBench" style="max-width:120px; height:auto;" />
       </td>
@@ -311,7 +311,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/Mhd_SJOq0HgzpndX0eF5PPbunAGLzSKFcm8_6oB2960/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzU2/NTQtMTIyOTU4NzY2/Mi5qcGVn.jpeg" alt="Cover for 88 Oranges" style="max-width:120px; height:auto;" />
       </td>
@@ -407,7 +407,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/CC1hbARL7zD0eEIGTF_fZ5K-8xbpaUmkc_tyzTXO7U4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODg1/MTEtMTQ2MDY1MTM0/OS03NTEyLmpwZWc.jpeg" alt="Cover for Money Machine Music" style="max-width:120px; height:auto;" />
       </td>
@@ -426,7 +426,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/6XAvawmzJNSDyQM3KGw9aDnN27k8ALiZ5zg8ZT1OPvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM5/NDE0LTE0OTA1NTQw/MjktODYyNS5qcGVn.jpeg" alt="Cover for Anti-Rust EP" style="max-width:120px; height:auto;" />
       </td>
@@ -469,6 +469,24 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/6XAvawmzJNSDyQM3KGw9aDnN27k8ALiZ5zg8ZT1OPvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM5/NDE0LTE0OTA1NTQw/MjktODYyNS5qcGVn.jpeg" alt="Cover for Anti-Rust EP [2005]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-06-05</td>
+      <td>ShamGrammar</td>
+      <td>Anti-Rust EP [2005]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avanthop" | relative_url }}">avanthop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>49</td>
       <td>
           <img src="https://i.discogs.com/kIdPfFIk0QS6gLeS50Ywb4KRmX7WjOxudleeclThizE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MzUz/MS0xMTk0NTgxMjAw/LmpwZWc.jpeg" alt="Cover for What&#39;s Really Rad?" style="max-width:120px; height:auto;" />
@@ -488,7 +506,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/wOD4nVhwrwj43V7Tpt8uCQL0PYOX0DYzASlw8mRlkfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Nzg1/ODYtMTQyMDIyMzUz/NC0yMTkwLmpwZWc.jpeg" alt="Cover for Primordial" style="max-width:120px; height:auto;" />
       </td>
@@ -545,7 +563,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/vB2pTnbkWCMY1u9ZLT5JJw-0J9OVHDia6_oL6esZKAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NTI3/Mi0xMjk1MjQ1NjI1/LmpwZWc.jpeg" alt="Cover for Underestimated Raindrops" style="max-width:120px; height:auto;" />
       </td>
@@ -564,7 +582,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/xYu0ox1IxOjbsu2eut0swoTbAmmdTazEHYn39XemTPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjM4/ODEtMTIwNDc0MzM5/MC5qcGVn.jpeg" alt="Cover for Sasquatch The Great Undying" style="max-width:120px; height:auto;" />
       </td>
@@ -583,7 +601,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/ewOsmYnpeGeiGEaumPpCDEGlMpSCRIOH2ABMZjFVf3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjgw/OC0xMTczNjUwMzk4/LmpwZWc.jpeg" alt="Cover for Winterize The Game" style="max-width:120px; height:auto;" />
       </td>
@@ -714,7 +732,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/j7FbmDBsrtZGlP-44Knf91fo3Cemr-lZJe9bG3cwEkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/MjMtMTIyMjUyOTE3/Ni5qcGVn.jpeg" alt="Cover for the Fully Automatic Mixtape" style="max-width:120px; height:auto;" />
       </td>
@@ -863,7 +881,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/EyBM_qpMMtt_xKpKLuNl4ng1z8BIXVVP6I1YTneCz54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM5/NTExLTE0OTA1NTUx/MjQtMTAzNC5qcGVn.jpeg" alt="Cover for Lend An Ear (2009)" style="max-width:120px; height:auto;" />
       </td>
@@ -882,7 +900,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/EyBM_qpMMtt_xKpKLuNl4ng1z8BIXVVP6I1YTneCz54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM5/NTExLTE0OTA1NTUx/MjQtMTAzNC5qcGVn.jpeg" alt="Cover for Lend An Ear" style="max-width:120px; height:auto;" />
       </td>
@@ -944,7 +962,26 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/-ZE9Dm6sPWAzL9hFpms5a0b2BT099j0MH0_WBdliKek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzUw/NTk0LTE2MDcyMTA3/MDgtMTM0MS5qcGVn.jpeg" alt="Cover for The Robotic Hands of God: Ragnarok &amp; Roll" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Dreadnots</td>
+      <td>The Robotic Hands of God: Ragnarok &amp; Roll</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avanthop" | relative_url }}">avanthop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/pvQPkGbW71AOrlZ_6jB7UfxsoQLUcD25DGYSI2U7RTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODA4/MjkxLTE2MjE1Mjg0/MTYtOTk3OC5qcGVn.jpeg" alt="Cover for EOE" style="max-width:120px; height:auto;" />
       </td>
@@ -963,7 +1000,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/T-tB4GTq3jb6kk-U3vH10QkZ6yeWOgtIow75X6Wu_rE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTg5/NzYtMTMwMjQ1MDgz/Ny5qcGVn.jpeg" alt="Cover for Escaping Stasis" style="max-width:120px; height:auto;" />
       </td>
@@ -982,7 +1019,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/hmtvXrfRL02lKxcV6fOaoAcD_DjGW6cc2guN-gC6Wlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODM2/MDYtMTM2ODExODUz/MS04NzIwLmpwZWc.jpeg" alt="Cover for Greatest Hits (Ha Ha Ha) Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1001,7 +1038,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/XF36dwSCf4u5Z_OYSFd71jR5pAwCRFWcptvU38oa5ng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjU5/NjEtMTQ1MDMwNzU4/MS01NTc1LmpwZWc.jpeg" alt="Cover for pinkie swear" style="max-width:120px; height:auto;" />
       </td>
@@ -1081,7 +1118,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/8OO4fisH6jFNELq4D2YyIa9QsqcALmsB0GDYCpTUCfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDgz/MzgtMTI4NDYwOTQ0/Ni5qcGVn.jpeg" alt="Cover for Stream Of Conscienceless" style="max-width:120px; height:auto;" />
       </td>
@@ -1100,7 +1137,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/Rucz1ojA-ElN26NblOqvD6ASH-Ld8hUyYH1Qb-uoxeo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MzI2/MzItMTQ4MzkzMDcy/Mi02MjY0LmpwZWc.jpeg" alt="Cover for Purple Lights and April Foolishness" style="max-width:120px; height:auto;" />
       </td>
@@ -1157,7 +1194,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/ON7zKJmyi3MK9tdUgr29CYKmoDhIXMu954-_nBnNMtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjg2/MTYtMTMxNzA5Njg2/Mi5qcGVn.jpeg" alt="Cover for Choplifter" style="max-width:120px; height:auto;" />
       </td>
@@ -1310,7 +1347,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/eZJ5hoen8IUW55DiWGNneAo_ZRUat-kvYULOai0lIWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjQy/NDUtMTUxNjcwNTY5/MS02OTY1LmpwZWc.jpeg" alt="Cover for III" style="max-width:120px; height:auto;" />
       </td>
@@ -1329,7 +1366,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/XMRvsVS1W1vcBFTWPOiAGZnjMYZXgnDqmQJzW3J6rmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDIx/MDAtMTI5OTA1NTQ2/Mi5qcGVn.jpeg" alt="Cover for AUX SEND vol 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1384,7 +1421,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 27</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1505,7 +1542,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/YK8MGXJ7-UJY5ItMsDrmErThs6amK7Dnzckfh6qlm-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzg5/MTktMTM0NjQyNDc0/Mi0zOTc1LmpwZWc.jpeg" alt="Cover for The Glass Swan Project: Anti-Love Songs for Lovers" style="max-width:120px; height:auto;" />
       </td>
@@ -1596,7 +1633,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/n5fNg7WRp_n0BXqQvqHPT38P8je3qdAVxBOGVzxwtxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTUw/ODAtMTQ3OTgwOTMw/NC03NTY4LmpwZWc.jpeg" alt="Cover for Beatsofthebeast Vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1614,7 +1651,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/-3gnARBjIfATjlc_m3SK42_SJHum3EGLrW04dnePT30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDUw/OTctMTIwMDU5NTE5/OC5qcGVn.jpeg" alt="Cover for Doors To Sleep" style="max-width:120px; height:auto;" />
       </td>
@@ -1655,7 +1692,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/Mn10JGTva7W8e3_YOMRoUQkkHx9HfmgftxEH64FTlcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM5/NzE1LTE0OTA1NTc0/NzUtNzExNy5qcGVn.jpeg" alt="Cover for Progress In Works (produced by LoFi)" style="max-width:120px; height:auto;" />
       </td>
@@ -1696,7 +1733,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/mOoXOkiGnD9ANO4ouoYmxjQGHeA6_EQwZGzPyICaqdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjM4/NjktMTIwNDc0Njc1/NC5qcGVn.jpeg" alt="Cover for Promo Overkill E.P." style="max-width:120px; height:auto;" />
       </td>
@@ -1774,7 +1811,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1792,7 +1829,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -1813,7 +1850,7 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -1897,39 +1934,6 @@ Avanthop merges experimental hip-hop with avant-garde sensibilities, prioritizin
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avanthop" | relative_url }}">avanthop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>
-      </td>
-      <td></td>
-      <td>UniVerse MCs</td>
-      <td>RetroSpaceSuit [Unreleased]</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6af05602c10b4b37a4f91933f23d50fc.png" alt="Cover for SolarSystemStroll [2006]" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>UniVerse MCs</td>
-      <td>SolarSystemStroll [2006]</td>
-      <td>
-        <ul>
         </ul>
       </td>
       <td>
