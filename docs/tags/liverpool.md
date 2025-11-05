@@ -9,6 +9,10 @@ title: liverpool
 
 Last updated: <time datetime="2025-11-05T00:12:06.812Z">Wed Nov 05 2025 02:12:06 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+The Liverpool tag captures the distinctive musical identity of Britain&#39;s most influential port city, characterized by jangly guitars, melodic hooks, and a gritty yet romantic sensibility born from working-class culture. The sound ranges from psychedelic post-punk to Merseybeat-influenced pop-rock, unified by an atmospheric quality and lyrical introspection. This tag represents decades of creative output shaped by the city&#39;s maritime history and fierce independent spirit.
+
 ### 100 chronological releases
 
 <table>

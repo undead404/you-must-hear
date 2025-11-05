@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T06:05:29.509Z
+date: 2025-11-05T01:35:18.342Z
 permalink: tags/australian
 title: australian
 ---
 
 ## australian
 
-Last updated: <time datetime="2025-10-31T06:05:29.509Z">Fri Oct 31 2025 08:05:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-05T01:35:18.342Z">Wed Nov 05 2025 03:35:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Australian music refers to the music produced and originated in Australia. It en
   </thead>
   <tbody>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/s5_0G_6xkUHbxsvy0suv-9YkYv34ZcxGECVq45Evb6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDE3/OTgtMTYwOTYxMzY3/MS0zOTcxLmpwZWc.jpeg" alt="Cover for Diamantina Cocktail" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa57d490c4ffe8c4f6a5373b9c1d2677.png" alt="Cover for 10,9,8,7,6,5,4,3,2,1" style="max-width:120px; height:auto;" />
       </td>
@@ -201,7 +201,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>1997-08-28</td>
@@ -218,7 +218,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b69be699d6d9b17ab4082cbb144c2026.png" alt="Cover for Unit" style="max-width:120px; height:auto;" />
       </td>
@@ -250,33 +250,12 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 37</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/683f9de0a04d4e6282cb9ec2ff0b1cd2.png" alt="Cover for Neon Ballroom" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999-03-05</td>
-      <td>Silverchair</td>
-      <td>Neon Ballroom</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
-            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 52 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 70</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b59a6178802c7d4963c065dc128c120.png" alt="Cover for How it Works" style="max-width:120px; height:auto;" />
       </td>
@@ -317,7 +296,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5a1f8c50651ca42688d2b5b3b008d1a.png" alt="Cover for New Detention" style="max-width:120px; height:auto;" />
       </td>
@@ -352,7 +331,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/I9H0i_hIMiEsMj4JnCq0pQkYu3n7Eoln8O8pM0ClaCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQ3/NzY1LTE1OTM0MTA5/NTItNjQ4Ny5qcGVn.jpeg" alt="Cover for The Overture and the Underscore" style="max-width:120px; height:auto;" />
       </td>
@@ -403,8 +382,8 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 22</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 33</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -461,7 +440,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/tiFZtm9OkgkThjA4Wfz8H5E8j8aR60-JwFo7haP-LyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDMy/MjAtMTcwODQ1MTkw/My04MDM4LmpwZWc.jpeg" alt="Cover for Rhetorical Question EP" style="max-width:120px; height:auto;" />
       </td>
@@ -499,7 +478,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 83</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -517,8 +496,8 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 2</li>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 57</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 11</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -612,7 +591,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/5eTs0P2rgUfZR5xFp1fOWPro4qD0QWCJONVPN4Zbnhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjQ5/Ni0xNDAwNTc5MzE5/LTg3MzUuanBlZw.jpeg" alt="Cover for Come On Come On" style="max-width:120px; height:auto;" />
       </td>
@@ -630,7 +609,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/WB4KkUQ2pkuQKDn_MOlAK1vwt3zmHgAPQQis_70NpBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Njc2/MjMtMTM3NDg3NDEy/Ny0xMTc5LmpwZWc.jpeg" alt="Cover for Unstoppable" style="max-width:120px; height:auto;" />
       </td>
@@ -648,7 +627,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/97DOVYVub1ePVkzwLJXDtuTSbcP1GuO8bN85lKe1_Sk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDI2/MTgtMTQ2OTA4NTkw/My05NDczLmpwZWc.jpeg" alt="Cover for Revelation (From &quot;Boy Erased&quot;)" style="max-width:120px; height:auto;" />
       </td>
@@ -684,7 +663,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 71</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -806,7 +785,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 24</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -830,7 +809,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd684fdb8c2446339bfb9d56e3586470.png" alt="Cover for Hook Me Up (US Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -902,7 +881,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 12</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 11</li>
             <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 86</li>
         </ul>
       </td>
@@ -970,6 +949,25 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2011-08-19</td>
+      <td>Gotye</td>
+      <td>Making Mirrors</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 73</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>82</td>
       <td>
           <img src="https://i.discogs.com/YNE3bpBGiv90ojFbDYEXORlq_m9loNZixesDxtEZMf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjMw/MDg3LTE2ODg5NDYw/NjQtMTIyNi5qcGVn.jpeg" alt="Cover for Pika Girl - Single" style="max-width:120px; height:auto;" />
@@ -998,7 +996,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/KWRL069untxd-h-O0mFvY2xHPNbR3Le3T1M-LvE_178/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzkz/MjEtMTMzNDU3MzY1/MC5qcGVn.jpeg" alt="Cover for Somebody That I Used To Know (feat. Kimbra)" style="max-width:120px; height:auto;" />
       </td>
@@ -1037,7 +1035,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/vy9lzLEFLIbgJ9e5yzfMKBMHwRSYH0z0OhyxsyxJ3bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTc3/NDItMTM2NjU2ODQ1/MS0xMzUwLmpwZWc.jpeg" alt="Cover for Ghosts" style="max-width:120px; height:auto;" />
       </td>
@@ -1097,7 +1095,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 24</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1237,7 +1235,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/efeff28fe8d54631c6066a5ebdd272f7.png" alt="Cover for Don&#39;t Stop" style="max-width:120px; height:auto;" />
       </td>
@@ -1317,7 +1315,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/3BLM0pvS_SyyVaQzW1fQkiiGPXt5zGJQzDVTrcfa6Dk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAy/NTQtMTQ0ODgyMDMz/Ny02ODY4LmpwZWc.jpeg" alt="Cover for Leisureplex" style="max-width:120px; height:auto;" />
       </td>
@@ -1373,7 +1371,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/pMZUqn9FLZOk9QY03E4CBhhh7g8YiOINbuF8KXkYcQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTcx/NDMtMTQ4NTI1NDU5/NS0zNTE0LnBuZw.jpeg" alt="Cover for The Son of Misery" style="max-width:120px; height:auto;" />
       </td>
@@ -1401,7 +1399,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/FDeyqoFGh-mT-5Ih7gr-p8Lz_TN5qNWmMJycAkR4LBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDAy/NDYtMTQzMzcyNzU3/NC04MTM4LmpwZWc.jpeg" alt="Cover for Mirror&#39;s Edge" style="max-width:120px; height:auto;" />
       </td>
@@ -1441,7 +1439,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/O37mnHr3kjL5VAkE4uA7qiDnnk06h7sYqkpPNgISUgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTIw/ODEtMTQ5ODU1NDUw/NS03OTMzLmpwZWc.jpeg" alt="Cover for Animal" style="max-width:120px; height:auto;" />
       </td>
@@ -1486,7 +1484,7 @@ Australian music refers to the music produced and originated in Australia. It en
         <ul>
             <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 9</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 33</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 66</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1554,9 +1552,9 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 77</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 78</li>
             <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 78</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 78</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1660,7 +1658,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/32427c5322ef868e42747c5d8da1fe12.png" alt="Cover for For Now" style="max-width:120px; height:auto;" />
       </td>
@@ -1719,7 +1717,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2018-02-23</td>
@@ -1839,7 +1837,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/l44czwU6sO43a7pvu91horhGS-BjM31Gt5T00R-BxyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ1/NjM3LTE1NDExNjAy/MzQtNDAzNy5qcGVn.jpeg" alt="Cover for Somebody To Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1881,11 +1879,11 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 9</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 11</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 45</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 71</li>
             <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 79</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 86</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1910,9 +1908,9 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 73</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 76</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 74</li>
             <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 76</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2000,7 +1998,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/ITdcSGtdcPEdAEbWV0WqiJUuvldwjHYLa_E6yUD4VWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjA4/NDk2LTE2OTEwNjkw/ODgtMjM0My5qcGVn.jpeg" alt="Cover for Live From Joshua Tree" style="max-width:120px; height:auto;" />
       </td>
@@ -2040,7 +2038,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91205a37679e41aba234c785bd4760be.png" alt="Cover for Day One" style="max-width:120px; height:auto;" />
       </td>
@@ -2087,8 +2085,8 @@ Australian music refers to the music produced and originated in Australia. It en
 - [pop]({{ "/tags/pop" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
 - [alternative]({{ "/tags/alternative" | relative_url }})
-- [australia]({{ "/tags/australia" | relative_url }})
 - [hardcore]({{ "/tags/hardcore" | relative_url }})
+- [australia]({{ "/tags/australia" | relative_url }})
 - [metalcore]({{ "/tags/metalcore" | relative_url }})
 - [dance]({{ "/tags/dance" | relative_url }})
 - [metal]({{ "/tags/metal" | relative_url }})

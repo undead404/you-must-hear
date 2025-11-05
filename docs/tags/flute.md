@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T04:52:39.663Z
+date: 2025-11-05T01:36:10.569Z
 permalink: tags/flute
 title: flute
 ---
 
 ## flute
 
-Last updated: <time datetime="2025-10-21T04:52:39.663Z">Tue Oct 21 2025 07:52:39 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-05T01:36:10.569Z">Wed Nov 05 2025 03:36:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,7 +49,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>1962</td>
@@ -87,7 +87,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>1964</td>
@@ -158,7 +158,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/6IPGdOrx8dlwWj0SQCFs8n7DIW6hFixpK2UrAXwD6VA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDA2/Ny0xMzkyODI1ODE1/LTMwOTEuanBlZw.jpeg" alt="Cover for Quintessence" style="max-width:120px; height:auto;" />
       </td>
@@ -213,7 +213,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>1971</td>
@@ -401,7 +401,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/dyFbruOHc-ziO1kb3P6vmIm_jwwhPQ8LNbv9zZJQ9AU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI5/NzgyLTE1Mjg4OTcy/MDctMjc0OS5qcGVn.jpeg" alt="Cover for BOCCHERINI: Flute Quintets, Op. 17" style="max-width:120px; height:auto;" />
       </td>
@@ -418,7 +418,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>1982</td>
@@ -436,7 +436,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>1984</td>
@@ -455,7 +455,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/2FJnOqsJKjqukTxguiH8YXQNCrXX4VA07MGMZjKNXSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDYz/MzUtMTU5MDc2Nzk5/Ny0zODI4LmpwZWc.jpeg" alt="Cover for The Best Of Hariprasad Chaurasia" style="max-width:120px; height:auto;" />
       </td>
@@ -474,7 +474,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/YLrJ_JqGthnZ_GW_HlGdZOmE1MGbjYhTvOJhzibV5Uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTIy/NS0xMTUxMTM4NDMz/LmpwZWc.jpeg" alt="Cover for Catspaw" style="max-width:120px; height:auto;" />
       </td>
@@ -515,7 +515,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/tiv8a9AJF4sRXzecemskN5ikEHjUy7pCCL6A0GWPKOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzgy/MDgtMTQ5MDIwMjcy/MC05NzY1LmpwZWc.jpeg" alt="Cover for Sundance Season" style="max-width:120px; height:auto;" />
       </td>
@@ -576,7 +576,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/qLT5Bkp2WVmq8l7cFJWJs8NflGeTF_hibI-JZlmP4pY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MDQ0/OS0xMzkxNDU5NzE3/LTI4ODIuanBlZw.jpeg" alt="Cover for Desert Dance" style="max-width:120px; height:auto;" />
       </td>
@@ -672,7 +672,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>1993</td>
@@ -748,7 +748,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/f1sf7rnnyYSHOgmTsN0zWmw2Hh1BVcP48CxGrSUPggk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDEx/NDAtMTQ4NDU5MzM5/Mi0zNjgyLmpwZWc.jpeg" alt="Cover for Flute Traveller" style="max-width:120px; height:auto;" />
       </td>
@@ -766,7 +766,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/M3Icy95rbDUu2wOsQ8RDrUNEyzVkt1St12eAPndviro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQw/OTAzLTE2NjUwODUz/MzctMTQwNC5qcGVn.jpeg" alt="Cover for Flute Concertos" style="max-width:120px; height:auto;" />
       </td>
@@ -897,7 +897,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/qjX6DqTbfOCstt92sj9GJzs2KZUQOfYCSzorO4nd-wg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTE2/OTctMTMxNjMyMzIz/Ni5qcGVn.jpeg" alt="Cover for Hoja De Coca" style="max-width:120px; height:auto;" />
       </td>
@@ -1154,7 +1154,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/6vw-lFG0kgyvFp22_sdQ7H9N7-kKWfxHC6AtpI85YOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzAx/NDQ3LTE1MjA4OTQ3/MzktOTg4My5qcGVn.jpeg" alt="Cover for Quantz: Flute Sonatas" style="max-width:120px; height:auto;" />
       </td>
@@ -1173,7 +1173,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/0MDKKOzckFJlMsMQAysBBOv1Z7bWjryCgIcHbFMfvag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY4/MzY0LTE1NTg2NDIy/NTQtMTM2My5qcGVn.jpeg" alt="Cover for Classic Masters" style="max-width:120px; height:auto;" />
       </td>
@@ -1255,7 +1255,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/dAAGTlDy8XikDOof0QOLBO6Vp25aivN2X2HsJ7AYJyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcy/NTU5LTE2Mzc5MDA2/OTgtNzcxMy5qcGVn.jpeg" alt="Cover for Tai Chi - Yoga - Qi Gong" style="max-width:120px; height:auto;" />
       </td>
@@ -1276,7 +1276,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Heavy Flute: Funky Flute Grooves from the 60&#39;s and 70&#39;s" style="max-width:120px; height:auto;" />
       </td>
@@ -1392,7 +1392,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2006-11-02</td>
@@ -1407,6 +1407,26 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/71YNZb2xltkqyBYfIpsZtP9m0r9gK16RbTFuSymnMqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTA1/OTE1LTE0OTE3MDgy/OTktNjYxOS5wbmc.jpeg" alt="Cover for Hymns" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Golana</td>
+      <td>Hymns</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1457,7 +1477,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/akSlhWm4tkuw-tu6PGcDSuRe2fR0SDptb09eYSC6vJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ1/MTM3LTE2NDY4MzM1/MzctNzQ0Ny5qcGVn.jpeg" alt="Cover for Santosh" style="max-width:120px; height:auto;" />
       </td>
@@ -1498,7 +1518,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/cKddnO4HYm1-hyZtiBOnDe6h_2zGFWybSYQfjgQiaeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODgy/NS0xMTgyNDQ1MTIx/LmpwZWc.jpeg" alt="Cover for A Long And Ugly Road (European edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1523,7 +1543,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
         <ul>
             <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 2</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 26</li>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 28</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 30</li>
             <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 51</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 64</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 74</li>
@@ -1558,7 +1578,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/-AuBSxoFgbpGQbD2Xp_zb250CBntyS0YTu0nxTAQ5Sw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTc2/NzExLTE1MDAyMjU1/ODgtNTE2NS5qcGVn.jpeg" alt="Cover for Moving Day" style="max-width:120px; height:auto;" />
       </td>
@@ -1614,7 +1634,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/Z8riPdN4wSGD0UeGGNoZ69R4vcVbH4S-f5d4TionIdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcy/ODktMTU0NzQ3NDM3/Ny0zNzMyLmpwZWc.jpeg" alt="Cover for Uuteen Aikaan" style="max-width:120px; height:auto;" />
       </td>
@@ -1787,7 +1807,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -1843,7 +1863,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1853,24 +1873,6 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Keith Bear</td>
-      <td>Echoes of the Upper Missouri</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
       <td>
@@ -1970,7 +1972,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td></td>
@@ -1997,6 +1999,6 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
 - [jazz]({{ "/tags/jazz" | relative_url }})
 - [new age]({{ "/tags/new-age" | relative_url }})
 - [ambient]({{ "/tags/ambient" | relative_url }})
-- [world]({{ "/tags/world" | relative_url }})
 - [classical guitar]({{ "/tags/classical-guitar" | relative_url }})
+- [world]({{ "/tags/world" | relative_url }})
 - [meditation]({{ "/tags/meditation" | relative_url }})

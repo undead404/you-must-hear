@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-05T00:15:02.702Z
+date: 2025-11-05T01:36:10.569Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-05T00:15:02.702Z">Wed Nov 05 2025 02:15:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-05T01:36:10.569Z">Wed Nov 05 2025 03:36:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [flute]({{ "tags/flute" | relative_url }}) | <time datetime="2025-11-05T01:36:10.569Z">Wed Nov 05 2025 03:36:10 GMT+0200 (Eastern European Standard Time)</time> |
+| [australian]({{ "tags/australian" | relative_url }}) | <time datetime="2025-11-05T01:35:18.342Z">Wed Nov 05 2025 03:35:18 GMT+0200 (Eastern European Standard Time)</time> |
 | [brass]({{ "tags/brass" | relative_url }}) | <time datetime="2025-11-05T00:15:02.702Z">Wed Nov 05 2025 02:15:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [seattle]({{ "tags/seattle" | relative_url }}) | <time datetime="2025-11-05T00:14:02.931Z">Wed Nov 05 2025 02:14:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [liverpool]({{ "tags/liverpool" | relative_url }}) | <time datetime="2025-11-05T00:12:06.812Z">Wed Nov 05 2025 02:12:06 GMT+0200 (Eastern European Standard Time)</time> |
@@ -299,7 +301,6 @@ Last updated: <time datetime="2025-11-05T00:15:02.702Z">Wed Nov 05 2025 02:15:02
 | [poland]({{ "tags/poland" | relative_url }}) | <time datetime="2025-10-31T08:46:18.976Z">Fri Oct 31 2025 10:46:18 GMT+0200 (Eastern European Standard Time)</time> |
 | [world]({{ "tags/world" | relative_url }}) | <time datetime="2025-10-31T07:16:19.055Z">Fri Oct 31 2025 09:16:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [chicago blues]({{ "tags/chicago-blues" | relative_url }}) | <time datetime="2025-10-31T06:52:19.070Z">Fri Oct 31 2025 08:52:19 GMT+0200 (Eastern European Standard Time)</time> |
-| [australian]({{ "tags/australian" | relative_url }}) | <time datetime="2025-10-31T06:05:29.509Z">Fri Oct 31 2025 08:05:29 GMT+0200 (Eastern European Standard Time)</time> |
 | [comedian]({{ "tags/comedian" | relative_url }}) | <time datetime="2025-10-31T05:57:20.492Z">Fri Oct 31 2025 07:57:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [mastersinger]({{ "tags/mastersinger" | relative_url }}) | <time datetime="2025-10-31T02:45:30.082Z">Fri Oct 31 2025 04:45:30 GMT+0200 (Eastern European Standard Time)</time> |
 | [california]({{ "tags/california" | relative_url }}) | <time datetime="2025-10-31T02:43:14.094Z">Fri Oct 31 2025 04:43:14 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1170,7 +1171,6 @@ Last updated: <time datetime="2025-11-05T00:15:02.702Z">Wed Nov 05 2025 02:15:02
 | [emo rap]({{ "tags/emo-rap" | relative_url }}) | <time datetime="2025-10-21T04:53:37.931Z">Tue Oct 21 2025 07:53:37 GMT+0300 (Eastern European Summer Time)</time> |
 | [crust]({{ "tags/crust" | relative_url }}) | <time datetime="2025-10-21T04:53:02.610Z">Tue Oct 21 2025 07:53:02 GMT+0300 (Eastern European Summer Time)</time> |
 | [german rap]({{ "tags/german-rap" | relative_url }}) | <time datetime="2025-10-21T04:52:51.682Z">Tue Oct 21 2025 07:52:51 GMT+0300 (Eastern European Summer Time)</time> |
-| [flute]({{ "tags/flute" | relative_url }}) | <time datetime="2025-10-21T04:52:39.663Z">Tue Oct 21 2025 07:52:39 GMT+0300 (Eastern European Summer Time)</time> |
 | [houston rap]({{ "tags/houston-rap" | relative_url }}) | <time datetime="2025-10-21T03:36:26.092Z">Tue Oct 21 2025 06:36:26 GMT+0300 (Eastern European Summer Time)</time> |
 | [electric blues]({{ "tags/electric-blues" | relative_url }}) | <time datetime="2025-10-21T03:35:57.527Z">Tue Oct 21 2025 06:35:57 GMT+0300 (Eastern European Summer Time)</time> |
 | [ritual ambient]({{ "tags/ritual-ambient" | relative_url }}) | <time datetime="2025-10-21T03:35:44.855Z">Tue Oct 21 2025 06:35:44 GMT+0300 (Eastern European Summer Time)</time> |

@@ -9,110 +9,2479 @@ title: ambient electronica
 
 Last updated: <time datetime="2025-10-22T06:29:32.196Z">Wed Oct 22 2025 09:29:32 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Ambient electronica blends the spacious, atmospheric qualities of ambient music with electronic production techniques and subtle rhythmic elements. It creates immersive soundscapes that balance meditative tranquility with digital textures, often incorporating downtempo beats, synthesized tones, and processed field recordings. This hybrid style emerged as electronic music technology made it easier to craft contemplative sonic environments that work equally well for focused listening or as sophisticated background ambience.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 1 |  |  | Nader Kachmar | 20Ten |
-| 2 |  | 2012-06-11 | Vanyamba | Vanyambient |
-| 3 |  |  | Birdhub | Die_ |
-| 4 |  |  | Spatial Distortion | Unreleased Tracks (2005-2010) |
-| 5 |  |  | Rettward von Doernberg | Ambient Electronica |
-| 6 |  |  | Earthmage | Cold Fusion |
-| 20 |  |  | Twilight Tipi | PANSTARRS |
-| 45 | ![Cover](https://i.discogs.com/lpKbq3PuPJpfAlNU8ip60bGlvvkh_jsQgxgZAX3T2OY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE5/MTMtMTM1NjY4NzM0/NC00NDYxLmpwZWc.jpeg) | 1976 | Inga | Riding the Wind |
-| 18 | ![Cover](https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg) | 1977 | Various Artists | Place Language |
-| 43 | ![Cover](https://i.discogs.com/92xItmuQnfQHrlQSWyIn17YqGTlSYBrTmlNPltHWjww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQx/NDItMTI5MTk4MDE3/My5qcGVn.jpeg) | 1985-03-21 | Steve Jansen &amp; Richard Barbieri | Worlds In A Small Room |
-| 21 | ![Cover](https://i.discogs.com/ReDH5uDfm6hRsedX8LNsh0H0jy-E7NPJyk3VAPl0jSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzM3/NDYtMTU3NjE4NTIy/Mi02MTMxLmpwZWc.jpeg) | 1999 | Alec Empire | Rauschgold: Alec Empire Plays Staubgold |
-| 19 | ![Cover](https://i.discogs.com/-2NwAbgrUmgreVPRWlqfIq54A9-F9naaUOP3BkQRaX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njkx/NTItMTU3NjY1OTA2/MC0xOTQ4LmpwZWc.jpeg) | 2000 | Overlap | Repaint EP |
-| 38 |  | 2001-10-08 | Enigma | Love Sensuality Devotion: The Greatest Hits |
-| 16 | ![Cover](https://i.discogs.com/P_uQT44jLVTWfsDxgHuXhPqZ_bSS84SkC1o1ED8DFWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTcy/MS0xMjkyMDY2OTA1/LmdpZg.jpeg) | 2004 | Atarix | :: smooth taste remedy EP :: |
-| 32 | ![Cover](https://i.discogs.com/rz4_VWukLDhgoxmRw12JqiKTiNyPdSH5dc2H4Fl5wNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjIw/OS0xMjQzNDQxNzgx/LmpwZWc.jpeg) | 2004-04 | Phobode | Sogur |
-| 11 | ![Cover](https://i.discogs.com/h5YobcSkULRlc93uj-CzprHJsrDz7ER1yI1BNr3fk9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg3/NjI4LTE2MTcxNzkx/ODktMjUwMi5qcGVn.jpeg) | 2005 | Gultskra Artikler | Golova &#x2F; Online Bonus Track |
-| 23 | ![Cover](https://i.discogs.com/6C1NxkQsTC18oXXIHuN_bb5chcjAkBLDxjNGim_ex0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQw/MzgtMTE5Mzk1MDM5/MS5qcGVn.jpeg) | 2005-11-04 | deemage | nothing happens, everything changes |
-| 46 | ![Cover](https://i.discogs.com/nerQ5xAAUXD8mkcBxKUigaqMJR3gyCi_nac1DMvINRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTYz/NC0xMTQ0NDg3Nzg1/LmpwZWc.jpeg) | 2006-04-07 | Sabi | Streamable Tracks |
-| 41 | ![Cover](https://i.discogs.com/tBbFllYaOCrfKCJE4vVMlbcWmBPhLTHprhd6LZP7nYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ0/NDEtMTE5Mzk5MzY0/NC5naWY.jpeg) | 2007-04-27 | old oldman | the tender ass ep |
-| 29 | ![Cover](https://i.discogs.com/FLmX6ZADGtoBJNpBgOggmgtO_em3X9qzwih1aEdZaGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAx/NTEtMTE4ODEzNTAy/NC5naWY.jpeg) | 2007-07-08 | Morgen Mittag | Astroglitch |
-| 49 | ![Cover](https://i.discogs.com/-U61wgXUj15Z3Ckoy2Dw1nOGgo4jOyjXlLBupxj3l60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTI5/OTktMTQ2NDU2ODI1/MC00MDgzLmpwZWc.jpeg) | 2007-12-03 | Morgen Mittag | Digiwatt Lydt |
-| 22 | ![Cover](https://i.discogs.com/_Q7Y0qrx92tEzsdNEwDHTJ2CCUsd9RLk19GHSOVy6Zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMz/MjctMTIwMjUyMjE3/NC5qcGVn.jpeg) | 2007-12-27 | Lee Rosevere | Devils Tower |
-| 7 | ![Cover](https://i.discogs.com/fDSAuKpgeWWOarm2vOJcXCHa99wiR7gpbVineTbIhes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzI4/NjEtMTIxMDQyNjAz/NC5qcGVn.jpeg) | 2007-12-31 | Synthetic | Winter EP |
-| 9 | ![Cover](https://i.discogs.com/3lmGUol1368vqrkpYvt-J61oqeaE92eELiAYGQ5IrUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDIz/MzQtMTMyODk5ODAy/NS5qcGVn.jpeg) | 2008-05-16 | Oh Yes, By All Means | A Granma |
-| 37 | ![Cover](https://i.discogs.com/3lmGUol1368vqrkpYvt-J61oqeaE92eELiAYGQ5IrUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDIz/MzQtMTMyODk5ODAy/NS5qcGVn.jpeg) | 2008-05-16 | Oh Yes, By All Means | A Granma (incomplete) |
-| 25 | ![Cover](https://i.discogs.com/CsYFDrobXVg5oPm7jpXtrdTSfp5tjx3byUBTz34GB1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njg0/MDQtMTYxNjc0Mjg1/NS01MTE1LmpwZWc.jpeg) | 2008-05-17 | FPRFproject | 2.5-D sketch |
-| 50 | ![Cover](https://i.discogs.com/ftebJRptogQkrLYz6Q0QswgdFRqTWPfEDu3Dz02AFvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM2/NzMtMTIyMDg5MTA3/MC5qcGVn.jpeg) | 2008-09-08 | Apecis | Ao |
-| 17 | ![Cover](https://i.discogs.com/K_5UP6zQCHsR4RfdscttW8Uy8WkF8jeQOkpFJX0kDnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTcy/NDEtMTIzODg4MTQ4/OC5qcGVn.jpeg) | 2009 | Stray Theories | Drift |
-| 33 | ![Cover](https://i.discogs.com/CG3VGh5cKcZVWHp-db5fHEGzFCICbAamgUTOVUSqEyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDU3/MDMtMTMwNjYwNjky/Mi5qcGVn.jpeg) | 2010 | Subterrestrial | Event Horizon |
-| 34 | ![Cover](https://i.discogs.com/CG3VGh5cKcZVWHp-db5fHEGzFCICbAamgUTOVUSqEyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDU3/MDMtMTMwNjYwNjky/Mi5qcGVn.jpeg) | 2010 | Subterrestrial | Subterrestrial |
-| 42 | ![Cover](https://i.discogs.com/5DC99AFZhtXKsS0ZGXOmHhjlqJR3Ot3KUXvTWIj88SA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTc1/MTctMTQxNjMyMTky/NC05OTk4LmpwZWc.jpeg) | 2010-01-01 | Viking Trance | Viking Trance 2 |
-| 12 | ![Cover](https://i.discogs.com/CUvJgSyQUnM4KTQ_1WEep674No-GJj6tSWeTpmOn-js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MjQ2/NDItMTQwNjQ4MzYx/Mi01ODMxLmpwZWc.jpeg) | 2011 | Byrd&#x2F;Thompson | Twilight Tipi |
-| 24 |  | 2011-04-27 | Twilight Tipi | Twilight Tipi |
-| 13 | ![Cover](https://i.discogs.com/wO5l0crmYja7uRT4yszoDqaeQy-ea01HAz2BpSIEmY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDcz/NzctMTMwNjY5MTM4/Ni5qcGVn.jpeg) | 2011-05-29 | Pollux | Music Is My 0² |
-| 26 |  | 2011-06-03 | Subterrestrial | Plasma Weapon |
-| 47 | ![Cover](https://i.discogs.com/oCNgXq_WP1rSD0YT0bACtcevZnypLC1pvLCNvWlnH9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkx/NjY4LTE1ODY1NzY5/NTMtNjczNi5qcGVn.jpeg) | 2011-06-07 | ElectricOkra | ClaireRocket |
-| 8 | ![Cover](https://i.discogs.com/DyyW6ku5H2AqZS19zb01kUL_ExczvEFHbFs_F1EBb-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzUw/NjMtMTMxNzM5Mzgw/NC5qcGVn.jpeg) | 2011-09-08 | Krzysztof Horn | Live Act Night 5 |
-| 14 | ![Cover](https://i.discogs.com/DyyW6ku5H2AqZS19zb01kUL_ExczvEFHbFs_F1EBb-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzUw/NjMtMTMxNzM5Mzgw/NC5qcGVn.jpeg) | 2011-09-08 | Krzysztof Horn | Kinematic Air |
-| 10 | ![Cover](https://i.discogs.com/mY55hJ0vdmWjFUdeIjX346CsDbQDtyRm-ZWZ5r0Ec4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTE1/MzQtMTMyNjEwNDE4/NS5qcGVn.jpeg) | 2011-12-18 | Noisesurfer | Old Autumn Tales EP |
-| 15 |  |  | mizerny | 0-1..0-6 |
-| 27 |  |  | Herdwhite | Bite Glass |
-| 28 |  |  | Shaion | Elements EP |
-| 30 |  |  | Herdwhite | Self Mutation |
-| 31 | ![Cover](https://i.discogs.com/t_M4gvedmDJ4x65JgXdesEordylWj3JQE1yIoPi0DV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDQ2/OTktMTQyMTY3MzM5/MC00MzI2LmpwZWc.jpeg) | 2012-06-25 | Viking Trance | Viking Trance 4 |
-| 35 |  |  | Bobbie Boob | Free Toy Inside! |
-| 36 |  |  | Herdwhite | Despair |
-| 39 | ![Cover](https://i.discogs.com/kG1bHWOQMQjzhTfVM9SGRjQCDdy0xJcj_XsKKuEXrDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDcx/NTQtMTQwMTU0NjA5/NS05MjExLmpwZWc.jpeg) | 2012-06-25 | Viking Trance | Viking Trance |
-| 40 |  |  | Nader Kachmar | Toronto Nites |
-| 44 |  |  | Martin Budd Mono Input | Trip Art Media |
-| 48 |  |  | The Network Effect | Down The Wire |
-| 52 |  |  | Herdwhite | All Out Aggression |
-| 53 | ![Cover](https://i.discogs.com/CVoz7mlzPNYx3XtoalI61PJBPoStbNPbVvTJ8QhsVI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA2/MjItMTE4ODE2Njg3/NS5qcGVn.jpeg) | 2003-06-21 | Restposten | Aufgeräumt |
-| 55 |  |  | The Network Effect | Down the Wire 2 |
-| 66 |  |  | Herdwhite | The Gift |
-| 87 |  |  | Monoinput | Live Feed 2 |
-| 99 |  | 1977 | Various Artists | Hiiro |
-| 95 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1980 | Various Artists | Pingipung Blows: The Brass |
-| 83 | ![Cover](https://i.discogs.com/ikdqovoJP1wJf554wUztZT-qAzuV4Z4L0cZOpB3fx_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjYw/ODUtMTMxNDE3NDk5/My5qcGVn.jpeg) | 1986 | Sam Rosenthal | Before the Buildings Fell |
-| 67 | ![Cover](https://i.discogs.com/txRost4T89TH8mRbY1rdaOGzIFWk8TlqGicW0s9i-RE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTct/MTIyODgzNDE3Ni5q/cGVn.jpeg) | 1995-03-20 | Seefeel | Succor |
-| 71 |  |  | Martin Budd | The Blue Circle Lp Mono Input |
-| 73 |  |  | Martin Budd | Weekly Pressure The Mono Input Album Remastered |
-| 79 |  |  | The Detroit Escalator Co. | Detroit Escalator Company |
-| 88 | ![Cover](https://i.discogs.com/VqrJYtwqiG0ZHHUwUwa08LGvG044hWpKeWfDOm96nag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU5/NjctMTI2NTQ1Mjkw/My5qcGVn.jpeg) | 1981 | Modus | Modus |
-| 94 | ![Cover](https://i.discogs.com/tOvevwE8RnsbNXsYP_np9JbUw9pu1dW7b9bCgSd9ylg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjMw/LTEyODkzMDU4NDcu/anBlZw.jpeg) | 1994 | Reagenz | Reagenz |
-| 93 |  | 1997 | Michael Brook | Albino Alligator |
-| 60 | ![Cover](https://i.discogs.com/-2NwAbgrUmgreVPRWlqfIq54A9-F9naaUOP3BkQRaX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njkx/NTItMTU3NjY1OTA2/MC0xOTQ4LmpwZWc.jpeg) | 2000 | Overlap | FADED |
-| 74 | ![Cover](https://i.discogs.com/bpKabQd4YVk3vp-yjhZxqcsjqedbXzfGRMhKsldFczE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTU4/Ny0xMTI5Mzc0NTU2/LmpwZWc.jpeg) | 2000-07-24 | Chroma Key | You Go Now |
-| 84 | ![Cover](https://i.discogs.com/63KZxdx2vY6Ku89pk68l_wFuQDUgT0q_U6PH3azcZBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTk1/LTEzMzM4MDEzNjYu/anBlZw.jpeg) | 2001 | The Bionaut | Lubricate Your Living Room |
-| 85 |  | 2002-09-07 | Sabi | Four Thousand Years EP |
-| 64 | ![Cover](https://i.discogs.com/0VQc_G1DO1ZQxrxAGy7CenOB0DcewIejPAGqGvaGYo8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjE1/My0xMjgxNjUzODI1/LmpwZWc.jpeg) | 2004 | Remote Spaces | Silos |
-| 65 | ![Cover](https://i.discogs.com/wTPs7bojJmRt9jIkkEpW7jJ877XsoVG5cbLZwN0KuXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ5/ODg5LTE2MDU5Nzc1/NTMtODU4MS5qcGVn.jpeg) | 2004 | Aetherius | The Inevitability of Pain (and the stupidity of those who don&#39;t expect it) |
-| 68 | ![Cover](https://i.discogs.com/xlU_RaCY721SeLCZCNcG3SKG9wfQvIQxOc-66FUhgc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzc4/Ny0xMTg0NDk5MjY2/LmpwZWc.jpeg) | 2004 | Polaris | Moo&#39;n&#39;Sequences |
-| 81 | ![Cover](https://i.discogs.com/Ht-Atcgc4XXNICiUlxRSP1VNHwvUGBdxRTr53rONTec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjE4/Ny0xNDY0ODU4MDg1/LTQ4MjUucG5n.jpeg) | 2004-04 | Gultskra Artikler | Golova |
-| 89 |  | 2004-05-18 | Takashi Wada | Meguro |
-| 61 | ![Cover](https://i.discogs.com/3xTvyxomvpYfxGF4yq4-OaECIrBR7da-p7QcmbHeRk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjA3/NzEtMTE4OTAyMDA1/NS5qcGVn.jpeg) | 2004-06-20 | Talvel | Otsos |
-| 51 | ![Cover](https://i.discogs.com/efUS-NfDyjNDLMES4prH3z0fyzchjNQM6vSZ1_7Ls4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTcy/Ni0xMTgwODY4ODA4/LmpwZWc.jpeg) | 2005 | Polaris | Re:Transmission |
-| 69 |  | 2005 | Formication | Pieces For A Condemned Piano |
-| 90 | ![Cover](https://i.discogs.com/l06cmHerBhwU1k34gRNk4ScS7HRL7u3Fap7YlLuwx9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTkz/NTQtMTQxOTc3NjQ4/Mi04NjY5LmpwZWc.jpeg) | 2005 | PolyGroovers | Moods For Take Out |
-| 54 | ![Cover](https://i.discogs.com/Ytjf52T78iWX8k3cnkJEoShRfeINb3uIaPHKXWHL7Fk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjEw/NC0xMTU0NTU0NjI1/LmpwZWc.jpeg) | 2005-01-27 | serjio hakinen | Jive EP |
-| 76 | ![Cover](https://i.discogs.com/6hhclc3USL0EKMVQHGpUmZbKrRORByc_Ce8ULrNPvdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjEx/MjMtMTE5MzY5Mzc2/Ny5qcGVn.jpeg) | 2005-02-17 | Holden | ten |
-| 97 | ![Cover](https://i.discogs.com/h_dY2hrMFZwvav9s6aCuXYg36ntpKLKrIUpjqCr6tFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTEx/OC0xMTUxNjkyNjY1/LmpwZWc.jpeg) | 2005-06-25 | Mind Necrosis Factor | Entropy |
-| 98 | ![Cover](https://i.discogs.com/7eIMAQcOZTkrwuAz5l4tpisOVfM7-u8Rsxc_zxivVpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NjAx/MTItMTQ2NjA5NTc0/OS02NDM4LmpwZWc.jpeg) | 2005-12-09 | Ambient Generation | Passive Aggressive |
-| 58 | ![Cover](https://i.discogs.com/5wLF0lkwVt1yRxtcrg8JADVtuVNdSkx0CL8AScQrsz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzc1/NS0xMTQxNzQ5Nzc1/LmpwZWc.jpeg) | 2006-03-05 | Sabi | Linedrop Remix EP |
-| 91 |  | 2006-03-05 | Sabi | Unsui EP |
-| 82 |  | 2006-05-02 | Cibelle | The Shine Of Dried Electric Leaves |
-| 57 |  | 2006-07-01 | Jette-Ives | In the Deep |
-| 72 | ![Cover](https://i.discogs.com/PB5VosSde7UiFfA7ivcJl5E1Hqi9BzLnk3uoz8kPVqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTUw/NzktMTE5MTQ1NjQx/MC5qcGVn.jpeg) | 2007 | Iëlo | Calm Before Dawn |
-| 86 |  | 2008-03-25 | Robert Rich &amp; Ian Boddy | React |
-| 92 | ![Cover](https://i.discogs.com/7cmWmUwD0mMiSKij3di_LLDqV35d0Fsb6vIrGqPd6-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU1/NTUtMTIxMjMzNzc3/MS5qcGVn.jpeg) | 2008-05-26 | Mind Necrosis Factor | Morphogenesis |
-| 80 |  | 2009 | PolyGroovers | Trips and Ticks |
-| 77 | ![Cover](https://i.discogs.com/kIc28jnZ_h2GlYkhe_tvXII1BxAVfRD3PKVM1q9G4IY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjYw/ODktMTI1OTMxNzU0/Ny5qcGVn.jpeg) | 2009-11-18 | AquaFur | Fuzzy Emotions |
-| 56 | ![Cover](https://i.discogs.com/LPx1MbcO-U0lVaLptUCV56AZ8g1DJUCdRmwzwe7KyhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTQ4/ODktMTM2NDI1NTMx/Mi03NDc1LmpwZWc.jpeg) | 2012-05-31 | Harmful Logic | Lies and Distrust EP |
-| 59 |  |  | Herdwhite | Lost In The Big City |
-| 62 |  | 2008-09-10 | Jewish Funerals Burial and Mourning | Espér and Man Theo |
-| 63 |  |  | Martin Budd Mono Input | Time Mapped Time V2 |
-| 70 |  |  | Mono Input | Closed Book |
-| 100 | ![Cover](https://i.discogs.com/mUWnqLr4EG6KnZHTOsFR1AfXTnqV3y-W4SheeRCElZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjA0/OTgtMTMyMTA0NTE5/OC5qcGVn.jpeg) | 2011-11-14 | Steve Hauschildt | Tragedy &amp; Geometry |
-| 78 | ![Cover](https://i.discogs.com/RAy8pOirkZueJBa8ulAcLlpCoQtdqBE8MYOxBogrJ24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzgz/OTktMTM4OTQzMDgw/Ni0yMzE4LmpwZWc.jpeg) | 2014 | Flaer Smin | Collapse |
-| 75 | ![Cover](https://i.discogs.com/vqSRUbaNbBbyh9MwhAP2dR0r2ac6ZDjW-zTGTSUMzKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDYy/LTEyOTEwNjIyMTku/anBlZw.jpeg) | 2014-10-06 | Sven Väth | The Harlequin, The Robot And The Ballet-Dancer |
-| 96 | ![Cover](https://i.discogs.com/IjvyG6Sxdc2mZNRm7W-LsdE5Lj8qIt0msvIM8_wdjEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzc0/MjAxLTE2MzI2NTcy/OTktOTU2MS5qcGVn.jpeg) | 2020-02-14 | Sabi | Free Tracks |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/lpKbq3PuPJpfAlNU8ip60bGlvvkh_jsQgxgZAX3T2OY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE5/MTMtMTM1NjY4NzM0/NC00NDYxLmpwZWc.jpeg" alt="Cover for Riding the Wind" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Inga</td>
+      <td>Riding the Wind</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg" alt="Cover for Place Language" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Place Language</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Hiiro</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Pingipung Blows: The Brass" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980</td>
+      <td>Various Artists</td>
+      <td>Pingipung Blows: The Brass</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/VqrJYtwqiG0ZHHUwUwa08LGvG044hWpKeWfDOm96nag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU5/NjctMTI2NTQ1Mjkw/My5qcGVn.jpeg" alt="Cover for Modus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1981</td>
+      <td>Modus</td>
+      <td>Modus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 49</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 67</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/92xItmuQnfQHrlQSWyIn17YqGTlSYBrTmlNPltHWjww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQx/NDItMTI5MTk4MDE3/My5qcGVn.jpeg" alt="Cover for Worlds In A Small Room" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985-03-21</td>
+      <td>Steve Jansen &amp; Richard Barbieri</td>
+      <td>Worlds In A Small Room</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/ikdqovoJP1wJf554wUztZT-qAzuV4Z4L0cZOpB3fx_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjYw/ODUtMTMxNDE3NDk5/My5qcGVn.jpeg" alt="Cover for Before the Buildings Fell" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Sam Rosenthal</td>
+      <td>Before the Buildings Fell</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/tOvevwE8RnsbNXsYP_np9JbUw9pu1dW7b9bCgSd9ylg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjMw/LTEyODkzMDU4NDcu/anBlZw.jpeg" alt="Cover for Reagenz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Reagenz</td>
+      <td>Reagenz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/txRost4T89TH8mRbY1rdaOGzIFWk8TlqGicW0s9i-RE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTct/MTIyODgzNDE3Ni5q/cGVn.jpeg" alt="Cover for Succor" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-03-20</td>
+      <td>Seefeel</td>
+      <td>Succor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Michael Brook</td>
+      <td>Albino Alligator</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/ReDH5uDfm6hRsedX8LNsh0H0jy-E7NPJyk3VAPl0jSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzM3/NDYtMTU3NjE4NTIy/Mi02MTMxLmpwZWc.jpeg" alt="Cover for Rauschgold: Alec Empire Plays Staubgold" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Alec Empire</td>
+      <td>Rauschgold: Alec Empire Plays Staubgold</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/-2NwAbgrUmgreVPRWlqfIq54A9-F9naaUOP3BkQRaX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njkx/NTItMTU3NjY1OTA2/MC0xOTQ4LmpwZWc.jpeg" alt="Cover for Repaint EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Overlap</td>
+      <td>Repaint EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/-2NwAbgrUmgreVPRWlqfIq54A9-F9naaUOP3BkQRaX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njkx/NTItMTU3NjY1OTA2/MC0xOTQ4LmpwZWc.jpeg" alt="Cover for FADED" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Overlap</td>
+      <td>FADED</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/bpKabQd4YVk3vp-yjhZxqcsjqedbXzfGRMhKsldFczE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTU4/Ny0xMTI5Mzc0NTU2/LmpwZWc.jpeg" alt="Cover for You Go Now" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-07-24</td>
+      <td>Chroma Key</td>
+      <td>You Go Now</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/63KZxdx2vY6Ku89pk68l_wFuQDUgT0q_U6PH3azcZBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTk1/LTEzMzM4MDEzNjYu/anBlZw.jpeg" alt="Cover for Lubricate Your Living Room" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>The Bionaut</td>
+      <td>Lubricate Your Living Room</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td>2001-10-08</td>
+      <td>Enigma</td>
+      <td>Love Sensuality Devotion: The Greatest Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>2002-09-07</td>
+      <td>Sabi</td>
+      <td>Four Thousand Years EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/CVoz7mlzPNYx3XtoalI61PJBPoStbNPbVvTJ8QhsVI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA2/MjItMTE4ODE2Njg3/NS5qcGVn.jpeg" alt="Cover for Aufgeräumt" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-06-21</td>
+      <td>Restposten</td>
+      <td>Aufgeräumt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/wTPs7bojJmRt9jIkkEpW7jJ877XsoVG5cbLZwN0KuXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ5/ODg5LTE2MDU5Nzc1/NTMtODU4MS5qcGVn.jpeg" alt="Cover for The Inevitability of Pain (and the stupidity of those who don&#39;t expect it)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Aetherius</td>
+      <td>The Inevitability of Pain (and the stupidity of those who don&#39;t expect it)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/canada" | relative_url }}">canada</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 5</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 14</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 19</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 34</li>
+            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/P_uQT44jLVTWfsDxgHuXhPqZ_bSS84SkC1o1ED8DFWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTcy/MS0xMjkyMDY2OTA1/LmdpZg.jpeg" alt="Cover for :: smooth taste remedy EP ::" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Atarix</td>
+      <td>:: smooth taste remedy EP ::</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/0VQc_G1DO1ZQxrxAGy7CenOB0DcewIejPAGqGvaGYo8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjE1/My0xMjgxNjUzODI1/LmpwZWc.jpeg" alt="Cover for Silos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Remote Spaces</td>
+      <td>Silos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/xlU_RaCY721SeLCZCNcG3SKG9wfQvIQxOc-66FUhgc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzc4/Ny0xMTg0NDk5MjY2/LmpwZWc.jpeg" alt="Cover for Moo&#39;n&#39;Sequences" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Polaris</td>
+      <td>Moo&#39;n&#39;Sequences</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/Ht-Atcgc4XXNICiUlxRSP1VNHwvUGBdxRTr53rONTec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjE4/Ny0xNDY0ODU4MDg1/LTQ4MjUucG5n.jpeg" alt="Cover for Golova" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-04</td>
+      <td>Gultskra Artikler</td>
+      <td>Golova</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 20</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/rz4_VWukLDhgoxmRw12JqiKTiNyPdSH5dc2H4Fl5wNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjIw/OS0xMjQzNDQxNzgx/LmpwZWc.jpeg" alt="Cover for Sogur" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-04</td>
+      <td>Phobode</td>
+      <td>Sogur</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td>2004-05-18</td>
+      <td>Takashi Wada</td>
+      <td>Meguro</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/3xTvyxomvpYfxGF4yq4-OaECIrBR7da-p7QcmbHeRk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjA3/NzEtMTE4OTAyMDA1/NS5qcGVn.jpeg" alt="Cover for Otsos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-06-20</td>
+      <td>Talvel</td>
+      <td>Otsos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 69</li>
+            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/l06cmHerBhwU1k34gRNk4ScS7HRL7u3Fap7YlLuwx9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTkz/NTQtMTQxOTc3NjQ4/Mi04NjY5LmpwZWc.jpeg" alt="Cover for Moods For Take Out" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>PolyGroovers</td>
+      <td>Moods For Take Out</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 59</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 63</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/h5YobcSkULRlc93uj-CzprHJsrDz7ER1yI1BNr3fk9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg3/NjI4LTE2MTcxNzkx/ODktMjUwMi5qcGVn.jpeg" alt="Cover for Golova &#x2F; Online Bonus Track" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Gultskra Artikler</td>
+      <td>Golova &#x2F; Online Bonus Track</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/efUS-NfDyjNDLMES4prH3z0fyzchjNQM6vSZ1_7Ls4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTcy/Ni0xMTgwODY4ODA4/LmpwZWc.jpeg" alt="Cover for Re:Transmission" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Polaris</td>
+      <td>Re:Transmission</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Formication</td>
+      <td>Pieces For A Condemned Piano</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/Ytjf52T78iWX8k3cnkJEoShRfeINb3uIaPHKXWHL7Fk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjEw/NC0xMTU0NTU0NjI1/LmpwZWc.jpeg" alt="Cover for Jive EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-01-27</td>
+      <td>serjio hakinen</td>
+      <td>Jive EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip" | relative_url }}">trip</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 59</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/6hhclc3USL0EKMVQHGpUmZbKrRORByc_Ce8ULrNPvdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjEx/MjMtMTE5MzY5Mzc2/Ny5qcGVn.jpeg" alt="Cover for ten" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-02-17</td>
+      <td>Holden</td>
+      <td>ten</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/h_dY2hrMFZwvav9s6aCuXYg36ntpKLKrIUpjqCr6tFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTEx/OC0xMTUxNjkyNjY1/LmpwZWc.jpeg" alt="Cover for Entropy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-06-25</td>
+      <td>Mind Necrosis Factor</td>
+      <td>Entropy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 6</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 63</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 72</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 86</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 92</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 92</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/6C1NxkQsTC18oXXIHuN_bb5chcjAkBLDxjNGim_ex0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQw/MzgtMTE5Mzk1MDM5/MS5qcGVn.jpeg" alt="Cover for nothing happens, everything changes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-11-04</td>
+      <td>deemage</td>
+      <td>nothing happens, everything changes</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/7eIMAQcOZTkrwuAz5l4tpisOVfM7-u8Rsxc_zxivVpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NjAx/MTItMTQ2NjA5NTc0/OS02NDM4LmpwZWc.jpeg" alt="Cover for Passive Aggressive" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-12-09</td>
+      <td>Ambient Generation</td>
+      <td>Passive Aggressive</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/5wLF0lkwVt1yRxtcrg8JADVtuVNdSkx0CL8AScQrsz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzc1/NS0xMTQxNzQ5Nzc1/LmpwZWc.jpeg" alt="Cover for Linedrop Remix EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-03-05</td>
+      <td>Sabi</td>
+      <td>Linedrop Remix EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td>2006-03-05</td>
+      <td>Sabi</td>
+      <td>Unsui EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/nerQ5xAAUXD8mkcBxKUigaqMJR3gyCi_nac1DMvINRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTYz/NC0xMTQ0NDg3Nzg1/LmpwZWc.jpeg" alt="Cover for Streamable Tracks" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-04-07</td>
+      <td>Sabi</td>
+      <td>Streamable Tracks</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>2006-05-02</td>
+      <td>Cibelle</td>
+      <td>The Shine Of Dried Electric Leaves</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>2006-07-01</td>
+      <td>Jette-Ives</td>
+      <td>In the Deep</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 13</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 32</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 48</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/PB5VosSde7UiFfA7ivcJl5E1Hqi9BzLnk3uoz8kPVqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTUw/NzktMTE5MTQ1NjQx/MC5qcGVn.jpeg" alt="Cover for Calm Before Dawn" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Iëlo</td>
+      <td>Calm Before Dawn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/tBbFllYaOCrfKCJE4vVMlbcWmBPhLTHprhd6LZP7nYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ0/NDEtMTE5Mzk5MzY0/NC5naWY.jpeg" alt="Cover for the tender ass ep" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-04-27</td>
+      <td>old oldman</td>
+      <td>the tender ass ep</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/FLmX6ZADGtoBJNpBgOggmgtO_em3X9qzwih1aEdZaGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAx/NTEtMTE4ODEzNTAy/NC5naWY.jpeg" alt="Cover for Astroglitch" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-07-08</td>
+      <td>Morgen Mittag</td>
+      <td>Astroglitch</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 6</li>
+            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/-U61wgXUj15Z3Ckoy2Dw1nOGgo4jOyjXlLBupxj3l60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTI5/OTktMTQ2NDU2ODI1/MC00MDgzLmpwZWc.jpeg" alt="Cover for Digiwatt Lydt" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-12-03</td>
+      <td>Morgen Mittag</td>
+      <td>Digiwatt Lydt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 42</li>
+            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/_Q7Y0qrx92tEzsdNEwDHTJ2CCUsd9RLk19GHSOVy6Zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMz/MjctMTIwMjUyMjE3/NC5qcGVn.jpeg" alt="Cover for Devils Tower" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-12-27</td>
+      <td>Lee Rosevere</td>
+      <td>Devils Tower</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/fDSAuKpgeWWOarm2vOJcXCHa99wiR7gpbVineTbIhes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzI4/NjEtMTIxMDQyNjAz/NC5qcGVn.jpeg" alt="Cover for Winter EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-12-31</td>
+      <td>Synthetic</td>
+      <td>Winter EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td>2008-03-25</td>
+      <td>Robert Rich &amp; Ian Boddy</td>
+      <td>React</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/3lmGUol1368vqrkpYvt-J61oqeaE92eELiAYGQ5IrUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDIz/MzQtMTMyODk5ODAy/NS5qcGVn.jpeg" alt="Cover for A Granma" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-05-16</td>
+      <td>Oh Yes, By All Means</td>
+      <td>A Granma</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/3lmGUol1368vqrkpYvt-J61oqeaE92eELiAYGQ5IrUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDIz/MzQtMTMyODk5ODAy/NS5qcGVn.jpeg" alt="Cover for A Granma (incomplete)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-05-16</td>
+      <td>Oh Yes, By All Means</td>
+      <td>A Granma (incomplete)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/CsYFDrobXVg5oPm7jpXtrdTSfp5tjx3byUBTz34GB1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njg0/MDQtMTYxNjc0Mjg1/NS01MTE1LmpwZWc.jpeg" alt="Cover for 2.5-D sketch" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-05-17</td>
+      <td>FPRFproject</td>
+      <td>2.5-D sketch</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/7cmWmUwD0mMiSKij3di_LLDqV35d0Fsb6vIrGqPd6-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU1/NTUtMTIxMjMzNzc3/MS5qcGVn.jpeg" alt="Cover for Morphogenesis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-05-26</td>
+      <td>Mind Necrosis Factor</td>
+      <td>Morphogenesis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 9</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 60</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 62</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 80</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 85</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 87</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/ftebJRptogQkrLYz6Q0QswgdFRqTWPfEDu3Dz02AFvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM2/NzMtMTIyMDg5MTA3/MC5qcGVn.jpeg" alt="Cover for Ao" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-09-08</td>
+      <td>Apecis</td>
+      <td>Ao</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>2008-09-10</td>
+      <td>Jewish Funerals Burial and Mourning</td>
+      <td>Espér and Man Theo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>PolyGroovers</td>
+      <td>Trips and Ticks</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/K_5UP6zQCHsR4RfdscttW8Uy8WkF8jeQOkpFJX0kDnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTcy/NDEtMTIzODg4MTQ4/OC5qcGVn.jpeg" alt="Cover for Drift" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Stray Theories</td>
+      <td>Drift</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/kIc28jnZ_h2GlYkhe_tvXII1BxAVfRD3PKVM1q9G4IY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjYw/ODktMTI1OTMxNzU0/Ny5qcGVn.jpeg" alt="Cover for Fuzzy Emotions" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-11-18</td>
+      <td>AquaFur</td>
+      <td>Fuzzy Emotions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 54</li>
+            <li> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/CG3VGh5cKcZVWHp-db5fHEGzFCICbAamgUTOVUSqEyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDU3/MDMtMTMwNjYwNjky/Mi5qcGVn.jpeg" alt="Cover for Event Horizon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Subterrestrial</td>
+      <td>Event Horizon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/CG3VGh5cKcZVWHp-db5fHEGzFCICbAamgUTOVUSqEyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDU3/MDMtMTMwNjYwNjky/Mi5qcGVn.jpeg" alt="Cover for Subterrestrial" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Subterrestrial</td>
+      <td>Subterrestrial</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/5DC99AFZhtXKsS0ZGXOmHhjlqJR3Ot3KUXvTWIj88SA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTc1/MTctMTQxNjMyMTky/NC05OTk4LmpwZWc.jpeg" alt="Cover for Viking Trance 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-01-01</td>
+      <td>Viking Trance</td>
+      <td>Viking Trance 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/CUvJgSyQUnM4KTQ_1WEep674No-GJj6tSWeTpmOn-js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MjQ2/NDItMTQwNjQ4MzYx/Mi01ODMxLmpwZWc.jpeg" alt="Cover for Twilight Tipi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Byrd&#x2F;Thompson</td>
+      <td>Twilight Tipi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+      </td>
+      <td>2011-04-27</td>
+      <td>Twilight Tipi</td>
+      <td>Twilight Tipi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/wO5l0crmYja7uRT4yszoDqaeQy-ea01HAz2BpSIEmY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDcz/NzctMTMwNjY5MTM4/Ni5qcGVn.jpeg" alt="Cover for Music Is My 0²" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-05-29</td>
+      <td>Pollux</td>
+      <td>Music Is My 0²</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+      </td>
+      <td>2011-06-03</td>
+      <td>Subterrestrial</td>
+      <td>Plasma Weapon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/oCNgXq_WP1rSD0YT0bACtcevZnypLC1pvLCNvWlnH9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkx/NjY4LTE1ODY1NzY5/NTMtNjczNi5qcGVn.jpeg" alt="Cover for ClaireRocket" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-06-07</td>
+      <td>ElectricOkra</td>
+      <td>ClaireRocket</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brass" | relative_url }}">brass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 3</li>
+            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/DyyW6ku5H2AqZS19zb01kUL_ExczvEFHbFs_F1EBb-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzUw/NjMtMTMxNzM5Mzgw/NC5qcGVn.jpeg" alt="Cover for Live Act Night 5" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-09-08</td>
+      <td>Krzysztof Horn</td>
+      <td>Live Act Night 5</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/DyyW6ku5H2AqZS19zb01kUL_ExczvEFHbFs_F1EBb-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzUw/NjMtMTMxNzM5Mzgw/NC5qcGVn.jpeg" alt="Cover for Kinematic Air" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-09-08</td>
+      <td>Krzysztof Horn</td>
+      <td>Kinematic Air</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/mUWnqLr4EG6KnZHTOsFR1AfXTnqV3y-W4SheeRCElZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjA0/OTgtMTMyMTA0NTE5/OC5qcGVn.jpeg" alt="Cover for Tragedy &amp; Geometry" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-11-14</td>
+      <td>Steve Hauschildt</td>
+      <td>Tragedy &amp; Geometry</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/mY55hJ0vdmWjFUdeIjX346CsDbQDtyRm-ZWZ5r0Ec4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTE1/MzQtMTMyNjEwNDE4/NS5qcGVn.jpeg" alt="Cover for Old Autumn Tales EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-12-18</td>
+      <td>Noisesurfer</td>
+      <td>Old Autumn Tales EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/LPx1MbcO-U0lVaLptUCV56AZ8g1DJUCdRmwzwe7KyhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTQ4/ODktMTM2NDI1NTMx/Mi03NDc1LmpwZWc.jpeg" alt="Cover for Lies and Distrust EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-05-31</td>
+      <td>Harmful Logic</td>
+      <td>Lies and Distrust EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2012-06-11</td>
+      <td>Vanyamba</td>
+      <td>Vanyambient</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/t_M4gvedmDJ4x65JgXdesEordylWj3JQE1yIoPi0DV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDQ2/OTktMTQyMTY3MzM5/MC00MzI2LmpwZWc.jpeg" alt="Cover for Viking Trance 4" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-06-25</td>
+      <td>Viking Trance</td>
+      <td>Viking Trance 4</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/kG1bHWOQMQjzhTfVM9SGRjQCDdy0xJcj_XsKKuEXrDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDcx/NTQtMTQwMTU0NjA5/NS05MjExLmpwZWc.jpeg" alt="Cover for Viking Trance" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-06-25</td>
+      <td>Viking Trance</td>
+      <td>Viking Trance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/RAy8pOirkZueJBa8ulAcLlpCoQtdqBE8MYOxBogrJ24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzgz/OTktMTM4OTQzMDgw/Ni0yMzE4LmpwZWc.jpeg" alt="Cover for Collapse" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Flaer Smin</td>
+      <td>Collapse</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/vqSRUbaNbBbyh9MwhAP2dR0r2ac6ZDjW-zTGTSUMzKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDYy/LTEyOTEwNjIyMTku/anBlZw.jpeg" alt="Cover for The Harlequin, The Robot And The Ballet-Dancer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-10-06</td>
+      <td>Sven Väth</td>
+      <td>The Harlequin, The Robot And The Ballet-Dancer</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/IjvyG6Sxdc2mZNRm7W-LsdE5Lj8qIt0msvIM8_wdjEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzc0/MjAxLTE2MzI2NTcy/OTktOTU2MS5qcGVn.jpeg" alt="Cover for Free Tracks" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-02-14</td>
+      <td>Sabi</td>
+      <td>Free Tracks</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td></td>
+      <td>mizerny</td>
+      <td>0-1..0-6</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 16</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Shaion</td>
+      <td>Elements EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Herdwhite</td>
+      <td>Self Mutation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Herdwhite</td>
+      <td>Despair</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 11</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Network Effect</td>
+      <td>Down The Wire</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Herdwhite</td>
+      <td>All Out Aggression</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Network Effect</td>
+      <td>Down the Wire 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 4</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 10</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Herdwhite</td>
+      <td>Lost In The Big City</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Martin Budd Mono Input</td>
+      <td>Time Mapped Time V2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 12</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Herdwhite</td>
+      <td>The Gift</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 16</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mono Input</td>
+      <td>Closed Book</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 22</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Martin Budd</td>
+      <td>The Blue Circle Lp Mono Input</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 25</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Martin Budd</td>
+      <td>Weekly Pressure The Mono Input Album Remastered</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 27</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Detroit Escalator Co.</td>
+      <td>Detroit Escalator Company</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Monoinput</td>
+      <td>Live Feed 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 60</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Nader Kachmar</td>
+      <td>20Ten</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Birdhub</td>
+      <td>Die_</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Spatial Distortion</td>
+      <td>Unreleased Tracks (2005-2010)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Rettward von Doernberg</td>
+      <td>Ambient Electronica</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Earthmage</td>
+      <td>Cold Fusion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Twilight Tipi</td>
+      <td>PANSTARRS</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Herdwhite</td>
+      <td>Bite Glass</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Bobbie Boob</td>
+      <td>Free Toy Inside!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Nader Kachmar</td>
+      <td>Toronto Nites</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Martin Budd Mono Input</td>
+      <td>Trip Art Media</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
