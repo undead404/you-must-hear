@@ -9,6 +9,10 @@ title: zen
 
 Last updated: <time datetime="2025-11-03T17:25:48.087Z">Mon Nov 03 2025 19:25:48 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Zen music creates contemplative soundscapes designed to facilitate meditation, mindfulness, and inner peace. Drawing from East Asian Buddhist traditions and modern ambient influences, it features sparse instrumentation, natural sounds, and gentle melodies that encourage deep relaxation. The music emphasizes simplicity and空間 (ma&#x2F;space), allowing silence to be as important as sound itself.
+
 ### 100 chronological releases
 
 <table>
@@ -1454,7 +1458,7 @@ Last updated: <time datetime="2025-11-03T17:25:48.087Z">Mon Nov 03 2025 19:25:48
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 17</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 18</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T11:27:51.000Z
+date: 2025-11-05T01:54:51.761Z
 permalink: tags/psydub
 title: psydub
 ---
 
 ## psydub
 
-Last updated: <time datetime="2025-11-03T11:27:51.000Z">Mon Nov 03 2025 13:27:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-05T01:54:51.761Z">Wed Nov 05 2025 03:54:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -225,24 +225,6 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
         <ul>
             <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 75</li>
             <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 89</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>1997-11</td>
-      <td>Various Artists</td>
-      <td>I In The Sky EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -2030,6 +2012,28 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>JahPAWO.</td>
+      <td>Worldly.Tales.4.Those.WithOut.Voices</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
       <td>

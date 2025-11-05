@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-05T01:36:10.569Z
+date: 2025-11-05T01:54:51.761Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-05T01:36:10.569Z">Wed Nov 05 2025 03:36:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-05T01:54:51.761Z">Wed Nov 05 2025 03:54:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [psydub]({{ "tags/psydub" | relative_url }}) | <time datetime="2025-11-05T01:54:51.761Z">Wed Nov 05 2025 03:54:51 GMT+0200 (Eastern European Standard Time)</time> |
+| [native american]({{ "tags/native-american" | relative_url }}) | <time datetime="2025-11-05T01:50:51.212Z">Wed Nov 05 2025 03:50:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [flute]({{ "tags/flute" | relative_url }}) | <time datetime="2025-11-05T01:36:10.569Z">Wed Nov 05 2025 03:36:10 GMT+0200 (Eastern European Standard Time)</time> |
 | [australian]({{ "tags/australian" | relative_url }}) | <time datetime="2025-11-05T01:35:18.342Z">Wed Nov 05 2025 03:35:18 GMT+0200 (Eastern European Standard Time)</time> |
 | [brass]({{ "tags/brass" | relative_url }}) | <time datetime="2025-11-05T00:15:02.702Z">Wed Nov 05 2025 02:15:02 GMT+0200 (Eastern European Standard Time)</time> |
@@ -133,7 +135,6 @@ Last updated: <time datetime="2025-11-05T01:36:10.569Z">Wed Nov 05 2025 03:36:10
 | [christian metal]({{ "tags/christian-metal" | relative_url }}) | <time datetime="2025-11-03T11:59:50.973Z">Mon Nov 03 2025 13:59:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [j-metal]({{ "tags/j-metal" | relative_url }}) | <time datetime="2025-11-03T11:54:50.985Z">Mon Nov 03 2025 13:54:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [garage rock revival]({{ "tags/garage-rock-revival" | relative_url }}) | <time datetime="2025-11-03T11:41:51.475Z">Mon Nov 03 2025 13:41:51 GMT+0200 (Eastern European Standard Time)</time> |
-| [psydub]({{ "tags/psydub" | relative_url }}) | <time datetime="2025-11-03T11:27:51.000Z">Mon Nov 03 2025 13:27:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [detroit techno]({{ "tags/detroit-techno" | relative_url }}) | <time datetime="2025-11-03T11:04:51.516Z">Mon Nov 03 2025 13:04:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [chilean]({{ "tags/chilean" | relative_url }}) | <time datetime="2025-11-03T11:00:51.053Z">Mon Nov 03 2025 13:00:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [guitar rock]({{ "tags/guitar-rock" | relative_url }}) | <time datetime="2025-11-03T10:42:43.292Z">Mon Nov 03 2025 12:42:43 GMT+0200 (Eastern European Standard Time)</time> |
@@ -755,7 +756,6 @@ Last updated: <time datetime="2025-11-05T01:36:10.569Z">Wed Nov 05 2025 03:36:10
 | [8-bit]({{ "tags/8-bit" | relative_url }}) | <time datetime="2025-10-26T07:44:33.969Z">Sun Oct 26 2025 09:44:33 GMT+0200 (Eastern European Standard Time)</time> |
 | [trova]({{ "tags/trova" | relative_url }}) | <time datetime="2025-10-26T05:59:14.974Z">Sun Oct 26 2025 07:59:14 GMT+0200 (Eastern European Standard Time)</time> |
 | [pagan]({{ "tags/pagan" | relative_url }}) | <time datetime="2025-10-26T04:30:06.938Z">Sun Oct 26 2025 06:30:06 GMT+0200 (Eastern European Standard Time)</time> |
-| [native american]({{ "tags/native-american" | relative_url }}) | <time datetime="2025-10-26T04:28:13.151Z">Sun Oct 26 2025 06:28:13 GMT+0200 (Eastern European Standard Time)</time> |
 | [experimental indie]({{ "tags/experimental-indie" | relative_url }}) | <time datetime="2025-10-26T04:27:53.821Z">Sun Oct 26 2025 06:27:53 GMT+0200 (Eastern European Standard Time)</time> |
 | [alternative hip hop]({{ "tags/alternative-hip-hop" | relative_url }}) | <time datetime="2025-10-26T04:14:55.054Z">Sun Oct 26 2025 06:14:55 GMT+0200 (Eastern European Standard Time)</time> |
 | [ambient industrial]({{ "tags/ambient-industrial" | relative_url }}) | <time datetime="2025-10-26T03:17:10.543Z">Sun Oct 26 2025 05:17:10 GMT+0200 (Eastern European Standard Time)</time> |
