@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T17:25:00.335Z
+date: 2025-11-05T05:31:51.566Z
 permalink: tags/spanish-guitar
 title: spanish guitar
 ---
 
 ## spanish guitar
 
-Last updated: <time datetime="2025-11-03T17:25:00.335Z">Mon Nov 03 2025 19:25:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-05T05:31:51.566Z">Wed Nov 05 2025 07:31:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1170,8 +1170,8 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       <td>
           <img src="https://i.discogs.com/mtP-I78lDKCUe2gBNSw49iJ_IRAP8byve9sqS6AjaSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzA5/ODYtMTQyMzQ2ODk2/OS00MTk1LmpwZWc.jpeg" alt="Cover for Möbius" style="max-width:120px; height:auto;" />
       </td>
-      <td>2004-09-29</td>
-      <td>Rin</td>
+      <td>2004-05-12</td>
+      <td>RIN</td>
       <td>Möbius</td>
       <td>
         <ul>
