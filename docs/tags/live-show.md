@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T22:57:52.525Z
+date: 2025-11-05T16:02:52.418Z
 permalink: tags/live-show
 title: live show
 ---
 
 ## live show
 
-Last updated: <time datetime="2025-10-28T22:57:52.525Z">Wed Oct 29 2025 00:57:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-05T16:02:52.418Z">Wed Nov 05 2025 18:02:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
   </thead>
   <tbody>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
       </td>
       <td>1976</td>
@@ -46,7 +46,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/ltJBQQ73UxDIZPGj1oIiu-8FO7U1Zi9bTyQucoOwc9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg0/NzUyLTE1Mjg2NTMy/MjgtMjQwMS5qcGVn.jpeg" alt="Cover for The Closing of Winterland" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +66,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>1979</td>
@@ -83,7 +83,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td>1979</td>
@@ -100,7 +100,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td>1979</td>
@@ -117,7 +117,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
       </td>
       <td>1979</td>
@@ -134,7 +134,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
       </td>
       <td>1980</td>
@@ -151,7 +151,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/NjVFmq4NepvU6Zwnyyx0osuAD6G0Q1tJV-gfv8xJ2Ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTcw/NDExLTE1NDkyODIy/NjMtODA3MS5qcGVn.jpeg" alt="Cover for Fillmore East – June 1971" style="max-width:120px; height:auto;" />
       </td>
@@ -169,7 +169,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/BIPu7bxZpV0sUsR62LbE1xWShMx5hckKo1OApN1B7G4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQz/MDEtMTI5MTg2Mjc5/Mi5qcGVn.jpeg" alt="Cover for Carlin on Campus" style="max-width:120px; height:auto;" />
       </td>
@@ -189,7 +189,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
       </td>
       <td>1985-09-21</td>
@@ -206,7 +206,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/DnyNTd6IcfAnj15OkgfZ8DF4O_luZXmncN8hqKEYBBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzk5/OC0xMjg1NzY0NjI0/LmpwZWc.jpeg" alt="Cover for The Roxy Performances" style="max-width:120px; height:auto;" />
       </td>
@@ -224,7 +224,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/H99FNenJWfWxGRoAorFbrkrrGp8PcFDTImVurMFP0qo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTA1/NC0xNDAxMzA2MzE2/LTIxNTEuanBlZw.jpeg" alt="Cover for Freaks And Motherfu*#@%!" style="max-width:120px; height:auto;" />
       </td>
@@ -242,7 +242,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>89</td>
       <td>
       </td>
       <td>1991</td>
@@ -259,7 +259,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>90</td>
       <td>
       </td>
       <td>1991-04-15</td>
@@ -276,7 +276,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e864ed1210475a361d36803fe2ac169.png" alt="Cover for Amsterdam" style="max-width:120px; height:auto;" />
       </td>
@@ -299,7 +299,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/So-vlRwk3fk0sqoKbkwmNjlgem3ALrRyB0IwoUF1feM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQx/OTAtMTQ1MzE4MDQz/MS0xNjIyLmpwZWc.jpeg" alt="Cover for The End (4 February 2017 - Birmingham)" style="max-width:120px; height:auto;" />
       </td>
@@ -317,7 +317,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/e29HZoMPQNw42KpO_CiGExuCvfJYqks6NJEX2QX13xk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTUz/MDAtMTIzMjM2MjYy/NS5qcGVn.jpeg" alt="Cover for Madhouse" style="max-width:120px; height:auto;" />
       </td>
@@ -337,7 +337,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/vj7vpJlT1EHDTaBjr2rTY10pHMdhMHdnGb5tzP5hx18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDY3/NzAtMTU0MDgyMjA5/My02MDM4LmpwZWc.jpeg" alt="Cover for Carnegie Hall" style="max-width:120px; height:auto;" />
       </td>
@@ -355,24 +355,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/9GnmbWis-0WtnbUi1kLjrT0CGxJxH78rvcVmqJg6h34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjIy/MzMxLTE2MzQ0NzQ5/MTYtMzgzOS5wbmc.jpeg" alt="Cover for 2017-09-01 - Dick&#39;s Sporting Goods Park - Commerce City, CO" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995</td>
-      <td>Phish</td>
-      <td>2017-09-01 - Dick&#39;s Sporting Goods Park - Commerce City, CO</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/QY_pBkw2DpQIfzgkDBCUnkfy_mW-vChEYYCfXf5U2oQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTI5/MzIzLTE1NjQyODkz/MzgtNjc4Ni5qcGVn.jpeg" alt="Cover for 2014-07-27 - Merriweather Post Pavilion - Columbia, MD" style="max-width:120px; height:auto;" />
       </td>
@@ -389,7 +372,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/Vr3ToBUJw5Hnf2LOCHEpvh83rP2awzgzAlHh9_tzHSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI4/Mjc5LTE1MDg1MjY3/NTUtMjM1OS5qcGVn.jpeg" alt="Cover for Halloween 73" style="max-width:120px; height:auto;" />
       </td>
@@ -407,7 +390,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/eVCJedXSzA3qOEQprYC5-6kgU318GDpa05UJFl2UUhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTk0/MjEzLTE1ODc5MjE4/NDctMjI0Ni5qcGVn.jpeg" alt="Cover for 2010&#x2F;03&#x2F;10 Bogota, COL" style="max-width:120px; height:auto;" />
       </td>
@@ -424,7 +407,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>87</td>
       <td>
       </td>
       <td>1999-11-23</td>
@@ -442,7 +425,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/cRHrmNraHEMhL0xfpZSIkGirBRvhJ3HPpG_cMmFz8m4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODMt/MTQ3MTYyMjQ3Mi00/ODk0LmpwZWc.jpeg" alt="Cover for Polar Sequences" style="max-width:120px; height:auto;" />
       </td>
@@ -482,7 +465,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/kC_btgg2zlqzODitoaqWXqD7ksmFuWGKLj8kLQfgqEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTUw/OTI0LTE1Mzc0NjE2/NTQtMzk1NS5qcGVn.jpeg" alt="Cover for LivePhish, Vol. 16 10&#x2F;31&#x2F;98 (Thomas &amp; Mack Center, Las Vegas, NV)" style="max-width:120px; height:auto;" />
       </td>
@@ -499,7 +482,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/NU0DGDr0vbQ31oUOLh_97QtH1SQCupDFXo-pILhH04Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzUy/NzgyLTE1OTcxNTI4/NjEtNDQ4OS5wbmc.jpeg" alt="Cover for LivePhish, Vol. 11 11&#x2F;17&#x2F;97 (McNichols Sports Arena, Denver, CO)" style="max-width:120px; height:auto;" />
       </td>
@@ -516,7 +499,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
       </td>
       <td>2002-05-29</td>
@@ -533,7 +516,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/f6FXzQZYPUekxAGK5H5QW6ORhiIUOKuLsGJWsuyAjE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjk5/MjYtMTUzOTk1Njk2/Ni02ODkzLmpwZWc.jpeg" alt="Cover for Live at The Whisky A Go Go 1968" style="max-width:120px; height:auto;" />
       </td>
@@ -555,7 +538,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
       </td>
       <td>2002-10-29</td>
@@ -571,7 +554,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/anzF8dyi7tMnSJKu0AoppQ7MMCzZ7ylTtgxxbbiXdTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUx/MzIyLTE2MDI1NzIx/NjQtMzQ5Mi5qcGVn.jpeg" alt="Cover for LivePhish, Vol. 10 6&#x2F;22&#x2F;94 (Veterans Memorial Auditorium, Columbus, OH)" style="max-width:120px; height:auto;" />
       </td>
@@ -588,7 +571,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/iblwRYq5AMZnrEkbqJH2gGBSuE_4nBnfGaiIJjvY7WI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODc1/NjgtMTQ4NDcwODEx/Mi0zMjAyLmpwZWc.jpeg" alt="Cover for TIDAL X 2016" style="max-width:120px; height:auto;" />
       </td>
@@ -608,7 +591,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/ruyeiCiAQ5lWb8C4ss9A7o36mfhhSuLLo55UjWBD-HM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDYw/NDgtMTYyNzYyODY4/My03MjMyLmpwZWc.jpeg" alt="Cover for LivePhish, Vol. 18 5&#x2F;7&#x2F;94 (The Bomb Factory, Dallas, TX)" style="max-width:120px; height:auto;" />
       </td>
@@ -625,7 +608,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/ruyeiCiAQ5lWb8C4ss9A7o36mfhhSuLLo55UjWBD-HM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDYw/NDgtMTYyNzYyODY4/My03MjMyLmpwZWc.jpeg" alt="Cover for LivePhish, Vol. 6 11&#x2F;27&#x2F;98 (The Centrum, Worcester, MA)" style="max-width:120px; height:auto;" />
       </td>
@@ -642,7 +625,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/7MYfhVCsIeLvvdgMiIAM8nTv7GczZpsJWhZ5IroYYiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDAx/MzU2LTE1MTU2Nzg1/MTEtMTg4Ny5qcGVn.jpeg" alt="Cover for Raving and Drooling" style="max-width:120px; height:auto;" />
       </td>
@@ -677,7 +660,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
       </td>
       <td>2006-10-21</td>
@@ -694,7 +677,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>82</td>
       <td>
       </td>
       <td>2006-10-31</td>
@@ -711,7 +694,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8b8be27df464e539f622222d8e8e1de.png" alt="Cover for Buffalo" style="max-width:120px; height:auto;" />
       </td>
@@ -732,7 +715,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/bGCXBPJWEpeHBr-2THsqkkmL7r-I-LtW75aNImmoQo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODAx/NjktMTMwNTQwMDg4/MC5qcGVn.jpeg" alt="Cover for Vegas &#39;96" style="max-width:120px; height:auto;" />
       </td>
@@ -766,7 +749,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/SEpKJ20lSCNAJzeMl-DFVCARPUON-aDNJQZn6rz3xG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQx/ODMtMTMwNTY0Mjg3/Ni5qcGVn.jpeg" alt="Cover for At The Roxy" style="max-width:120px; height:auto;" />
       </td>
@@ -784,7 +767,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/OSGUxirfnhY5moFVVIOxqhNkoHoXIIrIXaOYy3XQ84Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Mzg5/NzItMTU4MzA1MjI3/Mi02NjEwLmpwZWc.jpeg" alt="Cover for Live" style="max-width:120px; height:auto;" />
       </td>
@@ -819,7 +802,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/xfOG2B8Pz-OOsDw6cQKVNWvvamDZWKVU8LihG9hoaZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzEw/Mjg3LTE1OTYzNjcz/NjktMzIzMi5qcGVn.jpeg" alt="Cover for 1999-12-31 - Big Cypress Seminole Indian Reservation - Big Cypress, FL" style="max-width:120px; height:auto;" />
       </td>
@@ -836,7 +819,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/8c7LsITGXT7o-Yh-prYeHywtyWf9hPe7uXXpHolp8dc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDgy/MzY0LTE2NTk0ODE1/NDMtOTk2NS5qcGVn.jpeg" alt="Cover for Live Phish: 10&#x2F;26&#x2F;10 Verizon Wireless Arena, Manchester, NH" style="max-width:120px; height:auto;" />
       </td>
@@ -853,7 +836,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
       </td>
       <td>2010-11-06</td>
@@ -870,7 +853,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
       </td>
       <td>2011</td>
@@ -887,7 +870,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a77748a373f242e2b2a74c3c51365fcc.png" alt="Cover for Hampton&#x2F;Winston-Salem &#39;97" style="max-width:120px; height:auto;" />
       </td>
@@ -904,13 +887,13 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 3</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 4</li>
             <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>88</td>
       <td>
       </td>
       <td>2012-12-14</td>
@@ -927,7 +910,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/5QDLYu4MZHD7A9FRpYQL_xpaw53sadWKEh99xFpvXyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzgx/MjUtMTQxMjAxNTM4/Mi04MjgwLmpwZWc.jpeg" alt="Cover for Phish: Ventura" style="max-width:120px; height:auto;" />
       </td>
@@ -945,7 +928,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
       </td>
       <td>2013-09-17</td>
@@ -963,7 +946,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
       </td>
       <td>2013-11-25</td>
@@ -980,7 +963,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/TD4poQCZK8c-alnpYUSoOrqy_iYOjPqBNL3wM_jsvWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjQ4NTA0/ODEtNzYxNC5qcGVn.jpeg" alt="Cover for Live At Third Man Records" style="max-width:120px; height:auto;" />
       </td>
@@ -998,7 +981,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/A6Jrr3bLLLP16H_Ldhcr51rC5gieMpczgSFYj0c2s6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODkx/OTUtMTQzMzQ1Njc0/Ni01NDA3LmpwZWc.jpeg" alt="Cover for Live at Yoko Ono" style="max-width:120px; height:auto;" />
       </td>
@@ -1017,7 +1000,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
       </td>
       <td>2014-09-01</td>
@@ -1034,7 +1017,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/NU0DGDr0vbQ31oUOLh_97QtH1SQCupDFXo-pILhH04Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzUy/NzgyLTE1OTcxNTI4/NjEtNDQ4OS5wbmc.jpeg" alt="Cover for LivePhish, Vol. 15 10&#x2F;31&#x2F;96 (The Omni, Atlanta, GA)" style="max-width:120px; height:auto;" />
       </td>
@@ -1051,7 +1034,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/1mmjPHPwmW3jVyMVfQq6RtiSPDpJ9XDoCJfy43MsJ7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTI5/OTc0LTE1ODcwNjM5/MzktNjMyNS5qcGVn.jpeg" alt="Cover for 2015-08-22 - Watkins Glen International - Watkins Glen, NY" style="max-width:120px; height:auto;" />
       </td>
@@ -1068,7 +1051,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/ERSAYnSYMd8ygizBFcDxZ4bv4SbzToCn_LWUBwgGVY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc2/OS0xMzk5OTY5NDM3/LTU5NTQuanBlZw.jpeg" alt="Cover for Live at the 9:30 Club" style="max-width:120px; height:auto;" />
       </td>
@@ -1086,7 +1069,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/W70_v15DCpUAwvPIFWC7cZggipfaUINpxpgOkmTsnOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODE4/NjEtMTQwNzMxNDU2/My01MjAyLmpwZWc.jpeg" alt="Cover for Live Phish: 6&#x2F;27&#x2F;10 Merriweather Post Pavilion, Columbia, MD" style="max-width:120px; height:auto;" />
       </td>
@@ -1104,7 +1087,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/SEahCX_KNGWCOyeD3EEdoUYaBt0eEz65Ao5YCfN6_Hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTI1/ODMtMTM3NTY5MjUx/OS02ODgzLmpwZWc.jpeg" alt="Cover for Live At Madison Square Garden New Year&#39;s Eve 1995" style="max-width:120px; height:auto;" />
       </td>
@@ -1124,7 +1107,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/by5gIlwGmyyZ5KE8FSyZsZMFnavfEaKrEf-1XFtuy_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODA3/NTYwLTE2MzU3NjA0/NzctOTQyMy5wbmc.jpeg" alt="Cover for 2017-12-30 - Madison Square Garden - New York, NY" style="max-width:120px; height:auto;" />
       </td>
@@ -1141,7 +1124,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>2018</td>
@@ -1157,7 +1140,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td>2018</td>
@@ -1173,7 +1156,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/ZXkKO79mbgoIzNcynfdx8fX0PYD8FmE0T7yi5ZPT31Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODIz/MjY0LTE2NDI3MzA5/MjAtNjI3Ni5qcGVn.jpeg" alt="Cover for 2017-07-28 - Madison Square Garden - New York, NY" style="max-width:120px; height:auto;" />
       </td>
@@ -1190,7 +1173,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/ZXkKO79mbgoIzNcynfdx8fX0PYD8FmE0T7yi5ZPT31Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODIz/MjY0LTE2NDI3MzA5/MjAtNjI3Ni5qcGVn.jpeg" alt="Cover for 2017-07-26 - Madison Square Garden - New York, NY" style="max-width:120px; height:auto;" />
       </td>
@@ -1207,7 +1190,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/ZXkKO79mbgoIzNcynfdx8fX0PYD8FmE0T7yi5ZPT31Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODIz/MjY0LTE2NDI3MzA5/MjAtNjI3Ni5qcGVn.jpeg" alt="Cover for 2017-07-25 - Madison Square Garden - New York, NY" style="max-width:120px; height:auto;" />
       </td>
@@ -1224,7 +1207,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
       </td>
       <td>2018-01-12</td>
@@ -1241,7 +1224,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
       </td>
       <td>2018-04-19</td>
@@ -1258,7 +1241,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/Wm8uEiDU8WGsv8nixov65rqir88RL_04KjnR4_C9iyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDA2/NTc1LTE2MjU2NDI2/MDItMTA0Ni5qcGVn.jpeg" alt="Cover for Live In Brussels &#39;19" style="max-width:120px; height:auto;" />
       </td>
@@ -1277,7 +1260,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/3HsrXWtEE6G41Iw0dg2V6-7oILqek0V9b31VCI3Ejl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjA1/MzI5LTE1OTQ0MDUx/OTYtODY3NC5wbmc.jpeg" alt="Cover for 10,000 gecs tour - live at terminal 5" style="max-width:120px; height:auto;" />
       </td>
@@ -1294,7 +1277,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/-LwnbYrgsVg3Gg17Jgrk5QurLpwRTIHOw5xMATEXNZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTQ4/NjEzLTE2NjY3NzEw/NjAtNjY4OS5qcGVn.jpeg" alt="Cover for THE SHOW" style="max-width:120px; height:auto;" />
       </td>
@@ -1314,7 +1297,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/cyhBKBEM4R4LKlJQ7fGtW8IIcyaeGDj4-nRnS8xorXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTQ2/ODQxLTE2MTYzNDI3/NDgtNTY5OC5qcGVn.jpeg" alt="Cover for Live in London &#39;19" style="max-width:120px; height:auto;" />
       </td>
@@ -1332,7 +1315,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/qG5aSWzHh4tuYmD5tQahO7gKbFq_UxmpVngpWu0mU5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTk2/NTEyLTE2MjAyMTc2/OTYtNTM3NS5qcGVn.jpeg" alt="Cover for Live at Bonnaroo &#39;22" style="max-width:120px; height:auto;" />
       </td>
@@ -1350,7 +1333,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/3_voW1sJ2WIxyeR8nibsayqJpNgzYbL4EOmFuZU8rOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDQ3/MjY0LTE2MzE5NTA2/NDgtODU5MS5qcGVn.jpeg" alt="Cover for Live at Levitation &#39;16" style="max-width:120px; height:auto;" />
       </td>
@@ -1368,7 +1351,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/tHKm30tRKNXxZtEDV6F56Vhx2RQLnCXB9eSr1K46gJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTUy/MjE5LTE2MjY3MjE5/MjQtNDU1MS5qcGVn.jpeg" alt="Cover for Live in Milwaukee &#39;19" style="max-width:120px; height:auto;" />
       </td>
@@ -1387,7 +1370,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/hc6LAfUt-rtX8wMoAdT8ZCmbRNrOWBgh1xSI4uQotXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTY1/ODA3LTE2MTY0NDU5/OTQtODgyNS5qcGVn.jpeg" alt="Cover for Live in Asheville &#39;19" style="max-width:120px; height:auto;" />
       </td>
@@ -1405,7 +1388,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/qG5aSWzHh4tuYmD5tQahO7gKbFq_UxmpVngpWu0mU5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTk2/NTEyLTE2MjAyMTc2/OTYtNTM3NS5qcGVn.jpeg" alt="Cover for Live at Levitation &#39;14" style="max-width:120px; height:auto;" />
       </td>
@@ -1423,7 +1406,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/tHKm30tRKNXxZtEDV6F56Vhx2RQLnCXB9eSr1K46gJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTUy/MjE5LTE2MjY3MjE5/MjQtNDU1MS5qcGVn.jpeg" alt="Cover for Live in Adelaide &#39;19" style="max-width:120px; height:auto;" />
       </td>
@@ -1441,7 +1424,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/OQyiBZNn84kYm31vMNDJR8X6z_aUx6hugdaPQ88BxnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYz/MTQ2LTE1MjU2NzI2/ODctNTE0OC5qcGVn.jpeg" alt="Cover for Live on KEXP" style="max-width:120px; height:auto;" />
       </td>
@@ -1459,7 +1442,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td>2021-07-28</td>
@@ -1475,7 +1458,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td>2021-07-28</td>
@@ -1491,7 +1474,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td>2021-07-28</td>
@@ -1507,7 +1490,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/qG5aSWzHh4tuYmD5tQahO7gKbFq_UxmpVngpWu0mU5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTk2/NTEyLTE2MjAyMTc2/OTYtNTM3NS5qcGVn.jpeg" alt="Cover for Live In Paris &#39;19" style="max-width:120px; height:auto;" />
       </td>
@@ -1529,7 +1512,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/v_xSY5cIzg0mfhpSIBJ5e2duJF5eKtyXnliYzWXya5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjc2/MjE5LTE2MjQ2NTEw/MTYtNTQxMC5qcGVn.jpeg" alt="Cover for Live in Melbourne &#39;21" style="max-width:120px; height:auto;" />
       </td>
@@ -1547,7 +1530,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/2KCZtR5d_BuLNjGwfScoyMJ459wY8DrzDlCQzUNaAVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTgy/MzE3LTE2MzgzMDY3/NDAtOTAyMS5qcGVn.jpeg" alt="Cover for 1996-08-16 - Plattsburgh Air Force Base - Plattsburgh, NY" style="max-width:120px; height:auto;" />
       </td>
@@ -1564,7 +1547,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td>2021-11-29</td>
@@ -1580,7 +1563,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/bGCXBPJWEpeHBr-2THsqkkmL7r-I-LtW75aNImmoQo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODAx/NjktMTMwNTQwMDg4/MC5qcGVn.jpeg" alt="Cover for LivePhish 04&#x2F;02&#x2F;98" style="max-width:120px; height:auto;" />
       </td>
@@ -1598,7 +1581,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/bGCXBPJWEpeHBr-2THsqkkmL7r-I-LtW75aNImmoQo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODAx/NjktMTMwNTQwMDg4/MC5qcGVn.jpeg" alt="Cover for LivePhish 12&#x2F;07&#x2F;97" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,7 +1599,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/bGCXBPJWEpeHBr-2THsqkkmL7r-I-LtW75aNImmoQo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODAx/NjktMTMwNTQwMDg4/MC5qcGVn.jpeg" alt="Cover for LivePhish 04&#x2F;03&#x2F;98" style="max-width:120px; height:auto;" />
       </td>
@@ -1634,7 +1617,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/qG5aSWzHh4tuYmD5tQahO7gKbFq_UxmpVngpWu0mU5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTk2/NTEyLTE2MjAyMTc2/OTYtNTM3NS5qcGVn.jpeg" alt="Cover for Live in Sydney &#39;21" style="max-width:120px; height:auto;" />
       </td>
@@ -1652,7 +1635,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/iXZy7Ho3AWL2TUuwMlcGej-W_IhQ4d0E1zg4KAysYlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjI2/NjgxLTE2NjE4ODMx/MjAtMTIzMS5qcGVn.jpeg" alt="Cover for Live in Brisbane &#39;21" style="max-width:120px; height:auto;" />
       </td>
@@ -1670,7 +1653,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/CddewusnSMidDH0bGs5Q7DF5ByONOGQDKAV5bbQFwGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTk2/MTgxLTE2ODA4ODI2/MzMtOTgyNC5qcGVn.jpeg" alt="Cover for Zappa &#x2F; Erie" style="max-width:120px; height:auto;" />
       </td>
@@ -1706,7 +1689,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td>2023</td>
@@ -1723,7 +1706,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/iXZy7Ho3AWL2TUuwMlcGej-W_IhQ4d0E1zg4KAysYlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjI2/NjgxLTE2NjE4ODMx/MjAtMTIzMS5qcGVn.jpeg" alt="Cover for Live in Chicago &#39;23" style="max-width:120px; height:auto;" />
       </td>
@@ -1742,7 +1725,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/tTSgVZsiiEWJKAsb9yg8xMTpO_bCOHRbXypjYe0aIIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mjk4/NDE2LTE3MDI1ODA0/MjctNzcyMi5qcGVn.jpeg" alt="Cover for Phish: Chicago &#39;94" style="max-width:120px; height:auto;" />
       </td>
@@ -1760,7 +1743,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/SmPyiMwkWBd8151L0l0j4nnQOcMfIDa2iNkgD0ADIrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzc0/MS0xNDg4NzcxMzYx/LTY1MDYuanBlZw.jpeg" alt="Cover for St. Louis &#39;93" style="max-width:120px; height:auto;" />
       </td>
@@ -1778,7 +1761,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td></td>
@@ -1809,7 +1792,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>94</td>
       <td>
       </td>
       <td></td>
@@ -1818,6 +1801,23 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-show" | relative_url }}">live show</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9875ffc2ae54e4ab7edd6b4c6e0ed53.png" alt="Cover for Live Frogs Set 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Les Claypool&#39;s Frog Brigade</td>
+      <td>Live Frogs Set 1</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
