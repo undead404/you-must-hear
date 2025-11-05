@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T06:31:42.696Z
+date: 2025-11-04T18:00:19.583Z
 permalink: tags/hardcore
 title: hardcore
 ---
 
 ## hardcore
 
-Last updated: <time datetime="2025-11-03T06:31:42.696Z">Mon Nov 03 2025 08:31:42 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T18:00:19.583Z">Tue Nov 04 2025 20:00:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
   </thead>
   <tbody>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86e1efbe7c5c4d9ba72bed79dcf46036.png" alt="Cover for Damaged" style="max-width:120px; height:auto;" />
       </td>
@@ -103,12 +103,12 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 41</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5793a481f432404bc03ba468ebda0021.png" alt="Cover for Body Count" style="max-width:120px; height:auto;" />
       </td>
@@ -126,7 +126,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/iq7vcOkJtheTR805uxf35hHVyESkX36Jcw188fgouMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTU2/Mi0xMjQ5MzAzMjYy/LmpwZWc.jpeg" alt="Cover for Songs to Fan the Flames of Discontent" style="max-width:120px; height:auto;" />
       </td>
@@ -160,24 +160,6 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       <td>
         <ul>
             <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b6f1dc0509f68922e61528cbbe2f43b.png" alt="Cover for Aftertaste" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997-03-18</td>
-      <td>Helmet</td>
-      <td>Aftertaste</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -258,7 +240,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       <td>
         <ul>
             <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 47</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 63</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 64</li>
             <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 74</li>
         </ul>
       </td>
@@ -375,7 +357,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/X0QMOAp7YUmImXmdvypyl10X8mciMEhBb9LbWDZLfAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTcy/MTgtMTU3MjkwMjA3/My0xNDA4LmpwZWc.jpeg" alt="Cover for Detonautas (Nova Versão)" style="max-width:120px; height:auto;" />
       </td>
@@ -395,7 +377,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2002-01-15</td>
@@ -429,7 +411,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2002-10-07</td>
@@ -601,7 +583,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44485a5fa1bce4af43110b0a436a0a1c.png" alt="Cover for I Am Hollywood" style="max-width:120px; height:auto;" />
       </td>
@@ -617,12 +599,12 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 82</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/HAing-Dy45LONHSecMMTaOh_I96W1Hz5_etg18EI4is/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTYx/ODMyLTE2NTIwNjAw/MTQtNzMxOC5qcGVn.jpeg" alt="Cover for All This Is" style="max-width:120px; height:auto;" />
       </td>
@@ -735,12 +717,12 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       <td>
         <ul>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 13</li>
-            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 75</li>
+            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/brpj_CPWnup8-Mpp_buwtCwloaLrsX5mEWEZznJoOUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTE4/ODgtMTM0NzEzNTE1/MC0xNjQ5LmpwZWc.jpeg" alt="Cover for Enter The Chicken" style="max-width:120px; height:auto;" />
       </td>
@@ -755,7 +737,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 1</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -954,7 +936,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d855190bb2844e48b36994645a8fdfeb.png" alt="Cover for Best Of Atreyu" style="max-width:120px; height:auto;" />
       </td>
@@ -990,7 +972,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2007-07-20</td>
@@ -1108,7 +1090,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2008-05-13</td>
@@ -1288,7 +1270,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2010-09-14</td>
@@ -1305,7 +1287,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2010-09-20</td>
@@ -1359,7 +1341,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 16</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 17</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 39</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 83</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 93</li>
@@ -1388,7 +1370,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2011-10-24</td>
@@ -1546,12 +1528,12 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       <td>
         <ul>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 67</li>
-            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 83</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/9i_o_WdIMcbnZ0G09K1e3-8poxtDiTIahcsXoYsQ1Io/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODI2/NTUtMTY4MzY3NzY2/MS03MjEwLmpwZWc.jpeg" alt="Cover for Split" style="max-width:120px; height:auto;" />
       </td>
@@ -1591,7 +1573,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 79</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1707,6 +1689,29 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/tDLArXwGBmCnpW-bbYwSr0ICwhds_vDXxmVWEcU8lUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA3/OTUyLTE1MjQ1MTg5/NDUtODgxOC5qcGVn.jpeg" alt="Cover for Letters" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-11-21</td>
+      <td>Bilmuri</td>
+      <td>Letters</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>98</td>
       <td>
           <img src="https://i.discogs.com/IPLldxSvvA8UhB2BQVDKA-7LgHjbgtf7NLC6A97HZb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NDk3/NzAtMTQ4OTA4NDEz/Ni05ODg1LmpwZWc.jpeg" alt="Cover for Misery" style="max-width:120px; height:auto;" />
@@ -1805,14 +1810,14 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       <td>
         <ul>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 67</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 69</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 70</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 78</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/eeYCQE5LdFlE_3JOaG_N522iMucUq50qZauN881fi8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjIw/Njk4LTE1NTQwOTgz/MDQtODEwOC5qcGVn.jpeg" alt="Cover for Ivy (Doomsday)" style="max-width:120px; height:auto;" />
       </td>
@@ -1867,7 +1872,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/s7coG9_a4GhZqBVKThCBwppyLJKiAljEHvoAwdpuL8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUw/ODE1LTE1NzI3NzUw/NDktOTA1NC5qcGVn.jpeg" alt="Cover for Best Day" style="max-width:120px; height:auto;" />
       </td>
@@ -1947,7 +1952,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/ed3fpdcB5pan4HvZTxGy5WFWXMWkd2jD5D7LyvCeBRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODcx/NDg2LTE1NjMwMDAz/NzktMzE5NS5qcGVn.jpeg" alt="Cover for Spaceships Mixtape" style="max-width:120px; height:auto;" />
       </td>
