@@ -9,6 +9,10 @@ title: barcelona
 
 Last updated: <time datetime="2025-10-31T17:50:50.969Z">Fri Oct 31 2025 19:50:50 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging from Spain&#39;s cosmopolitan coastal city, blending Mediterranean warmth with global influences from Latin America, Africa, and beyond. This eclectic musical landscape fuses flamenco traditions with reggae, ska, rumba, electronic beats, and indie pop, reflecting Barcelona&#39;s status as a cultural crossroads. The result is an adventurous, fusion-oriented approach that celebrates diversity, street culture, and the city&#39;s distinctive creative energy.
+
 ### 100 chronological releases
 
 <table>

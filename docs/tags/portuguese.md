@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T01:05:03.391Z
+date: 2025-11-05T02:31:51.036Z
 permalink: tags/portuguese
 title: portuguese
 ---
 
 ## portuguese
 
-Last updated: <time datetime="2025-10-22T01:05:03.391Z">Wed Oct 22 2025 04:05:03 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-05T02:31:51.036Z">Wed Nov 05 2025 04:31:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
   </thead>
   <tbody>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/GquiDrZzROx2B4fgvNpjgt3TCp-QLpQdoy7K_v2Z9k4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzMz/MjUtMTUxMjA1NDA5/Ni0zMTA3LmpwZWc.jpeg" alt="Cover for Ímpar" style="max-width:120px; height:auto;" />
       </td>
@@ -65,24 +65,6 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/BEVT1pFHOzym_Aa6wYatmey3WdghsYabZCYMsPrMLRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NjA1/NTEtMTM5MzkzODgy/Mi05MDkyLmpwZWc.jpeg" alt="Cover for O Brioche da Sofia" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1976</td>
-      <td>Quim Barreiros</td>
-      <td>O Brioche da Sofia</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>96</td>
       <td>
           <img src="https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg" alt="Cover for Aurora" style="max-width:120px; height:auto;" />
@@ -104,7 +86,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
       </td>
       <td>1986-10</td>
@@ -121,7 +103,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/fE9MHFjb0mmrGM_2Im-8pwYLroJjfLPQyH_tDrQw9KY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjU2/NTgtMTUyOTY2NjU0/My02NTI3LmpwZWc.jpeg" alt="Cover for Valsa Dos Detectives" style="max-width:120px; height:auto;" />
       </td>
@@ -143,7 +125,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/gl_TQjrw-KTMZ4L_HV-e7GP_6yZeAZhXHasXrp4lEzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzIz/NC0xMTYzODQ1NzAy/LmpwZWc.jpeg" alt="Cover for Pais &amp; Filhos" style="max-width:120px; height:auto;" />
       </td>
@@ -161,7 +143,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td>1991</td>
@@ -215,12 +197,12 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 5</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td>1992</td>
@@ -273,7 +255,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td>1993</td>
@@ -292,7 +274,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/xAm_DoA8lKQtkVRBGfBSv4fDGF39pNfSR6-e2ynR3eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Njc3/NS0xMjYzNzg4MDQy/LmpwZWc.jpeg" alt="Cover for MESA" style="max-width:120px; height:auto;" />
       </td>
@@ -311,7 +293,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/_BBd-BkD6WrwIjUD4lY4b9BD-MpmltvlZ4RxD-GOYZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzY4/MTYtMTM4OTM3NzAw/Mi04ODA3LmpwZWc.jpeg" alt="Cover for Olhos Meus" style="max-width:120px; height:auto;" />
       </td>
@@ -329,7 +311,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/VDyqmvMBub4bSyA9g61HjQcqFeXvjrgb1l3IPzSqxAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDYtMTMwODc0NDI4/Mi5qcGVn.jpeg" alt="Cover for Sob Escuta" style="max-width:120px; height:auto;" />
       </td>
@@ -367,7 +349,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/qB79qxzqPARafL-1BHWFZdwAXKYzDfydJIfpQrczApo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzEy/MzktMTM0OTYzMjQz/NC00MzYxLmpwZWc.jpeg" alt="Cover for O Caminho da Felicidade" style="max-width:120px; height:auto;" />
       </td>
@@ -386,7 +368,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
       </td>
       <td>1998</td>
@@ -473,7 +455,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/Hdqfm8hhHTuDogA7ddFOK0rk1Os8AIjbjGBpBeO2Hq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzEw/NTEtMTM0OTYyODkx/Ni01MDQ2LmpwZWc.jpeg" alt="Cover for Solta-se o Beijo" style="max-width:120px; height:auto;" />
       </td>
@@ -569,7 +551,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td>2001</td>
@@ -686,7 +668,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
       </td>
       <td>2003</td>
@@ -708,7 +690,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
       </td>
       <td>2003</td>
@@ -763,7 +745,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/jrvJ-Pm7Ag_e05Rdsq6Kg5jveuDDtu_V6099Pn-NKb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzQ1/NTMtMTM0NjI0ODAx/OS04MTIxLmpwZWc.jpeg" alt="Cover for Amanhã Não Será Como Hoje" style="max-width:120px; height:auto;" />
       </td>
@@ -798,7 +780,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/wgoDMNb0JrEN64e8EkxhaMUArfQxL-Arf2pP7dRgyDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjMx/NTEtMTI0ODYwMDcz/Mi5qcGVn.jpeg" alt="Cover for Turbulence" style="max-width:120px; height:auto;" />
       </td>
@@ -875,7 +857,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/6D5e5tH8nmtMo1nOWVuiAooYrLhBqWjel7rSsdb3ubk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDkx/NC0xMTE3NDkxMjcy/LmpwZw.jpeg" alt="Cover for 5 Dimensões EP" style="max-width:120px; height:auto;" />
       </td>
@@ -899,7 +881,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/zxnSA6D5Rjw_UpkXotjwgVBDNHHQ_kbpAXDsmsPmvYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODgy/NzItMTM1MzUyMTQ3/MC0yOTU2LmpwZWc.jpeg" alt="Cover for You Make Me Nervous" style="max-width:120px; height:auto;" />
       </td>
@@ -922,7 +904,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td>2006</td>
@@ -940,7 +922,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
       </td>
       <td>2006</td>
@@ -998,7 +980,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
       </td>
       <td>2006-02-02</td>
@@ -1060,7 +1042,25 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>74</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80748af5434b6171cc72ac9b827f5986.png" alt="Cover for Nosso Amor Rebelde" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-03-22</td>
+      <td>RBD</td>
+      <td>Nosso Amor Rebelde</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
       <td>
       </td>
       <td>2006-07-14</td>
@@ -1077,7 +1077,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/ZKpHXNFYqD93kILe0-Us1e-prAKNoC-Y_gc61WBHz7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDgw/ODItMTI3NTkwMDkw/NS5qcGVn.jpeg" alt="Cover for Incógnita Alquimia" style="max-width:120px; height:auto;" />
       </td>
@@ -1132,7 +1132,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/ESA2l1DkNoMtOuTnMlvfveBchuGvfvLYngmH6qqL-Ig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc5/OTktMTI5MDk2NTM2/Ni5qcGVn.jpeg" alt="Cover for Rude Bwoy Stand" style="max-width:120px; height:auto;" />
       </td>
@@ -1153,7 +1153,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/xukcNA3rjJq0euspkjplBqcUa2LQBYqHUsmz2j7I_IY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzA1/MDYtMTQwNzcwMjA2/OC0yOTI1LmpwZWc.jpeg" alt="Cover for Se Me Deixasses Ser" style="max-width:120px; height:auto;" />
       </td>
@@ -1231,7 +1231,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/t9pXGo7l33QyUYoM6ujrkRLa-MVkWaddz8cConOXZc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTk0/MjktMTMxNTcwNjQx/Ny5qcGVn.jpeg" alt="Cover for Hits em Português" style="max-width:120px; height:auto;" />
       </td>
@@ -1253,7 +1253,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/MZ85LEUHiNLn2MtBT5nSC9loiaoy0e3I4nwUKEKdoXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDkz/MTYtMTI4OTk0OTE0/Mi5qcGVn.jpeg" alt="Cover for Abril" style="max-width:120px; height:auto;" />
       </td>
@@ -1280,7 +1280,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td>2010</td>
@@ -1299,7 +1299,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/KwSI2OtRvEW_9eR1pYvXCtV0AvCEFjNhtJ7FlSecSKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTkw/NTAyLTE1MDA1MDM0/MzItODYyNy5qcGVn.jpeg" alt="Cover for The Black Mamba" style="max-width:120px; height:auto;" />
       </td>
@@ -1322,7 +1322,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
       </td>
       <td>2011-03-17</td>
@@ -1341,7 +1341,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/DQf6dcVEP-hh2L4x9pkobLGDIBnz1PkJGQPWigzF4n0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODk4/MjEtMTUzNDg5MjU3/My0xMzI5LmpwZWc.jpeg" alt="Cover for Midnight Priest" style="max-width:120px; height:auto;" />
       </td>
@@ -1361,7 +1361,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/QenigJdAOmUc-Q5ENxHrem_9kUP0WdYUt-cF97HQPcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTM0/OTAtMTM1ODcwOTMy/MS01MDEyLmpwZWc.jpeg" alt="Cover for Rude Sofisticado" style="max-width:120px; height:auto;" />
       </td>
@@ -1381,7 +1381,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td>2012-06-12</td>
@@ -1426,7 +1426,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/GRQHOfGitSduwuTik3Z-kdr_dRG0J9_N3-fDcIXbNOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTE0/MDgtMTM3MDk0MDI3/NS0zODk1LmpwZWc.jpeg" alt="Cover for 2 Kinds Of Men &#x2F; Summer&#39;s Gone (Didn&#39;t Swim)" style="max-width:120px; height:auto;" />
       </td>
@@ -1448,7 +1448,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a1832c436ae22f94e9aaf035c6e8cd8.png" alt="Cover for AZ" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,7 +1469,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/301d48ccc91d4211c22bbbcf52b85527.png" alt="Cover for Lisbon Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1534,7 +1534,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/FtsKjhjvziJOTvOgFX1HhKi9MQjBK0-ZN7BnFyDSp-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDc1/NzUtMTQ1OTA1MjI1/OS03MjU1LmpwZWc.jpeg" alt="Cover for Antes do Mundo Acabar" style="max-width:120px; height:auto;" />
       </td>
@@ -1576,7 +1576,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/OdH9SYtePTKG6ryDRCeLzAJQkG40u1ojXReMEWGLuBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjcx/MS0xNTQ3OTc4MjUx/LTY4MzkuanBlZw.jpeg" alt="Cover for Lo-Fi Hipster Sheat" style="max-width:120px; height:auto;" />
       </td>
@@ -1597,7 +1597,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/bE8CN7GMzUES8K8msfL7t0bXlkSvbtC1-GtsdsaihZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDE3/MzktMTQ4NTgxODg4/Ni0zMDg5LnBuZw.jpeg" alt="Cover for 20" style="max-width:120px; height:auto;" />
       </td>
@@ -1621,7 +1621,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/-bvYU9V9L2oCL-ibl5WxTfLuUyLCnsgEuIqJqfKRByA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzky/NTc5LTE1NzM1OTkz/NTEtODM3Ny5qcGVn.jpeg" alt="Cover for Apologia" style="max-width:120px; height:auto;" />
       </td>
@@ -1680,7 +1680,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/HgNGFlLggGw0hPWSWR4vc_ad1fEHBaKJaL2u41c7AHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjA4/MjkxLTE1Mzg1MDcy/MjEtODcxNi5qcGVn.jpeg" alt="Cover for Império Auto-Mano" style="max-width:120px; height:auto;" />
       </td>
@@ -1698,12 +1698,12 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       <td>
         <ul>
             <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 29</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 31</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/T0T6xlYeI19HJcH1te5r1CzOrxv5k8358RpaOgL6i-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDIy/ODUxLTE0OTAyOTMy/MjctNTAzOS5qcGVn.jpeg" alt="Cover for Panoramix" style="max-width:120px; height:auto;" />
       </td>
@@ -1785,7 +1785,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/iMM_eHkYp_BFKcsTCL3DLyWnYQzVfp1vVVHXO3yY29A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDYz/OTAwLTE0OTc5NjU4/ODctNDM2NS5qcGVn.jpeg" alt="Cover for do&#x3D;s" style="max-width:120px; height:auto;" />
       </td>
@@ -1804,7 +1804,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/JSjn2XiRCgoFb2OQriW0nGwRNvrnWe2p-IMvelq-Rt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzEy/NDY4LTE1MDI4OTQ0/MDEtOTc0NC5qcGVn.jpeg" alt="Cover for Espera" style="max-width:120px; height:auto;" />
       </td>
@@ -1823,7 +1823,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/JQcQHD3SSABELLwhAdZ0DztyQdukDUC_vt18CbaRwsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTAx/MDc4LTE1ODY2OTM0/OTItMjM0NS5qcGVn.jpeg" alt="Cover for Favourite Ghost" style="max-width:120px; height:auto;" />
       </td>
@@ -1845,7 +1845,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/8VCjenTZq20cQl2xpFpXTMx5RgYU0tVUcR9egrINX4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTAz/MTU1LTE1NTcxMzEx/MTEtMjQzMS5qcGVn.jpeg" alt="Cover for Antwerpen" style="max-width:120px; height:auto;" />
       </td>
@@ -1887,7 +1887,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/O2CNuB0Jcx0zXrzyc4Hn37L5Td_PpPXHlNtwxzs_qXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDM0/MzYyLTE1MzUyMTg3/MDAtMTU2OC5qcGVn.jpeg" alt="Cover for BALEIA BALEIA BALEIA" style="max-width:120px; height:auto;" />
       </td>
@@ -1928,7 +1928,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/SjSsCFhyqJl4hqakVUbSqqdURw5lG32uTMXbPk5OhKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDg3/NzMxLTE2MzA1OTYw/NDItNDM4Ny5qcGVn.jpeg" alt="Cover for Gente a Mais" style="max-width:120px; height:auto;" />
       </td>
@@ -1986,7 +1986,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -2009,7 +2009,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
       </td>
       <td></td>
@@ -2029,7 +2029,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
       </td>
       <td></td>

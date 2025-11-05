@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-05T01:54:51.761Z
+date: 2025-11-05T02:31:51.036Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-05T01:54:51.761Z">Wed Nov 05 2025 03:54:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-05T02:31:51.036Z">Wed Nov 05 2025 04:31:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [portuguese]({{ "tags/portuguese" | relative_url }}) | <time datetime="2025-11-05T02:31:51.036Z">Wed Nov 05 2025 04:31:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [psydub]({{ "tags/psydub" | relative_url }}) | <time datetime="2025-11-05T01:54:51.761Z">Wed Nov 05 2025 03:54:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [native american]({{ "tags/native-american" | relative_url }}) | <time datetime="2025-11-05T01:50:51.212Z">Wed Nov 05 2025 03:50:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [flute]({{ "tags/flute" | relative_url }}) | <time datetime="2025-11-05T01:36:10.569Z">Wed Nov 05 2025 03:36:10 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1143,7 +1144,6 @@ Last updated: <time datetime="2025-11-05T01:54:51.761Z">Wed Nov 05 2025 03:54:51
 | [deutsche schlager]({{ "tags/deutsche-schlager" | relative_url }}) | <time datetime="2025-10-22T02:01:52.189Z">Wed Oct 22 2025 05:01:52 GMT+0300 (Eastern European Summer Time)</time> |
 | [dark techno]({{ "tags/dark-techno" | relative_url }}) | <time datetime="2025-10-22T01:11:05.601Z">Wed Oct 22 2025 04:11:05 GMT+0300 (Eastern European Summer Time)</time> |
 | [experimental folk]({{ "tags/experimental-folk" | relative_url }}) | <time datetime="2025-10-22T01:06:14.453Z">Wed Oct 22 2025 04:06:14 GMT+0300 (Eastern European Summer Time)</time> |
-| [portuguese]({{ "tags/portuguese" | relative_url }}) | <time datetime="2025-10-22T01:05:03.391Z">Wed Oct 22 2025 04:05:03 GMT+0300 (Eastern European Summer Time)</time> |
 | [japanese female pop-rock]({{ "tags/japanese-female-pop-rock" | relative_url }}) | <time datetime="2025-10-22T01:02:14.390Z">Wed Oct 22 2025 04:02:14 GMT+0300 (Eastern European Summer Time)</time> |
 | [porngrind]({{ "tags/porngrind" | relative_url }}) | <time datetime="2025-10-22T00:58:03.424Z">Wed Oct 22 2025 03:58:03 GMT+0300 (Eastern European Summer Time)</time> |
 | [deutschpop]({{ "tags/deutschpop" | relative_url }}) | <time datetime="2025-10-22T00:57:23.198Z">Wed Oct 22 2025 03:57:23 GMT+0300 (Eastern European Summer Time)</time> |
