@@ -9,6 +9,10 @@ title: vietnamese
 
 Last updated: <time datetime="2025-11-02T20:50:53.995Z">Sun Nov 02 2025 22:50:53 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Vietnamese music encompasses the diverse musical traditions and contemporary sounds originating from Vietnam, blending traditional instruments like the đàn tranh and đàn bầu with modern pop, rock, and electronic influences. The tag captures both folk heritage rooted in centuries of cultural history and the vibrant V-pop scene that has emerged since the 1990s. Characterized by pentatonic melodies, poetic lyrics often exploring love and nostalgia, and a fusion of Eastern and Western musical elements.
+
 ### 100 chronological releases
 
 <table>

@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-05T08:11:55.439Z
+date: 2025-11-05T08:56:51.823Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-05T08:11:55.439Z">Wed Nov 05 2025 10:11:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-05T08:56:51.823Z">Wed Nov 05 2025 10:56:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [quartet]({{ "tags/quartet" | relative_url }}) | <time datetime="2025-11-05T08:56:51.823Z">Wed Nov 05 2025 10:56:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [late romantic]({{ "tags/late-romantic" | relative_url }}) | <time datetime="2025-11-05T08:11:55.439Z">Wed Nov 05 2025 10:11:55 GMT+0200 (Eastern European Standard Time)</time> |
 | [groove metal]({{ "tags/groove-metal" | relative_url }}) | <time datetime="2025-11-05T07:39:51.456Z">Wed Nov 05 2025 09:39:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [nu metal]({{ "tags/nu-metal" | relative_url }}) | <time datetime="2025-11-05T07:20:51.565Z">Wed Nov 05 2025 09:20:51 GMT+0200 (Eastern European Standard Time)</time> |
@@ -111,7 +112,6 @@ Last updated: <time datetime="2025-11-05T08:11:55.439Z">Wed Nov 05 2025 10:11:55
 | [rockabilly]({{ "tags/rockabilly" | relative_url }}) | <time datetime="2025-11-03T23:57:50.363Z">Tue Nov 04 2025 01:57:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [deconstructed club]({{ "tags/deconstructed-club" | relative_url }}) | <time datetime="2025-11-03T23:56:56.893Z">Tue Nov 04 2025 01:56:56 GMT+0200 (Eastern European Standard Time)</time> |
 | [polski]({{ "tags/polski" | relative_url }}) | <time datetime="2025-11-03T23:55:22.681Z">Tue Nov 04 2025 01:55:22 GMT+0200 (Eastern European Standard Time)</time> |
-| [quartet]({{ "tags/quartet" | relative_url }}) | <time datetime="2025-11-03T23:55:00.303Z">Tue Nov 04 2025 01:55:00 GMT+0200 (Eastern European Standard Time)</time> |
 | [atlanta]({{ "tags/atlanta" | relative_url }}) | <time datetime="2025-11-03T21:28:27.590Z">Mon Nov 03 2025 23:28:27 GMT+0200 (Eastern European Standard Time)</time> |
 | [avant-garde metal]({{ "tags/avant-garde-metal" | relative_url }}) | <time datetime="2025-11-03T20:33:20.024Z">Mon Nov 03 2025 22:33:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [city pop]({{ "tags/city-pop" | relative_url }}) | <time datetime="2025-11-03T20:31:45.015Z">Mon Nov 03 2025 22:31:45 GMT+0200 (Eastern European Standard Time)</time> |
