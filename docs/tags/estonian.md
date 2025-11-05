@@ -9,110 +9,2320 @@ title: estonian
 
 Last updated: <time datetime="2025-10-28T16:03:34.259Z">Tue Oct 28 2025 18:03:34 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Estonian music encompasses diverse sounds from the Baltic nation, ranging from folk-inspired rock and medieval-tinged metal to electronic experimentation and contemporary pop. The tag reflects Estonia&#39;s unique cultural position between Nordic and Eastern European influences, often incorporating the Estonian language and local musical traditions. Artists may draw from ancient runo-song heritage, Soviet-era aesthetics, or modern European trends while maintaining a distinctly Baltic sensibility.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 20 |  |  | LoopMaster Luke | Luke Nukem EP |
-| 22 |  |  | Chorome | Best of Chorome: Discography 2002-2005 (Last.fm Digital Edition) |
-| 32 |  |  | Hidden Lane | Demo |
-| 94 |  | 1981 | Sven Grünberg | Hingus |
-| 9 | ![Cover](https://i.discogs.com/FpvgPa1FCRNP2VXcAb-HsG4Lst2uYiWlYKp6g6G3EL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTM0/NC0xMTc1NTQ1MDI1/LmpwZWc.jpeg) | 1992 | Ne Zhdali | Rhinos and other forms of life |
-| 70 | ![Cover](https://i.discogs.com/oWKUabGgy7aGbevyM5_e8O5Zk2SSqQBk1eTz11sxb2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDc0/ODczLTE1MzYwMDg5/NzYtMzQ1Ni5qcGVn.jpeg) | 1992 | Reet | Eesti rahvalaule |
-| 40 | ![Cover](https://i.discogs.com/fgWmIUsok7MthvTbBMeIOeLxQiXExeRNlpb13uwcG_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjU1/NTYtMTM4NzMxMjA2/NS0xNjAyLmpwZWc.jpeg) | 1995 | Propeller | Propeller 1980-1995 |
-| 10 | ![Cover](https://i.discogs.com/XwxMPzlNbkgT_va8hvGyO7pPIxQL-rlc-HXagTwB5qw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTc0/NzQtMTQzMTM3MDYx/NC0yNzA2LmpwZWc.jpeg) | 1996 | Infernal Destruction | Death, Violence, Satanism |
-| 4 | ![Cover](https://i.discogs.com/uz7sf-EzT1SW-KmRQm_BoDYnQt3RK-dngEUAZpyJUn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTEw/MDctMTMxMTYxMDEz/OC5qcGVn.jpeg) | 1997 | Borax | Ballistic |
-| 15 | ![Cover](https://i.discogs.com/DgIX4Xr2wc48bDapTqKzVtK9Dtima-qJ8VQucBl6lOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTYx/NzMtMTQ4MzM4NTUw/OS02NDU2LmpwZWc.jpeg) | 1997 | Echosilence | ...And Sorrow |
-| 34 | ![Cover](https://i.discogs.com/SluwnBfjuVBgWjdtczf53RcAZzMMhzAvuQw7p7D9hig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY5/MDctMTI4MjI5NDE3/MC5qcGVn.jpeg) | 1997 | Mimicry | Discipline EP |
-| 21 | ![Cover](https://i.discogs.com/rKTI4n_7uxeZ2kOlhfqeAgINY-HDNt6pfem-Qht-7hc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTA0/ODMtMTM5ODAzMDEz/Ny0zNjM3LmpwZWc.jpeg) | 1998 | The Sorts | Made In Nightonia |
-| 60 | ![Cover](https://i.discogs.com/IkOpdSngzCZZmu1TMeUaQ1D3nAKtEUtwUkj7K_68b4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njcx/OTItMTIzNjY5MTQ5/MS5qcGVn.jpeg) | 1998 | Metro Luminal | Sinus |
-| 62 | ![Cover](https://i.discogs.com/P4cvdNkiNc2hXCEwm671oTeuCcgkII_SZHprSSrweJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU3/LTEyNTE5OTQzODMu/anBlZw.jpeg) | 1998-03-09 | Propeller | Propa 15 |
-| 52 |  | 1999-02 | Uni | Kosmikud II |
-| 66 |  |  | пропажа | пропал кот |
-| 95 | ![Cover](https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg) | 1974 | Various Artists | Groove of ESSR: Funk, Disco, Jazz from Soviet Estonia |
-| 88 | ![Cover](https://i.discogs.com/4MOxNp8BSBMjNQ5ZwhuNKHqdK1zFMmG71KVyx9NbIn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTEx/NDYtMTMxMTYxNDcy/Ny5qcGVn.jpeg) | 1995 | Metro Luminal | Ainult rottidele |
-| 24 |  | 2000 | Kate | Kõik mis tehtud... |
-| 25 |  | 2002 | Collage | Parimad lood 1970-1976 |
-| 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ace22240081446dea0efbd5aa0913bb5.png) | 2002-02 | Luarvik Luarvik | Tabamata Ime |
-| 27 | ![Cover](https://i.discogs.com/ckDZ7DoANb-zBGv9uBHUv0mSYBREqG7ZjvpY90hRVE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODkz/NS0wMDEuanBn.jpeg) | 2002-11-17 | Taavi Tulev | [APL007] Televiisor On Tuksis |
-| 2 | ![Cover](https://i.discogs.com/2VLguJUeUBWEKtmHYxB9mS0qBpF3MUK9lQGHi_QUOWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTEx/Mi0xMTE3NDQ2MDI0/LmpwZw.jpeg) | 2003 | Kago | Piimaš |
-| 83 |  | 2003-11-07 | Chalice | Ühendatud inimesed |
-| 1 | ![Cover](https://i.discogs.com/5nfpXOahVjj90w3fRxE-ypGkxUf-_1p_rH1Iw2EAR1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDgx/MzItMTMwODY1MzQ2/Ni5qcGVn.jpeg) | 2004 | Plastic Whore | Elite Elbow Patch Collection EP 2011 |
-| 26 | ![Cover](https://i.discogs.com/5nfpXOahVjj90w3fRxE-ypGkxUf-_1p_rH1Iw2EAR1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDgx/MzItMTMwODY1MzQ2/Ni5qcGVn.jpeg) | 2004 | Plastic Whore | Wet Planet |
-| 85 | ![Cover](https://i.discogs.com/WQmonM-Z9dVhCFvyMWzwySz5cwOZcHLCsQEKl8WClKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI5/MjgtMTUzODk4MDE1/MC00MjQ3LmpwZWc.jpeg) | 2004 | Genialistid | Genialistid olid siin |
-| 82 |  | 2004-01-29 | Forgotten Sunrise | Ru:mipu:dus |
-| 16 | ![Cover](https://i.discogs.com/JTnIq5x0z2HxfFYeVYBeaEjEm-8N9MKadYBNF-CS0Ss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjY4/NjktMTE4OTU1MDQz/NS5qcGVn.jpeg) | 2004-08-16 | Paranomia | Le requiem pour les refrigerat |
-| 63 | ![Cover](https://i.discogs.com/sZEYa9dN9jhsB2rTxsVDKuwIBj93rKDMfIhX2aCOqHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTMx/NC0xNTQ3MTI3MTI4/LTc5NzAuanBlZw.jpeg) | 2005 | Chalice | Süsteemsüsteem |
-| 13 |  | 2005-12-07 | Singer Vinger | Eesti kullafond |
-| 46 | ![Cover](https://i.discogs.com/Vy9l8M_uekyKoiM0AWzw1CsRRIweMQyBVRtV0YXrGik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjQ0/MzYtMTU1MzYyNzA5/Ni01NjEyLmpwZWc.jpeg) | 2006-01-18 | J.M.K.E. | Malestusi Eesti NSV&#39;st |
-| 55 |  | 2006-03 | Kalvik | Kalvikkaanid |
-| 33 |  | 2006-05-15 | Kapusta ja ? | sisekosmosemasin |
-| 49 |  |  | Still Haunts Me | Remains Of Decay |
-| 90 | ![Cover](https://i.discogs.com/N62ubTroMFx_ptKXcT4O2VHTsAbRkpVOtU7qS2bkzq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTA5/OC0xMTc2MjkzNjc4/LmpwZWc.jpeg) | 2006-11-29 | Diskreetse Mango Trio | Prigadi-pragadi |
-| 35 | ![Cover](https://i.discogs.com/8orQfAOge3UFw4F9MaUeB-ioKL6E5Zd08ldvoWuH0Gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/MDgtMTE4MzI0ODY3/MS5qcGVn.jpeg) | 2007 | Fuck Yuo I am a Robot | Fuck Yuo I Am a Robot Unleashed |
-| 78 | ![Cover](https://i.discogs.com/8orQfAOge3UFw4F9MaUeB-ioKL6E5Zd08ldvoWuH0Gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/MDgtMTE4MzI0ODY3/MS5qcGVn.jpeg) | 2007-05 | Fuck Yuo I am a Robot | Compensator for the Accelerator |
-| 53 | ![Cover](https://i.discogs.com/MhhLbqz545-KLwBqbLdF6c2eHA4yWoetklCzm7XHfCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDgy/ODAtMTE4MzQ5MTAx/Mi5qcGVn.jpeg) | 2007-06-17 | .khi | I Had A Dream |
-| 38 | ![Cover](https://i.discogs.com/CK6u8y0vbynEc14CgriTC7DXSL2793A8RaZ-5fdRn8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgw/NTI2LTE2MDY0OTg1/NTktNDUyNi5qcGVn.jpeg) | 2008 | Multiphonic Rodent | Formations |
-| 43 | ![Cover](https://i.discogs.com/XnCElJEGED-9iYwEro93n6VF561D8sia_xi4I6e-k6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzAx/MzktMTU4MzQwODU4/MC0yMzM0LmpwZWc.jpeg) | 2008 | Vaiko Eplik &amp; Eliit | Kosmoseodüsseia |
-| 75 |  | 2008 | Chalice | Superv6imed |
-| 99 |  | 2008-02-24 | Metsatöll | Iivakivi |
-| 56 | ![Cover](https://i.discogs.com/zaknruEv9oQz_uHsViC_rj8h2MI7p3_RaERIkLpRPas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDI3/NjItMTIzNDY5MTYz/MC5qcGVn.jpeg) | 2008-12 | Lack of Eoins | Echo Group |
-| 8 | ![Cover](https://i.discogs.com/FRoJjdrYJYNFyRgrFysvF-cuJ3fWqCTMFxOUOTSbD00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTAw/ODAtMTQwNDQxMzM1/OS0xOTg3LmpwZWc.jpeg) | 2009 | Kreatiivmootor | Claudia singel |
-| 57 | ![Cover](https://i.discogs.com/FKqXBU3YgtVbKTCGxydN4LhYFmLFpQuGtBMBS8EVeCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDM3/NDQtMTY0NTgzNDc1/Mi0yMTgyLmpwZWc.jpeg) | 2009 | Francis Goya | Pleased to meet you Mr Valgre |
-| 67 | ![Cover](https://i.discogs.com/JaqwCfk0S_nU79LA2SbSpPt4hYD9AbwWf3CnRsvax2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTQ5/NDItMTM1NzEzMDIz/Ni04MzA2LmpwZWc.jpeg) | 2009 | Bestia | Ronkade Parved |
-| 45 | ![Cover](https://i.discogs.com/QLY4W7njqon9axyEat5ObKDBF3RHyx-y7CSftzAj770/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDM2/MDkwLTE1NzQ0OTg3/MjYtMjE5NS5qcGVn.jpeg) | 2009-04-17 | Microcobra | Please, play with me |
-| 68 | ![Cover](https://i.discogs.com/QLY4W7njqon9axyEat5ObKDBF3RHyx-y7CSftzAj770/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDM2/MDkwLTE1NzQ0OTg3/MjYtMjE5NS5qcGVn.jpeg) | 2009-05-03 | Microcobra | LUNAPARK |
-| 87 |  | 2009-11-02 | Röövel Ööbik | Ringrada |
-| 64 | ![Cover](https://i.discogs.com/RTNd9pK6CU8zwB372zp09nQEzTwsXzZeE1oLC9Q6HOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODU1/NzgtMTI4NjYzMzg1/Ny5qcGVn.jpeg) | 2009-11-19 | Birgit Õigemeel | Teineteisel Pool |
-| 81 | ![Cover](https://i.discogs.com/mDEDSmCFmjy8mpYCI_H97mUFh87REzcFB3ZuWWdZd24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQz/ODctMTI5NjQ2Njc4/Mi5qcGVn.jpeg) | 2009-12-24 | Tallinn Daggers | The Last Escape |
-| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5768e8abfa4c406fc0e7ac8f977b2069.png) | 2010 | Cantilena | Metallinn |
-| 7 | ![Cover](https://i.discogs.com/HapSRPeRrcnHYlU3gxAleWnhO3x-3W8rkkZ3hIcHjyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTgw/ODMtMTMyNDU1ODY1/Ni5naWY.jpeg) | 2010 | Music For Your Plants | S&#x2F;T |
-| 41 | ![Cover](https://i.discogs.com/CK_PsaKHqXphdTPiYQtVDXPZdlUlee0c6bpHJU4gANY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTEx/MjUtMTQwOTgxMDg2/OS0xODg5LmpwZWc.jpeg) | 2010 | Antonina | Pakike [singel 2010] |
-| 59 | ![Cover](https://i.discogs.com/VvJHsYIsuSzhcdRrwFChyvU4Y3_az-6nro2HNS4ZQis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODY4/NTgtMTI2MzIzMTYz/MC5qcGVn.jpeg) | 2010-01-05 | Microcobra | VERY HAPPY STRESS |
-| 96 | ![Cover](https://i.discogs.com/O-8nPESkFNsT32R08KIVqOXvnXB0c9MGAwDnmEwR_Kk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Nzk1/NjgtMTU1MzM1NzE3/Ni05MTE2LmpwZWc.jpeg) | 2010-05-18 | Lenna | LENNA |
-| 11 | ![Cover](https://i.discogs.com/zEqKAoj41oBr-Cq9IHPBK_eP-8MiN2LVl8xXRQNIB8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjMx/NzctMTQwMDIzNTUx/Ni0yMDgwLmpwZWc.jpeg) | 2011 | Out-Or | analog gentleman |
-| 73 | ![Cover](https://i.discogs.com/m7tl31lAeisil_VYzOwuW_reL1ad0IWJ4DEnNX185WU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTE2/NTUtMTM4MTE2NzE1/Ni00NjY0LmpwZWc.jpeg) | 2011 | Mia | Mia |
-| 65 |  | 2011-09-27 | Shirubi Ikazuchi | Warsoul |
-| 44 | ![Cover](https://i.discogs.com/m6CqoSTYGOHu4EGv05IvE6XdQB_DpbS-0uf2HiRm0KM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTQx/MTctMTMyNDM2NTg0/NC5qcGVn.jpeg) | 2011-12-09 | Käärkäsi | Demo Vol.1 |
-| 58 | ![Cover](https://i.discogs.com/m6CqoSTYGOHu4EGv05IvE6XdQB_DpbS-0uf2HiRm0KM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTQx/MTctMTMyNDM2NTg0/NC5qcGVn.jpeg) | 2011-12-09 | Käärkäsi | Tema Tegi |
-| 3 | ![Cover](https://i.discogs.com/PXCONrEATDXmxl0IrHNizbdzfh-CWAUu9wv53dhpytc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTcw/NjEtMTQ2Mjc5NDk2/OC02ODcwLmpwZWc.jpeg) | 2012 | Martiini | Virr-varri ähvardus |
-| 29 |  | 2012-01-25 | Epifolium | Epifolium |
-| 18 |  | 2012-02-11 | Ratkiller | Gallic Cones |
-| 91 | ![Cover](https://i.discogs.com/m_DxbPYaVbEodn_1AehzwFle9PW7IHkXiyrkTGIvo58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODIy/NzYtMTUwMDk3NTYx/MS01MTg3LmpwZWc.jpeg) | 2012-06-14 | Marten Kuningas | Janu |
-| 61 | ![Cover](https://i.discogs.com/jRS-OLZ3-n_RcyiePsN0R1odvN66yQX8excFa-BXkl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjMx/NTMtMTM0MzQwODk2/NC03NDE3LmpwZWc.jpeg) | 2012-06-15 | Kannabinõid | Kannabinõid EP |
-| 69 |  | 2012-10-26 | Music For Your Plants | Expedition Chant Cup |
-| 31 |  | 2012-11-13 | Ratkiller | Cellar Dweller |
-| 39 | ![Cover](https://i.discogs.com/mNo6vzU7N99_Yfy0K6J2iJQGrUscSyrTeuiGwvE8Jxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTc2/ODktMTQ2MjgwNjMx/Ni01MzYyLmpwZWc.jpeg) | 2013 | Iduvigik | Laulud lindudelt |
-| 79 |  | 2013-01-01 | Kerli | Utopia |
-| 37 |  | 2013-01-04 | Wrupk Urei | Teahupoo |
-| 23 | ![Cover](https://i.discogs.com/Cd9-3jILCrZn9eZUiKIbfLWeN30-jrOpLUQZBIyGut8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDIy/MjctMTM2OTYzODQz/Ni05OTQ0LmpwZWc.jpeg) | 2013-04 | Winny Puhh | Pole see jõumehe elu üldse kerge |
-| 5 | ![Cover](https://i.discogs.com/XcxLaLZQYzzEjwsZ4v-ftWZ3QVX4y09S5RgfotzjlaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzA0/MjcyLTE2NDg2ODI2/NTAtNTUzNC5qcGVn.jpeg) | 2013-04-29 | Kalimist | Hedbanger |
-| 72 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1008616250b940398662b276ed00ba49.png) | 2013-07-02 | Tallinn Daggers | Highwire Artists |
-| 19 | ![Cover](https://i.discogs.com/sWZY54sz7FdT6RDNVQyeW8HrgcO6I3c4-vEW2AX8CSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTIw/NzItMTM4NDgxMjA2/NC0yMjcwLmpwZWc.jpeg) | 2013-07-24 | Tahm | Styx |
-| 74 | ![Cover](https://i.discogs.com/_kz-olEwh2biG-pmDcqyMe6YNCb3yknBZRHAGbzMAPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODc0/NTYtMTM4OTY0NzA0/OS0yMjIyLmpwZWc.jpeg) | 2013-12 | Music For Your Plants | Humanity |
-| 17 | ![Cover](https://i.discogs.com/zR2ops-ifDVQ5ktFzfV0YlcbvdqTQxSTgF-WA2FmCaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjYw/MTMtMTM5MzA2OTA4/Ni04ODM1LmpwZWc.jpeg) | 2014 | Metsatöll | Karjajuht (US Version) |
-| 80 | ![Cover](https://i.discogs.com/yIjcYwmAbba129fNiCIPBk73YiERsBmlU61fozk1dOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTAy/OTUtMTQyMDk5MDAy/OS03MDAzLmpwZWc.jpeg) | 2014 | Winny Puhh | Kes küsib? |
-| 98 | ![Cover](https://i.discogs.com/nHQIt172k1tXDJ_oTFcHWFGaOR1ivbI27l58v2GhzGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzU3/OTU0LTE1MDM3Nzcx/NTgtOTQxOC5qcGVn.jpeg) | 2014 | Karl-Erik Taukar | Vääramatu jõud |
-| 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/20e8d6d45f2146fec69903498983c8ef.png) | 2014-02 | Vaiko Eplik | Nõgesed |
-| 12 | ![Cover](https://i.discogs.com/L76lIAW8O70hbS9AD9f17jYqqVJV9J20x11gXosdA-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTY0/OTQtMTQwMDIzNDIx/Ni01MzI0LmpwZWc.jpeg) | 2014-05-16 | Väntorel | Väntorel |
-| 71 | ![Cover](https://i.discogs.com/tl8PSNmlqSFKNlG4QatPiH4Bbd6onMDrHo2Whiq8CVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDQw/NTgtMTQyMTY1Njg4/OC04NDIxLmpwZWc.jpeg) | 2014-12 | Diskreetse Mango Trio | Hea mees (single) |
-| 47 | ![Cover](https://i.discogs.com/dffRW701uFjpd8z3sscc4pYTO2tr5i9OPSWCJ0GzHBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjA2/ODctMTQ1MTE0MDI5/Ni0zNjUyLmpwZWc.jpeg) | 2015 | Renate | Teekond Hingeni |
-| 86 | ![Cover](https://i.discogs.com/dhT5Z0_0pAtAn_H1L9nTStFOnvQeSLP4yYJabCWeydc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTM3/MzAtMTQ2MTEzMTk2/OS0yMzkyLmpwZWc.jpeg) | 2015 | Jüri Pootsmann | Jüri Pootsmann |
-| 30 | ![Cover](https://i.discogs.com/6xpNhnZ_twYZngY1r6MlgmB_6QmdRF-6u68IB1KSw8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTIw/NDQtMTQ1OTEzMzgw/NS0yMDM0LmpwZWc.jpeg) | 2015-04-20 | Abandoned Elysium | Abandoned Elysium |
-| 54 | ![Cover](https://i.discogs.com/6xpNhnZ_twYZngY1r6MlgmB_6QmdRF-6u68IB1KSw8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTIw/NDQtMTQ1OTEzMzgw/NS0yMDM0LmpwZWc.jpeg) | 2015-04-20 | Abandoned Elysium | Unmasked |
-| 97 | ![Cover](https://i.discogs.com/_u67h3B8tMOrAR19rWUHxLUwfinAV7G4CNVhgiybvBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODUy/ODUtMTQ0NDU3NDQ1/MS00NjM1LmpwZWc.jpeg) | 2015-10-01 | She Bit Her Lip | Viiv |
-| 92 | ![Cover](https://i.discogs.com/Rbe9Ty56Yo-l5ftvT4xLDjeaQOabRtFnQnwwa3AKyUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NTQ3/MjMtMTQ4MjY1NzEx/NS0xNDQwLmpwZWc.jpeg) | 2016-11-18 | Jüri Pootsmann | Täna |
-| 50 | ![Cover](https://i.discogs.com/R9uyqiq5_X-mOo_9wYx5-YQuKzkqDXCGdOspwaYqrBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTYy/MTgyLTE2MjI0ODU0/NTAtMzQ3OC5wbmc.jpeg) | 2017 | Sten-Olle | Kaustik |
-| 14 | ![Cover](https://i.discogs.com/ncpoSb6g_hlyC26HS0qBUpcCiM264_sYTqsxJ7yMgb0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMx/MTk3LTE1MzMwNzQ1/MDYtMTM4NC5qcGVn.jpeg) | 2018-08 | Öökülm | Säde |
-| 28 | ![Cover](https://i.discogs.com/Fc6FEot645Mh12h2drc4SGmmiicBThcP_bUfDknGZsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTU1/NTYzLTE1Njg4NzQ4/MjQtOTI1NS5qcGVn.jpeg) | 2019-09-17 | Parabol | Higher Ground |
-| 36 |  |  | L nagu Lauri | L nagu Lauri |
-| 89 | ![Cover](https://i.discogs.com/5DVx0nRHfv99k8it-21EXCINb7jbF1M0aOWk8yeYjXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njk5/NzE2LTE2MTQ5NDQ4/NTYtNTAwMy5qcGVn.jpeg) | 2021-03-04 | Freakangel | The Faults of Humanity (Deluxe Edition) |
-| 51 | ![Cover](https://i.discogs.com/YjH_cHSH7ICsdd1FvsxL37LxgHG-VSmrlAPQEq60FeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzI1/MDYyLTE2NDIxMDY4/MjMtNTU0MC5qcGVn.jpeg) | 2023-08-11 | Valu | valu |
-| 76 |  |  | пропажа | Fantazmo |
-| 77 |  |  | Jayne Lakissova | La Poupee |
-| 84 | ![Cover](https://i.discogs.com/Dvf1nN8G2NqWzlUb3HwURltI6_R4s4o-MT_5LHwhIyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDcy/MDA5LTE1NjE1NDg4/NDEtOTMwNC5qcGVn.jpeg) | 2018 | Reket | Rahu |
-| 48 | ![Cover](https://i.discogs.com/oXa7Ss9ewpvF8fXcHq13SXDMjpFUMowM5EWAq04hIZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjA2/Njg3LTE1OTQ0MjUz/NTYtMzI0My5qcGVn.jpeg) | 2020-06-05 | Digital Digital | Digicide |
-| 100 | ![Cover](https://i.discogs.com/GIGe6h47IvtJuIGnCJwJID3UMVudlh6yEouw3xVpetA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDU2/NDk0LTE3MDQ5ODQ3/ODctNjExMS5qcGVn.jpeg) | 2024-01-12 | Kerli | Alchemise |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Groove of ESSR: Funk, Disco, Jazz from Soviet Estonia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974</td>
+      <td>Various Artists</td>
+      <td>Groove of ESSR: Funk, Disco, Jazz from Soviet Estonia</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>1981</td>
+      <td>Sven Grünberg</td>
+      <td>Hingus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 61</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 92</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 93</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/FpvgPa1FCRNP2VXcAb-HsG4Lst2uYiWlYKp6g6G3EL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTM0/NC0xMTc1NTQ1MDI1/LmpwZWc.jpeg" alt="Cover for Rhinos and other forms of life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Ne Zhdali</td>
+      <td>Rhinos and other forms of life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/oWKUabGgy7aGbevyM5_e8O5Zk2SSqQBk1eTz11sxb2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDc0/ODczLTE1MzYwMDg5/NzYtMzQ1Ni5qcGVn.jpeg" alt="Cover for Eesti rahvalaule" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Reet</td>
+      <td>Eesti rahvalaule</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/fgWmIUsok7MthvTbBMeIOeLxQiXExeRNlpb13uwcG_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjU1/NTYtMTM4NzMxMjA2/NS0xNjAyLmpwZWc.jpeg" alt="Cover for Propeller 1980-1995" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Propeller</td>
+      <td>Propeller 1980-1995</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/4MOxNp8BSBMjNQ5ZwhuNKHqdK1zFMmG71KVyx9NbIn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTEx/NDYtMTMxMTYxNDcy/Ny5qcGVn.jpeg" alt="Cover for Ainult rottidele" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Metro Luminal</td>
+      <td>Ainult rottidele</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/XwxMPzlNbkgT_va8hvGyO7pPIxQL-rlc-HXagTwB5qw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTc0/NzQtMTQzMTM3MDYx/NC0yNzA2LmpwZWc.jpeg" alt="Cover for Death, Violence, Satanism" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Infernal Destruction</td>
+      <td>Death, Violence, Satanism</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/uz7sf-EzT1SW-KmRQm_BoDYnQt3RK-dngEUAZpyJUn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTEw/MDctMTMxMTYxMDEz/OC5qcGVn.jpeg" alt="Cover for Ballistic" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Borax</td>
+      <td>Ballistic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 17</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/DgIX4Xr2wc48bDapTqKzVtK9Dtima-qJ8VQucBl6lOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTYx/NzMtMTQ4MzM4NTUw/OS02NDU2LmpwZWc.jpeg" alt="Cover for ...And Sorrow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Echosilence</td>
+      <td>...And Sorrow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 21</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/SluwnBfjuVBgWjdtczf53RcAZzMMhzAvuQw7p7D9hig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY5/MDctMTI4MjI5NDE3/MC5qcGVn.jpeg" alt="Cover for Discipline EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Mimicry</td>
+      <td>Discipline EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 6</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 31</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/rKTI4n_7uxeZ2kOlhfqeAgINY-HDNt6pfem-Qht-7hc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTA0/ODMtMTM5ODAzMDEz/Ny0zNjM3LmpwZWc.jpeg" alt="Cover for Made In Nightonia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>The Sorts</td>
+      <td>Made In Nightonia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/IkOpdSngzCZZmu1TMeUaQ1D3nAKtEUtwUkj7K_68b4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njcx/OTItMTIzNjY5MTQ5/MS5qcGVn.jpeg" alt="Cover for Sinus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Metro Luminal</td>
+      <td>Sinus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 32</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 32</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 54</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 55</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/P4cvdNkiNc2hXCEwm671oTeuCcgkII_SZHprSSrweJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU3/LTEyNTE5OTQzODMu/anBlZw.jpeg" alt="Cover for Propa 15" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-03-09</td>
+      <td>Propeller</td>
+      <td>Propa 15</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+      </td>
+      <td>1999-02</td>
+      <td>Uni</td>
+      <td>Kosmikud II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Kate</td>
+      <td>Kõik mis tehtud...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>Collage</td>
+      <td>Parimad lood 1970-1976</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ace22240081446dea0efbd5aa0913bb5.png" alt="Cover for Tabamata Ime" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-02</td>
+      <td>Luarvik Luarvik</td>
+      <td>Tabamata Ime</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 12</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/ckDZ7DoANb-zBGv9uBHUv0mSYBREqG7ZjvpY90hRVE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODkz/NS0wMDEuanBn.jpeg" alt="Cover for [APL007] Televiisor On Tuksis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-11-17</td>
+      <td>Taavi Tulev</td>
+      <td>[APL007] Televiisor On Tuksis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/2VLguJUeUBWEKtmHYxB9mS0qBpF3MUK9lQGHi_QUOWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTEx/Mi0xMTE3NDQ2MDI0/LmpwZw.jpeg" alt="Cover for Piimaš" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Kago</td>
+      <td>Piimaš</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 1</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 20</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td>2003-11-07</td>
+      <td>Chalice</td>
+      <td>Ühendatud inimesed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/5nfpXOahVjj90w3fRxE-ypGkxUf-_1p_rH1Iw2EAR1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDgx/MzItMTMwODY1MzQ2/Ni5qcGVn.jpeg" alt="Cover for Elite Elbow Patch Collection EP 2011" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Plastic Whore</td>
+      <td>Elite Elbow Patch Collection EP 2011</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 15</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/5nfpXOahVjj90w3fRxE-ypGkxUf-_1p_rH1Iw2EAR1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDgx/MzItMTMwODY1MzQ2/Ni5qcGVn.jpeg" alt="Cover for Wet Planet" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Plastic Whore</td>
+      <td>Wet Planet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/WQmonM-Z9dVhCFvyMWzwySz5cwOZcHLCsQEKl8WClKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI5/MjgtMTUzODk4MDE1/MC00MjQ3LmpwZWc.jpeg" alt="Cover for Genialistid olid siin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Genialistid</td>
+      <td>Genialistid olid siin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>2004-01-29</td>
+      <td>Forgotten Sunrise</td>
+      <td>Ru:mipu:dus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/JTnIq5x0z2HxfFYeVYBeaEjEm-8N9MKadYBNF-CS0Ss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjY4/NjktMTE4OTU1MDQz/NS5qcGVn.jpeg" alt="Cover for Le requiem pour les refrigerat" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-08-16</td>
+      <td>Paranomia</td>
+      <td>Le requiem pour les refrigerat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 28</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/sZEYa9dN9jhsB2rTxsVDKuwIBj93rKDMfIhX2aCOqHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTMx/NC0xNTQ3MTI3MTI4/LTc5NzAuanBlZw.jpeg" alt="Cover for Süsteemsüsteem" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Chalice</td>
+      <td>Süsteemsüsteem</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+      </td>
+      <td>2005-12-07</td>
+      <td>Singer Vinger</td>
+      <td>Eesti kullafond</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/Vy9l8M_uekyKoiM0AWzw1CsRRIweMQyBVRtV0YXrGik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjQ0/MzYtMTU1MzYyNzA5/Ni01NjEyLmpwZWc.jpeg" alt="Cover for Malestusi Eesti NSV&#39;st" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-01-18</td>
+      <td>J.M.K.E.</td>
+      <td>Malestusi Eesti NSV&#39;st</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+      </td>
+      <td>2006-03</td>
+      <td>Kalvik</td>
+      <td>Kalvikkaanid</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+      </td>
+      <td>2006-05-15</td>
+      <td>Kapusta ja ?</td>
+      <td>sisekosmosemasin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/N62ubTroMFx_ptKXcT4O2VHTsAbRkpVOtU7qS2bkzq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTA5/OC0xMTc2MjkzNjc4/LmpwZWc.jpeg" alt="Cover for Prigadi-pragadi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-11-29</td>
+      <td>Diskreetse Mango Trio</td>
+      <td>Prigadi-pragadi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 44</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/8orQfAOge3UFw4F9MaUeB-ioKL6E5Zd08ldvoWuH0Gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/MDgtMTE4MzI0ODY3/MS5qcGVn.jpeg" alt="Cover for Fuck Yuo I Am a Robot Unleashed" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Fuck Yuo I am a Robot</td>
+      <td>Fuck Yuo I Am a Robot Unleashed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/8orQfAOge3UFw4F9MaUeB-ioKL6E5Zd08ldvoWuH0Gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/MDgtMTE4MzI0ODY3/MS5qcGVn.jpeg" alt="Cover for Compensator for the Accelerator" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-05</td>
+      <td>Fuck Yuo I am a Robot</td>
+      <td>Compensator for the Accelerator</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/MhhLbqz545-KLwBqbLdF6c2eHA4yWoetklCzm7XHfCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDgy/ODAtMTE4MzQ5MTAx/Mi5qcGVn.jpeg" alt="Cover for I Had A Dream" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-06-17</td>
+      <td>.khi</td>
+      <td>I Had A Dream</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 42</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 62</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/CK6u8y0vbynEc14CgriTC7DXSL2793A8RaZ-5fdRn8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgw/NTI2LTE2MDY0OTg1/NTktNDUyNi5qcGVn.jpeg" alt="Cover for Formations" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Multiphonic Rodent</td>
+      <td>Formations</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 27</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 49</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/XnCElJEGED-9iYwEro93n6VF561D8sia_xi4I6e-k6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzAx/MzktMTU4MzQwODU4/MC0yMzM0LmpwZWc.jpeg" alt="Cover for Kosmoseodüsseia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Vaiko Eplik &amp; Eliit</td>
+      <td>Kosmoseodüsseia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 29</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 53</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Chalice</td>
+      <td>Superv6imed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>2008-02-24</td>
+      <td>Metsatöll</td>
+      <td>Iivakivi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/zaknruEv9oQz_uHsViC_rj8h2MI7p3_RaERIkLpRPas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDI3/NjItMTIzNDY5MTYz/MC5qcGVn.jpeg" alt="Cover for Echo Group" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-12</td>
+      <td>Lack of Eoins</td>
+      <td>Echo Group</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 70</li>
+            <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/FRoJjdrYJYNFyRgrFysvF-cuJ3fWqCTMFxOUOTSbD00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTAw/ODAtMTQwNDQxMzM1/OS0xOTg3LmpwZWc.jpeg" alt="Cover for Claudia singel" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Kreatiivmootor</td>
+      <td>Claudia singel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dada" | relative_url }}">dada</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/FKqXBU3YgtVbKTCGxydN4LhYFmLFpQuGtBMBS8EVeCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDM3/NDQtMTY0NTgzNDc1/Mi0yMTgyLmpwZWc.jpeg" alt="Cover for Pleased to meet you Mr Valgre" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Francis Goya</td>
+      <td>Pleased to meet you Mr Valgre</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/JaqwCfk0S_nU79LA2SbSpPt4hYD9AbwWf3CnRsvax2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTQ5/NDItMTM1NzEzMDIz/Ni04MzA2LmpwZWc.jpeg" alt="Cover for Ronkade Parved" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Bestia</td>
+      <td>Ronkade Parved</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/QLY4W7njqon9axyEat5ObKDBF3RHyx-y7CSftzAj770/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDM2/MDkwLTE1NzQ0OTg3/MjYtMjE5NS5qcGVn.jpeg" alt="Cover for Please, play with me" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-04-17</td>
+      <td>Microcobra</td>
+      <td>Please, play with me</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/QLY4W7njqon9axyEat5ObKDBF3RHyx-y7CSftzAj770/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDM2/MDkwLTE1NzQ0OTg3/MjYtMjE5NS5qcGVn.jpeg" alt="Cover for LUNAPARK" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-05-03</td>
+      <td>Microcobra</td>
+      <td>LUNAPARK</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td>2009-11-02</td>
+      <td>Röövel Ööbik</td>
+      <td>Ringrada</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/RTNd9pK6CU8zwB372zp09nQEzTwsXzZeE1oLC9Q6HOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODU1/NzgtMTI4NjYzMzg1/Ny5qcGVn.jpeg" alt="Cover for Teineteisel Pool" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-11-19</td>
+      <td>Birgit Õigemeel</td>
+      <td>Teineteisel Pool</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/mDEDSmCFmjy8mpYCI_H97mUFh87REzcFB3ZuWWdZd24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQz/ODctMTI5NjQ2Njc4/Mi5qcGVn.jpeg" alt="Cover for The Last Escape" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-12-24</td>
+      <td>Tallinn Daggers</td>
+      <td>The Last Escape</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 36</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/CK_PsaKHqXphdTPiYQtVDXPZdlUlee0c6bpHJU4gANY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTEx/MjUtMTQwOTgxMDg2/OS0xODg5LmpwZWc.jpeg" alt="Cover for Pakike [singel 2010]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Antonina</td>
+      <td>Pakike [singel 2010]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5768e8abfa4c406fc0e7ac8f977b2069.png" alt="Cover for Metallinn" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Cantilena</td>
+      <td>Metallinn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/HapSRPeRrcnHYlU3gxAleWnhO3x-3W8rkkZ3hIcHjyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTgw/ODMtMTMyNDU1ODY1/Ni5naWY.jpeg" alt="Cover for S&#x2F;T" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Music For Your Plants</td>
+      <td>S&#x2F;T</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/VvJHsYIsuSzhcdRrwFChyvU4Y3_az-6nro2HNS4ZQis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODY4/NTgtMTI2MzIzMTYz/MC5qcGVn.jpeg" alt="Cover for VERY HAPPY STRESS" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-01-05</td>
+      <td>Microcobra</td>
+      <td>VERY HAPPY STRESS</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/O-8nPESkFNsT32R08KIVqOXvnXB0c9MGAwDnmEwR_Kk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Nzk1/NjgtMTU1MzM1NzE3/Ni05MTE2LmpwZWc.jpeg" alt="Cover for LENNA" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-05-18</td>
+      <td>Lenna</td>
+      <td>LENNA</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/zEqKAoj41oBr-Cq9IHPBK_eP-8MiN2LVl8xXRQNIB8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjMx/NzctMTQwMDIzNTUx/Ni0yMDgwLmpwZWc.jpeg" alt="Cover for analog gentleman" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Out-Or</td>
+      <td>analog gentleman</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 21</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/m7tl31lAeisil_VYzOwuW_reL1ad0IWJ4DEnNX185WU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTE2/NTUtMTM4MTE2NzE1/Ni00NjY0LmpwZWc.jpeg" alt="Cover for Mia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Mia</td>
+      <td>Mia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td>2011-09-27</td>
+      <td>Shirubi Ikazuchi</td>
+      <td>Warsoul</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 20</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/m6CqoSTYGOHu4EGv05IvE6XdQB_DpbS-0uf2HiRm0KM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTQx/MTctMTMyNDM2NTg0/NC5qcGVn.jpeg" alt="Cover for Demo Vol.1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-12-09</td>
+      <td>Käärkäsi</td>
+      <td>Demo Vol.1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/m6CqoSTYGOHu4EGv05IvE6XdQB_DpbS-0uf2HiRm0KM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTQx/MTctMTMyNDM2NTg0/NC5qcGVn.jpeg" alt="Cover for Tema Tegi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-12-09</td>
+      <td>Käärkäsi</td>
+      <td>Tema Tegi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/PXCONrEATDXmxl0IrHNizbdzfh-CWAUu9wv53dhpytc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTcw/NjEtMTQ2Mjc5NDk2/OC02ODcwLmpwZWc.jpeg" alt="Cover for Virr-varri ähvardus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Martiini</td>
+      <td>Virr-varri ähvardus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td>2012-01-25</td>
+      <td>Epifolium</td>
+      <td>Epifolium</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td>2012-02-11</td>
+      <td>Ratkiller</td>
+      <td>Gallic Cones</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/m_DxbPYaVbEodn_1AehzwFle9PW7IHkXiyrkTGIvo58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODIy/NzYtMTUwMDk3NTYx/MS01MTg3LmpwZWc.jpeg" alt="Cover for Janu" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-06-14</td>
+      <td>Marten Kuningas</td>
+      <td>Janu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 90</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 91</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/jRS-OLZ3-n_RcyiePsN0R1odvN66yQX8excFa-BXkl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjMx/NTMtMTM0MzQwODk2/NC03NDE3LmpwZWc.jpeg" alt="Cover for Kannabinõid EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-06-15</td>
+      <td>Kannabinõid</td>
+      <td>Kannabinõid EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td>2012-10-26</td>
+      <td>Music For Your Plants</td>
+      <td>Expedition Chant Cup</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+      </td>
+      <td>2012-11-13</td>
+      <td>Ratkiller</td>
+      <td>Cellar Dweller</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 23</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 42</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/mNo6vzU7N99_Yfy0K6J2iJQGrUscSyrTeuiGwvE8Jxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTc2/ODktMTQ2MjgwNjMx/Ni01MzYyLmpwZWc.jpeg" alt="Cover for Laulud lindudelt" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Iduvigik</td>
+      <td>Laulud lindudelt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 17</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 28</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 50</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 51</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td>2013-01-01</td>
+      <td>Kerli</td>
+      <td>Utopia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>2013-01-04</td>
+      <td>Wrupk Urei</td>
+      <td>Teahupoo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/XcxLaLZQYzzEjwsZ4v-ftWZ3QVX4y09S5RgfotzjlaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzA0/MjcyLTE2NDg2ODI2/NTAtNTUzNC5qcGVn.jpeg" alt="Cover for Hedbanger" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-04-29</td>
+      <td>Kalimist</td>
+      <td>Hedbanger</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grime" | relative_url }}">grime</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/Cd9-3jILCrZn9eZUiKIbfLWeN30-jrOpLUQZBIyGut8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDIy/MjctMTM2OTYzODQz/Ni05OTQ0LmpwZWc.jpeg" alt="Cover for Pole see jõumehe elu üldse kerge" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-04</td>
+      <td>Winny Puhh</td>
+      <td>Pole see jõumehe elu üldse kerge</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1008616250b940398662b276ed00ba49.png" alt="Cover for Highwire Artists" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-07-02</td>
+      <td>Tallinn Daggers</td>
+      <td>Highwire Artists</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/sWZY54sz7FdT6RDNVQyeW8HrgcO6I3c4-vEW2AX8CSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTIw/NzItMTM4NDgxMjA2/NC0yMjcwLmpwZWc.jpeg" alt="Cover for Styx" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-07-24</td>
+      <td>Tahm</td>
+      <td>Styx</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 32</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 36</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/_kz-olEwh2biG-pmDcqyMe6YNCb3yknBZRHAGbzMAPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODc0/NTYtMTM4OTY0NzA0/OS0yMjIyLmpwZWc.jpeg" alt="Cover for Humanity" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-12</td>
+      <td>Music For Your Plants</td>
+      <td>Humanity</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 39</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/yIjcYwmAbba129fNiCIPBk73YiERsBmlU61fozk1dOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTAy/OTUtMTQyMDk5MDAy/OS03MDAzLmpwZWc.jpeg" alt="Cover for Kes küsib?" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Winny Puhh</td>
+      <td>Kes küsib?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 20</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/zR2ops-ifDVQ5ktFzfV0YlcbvdqTQxSTgF-WA2FmCaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjYw/MTMtMTM5MzA2OTA4/Ni04ODM1LmpwZWc.jpeg" alt="Cover for Karjajuht (US Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Metsatöll</td>
+      <td>Karjajuht (US Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/nHQIt172k1tXDJ_oTFcHWFGaOR1ivbI27l58v2GhzGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzU3/OTU0LTE1MDM3Nzcx/NTgtOTQxOC5qcGVn.jpeg" alt="Cover for Vääramatu jõud" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Karl-Erik Taukar</td>
+      <td>Vääramatu jõud</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20e8d6d45f2146fec69903498983c8ef.png" alt="Cover for Nõgesed" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-02</td>
+      <td>Vaiko Eplik</td>
+      <td>Nõgesed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 91</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 92</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/L76lIAW8O70hbS9AD9f17jYqqVJV9J20x11gXosdA-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTY0/OTQtMTQwMDIzNDIx/Ni01MzI0LmpwZWc.jpeg" alt="Cover for Väntorel" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-05-16</td>
+      <td>Väntorel</td>
+      <td>Väntorel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/tl8PSNmlqSFKNlG4QatPiH4Bbd6onMDrHo2Whiq8CVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDQw/NTgtMTQyMTY1Njg4/OC04NDIxLmpwZWc.jpeg" alt="Cover for Hea mees (single)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-12</td>
+      <td>Diskreetse Mango Trio</td>
+      <td>Hea mees (single)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 29</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/dffRW701uFjpd8z3sscc4pYTO2tr5i9OPSWCJ0GzHBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjA2/ODctMTQ1MTE0MDI5/Ni0zNjUyLmpwZWc.jpeg" alt="Cover for Teekond Hingeni" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Renate</td>
+      <td>Teekond Hingeni</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/dhT5Z0_0pAtAn_H1L9nTStFOnvQeSLP4yYJabCWeydc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTM3/MzAtMTQ2MTEzMTk2/OS0yMzkyLmpwZWc.jpeg" alt="Cover for Jüri Pootsmann" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Jüri Pootsmann</td>
+      <td>Jüri Pootsmann</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/6xpNhnZ_twYZngY1r6MlgmB_6QmdRF-6u68IB1KSw8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTIw/NDQtMTQ1OTEzMzgw/NS0yMDM0LmpwZWc.jpeg" alt="Cover for Unmasked" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-04-20</td>
+      <td>Abandoned Elysium</td>
+      <td>Unmasked</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 23</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/6xpNhnZ_twYZngY1r6MlgmB_6QmdRF-6u68IB1KSw8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTIw/NDQtMTQ1OTEzMzgw/NS0yMDM0LmpwZWc.jpeg" alt="Cover for Abandoned Elysium" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-04-20</td>
+      <td>Abandoned Elysium</td>
+      <td>Abandoned Elysium</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/djent" | relative_url }}">djent</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/_u67h3B8tMOrAR19rWUHxLUwfinAV7G4CNVhgiybvBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODUy/ODUtMTQ0NDU3NDQ1/MS00NjM1LmpwZWc.jpeg" alt="Cover for Viiv" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-10-01</td>
+      <td>She Bit Her Lip</td>
+      <td>Viiv</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/Rbe9Ty56Yo-l5ftvT4xLDjeaQOabRtFnQnwwa3AKyUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NTQ3/MjMtMTQ4MjY1NzEx/NS0xNDQwLmpwZWc.jpeg" alt="Cover for Täna" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-11-18</td>
+      <td>Jüri Pootsmann</td>
+      <td>Täna</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/R9uyqiq5_X-mOo_9wYx5-YQuKzkqDXCGdOspwaYqrBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTYy/MTgyLTE2MjI0ODU0/NTAtMzQ3OC5wbmc.jpeg" alt="Cover for Kaustik" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Sten-Olle</td>
+      <td>Kaustik</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/Dvf1nN8G2NqWzlUb3HwURltI6_R4s4o-MT_5LHwhIyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDcy/MDA5LTE1NjE1NDg4/NDEtOTMwNC5qcGVn.jpeg" alt="Cover for Rahu" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Reket</td>
+      <td>Rahu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/ncpoSb6g_hlyC26HS0qBUpcCiM264_sYTqsxJ7yMgb0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMx/MTk3LTE1MzMwNzQ1/MDYtMTM4NC5qcGVn.jpeg" alt="Cover for Säde" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-08</td>
+      <td>Öökülm</td>
+      <td>Säde</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/Fc6FEot645Mh12h2drc4SGmmiicBThcP_bUfDknGZsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTU1/NTYzLTE1Njg4NzQ4/MjQtOTI1NS5qcGVn.jpeg" alt="Cover for Higher Ground" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-09-17</td>
+      <td>Parabol</td>
+      <td>Higher Ground</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/djent" | relative_url }}">djent</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/oXa7Ss9ewpvF8fXcHq13SXDMjpFUMowM5EWAq04hIZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjA2/Njg3LTE1OTQ0MjUz/NTYtMzI0My5qcGVn.jpeg" alt="Cover for Digicide" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-06-05</td>
+      <td>Digital Digital</td>
+      <td>Digicide</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/5DVx0nRHfv99k8it-21EXCINb7jbF1M0aOWk8yeYjXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njk5/NzE2LTE2MTQ5NDQ4/NTYtNTAwMy5qcGVn.jpeg" alt="Cover for The Faults of Humanity (Deluxe Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-03-04</td>
+      <td>Freakangel</td>
+      <td>The Faults of Humanity (Deluxe Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/YjH_cHSH7ICsdd1FvsxL37LxgHG-VSmrlAPQEq60FeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzI1/MDYyLTE2NDIxMDY4/MjMtNTU0MC5qcGVn.jpeg" alt="Cover for valu" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-08-11</td>
+      <td>Valu</td>
+      <td>valu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/GIGe6h47IvtJuIGnCJwJID3UMVudlh6yEouw3xVpetA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDU2/NDk0LTE3MDQ5ODQ3/ODctNjExMS5qcGVn.jpeg" alt="Cover for Alchemise" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-01-12</td>
+      <td>Kerli</td>
+      <td>Alchemise</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Hidden Lane</td>
+      <td>Demo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Jayne Lakissova</td>
+      <td>La Poupee</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td></td>
+      <td>LoopMaster Luke</td>
+      <td>Luke Nukem EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Chorome</td>
+      <td>Best of Chorome: Discography 2002-2005 (Last.fm Digital Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td></td>
+      <td>L nagu Lauri</td>
+      <td>L nagu Lauri</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Still Haunts Me</td>
+      <td>Remains Of Decay</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td></td>
+      <td>пропажа</td>
+      <td>пропал кот</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td></td>
+      <td>пропажа</td>
+      <td>Fantazmo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

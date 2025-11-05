@@ -1,13 +1,17 @@
 ---
 category: genre
-date: 2025-10-25T09:36:50.577Z
+date: 2025-10-25T06:36:50.577Z
 permalink: tags/ukrainian-black-metal
 title: ukrainian black metal
 ---
 
 ## ukrainian black metal
 
-Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-25T06:36:50.577Z">Sat Oct 25 2025 09:36:50 GMT+0300 (Eastern European Summer Time)</time>
+
+### Description
+
+Ukrainian black metal fuses the raw, atmospheric intensity of black metal with deep connections to Slavic paganism, folklore, and the vast landscapes of Eastern Europe. The music often emphasizes melancholic melodies, nature worship, and themes of ancestral heritage, creating a distinctly regional interpretation of the genre. Productions range from lo-fi and primitive to epic and ambient, frequently incorporating local folk elements and sung or spoken passages in Ukrainian.
 
 ### 100 chronological releases
 

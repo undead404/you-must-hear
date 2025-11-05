@@ -9,6 +9,10 @@ title: hindustani
 
 Last updated: <time datetime="2025-11-02T18:27:50.995Z">Sun Nov 02 2025 20:27:50 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Hindustani refers to the classical music tradition of North India, characterized by intricate melodic frameworks called ragas and rhythmic cycles known as talas. This centuries-old art form emphasizes improvisation and spiritual expression, featuring instruments like the sitar, tabla, and sarangi alongside devoted vocal traditions. The style blends meditative depth with technical virtuosity, creating performances that can range from contemplative alaps to energetic compositions.
+
 ### 100 chronological releases
 
 <table>

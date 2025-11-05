@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-05T07:20:51.565Z
+date: 2025-11-05T08:11:55.439Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-05T07:20:51.565Z">Wed Nov 05 2025 09:20:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-05T08:11:55.439Z">Wed Nov 05 2025 10:11:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [late romantic]({{ "tags/late-romantic" | relative_url }}) | <time datetime="2025-11-05T08:11:55.439Z">Wed Nov 05 2025 10:11:55 GMT+0200 (Eastern European Standard Time)</time> |
+| [groove metal]({{ "tags/groove-metal" | relative_url }}) | <time datetime="2025-11-05T07:39:51.456Z">Wed Nov 05 2025 09:39:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [nu metal]({{ "tags/nu-metal" | relative_url }}) | <time datetime="2025-11-05T07:20:51.565Z">Wed Nov 05 2025 09:20:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [zen]({{ "tags/zen" | relative_url }}) | <time datetime="2025-11-05T05:38:52.058Z">Wed Nov 05 2025 07:38:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [spanish guitar]({{ "tags/spanish-guitar" | relative_url }}) | <time datetime="2025-11-05T05:31:51.566Z">Wed Nov 05 2025 07:31:51 GMT+0200 (Eastern European Standard Time)</time> |
@@ -112,7 +114,6 @@ Last updated: <time datetime="2025-11-05T07:20:51.565Z">Wed Nov 05 2025 09:20:51
 | [quartet]({{ "tags/quartet" | relative_url }}) | <time datetime="2025-11-03T23:55:00.303Z">Tue Nov 04 2025 01:55:00 GMT+0200 (Eastern European Standard Time)</time> |
 | [atlanta]({{ "tags/atlanta" | relative_url }}) | <time datetime="2025-11-03T21:28:27.590Z">Mon Nov 03 2025 23:28:27 GMT+0200 (Eastern European Standard Time)</time> |
 | [avant-garde metal]({{ "tags/avant-garde-metal" | relative_url }}) | <time datetime="2025-11-03T20:33:20.024Z">Mon Nov 03 2025 22:33:20 GMT+0200 (Eastern European Standard Time)</time> |
-| [late romantic]({{ "tags/late-romantic" | relative_url }}) | <time datetime="2025-11-03T20:32:21.843Z">Mon Nov 03 2025 22:32:21 GMT+0200 (Eastern European Standard Time)</time> |
 | [city pop]({{ "tags/city-pop" | relative_url }}) | <time datetime="2025-11-03T20:31:45.015Z">Mon Nov 03 2025 22:31:45 GMT+0200 (Eastern European Standard Time)</time> |
 | [jazz hop]({{ "tags/jazz-hop" | relative_url }}) | <time datetime="2025-11-03T20:31:18.791Z">Mon Nov 03 2025 22:31:18 GMT+0200 (Eastern European Standard Time)</time> |
 | [stoner metal]({{ "tags/stoner-metal" | relative_url }}) | <time datetime="2025-11-03T20:30:51.593Z">Mon Nov 03 2025 22:30:51 GMT+0200 (Eastern European Standard Time)</time> |
@@ -238,7 +239,6 @@ Last updated: <time datetime="2025-11-05T07:20:51.565Z">Wed Nov 05 2025 09:20:51
 | [acoustic]({{ "tags/acoustic" | relative_url }}) | <time datetime="2025-11-02T15:57:52.174Z">Sun Nov 02 2025 17:57:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [visual kei]({{ "tags/visual-kei" | relative_url }}) | <time datetime="2025-11-02T13:50:50.930Z">Sun Nov 02 2025 15:50:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [electropop]({{ "tags/electropop" | relative_url }}) | <time datetime="2025-11-02T11:13:51.476Z">Sun Nov 02 2025 13:13:51 GMT+0200 (Eastern European Standard Time)</time> |
-| [groove metal]({{ "tags/groove-metal" | relative_url }}) | <time datetime="2025-11-02T11:07:51.219Z">Sun Nov 02 2025 13:07:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [j-rock]({{ "tags/j-rock" | relative_url }}) | <time datetime="2025-11-02T08:49:51.547Z">Sun Nov 02 2025 10:49:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [melodic metalcore]({{ "tags/melodic-metalcore" | relative_url }}) | <time datetime="2025-11-02T07:01:51.247Z">Sun Nov 02 2025 09:01:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [northern soul]({{ "tags/northern-soul" | relative_url }}) | <time datetime="2025-11-02T06:37:51.014Z">Sun Nov 02 2025 08:37:51 GMT+0200 (Eastern European Standard Time)</time> |
