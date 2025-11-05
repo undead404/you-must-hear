@@ -9,6 +9,10 @@ title: melodic hard rock
 
 Last updated: <time datetime="2025-11-03T12:26:50.994Z">Mon Nov 03 2025 14:26:50 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Melodic hard rock blends the power and energy of heavy guitar-driven rock with strong vocal melodies and memorable hooks that emphasize accessibility and sing-along appeal. Emerging from the arena rock tradition of the 1980s, it maintains a polished production style while balancing aggression with musicality. The tag emphasizes emotional expression through soaring vocals and anthemic choruses rather than pure heaviness.
+
 ### 100 chronological releases
 
 <table>
@@ -93,7 +97,7 @@ Last updated: <time datetime="2025-11-03T12:26:50.994Z">Mon Nov 03 2025 14:26:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 48</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -841,7 +845,7 @@ Last updated: <time datetime="2025-11-03T12:26:50.994Z">Mon Nov 03 2025 14:26:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 5</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -915,7 +919,7 @@ Last updated: <time datetime="2025-11-03T12:26:50.994Z">Mon Nov 03 2025 14:26:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 21</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 23</li>
         </ul>
       </td>
     </tr>

@@ -1,118 +1,2186 @@
 ---
 category: genre
-date: 2025-10-28T08:16:28.698Z
+date: 2025-11-04T20:51:44.619Z
 permalink: tags/progressive-pop
 title: progressive pop
 ---
 
 ## progressive pop
 
-Last updated: <time datetime="2025-10-28T08:16:28.698Z">Tue Oct 28 2025 10:16:28 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T20:51:44.619Z">Tue Nov 04 2025 22:51:44 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Progressive pop is a subgenre of pop music that emerged in the late 1960s and early 1970s. It incorporates elements from various musical styles, such as rock, jazz, classical, and experimental music, and focuses on complex song structures, unusual time signatures, and intricate instrumental arrangements. Progressive pop often features sophisticated vocal harmonies, intricate melodies, and thought-provoking lyrics that explore social, political, and philosophical issues. Some of the most famous progressive pop bands include The Beatles, Pink Floyd, Genesis, Yes, and Emerson, Lake &amp; Palmer.
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/aa5372c785c9d4188cc32788cd914c04.png) | 1966-05-16 | The Beach Boys | Pet Sounds |
-| 70 | ![Cover](https://i.discogs.com/45s3kHunRtp8qOIesLytiUOOx-zXP2rgdbYFKIu1j9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mjg4/OTctMTY4NDMzOTM5/Ny03ODk4LmpwZWc.jpeg) | 1966-10-10 | The Beach Boys | Good Vibrations |
-| 84 |  | 1971-08-30 | The Beach Boys | Surf&#39;s Up |
-| 83 | ![Cover](https://i.discogs.com/JLty8sxK8H1YuDIvSfqBPZa-F_IOR75PVvNVLzAri6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjQ4/OS0xNDMyNzUzNDIz/LTQ3NjAuanBlZw.jpeg) | 1975 | Queen | Bohemian Rhapsody |
-| 89 |  | 1975-03-11 | 10cc | The Original Soundtrack |
-| 5 | ![Cover](https://i.discogs.com/NsnzqL7COezkl4umSF4jdWPv4VVRro-lmLTeXqewVrA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTg0/NjMtMTI2MTI1OTc0/MS5qcGVn.jpeg) | 1978 | R. Stevie Moore | SheetRock |
-| 16 | ![Cover](https://i.discogs.com/k6KUBtb5cINLHrasJW5iH5gJpvhuvRzXUYlq7mYTD0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjk2/ODUtMTI2NDQ1NTYx/OC5qcGVn.jpeg) | 1978 | The Beach Boys | Holland (2000 Remaster) |
-| 40 | ![Cover](https://i.discogs.com/F_vPZL_dNpS07OJSxksGcLu8eg3mh6VaVsF62yLIpjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODA3/NC0xNDgzMTAzODY4/LTY1MTYuanBlZw.jpeg) | 1978 | Peter Gabriel | Peter Gabriel 3: Melt (Remastered Version) |
-| 42 | ![Cover](https://i.discogs.com/44uIGe-gVIPL5qvEvLReVx73pgV8EwODIzWyV1eMhHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzQx/MzItMTI2MjUxNzg5/OC5qcGVn.jpeg) | 1978 | The Beach Boys | Love You (Remastered) |
-| 67 | ![Cover](https://i.discogs.com/j8hD-RkDRa1T0NjVr8BV9u4JNFSNQIumbPaOPO8a7UM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Nzg3/OC0xMzk0NTE0MTIx/LTg1MzcuanBlZw.jpeg) | 1978 | &quot;Blue&quot; Gene Tyranny | Out of the Blue (40th Anniversary Remaster) |
-| 52 | ![Cover](https://i.discogs.com/lmzfAF1tOjBC4D5FpldyJ9dPWLy6x6I4p_KjxPFWOw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzIz/NjMtMTM1MzI0NjEx/OC03NjMzLmpwZWc.jpeg) | 1979 | Arawak | Accadde a… |
-| 38 | ![Cover](https://i.discogs.com/G8kuuGD8H2Kj8FiEXBVf_yjOuiFqPIwDmyQISJOt-KI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzI0/MDItMTI5NDE3NTM1/OC5qcGVn.jpeg) | 1980 | Kate Bush | Never Forever |
-| 39 |  | 1980-09-08 | Kate Bush | Never for Ever |
-| 19 |  | 1982-09-13 | Kate Bush | The Dreaming |
-| 12 | ![Cover](https://i.discogs.com/CrDFlMcKTT_otbVvgAWtujgWPrv0vZ2WUaVrwIvHKJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjMx/OTctMTY2Mzk2MDQ3/MC0xNjE4LmpwZWc.jpeg) | 1983 | Luis Alberto Spinetta | Mondo Di Cromo |
-| 53 | ![Cover](https://i.discogs.com/_AF14OwzZPByGdCIQvxtNawh_ANWbEjgMNdGyXtXJsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDM1/NTMtMTQyNDY2Mzgz/NC0zODA5LmpwZWc.jpeg) | 1984 | Miguel Bosé | Bandido |
-| 75 | ![Cover](https://i.discogs.com/vta2B6Ha2_sr_iFQVK3kJiyo95AV2IXF23hLofiI_e8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTYw/OTU1LTE2NDM2NDQ0/NDAtNzE3Ni5qcGVn.jpeg) | 1984 | fun. | Aim and Ignite [Deluxe Version] |
-| 26 | ![Cover](https://i.discogs.com/zRIcP7UolloiORRpkf9hc57020X5MVsCBJu9xl60h8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODY1/MS0xMzM4OTc1NjM4/LTk4MDYuanBlZw.jpeg) | 1985 | Kate Bush | Hounds Of Love (remastered) |
-| 95 | ![Cover](https://i.discogs.com/XlnbA4GAIpYcTAMltE7g1lXLg0uioORw6pzcfWCqBa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTg4/MzU0LTE2NTUzNDMw/MjEtNjAyNC5qcGVn.jpeg) | 1985 | Kate Bush | Hounds of Love (2018 Remaster) |
-| 78 |  | 1985-07-30 | Kate Bush | Hounds of Love |
-| 71 | ![Cover](https://i.discogs.com/LCBjJNdgSt6Ktdl1-knX_gDRabukwK5HaAQmasJcDN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODcz/MjctMTQyODc4NTA5/MS01NzM4LmpwZWc.jpeg) | 1989-08-30 | The Beach Boys | Smiley Smile (Remastered) |
-| 73 | ![Cover](https://i.discogs.com/tMVCLEs0cPSbxn3D26xAzS7BPd4XIxHpYDw880lZlJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTE5/MjQtMTIzODUzODAx/OC5qcGVn.jpeg) | 1989-09-19 | Tears for Fears | The Seeds of Love |
-| 90 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a4bbf73ba62024be279364e867b0ca20.png) | 1991 | The Beatles | Abbey Road (Remastered) |
-| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/573e51b6764b30d991e67d607ed268f0.png) | 1993 | Paul McCartney | Band on the Run |
-| 77 | ![Cover](https://i.discogs.com/2Pzj_n2pGpaDsQQYizwFx5rQamR_TpSt9nGJclfMZGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzAz/NzEtMTQ1NjY5OTk5/Ni01NzA2LmpwZWc.jpeg) | 1996 | Kate Bush | Lionheart (2018 Remaster) |
-| 8 | ![Cover](https://i.discogs.com/Zn2laoJdFZCNoYDT20VQJXbUb3_lKgjpIubbGvL8Gno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODAy/Ny0xMjAyMzc4MDY5/LmpwZWc.jpeg) | 1996-01-15 | Komeda | The Genius Of Komeda |
-| 68 | ![Cover](https://i.discogs.com/VK7IPJ6mOJ-SAnMhOlaoJ2nFAmalSxNtVYswo9K0T0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODMy/ODctMTU0MTM0NDA1/My04MTczLmpwZWc.jpeg) | 1996-10-25 | Fishmans | Long Season |
-| 21 | ![Cover](https://i.discogs.com/k44-DbXq6sU_C6bLYCvLxYgKj83HQsbDqTvxrjEcnNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTYy/OC0xNDM2NjUwOTMx/LTgxMDIuanBlZw.jpeg) | 1999 | The Residents | Intruders |
-| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/efb341c4338f7614a41d4933344ece51.png) | 1999-07-13 | Self | Breakfast With Girls |
-| 58 | ![Cover](https://i.discogs.com/a2oDVKBn3Hirk3hSsbFUfMieOSu0i7P7PZMgEvF3Y1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTg5/MjAtMTI1ODg4NjE2/MS5qcGVn.jpeg) | 2000-06 | a-ha | MTV Unplugged - Summer Solstice |
-| 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cd18a245898745a49296667dbf9c4bc4.png) | 2001-07-23 | Super Furry Animals | Rings Around the World |
-| 76 | ![Cover](https://i.discogs.com/PU6hrxPjOigJoU7JmDfKFQUM9x3U3Jm0axL3xpABrb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzg3/MS0xNTQyOTc4Nzcy/LTg1OTYuanBlZw.jpeg) | 2003 | Animal Collective | Spirit They&#39;ve Gone, Spirit They&#39;ve Vanished |
-| 80 |  | 2003-10-06 | Animal Collective | Spirit They&#39;re Gone, Spirit They&#39;ve Vanished |
-| 85 | ![Cover](https://i.discogs.com/ZQA00IcDWFuoiR89uS9Dh6YmGNFAjj912Dqy2WHpFI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzEy/NzcxLTE2MjA5Mjgx/NTUtNTIxMS5qcGVn.jpeg) | 2003-12-05 | Mew | Frengers: Not Quite Friends But Not Quite Strangers |
-| 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3f51768726b92fac71f82d2cb9a50b0b.png) | 2005-10-24 | Tally Hall | Marvin&#39;s Marvelous Mechanical Museum |
-| 11 | ![Cover](https://i.discogs.com/7imif85ywTffo2Fgx4HeiJIGrHQotecqipt7MXPPcdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDYy/ODEtMTI2NTMyNTky/MC5qcGVn.jpeg) | 2008-02-18 | Monade | Monstre Cosmic |
-| 37 |  | 2008-03-31 | Bryan Scary &amp; the Shredding Tears | Flight Of The Knife |
-| 36 | ![Cover](https://i.discogs.com/s4cOmK3Fm3vfDwAsNtbPaTnUCnmHXBr1PMHrX_2VDuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzIz/NjQtMTIxOTI0NTkx/Mi5qcGVn.jpeg) | 2008-08-11 | Late of the Pier | Fantasy Black Channel |
-| 50 | ![Cover](https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg) | 2009 | Various Artists | Natasha, Pierre &amp; the Great Comet of 1812 (Original Broadway Cast Recording) |
-| 6 | ![Cover](https://i.discogs.com/e90hpx5vCSnW5jIMzHvm4lhDelPydAUj_7zbIgYk8VI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njcy/MjMtMTMxNTYwNzE1/Ny5qcGVn.jpeg) | 2009-02-17 | Iran | Dissolver |
-| 88 |  | 2010-10-11 | Sufjan Stevens | The Age of Adz |
-| 41 | ![Cover](https://i.discogs.com/xOPpwwgbt41wtqawQBrFGFlIoKo5SzdsAkQjPThn9g0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM0/MjktMTI4ODkwOTYx/NS5qcGVn.jpeg) | 2010-10-18 | Magenta Skycode | Relief |
-| 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/184aed4189474a648a21b7722e70a59b.png) | 2011 | Danger Mouse | Rome |
-| 14 | ![Cover](https://i.discogs.com/GTbxFdUtldP004NGyDsgBv6L5Z6ex9Osbi6jmkYm1TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTUz/MDMtMTQ5MTY1NTE3/NC0zNzU4LmpwZWc.jpeg) | 2011-01-01 | The Beach Boys | The SMiLE Sessions |
-| 43 | ![Cover](https://i.discogs.com/5-iYwPFqdiaLEZqD5qaSx9HxEqCwq0HJdHx9u0XQugs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjA0/MTItMTMxMzg1MjU1/OC5qcGVn.jpeg) | 2011-09-09 | St. Vincent | Strange Mercy |
-| 99 |  | 2012-02-28 | ROAR | I&#39;m Not Here To Make Friends |
-| 31 |  | 2012-06-27 | TK from 凛として時雨 | flowering |
-| 92 | ![Cover](https://i.discogs.com/ki3vhsgLt6G7I9O4iWBD4w2fR_vkSWs8yxof20WRm00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Nzg0/OTMtMTY2NDQ1NDg3/OS02NjA4LmpwZWc.jpeg) | 2013-09-09 | The Weeknd | Kiss Land (Deluxe) |
-| 27 |  | 2013-12-04 | ゲスの極み乙女。 | 踊れないなら、ゲスになってしまえよ |
-| 64 | ![Cover](https://i.discogs.com/lEW5fcBt54X2oxbQvUxKLf0mKHljIjyS1DO05amesP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDky/Mi0xMTA1ODk2ODk1/LmdpZg.jpeg) | 2014-05-19 | Todd Rundgren | A Wizard &#x2F; A True Star |
-| 13 |  | 2014-10-29 | ゲスの極み乙女。 | 魅力がすごいよ |
-| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7abf40e8c32a6bc1cd33e9858f0157f5.png) | 2015-04-28 | Mew | + - |
-| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9d00ead19750b3fe827d9592465ea3c6.png) | 2015-06-19 | Everything Everything | Get to Heaven |
-| 20 | ![Cover](https://i.discogs.com/QTIed6mE1h8aswOmjY1NqyYthi7WvNbMDh9asinf8cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTk5/NzEtMTQ3ODQwNjk0/OC00NTM5LmpwZWc.jpeg) | 2015-10-23 | Joanna Newsom | Divers |
-| 17 | ![Cover](https://i.discogs.com/EACksX46l0kEntc54zQNHT3znQuxsPgfGlyro1c2ah4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTk1/MjAtMTQ1NzM3MjUw/NS04MjAyLmpwZWc.jpeg) | 2016-02-29 | Lemon Demon | Spirit Phone |
-| 55 | ![Cover](https://i.discogs.com/R7oTPSAI2ho4VG8xGJLnPDecs_2uVuOwRjyNm5KS5_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzIw/NjAtMTQ3NjAzMTYx/My0yODk4LmpwZWc.jpeg) | 2016-10-14 | The Lemon Twigs | Do Hollywood |
-| 57 | ![Cover](https://i.discogs.com/pe1AWZZ9cDx0b2fG0ic_yjhF7Kvtb8Y9244xs1R0qC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODI5/NDQtMTYxOTUyMjM0/MC03OTM0LmpwZWc.jpeg) | 2017 | Foxygen | Hang |
-| 60 | ![Cover](https://i.discogs.com/NLiQzgQaZvVEEM_bB-jl5uC6uTrC8XiEd_wM8EEBLys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA5/NDUxLTE1MDI4Mjkx/MzItOTUyMC5qcGVn.jpeg) | 2017 | Steven Wilson | To The Bone |
-| 86 | ![Cover](https://i.discogs.com/zdeUIGQxEzJO56sVYo4bwU_4Seh-Qpbvz24jHMX2ue0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTQ5MTMyOTU4/Ni0yMDQ5LmpwZWc.jpeg) | 2017-02-24 | Thundercat | Drunk |
-| 51 | ![Cover](https://i.discogs.com/0aAVcB85kM-somSrXWLqXRdEhZzd0J5vz3OCW2UEEEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzIx/NTExLTE0OTUzOTI5/MzMtODg1Ni5qcGVn.jpeg) | 2017-05-19 | Jane Weaver | Modern Kosmology |
-| 69 | ![Cover](https://i.discogs.com/CbspShPio24XXPS66qIHdK5WxTt5Gpwg7BTPOPH9_BM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYy/MDI3LTE0OTA5NjUy/ODktMjg4Ni5qcGVn.jpeg) | 2017-06-02 | the orielles | Sugar Tastes Like Salt |
-| 74 | ![Cover](https://i.discogs.com/81I-3AMORBFUZzF-pg7_zix8lu-3LR_Dpdy6bXXLy08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc5/MjMxLTE1Mjg5MDk4/MjUtNzQyNC5qcGVn.jpeg) | 2018-05-25 | Büyük Ev Ablukada | Fırtınayt |
-| 65 |  | 2018-07-31 | Mid-Air Thief | Crumbling |
-| 98 | ![Cover](https://i.discogs.com/k99s64QPMQh0rRMOSIJ7mOcqg19lhrhvdhcrjfb-tNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc1/MTA5LTE1NDM2MzYx/MDMtMTgzMy5wbmc.jpeg) | 2018-08-06 | Jack Stauber&#39;s Micropop | Cheeseburger Family &#x2F; Fighter |
-| 10 | ![Cover](https://i.discogs.com/dfcvx0e_0Tjtsot5IN-KZjjTIsyrgU7cHt9V3SaxzEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc0/NTY3LTE1NDA0MDQz/NzItODY1My5qcGVn.jpeg) | 2018-09-28 | Stereolab | Electrically Possessed [Switched On Volume 4] |
-| 96 | ![Cover](https://i.discogs.com/Km5J_FcA_RXg1uC6XjXDmdFdOaSxYZXSF4EczRtb7aY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjYy/Mjg4LTE1Mzk1NjQ5/MTQtNDE1MS5qcGVn.jpeg) | 2018-10-12 | Polyphia | Ego Death (feat. Steve Vai) |
-| 18 | ![Cover](https://i.discogs.com/R1f7OMxUF7IUmEWTgR1yUuXdfj6hdLRjYTRpMMwMm2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA3/OTIyLTE1NDA0Njg4/NDAtNzI1MS5qcGVn.jpeg) | 2018-10-26 | Julia Holter | Aviary |
-| 32 | ![Cover](https://i.discogs.com/Ohy5y7IqaHZal13gShvyh7Fzsebb4O_aA28hYgBVY_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI5/NzQwLTE1NzIzNTIz/MjUtODk2NS5qcGVn.jpeg) | 2019 | Edu | Sketches 3d |
-| 56 | ![Cover](https://i.discogs.com/5CAFo6IWJoxbGr6ySgWAgIstEIwCWEnmhpCGpj6bWG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQw/NDMzLTE1NTQyNTA3/OTItNTkyNC5qcGVn.jpeg) | 2019-04-05 | Weyes Blood | Titanic Rising |
-| 3 | ![Cover](https://i.discogs.com/OE_uVL72za6ZoZM3HiFt7b1LDNdU1uG-BQjMzLNmZWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODg0/MDEtMTQzMTQ0ODgx/NC03NjYxLmpwZWc.jpeg) | 2019-11-08 | Róisín Murphy | Hairless Toys |
-| 35 | ![Cover](https://i.discogs.com/8EThDoL7QDG_qaa9WtkzAQzv0Bx9311pP_YX0z9hT2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjkz/OTczLTE2NTQ3OTA1/MzktNjM3NC5wbmc.jpeg) | 2020-01-24 | Glass Beach | the first glass beach album |
-| 66 | ![Cover](https://i.discogs.com/ZFcOcXv5NrJMk7haYmjN_W5jXR6pp7kFuIyZWlROTQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTMy/NTcyLTE1ODcxMTI2/MzctMjI3MS5qcGVn.jpeg) | 2020-04-17 | Fiona Apple | Fetch the Bolt Cutters |
-| 61 | ![Cover](https://i.discogs.com/SsBGG7IcEmzO0cYIEVyCK0qWiOeptoTEuOY9AEZ_DV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDY0/NDcyLTE1OTE5Njg2/NTMtMjgyMy5qcGVn.jpeg) | 2020-06-12 | Kate NV | Room For The Moon |
-| 63 | ![Cover](https://i.discogs.com/Us7jSZivEeq4Z0VBCLQeSLsEdyKzXH59BNPwLBCWqL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTQx/OTU4LTE2NzY4MzE5/OTUtNjY4MC5qcGVn.jpeg) | 2020-07-08 | Hakushi Hasegawa | Air Ni Ni |
-| 9 | ![Cover](https://i.discogs.com/JUWoiuuKnD7Was0jkPFVlQbBNijawsIIp3K0WSCB7vQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjQy/NTYzLTE2MDkwMTU3/MjQtODk4OC5qcGVn.jpeg) | 2020-07-10 | Joe Wong | The Midnight Gospel (Music from the Netflix Original Series) |
-| 2 | ![Cover](https://i.discogs.com/9zNIs4RUtIwY1TfMoW1Wfc8FRKU4_kdzYQxeR9oo0Mg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE3/NTMyLTE1OTgzNTQ3/OTEtOTM1NC5qcGVn.jpeg) | 2020-09-11 | The Flaming Lips | American Head |
-| 59 | ![Cover](https://i.discogs.com/kZKDouRNAqQ0CFXW8f8eIAKebJQTzTmvgyjZLYkaZuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk2/NzQ4LTE2MjQ4MTA4/ODYtMjk4Mi5qcGVn.jpeg) | 2020-10-28 | Black Country, New Road | Chaos Space Marine |
-| 28 | ![Cover](https://i.discogs.com/tzo1-DTu3wFrsCFYh--t2p5YJXNRrfvo7T44cw_1osg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjc1/MDk0LTE2MjQ2NDU4/NjYtMTE0Ni5qcGVn.jpeg) | 2021 | King Gizzard &amp; The Lizard Wizard | Butterfly 3000 |
-| 30 | ![Cover](https://i.discogs.com/hcDkyxrl3Ve8sKFicQeNVpsKpPKKTTfjqcs0jdTS5Fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTg4/NTk4LTE2MjQwMzYy/MzUtODk1MS5qcGVn.jpeg) | 2021-06-25 | SPELLLING | The Turning Wheel |
-| 97 | ![Cover](https://i.discogs.com/NJ6-HOqIGniXwz0E4cBrPHaT2efA5BP67g2lEIjBor0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjI0/MjA0LTE2OTc1NzUy/MTQtNzgyOS5qcGVn.jpeg) | 2022 | Will Wood | The Normal Album |
-| 87 | ![Cover](https://i.discogs.com/xtSkLekxoVOD7WQfxwh1_vLmr-p6dQ35yMcFGwLykTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTk0/NzE4LTE2NTIzMDgw/MjctNTgxNS5qcGVn.jpeg) | 2022-05-13 | Florence + the Machine | Dance Fever |
-| 82 | ![Cover](https://i.discogs.com/mUE1iWvGV1XnHb-uoyaeSUKTrbwfaZSiVN2BIMCg0z0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTkx/OTc1LTE2NTUzODE4/MDItODg3Ni5qcGVn.jpeg) | 2022-06-10 | Grace Ives | Janky Star |
-| 94 | ![Cover](https://i.discogs.com/7lp-l4EozA32IRL6M96d5BLJnUDDw_Vt_2yzkVMEQqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDM3/MjgyLTE2NjI1MTQ3/NTMtNTMzMC5qcGVn.jpeg) | 2022-09-09 | Jockstrap | I Love You Jennifer B |
-| 46 | ![Cover](https://i.discogs.com/XrELJrCpqreP3FaWRdcMBB1jTB8c2mz4qvRG4hQSxvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDc4/NzItMTQxNDYxNzM2/NS0zMjY5LmpwZWc.jpeg) | 2022-11-23 | Bee Gees | Idea (Deluxe Edition) |
-| 44 | ![Cover](https://i.discogs.com/cXp0LIiBHrzEGMqLXt8VQd6yR2SmB-SOkn94JKfjjEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzEz/NjcxLTE2Njk2NzY1/MDgtNTMyNS5qcGVn.jpeg) | 2022-11-25 | Fievel Is Glauque | Flaming Swords |
-| 33 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b04885cce96857d9773ffb992df24b9e.png) | 2022-12-21 | Weezer | SZNZ: Winter |
-| 24 | ![Cover](https://i.discogs.com/1SU-NKLQUEFntmKz3CsV0i2_pkTSKBGLmyuxEbkkG2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTIx/NzE2LTE1MjA1NTA2/NzYtNTQxMC5qcGVn.jpeg) | 2023 | Isyana Sarasvati | LEXICON |
-| 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b70af566c2d338c6770b0c44b6af88ec.png) | 2023 | Will Wood and the Tapeworms | Self-ish |
-| 15 | ![Cover](https://i.discogs.com/FJi88vAms7BFCPtz_NBudJCrIkiIwRagt1Oh0ca5lP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDky/NzUzLTE2NzYzMjU3/OTgtNjI2MC5qcGVn.jpeg) | 2023-02-14 | Caroline Polachek | Desire, I Want to Turn Into You |
-| 91 | ![Cover](https://i.discogs.com/-SRraua44qzFA30Z5UOQ_om3NFTjEmzl8_eMpBoGAf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTIz/MTE2LTE2Nzk2MjU5/MTQtNjI2Ny5qcGVn.jpeg) | 2023-04-28 | Black Country, New Road | Live At Bush Hall |
-| 34 | ![Cover](https://i.discogs.com/kN2enG8nfHX4wPXshWAY2q64R5LEQQzCErlO7JzbwcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDgw/ODY2LTE2MTM2ODU0/MzgtNTczMS5qcGVn.jpeg) | 2023-05-12 | Animal Collective | Spirit They’re Gone, Spirit They’ve Vanished |
-| 79 | ![Cover](https://i.discogs.com/sbAfq-kIeZzwOnD3RNFtuFZaejqk3kF2nzmHw2CTj1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjQ4/MTMxLTE3MDY5MTg0/NTktOTkyNy5qcGVn.jpeg) | 2024-02-02 | The Last Dinner Party | Prelude To Ecstasy |
-| 1 | ![Cover](https://i.discogs.com/f55Vma_NPqXbymA3w_AtmAaa0OVelnxkd0XjoK2Bx20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Nzg2/NTI3LTE3MDc4MDQx/NjktNzY5MC5qcGVn.jpeg) | 2024-02-23 | Laetitia Sadier | Rooting for Love |
-| 72 | ![Cover](https://i.discogs.com/UPfMj2IyleDKQ_vtyEuU4iisZJwF093BxfWuDVUrACQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODY4/NzQ4LTE3MDg0NzY3/MjEtOTY1My5qcGVn.jpeg) | 2024-02-23 | MGMT | Loss Of Life |
-| 62 | ![Cover](https://i.discogs.com/oxWvgq0INPQLKZ8kNx56wL3fuQw0pdOzOQZL27SADWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDAz/MTY5LTE3MDk2MDU2/MjYtNDQzMy5qcGVn.jpeg) | 2024-02-29 | Jacob Collier | Djesse Vol. 4 |
-| 23 | ![Cover](https://i.discogs.com/s5qeShTqB_7iNh3r2-UU_IK2_SEjdwP1-o0Rf5M6gN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTE5/NzUyLTE3MTk5NTcw/ODQtOTQxMi5qcGVn.jpeg) | 2024-05-07 | Joanna Wang | Hotel La Rut (破爛酒店) |
-| 25 |  |  | Rehber | Düşler |
-| 100 | ![Cover](https://i.discogs.com/34QM_S2m4nrCCdAkQCGz-pBiqvSkhnBFtDbWwDo2K2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ5/NDU3LTE3MTQ1MDMx/MDItNzM0Ni5qcGVn.jpeg) | 2024-05-17 | Billie Eilish | HIT ME HARD AND SOFT |
-| 48 | ![Cover](https://i.discogs.com/tpMSSF20r9QQgr_g2qT0E34oFPvTMwebg_0dG8NMJ2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjE2/MDAtMTM2MDM0OTky/Ni01NjE2LmpwZWc.jpeg) | 2024-08-10 | Büyük Ev Ablukada | Defansif Dizayn |
-| 47 | ![Cover](https://i.discogs.com/mChBy1BY8kP413x9IfcWZtiMRil9ZM9K1-P-fGmBsSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTQ2/MzIxLTE3MjQzNDQz/NTktNjkxMC5qcGVn.jpeg) | 2024-08-23 | MAGDALENA BAY | Imaginal Disk |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa5372c785c9d4188cc32788cd914c04.png" alt="Cover for Pet Sounds" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1966-05-16</td>
+      <td>The Beach Boys</td>
+      <td>Pet Sounds</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
+            <li style="font-size: calc(1rem * 87 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 61</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 73</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/45s3kHunRtp8qOIesLytiUOOx-zXP2rgdbYFKIu1j9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mjg4/OTctMTY4NDMzOTM5/Ny03ODk4LmpwZWc.jpeg" alt="Cover for Good Vibrations" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1966-10-10</td>
+      <td>The Beach Boys</td>
+      <td>Good Vibrations</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 14</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 14</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 39</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 87</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td>1971-08-30</td>
+      <td>The Beach Boys</td>
+      <td>Surf&#39;s Up</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 32</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/JLty8sxK8H1YuDIvSfqBPZa-F_IOR75PVvNVLzAri6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjQ4/OS0xNDMyNzUzNDIz/LTQ3NjAuanBlZw.jpeg" alt="Cover for Bohemian Rhapsody" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975</td>
+      <td>Queen</td>
+      <td>Bohemian Rhapsody</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td>1975-03-11</td>
+      <td>10cc</td>
+      <td>The Original Soundtrack</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 73</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/k6KUBtb5cINLHrasJW5iH5gJpvhuvRzXUYlq7mYTD0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjk2/ODUtMTI2NDQ1NTYx/OC5qcGVn.jpeg" alt="Cover for Holland (2000 Remaster)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1978</td>
+      <td>The Beach Boys</td>
+      <td>Holland (2000 Remaster)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 27</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/44uIGe-gVIPL5qvEvLReVx73pgV8EwODIzWyV1eMhHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzQx/MzItMTI2MjUxNzg5/OC5qcGVn.jpeg" alt="Cover for Love You (Remastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1978</td>
+      <td>The Beach Boys</td>
+      <td>Love You (Remastered)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/j8hD-RkDRa1T0NjVr8BV9u4JNFSNQIumbPaOPO8a7UM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Nzg3/OC0xMzk0NTE0MTIx/LTg1MzcuanBlZw.jpeg" alt="Cover for Out of the Blue (40th Anniversary Remaster)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1978</td>
+      <td>&quot;Blue&quot; Gene Tyranny</td>
+      <td>Out of the Blue (40th Anniversary Remaster)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/choral" | relative_url }}">choral</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 77</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/NsnzqL7COezkl4umSF4jdWPv4VVRro-lmLTeXqewVrA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTg0/NjMtMTI2MTI1OTc0/MS5qcGVn.jpeg" alt="Cover for SheetRock" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1978</td>
+      <td>R. Stevie Moore</td>
+      <td>SheetRock</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/F_vPZL_dNpS07OJSxksGcLu8eg3mh6VaVsF62yLIpjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODA3/NC0xNDgzMTAzODY4/LTY1MTYuanBlZw.jpeg" alt="Cover for Peter Gabriel 3: Melt (Remastered Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1978</td>
+      <td>Peter Gabriel</td>
+      <td>Peter Gabriel 3: Melt (Remastered Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/lmzfAF1tOjBC4D5FpldyJ9dPWLy6x6I4p_KjxPFWOw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzIz/NjMtMTM1MzI0NjEx/OC03NjMzLmpwZWc.jpeg" alt="Cover for Accadde a…" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>Arawak</td>
+      <td>Accadde a…</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/G8kuuGD8H2Kj8FiEXBVf_yjOuiFqPIwDmyQISJOt-KI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzI0/MDItMTI5NDE3NTM1/OC5qcGVn.jpeg" alt="Cover for Never Forever" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980</td>
+      <td>Kate Bush</td>
+      <td>Never Forever</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td>1980-09-08</td>
+      <td>Kate Bush</td>
+      <td>Never for Ever</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td>1982-09-13</td>
+      <td>Kate Bush</td>
+      <td>The Dreaming</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/CrDFlMcKTT_otbVvgAWtujgWPrv0vZ2WUaVrwIvHKJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjMx/OTctMTY2Mzk2MDQ3/MC0xNjE4LmpwZWc.jpeg" alt="Cover for Mondo Di Cromo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Luis Alberto Spinetta</td>
+      <td>Mondo Di Cromo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/_AF14OwzZPByGdCIQvxtNawh_ANWbEjgMNdGyXtXJsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDM1/NTMtMTQyNDY2Mzgz/NC0zODA5LmpwZWc.jpeg" alt="Cover for Bandido" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>Miguel Bosé</td>
+      <td>Bandido</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/vta2B6Ha2_sr_iFQVK3kJiyo95AV2IXF23hLofiI_e8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTYw/OTU1LTE2NDM2NDQ0/NDAtNzE3Ni5qcGVn.jpeg" alt="Cover for Aim and Ignite [Deluxe Version]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>fun.</td>
+      <td>Aim and Ignite [Deluxe Version]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/XlnbA4GAIpYcTAMltE7g1lXLg0uioORw6pzcfWCqBa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTg4/MzU0LTE2NTUzNDMw/MjEtNjAyNC5qcGVn.jpeg" alt="Cover for Hounds of Love (2018 Remaster)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985</td>
+      <td>Kate Bush</td>
+      <td>Hounds of Love (2018 Remaster)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/zRIcP7UolloiORRpkf9hc57020X5MVsCBJu9xl60h8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODY1/MS0xMzM4OTc1NjM4/LTk4MDYuanBlZw.jpeg" alt="Cover for Hounds Of Love (remastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985</td>
+      <td>Kate Bush</td>
+      <td>Hounds Of Love (remastered)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>1985-07-30</td>
+      <td>Kate Bush</td>
+      <td>Hounds of Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 20</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 76</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 82</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 84</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/LCBjJNdgSt6Ktdl1-knX_gDRabukwK5HaAQmasJcDN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODcz/MjctMTQyODc4NTA5/MS01NzM4LmpwZWc.jpeg" alt="Cover for Smiley Smile (Remastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989-08-30</td>
+      <td>The Beach Boys</td>
+      <td>Smiley Smile (Remastered)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/tMVCLEs0cPSbxn3D26xAzS7BPd4XIxHpYDw880lZlJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTE5/MjQtMTIzODUzODAx/OC5qcGVn.jpeg" alt="Cover for The Seeds of Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989-09-19</td>
+      <td>Tears for Fears</td>
+      <td>The Seeds of Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 7</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4bbf73ba62024be279364e867b0ca20.png" alt="Cover for Abbey Road (Remastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>The Beatles</td>
+      <td>Abbey Road (Remastered)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 18</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 21</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 77</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 79</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/573e51b6764b30d991e67d607ed268f0.png" alt="Cover for Band on the Run" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Paul McCartney</td>
+      <td>Band on the Run</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/2Pzj_n2pGpaDsQQYizwFx5rQamR_TpSt9nGJclfMZGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzAz/NzEtMTQ1NjY5OTk5/Ni01NzA2LmpwZWc.jpeg" alt="Cover for Lionheart (2018 Remaster)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Kate Bush</td>
+      <td>Lionheart (2018 Remaster)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 4</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/Zn2laoJdFZCNoYDT20VQJXbUb3_lKgjpIubbGvL8Gno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODAy/Ny0xMjAyMzc4MDY5/LmpwZWc.jpeg" alt="Cover for The Genius Of Komeda" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-01-15</td>
+      <td>Komeda</td>
+      <td>The Genius Of Komeda</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/VK7IPJ6mOJ-SAnMhOlaoJ2nFAmalSxNtVYswo9K0T0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODMy/ODctMTU0MTM0NDA1/My04MTczLmpwZWc.jpeg" alt="Cover for Long Season" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-10-25</td>
+      <td>Fishmans</td>
+      <td>Long Season</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 8</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 21</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 42</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/k44-DbXq6sU_C6bLYCvLxYgKj83HQsbDqTvxrjEcnNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTYy/OC0xNDM2NjUwOTMx/LTgxMDIuanBlZw.jpeg" alt="Cover for Intruders" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>The Residents</td>
+      <td>Intruders</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efb341c4338f7614a41d4933344ece51.png" alt="Cover for Breakfast With Girls" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-07-13</td>
+      <td>Self</td>
+      <td>Breakfast With Girls</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/a2oDVKBn3Hirk3hSsbFUfMieOSu0i7P7PZMgEvF3Y1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTg5/MjAtMTI1ODg4NjE2/MS5qcGVn.jpeg" alt="Cover for MTV Unplugged - Summer Solstice" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-06</td>
+      <td>a-ha</td>
+      <td>MTV Unplugged - Summer Solstice</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd18a245898745a49296667dbf9c4bc4.png" alt="Cover for Rings Around the World" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-07-23</td>
+      <td>Super Furry Animals</td>
+      <td>Rings Around the World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/PU6hrxPjOigJoU7JmDfKFQUM9x3U3Jm0axL3xpABrb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzg3/MS0xNTQyOTc4Nzcy/LTg1OTYuanBlZw.jpeg" alt="Cover for Spirit They&#39;ve Gone, Spirit They&#39;ve Vanished" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Animal Collective</td>
+      <td>Spirit They&#39;ve Gone, Spirit They&#39;ve Vanished</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 40</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 71</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 78</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>2003-10-06</td>
+      <td>Animal Collective</td>
+      <td>Spirit They&#39;re Gone, Spirit They&#39;ve Vanished</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 48</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 74</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 80</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/ZQA00IcDWFuoiR89uS9Dh6YmGNFAjj912Dqy2WHpFI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzEy/NzcxLTE2MjA5Mjgx/NTUtNTIxMS5qcGVn.jpeg" alt="Cover for Frengers: Not Quite Friends But Not Quite Strangers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-12-05</td>
+      <td>Mew</td>
+      <td>Frengers: Not Quite Friends But Not Quite Strangers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f51768726b92fac71f82d2cb9a50b0b.png" alt="Cover for Marvin&#39;s Marvelous Mechanical Museum" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-10-24</td>
+      <td>Tally Hall</td>
+      <td>Marvin&#39;s Marvelous Mechanical Museum</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/7imif85ywTffo2Fgx4HeiJIGrHQotecqipt7MXPPcdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDYy/ODEtMTI2NTMyNTky/MC5qcGVn.jpeg" alt="Cover for Monstre Cosmic" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-02-18</td>
+      <td>Monade</td>
+      <td>Monstre Cosmic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>2008-03-31</td>
+      <td>Bryan Scary &amp; the Shredding Tears</td>
+      <td>Flight Of The Knife</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/s4cOmK3Fm3vfDwAsNtbPaTnUCnmHXBr1PMHrX_2VDuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzIz/NjQtMTIxOTI0NTkx/Mi5qcGVn.jpeg" alt="Cover for Fantasy Black Channel" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-08-11</td>
+      <td>Late of the Pier</td>
+      <td>Fantasy Black Channel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 6</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 82</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Natasha, Pierre &amp; the Great Comet of 1812 (Original Broadway Cast Recording)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Various Artists</td>
+      <td>Natasha, Pierre &amp; the Great Comet of 1812 (Original Broadway Cast Recording)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 22</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/e90hpx5vCSnW5jIMzHvm4lhDelPydAUj_7zbIgYk8VI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njcy/MjMtMTMxNTYwNzE1/Ny5qcGVn.jpeg" alt="Cover for Dissolver" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-02-17</td>
+      <td>Iran</td>
+      <td>Dissolver</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>2010-10-11</td>
+      <td>Sufjan Stevens</td>
+      <td>The Age of Adz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 1</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 81</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 94</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/xOPpwwgbt41wtqawQBrFGFlIoKo5SzdsAkQjPThn9g0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM0/MjktMTI4ODkwOTYx/NS5qcGVn.jpeg" alt="Cover for Relief" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-10-18</td>
+      <td>Magenta Skycode</td>
+      <td>Relief</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/184aed4189474a648a21b7722e70a59b.png" alt="Cover for Rome" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Danger Mouse</td>
+      <td>Rome</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/GTbxFdUtldP004NGyDsgBv6L5Z6ex9Osbi6jmkYm1TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTUz/MDMtMTQ5MTY1NTE3/NC0zNzU4LmpwZWc.jpeg" alt="Cover for The SMiLE Sessions" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-01-01</td>
+      <td>The Beach Boys</td>
+      <td>The SMiLE Sessions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 58</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 60</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/5-iYwPFqdiaLEZqD5qaSx9HxEqCwq0HJdHx9u0XQugs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjA0/MTItMTMxMzg1MjU1/OC5qcGVn.jpeg" alt="Cover for Strange Mercy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-09-09</td>
+      <td>St. Vincent</td>
+      <td>Strange Mercy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 70</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>2012-02-28</td>
+      <td>ROAR</td>
+      <td>I&#39;m Not Here To Make Friends</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 10</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 49</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 84</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+      </td>
+      <td>2012-06-27</td>
+      <td>TK from 凛として時雨</td>
+      <td>flowering</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japan" | relative_url }}">japan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/ki3vhsgLt6G7I9O4iWBD4w2fR_vkSWs8yxof20WRm00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Nzg0/OTMtMTY2NDQ1NDg3/OS02NjA4LmpwZWc.jpeg" alt="Cover for Kiss Land (Deluxe)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-09-09</td>
+      <td>The Weeknd</td>
+      <td>Kiss Land (Deluxe)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td>2013-12-04</td>
+      <td>ゲスの極み乙女。</td>
+      <td>踊れないなら、ゲスになってしまえよ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/lEW5fcBt54X2oxbQvUxKLf0mKHljIjyS1DO05amesP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDky/Mi0xMTA1ODk2ODk1/LmdpZg.jpeg" alt="Cover for A Wizard &#x2F; A True Star" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-05-19</td>
+      <td>Todd Rundgren</td>
+      <td>A Wizard &#x2F; A True Star</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 13</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+      </td>
+      <td>2014-10-29</td>
+      <td>ゲスの極み乙女。</td>
+      <td>魅力がすごいよ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7abf40e8c32a6bc1cd33e9858f0157f5.png" alt="Cover for + -" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-04-28</td>
+      <td>Mew</td>
+      <td>+ -</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d00ead19750b3fe827d9592465ea3c6.png" alt="Cover for Get to Heaven" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-06-19</td>
+      <td>Everything Everything</td>
+      <td>Get to Heaven</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/QTIed6mE1h8aswOmjY1NqyYthi7WvNbMDh9asinf8cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTk5/NzEtMTQ3ODQwNjk0/OC00NTM5LmpwZWc.jpeg" alt="Cover for Divers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-10-23</td>
+      <td>Joanna Newsom</td>
+      <td>Divers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 68</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/EACksX46l0kEntc54zQNHT3znQuxsPgfGlyro1c2ah4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTk1/MjAtMTQ1NzM3MjUw/NS04MjAyLmpwZWc.jpeg" alt="Cover for Spirit Phone" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-02-29</td>
+      <td>Lemon Demon</td>
+      <td>Spirit Phone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 50</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 64</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/R7oTPSAI2ho4VG8xGJLnPDecs_2uVuOwRjyNm5KS5_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzIw/NjAtMTQ3NjAzMTYx/My0yODk4LmpwZWc.jpeg" alt="Cover for Do Hollywood" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-10-14</td>
+      <td>The Lemon Twigs</td>
+      <td>Do Hollywood</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 7</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/n0i_3CGvsEESqdLW7Vn9hS1L2vnuIcTSL-KL7UmvT1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTk0/MzMtMTI2OTM4NDk5/My5qcGVn.jpeg" alt="Cover for Mew with Copenhagen Philharmonic" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Mew</td>
+      <td>Mew with Copenhagen Philharmonic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 13</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 56</li>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 77</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/pe1AWZZ9cDx0b2fG0ic_yjhF7Kvtb8Y9244xs1R0qC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODI5/NDQtMTYxOTUyMjM0/MC03OTM0LmpwZWc.jpeg" alt="Cover for Hang" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Foxygen</td>
+      <td>Hang</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/NLiQzgQaZvVEEM_bB-jl5uC6uTrC8XiEd_wM8EEBLys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA5/NDUxLTE1MDI4Mjkx/MzItOTUyMC5qcGVn.jpeg" alt="Cover for To The Bone" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Steven Wilson</td>
+      <td>To The Bone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/zdeUIGQxEzJO56sVYo4bwU_4Seh-Qpbvz24jHMX2ue0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTQ5MTMyOTU4/Ni0yMDQ5LmpwZWc.jpeg" alt="Cover for Drunk" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-02-24</td>
+      <td>Thundercat</td>
+      <td>Drunk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 66</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 83</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/0aAVcB85kM-somSrXWLqXRdEhZzd0J5vz3OCW2UEEEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzIx/NTExLTE0OTUzOTI5/MzMtODg1Ni5qcGVn.jpeg" alt="Cover for Modern Kosmology" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-05-19</td>
+      <td>Jane Weaver</td>
+      <td>Modern Kosmology</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/CbspShPio24XXPS66qIHdK5WxTt5Gpwg7BTPOPH9_BM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYy/MDI3LTE0OTA5NjUy/ODktMjg4Ni5qcGVn.jpeg" alt="Cover for Sugar Tastes Like Salt" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-06-02</td>
+      <td>the orielles</td>
+      <td>Sugar Tastes Like Salt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/81I-3AMORBFUZzF-pg7_zix8lu-3LR_Dpdy6bXXLy08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc5/MjMxLTE1Mjg5MDk4/MjUtNzQyNC5qcGVn.jpeg" alt="Cover for Fırtınayt" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-05-25</td>
+      <td>Büyük Ev Ablukada</td>
+      <td>Fırtınayt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a> # 97</li>
+            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td>2018-07-31</td>
+      <td>Mid-Air Thief</td>
+      <td>Crumbling</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 61</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 65</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/k99s64QPMQh0rRMOSIJ7mOcqg19lhrhvdhcrjfb-tNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc1/MTA5LTE1NDM2MzYx/MDMtMTgzMy5wbmc.jpeg" alt="Cover for Cheeseburger Family &#x2F; Fighter" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-08-06</td>
+      <td>Jack Stauber&#39;s Micropop</td>
+      <td>Cheeseburger Family &#x2F; Fighter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 83</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 91</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/dfcvx0e_0Tjtsot5IN-KZjjTIsyrgU7cHt9V3SaxzEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc0/NTY3LTE1NDA0MDQz/NzItODY1My5qcGVn.jpeg" alt="Cover for Electrically Possessed [Switched On Volume 4]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-09-28</td>
+      <td>Stereolab</td>
+      <td>Electrically Possessed [Switched On Volume 4]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/Km5J_FcA_RXg1uC6XjXDmdFdOaSxYZXSF4EczRtb7aY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjYy/Mjg4LTE1Mzk1NjQ5/MTQtNDE1MS5qcGVn.jpeg" alt="Cover for Ego Death (feat. Steve Vai)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-10-12</td>
+      <td>Polyphia</td>
+      <td>Ego Death (feat. Steve Vai)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/djent" | relative_url }}">djent</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 79</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 91</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 100</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/R1f7OMxUF7IUmEWTgR1yUuXdfj6hdLRjYTRpMMwMm2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA3/OTIyLTE1NDA0Njg4/NDAtNzI1MS5qcGVn.jpeg" alt="Cover for Aviary" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-10-26</td>
+      <td>Julia Holter</td>
+      <td>Aviary</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 6</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/Ohy5y7IqaHZal13gShvyh7Fzsebb4O_aA28hYgBVY_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI5/NzQwLTE1NzIzNTIz/MjUtODk2NS5qcGVn.jpeg" alt="Cover for Sketches 3d" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019</td>
+      <td>Edu</td>
+      <td>Sketches 3d</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 15</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/5CAFo6IWJoxbGr6ySgWAgIstEIwCWEnmhpCGpj6bWG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQw/NDMzLTE1NTQyNTA3/OTItNTkyNC5qcGVn.jpeg" alt="Cover for Titanic Rising" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-04-05</td>
+      <td>Weyes Blood</td>
+      <td>Titanic Rising</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 23</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 69</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/OE_uVL72za6ZoZM3HiFt7b1LDNdU1uG-BQjMzLNmZWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODg0/MDEtMTQzMTQ0ODgx/NC03NjYxLmpwZWc.jpeg" alt="Cover for Hairless Toys" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-11-08</td>
+      <td>Róisín Murphy</td>
+      <td>Hairless Toys</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/8EThDoL7QDG_qaa9WtkzAQzv0Bx9311pP_YX0z9hT2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjkz/OTczLTE2NTQ3OTA1/MzktNjM3NC5wbmc.jpeg" alt="Cover for the first glass beach album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-01-24</td>
+      <td>Glass Beach</td>
+      <td>the first glass beach album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 2</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 59</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 63</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 70</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/ZFcOcXv5NrJMk7haYmjN_W5jXR6pp7kFuIyZWlROTQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTMy/NTcyLTE1ODcxMTI2/MzctMjI3MS5qcGVn.jpeg" alt="Cover for Fetch the Bolt Cutters" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-04-17</td>
+      <td>Fiona Apple</td>
+      <td>Fetch the Bolt Cutters</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/SsBGG7IcEmzO0cYIEVyCK0qWiOeptoTEuOY9AEZ_DV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDY0/NDcyLTE1OTE5Njg2/NTMtMjgyMy5qcGVn.jpeg" alt="Cover for Room For The Moon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-06-12</td>
+      <td>Kate NV</td>
+      <td>Room For The Moon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/Us7jSZivEeq4Z0VBCLQeSLsEdyKzXH59BNPwLBCWqL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTQx/OTU4LTE2NzY4MzE5/OTUtNjY4MC5qcGVn.jpeg" alt="Cover for Air Ni Ni" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-07-08</td>
+      <td>Hakushi Hasegawa</td>
+      <td>Air Ni Ni</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 47</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 70</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/9zNIs4RUtIwY1TfMoW1Wfc8FRKU4_kdzYQxeR9oo0Mg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE3/NTMyLTE1OTgzNTQ3/OTEtOTM1NC5qcGVn.jpeg" alt="Cover for American Head" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-09-11</td>
+      <td>The Flaming Lips</td>
+      <td>American Head</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/kZKDouRNAqQ0CFXW8f8eIAKebJQTzTmvgyjZLYkaZuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk2/NzQ4LTE2MjQ4MTA4/ODYtMjk4Mi5qcGVn.jpeg" alt="Cover for Chaos Space Marine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-10-28</td>
+      <td>Black Country, New Road</td>
+      <td>Chaos Space Marine</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 22</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/tzo1-DTu3wFrsCFYh--t2p5YJXNRrfvo7T44cw_1osg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjc1/MDk0LTE2MjQ2NDU4/NjYtMTE0Ni5qcGVn.jpeg" alt="Cover for Butterfly 3000" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>King Gizzard &amp; The Lizard Wizard</td>
+      <td>Butterfly 3000</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 49</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/hcDkyxrl3Ve8sKFicQeNVpsKpPKKTTfjqcs0jdTS5Fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTg4/NTk4LTE2MjQwMzYy/MzUtODk1MS5qcGVn.jpeg" alt="Cover for The Turning Wheel" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-06-25</td>
+      <td>SPELLLING</td>
+      <td>The Turning Wheel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 13</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 18</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 25</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/NJ6-HOqIGniXwz0E4cBrPHaT2efA5BP67g2lEIjBor0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjI0/MjA0LTE2OTc1NzUy/MTQtNzgyOS5qcGVn.jpeg" alt="Cover for The Normal Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>Will Wood</td>
+      <td>The Normal Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 5</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 98</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/xtSkLekxoVOD7WQfxwh1_vLmr-p6dQ35yMcFGwLykTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTk0/NzE4LTE2NTIzMDgw/MjctNTgxNS5qcGVn.jpeg" alt="Cover for Dance Fever" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-05-13</td>
+      <td>Florence + the Machine</td>
+      <td>Dance Fever</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 69</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/mUE1iWvGV1XnHb-uoyaeSUKTrbwfaZSiVN2BIMCg0z0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTkx/OTc1LTE2NTUzODE4/MDItODg3Ni5qcGVn.jpeg" alt="Cover for Janky Star" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-06-10</td>
+      <td>Grace Ives</td>
+      <td>Janky Star</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 24</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/7lp-l4EozA32IRL6M96d5BLJnUDDw_Vt_2yzkVMEQqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDM3/MjgyLTE2NjI1MTQ3/NTMtNTMzMC5qcGVn.jpeg" alt="Cover for I Love You Jennifer B" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-09-09</td>
+      <td>Jockstrap</td>
+      <td>I Love You Jennifer B</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 70</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/XrELJrCpqreP3FaWRdcMBB1jTB8c2mz4qvRG4hQSxvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDc4/NzItMTQxNDYxNzM2/NS0zMjY5LmpwZWc.jpeg" alt="Cover for Idea (Deluxe Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-11-23</td>
+      <td>Bee Gees</td>
+      <td>Idea (Deluxe Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/cXp0LIiBHrzEGMqLXt8VQd6yR2SmB-SOkn94JKfjjEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzEz/NjcxLTE2Njk2NzY1/MDgtNTMyNS5qcGVn.jpeg" alt="Cover for Flaming Swords" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-11-25</td>
+      <td>Fievel Is Glauque</td>
+      <td>Flaming Swords</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 90</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b04885cce96857d9773ffb992df24b9e.png" alt="Cover for SZNZ: Winter" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-12-21</td>
+      <td>Weezer</td>
+      <td>SZNZ: Winter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 20</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b70af566c2d338c6770b0c44b6af88ec.png" alt="Cover for Self-ish" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Will Wood and the Tapeworms</td>
+      <td>Self-ish</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/1SU-NKLQUEFntmKz3CsV0i2_pkTSKBGLmyuxEbkkG2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTIx/NzE2LTE1MjA1NTA2/NzYtNTQxMC5qcGVn.jpeg" alt="Cover for LEXICON" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Isyana Sarasvati</td>
+      <td>LEXICON</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/FJi88vAms7BFCPtz_NBudJCrIkiIwRagt1Oh0ca5lP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDky/NzUzLTE2NzYzMjU3/OTgtNjI2MC5qcGVn.jpeg" alt="Cover for Desire, I Want to Turn Into You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-02-14</td>
+      <td>Caroline Polachek</td>
+      <td>Desire, I Want to Turn Into You</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 42</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 44</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/-SRraua44qzFA30Z5UOQ_om3NFTjEmzl8_eMpBoGAf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTIz/MTE2LTE2Nzk2MjU5/MTQtNjI2Ny5qcGVn.jpeg" alt="Cover for Live At Bush Hall" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-04-28</td>
+      <td>Black Country, New Road</td>
+      <td>Live At Bush Hall</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 4</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 35</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/kN2enG8nfHX4wPXshWAY2q64R5LEQQzCErlO7JzbwcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDgw/ODY2LTE2MTM2ODU0/MzgtNTczMS5qcGVn.jpeg" alt="Cover for Spirit They’re Gone, Spirit They’ve Vanished" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-05-12</td>
+      <td>Animal Collective</td>
+      <td>Spirit They’re Gone, Spirit They’ve Vanished</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 73</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/sbAfq-kIeZzwOnD3RNFtuFZaejqk3kF2nzmHw2CTj1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjQ4/MTMxLTE3MDY5MTg0/NTktOTkyNy5qcGVn.jpeg" alt="Cover for Prelude To Ecstasy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-02-02</td>
+      <td>The Last Dinner Party</td>
+      <td>Prelude To Ecstasy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 48</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 55</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/UPfMj2IyleDKQ_vtyEuU4iisZJwF093BxfWuDVUrACQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODY4/NzQ4LTE3MDg0NzY3/MjEtOTY1My5qcGVn.jpeg" alt="Cover for Loss Of Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-02-23</td>
+      <td>MGMT</td>
+      <td>Loss Of Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/f55Vma_NPqXbymA3w_AtmAaa0OVelnxkd0XjoK2Bx20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Nzg2/NTI3LTE3MDc4MDQx/NjktNzY5MC5qcGVn.jpeg" alt="Cover for Rooting for Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-02-23</td>
+      <td>Laetitia Sadier</td>
+      <td>Rooting for Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/oxWvgq0INPQLKZ8kNx56wL3fuQw0pdOzOQZL27SADWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDAz/MTY5LTE3MDk2MDU2/MjYtNDQzMy5qcGVn.jpeg" alt="Cover for Djesse Vol. 4" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-02-29</td>
+      <td>Jacob Collier</td>
+      <td>Djesse Vol. 4</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 38</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/s5qeShTqB_7iNh3r2-UU_IK2_SEjdwP1-o0Rf5M6gN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTE5/NzUyLTE3MTk5NTcw/ODQtOTQxMi5qcGVn.jpeg" alt="Cover for Hotel La Rut (破爛酒店)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-05-07</td>
+      <td>Joanna Wang</td>
+      <td>Hotel La Rut (破爛酒店)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/34QM_S2m4nrCCdAkQCGz-pBiqvSkhnBFtDbWwDo2K2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ5/NDU3LTE3MTQ1MDMx/MDItNzM0Ni5qcGVn.jpeg" alt="Cover for HIT ME HARD AND SOFT" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-05-17</td>
+      <td>Billie Eilish</td>
+      <td>HIT ME HARD AND SOFT</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 63</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 74</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 82</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 88</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 93</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 98</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/tpMSSF20r9QQgr_g2qT0E34oFPvTMwebg_0dG8NMJ2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjE2/MDAtMTM2MDM0OTky/Ni01NjE2LmpwZWc.jpeg" alt="Cover for Defansif Dizayn" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-08-10</td>
+      <td>Büyük Ev Ablukada</td>
+      <td>Defansif Dizayn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/mChBy1BY8kP413x9IfcWZtiMRil9ZM9K1-P-fGmBsSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTQ2/MzIxLTE3MjQzNDQz/NTktNjkxMC5qcGVn.jpeg" alt="Cover for Imaginal Disk" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-08-23</td>
+      <td>MAGDALENA BAY</td>
+      <td>Imaginal Disk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 10</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 17</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Rehber</td>
+      <td>Düşler</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
