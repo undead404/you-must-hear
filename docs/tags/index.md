@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-04T21:10:24.674Z
+date: 2025-11-04T21:12:07.935Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-04T21:10:24.674Z">Tue Nov 04 2025 23:10:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T21:12:07.935Z">Tue Nov 04 2025 23:12:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [spanish]({{ "tags/spanish" | relative_url }}) | <time datetime="2025-11-04T21:12:07.935Z">Tue Nov 04 2025 23:12:07 GMT+0200 (Eastern European Standard Time)</time> |
 | [power pop]({{ "tags/power-pop" | relative_url }}) | <time datetime="2025-11-04T21:10:24.674Z">Tue Nov 04 2025 23:10:24 GMT+0200 (Eastern European Standard Time)</time> |
 | [glam rock]({{ "tags/glam-rock" | relative_url }}) | <time datetime="2025-11-04T21:09:06.034Z">Tue Nov 04 2025 23:09:06 GMT+0200 (Eastern European Standard Time)</time> |
 | [dirty south]({{ "tags/dirty-south" | relative_url }}) | <time datetime="2025-11-04T21:08:00.811Z">Tue Nov 04 2025 23:08:00 GMT+0200 (Eastern European Standard Time)</time> |
@@ -542,7 +543,6 @@ Last updated: <time datetime="2025-11-04T21:10:24.674Z">Tue Nov 04 2025 23:10:24
 | [celtic]({{ "tags/celtic" | relative_url }}) | <time datetime="2025-10-28T09:45:50.525Z">Tue Oct 28 2025 11:45:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [motown]({{ "tags/motown" | relative_url }}) | <time datetime="2025-10-28T09:45:46.353Z">Tue Oct 28 2025 11:45:46 GMT+0200 (Eastern European Standard Time)</time> |
 | [witch house]({{ "tags/witch-house" | relative_url }}) | <time datetime="2025-10-28T09:45:37.532Z">Tue Oct 28 2025 11:45:37 GMT+0200 (Eastern European Standard Time)</time> |
-| [spanish]({{ "tags/spanish" | relative_url }}) | <time datetime="2025-10-28T09:38:40.195Z">Tue Oct 28 2025 11:38:40 GMT+0200 (Eastern European Standard Time)</time> |
 | [suomi]({{ "tags/suomi" | relative_url }}) | <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27 GMT+0200 (Eastern European Standard Time)</time> |
 | [gangsta rap]({{ "tags/gangsta-rap" | relative_url }}) | <time datetime="2025-10-28T09:20:49.837Z">Tue Oct 28 2025 11:20:49 GMT+0200 (Eastern European Standard Time)</time> |
 | [bedroom pop]({{ "tags/bedroom-pop" | relative_url }}) | <time datetime="2025-10-28T09:20:06.277Z">Tue Oct 28 2025 11:20:06 GMT+0200 (Eastern European Standard Time)</time> |
