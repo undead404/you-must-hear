@@ -9,6 +9,10 @@ title: drum
 
 Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+&quot;Drum&quot; encompasses music where percussion elements serve as the primary driving force, featuring prominent rhythmic patterns and beat-focused arrangements across genres from electronic and breakbeat to experimental and world music. The tag highlights tracks where drum sounds—whether acoustic, electronic, or hybrid—take center stage rather than serving as mere accompaniment. This percussion-forward approach creates visceral, rhythm-driven experiences that emphasize groove, texture, and the raw power of percussive sound.
+
 ### 100 chronological releases
 
 <table>

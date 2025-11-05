@@ -9,6 +9,10 @@ title: baltimore
 
 Last updated: <time datetime="2025-11-04T09:12:51.396Z">Tue Nov 04 2025 11:12:51 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s largest city, characterized by experimental creativity that spans punk aggression, electronic innovation, and the rapid-fire beats of club music. The tag captures Baltimore&#39;s DIY ethos and cultural diversity, where underground scenes blend raw energy with avant-garde approaches to hip-hop, noise rock, and dance music. This sound reflects the city&#39;s gritty urban character and independent spirit, favoring unconventional production and boundary-pushing experimentation.
+
 ### 100 chronological releases
 
 <table>
@@ -542,7 +546,7 @@ Last updated: <time datetime="2025-11-04T09:12:51.396Z">Tue Nov 04 2025 11:12:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 5</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 6</li>
         </ul>
       </td>
     </tr>
