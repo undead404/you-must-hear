@@ -9,6 +9,10 @@ title: tekno
 
 Last updated: <time datetime="2025-11-02T20:53:38.732Z">Sun Nov 02 2025 22:53:38 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Tekno is a raw, high-energy strain of electronic dance music that emerged from underground European free party culture in the 1990s. Characterized by distorted kick drums, acid basslines, and tempos often exceeding 150 BPM, it emphasizes DIY ethos and resistance to commercial dance music. The sound is deliberately rough and industrial, designed for marathon outdoor raves and sound system gatherings rather than polished club environments.
+
 ### 100 chronological releases
 
 <table>
