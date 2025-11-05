@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T17:23:36.376Z
+date: 2025-11-05T05:18:51.250Z
 permalink: tags/shred
 title: shred
 ---
 
 ## shred
 
-Last updated: <time datetime="2025-11-03T17:23:36.376Z">Mon Nov 03 2025 19:23:36 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-05T05:18:51.250Z">Wed Nov 05 2025 07:18:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
   </thead>
   <tbody>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea94438de0c7456fa259e37b2475e1d3.png" alt="Cover for The Brothers (N)" style="max-width:120px; height:auto;" />
       </td>
@@ -55,7 +55,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/a8OA6FId3bCXoL3rSuBPapTeK6mK5sA9xCNCtTlDjYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzc2/NzAtMTQ2MDE3NTgw/MS03MTk3LmpwZWc.jpeg" alt="Cover for Guitar Star" style="max-width:120px; height:auto;" />
       </td>
@@ -75,7 +75,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e17c800c1c23470d42ae20c380f0ca6.png" alt="Cover for Made In Hawaii" style="max-width:120px; height:auto;" />
       </td>
@@ -128,7 +128,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/babfd8e2b344966e80b0fba2b8de68a0.png" alt="Cover for Street Lethal" style="max-width:120px; height:auto;" />
       </td>
@@ -146,7 +146,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13416ce4be3f49599d693baa5e8e4719.png" alt="Cover for Time Odyssey" style="max-width:120px; height:auto;" />
       </td>
@@ -180,7 +180,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 70</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 71</li>
             <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 100</li>
         </ul>
       </td>
@@ -222,12 +222,12 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 14</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b265f52d29e44f5c42044d87b2dd8f2.png" alt="Cover for Electric Joy" style="max-width:120px; height:auto;" />
       </td>
@@ -246,7 +246,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/c8cU8Emktx26Hm-H5rLMWLRczjU_tepBiG6XuZXLN04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQx/ODAtMTM5MDAwMzQ0/MC01ODcwLmpwZWc.jpeg" alt="Cover for Darren Housholder" style="max-width:120px; height:auto;" />
       </td>
@@ -270,7 +270,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f65ed9b7f9c08606febca1bca8335529.png" alt="Cover for Live" style="max-width:120px; height:auto;" />
       </td>
@@ -287,7 +287,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/92syDMXdLcTfFL-1R-DQ8597mMXpK97S2sY-ON2-24E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzU4/MTIxLTE3MDQwMzg4/NTQtMTcxMS5qcGVn.jpeg" alt="Cover for ViViX The Best &quot;Godspeed&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -361,7 +361,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c323f6a14cd0410bc16427a92ed52df7.png" alt="Cover for Sing" style="max-width:120px; height:auto;" />
       </td>
@@ -396,7 +396,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 33</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -419,7 +419,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/bH5DoQdkVG92kkm3UCewOkt0aAEZqVu1VrohZvB2Ugs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjIt/MTE0MTY1MzIxMS5q/cGVn.jpeg" alt="Cover for House of the Winds" style="max-width:120px; height:auto;" />
       </td>
@@ -461,12 +461,12 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 32</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/36Yi5L0AEc-gB4zMX0ejWuYO7JLaNzl7RHvuTHJHDrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDA3/NTgtMTUzMjY4MDc4/MC00NzE5LmpwZWc.jpeg" alt="Cover for Judgement Day" style="max-width:120px; height:auto;" />
       </td>
@@ -553,7 +553,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td>2001</td>
@@ -647,7 +647,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e53abdc240ca7da680f57823566e0d2c.png" alt="Cover for Rusty Cooley" style="max-width:120px; height:auto;" />
       </td>
@@ -661,7 +661,6 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -756,12 +755,12 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 76</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/JfvbeQ0Se7AsT2BTD8SFZJOEH7G0ei1hm3QyMw0Y0Oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTk3/OTItMTQ4ODE5MzQz/NC03NjkyLmpwZWc.jpeg" alt="Cover for Rise From the Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -827,7 +826,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/hoIuNwtrGkmjZ6M1YfQ7cizDdGdNXZ6WYPRaqcTkNT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTgx/MjYtMTQwMDc3Mzk5/OS05MDM0LmpwZWc.jpeg" alt="Cover for Scream!" style="max-width:120px; height:auto;" />
       </td>
@@ -920,6 +919,25 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd9799d3af5c6df99328a0d80b8b220d.png" alt="Cover for Hands Without Shadows" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-10-27</td>
+      <td>Michael Angelo Batio</td>
+      <td>Hands Without Shadows</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>59</td>
       <td>
       </td>
@@ -941,7 +959,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f703034a182bbf2d2fb792a6fc48a40.png" alt="Cover for Erotic Cakes" style="max-width:120px; height:auto;" />
       </td>
@@ -961,7 +979,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e6d94c5a09f71e5cc9197d7534b3ebc.png" alt="Cover for The Tri-Tone Fascination" style="max-width:120px; height:auto;" />
       </td>
@@ -975,7 +993,6 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1040,7 +1057,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55bbfcba120e95ec5e2a697fb6baf15b.png" alt="Cover for Breaking The Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -1079,7 +1096,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/OUAWUtgiMRuej-YVABiwlTDqcTefikvSp_ODSHavDIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTk3/ODktMTQ2MDk2MzQy/NC0yNDkyLmpwZWc.jpeg" alt="Cover for 2 X Again" style="max-width:120px; height:auto;" />
       </td>
@@ -1252,25 +1269,6 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/TEUgzP1YxzdffxzWjOkG_0AZQUkqZEsvdF5iunbWwmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ2/Mjc2LTE1NTYzMzQ2/NjgtMjI5NC5qcGVn.jpeg" alt="Cover for Genocide" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Carlos Lichman</td>
-      <td>Genocide</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shred" | relative_url }}">shred</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>65</td>
       <td>
           <img src="https://i.discogs.com/Z82p5A4wVG1rXxJrEVfppTiLtLqDGTqw11j93khnqt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjA4/NjItMTM4MDY1Njk4/My0xMDA2LmpwZWc.jpeg" alt="Cover for In Search Of Perfection" style="max-width:120px; height:auto;" />
@@ -1290,7 +1288,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3492f8a215394b8a86d3575344d181ad.png" alt="Cover for Orchestral Mayhem" style="max-width:120px; height:auto;" />
       </td>
@@ -1307,7 +1305,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/QpH4D8EFPteWd2ytQgXeJs1gG8xUjaXRSZtijZWZdMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDkw/OTctMTMwOTI5NTg4/Ny5qcGVn.jpeg" alt="Cover for Orthrelm" style="max-width:120px; height:auto;" />
       </td>
@@ -1344,7 +1342,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 73</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1365,12 +1363,12 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 35</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8fcd61b9ab3eacd06bbddb0ccc1188d.png" alt="Cover for Krakatau" style="max-width:120px; height:auto;" />
       </td>
@@ -1393,7 +1391,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/cm6TLXdjOVpv8yiZ9-d8yRji-SI-G-psr6CnnI1cgX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg4/MzcxLTE1MTE1MjA4/NTgtODg1My5qcGVn.jpeg" alt="Cover for Big Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1414,7 +1412,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d85ec5ddafae83ae762afe001a0f20f8.png" alt="Cover for Head öf the Pack" style="max-width:120px; height:auto;" />
       </td>
@@ -1423,7 +1421,8 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       <td>Head öf the Pack</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 88.57142857142857 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
         </ul>
       </td>
       <td>
@@ -1470,7 +1469,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/o-OBDCwjdCSymshCkp5z_XdJB093AA3AHHQnBNFZFI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODY3/MzU0LTE1MjM4NzM0/MTYtMzkxMi5qcGVn.jpeg" alt="Cover for Filler" style="max-width:120px; height:auto;" />
       </td>
@@ -1553,7 +1552,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/BFSjzLiGDxui6Zyvgrz98pf5HjsWk1rW_AckKvWg13k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzA1/OTYtMTM5MDcyOTgy/Ni02NTY3LmpwZWc.jpeg" alt="Cover for Black Moon Rising (2006)" style="max-width:120px; height:auto;" />
       </td>
@@ -1600,7 +1599,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/REpwvHV3DfdQBa7kh1Q7I_N2HFxmF0aazBZu2aeRObA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MTk1/MzUtMTQ4MzgwODY4/OS01MTU0LmpwZWc.jpeg" alt="Cover for Enigma Opera Black" style="max-width:120px; height:auto;" />
       </td>
@@ -1638,7 +1637,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/vxcGz_Sr1kB38QsM4xgl5wb2eRURDWZr8LTXc66unkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUy/NTcwLTE1MzkzNzk3/NDAtNzExNS5qcGVn.jpeg" alt="Cover for New Shred Generation" style="max-width:120px; height:auto;" />
       </td>
@@ -1659,7 +1658,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/I-IsR7FAgjJsbEnM45HXaasJUMMKYAAlK72oJsXzATo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUx/MTEzLTE1MzkzNTg0/NDYtOTEzNC5qcGVn.jpeg" alt="Cover for Divine Technical Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -1725,7 +1724,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/G-_sf858nnwK0ltsBefCqkq8amSDVmNSnJX1qYBY9Gg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDg4/OTI4LTE2MjYyNjI2/MDUtNTUyMi5qcGVn.jpeg" alt="Cover for Chaos Mechanics" style="max-width:120px; height:auto;" />
       </td>
@@ -1783,7 +1782,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/B2HKIMA9t0AADzY4kMi0RUIGLPThX3JPClLUFaHDiPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzAy/ODExLTE1NzE4MTg0/NTAtMTU0NC5qcGVn.jpeg" alt="Cover for Labyrinth of Illusions (2007)" style="max-width:120px; height:auto;" />
       </td>
@@ -1869,7 +1868,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/bXXqJ2LT0J1rqyawAGkXyO9DpHfzVLaEtxoUfgp-eic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzA1/MDQ3LTE3MTU5NjU4/MTMtMzg3NS5qcGVn.jpeg" alt="Cover for Engraved Spectral Aeons" style="max-width:120px; height:auto;" />
       </td>
@@ -1896,7 +1895,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecd4bac61779ddcdbff8c81de23cb643.png" alt="Cover for Out of the City" style="max-width:120px; height:auto;" />
       </td>
@@ -1980,7 +1979,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -2018,7 +2017,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -2038,7 +2037,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
