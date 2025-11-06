@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-05T21:21:43.665Z
+date: 2025-11-05T22:12:15.269Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-05T21:21:43.665Z">Wed Nov 05 2025 23:21:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-05T22:12:15.269Z">Thu Nov 06 2025 00:12:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [electronica]({{ "tags/electronica" | relative_url }}) | <time datetime="2025-11-05T22:12:15.269Z">Thu Nov 06 2025 00:12:15 GMT+0200 (Eastern European Standard Time)</time> |
 | [glam metal]({{ "tags/glam-metal" | relative_url }}) | <time datetime="2025-11-05T21:21:43.665Z">Wed Nov 05 2025 23:21:43 GMT+0200 (Eastern European Standard Time)</time> |
 | [electronic rock]({{ "tags/electronic-rock" | relative_url }}) | <time datetime="2025-11-05T21:00:50.976Z">Wed Nov 05 2025 23:00:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [industrial rock]({{ "tags/industrial-rock" | relative_url }}) | <time datetime="2025-11-05T20:59:51.212Z">Wed Nov 05 2025 22:59:51 GMT+0200 (Eastern European Standard Time)</time> |
@@ -681,7 +682,6 @@ Last updated: <time datetime="2025-11-05T21:21:43.665Z">Wed Nov 05 2025 23:21:43
 | [schlager]({{ "tags/schlager" | relative_url }}) | <time datetime="2025-10-28T04:57:03.365Z">Tue Oct 28 2025 06:57:03 GMT+0200 (Eastern European Standard Time)</time> |
 | [jazz]({{ "tags/jazz" | relative_url }}) | <time datetime="2025-10-28T04:56:44.960Z">Tue Oct 28 2025 06:56:44 GMT+0200 (Eastern European Standard Time)</time> |
 | [jazz-funk]({{ "tags/jazz-funk" | relative_url }}) | <time datetime="2025-10-28T04:56:35.010Z">Tue Oct 28 2025 06:56:35 GMT+0200 (Eastern European Standard Time)</time> |
-| [electronica]({{ "tags/electronica" | relative_url }}) | <time datetime="2025-10-28T04:56:26.130Z">Tue Oct 28 2025 06:56:26 GMT+0200 (Eastern European Standard Time)</time> |
 | [deathgrind]({{ "tags/deathgrind" | relative_url }}) | <time datetime="2025-10-28T04:56:08.519Z">Tue Oct 28 2025 06:56:08 GMT+0200 (Eastern European Standard Time)</time> |
 | [moshcore]({{ "tags/moshcore" | relative_url }}) | <time datetime="2025-10-28T04:55:51.831Z">Tue Oct 28 2025 06:55:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [spoken word]({{ "tags/spoken-word" | relative_url }}) | <time datetime="2025-10-28T04:55:46.752Z">Tue Oct 28 2025 06:55:46 GMT+0200 (Eastern European Standard Time)</time> |
