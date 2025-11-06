@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T07:30:50.989Z
+date: 2025-11-05T18:21:51.423Z
 permalink: tags/easycore
 title: easycore
 ---
 
 ## easycore
 
-Last updated: <time datetime="2025-11-01T07:30:50.989Z">Sat Nov 01 2025 09:30:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-05T18:21:51.423Z">Wed Nov 05 2025 20:21:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,13 +45,13 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 13</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 53</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 14</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/XmBH2el9QzpIZzaFzp_j-IduDL0s09h7S2AInEZcDYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTYw/OTkyLTE2MjM4NDYz/NDgtMjAwOC5qcGVn.jpeg" alt="Cover for Pop Punk Destroyed My Life" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>2004-03-06</td>
@@ -86,7 +86,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2004-05-18</td>
@@ -104,7 +104,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/ilI04o3YZUttSPFdmvvPbesbmb5i_E9pnhHXS9xmlgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ3/NzEtMTE5MjM2MTY2/NS5qcGVn.jpeg" alt="Cover for And Their Name Was Treason" style="max-width:120px; height:auto;" />
       </td>
@@ -121,14 +121,14 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       <td>
         <ul>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 6</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 67</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 82</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 68</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 83</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/fSl0lkad1lkoM7mSrYmtIstPWrtoth-IV10CylpS3PA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzY4/MzItMTY3ODc0MDI3/OC03MzI1LmpwZWc.jpeg" alt="Cover for Don&#39;t Get Lost in a Movement" style="max-width:120px; height:auto;" />
       </td>
@@ -187,7 +187,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>2007</td>
@@ -222,7 +222,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2007-07-18</td>
@@ -235,7 +235,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 20</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -258,7 +258,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/jXkrkgfQiFrpwsalzyuP_3Tyu7xYJbbScvgVjCZ7LlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTk2/MzQtMTQ1MTc0OTgz/OC0xNzAwLmpwZWc.jpeg" alt="Cover for Self Titled" style="max-width:120px; height:auto;" />
       </td>
@@ -367,7 +367,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/mQ5NHYAa1cNjrg0GeTb-Xmxk6CtQCaI5Uj3FoeeQYdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDUw/MjktMTY2NzE1MDky/Mi01OTcwLmpwZWc.jpeg" alt="Cover for Yeeaahh Right" style="max-width:120px; height:auto;" />
       </td>
@@ -385,7 +385,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/SrBTsfibIVjREN3uOapD-BnyAOFQwwYnT4zUnuhcq_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDIy/NjgtMTYwOTQ0NDk0/Mi04NDE4LmpwZWc.jpeg" alt="Cover for Baby You Don&#39;t Tripajaharda" style="max-width:120px; height:auto;" />
       </td>
@@ -426,7 +426,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/mQ5NHYAa1cNjrg0GeTb-Xmxk6CtQCaI5Uj3FoeeQYdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDUw/MjktMTY2NzE1MDky/Mi01OTcwLmpwZWc.jpeg" alt="Cover for Like Gum In Your Hair" style="max-width:120px; height:auto;" />
       </td>
@@ -546,7 +546,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 6</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -588,12 +588,12 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 29</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/q8IM4o4I12muZmKCTQ6NVsorq3bNaFuzu6SxX9TXDWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTgw/MzgtMTQwNTc0NjMy/OC0yMzk0LmpwZWc.jpeg" alt="Cover for There&#39;s No Place Like Home" style="max-width:120px; height:auto;" />
       </td>
@@ -648,7 +648,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/mp-Tm_6yQdU8b9g4Yo9VV9xpPupnkjEMhS9gf8_S6f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI0/OTI3LTE1NDI2NjIw/OTUtMzI0Mi5qcGVn.jpeg" alt="Cover for Lord Unicorn &amp; The Masters" style="max-width:120px; height:auto;" />
       </td>
@@ -703,7 +703,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 17</li>
             <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 44</li>
             <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 58</li>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 71</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -754,7 +754,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/RndJ1Zlq6FaqoOzax1mRTmWPjbMm9RaoEEW8oPnUtS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njg2/OTg0LTE2NjQ2MzEx/NTYtMzI1Mi5qcGVn.jpeg" alt="Cover for Ради чего?" style="max-width:120px; height:auto;" />
       </td>
@@ -796,7 +796,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2011-02-22</td>
@@ -809,13 +809,13 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 4</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 5</li>
             <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/CsFVJbvHs-VUHC9lg0CcsQhZfdu0pu2ffGqeSDjB1cw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDk2/ODQtMTU5MjIwMjg4/Mi00MTY0LmpwZWc.jpeg" alt="Cover for Forever Ended Yesterday" style="max-width:120px; height:auto;" />
       </td>
@@ -835,7 +835,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2011-06-27</td>
@@ -852,7 +852,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2011-07-02</td>
@@ -922,7 +922,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 77</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 78</li>
             <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 84</li>
         </ul>
       </td>
@@ -1006,7 +1006,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2012-07-17</td>
@@ -1048,7 +1048,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2012-12-21</td>
@@ -1102,7 +1102,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/6BTdeJvhIT30t_YmzWokNNKe-0fvo-6WrUOmR5e6etI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDAx/MjUtMTM3NjM5MTIy/MC02NDYwLmpwZWc.jpeg" alt="Cover for Убийца Мечты" style="max-width:120px; height:auto;" />
       </td>
@@ -1120,7 +1120,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/YcWXNnbvhEazA2eLSXTXXtsEDAdpC2D6DH8UJXoiKyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDk3/NjY3LTE2Nzk0MjI2/NDAtMjg5NC5qcGVn.jpeg" alt="Cover for Your Life Is In Your Hands" style="max-width:120px; height:auto;" />
       </td>
@@ -1144,7 +1144,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/tgLqsiqRYxdky-RJiSvL-zqckUXP7RxbHeASGySCqpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzM2/NDgtMTU4Mjg0OTcw/NS02ODIyLmpwZWc.jpeg" alt="Cover for Growing Up Is Killing Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1163,7 +1163,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6eb9d3eff4cddbad6d8cbaa4e6fab01e.png" alt="Cover for The Finer Things" style="max-width:120px; height:auto;" />
       </td>
@@ -1182,7 +1182,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2add6c9f46a2437a8382d3613f1eb384.png" alt="Cover for The Way Things Should Be" style="max-width:120px; height:auto;" />
       </td>
@@ -1202,7 +1202,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/li53CzaGiOmSyQZSMD9qETSQkMrutqIxIR7aONRiNdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTkz/MjgtMTQ3Njg4MTI0/My0yODE2LmpwZWc.jpeg" alt="Cover for Never Ending" style="max-width:120px; height:auto;" />
       </td>
@@ -1222,7 +1222,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/9148P5iVgmKCuT45gssh0pWb4N5XvvhYzWqshru7Sm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzk0/NTc5LTE1ODE3Mzgx/ODQtODk3OC5qcGVn.jpeg" alt="Cover for More Than You Know" style="max-width:120px; height:auto;" />
       </td>
@@ -1240,7 +1240,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/EGokPUZzk1ogwdDgILKrDOF_Ow_xtDbzIRIkqKf6W7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjQ3/NjItMTQyMzMzNTA0/MC03NzUxLmpwZWc.jpeg" alt="Cover for Not What You Expected" style="max-width:120px; height:auto;" />
       </td>
@@ -1277,7 +1277,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/oCR8nuq6B1Gdxw7TjpDRgDJwCkFCmNveWzjobqU0wh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTk5/MjQtMTQwMTg5MDMw/Mi0yODMxLmpwZWc.jpeg" alt="Cover for Witness" style="max-width:120px; height:auto;" />
       </td>
@@ -1287,6 +1287,26 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2014-08-13</td>
+      <td>We Set Signals</td>
+      <td>Polaris</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
         </ul>
@@ -1315,7 +1335,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/95wcIUZjXxTyiMSVlod8iG313aCPYytbUap-FYvl7c0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg4/OTkxLTE1MDQzNTE2/ODgtOTA5Ni5qcGVn.jpeg" alt="Cover for Holding On To What We Know" style="max-width:120px; height:auto;" />
       </td>
@@ -1350,7 +1370,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 12</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1470,7 +1490,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/Bapwcw6r6kV7SfLwFY7JUZr_1v8KMSnFCOqG-wUypJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjI4/OTUtMTQ2NjIyNTY2/My0yNTAwLmpwZWc.jpeg" alt="Cover for Friendville" style="max-width:120px; height:auto;" />
       </td>
@@ -1527,7 +1547,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/Le_yx4PD7t_HhUDrVZX1vfDV9C7yc3Qt7adz4z1Ztj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NTI2/NDQtMTQ4MjU5NzE0/NC0xOTg1LmpwZWc.jpeg" alt="Cover for Manic" style="max-width:120px; height:auto;" />
       </td>
@@ -1547,7 +1567,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/S8vaLmSfrcpSW1fRipSzekRbbu6xsuN7v7G3ABAV_5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTYx/NjE1LTE1MTEwMDY4/NzItODk3NC5qcGVn.jpeg" alt="Cover for That&#39;s so Yesterday" style="max-width:120px; height:auto;" />
       </td>
@@ -1594,7 +1614,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/0umfwe_Pj2O_ZQXVXmQgJ0qyftnYvMEaVj-9HSGlrAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcx/NTgzLTE0OTI4NDM3/MzYtMzcxMC5qcGVn.jpeg" alt="Cover for Break the Ice" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,7 +1632,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/zoHGClfth1_CmquQUAEsEuHEWbeiLqp2ol76pGpdJqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg4/OTQ1LTE1MDQzNTEw/ODgtMTY2My5qcGVn.jpeg" alt="Cover for Works Of Progress" style="max-width:120px; height:auto;" />
       </td>
@@ -1656,7 +1676,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04b870a3a7f838a955ad7a278da8a67d.png" alt="Cover for Banana" style="max-width:120px; height:auto;" />
       </td>
@@ -1697,7 +1717,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/Ew4cRHabcfsTwg6algtNGoEznVhMAOxvnUHJx0BMOXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTE4/NzcwLTE2MTE3Mjc5/ODctNDAxNy5qcGVn.jpeg" alt="Cover for Persevere" style="max-width:120px; height:auto;" />
       </td>
@@ -1739,13 +1759,13 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 26</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 32</li>
             <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/w7Bo6di2mbWXwzSQb3msSzx1aZr-L6X0k_oCEQWTuTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU3/NzE3LTE1Mzk0Nzgw/MDMtODQ5OS5qcGVn.jpeg" alt="Cover for Bear-sides" style="max-width:120px; height:auto;" />
       </td>
@@ -1835,7 +1855,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa22c13874a34e22018e7ee86f7e9eba.png" alt="Cover for Songs That Saved My Life Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1875,26 +1895,6 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       <td>
         <ul>
             <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 98</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2aaf61c38f9154770af39511794668f7.png" alt="Cover for Brain Pain" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-02-28</td>
-      <td>Four Year Strong</td>
-      <td>Brain Pain</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -1997,7 +1997,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/ZhtA6y6fg_E1eNpfdVASpRqsFZZ-Iwi4ZuS7eSgIWKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODM0/OTYwLTE2NTczOTc1/ODgtODUzNi5wbmc.jpeg" alt="Cover for Waiting for Your Colours" style="max-width:120px; height:auto;" />
       </td>
@@ -2018,7 +2018,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19fab6817e7b68c43281ce507ea59d95.png" alt="Cover for Tear Me to Pieces" style="max-width:120px; height:auto;" />
       </td>

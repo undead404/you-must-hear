@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-05T16:36:52.691Z
+date: 2025-11-05T18:21:51.423Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-05T16:36:52.691Z">Wed Nov 05 2025 18:36:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-05T18:21:51.423Z">Wed Nov 05 2025 20:21:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [easycore]({{ "tags/easycore" | relative_url }}) | <time datetime="2025-11-05T18:21:51.423Z">Wed Nov 05 2025 20:21:51 GMT+0200 (Eastern European Standard Time)</time> |
+| [latin pop]({{ "tags/latin-pop" | relative_url }}) | <time datetime="2025-11-05T18:16:51.151Z">Wed Nov 05 2025 20:16:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [psycore]({{ "tags/psycore" | relative_url }}) | <time datetime="2025-11-05T16:36:52.691Z">Wed Nov 05 2025 18:36:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [rappeuse]({{ "tags/rappeuse" | relative_url }}) | <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [live show]({{ "tags/live-show" | relative_url }}) | <time datetime="2025-11-05T16:02:52.418Z">Wed Nov 05 2025 18:02:52 GMT+0200 (Eastern European Standard Time)</time> |
@@ -274,7 +276,6 @@ Last updated: <time datetime="2025-11-05T16:36:52.691Z">Wed Nov 05 2025 18:36:52
 | [electronic rock]({{ "tags/electronic-rock" | relative_url }}) | <time datetime="2025-11-01T08:09:50.970Z">Sat Nov 01 2025 10:09:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [skinhead]({{ "tags/skinhead" | relative_url }}) | <time datetime="2025-11-01T08:00:50.961Z">Sat Nov 01 2025 10:00:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [american idol]({{ "tags/american-idol" | relative_url }}) | <time datetime="2025-11-01T07:53:50.964Z">Sat Nov 01 2025 09:53:50 GMT+0200 (Eastern European Standard Time)</time> |
-| [easycore]({{ "tags/easycore" | relative_url }}) | <time datetime="2025-11-01T07:30:50.989Z">Sat Nov 01 2025 09:30:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [pop rap]({{ "tags/pop-rap" | relative_url }}) | <time datetime="2025-11-01T07:21:50.994Z">Sat Nov 01 2025 09:21:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [djent]({{ "tags/djent" | relative_url }}) | <time datetime="2025-11-01T07:10:50.965Z">Sat Nov 01 2025 09:10:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [brazilian rock]({{ "tags/brazilian-rock" | relative_url }}) | <time datetime="2025-11-01T06:43:51.047Z">Sat Nov 01 2025 08:43:51 GMT+0200 (Eastern European Standard Time)</time> |
@@ -694,7 +695,6 @@ Last updated: <time datetime="2025-11-05T16:36:52.691Z">Wed Nov 05 2025 18:36:52
 | [dark electronic]({{ "tags/dark-electronic" | relative_url }}) | <time datetime="2025-10-28T04:53:31.486Z">Tue Oct 28 2025 06:53:31 GMT+0200 (Eastern European Standard Time)</time> |
 | [crossover thrash]({{ "tags/crossover-thrash" | relative_url }}) | <time datetime="2025-10-28T04:50:02.974Z">Tue Oct 28 2025 06:50:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [rock en espanol]({{ "tags/rock-en-espanol" | relative_url }}) | <time datetime="2025-10-28T04:49:53.050Z">Tue Oct 28 2025 06:49:53 GMT+0200 (Eastern European Standard Time)</time> |
-| [latin pop]({{ "tags/latin-pop" | relative_url }}) | <time datetime="2025-10-28T04:49:45.893Z">Tue Oct 28 2025 06:49:45 GMT+0200 (Eastern European Standard Time)</time> |
 | [reggaeton]({{ "tags/reggaeton" | relative_url }}) | <time datetime="2025-10-28T04:49:38.700Z">Tue Oct 28 2025 06:49:38 GMT+0200 (Eastern European Standard Time)</time> |
 | [latin]({{ "tags/latin" | relative_url }}) | <time datetime="2025-10-28T04:49:30.326Z">Tue Oct 28 2025 06:49:30 GMT+0200 (Eastern European Standard Time)</time> |
 | [metallic hardcore]({{ "tags/metallic-hardcore" | relative_url }}) | <time datetime="2025-10-28T04:49:00.261Z">Tue Oct 28 2025 06:49:00 GMT+0200 (Eastern European Standard Time)</time> |
