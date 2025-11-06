@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T03:42:51.400Z
+date: 2025-11-06T02:48:52.706Z
 permalink: tags/future-house
 title: future house
 ---
 
 ## future house
 
-Last updated: <time datetime="2025-11-03T03:42:51.400Z">Mon Nov 03 2025 05:42:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-06T02:48:52.706Z">Thu Nov 06 2025 04:48:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1098,7 +1098,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 18</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 20</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 28</li>
             <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 44</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 49</li>
@@ -1382,7 +1382,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 13</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 12</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 19</li>
             <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 61</li>
         </ul>
@@ -1568,7 +1568,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td></td>
       <td>Tyler Brooker</td>
-      <td>Scrap God (Spicy Edition)</td>
+      <td>Elevation</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>

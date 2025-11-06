@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-06T01:56:51.602Z
+date: 2025-11-06T02:48:52.706Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-06T01:56:51.602Z">Thu Nov 06 2025 03:56:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-06T02:48:52.706Z">Thu Nov 06 2025 04:48:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [future house]({{ "tags/future-house" | relative_url }}) | <time datetime="2025-11-06T02:48:52.706Z">Thu Nov 06 2025 04:48:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [hard bop]({{ "tags/hard-bop" | relative_url }}) | <time datetime="2025-11-06T01:56:51.602Z">Thu Nov 06 2025 03:56:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [mexican]({{ "tags/mexican" | relative_url }}) | <time datetime="2025-11-06T01:17:22.732Z">Thu Nov 06 2025 03:17:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [electronicore]({{ "tags/electronicore" | relative_url }}) | <time datetime="2025-11-06T00:38:51.574Z">Thu Nov 06 2025 02:38:51 GMT+0200 (Eastern European Standard Time)</time> |
@@ -212,7 +213,6 @@ Last updated: <time datetime="2025-11-06T01:56:51.602Z">Thu Nov 06 2025 03:56:51
 | [metal]({{ "tags/metal" | relative_url }}) | <time datetime="2025-11-03T06:28:09.042Z">Mon Nov 03 2025 08:28:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [big beat]({{ "tags/big-beat" | relative_url }}) | <time datetime="2025-11-03T06:25:43.066Z">Mon Nov 03 2025 08:25:43 GMT+0200 (Eastern European Standard Time)</time> |
 | [garage rock]({{ "tags/garage-rock" | relative_url }}) | <time datetime="2025-11-03T03:48:51.237Z">Mon Nov 03 2025 05:48:51 GMT+0200 (Eastern European Standard Time)</time> |
-| [future house]({{ "tags/future-house" | relative_url }}) | <time datetime="2025-11-03T03:42:51.400Z">Mon Nov 03 2025 05:42:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [austrian]({{ "tags/austrian" | relative_url }}) | <time datetime="2025-11-03T03:41:50.979Z">Mon Nov 03 2025 05:41:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [real post-hardcore]({{ "tags/real-post-hardcore" | relative_url }}) | <time datetime="2025-11-03T03:40:50.984Z">Mon Nov 03 2025 05:40:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [italiana]({{ "tags/italiana" | relative_url }}) | <time datetime="2025-11-03T02:00:51.019Z">Mon Nov 03 2025 04:00:51 GMT+0200 (Eastern European Standard Time)</time> |
