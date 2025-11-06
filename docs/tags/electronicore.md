@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:00:29.553Z
+date: 2025-11-06T00:38:51.574Z
 permalink: tags/electronicore
 title: electronicore
 ---
 
 ## electronicore
 
-Last updated: <time datetime="2025-10-28T06:00:29.553Z">Tue Oct 28 2025 08:00:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-06T00:38:51.574Z">Thu Nov 06 2025 02:38:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -100,7 +100,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2003</td>
@@ -153,13 +153,13 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 58</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 59</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2007</td>
@@ -182,7 +182,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/3I47lwGK4pQA-9yNzxxm2kgD9pY4YUinTkoAHheAJ5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzQw/MDEtMTUxODAzODM0/My03OTQzLmpwZWc.jpeg" alt="Cover for Natural Death" style="max-width:120px; height:auto;" />
       </td>
@@ -242,12 +242,12 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 35</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/CIQlqLvKrJ10LRpsHfaAi0SiKyWCaSfIFvZx6_h8Dd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjUy/NDctMTM4NTE4NTg0/NS02OTMxLmpwZWc.jpeg" alt="Cover for Aquador" style="max-width:120px; height:auto;" />
       </td>
@@ -268,7 +268,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/CIQlqLvKrJ10LRpsHfaAi0SiKyWCaSfIFvZx6_h8Dd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjUy/NDctMTM4NTE4NTg0/NS02OTMxLmpwZWc.jpeg" alt="Cover for The Aquador" style="max-width:120px; height:auto;" />
       </td>
@@ -374,7 +374,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 60</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 61</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 87</li>
             <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 98</li>
         </ul>
@@ -401,7 +401,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/u8Ps4_Z95kpdBDrsJguYx58cj7TEo_F1aLCDkXQ48hE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTcw/NDI3LTE2NTIxMjYz/MjctNDI0MS5wbmc.jpeg" alt="Cover for Unreleased Fagsongs" style="max-width:120px; height:auto;" />
       </td>
@@ -520,8 +520,8 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 7</li>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 80</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 10</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -545,7 +545,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/XeCCxBsJq7AZU_8Rem0ei5LtgzS4iFYhISrYqTr12XA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM2/NDEwLTE1NzI0NzA5/NDAtNTU2Ny5qcGVn.jpeg" alt="Cover for Das Monster aus dem Schrank" style="max-width:120px; height:auto;" />
       </td>
@@ -564,7 +564,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/cJ915utvoa_yrxQ0jZam-KTwZJxRSzwU6cIxS3jxCEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTEz/NTQtMTQ4MTU5MTgy/OS0xNDUzLmpwZWc.jpeg" alt="Cover for Sex Ed Rocks" style="max-width:120px; height:auto;" />
       </td>
@@ -582,7 +582,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 31</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -662,7 +662,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/a1Q3a9OQPQZw-CG641YiKqmkLpi-WMmKhruc_qo2j4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDE0/NTQtMTQ3Mzc1MjY4/Mi02NjU2LmpwZWc.jpeg" alt="Cover for Music 2.0" style="max-width:120px; height:auto;" />
       </td>
@@ -721,7 +721,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2acea59c6109453b9e5bcfc17b725d8c.png" alt="Cover for As If Everything Was Held In Place" style="max-width:120px; height:auto;" />
       </td>
@@ -758,8 +758,8 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 21</li>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 70</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 24</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -779,12 +779,12 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 46</li>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 68</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/9cm6IperYLIYCPBx97bejnptlM2RtXOyNpUcrDzlNeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTgw/NzktMTI0NDAyMzc0/Ni5qcGVn.jpeg" alt="Cover for Shapeshift" style="max-width:120px; height:auto;" />
       </td>
@@ -827,12 +827,12 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 72</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/efb51c03bdf4cf016cff0a7663dc5163.png" alt="Cover for There Will Be Bears" style="max-width:120px; height:auto;" />
       </td>
@@ -878,7 +878,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/ooJbWSCxLngOK_y06Bj668YovFG7kEmDoCfBixWVDYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg2/NTYtMTI3MjI0Nzg4/Mi5qcGVn.jpeg" alt="Cover for Soundtrack to the Apocalypse" style="max-width:120px; height:auto;" />
       </td>
@@ -917,8 +917,8 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 11</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 13</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 13</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 19</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 75</li>
         </ul>
@@ -963,7 +963,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>2010-06-08</td>
@@ -980,7 +980,30 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/VhPtjkD8pjh-6MkjzdPNbsik7BQX-0rObS54QMd3O0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjYx/MDctMTY4MDU4Njgz/MS00MTI4LnBuZw.jpeg" alt="Cover for Four Years Foreplay" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>I Set My Friends on Fire</td>
+      <td>Four Years Foreplay</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/xLIYPAkTXLNr2e4DkZg7wGE73Pui3pwZ_WSgvfrR7ls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTcx/NTItMTMyOTA3NTUw/NC5qcGVn.jpeg" alt="Cover for End Of The World Party" style="max-width:120px; height:auto;" />
       </td>
@@ -994,7 +1017,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 1</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1012,12 +1035,12 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 14</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>2011-02-22</td>
@@ -1030,8 +1053,8 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 4</li>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 8</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 5</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1085,7 +1108,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 27</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1103,8 +1126,8 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 72</li>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 77</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 74</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1167,7 +1190,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 96</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1185,7 +1208,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 46</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 47</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 81</li>
         </ul>
       </td>
@@ -1211,7 +1234,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/jeVAcn5x9sv6Gd0M4_1METqpsoEarYdaPk80NMT-CW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODkz/NzI5LTE2Mzc2ODQy/NjQtMzA5Ny5qcGVn.jpeg" alt="Cover for Rearranging Patterns" style="max-width:120px; height:auto;" />
       </td>
@@ -1256,7 +1279,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 39</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1282,7 +1305,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/vvD05hxNYeyoXyZz-K1g_DHL-SG0GKIwzhVJR44kfhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTM4/NzYtMTUxNTM5NTM1/OC03OTk5LmpwZWc.jpeg" alt="Cover for Fit For A King [EP]" style="max-width:120px; height:auto;" />
       </td>
@@ -1303,7 +1326,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c56cb5fc0c913957a167218d0ff0038.png" alt="Cover for Avalanche" style="max-width:120px; height:auto;" />
       </td>
@@ -1365,7 +1388,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 64</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 65</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 91</li>
         </ul>
       </td>
@@ -1413,7 +1436,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/Bapwcw6r6kV7SfLwFY7JUZr_1v8KMSnFCOqG-wUypJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjI4/OTUtMTQ2NjIyNTY2/My0yNTAwLmpwZWc.jpeg" alt="Cover for Liberté, Egalité, Friendvillé (Easycore Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1427,7 +1450,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 27</li>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 28</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1459,27 +1482,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>31</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/005e99dcd1ae9c832d571d16c247b3e1.png" alt="Cover for Treehouse" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-06-17</td>
-      <td>I See Stars</td>
-      <td>Treehouse</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 81</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/0aXEX5CDHXVW8FQoyN6gkASG8JWtZfnmDf4F8kjaQpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU2/NjY0LTE1MDE4MDgx/OTYtOTg5OS5qcGVn.jpeg" alt="Cover for Kawaii" style="max-width:120px; height:auto;" />
       </td>
@@ -1503,7 +1506,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/lPjPaPtZYcJGtqouRKo8bpPBop9idE7mVzUoN_EPpcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NzA5/MjctMTUyMTY2OTU4/NC04MjE3LmpwZWc.jpeg" alt="Cover for Gina Goes Wild" style="max-width:120px; height:auto;" />
       </td>
@@ -1538,12 +1541,12 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 19</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/4sPqm3H5oP0HVneKCbtcxTA-4SvK6rXhsy8OxBe1OiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI3/Mjg1LTE1MzcwMTY2/MTMtMTUyMC5qcGVn.jpeg" alt="Cover for From One Castle To The Next (Demo)" style="max-width:120px; height:auto;" />
       </td>
@@ -1592,7 +1595,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/vzThqIwLNQqNklHEkDGAKVbcS22XJmRzRGgpBbFKsXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzYz/MTE3LTE1NzMwMDQ5/NzgtMzc4Mi5qcGVn.jpeg" alt="Cover for Phoenix Down" style="max-width:120px; height:auto;" />
       </td>
@@ -1618,7 +1621,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/WJF8KJBzd1ZoxFT95c1fbCannPnRJumJmkMzh5lcW8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzAy/NjQ5LTE2NTMxMzAx/MzAtNDk2Ny5qcGVn.jpeg" alt="Cover for Four Years Foreplay - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1636,7 +1639,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 32</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1683,6 +1686,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1782,7 +1786,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 94</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1811,7 +1815,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/kjJBCPIaQJMfWdlF9GSoz7Xe4B8iDs1n8T8B23ZDEg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDY1/NDYxLTE2MDc4OTc0/NDQtNzk2MS5qcGVn.jpeg" alt="Cover for PHANTOMa" style="max-width:120px; height:auto;" />
       </td>
@@ -1923,7 +1927,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5ea00b2bd324ea5b528437efcb69f7d.png" alt="Cover for Punk Goes Pop Volume 5" style="max-width:120px; height:auto;" />
       </td>
@@ -2004,7 +2008,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/26dd79894082b08bd431ab56996dc3c1.png" alt="Cover for Origins" style="max-width:120px; height:auto;" />
       </td>
@@ -2043,7 +2047,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 10</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -2063,13 +2067,13 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 53</li>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 79</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 54</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
@@ -2087,7 +2091,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48d0640ba34c4439a8846f1ae90c60e2.png" alt="Cover for Motion Sickness" style="max-width:120px; height:auto;" />
       </td>

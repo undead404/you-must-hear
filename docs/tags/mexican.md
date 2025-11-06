@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T00:49:33.288Z
+date: 2025-11-06T01:17:22.732Z
 permalink: tags/mexican
 title: mexican
 ---
 
 ## mexican
 
-Last updated: <time datetime="2025-10-29T00:49:33.288Z">Wed Oct 29 2025 02:49:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-06T01:17:22.732Z">Thu Nov 06 2025 03:17:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
   </thead>
   <tbody>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
       </td>
       <td>1964</td>
@@ -66,7 +66,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/7-rW-2f_2DDj0fzdOuL9lPkPvE9bCYH0y0IhNV84meA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDkw/NzMtMTUwMTQ4ODM4/OC05NTIxLmpwZWc.jpeg" alt="Cover for Santana Brothers" style="max-width:120px; height:auto;" />
       </td>
@@ -111,7 +111,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/gFT4s0wN-KaXWRHvT4c4oFRfnJa75dxHqY4k-oY935U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTEx/MS0xMjMzMjUwMzU2/LmpwZWc.jpeg" alt="Cover for Inner Secrets" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f8cd61e85ffba8792361d930126d239.png" alt="Cover for Inner Secrets" style="max-width:120px; height:auto;" />
       </td>
       <td>1978-10-01</td>
       <td>Santana</td>
@@ -129,7 +129,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
       </td>
       <td>1979-03</td>
@@ -165,7 +165,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>1985</td>
@@ -187,7 +187,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 13</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 14</li>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 63</li>
             <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 64</li>
             <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 85</li>
@@ -195,7 +195,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/lUf_zmikKC5GdEGJ8hYhOtoNLaKJbsjP6ZRCIhowCaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTgw/NDgtMTI4NzQ1OTYx/Ny5qcGVn.jpeg" alt="Cover for Historia De Una Reina" style="max-width:120px; height:auto;" />
       </td>
@@ -212,6 +212,27 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       <td>
         <ul>
             <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/D9UGobIpumYL66RXR5YQyVlN8Ci8zrlvdXMRQbW4JTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTM1/MzgzLTE1ODcxMzk3/NDEtMzE4OS5qcGVn.jpeg" alt="Cover for Grandes Exitos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Trio Los Panchos</td>
+      <td>Grandes Exitos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -237,7 +258,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/vObspu6jS6HgdTo8cn9pe69VvpBOJjsKmmZXwJC_kMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODIx/MzUtMTQ2NDQ5NTU2/Ni0zMjMxLmpwZWc.jpeg" alt="Cover for Lucerito" style="max-width:120px; height:auto;" />
       </td>
@@ -272,7 +293,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
       </td>
       <td>1991-09-26</td>
@@ -338,7 +359,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/Q6tSQdHszk8ZPygs6WuLth4fM-qNM4hKmZ8lkLC_Ie8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzk2/MjctMTUzODk5NzQ4/Mi02MzcwLmpwZWc.jpeg" alt="Cover for Desperado" style="max-width:120px; height:auto;" />
       </td>
@@ -382,7 +403,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/_msA90umjHhKJivN7Ak1iSGJmtPzPVjGjFX-SC13sXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjQ5/NS0xMTQ4NzE3NjE3/LmpwZWc.jpeg" alt="Cover for Yanni Voices" style="max-width:120px; height:auto;" />
       </td>
@@ -406,7 +427,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 11</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 12</li>
             <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 60</li>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 61</li>
             <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 76</li>
@@ -470,13 +491,13 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 37</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 38</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg" alt="Cover for Versus" style="max-width:120px; height:auto;" />
       </td>
@@ -506,7 +527,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/TKIvKF7LSGVOw104jVf1Mgj-2U0LLMDlZJuoPIR1QRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjYx/MTM4LTE2NjkyMzY1/MzAtNzE5My5qcGVn.jpeg" alt="Cover for Con Banda Y De Parranda" style="max-width:120px; height:auto;" />
       </td>
@@ -521,12 +542,12 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 2</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/PA0NDcrcADPB6i1nqwtj8B_kSEyJOWUyADXFgWYbqVg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDkz/NTkxLTE1OTI0NjI1/MDMtMjQxNy5qcGVn.jpeg" alt="Cover for Antes Que Ver El Sol" style="max-width:120px; height:auto;" />
       </td>
@@ -549,7 +570,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/gB6fOennrRpFjveOoVtDmEy52fGHUdu_W-1-VDlYOWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg4/Nzg2LTE2MDQ5NTU1/ODAtNjk5Ny5qcGVn.jpeg" alt="Cover for Como Te Quiero Yo A Ti (Regional Mexican Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -567,7 +588,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/wYpOJHmkfUQHv5Eblmog6P3hxpYJz78ncKkRG0iIWSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDk2/MjQtMTQ1ODU1OTky/NC0xNDA0LmpwZWc.jpeg" alt="Cover for En Extasis" style="max-width:120px; height:auto;" />
       </td>
@@ -588,7 +609,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>1996-05-07</td>
@@ -668,7 +689,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
       </td>
       <td>1998-09-15</td>
@@ -689,7 +710,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/shiQCOh1Mb4o7osUA5BrunUPxKwfKpfN7wkoKbS1-us/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDU2/MjktMTQ4MzI3MzA0/Ny02MzA5LmpwZWc.jpeg" alt="Cover for La Luz" style="max-width:120px; height:auto;" />
       </td>
@@ -712,7 +733,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/detXB6KLG148dGDk6TVTnQ-JORuJCmeMKG_L0P1Z6Y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTQz/NDktMTM0ODM3MjE0/NS0zOTAxLmpwZWc.jpeg" alt="Cover for Algo Natural" style="max-width:120px; height:auto;" />
       </td>
@@ -753,7 +774,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/6GqjYKd96ARoAf2q3JynJLIeACR5AOjHQjdO68r3H18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIz/MTctMTY0MzMwMTIw/OS0yMDc4LmpwZWc.jpeg" alt="Cover for Frida (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -772,7 +793,29 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46a7cd0cffa463ac41a7813e53dd9b22.png" alt="Cover for Bueninvento" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-08-22</td>
+      <td>Julieta Venegas</td>
+      <td>Bueninvento</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 11</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/6GqjYKd96ARoAf2q3JynJLIeACR5AOjHQjdO68r3H18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIz/MTctMTY0MzMwMTIw/OS0yMDc4LmpwZWc.jpeg" alt="Cover for Frida: Original Motion Picture Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -791,7 +834,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/4Id4xjaQI28uvtDFWhArdJpPAdzO8QzwkPFRNH5zzoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzg0/OTQxLTE3MDQzMDc0/NjgtMTYzOS5qcGVn.jpeg" alt="Cover for Entre Pericos Y Gallos" style="max-width:120px; height:auto;" />
       </td>
@@ -833,7 +876,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/Z41Gbbyyys2ABvIhUUys0ibuIz1yGk03SiUrlmySvvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MzY2/LTE2NTgxOTg1NzAt/Nzg5MS5qcGVn.jpeg" alt="Cover for Cure For Me (feat. Silvana Estrada) [Live]" style="max-width:120px; height:auto;" />
       </td>
@@ -851,7 +894,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 4</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -875,7 +918,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/3jJwIrctsJ5144xCUpBLbkfOQgdIq_FTPzRsTJHBca4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQy/MjgyLTE1OTAwMTQx/MTItMjU4My5qcGVn.jpeg" alt="Cover for Me Gustas Tanto" style="max-width:120px; height:auto;" />
       </td>
@@ -897,7 +940,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/3K2roiZeCcgxEn1Td8zleOM8zXmI7ct57nspohln_LA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTc2/MjUtMTI5ODY4MzUz/NC5qcGVn.jpeg" alt="Cover for moonchild mixes" style="max-width:120px; height:auto;" />
       </td>
@@ -943,7 +986,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/8dGe3YvfX2OKQHhZ7MLmXNy4KxSeDszD6A-COXXJJDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTYx/ODAtMTM0NDAzMjIw/Ni04MTU1LmpwZWc.jpeg" alt="Cover for The Mexecutioner! - The Best of Brujeria" style="max-width:120px; height:auto;" />
       </td>
@@ -965,7 +1008,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>2003-01-21</td>
@@ -1023,7 +1066,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>2004-03-30</td>
@@ -1040,7 +1083,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/KeDjzkZ0RXv74pr88jXO73a1nkCJMECHZedGrL6uoTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDQx/MS0xMjkzMjE1NzQz/LmpwZWc.jpeg" alt="Cover for Utopìa" style="max-width:120px; height:auto;" />
       </td>
@@ -1086,7 +1129,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3b0efadc56b4512c5792338882d6610.png" alt="Cover for Aire frio" style="max-width:120px; height:auto;" />
       </td>
@@ -1109,7 +1152,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 5</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 6</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 35</li>
             <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 56</li>
         </ul>
@@ -1138,7 +1181,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/ffMJjvnTiXqiM_vrMh_v19PHbKQDaQGsITrVIz_TVo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQy/OTI0LTE1NTYyMDU2/NTItNzYxOC5qcGVn.jpeg" alt="Cover for Desatados" style="max-width:120px; height:auto;" />
       </td>
@@ -1174,7 +1217,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
       </td>
       <td>2005-01-10</td>
@@ -1212,7 +1255,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/uWZjSP1u5FyrOTobAtIovZbJCzsMPdpXvv_RuZxFugc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTE5/NzQzLTE0OTE5NTA4/OTQtODczNy5qcGVn.jpeg" alt="Cover for Directo al corazón" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,25 +1277,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>29</td>
-      <td>
-          <img src="https://i.discogs.com/IpHOQw1h-1dh3DaaZrJJDwQztPpqdkEhSPU7N7FdSXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA0/NzQ3LTE2MDY5MzI3/NDYtODczMy5wbmc.jpeg" alt="Cover for Tour Generación RBD en Vivo" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-08-26</td>
-      <td>RBD</td>
-      <td>Tour Generación RBD en Vivo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d67d36a045ba43a4993f398438ad03be.png" alt="Cover for ...And the Jellyfish Parade" style="max-width:120px; height:auto;" />
       </td>
@@ -1328,13 +1353,13 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       <td>
         <ul>
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 10</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 27</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 26</li>
             <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e54e215e0814e8193bb2ee72ed930b4.png" alt="Cover for El Mundo Se Equivoca" style="max-width:120px; height:auto;" />
       </td>
@@ -1356,7 +1381,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/BSeg7f8qXY6jE0uXsbzBP5e2aTJk49Jo9CiWkjsadI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDM4/MTgtMTMyNjYzODAx/NS5qcGVn.jpeg" alt="Cover for Tu Amor" style="max-width:120px; height:auto;" />
       </td>
@@ -1376,26 +1401,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>60</td>
-      <td>
-          <img src="https://i.discogs.com/xdlac_3ydDssXqgDXt4pfTli9eoFEDUmipJcrk0cw_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5OTY1/Ny0xMTgyNTMxMTQ4/LmpwZWc.jpeg" alt="Cover for Celestial" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-12-04</td>
-      <td>RBD</td>
-      <td>Celestial</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 31</li>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 73</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/6bqSmoAiAXwyeZS8zsndbVfPgx45ZQPWKXtkJ0LIBG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTM0/NjktMTUzNTgyMDg1/Mi0zNjc2LmpwZWc.jpeg" alt="Cover for Rising Son" style="max-width:120px; height:auto;" />
       </td>
@@ -1503,7 +1509,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/e334Cr9e1SsIbW9L3jZs8o0NyXoZHTbnq4Q-aYxnRsQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTkz/NTgtMTU2ODQ4MzE3/Mi0zMzUwLmpwZWc.jpeg" alt="Cover for Celestial (International Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1525,7 +1531,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/-emHVkwASM8Epq8u_OdJ_cUV-U0ekA2tym6U1ghBe_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM3/MDgtMTQwMTEzMjI0/NC04ODk1LmpwZWc.jpeg" alt="Cover for Una Rosa Blu (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1548,7 +1554,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/wBD6B5-4j5m4c4rM0EmyXnEwPUuxJDJO4wTMWNOSJIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODIy/MjEtMTMxMDMxMTI3/NS5qcGVn.jpeg" alt="Cover for Lunada" style="max-width:120px; height:auto;" />
       </td>
@@ -1586,7 +1592,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/4EJJnG-CdFE9f2q7MSJhGmkgaw6tXf9w74fVCd1AiNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDE1/MzktMTIyNTExOTc1/MS5qcGVn.jpeg" alt="Cover for The Prophecy" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,7 +1634,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 13</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 14</li>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 24</li>
             <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 32</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 45</li>
@@ -1657,12 +1663,12 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 61</li>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 71</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d6074767f974879b5e4d2f3fe3d8e4b.png" alt="Cover for Forgiven" style="max-width:120px; height:auto;" />
       </td>
@@ -1701,7 +1707,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/pTtfU9Sm5r2O5F9NZqFIyb5b-uWhuzpJkyOeh1PXEYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTgx/NDM4LTE3MDYwNjQw/NDktMTkzMC5qcGVn.jpeg" alt="Cover for Serie Platino" style="max-width:120px; height:auto;" />
       </td>
@@ -1719,7 +1725,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/4EU_-aDDNXN3Q7Pk893lZkMtEfZXD-PD8beg_ACCZyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjM5/MTEtMTI1MTg1MjU4/MC5qcGVn.jpeg" alt="Cover for Voices" style="max-width:120px; height:auto;" />
       </td>
@@ -1743,7 +1749,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 12</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 13</li>
             <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 61</li>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 62</li>
             <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 77</li>
@@ -1751,7 +1757,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/lfqaOOrHzorcTjyOTscToaqh0Bg8vecdzF5bpemKYQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjk2/ODM4LTE1MTM2NTQw/NzAtNDMyNy5qcGVn.jpeg" alt="Cover for Con Amor a México" style="max-width:120px; height:auto;" />
       </td>
@@ -1769,7 +1775,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/R89lQenkfnpOEhWSc2Za4uU77VUpQ39QwJdGY5WJ6ss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mjg5/MzAtMTU4NTQxOTcx/My05NDkyLmpwZWc.jpeg" alt="Cover for Dos Mundos Tradición" style="max-width:120px; height:auto;" />
       </td>
@@ -1788,7 +1794,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/aOYKN8GAv6UeNha0zd91z1BL4hUCP8V3IZL_VmLd48M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTkz/MzktMTQwNjMyNDUz/Ni00ODMwLmpwZWc.jpeg" alt="Cover for Ejército de Paz" style="max-width:120px; height:auto;" />
       </td>
@@ -1829,13 +1835,13 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       <td>
         <ul>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 37</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 52</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 51</li>
             <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/RyKu6_l3jczvucDITSMdxjpjL0xmSETnf5WQcA66ocA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTQ5/MDYtMTMwODk2NDUy/MC5qcGVn.jpeg" alt="Cover for Un Minuto Sin Dolor" style="max-width:120px; height:auto;" />
       </td>
@@ -1972,7 +1978,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/7JhIO-REkJRzLcdPLzbMTc6tRPVgc0elPGi0jLGvT6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTcw/Ny0xMTgzMjQ0OTYy/LmpwZWc.jpeg" alt="Cover for Cure For Me (Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -1990,12 +1996,12 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 22</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fb5d4b946a9c29209b29afeb2d71bff.png" alt="Cover for Tour Celestial 2007 Hecho En España (Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -2017,7 +2023,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/aI4ikQ6RrP2EWTV_P66u__xqzCQ8uh-8WEAr3yjn_TY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTM2/OTcyLTE2NjMzNjIy/NDAtNDY2NS5qcGVn.jpeg" alt="Cover for La Más Draga 4" style="max-width:120px; height:auto;" />
       </td>
@@ -2035,7 +2041,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/htWkChUycZpb3uhDsy10aZzxlqVcPHquWT87QdE_MxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjYx/NzkyLTE2NDU1NDA3/MTctNTcxMC5qcGVn.jpeg" alt="Cover for Lágrimas" style="max-width:120px; height:auto;" />
       </td>
@@ -2057,7 +2063,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/htWkChUycZpb3uhDsy10aZzxlqVcPHquWT87QdE_MxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjYx/NzkyLTE2NDU1NDA3/MTctNTcxMC5qcGVn.jpeg" alt="Cover for Origen" style="max-width:120px; height:auto;" />
       </td>
@@ -2078,7 +2084,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/DXoWAlMom-sQFFvTphZOkbiIEzjhPg8_bAzTj0snsjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzE4/MzE3LTE2NjE1MDEy/MTktMTQxNC5qcGVn.jpeg" alt="Cover for Au milieu de l&#39;hiver" style="max-width:120px; height:auto;" />
       </td>
@@ -2118,7 +2124,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
       </td>
       <td>2023</td>
@@ -2138,7 +2144,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/dCUEyA3cLMt1LIL9yPoPEYPdoPjqzH4VBt2JSGLQ2wQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzIx/NzE1LTE2NjQ5MTkz/NjktMTg5OS5qcGVn.jpeg" alt="Cover for Pedazo De Tonto" style="max-width:120px; height:auto;" />
       </td>
@@ -2175,7 +2181,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79436f55566d49d1868af8c0a144bb97.png" alt="Cover for lejos. no tan lejos" style="max-width:120px; height:auto;" />
       </td>
@@ -2193,7 +2199,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
@@ -2211,7 +2217,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed68788c71d0a7b37e3035a1d2ece73a.png" alt="Cover for 15 Éxitos de Colección" style="max-width:120px; height:auto;" />
       </td>
@@ -2259,6 +2265,6 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
 - [electronic]({{ "/tags/electronic" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
 - [latin pop]({{ "/tags/latin-pop" | relative_url }})
-- [spanish]({{ "/tags/spanish" | relative_url }})
 - [electronica]({{ "/tags/electronica" | relative_url }})
+- [spanish]({{ "/tags/spanish" | relative_url }})
 - [latin america]({{ "/tags/latin-america" | relative_url }})

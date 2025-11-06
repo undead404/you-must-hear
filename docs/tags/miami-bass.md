@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-04T07:12:51.493Z
+date: 2025-11-06T00:29:51.504Z
 permalink: tags/miami-bass
 title: miami bass
 ---
 
 ## miami bass
 
-Last updated: <time datetime="2025-11-04T07:12:51.493Z">Tue Nov 04 2025 09:12:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-06T00:29:51.504Z">Thu Nov 06 2025 02:29:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1797,31 +1797,6 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/rKoUEJe3hHExi3pZ_WVtISmUlVie9ecryPyJF9OdRJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODg3/NDUwLTE2NjYyODUx/MjktNTQ3Ni5qcGVn.jpeg" alt="Cover for No Free Rides (feat. PullUp REDDY) - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-05-01</td>
-      <td>MoneyBaby XO</td>
-      <td>No Free Rides (feat. PullUp REDDY) - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>18</td>
       <td>
           <img src="https://i.discogs.com/tfgmPgF9hmARwGvo8m-IQYiXN2InmBlDBusIzwcNEu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTg0/OTEzLTE2ODAxMDQ0/MzQtMTE0NS5qcGVn.jpeg" alt="Cover for NO SERVICE vol.1" style="max-width:120px; height:auto;" />
@@ -2015,6 +1990,27 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Operation Human Mind Expansion</td>
+      <td>Developments</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
         </ul>
       </td>
