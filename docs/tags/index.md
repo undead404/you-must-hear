@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-06T01:17:22.732Z
+date: 2025-11-06T01:56:51.602Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-06T01:17:22.732Z">Thu Nov 06 2025 03:17:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-06T01:56:51.602Z">Thu Nov 06 2025 03:56:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [hard bop]({{ "tags/hard-bop" | relative_url }}) | <time datetime="2025-11-06T01:56:51.602Z">Thu Nov 06 2025 03:56:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [mexican]({{ "tags/mexican" | relative_url }}) | <time datetime="2025-11-06T01:17:22.732Z">Thu Nov 06 2025 03:17:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [electronicore]({{ "tags/electronicore" | relative_url }}) | <time datetime="2025-11-06T00:38:51.574Z">Thu Nov 06 2025 02:38:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [miami bass]({{ "tags/miami-bass" | relative_url }}) | <time datetime="2025-11-06T00:29:51.504Z">Thu Nov 06 2025 02:29:51 GMT+0200 (Eastern European Standard Time)</time> |
@@ -626,7 +627,6 @@ Last updated: <time datetime="2025-11-06T01:17:22.732Z">Thu Nov 06 2025 03:17:22
 | [impressionism]({{ "tags/impressionism" | relative_url }}) | <time datetime="2025-10-28T06:34:58.059Z">Tue Oct 28 2025 08:34:58 GMT+0200 (Eastern European Standard Time)</time> |
 | [soul jazz]({{ "tags/soul-jazz" | relative_url }}) | <time datetime="2025-10-28T06:34:40.414Z">Tue Oct 28 2025 08:34:40 GMT+0200 (Eastern European Standard Time)</time> |
 | [montreal]({{ "tags/montreal" | relative_url }}) | <time datetime="2025-10-28T06:06:11.863Z">Tue Oct 28 2025 08:06:11 GMT+0200 (Eastern European Standard Time)</time> |
-| [hard bop]({{ "tags/hard-bop" | relative_url }}) | <time datetime="2025-10-28T06:05:48.740Z">Tue Oct 28 2025 08:05:48 GMT+0200 (Eastern European Standard Time)</time> |
 | [alternativo]({{ "tags/alternativo" | relative_url }}) | <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [banjo]({{ "tags/banjo" | relative_url }}) | <time datetime="2025-10-28T06:05:04.330Z">Tue Oct 28 2025 08:05:04 GMT+0200 (Eastern European Standard Time)</time> |
 | [minnesota]({{ "tags/minnesota" | relative_url }}) | <time datetime="2025-10-28T06:04:59.778Z">Tue Oct 28 2025 08:04:59 GMT+0200 (Eastern European Standard Time)</time> |
