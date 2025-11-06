@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-05T16:22:51.484Z
+date: 2025-11-05T16:36:52.691Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-05T16:36:52.691Z">Wed Nov 05 2025 18:36:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [psycore]({{ "tags/psycore" | relative_url }}) | <time datetime="2025-11-05T16:36:52.691Z">Wed Nov 05 2025 18:36:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [rappeuse]({{ "tags/rappeuse" | relative_url }}) | <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [live show]({{ "tags/live-show" | relative_url }}) | <time datetime="2025-11-05T16:02:52.418Z">Wed Nov 05 2025 18:02:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [funk metal]({{ "tags/funk-metal" | relative_url }}) | <time datetime="2025-11-05T15:57:51.362Z">Wed Nov 05 2025 17:57:51 GMT+0200 (Eastern European Standard Time)</time> |
@@ -99,7 +100,6 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
 | [alternative rock]({{ "tags/alternative-rock" | relative_url }}) | <time datetime="2025-11-04T03:32:51.237Z">Tue Nov 04 2025 05:32:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [british rock]({{ "tags/british-rock" | relative_url }}) | <time datetime="2025-11-04T03:31:51.036Z">Tue Nov 04 2025 05:31:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [fastcore]({{ "tags/fastcore" | relative_url }}) | <time datetime="2025-11-04T03:16:51.008Z">Tue Nov 04 2025 05:16:51 GMT+0200 (Eastern European Standard Time)</time> |
-| [psycore]({{ "tags/psycore" | relative_url }}) | <time datetime="2025-11-04T02:57:51.591Z">Tue Nov 04 2025 04:57:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [arena rock]({{ "tags/arena-rock" | relative_url }}) | <time datetime="2025-11-04T02:55:52.813Z">Tue Nov 04 2025 04:55:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [progressive electronic]({{ "tags/progressive-electronic" | relative_url }}) | <time datetime="2025-11-04T02:44:51.016Z">Tue Nov 04 2025 04:44:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [acid house]({{ "tags/acid-house" | relative_url }}) | <time datetime="2025-11-04T02:42:51.026Z">Tue Nov 04 2025 04:42:51 GMT+0200 (Eastern European Standard Time)</time> |
