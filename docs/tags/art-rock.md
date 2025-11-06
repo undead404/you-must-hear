@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T06:33:32.552Z
+date: 2025-11-06T06:15:51.324Z
 permalink: tags/art-rock
 title: art rock
 ---
 
 ## art rock
 
-Last updated: <time datetime="2025-11-03T06:33:32.552Z">Mon Nov 03 2025 08:33:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-06T06:15:51.324Z">Thu Nov 06 2025 08:15:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 15</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 17</li>
             <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 92</li>
         </ul>
       </td>
@@ -94,7 +94,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/319f9e28d7141aaa59669d612f001c9a.png" alt="Cover for Vintage Violence" style="max-width:120px; height:auto;" />
       </td>
@@ -166,6 +166,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/349c1dde988f348da14bb592a64abf6b.png" alt="Cover for For Your Pleasure" style="max-width:120px; height:auto;" />
       </td>
       <td>1973-03-23</td>
       <td>Roxy Music</td>
@@ -178,7 +179,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 73</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -221,8 +222,9 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/684261636ec5f2f2dc24e4f040f64cad.png" alt="Cover for Stranded" style="max-width:120px; height:auto;" />
       </td>
       <td>1973-11-01</td>
       <td>Roxy Music</td>
@@ -236,7 +238,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 41</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -255,7 +257,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 87</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -275,7 +277,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 3</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 6</li>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 83</li>
         </ul>
       </td>
@@ -332,12 +334,12 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 45</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/cwpPdoZT0XpaY_Ta8130W5uAPzRH1aE9HmMhP71uKIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTM3/NC0xMTI1Nzc5MTM4/LmpwZWc.jpeg" alt="Cover for Another Green World (2004 remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -374,7 +376,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 71</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 72</li>
             <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 97</li>
         </ul>
       </td>
@@ -382,6 +384,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aff3da7e9cdedcefcbc5fdbdcc50c446.png" alt="Cover for The Original Soundtrack" style="max-width:120px; height:auto;" />
       </td>
       <td>1975-03-11</td>
       <td>10cc</td>
@@ -434,7 +437,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 61</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -454,7 +457,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 32</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 33</li>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 84</li>
             <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 100</li>
         </ul>
@@ -476,7 +479,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 41</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -497,7 +500,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 41</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 43</li>
             <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 76</li>
             <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 80</li>
         </ul>
@@ -578,7 +581,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/dH68H443lN57Mz_yoovrG1iISOkzsSSfYs-lzfdMCrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDQ2/NDI2LTE2MDI0ODA0/NzktODY2MS5qcGVn.jpeg" alt="Cover for Chairs Missing (2006 Remastered Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -675,7 +678,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/uOSyUxNDfDIDXBc7r9eE5N_hVhVdr1iPqMf5O40XdLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzYw/MDYtMTQ2NzA1MzE5/Ni05MDE4LmpwZWc.jpeg" alt="Cover for The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/781be87e74355cc5cb8db5a5442f7de9.png" alt="Cover for The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>David Bowie</td>
@@ -690,7 +693,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
         <ul>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 19</li>
             <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 83</li>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 96</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 97</li>
             <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 99</li>
         </ul>
       </td>
@@ -715,7 +718,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/i9ZqCMS2mITtF5An8hGYHGKSw7opB8ydZSgTgIg7Ef8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDI3/Ni0xNDUwMzU5NjMz/LTM0MjcuanBlZw.jpeg" alt="Cover for The Velvet Underground (45th Anniversary &#x2F; Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -737,9 +740,9 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/oqoDhU-w0rLnsgb5_e50x2wDaHYcMIGB1Taap27P9-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzA4/MS0xNTY1MjE0NjU0/LTI0NjkuanBlZw.jpeg" alt="Cover for The Velvet Underground (45th Anniversary)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0221c9db4f2adeecf701fc76e2cb0fcd.png" alt="Cover for The Velvet Underground (45th Anniversary)" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>The Velvet Underground</td>
@@ -757,7 +760,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/Wj4-YWOMyPxKgrAtfpi3rh4u9ZhP41AcA3cVwB2Oznk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjM4/NzAzLTE1MjY4MTc0/NjItMTE3Ni5qcGVn.jpeg" alt="Cover for Scary Monsters (And Super Creeps) [2017 Remaster]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4851b393ac2c2ad9f5df52659c13cb92.png" alt="Cover for Scary Monsters (And Super Creeps) [2017 Remaster]" style="max-width:120px; height:auto;" />
       </td>
       <td>1984-09-16</td>
       <td>David Bowie</td>
@@ -789,7 +792,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 15</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 20</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 76</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 78</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 84</li>
@@ -816,8 +819,8 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 50</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 61</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 52</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 62</li>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 81</li>
             <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 96</li>
         </ul>
@@ -844,7 +847,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/VFFjqK3A2P-QUfLqzOnRMKLoDg6jJ9F_aoOHWlhLzfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTQy/NDUtMTMwMjIyODY2/NS5qcGVn.jpeg" alt="Cover for The Good Son (2010 Remastered Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -865,26 +868,21 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>1</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4bbf73ba62024be279364e867b0ca20.png" alt="Cover for Abbey Road (Remastered)" style="max-width:120px; height:auto;" />
       </td>
-      <td>1991</td>
-      <td>The Beatles</td>
-      <td>Abbey Road (Remastered)</td>
+      <td>1993</td>
+      <td>Аукцыон</td>
+      <td>Птица</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 12</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 76</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 79</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 90</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 91</li>
+            <li> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -908,7 +906,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/2Pzj_n2pGpaDsQQYizwFx5rQamR_TpSt9nGJclfMZGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzAz/NzEtMTQ1NjY5OTk5/Ni01NzA2LmpwZWc.jpeg" alt="Cover for Lionheart (2018 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -946,7 +944,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 46</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -989,7 +987,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 12</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 22</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 92</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 99</li>
         </ul>
@@ -1012,14 +1010,14 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 26</li>
             <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 65</li>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd6f102f2d5fd922c9c86819bf22b770.png" alt="Cover for The Magic Whip" style="max-width:120px; height:auto;" />
       </td>
@@ -1259,7 +1257,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 56</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1322,7 +1320,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 13</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 14</li>
             <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 70</li>
         </ul>
       </td>
@@ -1590,7 +1588,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/4f1YuBAR2WELJJ45j1K9cVuIlqzy8fUftu7TV_ZL5gU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA5/MzQyLTE1MDY0MjU5/OTYtMzYzNS5qcGVn.jpeg" alt="Cover for Painted Ruins" style="max-width:120px; height:auto;" />
       </td>
@@ -1633,7 +1631,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/p-crQAIabLCIaRpvI9eKpNk2EjC_49xxchUhcNiYG7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI1/NjcwLTE1MzI5Nzg3/NzgtNDk4OC5qcGVn.jpeg" alt="Cover for Nearer My God" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,7 +1688,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
         <ul>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 2</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 35</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 62</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 63</li>
             <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 70</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 76</li>
         </ul>
@@ -1733,13 +1731,13 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 28</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 31</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/cJhENmv-FCXb7A6g0rjOLIFbI58V4vYF0zCTUje6dSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU4/ODkzLTE1ODkwOTUw/MTAtMjEwNy5qcGVn.jpeg" alt="Cover for Petals For Armor" style="max-width:120px; height:auto;" />
       </td>
@@ -1762,7 +1760,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/LhEJj8bpiOaIfzPNp5bay3rimE1uHd-wwx40WCutl2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk4/MTM2LTE1OTk4MTYw/ODktMzkwNS5wbmc.jpeg" alt="Cover for Re-Animator" style="max-width:120px; height:auto;" />
       </td>
@@ -1781,7 +1779,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6576b3c968cd6f239a22a26ccc029b9.png" alt="Cover for Bread Song" style="max-width:120px; height:auto;" />
       </td>
@@ -1819,7 +1817,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/TuBFJRB_57mOpBF0ypa0zp62OnO_sm2HAzJojU4BgBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTUz/NTM0LTE2MTA3OTk0/MDEtMjk0NS5qcGVn.jpeg" alt="Cover for At The Moonbase" style="max-width:120px; height:auto;" />
       </td>
@@ -1854,7 +1852,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       <td>
         <ul>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 21</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 22</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1874,9 +1872,9 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 15</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 20</li>
             <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 26</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 28</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 30</li>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 100</li>
         </ul>
       </td>
@@ -1933,7 +1931,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 10</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 14</li>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 33</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 68</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 76</li>
@@ -1963,7 +1961,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/9IMWWvfuEr-8lf9bujcoiq1zjhu6cp7XI4tsQ03KB5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzA0/NzM0LTE2ODYyMjc2/ODYtNDE3MC5qcGVn.jpeg" alt="Cover for sPacE hEavy" style="max-width:120px; height:auto;" />
       </td>
@@ -2040,7 +2038,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 4</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -2065,9 +2063,9 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed7c2b94e1ab36865693fe88637c0fc9.png" alt="Cover for Eye in the Sky" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9958708c7494a42cb1de32301787a4f8.png" alt="Cover for Eye in the Sky" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Alan Parsons Project</td>
@@ -2081,7 +2079,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       <td>
         <ul>
             <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 38</li>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 61</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 63</li>
             <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 92</li>
         </ul>
       </td>

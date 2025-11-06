@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T06:34:15.290Z
+date: 2025-11-06T06:22:52.744Z
 permalink: tags/classic-rock
 title: classic rock
 ---
 
 ## classic rock
 
-Last updated: <time datetime="2025-11-03T06:34:15.290Z">Mon Nov 03 2025 08:34:15 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-06T06:22:52.744Z">Thu Nov 06 2025 08:22:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
   </thead>
   <tbody>
     <tr>
-      <td>3</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/lY1z2Pk8Q-JemmQLz9Z99nuEjE9f-tJfmCog-ycF90M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTk2/NDUtMTQyMjk1OTI1/OS04OTA5LmpwZWc.jpeg" alt="Cover for Don&#39;t Play That Song (Mono)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e98ae8633274506e2e70ccc470ed31cb.png" alt="Cover for Don&#39;t Play That Song (Mono)" style="max-width:120px; height:auto;" />
       </td>
       <td>1962</td>
       <td>Ben E. King</td>
@@ -54,7 +54,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a70b31d8b03b4dad4ece1bcdebcf6ad9.png" alt="Cover for Please Please Me" style="max-width:120px; height:auto;" />
       </td>
@@ -73,7 +73,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>56</td>
       <td>
       </td>
       <td>1963-11-22</td>
@@ -92,7 +92,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29490302d152888afc06a03b49f444fb.png" alt="Cover for Rubber Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -107,11 +107,12 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfc15272cf2db090f83fd64e09860ea9.png" alt="Cover for Happy Together" style="max-width:120px; height:auto;" />
       </td>
@@ -129,9 +130,9 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/_n68fKprShFeHaCj9u5n2eqoDhv52cim0pDAOySFJto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDg5/NDMtMTE5MjY4MTIw/Ni5qcGVn.jpeg" alt="Cover for Sounds of Silence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40241f10ff8010f7f5b55fe46fd25c41.png" alt="Cover for Sounds of Silence" style="max-width:120px; height:auto;" />
       </td>
       <td>1966-01-17</td>
       <td>Simon &amp; Garfunkel</td>
@@ -151,9 +152,9 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>20</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90b6cbb4dd4b8ddc9277d2501f43f19d.png" alt="Cover for Aftermath" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b452c0defc75479bb1e3e273b8464d95.png" alt="Cover for Aftermath" style="max-width:120px; height:auto;" />
       </td>
       <td>1966-04-15</td>
       <td>The Rolling Stones</td>
@@ -165,11 +166,12 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21394faeb4c2e3696ac5c2bfb6e93672.png" alt="Cover for Revolver" style="max-width:120px; height:auto;" />
       </td>
@@ -184,14 +186,14 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 32</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>40</td>
       <td>
-          <img src="https://i.discogs.com/KI9FCOSYPVSsDR8dYT9vrWUTxvFyLZlO555q-1HGE2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODYw/ODItMTQ3Njk2NDEx/OC0zNDgxLmpwZWc.jpeg" alt="Cover for Surrealistic Pillow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f886c717c0ab02a638e480a0ff104b74.png" alt="Cover for Surrealistic Pillow" style="max-width:120px; height:auto;" />
       </td>
       <td>1967-02</td>
       <td>Jefferson Airplane</td>
@@ -222,12 +224,12 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 55</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>16</td>
       <td>
       </td>
       <td>1968</td>
@@ -248,7 +250,26 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/937c2e4a5ca8597362f1a9bfda0a231f.png" alt="Cover for The Beatles (The White Album)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1968-11-22</td>
+      <td>The Beatles</td>
+      <td>The Beatles (The White Album)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d7d1d7f5ae842cb9f9404689206e8f5.png" alt="Cover for Green River" style="max-width:120px; height:auto;" />
       </td>
@@ -269,7 +290,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f304ba0296794c6fc9d0e1cccd194ed0.png" alt="Cover for Abbey Road" style="max-width:120px; height:auto;" />
       </td>
@@ -283,12 +304,12 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 47</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c38103f05b36d8c042b389a33ab0011.png" alt="Cover for Let It Bleed" style="max-width:120px; height:auto;" />
       </td>
@@ -301,13 +322,13 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6dc9fa47430462029c45ae207f9bfe20.png" alt="Cover for Bridge Over Troubled Water" style="max-width:120px; height:auto;" />
       </td>
       <td>1970-01-26</td>
       <td>Simon &amp; Garfunkel</td>
@@ -327,29 +348,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>85</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0f83bed092424df60ca2f827a208a0e.png" alt="Cover for Morrison Hotel" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1970-02-20</td>
-      <td>The Doors</td>
-      <td>Morrison Hotel</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 50</li>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 75</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 94</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ac905c7ee067e527aca9643ba7a1a21.png" alt="Cover for Moondance" style="max-width:120px; height:auto;" />
       </td>
@@ -367,7 +366,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6cdeffaa9584f1580d29a162ce1d464.png" alt="Cover for Cosmo&#39;s Factory" style="max-width:120px; height:auto;" />
       </td>
@@ -382,12 +381,12 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 80</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4280143e1514b9acbe568e8acc1413f.png" alt="Cover for After the Gold Rush" style="max-width:120px; height:auto;" />
       </td>
@@ -407,9 +406,9 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/oXYqAYtvTumA-TPuTmhPOeuUEvdOm3QXrynmI2M5Lzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTk0/NS0xMTk5NDAzMzIz/LmpwZWc.jpeg" alt="Cover for American Beauty" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc0c8a55134474177ec69876d7b45fbe.png" alt="Cover for American Beauty" style="max-width:120px; height:auto;" />
       </td>
       <td>1970-11-01</td>
       <td>Grateful Dead</td>
@@ -425,7 +424,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/986c398b32723c1582c4bfbca84e9f92.png" alt="Cover for Pendulum" style="max-width:120px; height:auto;" />
       </td>
@@ -446,9 +445,9 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/uRGnD6qdklOpD1TwEqk5SH0grC47Oe-NtvcCqexxwms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDU2/NC0xNTUzMjUxODk4/LTU0NTUuanBlZw.jpeg" alt="Cover for American Pie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db14077b223d4e7989703886574f7367.png" alt="Cover for American Pie" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Don McLean</td>
@@ -468,7 +467,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a869fc6368444866a5f4328b7402c430.png" alt="Cover for Pearl" style="max-width:120px; height:auto;" />
       </td>
@@ -491,6 +490,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ebb7e55ecd06512e8d9d859e6639c14.png" alt="Cover for L.A. Woman" style="max-width:120px; height:auto;" />
       </td>
       <td>1971-04</td>
       <td>The Doors</td>
@@ -503,14 +503,14 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 44</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 45</li>
             <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 76</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b77a8a007f65193401c62345e3f37b9.png" alt="Cover for Imagine" style="max-width:120px; height:auto;" />
       </td>
@@ -530,7 +530,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/okRYtw9fYjZK_Koc-3MGlczw4ogzUvm9eLUzb8_nOuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODI1/NjUtMTIzMDA3ODQ2/Ni5qcGVn.jpeg" alt="Cover for Madman Across The Water" style="max-width:120px; height:auto;" />
       </td>
@@ -550,7 +550,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e6f99756d0342f891d3233ac1283d21.png" alt="Cover for Led Zeppelin IV" style="max-width:120px; height:auto;" />
       </td>
@@ -568,28 +568,9 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>44</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e5009c7bb49825bffef19234f831047.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1971-11</td>
-      <td>Fleetwood Mac</td>
-      <td>Greatest Hits</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 43</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d092c6e00db1428a76168659bd646d57.png" alt="Cover for Looking Glass" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Looking Glass</td>
@@ -607,7 +588,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9aa95277ed1507e7b214157f3bc4873.png" alt="Cover for Harvest" style="max-width:120px; height:auto;" />
       </td>
@@ -630,8 +611,9 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/767ceb0094d4d9d18702b29ef79b9fbb.png" alt="Cover for Pretzel Logic" style="max-width:120px; height:auto;" />
       </td>
       <td>1974-03-02</td>
       <td>Steely Dan</td>
@@ -647,8 +629,9 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb83753661bd17605659bb919b6e69fa.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1974-11-04</td>
       <td>Elton John</td>
@@ -687,8 +670,9 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e19d2760d2c0cf4de9d2a68beda56efd.png" alt="Cover for Wish You Were Here" style="max-width:120px; height:auto;" />
       </td>
       <td>1975-09-12</td>
       <td>Pink Floyd</td>
@@ -705,7 +689,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de361a68c39e4468c4df73fb3c8ae178.png" alt="Cover for Hot Space (2011 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -728,7 +712,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/9hL8xbBtLbo2mRViqF4YGF1bCOs3yPyUzK9-1CqJg1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzE0/NTctMTU2NDkxMDgy/MS01NTAwLmpwZWc.jpeg" alt="Cover for &quot;A New World Record&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -748,7 +732,45 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/zlFMfTMsykxYBbEsav8BpY56qR--nhr89O4GvwgxeTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjMx/MjUtMTQ2ODE3Mjgw/Ni0xMzczLmpwZWc.jpeg" alt="Cover for Ramblin&#39; Gamblin&#39; Man" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Bob Seger</td>
+      <td>Ramblin&#39; Gamblin&#39; Man</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8485f7731a6c6cca745238cad93ea6ee.png" alt="Cover for A Day At The Races (Deluxe Edition 2011 Remaster)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Queen</td>
+      <td>A Day At The Races (Deluxe Edition 2011 Remaster)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c79fc02300b24cd3cc33009ae9194b74.png" alt="Cover for Led Zeppelin IV (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -766,7 +788,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2e281e662d6c24ccabb75113a77f9e3.png" alt="Cover for The Royal Scam" style="max-width:120px; height:auto;" />
       </td>
@@ -785,8 +807,9 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdbaec80d6004866bba739cfb97c57e8.png" alt="Cover for Chicago X" style="max-width:120px; height:auto;" />
       </td>
       <td>1976-06-14</td>
       <td>Chicago</td>
@@ -804,26 +827,26 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c88c27c1882542ae880ac063af38d647.png" alt="Cover for Boston" style="max-width:120px; height:auto;" />
       </td>
-      <td>1976-09-11</td>
-      <td>Electric Light Orchestra</td>
-      <td>A New World Record</td>
+      <td>1976-09</td>
+      <td>Boston</td>
+      <td>Boston</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 98</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 33</li>
+            <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6acd3d55ac149e3be9f08d31f45e75a.png" alt="Cover for Best of The Doobies" style="max-width:120px; height:auto;" />
       </td>
@@ -837,12 +860,12 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 34</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/FsuRbmYHz9ff88_rb7MfCo8MjiHrYy_CmtWM5P2Go2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDEw/NzktMTI3Mjg1Mjg1/MC5qcGVn.jpeg" alt="Cover for Bat Out Of Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -858,15 +881,15 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 29</li>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 98</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 31</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/i1pqObOcaxx7cWzd0xLCdmlPH6Z4UP2L1XMcWmkKGSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDkx/MjI5LTE1MTcyNzY2/NTItMjMyNy5qcGVn.jpeg" alt="Cover for Help" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a592e9edd06141a685d7baa3db9dee99.png" alt="Cover for Help" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>The Beatles</td>
@@ -880,7 +903,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       <td>
         <ul>
             <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 84</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 86</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -905,9 +928,9 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>86</td>
       <td>
-          <img src="https://i.discogs.com/TRyskOrSd0ajwctBmd__up3IisG1Yevpz0lTj6DA_bc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzU5/My0xMzA4OTE3OTgx/LmpwZWc.jpeg" alt="Cover for Aja" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5467333ea26fa0d2aef1f49d3b982f04.png" alt="Cover for Aja" style="max-width:120px; height:auto;" />
       </td>
       <td>1977-09-23</td>
       <td>Steely Dan</td>
@@ -926,7 +949,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/999f26234f9c4e0db4997363bdf60087.png" alt="Cover for Out of the Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -960,12 +983,12 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 1</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/49d60c19d89e3b1b6be4f3a279b473a6.png" alt="Cover for Willy And The Poor Boys (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -985,7 +1008,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>54</td>
       <td>
       </td>
       <td>1979-03-16</td>
@@ -999,13 +1022,14 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 48</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/231f0a96465d56ec87ddb22039107824.png" alt="Cover for Discovery" style="max-width:120px; height:auto;" />
       </td>
       <td>1979-05-21</td>
       <td>Electric Light Orchestra</td>
@@ -1018,15 +1042,15 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 55</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 57</li>
             <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>85</td>
       <td>
-          <img src="https://i.discogs.com/Xu2D0IEsz2_4X2V4HwuvoFxPOqKFSoM8XEyOhuRk-FE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzc5/ODItMTM0MTMzNDEx/MC0yMTIwLmpwZWc.jpeg" alt="Cover for Music From The Motion Picture Watchmen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c58d4f874e54930b23787463c19aaa3.png" alt="Cover for Music From The Motion Picture Watchmen" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Jimi Hendrix</td>
@@ -1049,7 +1073,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/NXGkFHJZQlapzvHY1Du9fGbE2zKTigmhwDR_SHfCknY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTAz/MjQtMTU1OTIyNjAy/MC01NDcwLmpwZWc.jpeg" alt="Cover for Against the Wind" style="max-width:120px; height:auto;" />
       </td>
@@ -1068,7 +1092,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6901015514aa77621215f5a5406daa9c.png" alt="Cover for Making Movies" style="max-width:120px; height:auto;" />
       </td>
@@ -1087,7 +1111,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1aec5cac8403fbda275b8200b77c8318.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1105,7 +1129,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>10</td>
       <td>
       </td>
       <td>1981-11-23</td>
@@ -1122,7 +1146,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/254b715c587f42dbc25cbed0e3cda61e.png" alt="Cover for Avalon" style="max-width:120px; height:auto;" />
       </td>
@@ -1142,7 +1166,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98a2326fd54eb561b42e0b6b6d0bb7b8.png" alt="Cover for Love Over Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -1161,9 +1185,9 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/r3djHSMtMqBjZl3oCvzbPkfhJaYR4j0UCN2toTQup3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Nzkz/Mi0xMjg2Njc5MTA1/LmpwZWc.jpeg" alt="Cover for Too Low For Zero" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddde78c1ce1ef733b729b789718b4821.png" alt="Cover for Too Low For Zero" style="max-width:120px; height:auto;" />
       </td>
       <td>1983-05-23</td>
       <td>Elton John</td>
@@ -1180,8 +1204,9 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a12d150c799c416daef11949670485c8.png" alt="Cover for An Innocent Man" style="max-width:120px; height:auto;" />
       </td>
       <td>1983-08-08</td>
       <td>Billy Joel</td>
@@ -1194,7 +1219,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 28</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 29</li>
             <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 36</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 45</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 46</li>
@@ -1202,28 +1227,29 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>4</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03426c63f1f44b53cb6ea5745ec08cda.png" alt="Cover for Born in the U.S.A." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e155dd7e6dd5471fc7958b96b6e2c218.png" alt="Cover for Genesis" style="max-width:120px; height:auto;" />
       </td>
-      <td>1984-10</td>
-      <td>Bruce Springsteen</td>
-      <td>Born in the U.S.A.</td>
+      <td>1983-10-03</td>
+      <td>Genesis</td>
+      <td>Genesis</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 78 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 59</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/FRGgSRskQ3QBeMFKU9Gplg2GROIUGD3f2UXdcJ_j5FI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTY4/Ni0xMTk0MjgzNDcw/LmpwZWc.jpeg" alt="Cover for V.U." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cde4db12edfd1a7270b53afafc53e946.png" alt="Cover for V.U." style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>The Velvet Underground</td>
@@ -1236,12 +1262,12 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 72</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e42e944699c02498f53e9a1fb8f6bce8.png" alt="Cover for Elvis 30 #1 Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1280,7 +1306,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/EZVkCPXs5x7Nd3T58x_uE4Ww-uB-lVa5xZnGeiFAllQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQ0/NTYtMTI0MzY4OTI5/Ny5qcGVn.jpeg" alt="Cover for A Kind Of Magic" style="max-width:120px; height:auto;" />
       </td>
@@ -1299,7 +1325,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5cc8acf870ed693571e96b338845f15.png" alt="Cover for Cloud Nine" style="max-width:120px; height:auto;" />
       </td>
@@ -1318,17 +1344,16 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>1</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f3191269c11225e7280bdd43c87f5d0.png" alt="Cover for Full Moon Fever" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/380e4158c597467fc651af79f44c7d78.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
-      <td>1989-01-01</td>
-      <td>Tom Petty</td>
-      <td>Full Moon Fever</td>
+      <td>1988-11-15</td>
+      <td>Journey</td>
+      <td>Greatest Hits</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
         </ul>
       </td>
       <td>
@@ -1337,8 +1362,9 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5f90569808084ca0b572d647c9cff1a.png" alt="Cover for Plastic Ono Band" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>John Lennon</td>
@@ -1355,7 +1381,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b582b826362646eea0228627279356a4.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1373,33 +1399,9 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>55</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4bbf73ba62024be279364e867b0ca20.png" alt="Cover for Abbey Road (Remastered)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>The Beatles</td>
-      <td>Abbey Road (Remastered)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 18</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 76</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 79</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 90</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 91</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
-      <td>
-          <img src="https://i.discogs.com/sdeXb_0MYcgut524-PnHOcYg0Ewi8UVO0gLHqyOOVgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTU0/MjYtMTQyNTIwNzU4/MS0yODE4LmpwZWc.jpeg" alt="Cover for 1 (Remastered)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/207c9708aabfc084aee235ab2c8c4ee9.png" alt="Cover for 1 (Remastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>The Beatles</td>
@@ -1416,7 +1418,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5acf44b6b52e40d5a345f5f39c4cb715.png" alt="Cover for Greatest Hits II" style="max-width:120px; height:auto;" />
       </td>
@@ -1436,7 +1438,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/Ogo8UrYIc4iGWUpDJ2lIwegjQ0ojytD14puT2Eyyhts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTI4/MDEtMTQ0NTE1NjUz/MS05OTM2LmpwZWc.jpeg" alt="Cover for Paint It Black" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d19f35fd24fd83aa03b92a1198846690.png" alt="Cover for Paint It Black" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-05-02</td>
       <td>The Rolling Stones</td>
@@ -1449,11 +1451,12 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffc5bab894a19819787f61c71fed5187.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1472,7 +1475,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>17</td>
       <td>
       </td>
       <td>1995-05-29</td>
@@ -1490,7 +1493,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/qinLNJy8UAOMKYY02lypWoJGFkG4ZKiALFB49JuqRBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDY2/NzgtMTQ1MjE0NTgx/OS04NzkyLmpwZWc.jpeg" alt="Cover for Journey&#39;s Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1508,7 +1511,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/376390dce0a512dcfa2158a589e0e436.png" alt="Cover for The Dance" style="max-width:120px; height:auto;" />
       </td>
@@ -1527,7 +1530,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/794817736c4944a29d72d9e414c5023d.png" alt="Cover for Experience Hendrix: The Best of Jimi Hendrix" style="max-width:120px; height:auto;" />
       </td>
@@ -1545,7 +1548,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1a4000bd1184227b2c71fc52959b17b.png" alt="Cover for Lennon Legend: The Very Best of John Lennon" style="max-width:120px; height:auto;" />
       </td>
@@ -1563,7 +1566,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f7bd956c159483fc8d96511c5fc2cfb.png" alt="Cover for The Very Best of Sting and The Police" style="max-width:120px; height:auto;" />
       </td>
@@ -1596,13 +1599,13 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 5</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 68</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 8</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bed68f4f3ac4b748f827701d4e0c659.png" alt="Cover for The Best of The Animals" style="max-width:120px; height:auto;" />
       </td>
@@ -1621,7 +1624,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c287f9f433293ca72d9866fb18b460a5.png" alt="Cover for 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1641,7 +1644,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb57a2f660324cbacc8837ccdf5442a7.png" alt="Cover for Exile on Main Street" style="max-width:120px; height:auto;" />
       </td>
@@ -1674,14 +1677,14 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 86</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/7kZPzBNNtvRI0QLjBYQsoV60iqksyl9h8a_EDGVHFE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTQ5/MDYtMTQ1NjU1MDQx/NS02MjU2LmpwZWc.jpeg" alt="Cover for Tattoo You (2009 Re-Mastered)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5c5de980e224db7990e2d60d39957ed.png" alt="Cover for Tattoo You (2009 Re-Mastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>The Rolling Stones</td>
@@ -1704,7 +1707,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/gyWdslenmINJDHm08eEMOeFdvnvfXm7t_2GGa74QrvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDMz/MTctMTQwMTAzMTQz/My01MTMzLmpwZWc.jpeg" alt="Cover for Climbing" style="max-width:120px; height:auto;" />
       </td>
@@ -1719,15 +1722,15 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 16</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 17</li>
             <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>83</td>
       <td>
-          <img src="https://i.discogs.com/lTl2E3xy5a8_tZyymPqMg0EjlO2FxD42nrpK6khTvXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTY0/ODI2LTE2MTY0NDE1/NDctMTYzMC5wbmc.jpeg" alt="Cover for Pronounced&#39; Leh-&#39;Nerd &#39;Skin-&#39;Nerd" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31c0e29aba21f5442fc0a48958c91394.png" alt="Cover for Pronounced&#39; Leh-&#39;Nerd &#39;Skin-&#39;Nerd" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-25</td>
       <td>Lynyrd Skynyrd</td>
@@ -1745,7 +1748,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/S5xs_MB0a2udfDY9rK5YYq9PfAAkv3MTO1Ce3mvjgeU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzQ2/MjctMTMzNDI0NTMx/My5qcGVn.jpeg" alt="Cover for Axis: Bold As Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1764,7 +1767,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc48852d4e514f2eb1211ef51626476f.png" alt="Cover for U218 Singles" style="max-width:120px; height:auto;" />
       </td>
@@ -1783,7 +1786,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5286c951a5c5490a8e10f63608ed86f3.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1804,7 +1807,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/00P9WRwdDEpf36jvRyr1Eb0QxIjRhG6c2DTIzKSFJdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI1/NzQtMTMyNTA3MzM0/Ni5qcGVn.jpeg" alt="Cover for Heavy Cross" style="max-width:120px; height:auto;" />
       </td>
@@ -1826,7 +1829,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a23956df65d9581338e0e71db00d79a.png" alt="Cover for The Game (2011 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -1840,12 +1843,11 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d519f0ad8c1bda4ddaee293223d328d.png" alt="Cover for Led Zeppelin (Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -1878,16 +1880,16 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 45</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 46</li>
             <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 77</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
-          <img src="https://i.discogs.com/seXy0hMV3R0ufJRclo3bkuklsFpgdTb7JLRrwNj3EpQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODk5/MTA1LTE1ODM2OTM4/NzYtOTk5NS5qcGVn.jpeg" alt="Cover for Honky Chateau" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/600850c3207f8a27ff77e49d91f78c1b.png" alt="Cover for Honky Chateau" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-10</td>
       <td>Elton John</td>
@@ -1904,7 +1906,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fcedbba5aeb35abee6ed7d76ae602a9.png" alt="Cover for Bohemian Rhapsody (The Original Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1923,7 +1925,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6eeade131218457098d3ce01735ac4b3.png" alt="Cover for Communique" style="max-width:120px; height:auto;" />
       </td>
@@ -1944,7 +1946,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5429b9157f10bf7a06a59820ddc37640.png" alt="Cover for Fly Like an Eagle" style="max-width:120px; height:auto;" />
       </td>
@@ -1959,13 +1961,13 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 95</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 96</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3515cb4917515a809e5047db720bb1f6.png" alt="Cover for Breakfast in America" style="max-width:120px; height:auto;" />
       </td>
@@ -1980,12 +1982,12 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 64</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4c38c817e5142f2a865f087d11c4894.png" alt="Cover for A Kind of Magic" style="max-width:120px; height:auto;" />
       </td>
