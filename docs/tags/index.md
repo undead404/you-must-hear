@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-06T07:20:42.175Z
+date: 2025-11-06T11:30:59.412Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-06T07:20:42.175Z">Thu Nov 06 2025 09:20:42 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-06T11:30:59.412Z">Thu Nov 06 2025 13:30:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [liverpool]({{ "tags/liverpool" | relative_url }}) | <time datetime="2025-11-06T11:30:59.412Z">Thu Nov 06 2025 13:30:59 GMT+0200 (Eastern European Standard Time)</time> |
 | [rock]({{ "tags/rock" | relative_url }}) | <time datetime="2025-11-06T07:20:42.175Z">Thu Nov 06 2025 09:20:42 GMT+0200 (Eastern European Standard Time)</time> |
 | [waltz]({{ "tags/waltz" | relative_url }}) | <time datetime="2025-11-06T07:12:52.620Z">Thu Nov 06 2025 09:12:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [classic rock]({{ "tags/classic-rock" | relative_url }}) | <time datetime="2025-11-06T06:22:52.744Z">Thu Nov 06 2025 08:22:52 GMT+0200 (Eastern European Standard Time)</time> |
@@ -62,7 +63,6 @@ Last updated: <time datetime="2025-11-06T07:20:42.175Z">Thu Nov 06 2025 09:20:42
 | [australian]({{ "tags/australian" | relative_url }}) | <time datetime="2025-11-05T01:35:18.342Z">Wed Nov 05 2025 03:35:18 GMT+0200 (Eastern European Standard Time)</time> |
 | [brass]({{ "tags/brass" | relative_url }}) | <time datetime="2025-11-05T00:15:02.702Z">Wed Nov 05 2025 02:15:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [seattle]({{ "tags/seattle" | relative_url }}) | <time datetime="2025-11-05T00:14:02.931Z">Wed Nov 05 2025 02:14:02 GMT+0200 (Eastern European Standard Time)</time> |
-| [liverpool]({{ "tags/liverpool" | relative_url }}) | <time datetime="2025-11-05T00:12:06.812Z">Wed Nov 05 2025 02:12:06 GMT+0200 (Eastern European Standard Time)</time> |
 | [american]({{ "tags/american" | relative_url }}) | <time datetime="2025-11-05T00:11:27.309Z">Wed Nov 05 2025 02:11:27 GMT+0200 (Eastern European Standard Time)</time> |
 | [spanish]({{ "tags/spanish" | relative_url }}) | <time datetime="2025-11-04T21:12:07.935Z">Tue Nov 04 2025 23:12:07 GMT+0200 (Eastern European Standard Time)</time> |
 | [power pop]({{ "tags/power-pop" | relative_url }}) | <time datetime="2025-11-04T21:10:24.674Z">Tue Nov 04 2025 23:10:24 GMT+0200 (Eastern European Standard Time)</time> |
