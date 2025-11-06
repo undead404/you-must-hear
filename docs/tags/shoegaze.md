@@ -1,118 +1,2005 @@
 ---
 category: genre
-date: 2025-10-28T05:42:31.488Z
+date: 2025-11-05T23:09:51.355Z
 permalink: tags/shoegaze
 title: shoegaze
 ---
 
 ## shoegaze
 
-Last updated: <time datetime="2025-10-28T05:42:31.488Z">Tue Oct 28 2025 07:42:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-05T23:09:51.355Z">Thu Nov 06 2025 01:09:51 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Shoegaze is a genre of alternative rock music that emerged in the United Kingdom in the late 1980s and early 1990s. It is characterized by heavily distorted guitar sounds, obscured vocals that blend into the mix, and the use of effects such as reverb and delay to create a dreamy and atmospheric sound. The term &quot;shoegaze&quot; derives from the tendency of the musicians to stand motionless on stage, staring down at their effects pedals, creating a wall of sound that engulfs the listener. Some of the key bands associated with shoegaze include My Bloody Valentine, Ride, Slowdive, and Lush.
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 1 | ![Cover](https://i.discogs.com/ViHt8-qnSMdg48v1tKUZblw45Tp6bpsONsHNw48Ki58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NjM3/LTEzMjQzOTkwOTYu/anBlZw.jpeg) | 1986 | Cocteau Twins | Love&#39;s Easy Tears |
-| 48 |  | 1987-11 | My Bloody Valentine | You Made Me Realise |
-| 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b67823431f79d6383476db1499278623.png) | 1990-10-15 | Ride | Nowhere (Expanded) |
-| 46 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7fa3704f8a01668d07930823e6577b83.png) | 1990-10-15 | Ride | Nowhere |
-| 35 |  | 1991-02-04 | My Bloody Valentine | Tremolo |
-| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0e58dd8880da4f09b3676ba5a4b64aa7.png) | 1992 | Drop Nineteens | Delaware |
-| 43 | ![Cover](https://i.discogs.com/VblQ_TwokdrWkBUv6iH0mZkaVX4v6YkFa70_GSq8cko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDUw/My0xMTUwODA3OTAy/LmpwZWc.jpeg) | 1992-01-21 | Lush | Spooky |
-| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/18df8d254c584c6d8abd14fda527073d.png) | 1993 | The Smashing Pumpkins | Siamese Dream (Deluxe Edition) |
-| 19 |  | 1993-06-15 | The Verve | A Storm In Heaven |
-| 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2c6ecc7298a011487d364a14abdfc55f.png) | 1993-10-05 | Yo La Tengo | Painful |
-| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2208daedab2a4be7cb99bd8180634f95.png) | 1994-06-13 | Lush | Split |
-| 32 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/14a3858233884d439a2c5e9750268822.png) | 1995-04-11 | Hum | You&#39;d Prefer an Astronaut |
-| 17 | ![Cover](https://i.discogs.com/1My7omoCBvMaqru1QuuD9HaKHe0E9C8LC5nhsX_U2Ac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDU4/OC0xMzQ0NzAwMzE3/LTczODguanBlZw.jpeg) | 1995-06-27 | Starflyer 59 | Starflyer 59 |
-| 14 | ![Cover](https://i.discogs.com/gTSlSkX3f0GG4W9cLbkvrYDirvPCAvCZnLqr8M15GWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzQt/MTQ5OTQ5ODkwMC0y/NDg4LmpwZWc.jpeg) | 1996-11-12 | Bowery Electric | Beat |
-| 50 |  | 2003-04 | M83 | Dead Cities, Red Seas &amp; Lost Ghosts |
-| 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ab214148a22b2ea307c4eaf7f35a0aa9.png) | 2004-10-26 | Autolux | Future Perfect |
-| 10 |  | 2006-04-11 | Jesu | Silver |
-| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2357ab46c0cd490fc94ab3d0f12cc277.png) | 2007-04-03 | Blonde Redhead | 23 |
-| 13 | ![Cover](https://i.discogs.com/ZnI3yONZZbOUj4Z36iVb1dosiLofAscJz797bwo3sBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk4/NjYtMTI2NzkyMDUz/MS5qcGVn.jpeg) | 2007-08-13 | A Place to Bury Strangers | A Place To Bury Strangers |
-| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/98d865541a1247acadcd4635275fe96c.png) | 2007-11-05 | The Raveonettes | Lust Lust Lust |
-| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3cef81c9d36593286719a4c00007be0b.png) | 2008-06-24 | Foo Fighters | But Here We Are |
-| 34 |  | 2009-06-06 | Pinkshinyultrablast | Happy songs for happy zombies |
-| 21 | ![Cover](https://i.discogs.com/aTsxGKng_4ZRyW5UVVKOoiL2HVVVgLuNmxhBXO4sMT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjI4/MjUtMTI1NjU0MjE4/Mi5qcGVn.jpeg) | 2009-09-14 | The Big Pink | A Brief History of Love |
-| 23 |  | 2009-10-05 | A Place to Bury Strangers | Exploding Head |
-| 29 |  | 2010-04-19 | The Radio Dept. | Clinging to a Scheme |
-| 2 |  | 2010-07-07 | Tamaryn | The Waves |
-| 9 |  | 2011-02-09 | Ringo Deathstarr | Colour Trip |
-| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f9780975ccd247b188b4661783d260fc.png) | 2011-03-16 | The Pains of Being Pure at Heart | Belong |
-| 3 |  | 2011-08-09 | Widowspeak | Widowspeak |
-| 44 |  | 2012-01-06 | Alcest | Les voyages de l&#39;Âme |
-| 5 |  | 2012-10-09 | Black Marble | A Different Arrangement |
-| 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b50c4a0285750fe1159849f2bbccc08d.png) | 2012-11-09 | Deftones | Koi No Yokan |
-| 4 | ![Cover](https://i.discogs.com/2PYed0DsS2ypGKd12X5y9OiEH9aZSd4bD-_VmQ-P0mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjE3/NjAtMTM3NDY4MTY1/Mi03NTQ0LmpwZWc.jpeg) | 2013-07-02 | Ovlov | Am |
-| 33 |  | 2014-01-27 | Have a Nice Life | The Unnatural World |
-| 26 | ![Cover](https://i.discogs.com/WsGvW2MY1RNAWdbawd3kvv7QJgHXy5i7l45S33q64X0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTg2/OTItMTQwMDc4NzUy/OS00NTYyLmpwZWc.jpeg) | 2014-05-20 | Bedroom | Grow |
-| 37 |  | 2014-09-23 | Whirr | Sway |
-| 27 | ![Cover](https://i.discogs.com/jASvqmaJLrsPPm6UGELq8Pcv3nQs9k5OAUPB1MO1Fag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjMy/MjMtMTQzMDUxMTk0/MC01MzEzLmpwZWc.jpeg) | 2015-05-04 | Superheaven | Ours Is Chrome |
-| 30 | ![Cover](https://i.discogs.com/9OBe79HtvXf9UXjaSfsmEx2Xv3s1X2kcn3dVhWCiATY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjA2/NDEtMTQ3NTEzNTE3/NC0xMTc4LmpwZWc.jpeg) | 2016-09-30 | Alcest | Kodama |
-| 6 | ![Cover](https://i.discogs.com/Kp23eIdw16eO36E1WJYGRpvGb_Zg4qA0pVboOh6F91w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzU2/MjMtMTQ4ODgyNDk1/My00MjI2LmpwZWc.jpeg) | 2017-03-10 | Jay Som | Everybody Works |
-| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/00e00de8eeac2004839c87384be90f20.png) |  | Hotline TNT | Nineteen In Love |
-| 78 | ![Cover](https://i.discogs.com/tryat2cpONHCNndsxvDze-VFt9nYzV58HwVmNvzSkyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTU3/NTctMTQzMzA4MDMy/MC05NjExLmpwZWc.jpeg) | 1979 | Julie | flutter |
-| 67 | ![Cover](https://i.discogs.com/Wx6AMYq7BEgcd11LZISj72CznA5xRQCXy8UosVilp_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTg4/My0xNTk0NzUwNTUx/LTQ3ODYuanBlZw.jpeg) | 1985-02 | The Jesus and Mary Chain | Psychocandy |
-| 74 |  | 1988-11-21 | My Bloody Valentine | Isn&#39;t Anything |
-| 60 | ![Cover](https://i.discogs.com/11rb1EOgfc3ga3wyPklW2r6GbD1px7aw8z90IfJqBwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Njgw/LTE1MjMxNjQxMjYt/MjA5Ni5qcGVn.jpeg) | 1990-04 | My Bloody Valentine | Glider |
-| 92 |  | 1990-11-05 | Slowdive | Slowdive |
-| 87 |  | 1991-09-02 | Slowdive | Just for a Day |
-| 99 |  | 1991-11-04 | My Bloody Valentine | Loveless |
-| 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d56592ca7b754d8b0160774fb603eaa1.png) | 1993 | The Smashing Pumpkins | Siamese Dream (2011 - Remaster) |
-| 98 |  | 1993-06-01 | Slowdive | Souvlaki |
-| 69 | ![Cover](https://i.discogs.com/oaGZxEAWHqAfxA6-TgK6H6s4vKFQHLSxWXg0gPa1voY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTc5/My0xMjY0NTMxMzgy/LmpwZWc.jpeg) | 1995-02-06 | Slowdive | Pygmalion |
-| 70 | ![Cover](https://i.discogs.com/nwq-I87RyK4BN9b-rOVB_ExtpVSd_wJrY9x6XuL3c-A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTY2/Ny0xMTc4NDE3NDA2/LmpwZWc.jpeg) | 2003 | Sweet Trip | Velocity: design: comfort. |
-| 55 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4c23d584664e4767b35d50375e5eff47.png) | 2003-02-24 | The Radio Dept. | Lesser Matters |
-| 68 | ![Cover](https://i.discogs.com/OJk4Xws4wP37TSuGEfQ5yPhbGFRW1RvDjFkGGBHQ1j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDE1/MC0xMTQzMTIzNjky/LmpwZWc.jpeg) | 2005-01-24 | M83 | Before the Dawn Heals Us |
-| 57 |  | 2006-04-12 | The Radio Dept. | Pet Grief |
-| 52 |  | 2006-05-30 | Asobi Seksu | Citrus |
-| 100 | ![Cover](https://i.discogs.com/xt2rqzeM8ushfqDwoiwGP0e_cQTlb4ML4SdAD-QBRmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzY4/MjM1LTE2OTU0NTE1/MzktODcyMy5qcGVn.jpeg) | 2006-06-30 | Wisp | Your face |
-| 90 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/26318874212d488eb726d362c18ecc6a.png) | 2006-07-25 | Silversun Pickups | Carnavas |
-| 66 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ee2a3ca4bbb25f3c9ea0e36a82d0afa3.png) | 2007-01-16 | LSD and the Search for God | LSD and the Search For God |
-| 62 |  | 2007-07-03 | Alcest | Souvenirs d&#39;un autre Monde |
-| 94 |  | 2008-02-21 | Have a Nice Life | Deathconsciousness |
-| 91 |  | 2008-04-14 | M83 | Saturdays &#x3D; Youth |
-| 88 |  | 2008-10-27 | Deerhunter | Microcastle |
-| 80 |  | 2009-01-26 | The Pains of Being Pure at Heart | The Pains of Being Pure at Heart |
-| 65 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8e3af673da6b9844ec4dfb01a5c260b8.png) | 2009-04-14 | Silversun Pickups | Swoon |
-| 61 |  | 2009-05-04 | The Horrors | Primary Colours |
-| 54 |  | 2010-03-26 | Alcest | Écailles de lune |
-| 76 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3270c90b5f5548dfc85ae98f9c5c467c.png) | 2011-06-08 | Whirr | Distressor |
-| 51 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1701ff3277f94c22b1405948bb341052.png) | 2011-07-06 | The Horrors | Skying |
-| 84 |  | 2011-10-14 | M83 | Hurry Up, We&#39;re Dreaming |
-| 79 |  | 2012-01-30 | DIIV | Oshin |
-| 96 |  | 2012-02-27 | M83 | Midnight City |
-| 82 |  | 2013-02-02 | My Bloody Valentine | m b v |
-| 89 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/98ee8f307004ac47f938929a37755492.png) | 2013-04-20 | Whirr | Whirr &amp; Nothing (Split Version) |
-| 97 | ![Cover](https://i.discogs.com/oP2kEM7EESd-bY7ZqJC9HX6JpeEmsygPpsS5boLw4As/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjYy/NDAtMTQwMzc2ODI0/NS00Nzk3LmpwZWc.jpeg) | 2013-05-06 | Salvia Palth | Melanchole |
-| 73 |  | 2013-06-25 | Candy Claws | Ceres &amp; Calypso in the Deep Time |
-| 83 | ![Cover](https://i.discogs.com/d7nyJnDsSZwPJYjnuw269-NSNf0nsZhNrhmvLd1twd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjY5/OTctMTQ1OTMzMTQ4/NC0yNTc2LmpwZWc.jpeg) | 2015-02-03 | Title Fight | Hyperview |
-| 64 | ![Cover](https://i.discogs.com/bAjVZOux3QVNkeD1WGMmHJOP-8FAswatlerhwyHONgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDgw/MTEtMTQzOTg4OTI3/Ni0yOTQ0LmpwZWc.jpeg) | 2015-08-28 | Beach House | Depression Cherry |
-| 41 | ![Cover](https://i.discogs.com/VjBHp7yhyHYtMNoii5PNWe6dRuJuZCBrkzwj3T-RbEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDA3/NjUtMTUyMTgzOTA5/Ni0zODIwLmpwZWc.jpeg) | 2016-02-05 | DIIV | Is the Is Are |
-| 63 | ![Cover](https://i.discogs.com/YDYIPqE13Qsc9pISJUST0o3r1fNae68ycRQh2BqQCXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjU0/MTUxLTE1OTUzMDkz/NjEtNDk0OC5qcGVn.jpeg) | 2016-07-11 | blue smiley | return |
-| 38 | ![Cover](https://i.discogs.com/FDD6DX23wW47PduwipKPXGYQKDkvkPRslVl4Wm3GYrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODky/MjMtMTQ4NDgwODEw/My04OTAyLmpwZWc.jpeg) | 2016-08-19 | tanukichan | Radiolove |
-| 28 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a718ca0f6989ae4697979fcda67b3de7.png) | 2016-12-27 | Yuragi | Nightlife |
-| 81 | ![Cover](https://i.discogs.com/lb9IJiEsoiu9lN3fMZWUgNjgpUIC_EXtBpiKVzQkF4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODk0/NTcyLTE1MDYwOTkx/OTEtMzkzMy5qcGVn.jpeg) | 2017 | Wolf Alice | Visions Of A Life |
-| 12 | ![Cover](https://i.discogs.com/2UR6z8ULO-5KPowAwhiwp2VYoiME_FZ3aweW6OK2pQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTAz/NDUtMTQ4OTA5MTQ4/MC05NjY0LmpwZWc.jpeg) | 2017-03-10 | Planning for Burial | Below The House |
-| 85 | ![Cover](https://i.discogs.com/L-EbXdvMnu9FmNtstuiPcBbOd0sZNerNGwRcaLWZ74k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTQ5/NjYwLTE0OTI0Nzcz/MTYtMTE3OS5qcGVn.jpeg) | 2017-03-21 | Cigarettes After Sex | Apocalypse |
-| 95 | ![Cover](https://i.discogs.com/Aqp50VndAl66Uug3WnBVniTWUvs47u21LEivcs11gLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjQy/NTY3LTE2MzE3MTkz/MzYtNzEyMi5qcGVn.jpeg) | 2017-04-29 | GLARE | Into You |
-| 71 | ![Cover](https://i.discogs.com/14QXmOVTi9gis4oG8vhe7g09riIN-lgh_QwarkMM8w8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzU2/NTA4LTE0OTU5MDc1/NzItNzk2MS5qcGVn.jpeg) | 2017-06-09 | Cigarettes After Sex | Cigarettes After Sex |
-| 53 | ![Cover](https://i.discogs.com/JkNHWNBtaBBDNz-RkJ7QKlwhymKqAjkUhQEsxOhNFDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDE3/Njc5LTE1MzQ4NzQ3/MTUtODEyMS5qcGVn.jpeg) | 2018-08-17 | George Clanton | Slide |
-| 45 | ![Cover](https://i.discogs.com/yqgvYKNaQ7SaG6Umv9DGe5ZY83j5za6L0gnakaZQBBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjE2/MDU0LTE1NTAwOTg5/MDAtNzk0My5qcGVn.jpeg) | 2018-09-21 | Trauma Ray | [trauma ray] |
-| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/553f816c348d3080a17cd5f93d575f07.png) | 2019-10-04 | DIIV | Deceiver |
-| 47 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4367c977948faed2125572b58e298e1b.png) | 2019-10-29 | Whirr | Feels Like You |
-| 42 | ![Cover](https://i.discogs.com/1AkIdIh82UQAJYVfehCxgvsY6wvnhpL2UoM2jyP3qm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDkx/NjExLTE2ODczODgw/NTAtMjE4Ny5wbmc.jpeg) | 2020-04-01 | Computerwife | Computerwife |
-| 24 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0ee08bda639c3df913e1a4a37508a841.png) | 2021-02-23 | Parannoul | To See the Next Part of the Dream |
-| 93 | ![Cover](https://i.discogs.com/RwsFRCaI8QBz54wTxkOlRC2Zl5J2CME4-k8uKRHanTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODc1/MDE5LTE2MjkwODAx/MDctMzg2My5wbmc.jpeg) | 2021-08-12 | Julie | pushing daisies |
-| 58 | ![Cover](https://i.discogs.com/viumvjk_AiVOK1Y9itd86ewQJAR64DPM85qcT8qzfgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTU3/ODIxLTE2NTIwMzAy/OTUtNDQ2NS5qcGVn.jpeg) | 2022-04-20 | quannnic | kenopsia |
-| 11 | ![Cover](https://i.discogs.com/9C5Y4uv0RLRMt_Fpse-qwHjvovqrBCpweJJUtbL2-_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTA2/NDUyLTE2Njc5OTU3/NjEtMjg4Ni5qcGVn.jpeg) | 2022-09-27 | elusin | Synfuels |
-| 72 | ![Cover](https://i.discogs.com/7h9ltbKqEaQmf3_kzKmrmCbSGzuT5ReqyJ6BZCDROv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzI4/MjUyLTE2NjQ5ODU2/MTMtMzUwMy5qcGVn.jpeg) | 2022-10-07 | Alvvays | Blue Rev |
-| 77 | ![Cover](https://i.discogs.com/HDQWpoSBwhEkLOp-IK9ojG1Vihb9-V656Y_MCciniUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDUz/MDU4LTE2Njc1ODY2/MDQtNDk4MS5qcGVn.jpeg) | 2022-11-04 | fleshwater | We&#39;re Not Here to Be Loved |
-| 59 | ![Cover](https://i.discogs.com/GeOsekGgmlXvzNbuwFF2LjV3l1-G3k5vUa-h3-2IAkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTcw/MTUzLTE2NjAyMzU1/NjgtMTY1NS5qcGVn.jpeg) | 2023-02-17 | Julie | pg.4 a picture of three hedges&#x2F;through your window |
-| 75 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f21e1571f83b48f2c8fbb3a6e495e365.png) |  | Alcest | Souvenirs d&#39;un autre monde |
-| 56 | ![Cover](https://i.discogs.com/_lRh1Jrr4uo62e9MfJWzDZa7eFNq28DdyLIssnWcX1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODkx/OTkwLTE2NzgwMzAw/NzMtNzY4My5qcGVn.jpeg) | 2024 | Kali Uchis | I Wish You Roses |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/tryat2cpONHCNndsxvDze-VFt9nYzV58HwVmNvzSkyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTU3/NTctMTQzMzA4MDMy/MC05NjExLmpwZWc.jpeg" alt="Cover for flutter" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>Julie</td>
+      <td>flutter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 63</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 68</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 77</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 79</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 94</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 98</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/Wx6AMYq7BEgcd11LZISj72CznA5xRQCXy8UosVilp_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTg4/My0xNTk0NzUwNTUx/LTQ3ODYuanBlZw.jpeg" alt="Cover for Psychocandy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985-02</td>
+      <td>The Jesus and Mary Chain</td>
+      <td>Psychocandy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 64</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/ViHt8-qnSMdg48v1tKUZblw45Tp6bpsONsHNw48Ki58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NjM3/LTEzMjQzOTkwOTYu/anBlZw.jpeg" alt="Cover for Love&#39;s Easy Tears" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Cocteau Twins</td>
+      <td>Love&#39;s Easy Tears</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 34</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 35</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td>1987-11</td>
+      <td>My Bloody Valentine</td>
+      <td>You Made Me Realise</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td>1988-11-21</td>
+      <td>My Bloody Valentine</td>
+      <td>Isn&#39;t Anything</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/11rb1EOgfc3ga3wyPklW2r6GbD1px7aw8z90IfJqBwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Njgw/LTE1MjMxNjQxMjYt/MjA5Ni5qcGVn.jpeg" alt="Cover for Glider" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990-04</td>
+      <td>My Bloody Valentine</td>
+      <td>Glider</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b67823431f79d6383476db1499278623.png" alt="Cover for Nowhere (Expanded)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990-10-15</td>
+      <td>Ride</td>
+      <td>Nowhere (Expanded)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fa3704f8a01668d07930823e6577b83.png" alt="Cover for Nowhere" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990-10-15</td>
+      <td>Ride</td>
+      <td>Nowhere</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td>1990-11-05</td>
+      <td>Slowdive</td>
+      <td>Slowdive</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td>1991-02-04</td>
+      <td>My Bloody Valentine</td>
+      <td>Tremolo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td>1991-09-02</td>
+      <td>Slowdive</td>
+      <td>Just for a Day</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>1991-11-04</td>
+      <td>My Bloody Valentine</td>
+      <td>Loveless</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e58dd8880da4f09b3676ba5a4b64aa7.png" alt="Cover for Delaware" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Drop Nineteens</td>
+      <td>Delaware</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/VblQ_TwokdrWkBUv6iH0mZkaVX4v6YkFa70_GSq8cko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDUw/My0xMTUwODA3OTAy/LmpwZWc.jpeg" alt="Cover for Spooky" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992-01-21</td>
+      <td>Lush</td>
+      <td>Spooky</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18df8d254c584c6d8abd14fda527073d.png" alt="Cover for Siamese Dream (Deluxe Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>The Smashing Pumpkins</td>
+      <td>Siamese Dream (Deluxe Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d56592ca7b754d8b0160774fb603eaa1.png" alt="Cover for Siamese Dream (2011 - Remaster)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>The Smashing Pumpkins</td>
+      <td>Siamese Dream (2011 - Remaster)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>1993-06-01</td>
+      <td>Slowdive</td>
+      <td>Souvlaki</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td>1993-06-15</td>
+      <td>The Verve</td>
+      <td>A Storm In Heaven</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c6ecc7298a011487d364a14abdfc55f.png" alt="Cover for Painful" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-10-05</td>
+      <td>Yo La Tengo</td>
+      <td>Painful</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2208daedab2a4be7cb99bd8180634f95.png" alt="Cover for Split" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-06-13</td>
+      <td>Lush</td>
+      <td>Split</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/oaGZxEAWHqAfxA6-TgK6H6s4vKFQHLSxWXg0gPa1voY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTc5/My0xMjY0NTMxMzgy/LmpwZWc.jpeg" alt="Cover for Pygmalion" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-02-06</td>
+      <td>Slowdive</td>
+      <td>Pygmalion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 36</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 39</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14a3858233884d439a2c5e9750268822.png" alt="Cover for You&#39;d Prefer an Astronaut" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-04-11</td>
+      <td>Hum</td>
+      <td>You&#39;d Prefer an Astronaut</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/1My7omoCBvMaqru1QuuD9HaKHe0E9C8LC5nhsX_U2Ac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDU4/OC0xMzQ0NzAwMzE3/LTczODguanBlZw.jpeg" alt="Cover for Starflyer 59" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-06-27</td>
+      <td>Starflyer 59</td>
+      <td>Starflyer 59</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/gTSlSkX3f0GG4W9cLbkvrYDirvPCAvCZnLqr8M15GWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzQt/MTQ5OTQ5ODkwMC0y/NDg4LmpwZWc.jpeg" alt="Cover for Beat" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-11-12</td>
+      <td>Bowery Electric</td>
+      <td>Beat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 30</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/nwq-I87RyK4BN9b-rOVB_ExtpVSd_wJrY9x6XuL3c-A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTY2/Ny0xMTc4NDE3NDA2/LmpwZWc.jpeg" alt="Cover for Velocity: design: comfort." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Sweet Trip</td>
+      <td>Velocity: design: comfort.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 38</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 47</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 68</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 79</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c23d584664e4767b35d50375e5eff47.png" alt="Cover for Lesser Matters" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-02-24</td>
+      <td>The Radio Dept.</td>
+      <td>Lesser Matters</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td>2003-04</td>
+      <td>M83</td>
+      <td>Dead Cities, Red Seas &amp; Lost Ghosts</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab214148a22b2ea307c4eaf7f35a0aa9.png" alt="Cover for Future Perfect" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-10-26</td>
+      <td>Autolux</td>
+      <td>Future Perfect</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/OJk4Xws4wP37TSuGEfQ5yPhbGFRW1RvDjFkGGBHQ1j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDE1/MC0xMTQzMTIzNjky/LmpwZWc.jpeg" alt="Cover for Before the Dawn Heals Us" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-01-24</td>
+      <td>M83</td>
+      <td>Before the Dawn Heals Us</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+      </td>
+      <td>2006-04-11</td>
+      <td>Jesu</td>
+      <td>Silver</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>2006-04-12</td>
+      <td>The Radio Dept.</td>
+      <td>Pet Grief</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+      </td>
+      <td>2006-05-30</td>
+      <td>Asobi Seksu</td>
+      <td>Citrus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/xt2rqzeM8ushfqDwoiwGP0e_cQTlb4ML4SdAD-QBRmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzY4/MjM1LTE2OTU0NTE1/MzktODcyMy5qcGVn.jpeg" alt="Cover for Your face" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-06-30</td>
+      <td>Wisp</td>
+      <td>Your face</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26318874212d488eb726d362c18ecc6a.png" alt="Cover for Carnavas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-07-25</td>
+      <td>Silversun Pickups</td>
+      <td>Carnavas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 93 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee2a3ca4bbb25f3c9ea0e36a82d0afa3.png" alt="Cover for LSD and the Search For God" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-01-16</td>
+      <td>LSD and the Search for God</td>
+      <td>LSD and the Search For God</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2357ab46c0cd490fc94ab3d0f12cc277.png" alt="Cover for 23" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-04-03</td>
+      <td>Blonde Redhead</td>
+      <td>23</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 61 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>2007-07-03</td>
+      <td>Alcest</td>
+      <td>Souvenirs d&#39;un autre Monde</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 7</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/ZnI3yONZZbOUj4Z36iVb1dosiLofAscJz797bwo3sBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk4/NjYtMTI2NzkyMDUz/MS5qcGVn.jpeg" alt="Cover for A Place To Bury Strangers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-08-13</td>
+      <td>A Place to Bury Strangers</td>
+      <td>A Place To Bury Strangers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98d865541a1247acadcd4635275fe96c.png" alt="Cover for Lust Lust Lust" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-11-05</td>
+      <td>The Raveonettes</td>
+      <td>Lust Lust Lust</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>2008-02-21</td>
+      <td>Have a Nice Life</td>
+      <td>Deathconsciousness</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 34</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td>2008-04-14</td>
+      <td>M83</td>
+      <td>Saturdays &#x3D; Youth</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 21</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>2008-10-27</td>
+      <td>Deerhunter</td>
+      <td>Microcastle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>2009-01-26</td>
+      <td>The Pains of Being Pure at Heart</td>
+      <td>The Pains of Being Pure at Heart</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 25</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e3af673da6b9844ec4dfb01a5c260b8.png" alt="Cover for Swoon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-04-14</td>
+      <td>Silversun Pickups</td>
+      <td>Swoon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td>2009-05-04</td>
+      <td>The Horrors</td>
+      <td>Primary Colours</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td>2009-06-06</td>
+      <td>Pinkshinyultrablast</td>
+      <td>Happy songs for happy zombies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/aTsxGKng_4ZRyW5UVVKOoiL2HVVVgLuNmxhBXO4sMT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjI4/MjUtMTI1NjU0MjE4/Mi5qcGVn.jpeg" alt="Cover for A Brief History of Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-09-14</td>
+      <td>The Big Pink</td>
+      <td>A Brief History of Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td>2009-10-05</td>
+      <td>A Place to Bury Strangers</td>
+      <td>Exploding Head</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td>2010-03-26</td>
+      <td>Alcest</td>
+      <td>Écailles de lune</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 40</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td>2010-04-19</td>
+      <td>The Radio Dept.</td>
+      <td>Clinging to a Scheme</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td>2010-07-07</td>
+      <td>Tamaryn</td>
+      <td>The Waves</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td>2011-02-09</td>
+      <td>Ringo Deathstarr</td>
+      <td>Colour Trip</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9780975ccd247b188b4661783d260fc.png" alt="Cover for Belong" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-03-16</td>
+      <td>The Pains of Being Pure at Heart</td>
+      <td>Belong</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3270c90b5f5548dfc85ae98f9c5c467c.png" alt="Cover for Distressor" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-06-08</td>
+      <td>Whirr</td>
+      <td>Distressor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1701ff3277f94c22b1405948bb341052.png" alt="Cover for Skying" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-07-06</td>
+      <td>The Horrors</td>
+      <td>Skying</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td>2011-08-09</td>
+      <td>Widowspeak</td>
+      <td>Widowspeak</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td>2011-10-14</td>
+      <td>M83</td>
+      <td>Hurry Up, We&#39;re Dreaming</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 17</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 49</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+      </td>
+      <td>2012-01-06</td>
+      <td>Alcest</td>
+      <td>Les voyages de l&#39;Âme</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 70</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td>2012-01-30</td>
+      <td>DIIV</td>
+      <td>Oshin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td>2012-02-27</td>
+      <td>M83</td>
+      <td>Midnight City</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td>2012-10-09</td>
+      <td>Black Marble</td>
+      <td>A Different Arrangement</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b50c4a0285750fe1159849f2bbccc08d.png" alt="Cover for Koi No Yokan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-11-09</td>
+      <td>Deftones</td>
+      <td>Koi No Yokan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>2013-02-02</td>
+      <td>My Bloody Valentine</td>
+      <td>m b v</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98ee8f307004ac47f938929a37755492.png" alt="Cover for Whirr &amp; Nothing (Split Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-04-20</td>
+      <td>Whirr</td>
+      <td>Whirr &amp; Nothing (Split Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 12</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 56</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/oP2kEM7EESd-bY7ZqJC9HX6JpeEmsygPpsS5boLw4As/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjYy/NDAtMTQwMzc2ODI0/NS00Nzk3LmpwZWc.jpeg" alt="Cover for Melanchole" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-05-06</td>
+      <td>Salvia Palth</td>
+      <td>Melanchole</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 95</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td>2013-06-25</td>
+      <td>Candy Claws</td>
+      <td>Ceres &amp; Calypso in the Deep Time</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 42</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/2PYed0DsS2ypGKd12X5y9OiEH9aZSd4bD-_VmQ-P0mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjE3/NjAtMTM3NDY4MTY1/Mi03NTQ0LmpwZWc.jpeg" alt="Cover for Am" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-07-02</td>
+      <td>Ovlov</td>
+      <td>Am</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+      </td>
+      <td>2014-01-27</td>
+      <td>Have a Nice Life</td>
+      <td>The Unnatural World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 26</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/WsGvW2MY1RNAWdbawd3kvv7QJgHXy5i7l45S33q64X0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTg2/OTItMTQwMDc4NzUy/OS00NTYyLmpwZWc.jpeg" alt="Cover for Grow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-05-20</td>
+      <td>Bedroom</td>
+      <td>Grow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 26</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 45</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 69</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 90</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>2014-09-23</td>
+      <td>Whirr</td>
+      <td>Sway</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/d7nyJnDsSZwPJYjnuw269-NSNf0nsZhNrhmvLd1twd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjY5/OTctMTQ1OTMzMTQ4/NC0yNTc2LmpwZWc.jpeg" alt="Cover for Hyperview" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-02-03</td>
+      <td>Title Fight</td>
+      <td>Hyperview</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/jASvqmaJLrsPPm6UGELq8Pcv3nQs9k5OAUPB1MO1Fag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjMy/MjMtMTQzMDUxMTk0/MC01MzEzLmpwZWc.jpeg" alt="Cover for Ours Is Chrome" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-05-04</td>
+      <td>Superheaven</td>
+      <td>Ours Is Chrome</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 31</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/bAjVZOux3QVNkeD1WGMmHJOP-8FAswatlerhwyHONgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDgw/MTEtMTQzOTg4OTI3/Ni0yOTQ0LmpwZWc.jpeg" alt="Cover for Depression Cherry" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-08-28</td>
+      <td>Beach House</td>
+      <td>Depression Cherry</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 81</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/VjBHp7yhyHYtMNoii5PNWe6dRuJuZCBrkzwj3T-RbEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDA3/NjUtMTUyMTgzOTA5/Ni0zODIwLmpwZWc.jpeg" alt="Cover for Is the Is Are" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-02-05</td>
+      <td>DIIV</td>
+      <td>Is the Is Are</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/YDYIPqE13Qsc9pISJUST0o3r1fNae68ycRQh2BqQCXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjU0/MTUxLTE1OTUzMDkz/NjEtNDk0OC5qcGVn.jpeg" alt="Cover for return" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-07-11</td>
+      <td>blue smiley</td>
+      <td>return</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 87</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 90</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/FDD6DX23wW47PduwipKPXGYQKDkvkPRslVl4Wm3GYrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODky/MjMtMTQ4NDgwODEw/My04OTAyLmpwZWc.jpeg" alt="Cover for Radiolove" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-08-19</td>
+      <td>tanukichan</td>
+      <td>Radiolove</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/9OBe79HtvXf9UXjaSfsmEx2Xv3s1X2kcn3dVhWCiATY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjA2/NDEtMTQ3NTEzNTE3/NC0xMTc4LmpwZWc.jpeg" alt="Cover for Kodama" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-09-30</td>
+      <td>Alcest</td>
+      <td>Kodama</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 92</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a718ca0f6989ae4697979fcda67b3de7.png" alt="Cover for Nightlife" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-12-27</td>
+      <td>Yuragi</td>
+      <td>Nightlife</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/lb9IJiEsoiu9lN3fMZWUgNjgpUIC_EXtBpiKVzQkF4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODk0/NTcyLTE1MDYwOTkx/OTEtMzkzMy5qcGVn.jpeg" alt="Cover for Visions Of A Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Wolf Alice</td>
+      <td>Visions Of A Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/2UR6z8ULO-5KPowAwhiwp2VYoiME_FZ3aweW6OK2pQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTAz/NDUtMTQ4OTA5MTQ4/MC05NjY0LmpwZWc.jpeg" alt="Cover for Below The House" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-03-10</td>
+      <td>Planning for Burial</td>
+      <td>Below The House</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 85</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 88</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/Kp23eIdw16eO36E1WJYGRpvGb_Zg4qA0pVboOh6F91w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzU2/MjMtMTQ4ODgyNDk1/My00MjI2LmpwZWc.jpeg" alt="Cover for Everybody Works" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-03-10</td>
+      <td>Jay Som</td>
+      <td>Everybody Works</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/L-EbXdvMnu9FmNtstuiPcBbOd0sZNerNGwRcaLWZ74k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTQ5/NjYwLTE0OTI0Nzcz/MTYtMTE3OS5qcGVn.jpeg" alt="Cover for Apocalypse" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-03-21</td>
+      <td>Cigarettes After Sex</td>
+      <td>Apocalypse</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/Aqp50VndAl66Uug3WnBVniTWUvs47u21LEivcs11gLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjQy/NTY3LTE2MzE3MTkz/MzYtNzEyMi5qcGVn.jpeg" alt="Cover for Into You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-04-29</td>
+      <td>GLARE</td>
+      <td>Into You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/14QXmOVTi9gis4oG8vhe7g09riIN-lgh_QwarkMM8w8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzU2/NTA4LTE0OTU5MDc1/NzItNzk2MS5qcGVn.jpeg" alt="Cover for Cigarettes After Sex" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-06-09</td>
+      <td>Cigarettes After Sex</td>
+      <td>Cigarettes After Sex</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 94</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 97</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/JkNHWNBtaBBDNz-RkJ7QKlwhymKqAjkUhQEsxOhNFDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDE3/Njc5LTE1MzQ4NzQ3/MTUtODEyMS5qcGVn.jpeg" alt="Cover for Slide" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-08-17</td>
+      <td>George Clanton</td>
+      <td>Slide</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 45</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 56</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/yqgvYKNaQ7SaG6Umv9DGe5ZY83j5za6L0gnakaZQBBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjE2/MDU0LTE1NTAwOTg5/MDAtNzk0My5qcGVn.jpeg" alt="Cover for [trauma ray]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-09-21</td>
+      <td>Trauma Ray</td>
+      <td>[trauma ray]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/553f816c348d3080a17cd5f93d575f07.png" alt="Cover for Deceiver" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-10-04</td>
+      <td>DIIV</td>
+      <td>Deceiver</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4367c977948faed2125572b58e298e1b.png" alt="Cover for Feels Like You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-10-29</td>
+      <td>Whirr</td>
+      <td>Feels Like You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/1AkIdIh82UQAJYVfehCxgvsY6wvnhpL2UoM2jyP3qm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDkx/NjExLTE2ODczODgw/NTAtMjE4Ny5wbmc.jpeg" alt="Cover for Computerwife" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-04-01</td>
+      <td>Computerwife</td>
+      <td>Computerwife</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 32</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 56</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 73</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 81</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ee08bda639c3df913e1a4a37508a841.png" alt="Cover for To See the Next Part of the Dream" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-02-23</td>
+      <td>Parannoul</td>
+      <td>To See the Next Part of the Dream</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 74 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/RwsFRCaI8QBz54wTxkOlRC2Zl5J2CME4-k8uKRHanTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODc1/MDE5LTE2MjkwODAx/MDctMzg2My5wbmc.jpeg" alt="Cover for pushing daisies" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-08-12</td>
+      <td>Julie</td>
+      <td>pushing daisies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 70</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/viumvjk_AiVOK1Y9itd86ewQJAR64DPM85qcT8qzfgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTU3/ODIxLTE2NTIwMzAy/OTUtNDQ2NS5qcGVn.jpeg" alt="Cover for kenopsia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-04-20</td>
+      <td>quannnic</td>
+      <td>kenopsia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/9C5Y4uv0RLRMt_Fpse-qwHjvovqrBCpweJJUtbL2-_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTA2/NDUyLTE2Njc5OTU3/NjEtMjg4Ni5qcGVn.jpeg" alt="Cover for Synfuels" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-09-27</td>
+      <td>elusin</td>
+      <td>Synfuels</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 84</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 87</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/7h9ltbKqEaQmf3_kzKmrmCbSGzuT5ReqyJ6BZCDROv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzI4/MjUyLTE2NjQ5ODU2/MTMtMzUwMy5qcGVn.jpeg" alt="Cover for Blue Rev" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-10-07</td>
+      <td>Alvvays</td>
+      <td>Blue Rev</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 35</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 57</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/HDQWpoSBwhEkLOp-IK9ojG1Vihb9-V656Y_MCciniUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDUz/MDU4LTE2Njc1ODY2/MDQtNDk4MS5qcGVn.jpeg" alt="Cover for We&#39;re Not Here to Be Loved" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-11-04</td>
+      <td>fleshwater</td>
+      <td>We&#39;re Not Here to Be Loved</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/GeOsekGgmlXvzNbuwFF2LjV3l1-G3k5vUa-h3-2IAkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTcw/MTUzLTE2NjAyMzU1/NjgtMTY1NS5qcGVn.jpeg" alt="Cover for pg.4 a picture of three hedges&#x2F;through your window" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-02-17</td>
+      <td>Julie</td>
+      <td>pg.4 a picture of three hedges&#x2F;through your window</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 73</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/AIFPtI5pQpifMKAcBYfoPExYqVa3uF5KMCjAYf_XqpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/OTIwLTE2OTMwNzgz/OTctNjI1OS5qcGVn.jpeg" alt="Cover for Everything Is Alive" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-09-01</td>
+      <td>Slowdive</td>
+      <td>Everything Is Alive</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 23</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/_lRh1Jrr4uo62e9MfJWzDZa7eFNq28DdyLIssnWcX1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODkx/OTkwLTE2NzgwMzAw/NzMtNzY4My5qcGVn.jpeg" alt="Cover for I Wish You Roses" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024</td>
+      <td>Kali Uchis</td>
+      <td>I Wish You Roses</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 1</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00e00de8eeac2004839c87384be90f20.png" alt="Cover for Nineteen In Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Hotline TNT</td>
+      <td>Nineteen In Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 60</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f21e1571f83b48f2c8fbb3a6e495e365.png" alt="Cover for Souvenirs d&#39;un autre monde" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Alcest</td>
+      <td>Souvenirs d&#39;un autre monde</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 26</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
