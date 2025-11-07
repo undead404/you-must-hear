@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-06T18:55:07.264Z
+date: 2025-11-06T19:11:42.970Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-06T18:55:07.264Z">Thu Nov 06 2025 20:55:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-06T19:11:42.970Z">Thu Nov 06 2025 21:11:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [reggae]({{ "tags/reggae" | relative_url }}) | <time datetime="2025-11-06T19:11:42.970Z">Thu Nov 06 2025 21:11:42 GMT+0200 (Eastern European Standard Time)</time> |
 | [experimental rock]({{ "tags/experimental-rock" | relative_url }}) | <time datetime="2025-11-06T18:55:07.264Z">Thu Nov 06 2025 20:55:07 GMT+0200 (Eastern European Standard Time)</time> |
 | [eurodance]({{ "tags/eurodance" | relative_url }}) | <time datetime="2025-11-06T15:04:21.522Z">Thu Nov 06 2025 17:04:21 GMT+0200 (Eastern European Standard Time)</time> |
 | [liverpool]({{ "tags/liverpool" | relative_url }}) | <time datetime="2025-11-06T11:30:59.412Z">Thu Nov 06 2025 13:30:59 GMT+0200 (Eastern European Standard Time)</time> |
@@ -509,7 +510,6 @@ Last updated: <time datetime="2025-11-06T18:55:07.264Z">Thu Nov 06 2025 20:55:07
 | [los angeles]({{ "tags/los-angeles" | relative_url }}) | <time datetime="2025-10-28T14:31:34.914Z">Tue Oct 28 2025 16:31:34 GMT+0200 (Eastern European Standard Time)</time> |
 | [sludgecore]({{ "tags/sludgecore" | relative_url }}) | <time datetime="2025-10-28T14:31:20.952Z">Tue Oct 28 2025 16:31:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [modern melodic death metal]({{ "tags/modern-melodic-death-metal" | relative_url }}) | <time datetime="2025-10-28T14:31:10.324Z">Tue Oct 28 2025 16:31:10 GMT+0200 (Eastern European Standard Time)</time> |
-| [reggae]({{ "tags/reggae" | relative_url }}) | <time datetime="2025-10-28T14:31:00.925Z">Tue Oct 28 2025 16:31:00 GMT+0200 (Eastern European Standard Time)</time> |
 | [minimalism]({{ "tags/minimalism" | relative_url }}) | <time datetime="2025-10-28T14:15:36.521Z">Tue Oct 28 2025 16:15:36 GMT+0200 (Eastern European Standard Time)</time> |
 | [piano]({{ "tags/piano" | relative_url }}) | <time datetime="2025-10-28T14:15:01.534Z">Tue Oct 28 2025 16:15:01 GMT+0200 (Eastern European Standard Time)</time> |
 | [canterbury scene]({{ "tags/canterbury-scene" | relative_url }}) | <time datetime="2025-10-28T13:55:14.980Z">Tue Oct 28 2025 15:55:14 GMT+0200 (Eastern European Standard Time)</time> |
