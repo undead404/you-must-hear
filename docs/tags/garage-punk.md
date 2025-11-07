@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T06:09:12.916Z
+date: 2025-11-06T23:14:48.431Z
 permalink: tags/garage-punk
 title: garage punk
 ---
 
 ## garage punk
 
-Last updated: <time datetime="2025-11-02T06:09:12.916Z">Sun Nov 02 2025 08:09:12 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-06T23:14:48.431Z">Fri Nov 07 2025 01:14:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -163,7 +163,7 @@ Garage punk is a style of punk rock that takes inspiration from garage rock, a r
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/saedwScPxgdoqRObjBNoUGAXDwsi9ECNwSWcJflmn98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjUw/OTc3LTE2NjkxNTEw/MTMtNjIxNi5qcGVn.jpeg" alt="Cover for Beached Earls" style="max-width:120px; height:auto;" />
       </td>
@@ -327,7 +327,7 @@ Garage punk is a style of punk rock that takes inspiration from garage rock, a r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 26</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -368,6 +368,26 @@ Garage punk is a style of punk rock that takes inspiration from garage rock, a r
       <td>
         <ul>
             <li> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/9kjIn1P3WyXEEAp0mcFtfvOucJ893VC76DlO7o9hzcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY5/OTUtMTI0NjgwNTEy/Ni5qcGVn.jpeg" alt="Cover for За измену Родине" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Адаптация</td>
+      <td>За измену Родине</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -485,7 +505,7 @@ Garage punk is a style of punk rock that takes inspiration from garage rock, a r
       <td>
         <ul>
             <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 17</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 73</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -504,7 +524,7 @@ Garage punk is a style of punk rock that takes inspiration from garage rock, a r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 71</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -689,7 +709,7 @@ Garage punk is a style of punk rock that takes inspiration from garage rock, a r
       <td>
         <ul>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 54</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 80</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -897,7 +917,7 @@ Garage punk is a style of punk rock that takes inspiration from garage rock, a r
       <td>
         <ul>
             <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 18</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 78</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -935,7 +955,7 @@ Garage punk is a style of punk rock that takes inspiration from garage rock, a r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 67</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1049,29 +1069,8 @@ Garage punk is a style of punk rock that takes inspiration from garage rock, a r
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74665692c9f523d1f5a9b2a8c13043bf.png" alt="Cover for A Weird Exits" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-05-11</td>
-      <td>Thee Oh Sees</td>
-      <td>A Weird Exits</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 24</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/Dy_HyxXdAHlkGuRRmgFvLqG7wrPWS472CI87lip1c3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTgz/MTUtMTU4Mjc4MzA4/Mi01OTgxLmpwZWc.jpeg" alt="Cover for Carrion Crawler &#x2F; The Dream" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Thee Oh Sees</td>
@@ -1089,7 +1088,7 @@ Garage punk is a style of punk rock that takes inspiration from garage rock, a r
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/fjh6D3xJbw7RjIZDxxV0IU1oBxpl_ZMP-0KFwIAx4T8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzQw/NTItMTMwOTkwMDgx/MS5qcGVn.jpeg" alt="Cover for Kill The Kool" style="max-width:120px; height:auto;" />
       </td>
@@ -1285,7 +1284,6 @@ Garage punk is a style of punk rock that takes inspiration from garage rock, a r
     <tr>
       <td>16</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c512decc5174ab5bff04667a7372ebf.png" alt="Cover for Floating Coffin" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-16</td>
       <td>Thee Oh Sees</td>
@@ -1299,7 +1297,7 @@ Garage punk is a style of punk rock that takes inspiration from garage rock, a r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 21</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1383,7 +1381,7 @@ Garage punk is a style of punk rock that takes inspiration from garage rock, a r
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/KfP_kU_RfKxTXqAt8i2Z8IToHaF0cXaq8IJ6aC_vOcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzU1/NjEtMTM5OTc0ODU5/Ni03MDUwLmpwZWc.jpeg" alt="Cover for HOME PUNK" style="max-width:120px; height:auto;" />
       </td>
@@ -1492,7 +1490,7 @@ Garage punk is a style of punk rock that takes inspiration from garage rock, a r
       <td>
         <ul>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 24</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 28</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 30</li>
             <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 53</li>
         </ul>
       </td>
@@ -1583,7 +1581,7 @@ Garage punk is a style of punk rock that takes inspiration from garage rock, a r
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/dSBO0ZsGALdS4x8vpCcpat-UKGIXL9AtVyUUOJSckyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTYy/MjY2LTE1NTE5OTEy/MTYtMjY3NC5qcGVn.jpeg" alt="Cover for Post Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -1751,9 +1749,10 @@ Garage punk is a style of punk rock that takes inspiration from garage rock, a r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 19</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 24</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 57</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 4</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 21</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 26</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1813,12 +1812,12 @@ Garage punk is a style of punk rock that takes inspiration from garage rock, a r
       <td>
         <ul>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 17</li>
-            <li> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a> # 71</li>
+            <li> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/89VoF8nCwnwC-xCoECObAzgNbfQgSh5fJK8n1_bi7ho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTgz/MDg1LTE2NzYxMzMx/MjAtMjU2OC5qcGVn.jpeg" alt="Cover for What&#39;s On TV?" style="max-width:120px; height:auto;" />
       </td>
@@ -1841,7 +1840,7 @@ Garage punk is a style of punk rock that takes inspiration from garage rock, a r
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/FdO27HWK2C_JIsPyiC7ZxZ1YKz42bkvFuSq1vMlckNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDQ5/NTg2LTE2NzU5OTI0/MDItMjA1OS5qcGVn.jpeg" alt="Cover for Taken By Force" style="max-width:120px; height:auto;" />
       </td>
@@ -1859,7 +1858,7 @@ Garage punk is a style of punk rock that takes inspiration from garage rock, a r
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/yaWhyWCfiJUdmpkVlP3oQdr_oUKbdaFNltDBWXLILsg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzE3/NTE3LTE2Nzg4MzU5/ODctMjU5Ny5qcGVn.jpeg" alt="Cover for FOREGROUND MUSIC" style="max-width:120px; height:auto;" />
       </td>
@@ -1906,7 +1905,6 @@ Garage punk is a style of punk rock that takes inspiration from garage rock, a r
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/djNZIQnhxgiXt2OK1hCpIOyiyCm5Zzi4BEhJ7C_njs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDA0/MTc4LTE2OTIzMjMy/NTQtMjg3Mi5qcGVn.jpeg" alt="Cover for Intercepted Message" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-08-18</td>
       <td>Thee Oh Sees</td>
@@ -1999,7 +1997,7 @@ Garage punk is a style of punk rock that takes inspiration from garage rock, a r
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/283539eeff9c4813c8f6a557c00d4f5c.png" alt="Cover for Dogging" style="max-width:120px; height:auto;" />
       </td>
