@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-06T23:41:47.703Z
+date: 2025-11-07T03:56:19.530Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-06T23:41:47.703Z">Fri Nov 07 2025 01:41:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-07T03:56:19.530Z">Fri Nov 07 2025 05:56:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [asian]({{ "tags/asian" | relative_url }}) | <time datetime="2025-11-07T03:56:19.530Z">Fri Nov 07 2025 05:56:19 GMT+0200 (Eastern European Standard Time)</time> |
+| [vocal jazz]({{ "tags/vocal-jazz" | relative_url }}) | <time datetime="2025-11-07T03:05:50.235Z">Fri Nov 07 2025 05:05:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [black noise]({{ "tags/black-noise" | relative_url }}) | <time datetime="2025-11-06T23:41:47.703Z">Fri Nov 07 2025 01:41:47 GMT+0200 (Eastern European Standard Time)</time> |
 | [abstract hip hop]({{ "tags/abstract-hip-hop" | relative_url }}) | <time datetime="2025-11-06T23:41:40.663Z">Fri Nov 07 2025 01:41:40 GMT+0200 (Eastern European Standard Time)</time> |
 | [folk pop]({{ "tags/folk-pop" | relative_url }}) | <time datetime="2025-11-06T23:30:47.252Z">Fri Nov 07 2025 01:30:47 GMT+0200 (Eastern European Standard Time)</time> |
@@ -478,10 +480,8 @@ Last updated: <time datetime="2025-11-06T23:41:47.703Z">Fri Nov 07 2025 01:41:47
 | [noise punk]({{ "tags/noise-punk" | relative_url }}) | <time datetime="2025-10-28T15:59:43.224Z">Tue Oct 28 2025 17:59:43 GMT+0200 (Eastern European Standard Time)</time> |
 | [japanese metal]({{ "tags/japanese-metal" | relative_url }}) | <time datetime="2025-10-28T15:59:31.155Z">Tue Oct 28 2025 17:59:31 GMT+0200 (Eastern European Standard Time)</time> |
 | [skate punk]({{ "tags/skate-punk" | relative_url }}) | <time datetime="2025-10-28T15:59:27.114Z">Tue Oct 28 2025 17:59:27 GMT+0200 (Eastern European Standard Time)</time> |
-| [asian]({{ "tags/asian" | relative_url }}) | <time datetime="2025-10-28T15:58:44.543Z">Tue Oct 28 2025 17:58:44 GMT+0200 (Eastern European Standard Time)</time> |
 | [fiddle]({{ "tags/fiddle" | relative_url }}) | <time datetime="2025-10-28T15:58:29.840Z">Tue Oct 28 2025 17:58:29 GMT+0200 (Eastern European Standard Time)</time> |
 | [rap metal]({{ "tags/rap-metal" | relative_url }}) | <time datetime="2025-10-28T15:58:25.765Z">Tue Oct 28 2025 17:58:25 GMT+0200 (Eastern European Standard Time)</time> |
-| [vocal jazz]({{ "tags/vocal-jazz" | relative_url }}) | <time datetime="2025-10-28T15:58:14.423Z">Tue Oct 28 2025 17:58:14 GMT+0200 (Eastern European Standard Time)</time> |
 | [ethnic fusion]({{ "tags/ethnic-fusion" | relative_url }}) | <time datetime="2025-10-28T15:36:39.085Z">Tue Oct 28 2025 17:36:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [folk]({{ "tags/folk" | relative_url }}) | <time datetime="2025-10-28T15:36:19.835Z">Tue Oct 28 2025 17:36:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [j-pixie]({{ "tags/j-pixie" | relative_url }}) | <time datetime="2025-10-28T15:36:08.958Z">Tue Oct 28 2025 17:36:08 GMT+0200 (Eastern European Standard Time)</time> |

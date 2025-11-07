@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T15:58:14.423Z
+date: 2025-11-07T03:05:50.235Z
 permalink: tags/vocal-jazz
 title: vocal jazz
 ---
 
 ## vocal jazz
 
-Last updated: <time datetime="2025-10-28T15:58:14.423Z">Tue Oct 28 2025 17:58:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-07T03:05:50.235Z">Fri Nov 07 2025 05:05:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -15,108 +15,1949 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 21 |  |  | Patty Waters | Sings |
-| 24 | ![Cover](https://i.discogs.com/XSBBf2vSGA3DNKFKHMb2Q3dCGNQVKdfQo5DOu0Pd27U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTg2/OTgtMTMzMjc5ODk1/My5qcGVn.jpeg) | 1948 | Peggy Lee | Rendezvous With Peggy Lee |
-| 67 |  | 1954 | Frank Sinatra | Songs for Young Lovers |
-| 96 |  | 1954 | Chet Baker | Chet Baker Sings |
-| 16 | ![Cover](https://i.discogs.com/8B7E5hibUWBRDfiY_iLkLi2SQA3HBIlrryQXzIMnqRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODc0/MjgtMTY0OTg5NDYz/MC0zMDg2LmpwZWc.jpeg) | 1955 | Judy Garland | Greatest Performances Original Recordings |
-| 94 |  | 1955-04-25 | Frank Sinatra | In the Wee Small Hours |
-| 62 |  | 1955-12 | Julie London | Julie Is Her Name |
-| 49 | ![Cover](https://i.discogs.com/EKEZW1ag11IZugE07JDbsdvmc-xJg4HwV8DNhITXWdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzky/NTktMTU5MDQ1ODcy/OS03OTIxLmpwZWc.jpeg) | 1957 | Ella Fitzgerald | Ella Fitzgerald Sings the Cole Porter Song Book |
-| 68 |  | 1957 | Ella Fitzgerald | Ella Fitzgerald Sings the Duke Ellington Song Book |
-| 3 |  | 1958 | Blossom Dearie | Give Him The Ooh-La-La |
-| 9 | ![Cover](https://i.discogs.com/mtavWGSdgwicjoc-K-k7tPI8z5XFJjlFrLx7xs6k8W4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDYz/OTgtMTUzNjAzNzkw/MS02MTUwLmpwZWc.jpeg) | 1958 | Nat King Cole | The Very Thought of You |
-| 19 |  | 1958-01-06 | Frank Sinatra | Come Fly With Me |
-| 13 | ![Cover](https://i.discogs.com/tCUVcOHYbt-C597LYYpI9I6N1-Iiw2irv4SLZ2-GxB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzM1/MjQtMTUwMzc5NDY4/OS0yMjQxLmpwZWc.jpeg) | 1961 | Sarah Vaughan | Sarah Vaughan At Mister Kelly&#39;s |
-| 45 | ![Cover](https://i.discogs.com/1216O4flMWIQWW5-fEbdj-caDOCL2kM3T8St0hLSACk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzU2/Nzk1LTE1MDM3NTc4/MTUtNzc1NC5qcGVn.jpeg) | 1961 | Keely Smith | The Capitol Years (The Best Of) |
-| 1 |  | 1962 | Tony Bennett | I Left My Heart In San Francisco |
-| 14 | ![Cover](https://i.discogs.com/Yu2bZh3PRz0HjdMi6tvkDWkioloFYeCJA4Y43--vKbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODU5/OTYtMTQ0Nzc3NTIw/NS0yMDI2LmpwZWc.jpeg) | 1963 | Sarah Vaughan | At Mister Kelly&#39;s |
-| 7 |  | 1964 | Nancy Wilson | Today, Tomorrow, Forever |
-| 39 |  | 1964-06-09 | Frank Sinatra &amp; Count Basie | It Might as Well Be Swing |
-| 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7b9791af89e248bfc8698ccb45034ee9.png) | 1965 | Chet Baker | Baker&#39;s Holiday |
-| 83 |  | 1965 | Nina Simone | Pastel Blues |
-| 90 |  | 1965 | Astrud Gilberto | The Shadow Of Your Smile |
-| 61 | ![Cover](https://i.discogs.com/HwWzq4c0Yul0ODt4qB6ga7paQlF0fIbVMfnQi3cs_n0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDIw/MDAtMTQ1NTE3NjY0/MC0zNjMyLmpwZWc.jpeg) | 1965-09 | Frank Sinatra | September Of My Years (Expanded Edition) |
-| 2 | ![Cover](https://i.discogs.com/UDpyeUsu9_n8LByFJ3vxQUK2tRf1IkqoECjiuFWa6L4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjAz/NTAtMTQxNzc3OTMx/Mi0zMTEyLmpwZWc.jpeg) | 1966 | Frank Sinatra | Duets (20th Anniversary Deluxe Edition) |
-| 65 | ![Cover](https://i.discogs.com/y7A7gbBRekJJ0hZi1wnjTFTpWJduDUJSId_nj40ftD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODMw/NzctMTM3Nzg5NDk3/My00NDE4LmpwZWc.jpeg) | 1966 | Frank Sinatra | Greatest Hits |
-| 23 |  | 1967 | Nina Simone | High Priestess Of Soul |
-| 12 | ![Cover](https://i.discogs.com/4MPrFlUpxOK9sbcACI28X7eu6fiGHj2vnW1bUBpkdzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzU3/NzQtMTY3MjY3Mzkx/NS0xNjE1LmpwZWc.jpeg) | 1970 | Nina Simone | The Best Of Nina Simone |
-| 29 | ![Cover](https://i.discogs.com/CsnCP0kT0uY0IwMj-d7burY-g1g8ea9DVVytoc_wW54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA3/NTktMTMzODcwMTAw/Mi05MzA0LmpwZWc.jpeg) | 1970 | Dorothy Ashby | The Rubáiyát of Dorothy Ashby |
-| 37 |  | 1970 | Nina Simone | Black Gold |
-| 30 | ![Cover](https://i.discogs.com/SZEk_48ME-eN3vVtqjayUlMi5Rii0l-57osx_Rh0c9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTk2/NDEtMTQ4NzE5MDA0/NS03NDM2LmpwZWc.jpeg) | 1971 | Frank Sinatra | Songs for Swingin&#39; Lovers! |
-| 89 | ![Cover](https://i.discogs.com/xfUfWgYS-p0LP4ImSrtZhOI61FjG_8ca39LwIEIw0KU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDQw/OTItMTM5NzE1MjAz/My04OTY2LmpwZWc.jpeg) | 1975 | Billie Holiday | Billie Holiday |
-| 8 |  | 1976 | Al Jarreau | Glow |
-| 52 |  | 1977 | Michael Franks | Sleeping Gypsy |
-| 92 | ![Cover](https://i.discogs.com/v3NXMIe5vR0IYXTC2LSpCVFzcqfpQ7Q78jadK_j-tJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzAx/ODEtMTI4MTA5MDYy/NS5qcGVn.jpeg) | 1977 | Tom Waits | Closing Time (Remastered) |
-| 74 |  | 1979-10-23 | Patrice Rushen | Pizzazz |
-| 38 | ![Cover](https://i.discogs.com/6dJoEQ1AsC1683Sek8JbnfXO5jfAKZVSbob2NI11u_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NDcx/NjAtMTQyNTc4NTE5/MC0zNjgyLmpwZWc.jpeg) | 1980 | Bing Crosby | Bing&#39;s Gold Records - The Original Decca Recordings |
-| 71 | ![Cover](https://i.discogs.com/IJQw0PYvGpVz1gAj-sfkkhzlgixpmjH6qFZgFzi9xy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMx/ODQtMTI5NDY3NTQz/Mi5qcGVn.jpeg) | 1984 | Bobby McFerrin | The Collection |
-| 4 |  | 1984-07 | Bobby McFerrin | The Voice |
-| 82 |  | 1984-08 | Frank Sinatra | L.A. Is My Lady |
-| 17 | ![Cover](https://i.discogs.com/YwxqPANNvpuljxcsrtRtVIFqR9Y587bqmNZ_GmuWzD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzc5/MDMtMTI4NDAzNDA0/MS5qcGVn.jpeg) | 1985-07 | Ella Fitzgerald | Mack the Knife: Ella in Berlin |
-| 43 | ![Cover](https://i.discogs.com/xCWjtv7C8jpC_A9Xbk4LUgxmVzDGJUl86PO97Q0p5yw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTY5/MTEtMTU0NDU1NTQ1/Ni0xNjcwLmpwZWc.jpeg) | 1988 | Maria Bethânia | Drama |
-| 85 |  | 1988 | Nina Simone | I Put a Spell on You |
-| 95 |  | 1988 | Louis Armstrong | What A Wonderful World |
-| 56 | ![Cover](https://i.discogs.com/82gslkPqbX0fVhT3dZy5-b3GNDjOr_Cy8ijQ--48fOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzUy/MzgtMTQxNzE4ODAy/NS01ODE0LmpwZWc.jpeg) | 1989 | Nina Simone | In Concert |
-| 91 | ![Cover](https://i.discogs.com/jqgs9Jv4qWj2P-jOnB798JtUoByYbq38ie8CHMpNzQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODc0/NjItMTUyNDIzNzEy/NS04ODM0LmpwZWc.jpeg) | 1991 | Judy Garland | Meet Me in St. Louis |
-| 26 | ![Cover](https://i.discogs.com/URDG_FIoyre1nT5UswC2nevAX_wNb1uZ9CUiF25P3qM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODA2/NzUtMTQzNzMxMTQy/Mi0zODU0LmpwZWc.jpeg) | 1991-10-04 | Holly Cole | Blame It On My Youth |
-| 55 |  | 1992 | Laura Fygi | Bewitched |
-| 57 | ![Cover](https://i.discogs.com/cz-bRZTm3rAVqNcEF54mxUm1atcIDe7RzO14YKFYMjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDU4/MDgtMTU0MDA2MjU0/MC02ODYxLmpwZWc.jpeg) | 1992-05-12 | Shirley Horn | Here&#39;s To Life |
-| 6 | ![Cover](https://i.discogs.com/Ztwm8GeX_sh7Y81kqYGyZnnF-MJxBVoh2TatCU8bp-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzUz/NTMtMTU4NjgxMjcz/NS00NTYwLmpwZWc.jpeg) | 1997 | Kurt Elling | The Messenger |
-| 63 |  | 1997-09-16 | Stacey Kent | Close Your Eyes |
-| 58 |  | 1997-11-24 | Frank Sinatra | My Way: The Best of Frank Sinatra |
-| 47 | ![Cover](https://i.discogs.com/xYvGWwOrTHCV5DHYM4-mJVK7BN1Ic0h_66nAp0WAvs0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/NzMtMTIxODcwMDAz/OC5qcGVn.jpeg) | 1999 | Doris Day | Golden Girl (The Columbia Recordings 1944-1966) |
-| 20 | ![Cover](https://i.discogs.com/8sUY_NS6IoMQO8wwtDkUZrFSJcz8wfIKvZC6d0Yi7OE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzQ1/Mi0xMTY1NjAxNjYy/LmpwZWc.jpeg) | 2001 | Nina Simone | Nina At the Village Gate |
-| 36 |  | 2001 | Silje Nergaard | At First Light |
-| 59 | ![Cover](https://i.discogs.com/0FoZvGAJ1HILw93teTMUf0ykvM2ST0u-v-EWLRmymd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTUx/NDUtMTYxMDM2MzQ0/Mi0zMzE1LmpwZWc.jpeg) | 2001 | Frank Sinatra | Strangers in the Night |
-| 72 | ![Cover](https://i.discogs.com/fFGSP095ieaZIvgIj7X5sNxKTZsWDybWSamC1hkHqi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTM3/LTAwMS5qcGc.jpeg) | 2001-05-28 | Beady Belle | Home |
-| 75 |  | 2001-05-29 | Stacey Kent | Dreamsville |
-| 79 | ![Cover](https://i.discogs.com/ooRWXm4wg0696gxTi6FbIqKSqvLLF1SW1r475_OV2GU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTgy/MzAtMTQxNjMzNjE5/NS0xNDY3LmpwZWc.jpeg) | 2001-09-17 | Billie Holiday | The Lady Sings |
-| 11 |  | 2002-05-11 | Tony Bennett &amp; k.d. lang | A Wonderful World |
-| 34 |  | 2003-06-10 | Bing Crosby | The Essential Bing Crosby - The Columbia Years |
-| 10 |  | 2003-09-09 | Michael Bublé | Totally Bublé |
-| 53 |  | 2003-10-28 | Steve Tyrell | This Guy&#39;s In Love |
-| 77 |  | 2004-05-11 | Renee Olstead | Renee Olstead |
-| 54 | ![Cover](https://i.discogs.com/Uik1PfGo1jf8jZzUU9Xr6jnHLSmqQZm-8MJV2fYsaJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NjIy/MC0xMzMyMzE0OTk5/LmpwZWc.jpeg) | 2004-09-08 | Lisa Ekdahl | Olyckssyster |
-| 73 |  | 2004-10-12 | Sophie Milman | Sophie Milman |
-| 28 |  | 2005-07-19 | Carly Simon | Moonlight Serenade |
-| 5 | ![Cover](https://i.discogs.com/luY-wAkL3nx4UAJELgJ7-M48_cJP3YxAHheHej0tOv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDM0/NTMtMTQ0NDk0NDA4/Ni03MjExLmpwZWc.jpeg) | 2006 | Maria Bethânia | A Tua Presenca |
-| 25 |  | 2006-01-16 | Lisa Ekdahl | Pärlor Av Glas |
-| 31 | ![Cover](https://i.discogs.com/4eQe-qVi0U0G9IJpo4afTauATt32I0Tu9TkGJA9OC98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTcw/NjUtMTM5MjMzOTM0/MS00ODI0LmpwZWc.jpeg) | 2006-03-27 | Fredrika Stahl | A Fraction Of You |
-| 51 | ![Cover](https://i.discogs.com/V_K_Q5OREzstp9c5K_qoI6k99uyjPf6wLd9TRnq1QIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQx/NDEtMTE5MTY4Mzk1/NC5qcGVn.jpeg) | 2006-09-04 | Rebekka Bakken | I Keep My Cool |
-| 93 | ![Cover](https://i.discogs.com/rRF6XFzJvLaYoCIbzF0-voqCCs9bPEUvfBUmF7XZy6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzk0/MDctMTQzMjI5NzM0/Ni0zNzA0LmpwZWc.jpeg) | 2007 | Melody Gardot | Worrisome Heart |
-| 64 |  | 2007-04-27 | Michael Bublé | Call Me Irresponsible |
-| 15 | ![Cover](https://i.discogs.com/T4cjK9rx-BnzIIefQVbbIbvATRSwU64FWsA3AOoBCTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDY2/NDYtMTY3MTIyNDA5/My04Njk4LmpwZWc.jpeg) | 2007-05-11 | Malia | Young Bones |
-| 48 | ![Cover](https://i.discogs.com/Wdjbv3YhnBh49NHPkD3q862_9GCjb8Qy0KN91Zl7sLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODE1/NjktMTIzNjc2ODU5/Mi5qcGVn.jpeg) | 2007-09 | SunSay | SunSay |
-| 66 |  |  | Michael Bublé | Caught in the Act |
-| 98 | ![Cover](https://i.discogs.com/r9O74eCsYTREhjikFUDyuWnkYpuzPxW30YpV2LKUiFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDM5/MDQtMTQyMjkxMTU4/Ni02NDUwLmpwZWc.jpeg) | 2004 | Frank Sinatra | That&#39;s Life |
-| 88 |  | 2007-09-07 | Stacey Kent | Breakfast On The Morning Tram |
-| 42 |  | 2008 | Norah Jones | The Greatest Hits |
-| 86 | ![Cover](https://i.discogs.com/HOSjQisWZsrIqEV8ig9a_zKYc5P1HI63Ovpr8vkrWrI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzMy/MDUtMTU0ODEwNjM0/OC04MTE5LmpwZWc.jpeg) | 2008-12-16 | Melody Gardot | My One And Only Thrill |
-| 44 | ![Cover](https://i.discogs.com/lz0b-C9ma3y7Vr9hOKf8I1eiov1HNJSNMrGi3aQzcVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzgx/NTUtMTM0MjUxMjc0/Ni01NjMyLmpwZWc.jpeg) | 2010 | Stacey Kent | Raconte-Moi |
-| 40 |  | 2010-03-17 | Stacey Kent | Raconte-Moi... |
-| 41 | ![Cover](https://i.discogs.com/lz0b-C9ma3y7Vr9hOKf8I1eiov1HNJSNMrGi3aQzcVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzgx/NTUtMTM0MjUxMjc0/Ni01NjMyLmpwZWc.jpeg) | 2010-03-23 | Stacey Kent | Raconte-Moi. |
-| 50 |  | 2010-10-12 | Emilie-Claire Barlow | The Beat Goes On |
-| 35 |  | 2011-06-14 | Madeleine Peyroux | Standing On The Rooftop |
-| 22 | ![Cover](https://i.discogs.com/6ArYvItjk0WxJPkUcv3XB6PE4SwXibAq_kANmKassZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDYw/NDgtMTYyNTM0NDA0/NS0xMjI3LmpwZWc.jpeg) | 2011-08-31 | Stacey Kent | Dreamer In Concert |
-| 33 |  | 2012-01-27 | Robbie Williams | Beyond The Sea |
-| 78 |  | 2012-05-15 | Melody Gardot | The Absence |
-| 46 |  | 2013-03-05 | Madeleine Peyroux | The Blue Room |
-| 76 |  | 2013-03-15 | Melanie De Biasio | No Deal |
-| 80 |  | 2013-03-28 | Gregory Porter | Liquid Spirit |
-| 60 | ![Cover](https://i.discogs.com/VfnG8ktBB4aFRsWXSSbv0mPTCay5trgPssni1QZpuU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTcx/ODEtMTQyODA5NzA1/MC02MDU1LmpwZWc.jpeg) | 2015 | Gregory Porter | Liquid Spirit (Deluxe Version) |
-| 87 | ![Cover](https://i.discogs.com/p1yRQUpxPMrgpdj9F5vwgVc8aLId_QWeAj7OY470S28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTQ3/NzQtMTM2OTA0Njcy/OS01MzMyLmpwZWc.jpeg) | 2017 | Dean Martin | This Time I&#39;m Swingin&#39; |
-| 69 | ![Cover](https://i.discogs.com/C0LP4DBL2eFgHXydTgxleTaxzcZRlVcq9h2DOAjqBwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODAy/NzctMTMyODEyNDIy/MC5naWY.jpeg) | 2019-02-22 | Ella Fitzgerald | Ella &amp; Louis Christmas |
-| 18 | ![Cover](https://i.discogs.com/WfNvwQeVsGhaFVbDoQTWMFmIgQdngJncMRrl4c6liSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTg4/MjAwLTE2MzQyMjUw/NDItMjg4Ni5qcGVn.jpeg) | 2021 | Norah Jones | I Dream of Christmas |
-| 32 | ![Cover](https://i.discogs.com/yCKBG1ai4EqH196U-PrESVODfUtPI1xmKAFIhwftbfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTg1/NDM4LTE2MjY5Njk4/NjItNjEwNy5qcGVn.jpeg) | 2021-07-09 | Samara Joy | Samara Joy |
-| 99 | ![Cover](https://i.discogs.com/Yxxw3T3O-MU-9c4Li6D_MPB5CGdC-ffLFN1haavhqDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjMy/ODEzLTE2Mzg2Njk1/NzUtNjczNC5qcGVn.jpeg) | 2021-11-12 | Michael Bublé | Christmas (Deluxe Special Edition) |
-| 97 | ![Cover](https://i.discogs.com/xhR_Cl_mKl8YHg867JrKaPpHwpRiGLtVKx5F7w978qs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzUy/MjgtMTQ4MTIyNjMz/MS0yMDIwLmpwZWc.jpeg) | 2022-03-01 | Mitski | Lush |
-| 70 | ![Cover](https://i.discogs.com/C8-8Be7IWlU8QLdszUbfe4hjk_BsqRjDA1mSqlqnSEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTM0/MjQ1LTE2NjMzNDYx/MTEtMTY0NC5qcGVn.jpeg) | 2022-09-16 | Samara Joy | Linger Awhile |
-| 27 | ![Cover](https://i.discogs.com/XLgBepPcYjpnWLeFRHfYEqx10MtPROyRrdfL8kl1_J8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjAy/NDAxLTE2ODUxNjI1/MDAtMzEzNC5qcGVn.jpeg) | 2022-10-28 | Natalia Lafourcade | De todas las flores |
-| 84 | ![Cover](https://i.discogs.com/xIyIojtgfzTmhOXby45cvWxm43-FYSLBZe9HNaLfss8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQ1/MDg1LTE2ODIxODkz/MjMtNzU1OS5qcGVn.jpeg) | 2023-04-22 | Laufey | The Reykjavík Sessions |
-| 100 | ![Cover](https://i.discogs.com/MLs0_tEInmsCQIt6mZ-s9VZio_8h3AoQ6D48f8UIFAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjAx/NTMxLTE2OTQxNDk5/ODctNTMwOC5qcGVn.jpeg) | 2023-09-08 | Laufey | Bewitched |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/XSBBf2vSGA3DNKFKHMb2Q3dCGNQVKdfQo5DOu0Pd27U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTg2/OTgtMTMzMjc5ODk1/My5qcGVn.jpeg" alt="Cover for Rendezvous With Peggy Lee" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1948</td>
+      <td>Peggy Lee</td>
+      <td>Rendezvous With Peggy Lee</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td>1954</td>
+      <td>Frank Sinatra</td>
+      <td>Songs for Young Lovers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 61</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td>1954</td>
+      <td>Chet Baker</td>
+      <td>Chet Baker Sings</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 98</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e81a302e04f0a9c5fb8d9143c782289.png" alt="Cover for Greatest Performances Original Recordings" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1955</td>
+      <td>Judy Garland</td>
+      <td>Greatest Performances Original Recordings</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musical" | relative_url }}">musical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>1955-04-25</td>
+      <td>Frank Sinatra</td>
+      <td>In the Wee Small Hours</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 25</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td>1955-12</td>
+      <td>Julie London</td>
+      <td>Julie Is Her Name</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 21</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 84</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/EKEZW1ag11IZugE07JDbsdvmc-xJg4HwV8DNhITXWdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzky/NTktMTU5MDQ1ODcy/OS03OTIxLmpwZWc.jpeg" alt="Cover for Ella Fitzgerald Sings the Cole Porter Song Book" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1957</td>
+      <td>Ella Fitzgerald</td>
+      <td>Ella Fitzgerald Sings the Cole Porter Song Book</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>1957</td>
+      <td>Ella Fitzgerald</td>
+      <td>Ella Fitzgerald Sings the Duke Ellington Song Book</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>1958</td>
+      <td>Blossom Dearie</td>
+      <td>Give Him The Ooh-La-La</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/mtavWGSdgwicjoc-K-k7tPI8z5XFJjlFrLx7xs6k8W4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDYz/OTgtMTUzNjAzNzkw/MS02MTUwLmpwZWc.jpeg" alt="Cover for The Very Thought of You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1958</td>
+      <td>Nat King Cole</td>
+      <td>The Very Thought of You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td>1958-01-06</td>
+      <td>Frank Sinatra</td>
+      <td>Come Fly With Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/tCUVcOHYbt-C597LYYpI9I6N1-Iiw2irv4SLZ2-GxB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzM1/MjQtMTUwMzc5NDY4/OS0yMjQxLmpwZWc.jpeg" alt="Cover for Sarah Vaughan At Mister Kelly&#39;s" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1961</td>
+      <td>Sarah Vaughan</td>
+      <td>Sarah Vaughan At Mister Kelly&#39;s</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/1216O4flMWIQWW5-fEbdj-caDOCL2kM3T8St0hLSACk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzU2/Nzk1LTE1MDM3NTc4/MTUtNzc1NC5qcGVn.jpeg" alt="Cover for The Capitol Years (The Best Of)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1961</td>
+      <td>Keely Smith</td>
+      <td>The Capitol Years (The Best Of)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/Yu2bZh3PRz0HjdMi6tvkDWkioloFYeCJA4Y43--vKbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODU5/OTYtMTQ0Nzc3NTIw/NS0yMDI2LmpwZWc.jpeg" alt="Cover for At Mister Kelly&#39;s" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1963</td>
+      <td>Sarah Vaughan</td>
+      <td>At Mister Kelly&#39;s</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td>1964</td>
+      <td>Nancy Wilson</td>
+      <td>Today, Tomorrow, Forever</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td>1964-06-09</td>
+      <td>Frank Sinatra &amp; Count Basie</td>
+      <td>It Might as Well Be Swing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td>1965</td>
+      <td>Nina Simone</td>
+      <td>Pastel Blues</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>1965</td>
+      <td>Astrud Gilberto</td>
+      <td>The Shadow Of Your Smile</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 71</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b9791af89e248bfc8698ccb45034ee9.png" alt="Cover for Baker&#39;s Holiday" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1965</td>
+      <td>Chet Baker</td>
+      <td>Baker&#39;s Holiday</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/HwWzq4c0Yul0ODt4qB6ga7paQlF0fIbVMfnQi3cs_n0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDIw/MDAtMTQ1NTE3NjY0/MC0zNjMyLmpwZWc.jpeg" alt="Cover for September Of My Years (Expanded Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1965-09</td>
+      <td>Frank Sinatra</td>
+      <td>September Of My Years (Expanded Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/UDpyeUsu9_n8LByFJ3vxQUK2tRf1IkqoECjiuFWa6L4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjAz/NTAtMTQxNzc3OTMx/Mi0zMTEyLmpwZWc.jpeg" alt="Cover for Duets (20th Anniversary Deluxe Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1966</td>
+      <td>Frank Sinatra</td>
+      <td>Duets (20th Anniversary Deluxe Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/y7A7gbBRekJJ0hZi1wnjTFTpWJduDUJSId_nj40ftD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODMw/NzctMTM3Nzg5NDk3/My00NDE4LmpwZWc.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1966</td>
+      <td>Frank Sinatra</td>
+      <td>Greatest Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td>1967</td>
+      <td>Nina Simone</td>
+      <td>High Priestess Of Soul</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/CsnCP0kT0uY0IwMj-d7burY-g1g8ea9DVVytoc_wW54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA3/NTktMTMzODcwMTAw/Mi05MzA0LmpwZWc.jpeg" alt="Cover for The Rubáiyát of Dorothy Ashby" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1970</td>
+      <td>Dorothy Ashby</td>
+      <td>The Rubáiyát of Dorothy Ashby</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 58</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 80</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 90</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/4MPrFlUpxOK9sbcACI28X7eu6fiGHj2vnW1bUBpkdzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzU3/NzQtMTY3MjY3Mzkx/NS0xNjE1LmpwZWc.jpeg" alt="Cover for The Best Of Nina Simone" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1970</td>
+      <td>Nina Simone</td>
+      <td>The Best Of Nina Simone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td>1970</td>
+      <td>Nina Simone</td>
+      <td>Black Gold</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/SZEk_48ME-eN3vVtqjayUlMi5Rii0l-57osx_Rh0c9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTk2/NDEtMTQ4NzE5MDA0/NS03NDM2LmpwZWc.jpeg" alt="Cover for Songs for Swingin&#39; Lovers!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971</td>
+      <td>Frank Sinatra</td>
+      <td>Songs for Swingin&#39; Lovers!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/xfUfWgYS-p0LP4ImSrtZhOI61FjG_8ca39LwIEIw0KU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDQw/OTItMTM5NzE1MjAz/My04OTY2LmpwZWc.jpeg" alt="Cover for Billie Holiday" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975</td>
+      <td>Billie Holiday</td>
+      <td>Billie Holiday</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 25</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>1976</td>
+      <td>Al Jarreau</td>
+      <td>Glow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/v3NXMIe5vR0IYXTC2LSpCVFzcqfpQ7Q78jadK_j-tJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzAx/ODEtMTI4MTA5MDYy/NS5qcGVn.jpeg" alt="Cover for Closing Time (Remastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Tom Waits</td>
+      <td>Closing Time (Remastered)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Michael Franks</td>
+      <td>Sleeping Gypsy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td>1979-10-23</td>
+      <td>Patrice Rushen</td>
+      <td>Pizzazz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/6dJoEQ1AsC1683Sek8JbnfXO5jfAKZVSbob2NI11u_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NDcx/NjAtMTQyNTc4NTE5/MC0zNjgyLmpwZWc.jpeg" alt="Cover for Bing&#39;s Gold Records - The Original Decca Recordings" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980</td>
+      <td>Bing Crosby</td>
+      <td>Bing&#39;s Gold Records - The Original Decca Recordings</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/IJQw0PYvGpVz1gAj-sfkkhzlgixpmjH6qFZgFzi9xy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMx/ODQtMTI5NDY3NTQz/Mi5qcGVn.jpeg" alt="Cover for The Collection" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>Bobby McFerrin</td>
+      <td>The Collection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td>1984-07</td>
+      <td>Bobby McFerrin</td>
+      <td>The Voice</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>1984-08</td>
+      <td>Frank Sinatra</td>
+      <td>L.A. Is My Lady</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/YwxqPANNvpuljxcsrtRtVIFqR9Y587bqmNZ_GmuWzD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzc5/MDMtMTI4NDAzNDA0/MS5qcGVn.jpeg" alt="Cover for Mack the Knife: Ella in Berlin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985-07</td>
+      <td>Ella Fitzgerald</td>
+      <td>Mack the Knife: Ella in Berlin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 74</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/xCWjtv7C8jpC_A9Xbk4LUgxmVzDGJUl86PO97Q0p5yw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTY5/MTEtMTU0NDU1NTQ1/Ni0xNjcwLmpwZWc.jpeg" alt="Cover for Drama" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Maria Bethânia</td>
+      <td>Drama</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 8</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36ce8d02b77ef674d05fb4cca94a2706.png" alt="Cover for I Put a Spell on You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Nina Simone</td>
+      <td>I Put a Spell on You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>1988</td>
+      <td>Louis Armstrong</td>
+      <td>What A Wonderful World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/82gslkPqbX0fVhT3dZy5-b3GNDjOr_Cy8ijQ--48fOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzUy/MzgtMTQxNzE4ODAy/NS01ODE0LmpwZWc.jpeg" alt="Cover for In Concert" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Nina Simone</td>
+      <td>In Concert</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/jqgs9Jv4qWj2P-jOnB798JtUoByYbq38ie8CHMpNzQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODc0/NjItMTUyNDIzNzEy/NS04ODM0LmpwZWc.jpeg" alt="Cover for Meet Me in St. Louis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Judy Garland</td>
+      <td>Meet Me in St. Louis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musical" | relative_url }}">musical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/URDG_FIoyre1nT5UswC2nevAX_wNb1uZ9CUiF25P3qM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODA2/NzUtMTQzNzMxMTQy/Mi0zODU0LmpwZWc.jpeg" alt="Cover for Blame It On My Youth" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991-10-04</td>
+      <td>Holly Cole</td>
+      <td>Blame It On My Youth</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td>1992</td>
+      <td>Laura Fygi</td>
+      <td>Bewitched</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/cz-bRZTm3rAVqNcEF54mxUm1atcIDe7RzO14YKFYMjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDU4/MDgtMTU0MDA2MjU0/MC02ODYxLmpwZWc.jpeg" alt="Cover for Here&#39;s To Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992-05-12</td>
+      <td>Shirley Horn</td>
+      <td>Here&#39;s To Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/horn" | relative_url }}">horn</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/Ztwm8GeX_sh7Y81kqYGyZnnF-MJxBVoh2TatCU8bp-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzUz/NTMtMTU4NjgxMjcz/NS00NTYwLmpwZWc.jpeg" alt="Cover for The Messenger" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Kurt Elling</td>
+      <td>The Messenger</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>1997-09-16</td>
+      <td>Stacey Kent</td>
+      <td>Close Your Eyes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>1997-11-24</td>
+      <td>Frank Sinatra</td>
+      <td>My Way: The Best of Frank Sinatra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/xYvGWwOrTHCV5DHYM4-mJVK7BN1Ic0h_66nAp0WAvs0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/NzMtMTIxODcwMDAz/OC5qcGVn.jpeg" alt="Cover for Golden Girl (The Columbia Recordings 1944-1966)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Doris Day</td>
+      <td>Golden Girl (The Columbia Recordings 1944-1966)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/8sUY_NS6IoMQO8wwtDkUZrFSJcz8wfIKvZC6d0Yi7OE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzQ1/Mi0xMTY1NjAxNjYy/LmpwZWc.jpeg" alt="Cover for Nina At the Village Gate" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Nina Simone</td>
+      <td>Nina At the Village Gate</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>Silje Nergaard</td>
+      <td>At First Light</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/0FoZvGAJ1HILw93teTMUf0ykvM2ST0u-v-EWLRmymd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTUx/NDUtMTYxMDM2MzQ0/Mi0zMzE1LmpwZWc.jpeg" alt="Cover for Strangers in the Night" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Frank Sinatra</td>
+      <td>Strangers in the Night</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/fFGSP095ieaZIvgIj7X5sNxKTZsWDybWSamC1hkHqi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTM3/LTAwMS5qcGc.jpeg" alt="Cover for Home" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-05-28</td>
+      <td>Beady Belle</td>
+      <td>Home</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td>2001-05-29</td>
+      <td>Stacey Kent</td>
+      <td>Dreamsville</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/ooRWXm4wg0696gxTi6FbIqKSqvLLF1SW1r475_OV2GU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTgy/MzAtMTQxNjMzNjE5/NS0xNDY3LmpwZWc.jpeg" alt="Cover for The Lady Sings" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-09-17</td>
+      <td>Billie Holiday</td>
+      <td>The Lady Sings</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 57</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+      </td>
+      <td>2002-05-11</td>
+      <td>Tony Bennett &amp; k.d. lang</td>
+      <td>A Wonderful World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mastersinger" | relative_url }}">mastersinger</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mastersinger" | relative_url }}">mastersinger</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+      </td>
+      <td>2003-06-10</td>
+      <td>Bing Crosby</td>
+      <td>The Essential Bing Crosby - The Columbia Years</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td>2003-09-09</td>
+      <td>Michael Bublé</td>
+      <td>Totally Bublé</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+      </td>
+      <td>2003-10-28</td>
+      <td>Steve Tyrell</td>
+      <td>This Guy&#39;s In Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/r9O74eCsYTREhjikFUDyuWnkYpuzPxW30YpV2LKUiFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDM5/MDQtMTQyMjkxMTU4/Ni02NDUwLmpwZWc.jpeg" alt="Cover for That&#39;s Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Frank Sinatra</td>
+      <td>That&#39;s Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56f4a3d4bbac40a8a49520f21d50b036.png" alt="Cover for Feels Like Home" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-02-06</td>
+      <td>Norah Jones</td>
+      <td>Feels Like Home</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2004-05-11</td>
+      <td>Renee Olstead</td>
+      <td>Renee Olstead</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/Uik1PfGo1jf8jZzUU9Xr6jnHLSmqQZm-8MJV2fYsaJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NjIy/MC0xMzMyMzE0OTk5/LmpwZWc.jpeg" alt="Cover for Olyckssyster" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-09-08</td>
+      <td>Lisa Ekdahl</td>
+      <td>Olyckssyster</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>2004-10-12</td>
+      <td>Sophie Milman</td>
+      <td>Sophie Milman</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td>2005-07-19</td>
+      <td>Carly Simon</td>
+      <td>Moonlight Serenade</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/luY-wAkL3nx4UAJELgJ7-M48_cJP3YxAHheHej0tOv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDM0/NTMtMTQ0NDk0NDA4/Ni03MjExLmpwZWc.jpeg" alt="Cover for A Tua Presenca" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Maria Bethânia</td>
+      <td>A Tua Presenca</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+      </td>
+      <td>2006-01-16</td>
+      <td>Lisa Ekdahl</td>
+      <td>Pärlor Av Glas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/4eQe-qVi0U0G9IJpo4afTauATt32I0Tu9TkGJA9OC98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTcw/NjUtMTM5MjMzOTM0/MS00ODI0LmpwZWc.jpeg" alt="Cover for A Fraction Of You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-03-27</td>
+      <td>Fredrika Stahl</td>
+      <td>A Fraction Of You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/V_K_Q5OREzstp9c5K_qoI6k99uyjPf6wLd9TRnq1QIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQx/NDEtMTE5MTY4Mzk1/NC5qcGVn.jpeg" alt="Cover for I Keep My Cool" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-09-04</td>
+      <td>Rebekka Bakken</td>
+      <td>I Keep My Cool</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/rRF6XFzJvLaYoCIbzF0-voqCCs9bPEUvfBUmF7XZy6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzk0/MDctMTQzMjI5NzM0/Ni0zNzA0LmpwZWc.jpeg" alt="Cover for Worrisome Heart" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Melody Gardot</td>
+      <td>Worrisome Heart</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td>2007-04-27</td>
+      <td>Michael Bublé</td>
+      <td>Call Me Irresponsible</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 67</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/T4cjK9rx-BnzIIefQVbbIbvATRSwU64FWsA3AOoBCTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDY2/NDYtMTY3MTIyNDA5/My04Njk4LmpwZWc.jpeg" alt="Cover for Young Bones" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-05-11</td>
+      <td>Malia</td>
+      <td>Young Bones</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>2007-09-07</td>
+      <td>Stacey Kent</td>
+      <td>Breakfast On The Morning Tram</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/Wdjbv3YhnBh49NHPkD3q862_9GCjb8Qy0KN91Zl7sLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODE1/NjktMTIzNjc2ODU5/Mi5qcGVn.jpeg" alt="Cover for SunSay" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-09</td>
+      <td>SunSay</td>
+      <td>SunSay</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Norah Jones</td>
+      <td>The Greatest Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 4</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/HOSjQisWZsrIqEV8ig9a_zKYc5P1HI63Ovpr8vkrWrI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzMy/MDUtMTU0ODEwNjM0/OC04MTE5LmpwZWc.jpeg" alt="Cover for My One And Only Thrill" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-12-16</td>
+      <td>Melody Gardot</td>
+      <td>My One And Only Thrill</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/lz0b-C9ma3y7Vr9hOKf8I1eiov1HNJSNMrGi3aQzcVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzgx/NTUtMTM0MjUxMjc0/Ni01NjMyLmpwZWc.jpeg" alt="Cover for Raconte-Moi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Stacey Kent</td>
+      <td>Raconte-Moi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 6</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td>2010-03-17</td>
+      <td>Stacey Kent</td>
+      <td>Raconte-Moi...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/lz0b-C9ma3y7Vr9hOKf8I1eiov1HNJSNMrGi3aQzcVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzgx/NTUtMTM0MjUxMjc0/Ni01NjMyLmpwZWc.jpeg" alt="Cover for Raconte-Moi." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-03-23</td>
+      <td>Stacey Kent</td>
+      <td>Raconte-Moi.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+      </td>
+      <td>2010-10-12</td>
+      <td>Emilie-Claire Barlow</td>
+      <td>The Beat Goes On</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td>2011-06-14</td>
+      <td>Madeleine Peyroux</td>
+      <td>Standing On The Rooftop</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/6ArYvItjk0WxJPkUcv3XB6PE4SwXibAq_kANmKassZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDYw/NDgtMTYyNTM0NDA0/NS0xMjI3LmpwZWc.jpeg" alt="Cover for Dreamer In Concert" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-08-31</td>
+      <td>Stacey Kent</td>
+      <td>Dreamer In Concert</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td>2012-01-27</td>
+      <td>Robbie Williams</td>
+      <td>Beyond The Sea</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-band" | relative_url }}">big band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>2012-05-15</td>
+      <td>Melody Gardot</td>
+      <td>The Absence</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td>2013-03-05</td>
+      <td>Madeleine Peyroux</td>
+      <td>The Blue Room</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+      </td>
+      <td>2013-03-15</td>
+      <td>Melanie De Biasio</td>
+      <td>No Deal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>2013-03-28</td>
+      <td>Gregory Porter</td>
+      <td>Liquid Spirit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/VfnG8ktBB4aFRsWXSSbv0mPTCay5trgPssni1QZpuU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTcx/ODEtMTQyODA5NzA1/MC02MDU1LmpwZWc.jpeg" alt="Cover for Liquid Spirit (Deluxe Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Gregory Porter</td>
+      <td>Liquid Spirit (Deluxe Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/p1yRQUpxPMrgpdj9F5vwgVc8aLId_QWeAj7OY470S28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTQ3/NzQtMTM2OTA0Njcy/OS01MzMyLmpwZWc.jpeg" alt="Cover for This Time I&#39;m Swingin&#39;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Dean Martin</td>
+      <td>This Time I&#39;m Swingin&#39;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/C0LP4DBL2eFgHXydTgxleTaxzcZRlVcq9h2DOAjqBwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODAy/NzctMTMyODEyNDIy/MC5naWY.jpeg" alt="Cover for Ella &amp; Louis Christmas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-02-22</td>
+      <td>Ella Fitzgerald</td>
+      <td>Ella &amp; Louis Christmas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10302ef299d42100f7873eb12ed06505.png" alt="Cover for I Dream of Christmas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>Norah Jones</td>
+      <td>I Dream of Christmas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/yCKBG1ai4EqH196U-PrESVODfUtPI1xmKAFIhwftbfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTg1/NDM4LTE2MjY5Njk4/NjItNjEwNy5qcGVn.jpeg" alt="Cover for Samara Joy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-07-09</td>
+      <td>Samara Joy</td>
+      <td>Samara Joy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/Yxxw3T3O-MU-9c4Li6D_MPB5CGdC-ffLFN1haavhqDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjMy/ODEzLTE2Mzg2Njk1/NzUtNjczNC5qcGVn.jpeg" alt="Cover for Christmas (Deluxe Special Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-11-12</td>
+      <td>Michael Bublé</td>
+      <td>Christmas (Deluxe Special Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/xhR_Cl_mKl8YHg867JrKaPpHwpRiGLtVKx5F7w978qs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzUy/MjgtMTQ4MTIyNjMz/MS0yMDIwLmpwZWc.jpeg" alt="Cover for Lush" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-03-01</td>
+      <td>Mitski</td>
+      <td>Lush</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 11</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 89</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/C8-8Be7IWlU8QLdszUbfe4hjk_BsqRjDA1mSqlqnSEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTM0/MjQ1LTE2NjMzNDYx/MTEtMTY0NC5qcGVn.jpeg" alt="Cover for Linger Awhile" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-09-16</td>
+      <td>Samara Joy</td>
+      <td>Linger Awhile</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/XLgBepPcYjpnWLeFRHfYEqx10MtPROyRrdfL8kl1_J8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjAy/NDAxLTE2ODUxNjI1/MDAtMzEzNC5qcGVn.jpeg" alt="Cover for De todas las flores" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-10-28</td>
+      <td>Natalia Lafourcade</td>
+      <td>De todas las flores</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 80</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/xIyIojtgfzTmhOXby45cvWxm43-FYSLBZe9HNaLfss8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQ1/MDg1LTE2ODIxODkz/MjMtNzU1OS5qcGVn.jpeg" alt="Cover for The Reykjavík Sessions" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-04-22</td>
+      <td>Laufey</td>
+      <td>The Reykjavík Sessions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/MLs0_tEInmsCQIt6mZ-s9VZio_8h3AoQ6D48f8UIFAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjAx/NTMxLTE2OTQxNDk5/ODctNTMwOC5qcGVn.jpeg" alt="Cover for Bewitched" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-09-08</td>
+      <td>Laufey</td>
+      <td>Bewitched</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 97</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Patty Waters</td>
+      <td>Sings</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Michael Bublé</td>
+      <td>Caught in the Act</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
