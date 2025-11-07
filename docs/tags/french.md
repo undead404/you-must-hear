@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T20:29:19.027Z
+date: 2025-11-07T12:01:28.419Z
 permalink: tags/french
 title: french
 ---
 
 ## french
 
-Last updated: <time datetime="2025-10-28T20:29:19.027Z">Tue Oct 28 2025 22:29:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-07T12:01:28.419Z">Fri Nov 07 2025 14:01:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -15,108 +15,2031 @@ French music refers to the music created or produced in France or by French-spea
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 14 |  | 1956 | Édith Piaf | La vie en rose |
-| 46 |  | 1968-11 | Françoise Hardy | Comment te dire adieu |
-| 20 |  | 1971 | Françoise Hardy | La Question |
-| 43 | ![Cover](https://i.discogs.com/HiDGPMpH3dMbH0cH4_MupiBAxqT6jHCB7cin91KjyCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE5/NC0xNjc0NDY2NzI0/LTY0NDMuanBlZw.jpeg) | 1977 | Plastic Bertrand | Ca Plane Pour Moi |
-| 45 | ![Cover](https://i.discogs.com/-uxy2Bvi-9_Qqr6oN286CqPn9woq5r5LFC0UUIp_LPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTAy/MzQtMTQzMTYwOTU0/Ni0xNzgwLmpwZWc.jpeg) | 1977 | Françoise Hardy | Tous les garcons et les filles |
-| 13 | ![Cover](https://i.discogs.com/Mw6zjdZJiJ5eq-TL3VTGCb0_IDJ25G7U1QlJSwCU41U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDQy/MzgtMTQ5MDEwMjA3/OS0zNDk5LmpwZWc.jpeg) | 1987 | Françoise Hardy | Vogue Years |
-| 39 |  | 1987 | Vanessa Paradis | M &amp; J |
-| 50 | ![Cover](https://i.discogs.com/KkAFU7kpRH8GmGj2kdxSiYD3_P2FJqtfToPYkoF8H_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTgx/OC0xNTk0NjQyNTE2/LTEzMzMuanBlZw.jpeg) | 1987 | Édith Piaf | The Very Best Of Edith Piaf |
-| 61 | ![Cover](https://i.discogs.com/Lvq7EOXx9Vyb1gn0G0pOsVyucktJVSptOE4lM0_QZ-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODgz/NTktMTU3Mzc2MzUx/NC01NjEyLmpwZWc.jpeg) | 1987 | Carla | Bim Bam toi |
-| 12 | ![Cover](https://i.discogs.com/tZYchnmOaFtVLSy0A0L1kWMlBEyIrY7iRjKjkWVrV2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTIw/OTAtMTQ5NzA3OTY1/My0yMTQxLmpwZWc.jpeg) | 1988 | Édith Piaf | Eternelle |
-| 3 | ![Cover](https://i.discogs.com/J1pZuLs6wqMc-799ME4Rs0j6kNCBdznBFbHVUFe1a6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk1/MjMtMTIwNTA5NzY2/NC5qcGVn.jpeg) | 1988-03-14 | Mylène Farmer | Ainsi Soit Je |
-| 2 |  | 1988-04 | Mylène Farmer | Ainsi soit je... |
-| 44 | ![Cover](https://i.discogs.com/rTD_Vk_cMhaV_pO8te_cHG31uvPrbwjVFETKyDRhP7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjQ5/OS0xNDYwOTg0MzAw/LTUyOTQuanBlZw.jpeg) | 1990 | Joe Dassin | Les Champs-Èlysées |
-| 9 | ![Cover](https://i.discogs.com/8uw2bw5Y7A-ph99hWI2fUETcCWXMw6NstBuNFTLWNJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjY0/OC0xNTk5MDM3NTE0/LTMxMDAuanBlZw.jpeg) | 1992 | MC Solaar | Qui Seme le Vent Recolte le Tempo |
-| 31 | ![Cover](https://i.discogs.com/jVHOm32Pua5wdLsE_strkme8aABndU5jaNZxnRCs0Qs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzg4/NTgtMTIyNjk1Nzg3/Mi5qcGVn.jpeg) | 1992-09 | Vanessa Paradis | Vanessa Paradis |
-| 48 |  | 1995-10-20 | April March | Chick Habit |
-| 1 | ![Cover](https://i.discogs.com/_hiB_FWvCPyHGAPgxhCtDAp6sUax2NMzdTGpl3otN20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDAx/NjItMTYwMjA1OTk4/My0zOTU4LmpwZWc.jpeg) | 1996 | Françoise Hardy | Ma Jeunesse Fout L&#39;camp |
-| 87 | ![Cover](https://i.discogs.com/Sc5XHdYEFS1aLCG-BRBTxJHcf317B02VNY_VX1i-XLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDIy/OS0xNTUyMzI0NjU4/LTY0OTIuanBlZw.jpeg) | 1996 | Serge Gainsbourg | L&#39;Histoire De Melody Nelson |
-| 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/887509ef741e4749904edf0e826d4ed0.png) | 1996-11-11 | Noir Désir | 666.667 Club |
-| 52 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dd330235b9ecf77531534135e44a9108.png) | 1997-04-21 | Louise Attaque | Louise Attaque |
-| 8 |  | 1997-11-11 | Pink Martini | Sympathique |
-| 75 |  | 1998-01-16 | Air | Moon Safari |
-| 63 |  | 1998-02-20 | Yann Tiersen | Le Phare |
-| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1fbfb440c34ac957ca56d7275247e1af.png) | 1998-06-05 | Matmatah | La Ouache |
-| 32 | ![Cover](https://i.discogs.com/b56aIy_1fG3gmAxdQwcF5AaWQ6I8QZBCVcWyziHVdTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjI4/ODktMTQyODIzNTUz/My00ODA4LmpwZWc.jpeg) | 1999-04-07 | Mylène Farmer | Innamoramento |
-| 82 |  | 2000 | Alizée | Gourmandises |
-| 36 | ![Cover](https://i.discogs.com/CImwpMWDE3vZEUVufMgCeY5D5VcwdI_1EXH8-IWbrDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODI4/MS0xMTgyMzgwODEw/LmpwZWc.jpeg) | 2000-03-11 | Justice | Cross |
-| 29 | ![Cover](https://i.discogs.com/2UTyggREI43XhDqG2fe3YtH5GK7cjo483NsWou2dk-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk4/MTItMTUxMzI5NTYw/My00NjE1LmpwZWc.jpeg) | 2000-04 | Keren Ann | La biographie de Luka Philipsen |
-| 99 |  | 2000-06 | Phoenix | United |
-| 83 |  | 2000-11-13 | Daft Punk | One More Time |
-| 59 |  | 2001-04-09 | Yann Tiersen | L&#39;absente |
-| 79 | ![Cover](https://i.discogs.com/qZ4tS72D6uscU5IUkNDECHFIb6xDTp3vzLqXiidBYY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDMy/NS0xMTY5MDM1MjA5/LmpwZWc.jpeg) | 2001-09-11 | Noir Désir | des Visages des Figures |
-| 88 |  | 2001-10-01 | Daft Punk | Alive 1997 |
-| 97 |  | 2002-11-05 | Carla Bruni | Quelqu&#39;un m&#39;a dit |
-| 6 | ![Cover](https://i.discogs.com/-oxafB2AVUnux9xBmyHpHFIbcSk3GudyoKlh_CJY79M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTY3/OTItMTQ2Mjk4MTQ0/Ny04NTU2LmpwZWc.jpeg) | 2003 | Alizée | Mes Courants Electriques |
-| 28 | ![Cover](https://i.discogs.com/Y5BOP3qvY5NN9lqZUPu-F3FVoWdE80mZ0UuPcK4VDDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDQx/MTktMTM0ODY5OTg1/NS04MDE5LmpwZWc.jpeg) | 2003 | Jeanette | Originales - 20 Exitos |
-| 11 |  | 2003-06-02 | Tryo | Grain De Sable |
-| 27 | ![Cover](https://i.discogs.com/eAJRvp2WwRiGcsktb21IPUXzf18PlgKXuy_16Urd-lA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDI1/NC0xMTExODc4MDg3/LmpwZw.jpeg) | 2003-11-25 | Keren Ann | Not Going Anywhere |
-| 16 | ![Cover](https://i.discogs.com/b6_CpCzAkZSXx68nIrlD6uFHXJj-GuMYimZhh8KYkSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDQz/NTktMTMzMzg3MjEw/OC5qcGVn.jpeg) | 2004 | Brigitte Bardot | Best of B.B. |
-| 17 | ![Cover](https://i.discogs.com/b6_CpCzAkZSXx68nIrlD6uFHXJj-GuMYimZhh8KYkSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDQz/NTktMTMzMzg3MjEw/OC5qcGVn.jpeg) | 2004 | Brigitte Bardot | Best Of B.B |
-| 37 | ![Cover](https://i.discogs.com/2UTyggREI43XhDqG2fe3YtH5GK7cjo483NsWou2dk-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk4/MTItMTUxMzI5NTYw/My00NjE1LmpwZWc.jpeg) | 2004 | Keren Ann | La Biographie De Luka Philipse |
-| 71 | ![Cover](https://i.discogs.com/q5uILv4kcEME1aWnPy2sHBIP482JsbLXQshZ4rpOZAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Nzg1/Mi0xNDYyMTc3MTc1/LTY1MzQucG5n.jpeg) | 2004 | Yann Tiersen | Le fabuleux destin d&#39;Amélie Poulain (Bande originale du film) |
-| 51 |  | 2004-01-05 | Sébastien Tellier | Politics |
-| 98 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e69d924058bcc05c093249270b6ed766.png) | 2004-03-21 | Phoenix | Alphabetical |
-| 94 |  | 2004-05-11 | Nouvelle Vague | Nouvelle Vague |
-| 85 | ![Cover](https://i.discogs.com/Ks_IOcbDArZ8GEpbdgWBmQOgbIx-VQIv-teTsqEoVSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA2/ODgtMTY2NjcxNDYx/My0xMzMyLmpwZWc.jpeg) | 2005 | Syd Matters | Obstacles |
-| 80 | ![Cover](https://i.discogs.com/1RyErluSGLYb-m2PvgsaTz-7hwg2oFi40DkdGkqRmrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDg4/MC0xMzY0NjQ5MDA4/LTkxOTMuanBlZw.jpeg) | 2005-02-14 | Camille | Le Fil |
-| 81 |  | 2005-02-14 | Pauline Croze | Pauline Croze |
-| 84 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6509f913a6e373f32b62b613c284d235.png) | 2005-04-05 | Syd Matters | Someday We Will Foresee Obstacles |
-| 18 |  | 2005-05-23 | Yann Tiersen | Les Retrouvailles |
-| 35 | ![Cover](https://i.discogs.com/70KMrGjFFVi_Cx9jV6m6K8_cPOhguyO3C0oct65Om30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTMy/NC0xNDM5MzYwODc1/LTM4NTYuanBlZw.jpeg) | 2005-11-14 | Olivia Ruiz | La Femme Chocolat |
-| 10 | ![Cover](https://i.discogs.com/L5nSajIHUAgbQhOcAPNnoEufD8MwQ_CnQfOVSzCjaa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjAw/ODItMTQ1MzY0NTk5/My01ODkzLmpwZWc.jpeg) | 2006 | Émilie Simon | Végétal |
-| 77 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b6cb333277cfcb5ac5996a487bde2fca.png) | 2006-05-10 | Phoenix | It&#39;s Never Been Like That |
-| 96 | ![Cover](https://i.discogs.com/3ZFCOa-elGlk_uGB-fWGVMjfCXklaBinOkXIUL09rRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTMy/Ny0xMjkzOTcyMjI5/LmpwZWc.jpeg) | 2006-05-20 | Phoenix | It&#39;s Never Been Like That &#x2F; Alphabetical |
-| 53 |  | 2006-07-04 | Mr. Flash | Champions |
-| 54 |  | 2006-08-11 | Charlotte Gainsbourg | 5:55 |
-| 49 | ![Cover](https://i.discogs.com/grIxcnalwTYbbT8INQv_j_9fxL0T5dF451mfj3kKBBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDA0/OS0xNTEzMzUzNjc5/LTgxNjYuanBlZw.jpeg) | 2006-08-29 | Charlotte Gainsbourg | 5.55 |
-| 64 | ![Cover](https://i.discogs.com/7XVvYB_3oKqGABTu_T86nAFURlMnTSeRtAKmQCV7nxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc3/NjYtMTIwNDI5Nzg2/Mi5qcGVn.jpeg) | 2006-10-30 | Émilie Simon | The Flower Book |
-| 26 |  | 2006-12 | Air | Pocket Symphony |
-| 65 | ![Cover](https://i.discogs.com/UKo4GPW1OpCGvfzA-CXaG6i_PtKu8i-04KVyVA3esWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzEy/ODQtMTMwODkzMDUz/Mi5qcGVn.jpeg) | 2007 | Martin Solveig | All Stars |
-| 60 |  | 2007-03-04 | Kavinsky | 1986 |
-| 34 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3572ace1838b402c9e9176e64180a3b2.png) | 2007-08-27 | Vanessa Paradis | Divinidylle |
-| 91 |  | 2007-08-31 | Yelle | Pop Up |
-| 67 | ![Cover](https://i.discogs.com/MAI5QhhWG9yz2IDaiqONcTEzaCZUqMT6hy0caHSa_gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYz/NDctMTE5OTk3Njcx/Mi5qcGVn.jpeg) | 2007-10-22 | Yael Naim | Yael Naim |
-| 33 |  | 2007-11-19 | Danger | 09&#x2F;14 2007 |
-| 58 |  | 2008 | Sexy Sushi | Marre marre marre |
-| 70 | ![Cover](https://i.discogs.com/Z0CqEnQy6bAYFt3zTXOkVqoiEuzFyUyGazdASrqfsbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTMw/MTQtMTQ5NDI3MjY0/MC01Mjk5LmpwZWc.jpeg) | 2008 | Vanessa Paradis | Divine Idylle |
-| 86 |  | 2008-02-19 | Sébastien Tellier | Sexuality |
-| 68 |  | 2008-03-31 | Surkin | Next of Kin EP |
-| 21 |  | 2008-04-07 | Camille | Music Hole |
-| 55 | ![Cover](https://i.discogs.com/yQML_OTH51HtMp0R_X77UNosHADNUBkwnIR5CAspCik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjM1/NzItMTU4OTcyOTQz/MC0xNTcwLmpwZWc.jpeg) | 2008-06-16 | Yelle | Pop-up |
-| 23 | ![Cover](https://i.discogs.com/tkEdy8sT-XTgkbVqGTPiMwCMDjKYOnfT0RI1uD_xjX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODE5/NDAtMTM2MTExMTIz/My01MTY3LmpwZWc.jpeg) | 2008-08-20 | Mylène Farmer | Point De Suture |
-| 5 |  | 2009-04-13 | Yodelice | Tree Of Life |
-| 66 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b06defa449863fea6a78434c268dff47.png) | 2009-05-22 | Phoenix | Wolfgang Amadeus Phoenix |
-| 73 |  | 2009-06-08 | Pony Pony Run Run | You Need Pony Pony Run Run |
-| 78 |  | 2009-10-05 | Air | Love 2 |
-| 72 | ![Cover](https://i.discogs.com/cKIj0LfJiRKkkyb5Q6Z4Fd0UEu_C2UH_NjXZCFjdHzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjQ1/NjgtMTM5OTY1Njkw/Ny0yMDkyLmpwZWc.jpeg) | 2010 | Cœur de Pirate | Coeur De Pirate |
-| 19 |  | 2010-10-20 | Cocoon | Where The Oceans End |
-| 56 |  | 2011-01-01 | Cœur de Pirate | Blonde |
-| 76 |  | 2011-03-14 | Yelle | Safari Disco Club |
-| 93 |  | 2012-07-16 | Madeon | Finale |
-| 42 | ![Cover](https://i.discogs.com/YEg83RVAe93HN1qeN9HdKFeZjZBSgnNmlKRqAKgSB98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTI0/MTItMTQxNzE0Mjk1/My0yNDQ3LmpwZWc.jpeg) | 2013 | Sylvie Vartan | Sylvie Vartan |
-| 95 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/88e48126c5ca4f03ba36fbdad8d6fbfe.png) | 2013-04-19 | Phoenix | Bankrupt! |
-| 24 |  | 2013-05-10 | Zaz | Recto Verso |
-| 90 |  | 2013-08-16 | Stromae | Racine Carrée |
-| 100 | ![Cover](https://i.discogs.com/wFnno0-KRyGb2S_6hd0K_65SDuVQCl9Q3lqoSlKehhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTQ1/NDItMTQ4MzM2NTc3/MC01MDk0LmpwZWc.jpeg) | 2016 | OFENBACH | Be Mine |
-| 7 | ![Cover](https://i.discogs.com/Kc7RZE-u_aXuLa3DgjPxYTDY1JLLfK3n-lRb6qR-j_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzQw/OTAtMTQ1NDYzMzk2/NC00NzEzLmpwZWc.jpeg) | 2016-02-05 | Breakbot | Still Waters |
-| 69 | ![Cover](https://i.discogs.com/vHBNmhm7jN60Zh9K-MOXtctcBE2xKur8T88iT0WmKgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTY3/MDEtMTQ3NDAxODEw/MC03MTUzLmpwZWc.jpeg) | 2016-09-16 | PNL | Dans La Légende |
-| 22 | ![Cover](https://i.discogs.com/M8uDn5FprDtRqh7EiI9GPRQL7lnZE9VtkoUnCull83o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODkx/OTkzLTE1MDYwNTQ1/NTUtNzI0Ny5qcGVn.jpeg) | 2017-07-28 | The Toxic Avenger | Globe, Vol. 3 |
-| 38 | ![Cover](https://i.discogs.com/ZN3FV8IIpt4fbhBU2BRxiIbLgLATVojHu-mUj8V2j_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQw/OTc5LTE1NTgwOTg1/MTQtNjUwOC5qcGVn.jpeg) | 2018 | Claire Laffut | Vérité |
-| 41 | ![Cover](https://i.discogs.com/USM7b9HVbzUihFsnOez5jLBp3e1GGrxR82XpaJkWop4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjI4/MjgtMTQyNjU4MTEy/OC0xMjYyLmpwZWc.jpeg) | 2018-02-02 | Mylène Farmer | L&#39; Autre... |
-| 89 | ![Cover](https://i.discogs.com/pctS0Fcn4Wk1y2RW5zzvm8mnMW2sJlZqtYUkvzu_YvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjE1/NDk3LTE1Mzg2NTY0/OTQtOTE4NS5wbmc.jpeg) | 2018-10-05 | Angèle | Brol |
-| 30 | ![Cover](https://i.discogs.com/-BA4vqtUCYkrXj7bN9lA-jsUjtJ9WnMVv8EFcHAxWFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIw/NTQ2LTE1NzAxMjc3/NDMtMTM4NC5qcGVn.jpeg) | 2019-10-04 | Gesaffelstein | NOVO SONIC SYSTEM |
-| 57 | ![Cover](https://i.discogs.com/3f9r_mRR-88PXaJ_BVdthGRXiH5-qA0V3yE0FwxnJgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzcz/ODcyLTE1NzMyNDM3/MTEtNTg0Ni5qcGVn.jpeg) | 2019-11-08 | Angèle | Brol La Suite |
-| 40 | ![Cover](https://i.discogs.com/azsCB6xgjmtW0IHXFEqYgEa_7Iou44c1jloIhogJe-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzAw/ODIxLTE2MTI2OTk0/MDQtNzUwOC5qcGVn.jpeg) | 2021 | Iliona | Tristesse |
-| 92 | ![Cover](https://i.discogs.com/FCi8e-foA90WwElzs80XLH0NdLbqz7V3qDuo95sfrC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDMx/MTE4LTE2NTkwNzAx/NzAtMjQyMi5qcGVn.jpeg) | 2021-04-02 | Hoshi | Spider |
-| 15 | ![Cover](https://i.discogs.com/hk54XLCNBX-U-1sm0DNTR6-ekDD1SWXJqTyqDEgAylo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODEx/NTE0LTE2Mzc2OTc0/MTAtOTM3MS5qcGVn.jpeg) | 2021-10-21 | Angèle | Bruxelles je t&#39;aime |
-| 47 | ![Cover](https://i.discogs.com/dJoKpRwLBKnZNbCIxtywLxPAQy5fi8iL7Z_bpi4vUpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTAy/NzI0LTE1MjI2MTg3/OTYtNDMxMi5qcGVn.jpeg) | 2022-11-24 | Mylène Farmer | L&#39;autre |
-| 74 | ![Cover](https://i.discogs.com/T9abllztjHuyhne7M-X4V49TpUCGNGpR91xuJpJtG5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODUx/NTg2LTE2OTk1NzA2/NjQtOTcwNi5qcGVn.jpeg) | 2023-11-09 | Dua Lipa | Fever |
-| 25 | ![Cover](https://i.discogs.com/25plklQzBnOLYWB9-VNctIvSUWJ9jY9iGmrRPOdJyrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjUz/MjMwLTE2NjY3MTcy/MTEtMzc1MS5qcGVn.jpeg) | 2024 | Emma Peters | Emma Peters (Remixed) |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td>1956</td>
+      <td>Édith Piaf</td>
+      <td>La vie en rose</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>1968-11</td>
+      <td>Françoise Hardy</td>
+      <td>Comment te dire adieu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td>1971</td>
+      <td>Françoise Hardy</td>
+      <td>La Question</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/-uxy2Bvi-9_Qqr6oN286CqPn9woq5r5LFC0UUIp_LPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTAy/MzQtMTQzMTYwOTU0/Ni0xNzgwLmpwZWc.jpeg" alt="Cover for Tous les garcons et les filles" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Françoise Hardy</td>
+      <td>Tous les garcons et les filles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/HiDGPMpH3dMbH0cH4_MupiBAxqT6jHCB7cin91KjyCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE5/NC0xNjc0NDY2NzI0/LTY0NDMuanBlZw.jpeg" alt="Cover for Ca Plane Pour Moi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Plastic Bertrand</td>
+      <td>Ca Plane Pour Moi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09a42fb43019427fc27b67d5fe3a4020.png" alt="Cover for M &amp; J" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Vanessa Paradis</td>
+      <td>M &amp; J</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/KkAFU7kpRH8GmGj2kdxSiYD3_P2FJqtfToPYkoF8H_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTgx/OC0xNTk0NjQyNTE2/LTEzMzMuanBlZw.jpeg" alt="Cover for The Very Best Of Edith Piaf" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Édith Piaf</td>
+      <td>The Very Best Of Edith Piaf</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/Lvq7EOXx9Vyb1gn0G0pOsVyucktJVSptOE4lM0_QZ-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODgz/NTktMTU3Mzc2MzUx/NC01NjEyLmpwZWc.jpeg" alt="Cover for Bim Bam toi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Carla</td>
+      <td>Bim Bam toi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 95</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 96</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 99</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/Mw6zjdZJiJ5eq-TL3VTGCb0_IDJ25G7U1QlJSwCU41U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDQy/MzgtMTQ5MDEwMjA3/OS0zNDk5LmpwZWc.jpeg" alt="Cover for Vogue Years" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Françoise Hardy</td>
+      <td>Vogue Years</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/tZYchnmOaFtVLSy0A0L1kWMlBEyIrY7iRjKjkWVrV2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTIw/OTAtMTQ5NzA3OTY1/My0yMTQxLmpwZWc.jpeg" alt="Cover for Eternelle" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Édith Piaf</td>
+      <td>Eternelle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1c561fc6d2e1d7cc02f6919c47f06b4.png" alt="Cover for Ainsi Soit Je" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988-03-14</td>
+      <td>Mylène Farmer</td>
+      <td>Ainsi Soit Je</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 17</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td>1988-04</td>
+      <td>Mylène Farmer</td>
+      <td>Ainsi soit je...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 16</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/rTD_Vk_cMhaV_pO8te_cHG31uvPrbwjVFETKyDRhP7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjQ5/OS0xNDYwOTg0MzAw/LTUyOTQuanBlZw.jpeg" alt="Cover for Les Champs-Èlysées" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Joe Dassin</td>
+      <td>Les Champs-Èlysées</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/8uw2bw5Y7A-ph99hWI2fUETcCWXMw6NstBuNFTLWNJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjY0/OC0xNTk5MDM3NTE0/LTMxMDAuanBlZw.jpeg" alt="Cover for Qui Seme le Vent Recolte le Tempo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>MC Solaar</td>
+      <td>Qui Seme le Vent Recolte le Tempo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3000898e4c868c7eb458b314dbfa8765.png" alt="Cover for Vanessa Paradis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992-09</td>
+      <td>Vanessa Paradis</td>
+      <td>Vanessa Paradis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/649fe5d410f944dab783ebcf7f241cdb.png" alt="Cover for Chick Habit" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-10-20</td>
+      <td>April March</td>
+      <td>Chick Habit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/Sc5XHdYEFS1aLCG-BRBTxJHcf317B02VNY_VX1i-XLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDIy/OS0xNTUyMzI0NjU4/LTY0OTIuanBlZw.jpeg" alt="Cover for L&#39;Histoire De Melody Nelson" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Serge Gainsbourg</td>
+      <td>L&#39;Histoire De Melody Nelson</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 4</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/_hiB_FWvCPyHGAPgxhCtDAp6sUax2NMzdTGpl3otN20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDAx/NjItMTYwMjA1OTk4/My0zOTU4LmpwZWc.jpeg" alt="Cover for Ma Jeunesse Fout L&#39;camp" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Françoise Hardy</td>
+      <td>Ma Jeunesse Fout L&#39;camp</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/887509ef741e4749904edf0e826d4ed0.png" alt="Cover for 666.667 Club" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-11-11</td>
+      <td>Noir Désir</td>
+      <td>666.667 Club</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd330235b9ecf77531534135e44a9108.png" alt="Cover for Louise Attaque" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-04-21</td>
+      <td>Louise Attaque</td>
+      <td>Louise Attaque</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 69 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 68</li>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td>1997-11-11</td>
+      <td>Pink Martini</td>
+      <td>Sympathique</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 58</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td>1998-01-16</td>
+      <td>Air</td>
+      <td>Moon Safari</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 70</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 88</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td>1998-02-20</td>
+      <td>Yann Tiersen</td>
+      <td>Le Phare</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fbfb440c34ac957ca56d7275247e1af.png" alt="Cover for La Ouache" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-06-05</td>
+      <td>Matmatah</td>
+      <td>La Ouache</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 76</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 95</li>
+            <li> <a href="{{ "/tags/breizh" | relative_url }}">breizh</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71075210ad904cb6ae8bd390edfa9046.png" alt="Cover for Innamoramento" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-04-07</td>
+      <td>Mylène Farmer</td>
+      <td>Innamoramento</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/CImwpMWDE3vZEUVufMgCeY5D5VcwdI_1EXH8-IWbrDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODI4/MS0xMTgyMzgwODEw/LmpwZWc.jpeg" alt="Cover for Cross" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-03-11</td>
+      <td>Justice</td>
+      <td>Cross</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 22</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/2UTyggREI43XhDqG2fe3YtH5GK7cjo483NsWou2dk-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk4/MTItMTUxMzI5NTYw/My00NjE1LmpwZWc.jpeg" alt="Cover for La biographie de Luka Philipsen" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-04</td>
+      <td>Keren Ann</td>
+      <td>La biographie de Luka Philipsen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>2000-06</td>
+      <td>Phoenix</td>
+      <td>United</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td>2000-11-13</td>
+      <td>Daft Punk</td>
+      <td>One More Time</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+      </td>
+      <td>2001-04-09</td>
+      <td>Yann Tiersen</td>
+      <td>L&#39;absente</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/qZ4tS72D6uscU5IUkNDECHFIb6xDTp3vzLqXiidBYY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDMy/NS0xMTY5MDM1MjA5/LmpwZWc.jpeg" alt="Cover for des Visages des Figures" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-09-11</td>
+      <td>Noir Désir</td>
+      <td>des Visages des Figures</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 79</li>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>2001-10-01</td>
+      <td>Daft Punk</td>
+      <td>Alive 1997</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 15</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 65</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td>2002-11-05</td>
+      <td>Carla Bruni</td>
+      <td>Quelqu&#39;un m&#39;a dit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 87</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 92</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04ebcb43abe345c9aa6f5b934e5e3c90.png" alt="Cover for Mes Courants Electriques" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Alizée</td>
+      <td>Mes Courants Electriques</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 18</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 53</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/Y5BOP3qvY5NN9lqZUPu-F3FVoWdE80mZ0UuPcK4VDDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDQx/MTktMTM0ODY5OTg1/NS04MDE5LmpwZWc.jpeg" alt="Cover for Originales - 20 Exitos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Jeanette</td>
+      <td>Originales - 20 Exitos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+      </td>
+      <td>2003-06-02</td>
+      <td>Tryo</td>
+      <td>Grain De Sable</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 57</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/eAJRvp2WwRiGcsktb21IPUXzf18PlgKXuy_16Urd-lA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDI1/NC0xMTExODc4MDg3/LmpwZw.jpeg" alt="Cover for Not Going Anywhere" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-11-25</td>
+      <td>Keren Ann</td>
+      <td>Not Going Anywhere</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/b6_CpCzAkZSXx68nIrlD6uFHXJj-GuMYimZhh8KYkSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDQz/NTktMTMzMzg3MjEw/OC5qcGVn.jpeg" alt="Cover for Best of B.B." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Brigitte Bardot</td>
+      <td>Best of B.B.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/b6_CpCzAkZSXx68nIrlD6uFHXJj-GuMYimZhh8KYkSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDQz/NTktMTMzMzg3MjEw/OC5qcGVn.jpeg" alt="Cover for Best Of B.B" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Brigitte Bardot</td>
+      <td>Best Of B.B</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/q5uILv4kcEME1aWnPy2sHBIP482JsbLXQshZ4rpOZAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Nzg1/Mi0xNDYyMTc3MTc1/LTY1MzQucG5n.jpeg" alt="Cover for Le fabuleux destin d&#39;Amélie Poulain (Bande originale du film)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Yann Tiersen</td>
+      <td>Le fabuleux destin d&#39;Amélie Poulain (Bande originale du film)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/2UTyggREI43XhDqG2fe3YtH5GK7cjo483NsWou2dk-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk4/MTItMTUxMzI5NTYw/My00NjE1LmpwZWc.jpeg" alt="Cover for La Biographie De Luka Philipse" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Keren Ann</td>
+      <td>La Biographie De Luka Philipse</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8bf53cc69f94b00b8e48e3d3df74981.png" alt="Cover for Politics" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-01-05</td>
+      <td>Sébastien Tellier</td>
+      <td>Politics</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e69d924058bcc05c093249270b6ed766.png" alt="Cover for Alphabetical" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-03-21</td>
+      <td>Phoenix</td>
+      <td>Alphabetical</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>2004-05-11</td>
+      <td>Nouvelle Vague</td>
+      <td>Nouvelle Vague</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/Ks_IOcbDArZ8GEpbdgWBmQOgbIx-VQIv-teTsqEoVSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA2/ODgtMTY2NjcxNDYx/My0xMzMyLmpwZWc.jpeg" alt="Cover for Obstacles" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Syd Matters</td>
+      <td>Obstacles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>2005-02-14</td>
+      <td>Pauline Croze</td>
+      <td>Pauline Croze</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 96</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/1RyErluSGLYb-m2PvgsaTz-7hwg2oFi40DkdGkqRmrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDg4/MC0xMzY0NjQ5MDA4/LTkxOTMuanBlZw.jpeg" alt="Cover for Le Fil" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-02-14</td>
+      <td>Camille</td>
+      <td>Le Fil</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/zaP4lQPmOgqb9Q-tp7c1rgMLdGVKrorTjXhT3wZAvuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQz/MTItMTIwMDUzNDYy/Mi5qcGVn.jpeg" alt="Cover for Bye Bye Beauté" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-02-15</td>
+      <td>Coralie Clément</td>
+      <td>Bye Bye Beauté</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6509f913a6e373f32b62b613c284d235.png" alt="Cover for Someday We Will Foresee Obstacles" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-04-05</td>
+      <td>Syd Matters</td>
+      <td>Someday We Will Foresee Obstacles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td>2005-05-23</td>
+      <td>Yann Tiersen</td>
+      <td>Les Retrouvailles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/70KMrGjFFVi_Cx9jV6m6K8_cPOhguyO3C0oct65Om30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTMy/NC0xNDM5MzYwODc1/LTM4NTYuanBlZw.jpeg" alt="Cover for La Femme Chocolat" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-11-14</td>
+      <td>Olivia Ruiz</td>
+      <td>La Femme Chocolat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/L5nSajIHUAgbQhOcAPNnoEufD8MwQ_CnQfOVSzCjaa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjAw/ODItMTQ1MzY0NTk5/My01ODkzLmpwZWc.jpeg" alt="Cover for Végétal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Émilie Simon</td>
+      <td>Végétal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6cb333277cfcb5ac5996a487bde2fca.png" alt="Cover for It&#39;s Never Been Like That" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-05-10</td>
+      <td>Phoenix</td>
+      <td>It&#39;s Never Been Like That</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/3ZFCOa-elGlk_uGB-fWGVMjfCXklaBinOkXIUL09rRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTMy/Ny0xMjkzOTcyMjI5/LmpwZWc.jpeg" alt="Cover for It&#39;s Never Been Like That &#x2F; Alphabetical" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-05-20</td>
+      <td>Phoenix</td>
+      <td>It&#39;s Never Been Like That &#x2F; Alphabetical</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td>2006-07-04</td>
+      <td>Mr. Flash</td>
+      <td>Champions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+      </td>
+      <td>2006-08-11</td>
+      <td>Charlotte Gainsbourg</td>
+      <td>5:55</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/grIxcnalwTYbbT8INQv_j_9fxL0T5dF451mfj3kKBBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDA0/OS0xNTEzMzUzNjc5/LTgxNjYuanBlZw.jpeg" alt="Cover for 5.55" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-08-29</td>
+      <td>Charlotte Gainsbourg</td>
+      <td>5.55</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/7XVvYB_3oKqGABTu_T86nAFURlMnTSeRtAKmQCV7nxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc3/NjYtMTIwNDI5Nzg2/Mi5qcGVn.jpeg" alt="Cover for The Flower Book" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-10-30</td>
+      <td>Émilie Simon</td>
+      <td>The Flower Book</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/book" | relative_url }}">book</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td>2006-12</td>
+      <td>Air</td>
+      <td>Pocket Symphony</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/UKo4GPW1OpCGvfzA-CXaG6i_PtKu8i-04KVyVA3esWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzEy/ODQtMTMwODkzMDUz/Mi5qcGVn.jpeg" alt="Cover for All Stars" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Martin Solveig</td>
+      <td>All Stars</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td>2007-03-04</td>
+      <td>Kavinsky</td>
+      <td>1986</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3572ace1838b402c9e9176e64180a3b2.png" alt="Cover for Divinidylle" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-08-27</td>
+      <td>Vanessa Paradis</td>
+      <td>Divinidylle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/beca69ef786e59389d65dee98a5bf786.png" alt="Cover for Pop Up" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-08-31</td>
+      <td>Yelle</td>
+      <td>Pop Up</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5069ae886bfd2b80308f8187f79c6c9.png" alt="Cover for Yael Naim" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-10-22</td>
+      <td>Yael Naim</td>
+      <td>Yael Naim</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td>2007-11-19</td>
+      <td>Danger</td>
+      <td>09&#x2F;14 2007</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 71</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/Z0CqEnQy6bAYFt3zTXOkVqoiEuzFyUyGazdASrqfsbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTMw/MTQtMTQ5NDI3MjY0/MC01Mjk5LmpwZWc.jpeg" alt="Cover for Divine Idylle" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Vanessa Paradis</td>
+      <td>Divine Idylle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 58</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 73</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Sexy Sushi</td>
+      <td>Marre marre marre</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td>2008-02-19</td>
+      <td>Sébastien Tellier</td>
+      <td>Sexuality</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td>2008-03-31</td>
+      <td>Surkin</td>
+      <td>Next of Kin EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td>2008-04-07</td>
+      <td>Camille</td>
+      <td>Music Hole</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/yQML_OTH51HtMp0R_X77UNosHADNUBkwnIR5CAspCik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjM1/NzItMTU4OTcyOTQz/MC0xNTcwLmpwZWc.jpeg" alt="Cover for Pop-up" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-06-16</td>
+      <td>Yelle</td>
+      <td>Pop-up</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/816c1a81e626cc1b0ae1513ffb0f1ebc.png" alt="Cover for Point De Suture" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-08-20</td>
+      <td>Mylène Farmer</td>
+      <td>Point De Suture</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td>2009-04-13</td>
+      <td>Yodelice</td>
+      <td>Tree Of Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b06defa449863fea6a78434c268dff47.png" alt="Cover for Wolfgang Amadeus Phoenix" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-05-22</td>
+      <td>Phoenix</td>
+      <td>Wolfgang Amadeus Phoenix</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td>2009-06-08</td>
+      <td>Pony Pony Run Run</td>
+      <td>You Need Pony Pony Run Run</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/332814b06c684cf4cc43f5d81c662ee7.png" alt="Cover for Love 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-10-05</td>
+      <td>Air</td>
+      <td>Love 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/cKIj0LfJiRKkkyb5Q6Z4Fd0UEu_C2UH_NjXZCFjdHzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjQ1/NjgtMTM5OTY1Njkw/Ny0yMDkyLmpwZWc.jpeg" alt="Cover for Coeur De Pirate" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Cœur de Pirate</td>
+      <td>Coeur De Pirate</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td>2010-10-20</td>
+      <td>Cocoon</td>
+      <td>Where The Oceans End</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41e2026c21a8877589db3d7c5ed1850c.png" alt="Cover for Blonde" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-01-01</td>
+      <td>Cœur de Pirate</td>
+      <td>Blonde</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2011-03-14</td>
+      <td>Yelle</td>
+      <td>Safari Disco Club</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td>2012-07-16</td>
+      <td>Madeon</td>
+      <td>Finale</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 25</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 99</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/YEg83RVAe93HN1qeN9HdKFeZjZBSgnNmlKRqAKgSB98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTI0/MTItMTQxNzE0Mjk1/My0yNDQ3LmpwZWc.jpeg" alt="Cover for Sylvie Vartan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Sylvie Vartan</td>
+      <td>Sylvie Vartan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88e48126c5ca4f03ba36fbdad8d6fbfe.png" alt="Cover for Bankrupt!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-04-19</td>
+      <td>Phoenix</td>
+      <td>Bankrupt!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/947f342a8b86454ebd9a07c18f361f04.png" alt="Cover for Recto Verso" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-05-10</td>
+      <td>Zaz</td>
+      <td>Recto Verso</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>2013-08-16</td>
+      <td>Stromae</td>
+      <td>Racine Carrée</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 2</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 96</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 96</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/wFnno0-KRyGb2S_6hd0K_65SDuVQCl9Q3lqoSlKehhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTQ1/NDItMTQ4MzM2NTc3/MC01MDk0LmpwZWc.jpeg" alt="Cover for Be Mine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>OFENBACH</td>
+      <td>Be Mine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 53</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 76</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/Kc7RZE-u_aXuLa3DgjPxYTDY1JLLfK3n-lRb6qR-j_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzQw/OTAtMTQ1NDYzMzk2/NC00NzEzLmpwZWc.jpeg" alt="Cover for Still Waters" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-02-05</td>
+      <td>Breakbot</td>
+      <td>Still Waters</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/vHBNmhm7jN60Zh9K-MOXtctcBE2xKur8T88iT0WmKgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTY3/MDEtMTQ3NDAxODEw/MC03MTUzLmpwZWc.jpeg" alt="Cover for Dans La Légende" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-09-16</td>
+      <td>PNL</td>
+      <td>Dans La Légende</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/M8uDn5FprDtRqh7EiI9GPRQL7lnZE9VtkoUnCull83o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODkx/OTkzLTE1MDYwNTQ1/NTUtNzI0Ny5qcGVn.jpeg" alt="Cover for Globe, Vol. 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-07-28</td>
+      <td>The Toxic Avenger</td>
+      <td>Globe, Vol. 3</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3db0458c0d5f754e35059ac26ba3004.png" alt="Cover for Vérité" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Claire Laffut</td>
+      <td>Vérité</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/USM7b9HVbzUihFsnOez5jLBp3e1GGrxR82XpaJkWop4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjI4/MjgtMTQyNjU4MTEy/OC0xMjYyLmpwZWc.jpeg" alt="Cover for L&#39; Autre..." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-02-02</td>
+      <td>Mylène Farmer</td>
+      <td>L&#39; Autre...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/pctS0Fcn4Wk1y2RW5zzvm8mnMW2sJlZqtYUkvzu_YvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjE1/NDk3LTE1Mzg2NTY0/OTQtOTE4NS5wbmc.jpeg" alt="Cover for Brol" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-10-05</td>
+      <td>Angèle</td>
+      <td>Brol</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/-BA4vqtUCYkrXj7bN9lA-jsUjtJ9WnMVv8EFcHAxWFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIw/NTQ2LTE1NzAxMjc3/NDMtMTM4NC5qcGVn.jpeg" alt="Cover for NOVO SONIC SYSTEM" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-10-04</td>
+      <td>Gesaffelstein</td>
+      <td>NOVO SONIC SYSTEM</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/3f9r_mRR-88PXaJ_BVdthGRXiH5-qA0V3yE0FwxnJgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzcz/ODcyLTE1NzMyNDM3/MTEtNTg0Ni5qcGVn.jpeg" alt="Cover for Brol La Suite" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-11-08</td>
+      <td>Angèle</td>
+      <td>Brol La Suite</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 71</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 71</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 80</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 94</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 95</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 97</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/azsCB6xgjmtW0IHXFEqYgEa_7Iou44c1jloIhogJe-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzAw/ODIxLTE2MTI2OTk0/MDQtNzUwOC5qcGVn.jpeg" alt="Cover for Tristesse" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>Iliona</td>
+      <td>Tristesse</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/FCi8e-foA90WwElzs80XLH0NdLbqz7V3qDuo95sfrC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDMx/MTE4LTE2NTkwNzAx/NzAtMjQyMi5qcGVn.jpeg" alt="Cover for Spider" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-04-02</td>
+      <td>Hoshi</td>
+      <td>Spider</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 24</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 87</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 99</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 100</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 100</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 100</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 100</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 100</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/hk54XLCNBX-U-1sm0DNTR6-ekDD1SWXJqTyqDEgAylo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODEx/NTE0LTE2Mzc2OTc0/MTAtOTM3MS5qcGVn.jpeg" alt="Cover for Bruxelles je t&#39;aime" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-10-21</td>
+      <td>Angèle</td>
+      <td>Bruxelles je t&#39;aime</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 60</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 61</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 69</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 90</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2448062b593bc7b9a589b5691b885c9d.png" alt="Cover for L&#39;autre" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-11-24</td>
+      <td>Mylène Farmer</td>
+      <td>L&#39;autre</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/T9abllztjHuyhne7M-X4V49TpUCGNGpR91xuJpJtG5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODUx/NTg2LTE2OTk1NzA2/NjQtOTcwNi5qcGVn.jpeg" alt="Cover for Fever" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-11-09</td>
+      <td>Dua Lipa</td>
+      <td>Fever</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 80</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 80</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 88</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 97</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 98</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 100</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/25plklQzBnOLYWB9-VNctIvSUWJ9jY9iGmrRPOdJyrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjUz/MjMwLTE2NjY3MTcy/MTEtMzc1MS5qcGVn.jpeg" alt="Cover for Emma Peters (Remixed)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024</td>
+      <td>Emma Peters</td>
+      <td>Emma Peters (Remixed)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/canada" | relative_url }}">canada</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 92</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 98</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

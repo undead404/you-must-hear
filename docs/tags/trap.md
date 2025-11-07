@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T20:29:36.672Z
+date: 2025-11-07T12:03:08.382Z
 permalink: tags/trap
 title: trap
 ---
 
 ## trap
 
-Last updated: <time datetime="2025-11-03T20:29:36.672Z">Mon Nov 03 2025 22:29:36 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-07T12:03:08.382Z">Fri Nov 07 2025 14:03:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
   </thead>
   <tbody>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/CQlP5d8fTAwE15HxLvUwnHpOeGNsNT2Ba9AgeDrlUiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjY3/MDcwLTE2MzQ3NDg5/NTctNzc3NS5qcGVn.jpeg" alt="Cover for HOT DEMON B!TCHES NEAR U ! ! !" style="max-width:120px; height:auto;" />
       </td>
@@ -81,7 +81,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/Kp_u3BCfzMN34s45DkwWwSPKIa24Lhb1aTfnTWlascY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODY0/MTU1LTE2MTU4NzQz/NzMtMjg4My5qcGVn.jpeg" alt="Cover for Cat Girls Are Ruining My Life!" style="max-width:120px; height:auto;" />
       </td>
@@ -107,7 +107,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/cCuJIgzxA6z7Ag05I8mGyQPS7fLUv0_nDRReT0Ud9jQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDU1/ODkyLTE1ODYwOTI3/NjctMzQyOC5wbmc.jpeg" alt="Cover for Miss YOU!" style="max-width:120px; height:auto;" />
       </td>
@@ -133,7 +133,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/0PRtBvh5St-dhMqRXZtNKq9yxjExsePhUoiN3ySsP6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTkw/OTQ1LTE2Mjk5MDg2/MzUtMjYxNC5qcGVn.jpeg" alt="Cover for Cabin Fever" style="max-width:120px; height:auto;" />
       </td>
@@ -159,7 +159,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/cCuJIgzxA6z7Ag05I8mGyQPS7fLUv0_nDRReT0Ud9jQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDU1/ODkyLTE1ODYwOTI3/NjctMzQyOC5wbmc.jpeg" alt="Cover for White Tee" style="max-width:120px; height:auto;" />
       </td>
@@ -185,7 +185,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/2gSzy5JsxMxSAhC8mKISDoZdxGKsx9ZgpWNFWdb40S0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDYx/OTczLTE2MjYwNjA0/NzItOTU3Ni5qcGVn.jpeg" alt="Cover for agoraphobic" style="max-width:120px; height:auto;" />
       </td>
@@ -213,7 +213,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/M9byBEQWbH3qRCYKeBbpPWUWowSt_hSSsAS6e6WomwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDk0/NzYzLTE2MzU0NTIw/ODMtMzEyNC5qcGVn.jpeg" alt="Cover for CERTIFIED LOVER BOY" style="max-width:120px; height:auto;" />
       </td>
@@ -235,7 +235,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/xIBzkDZ6q6ZuLBRqu2b-03z5qZuK9y214tyjTY46tZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzE2/NTA3LTE2MzUxMDIz/NjItMTU2NS5qcGVn.jpeg" alt="Cover for DAYWALKER! (feat. CORPSE)" style="max-width:120px; height:auto;" />
       </td>
@@ -284,7 +284,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/m-QNHL_pNmyLw7_98wvQC9j3MsAt3Q_NA1KsB2cSBg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODY0/MTY0LTE2MTU4NzQz/NjUtNjgxMS5qcGVn.jpeg" alt="Cover for Never Satisfied" style="max-width:120px; height:auto;" />
       </td>
@@ -310,7 +310,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/WHAIn68EQDD1rB6w8RORX4NiS5yC8-WSLr2blu60wCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDU1/NjgtMTMzNDY5NjU4/NS5qcGVn.jpeg" alt="Cover for wE dON&#39;t TruSt YoU" style="max-width:120px; height:auto;" />
       </td>
@@ -330,7 +330,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/N4Qhuw8XPp_-QUC8Bkw_g0mphTJ8bzBTzWNO-SFPFsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjM0/NDItMTM4MzkxNjc1/Ni02MDQyLmpwZWc.jpeg" alt="Cover for good kid, m.A.A.d city (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -351,7 +351,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/vEPajWQIiVngeOevbL0doAN88zKrv_OFyk0Dv-kur2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk0/MjI0LTE1NjEyNzcy/MDEtNjE3OC5qcGVn.jpeg" alt="Cover for The Best In The World Pack" style="max-width:120px; height:auto;" />
       </td>
@@ -373,7 +373,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/rAPFe2ZvlihqLPAnbxzELPgmAe6-ebcFouHEuXepx6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDk1/NzEtMTY1OTEyNjcz/Mi04MzkxLmpwZWc.jpeg" alt="Cover for DS2 (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -391,7 +391,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>2014-11-06</td>
@@ -411,7 +411,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/j8973Mo2ZMcHp0aG295rY0_dXdICtIK2w3Fka6RpIf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjUw/NzQtMTQzNTE2OTc4/MS0zODM2LmpwZWc.jpeg" alt="Cover for Skrillex and Diplo Present Jack Ü" style="max-width:120px; height:auto;" />
       </td>
@@ -429,7 +429,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/PqWIGPz5-UeNttRNd50jcONG55f3_heM7ojfdsq5mgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MjQ1/MTgtMTQyNzM5NzEw/NS00Nzc0LmpwZWc.jpeg" alt="Cover for Bitch Better Have My Money" style="max-width:120px; height:auto;" />
       </td>
@@ -448,7 +448,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/_0HjMrOzNb1qH49W34K8f7BgoikRGk1GGG-7zheWaZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDQ2/MzItMTQ0MDc5MDM0/My04NTQ2LmpwZWc.jpeg" alt="Cover for Honeymoon" style="max-width:120px; height:auto;" />
       </td>
@@ -472,7 +472,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/NbTkNeEoP_pu0nzZjZYIreFyLvv1dWWKP1E2tdVjycg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzIz/OTQ0LTE1MzI5NTAw/NTQtNjYxMi5qcGVn.jpeg" alt="Cover for Without Warning" style="max-width:120px; height:auto;" />
       </td>
@@ -494,7 +494,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/O2XFs96lnF5ipzjUJWQIERLngA84RkYfvQOcWSJtd0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MjY0/MzEtMTY2MTM1NDgx/MC03ODA0LmpwZWc.jpeg" alt="Cover for Lil Uzi Vert vs. The World" style="max-width:120px; height:auto;" />
       </td>
@@ -516,7 +516,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/h0__ca5LsjbYZuzvY1yikRQIeDULJW45-Jw62h_Tkpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjE1/MzgtMTU4NDIwMjYy/NS05NzI1LmpwZWc.jpeg" alt="Cover for Panda" style="max-width:120px; height:auto;" />
       </td>
@@ -542,7 +542,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/QH3zeMv-JiZvFHGhvp2GeRP5_BAvWKd4WYxlzRs0k-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDM2/NTItMTY0ODUwMDA5/My01MjkyLmpwZWc.jpeg" alt="Cover for Slime Season 3" style="max-width:120px; height:auto;" />
       </td>
@@ -560,7 +560,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/RcKoo6RqwIjmSjWTFMJAs0tY2NubMvsftWLtWnVTXNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTU0/ODQ4LTE2MTk5NDM3/MjktNjc4Ny5wbmc.jpeg" alt="Cover for Savage Mode II" style="max-width:120px; height:auto;" />
       </td>
@@ -580,7 +580,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/RcKoo6RqwIjmSjWTFMJAs0tY2NubMvsftWLtWnVTXNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTU0/ODQ4LTE2MTk5NDM3/MjktNjc4Ny5wbmc.jpeg" alt="Cover for Savage Mode" style="max-width:120px; height:auto;" />
       </td>
@@ -598,7 +598,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/HFrezwpG2HOuamvQYl2VY4HqcJg-83CmQRV7ItX6QaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODIy/MDUtMTU4NDIwMjU4/OS00MjgxLmpwZWc.jpeg" alt="Cover for Tiimmy Turner" style="max-width:120px; height:auto;" />
       </td>
@@ -624,7 +624,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/_urKx19jGE6rQAoUoLwYNhknh5lzSrEcDEteCKF6dTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTkx/Nzg2LTE2MjcwMTY2/OTctNzMxOS5wbmc.jpeg" alt="Cover for Roadtrip" style="max-width:120px; height:auto;" />
       </td>
@@ -646,7 +646,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/FFYjI4qQkhLS67l8FOcwiw6wNkOuqGQBBvw7OIgPZpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTg5/MjE0LTE2ODg2NDk3/OTAtMjE2Ny5qcGVn.jpeg" alt="Cover for Freewave 3" style="max-width:120px; height:auto;" />
       </td>
@@ -668,7 +668,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bddfa49e1d95f620267fac8f4663a60.png" alt="Cover for Jeffery" style="max-width:120px; height:auto;" />
       </td>
@@ -688,7 +688,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/M2RDkyb2D2mGnhmFkdXl5P1dPGH5N_ggiT2IBASdB5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjIy/NDMwLTE1Mzg3ODEz/NDYtNzY5MC5qcGVn.jpeg" alt="Cover for Plastic Surgery" style="max-width:120px; height:auto;" />
       </td>
@@ -712,7 +712,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15522d0175145dbea00c553c7bd338f1.png" alt="Cover for Culture" style="max-width:120px; height:auto;" />
       </td>
@@ -730,7 +730,27 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/keP0NjXntjCsRkWVwEuyHe7s0mecHoyB9vQnlGD40Kc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjU0/OTQwLTE2NjU1ODg2/OTMtNDI5Ni5qcGVn.jpeg" alt="Cover for At What Cost" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-03-24</td>
+      <td>GoldLink</td>
+      <td>At What Cost</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/YrfNUMNwdClYRAvEsNgLmYjUXdPDpVLxJXQSnGu8yp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTI4/Njg0LTE2NjI4Mzcw/NDEtNzMwMS5qcGVn.jpeg" alt="Cover for Playboi Carti" style="max-width:120px; height:auto;" />
       </td>
@@ -752,7 +772,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>2017-05-15</td>
@@ -771,7 +791,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>2017-05-26</td>
@@ -794,7 +814,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/CqZ-1P65wygysp6AqjAk_mKY0SmLqPplezLu5DKi3DE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc4/OTI3LTE1OTY2NjQx/MDQtMzM5Ni5qcGVn.jpeg" alt="Cover for Castles II" style="max-width:120px; height:auto;" />
       </td>
@@ -819,7 +839,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/5E9TPikbpE5KBi5yVl1A1e7IMtwAQ4uc0q15dtI_oIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzY1/NjQyLTE1MjE5OTcx/ODEtOTk3My5qcGVn.jpeg" alt="Cover for #SantanaWorld (+)" style="max-width:120px; height:auto;" />
       </td>
@@ -845,7 +865,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/aDEL2CiDvyomA_rCiF8ixiNJP2t4RZjXYzR7yZUVtmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTAy/NTU3LTE1MTc0ODU5/NzgtMzQyNC5qcGVn.jpeg" alt="Cover for Silence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da338fdd8d3b70176c7f8b2ed7bb1873.png" alt="Cover for Silence" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-08-11</td>
       <td>Marshmello</td>
@@ -861,7 +881,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/A6CboPuh104aPyTAzp0pro7ghfP-Q_IDwT5cPugNqtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg0/NTU5LTE1ODY1OTk3/NTEtMjY4My5qcGVn.jpeg" alt="Cover for Luv Is Rage 2" style="max-width:120px; height:auto;" />
       </td>
@@ -881,7 +901,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/T8dE6w2LeGCnVAK2_L15VbibaGf9Lkk0OdCbjDKsVss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAz/NDk5LTE1NDIyNjAx/NDktOTczNi5qcGVn.jpeg" alt="Cover for Euphoria" style="max-width:120px; height:auto;" />
       </td>
@@ -899,34 +919,6 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
         <ul>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 52</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>89</td>
-      <td>
-          <img src="https://i.discogs.com/HrV2ASSUj_BeMk8edd_4hTqhRvWO-Pb-bt91abN4Cpk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzE4/NjkyLTE1ODI1MTQ3/NTAtNTUxMS5qcGVn.jpeg" alt="Cover for Spotlight" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018</td>
-      <td>Marshmello</td>
-      <td>Spotlight</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 88</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 90</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 92</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 94</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -949,7 +941,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/R8P28TABHh9ID9heJFv4qgoL3VaScswVnOn_Pj8ye6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDY5/OTYzLTE1NDkxNTM2/OTYtMzU0MS5qcGVn.jpeg" alt="Cover for rockstar" style="max-width:120px; height:auto;" />
       </td>
@@ -990,7 +982,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/UvmLe9l2uou3Fa_QQxwgHHEg4WITdSYXHNVV1yUcasY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAy/NjQ1LTE1OTc0MTY5/NTktODg4MS5qcGVn.jpeg" alt="Cover for Die Lit" style="max-width:120px; height:auto;" />
       </td>
@@ -1012,7 +1004,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td>2018-05-25</td>
@@ -1037,7 +1029,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/6sjkRQaiGMbv5_YUc1FpNGBhzgPUPRD5dnhqBklDSA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMw/NDA2LTE1MzMwNjE2/NjctMzA0My5qcGVn.jpeg" alt="Cover for TA13OO" style="max-width:120px; height:auto;" />
       </td>
@@ -1061,7 +1053,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/nOWxDD3OoB14XtYaYTDb2UNJ5SGQ5mflevB65HO343M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzE0/NzMwLTE2NzgwMzU1/NDItODIzMS5qcGVn.jpeg" alt="Cover for ASTROWORLD" style="max-width:120px; height:auto;" />
       </td>
@@ -1126,7 +1118,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/Crw1-dyT0sZ33K73y3oEYMN9oMQ2eG48k-i6btfnJC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA3/MjUyLTE1NDgyNzI4/ODktNjcyMy5qcGVn.jpeg" alt="Cover for NOT ALL HEROES WEAR CAPES (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1148,7 +1140,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/9Sgh_dfPJfqUakivNHYsFikmkK1wL5nfL-2JXPU-W9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc5/MTk2LTE1NDM3MDc3/MDktMTQ4MS5qcGVn.jpeg" alt="Cover for Stokeley" style="max-width:120px; height:auto;" />
       </td>
@@ -1174,7 +1166,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/su7OXgIA3o0o_MMge04_lCpnZbcNt_OL4h3dZKcWu50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODM4/NTc2LTE2NTk4Mjg1/MjgtNzIwNC5qcGVn.jpeg" alt="Cover for Crazy Story" style="max-width:120px; height:auto;" />
       </td>
@@ -1194,7 +1186,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/o3TcflzttycVN_J51eK9gNPOJyHK-d52JtlRP7M8M9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc4/NzY1LTE1OTM5NjYz/ODctOTE3Ny5qcGVn.jpeg" alt="Cover for Skins" style="max-width:120px; height:auto;" />
       </td>
@@ -1212,7 +1204,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/3ghsWgBpsw1Vdt1i5HMM9Wc8Oflr2nGvfJfZlzqMpUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTIw/MDktMTY2MTM1NDc1/Ny01MDY2LmpwZWc.jpeg" alt="Cover for The Perfect Luv Tape" style="max-width:120px; height:auto;" />
       </td>
@@ -1232,7 +1224,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/sLBvROZgTjgReWEATa-iTwSv9Wi9ICttJMWkKgVkMrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTkw/NDU0LTE1NDk2NTI1/NTUtNTQ2OC5qcGVn.jpeg" alt="Cover for Thank U, Next" style="max-width:120px; height:auto;" />
       </td>
@@ -1251,7 +1243,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/SVqZxRdvppZrR7ZyNO6VMXgL-iCG2KjhktnjxcBnZkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzEw/OTk2LTE1NTk1MTYx/ODEtNTU2MS5qcGVn.jpeg" alt="Cover for Total Eclipse" style="max-width:120px; height:auto;" />
       </td>
@@ -1275,7 +1267,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/DvLPIiMEydJ-t_gxknciBprWiAwuwB5odUqSZrQ_oMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDgx/OTI3LTE2NjEyMDMz/NTEtNTMwNi5qcGVn.jpeg" alt="Cover for gym class" style="max-width:120px; height:auto;" />
       </td>
@@ -1299,9 +1291,9 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/zsyO7m1KjiaDzkqoqjctV7xCQoewXmK7kHh1B9IqDbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODE5/NTk3LTE1NjE4MzMy/MDItOTE5NC5qcGVn.jpeg" alt="Cover for 7 EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4c27e4034a8109c16fdb02fb488cd77.png" alt="Cover for 7 EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-20</td>
       <td>Lil Nas X</td>
@@ -1341,7 +1333,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/MKIbXOmT35sYS5n0k0awRUhUFp-Jf_c8sGJJvPk9qKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTA0/NzQwLTE2NTc5OTky/OTQtNTU4Ni5qcGVn.jpeg" alt="Cover for DIE FOR MY BITCH" style="max-width:120px; height:auto;" />
       </td>
@@ -1363,7 +1355,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/Iwj9zSOdwc5iF8mKtd22zzxe4IqTYVNnxED9h3n7hTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTIx/OTQ3LTE1NjQxMzQ1/ODUtMjQ4Ny5qcGVn.jpeg" alt="Cover for Vanilla Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -1389,7 +1381,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/Oc0NzN-yDuqWDrNureyVXtygpmfgIxTvJs8J4Zaksc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTgw/MTY3LTE2NTk1NDEx/MzEtNjEzMy5qcGVn.jpeg" alt="Cover for JACKBOYS" style="max-width:120px; height:auto;" />
       </td>
@@ -1408,9 +1400,9 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/nz18LozX0pXyvoypw7NFXfRw_ImnImqwK6gOy0w2CzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU5/Mzg1LTE1ODI5NzYx/MjMtMTUwNS5qcGVn.jpeg" alt="Cover for YHLQMDLG" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/685fe30abda57ff91193f164101045e4.png" alt="Cover for YHLQMDLG" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-02-29</td>
       <td>Bad Bunny</td>
@@ -1426,7 +1418,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/WbwubKTJg9dFY2SgCVGt8ag4XMUdS_Ox0BctpQ4QTi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIz/MTUxLTE2MjA5OTgw/MjktMjcyMC5qcGVn.jpeg" alt="Cover for HARDSTYLE DRILL 2009 NOKIA ANGELZ 1.6" style="max-width:120px; height:auto;" />
       </td>
@@ -1452,7 +1444,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/JyYmhMDLWn0XrwEmF0_IDvNDlkuyqqP353p83KfCqAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTM4/ODE3LTE2NTgyNzcy/MzEtMzAwNi5qcGVn.jpeg" alt="Cover for All Eyez on Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1480,7 +1472,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/HyjR67Tuxa8_QOaFdBm8DTQPwuSGGB-XJ4BxC9E93fg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjYx/NDk3LTE2Mjc1MTcy/MjktNjkzOC5qcGVn.jpeg" alt="Cover for ihonestlymightjustgiveup" style="max-width:120px; height:auto;" />
       </td>
@@ -1504,7 +1496,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/qiw76Fw99MkLJ2MBn0LU1JSp3V64dE1gSyWfVX0J-Bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTI3/NjE4LTE2MTc0MDUz/ODQtNjkzOC5qcGVn.jpeg" alt="Cover for Come &amp; Go (with Marshmello)" style="max-width:120px; height:auto;" />
       </td>
@@ -1530,7 +1522,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/NZk2uLH0m5ebpHP6yWl2NRIog2lmXVcpmN-pEFzpA0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzA5/OTk5LTE2OTU4Mjk2/NjMtNzY3MC5qcGVn.jpeg" alt="Cover for Teen X" style="max-width:120px; height:auto;" />
       </td>
@@ -1554,7 +1546,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/XdvPRl7NniNNZdQq2_imTJ2SeEpoxudh4dmnumV0SLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzcw/NDQ0LTE1ODEzNjU3/ODEtNjU4OC5qcGVn.jpeg" alt="Cover for Monopoly" style="max-width:120px; height:auto;" />
       </td>
@@ -1580,7 +1572,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/PJ0rla0Za2cdwKzk3bJzuBIN7uSytGyA5k-TOxXS3Wg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTg4/OTg2LTE2ODg2NDk1/MTItOTY3Mi5qcGVn.jpeg" alt="Cover for Greed (feat. Lil Yachty)" style="max-width:120px; height:auto;" />
       </td>
@@ -1600,7 +1592,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/oeEEdtb2TKwSDKX0aoCmjDnl0j_gs_KQuOYDqS3ZrvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDI0/MjQxLTE2MTAzNzI3/OTMtOTU3MC5qcGVn.jpeg" alt="Cover for Man On The Moon III: The Chosen" style="max-width:120px; height:auto;" />
       </td>
@@ -1619,7 +1611,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/f4wUaaM_Pl4iunqVYd0gkPhSxts7NyeFPr9Ur0sUWpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjE4/MzE3LTE2MTAyODEy/NzUtODcyMy5qcGVn.jpeg" alt="Cover for Whole Lotta Red" style="max-width:120px; height:auto;" />
       </td>
@@ -1643,7 +1635,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/qzgvLVyhZef9vS6JRIpNvpfq0cB5tJRMxG09OdIrxHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODg5/NDMzLTE1ODY1OTk3/MzUtODg0NC5qcGVn.jpeg" alt="Cover for Eternal Atake" style="max-width:120px; height:auto;" />
       </td>
@@ -1663,7 +1655,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/JyYmhMDLWn0XrwEmF0_IDvNDlkuyqqP353p83KfCqAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTM4/ODE3LTE2NTgyNzcy/MzEtMzAwNi5qcGVn.jpeg" alt="Cover for Dying in xxtyle 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1687,7 +1679,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/N8G9-C7z5B93YAZ-67z-ThX3xhSbudVdkkTG5o9AXYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODYz/NTM5LTE2MjE4Njk1/NDctNDk3NC5qcGVn.jpeg" alt="Cover for cypress grove" style="max-width:120px; height:auto;" />
       </td>
@@ -1713,9 +1705,9 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/x3cAY91FEoJN9D6KhrQ3MDbEe6-Hlc5IvR0sJAR3WGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjY2/NzQ4LTE2Mzk4NjUx/MDMtMTY3My5qcGVn.jpeg" alt="Cover for Planet Her" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2321c0b23c484ab566746c0dddfc777b.png" alt="Cover for Planet Her" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-25</td>
       <td>Doja Cat</td>
@@ -1736,7 +1728,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/r8C6GnJEkufj2GDQcaJE61CbIZfOe06EaYD-DOAtIDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/NzY0LTE2NjQ5Njc2/NzYtMTc0MC5qcGVn.jpeg" alt="Cover for Trëndi" style="max-width:120px; height:auto;" />
       </td>
@@ -1757,7 +1749,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/OrphlmzUbMoeNkhm5RVKHxmfATrYfm3gM_9uQTuILIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTQ1/NjYzLTE2Mjk1NzM4/NTItNjk5Ni5wbmc.jpeg" alt="Cover for Dark Knight Dummo (Feat. Travis Scott)" style="max-width:120px; height:auto;" />
       </td>
@@ -1775,7 +1767,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/pEIOixZJPKVbPt6SrExEYFcuLF7CHIPsLC5WFT6eeXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTU3/NzE5LTE2NDc2MjUw/MTItMTY4NC5qcGVn.jpeg" alt="Cover for Matt Hardy 999 (feat. Juice WRLD)" style="max-width:120px; height:auto;" />
       </td>
@@ -1799,9 +1791,9 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/wVJn3UaAszjvAmG5gQhMDLtWiPe_U7Kz99tsbxidaIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjU0/MTUxLTE1Nzg5ODUw/MDktODUxNy5qcGVn.jpeg" alt="Cover for Life On Earth - EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c250a67a776d919521766f943e8d741e.png" alt="Cover for Life On Earth - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11-05</td>
       <td>Summer Walker</td>
@@ -1820,7 +1812,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/XrYeLZ_4O4UfgZZINDKSdfsl8sZrr6WoI7qGVrnP1vc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzQ2/Njg0LTE2MjA0MjU3/MjMtOTk0MS5qcGVn.jpeg" alt="Cover for ONEPOINTFIVE" style="max-width:120px; height:auto;" />
       </td>
@@ -1856,7 +1848,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/HZxFCkQ9FkTbM6J8LmbuNW4IXvSi5Cp7YmOOorWwklo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzAw/NDY3LTE2NjEzNTIy/NTItMjA0MC5qcGVn.jpeg" alt="Cover for In My Head" style="max-width:120px; height:auto;" />
       </td>
@@ -1881,7 +1873,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2022-02-12</td>
@@ -1910,7 +1902,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/iPkYwZXLl91kDe2mp0UpUlDiA4DXuQj7yZl08qBf40c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTU3/NTM4LTE2NjkwNjQx/NjItODkzOC5qcGVn.jpeg" alt="Cover for Super Urus" style="max-width:120px; height:auto;" />
       </td>
@@ -1930,7 +1922,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/SBEyq2QeS8U4U9ooaKrFCtuF4ShAbWOaInF8MjcygyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDU4/MjY2LTE2NTEyNjk4/OTktNjIxMy5qcGVn.jpeg" alt="Cover for I Never Liked You" style="max-width:120px; height:auto;" />
       </td>
@@ -1950,7 +1942,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/764ggbeU4T6cV9z0uMt9qkLyxMQ1Mrr_64ex48_0mpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjA4/MDMyLTE2NTM2Njg4/MTctNjA0Mi5qcGVn.jpeg" alt="Cover for Mr. Morale &amp; the Big Steppers" style="max-width:120px; height:auto;" />
       </td>
@@ -1981,7 +1973,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2022-07-29</td>
@@ -1998,7 +1990,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/aoFnKvSMVxKOsTmLSDPQ3QOPK-ZmLXMXz2xyn1J8l98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzI1/NzUzLTE2NjQ5NjY4/ODUtMjU1MC5qcGVn.jpeg" alt="Cover for Lyfë" style="max-width:120px; height:auto;" />
       </td>
@@ -2036,7 +2028,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/zxw4jmFp-dLeIC2CvIOUvo_EO13q0jetnOHZoQwrmu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzUx/MDIxLTE2NzAwMTM1/MDAtNDk4My5qcGVn.jpeg" alt="Cover for Heroes &amp; Villains" style="max-width:120px; height:auto;" />
       </td>
@@ -2074,7 +2066,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/_8LZkqgYIxr-3wQj5drDQ6UplmKkqzz9h4uwixVlsMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQ2/MjQ5LTE2ODgyMTI4/NTEtNDkwNi5qcGVn.jpeg" alt="Cover for PINK TAPE" style="max-width:120px; height:auto;" />
       </td>
@@ -2094,7 +2086,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/j-O5Wj479PK4_2Z4p25u3alpjv2IZVY0TdX6y14_3bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODAy/NTYzLTE2OTA1NDY2/MTEtOTY4OS5qcGVn.jpeg" alt="Cover for Utopia" style="max-width:120px; height:auto;" />
       </td>
@@ -2124,7 +2116,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/tycClN8s9QKk_lCzM9xwJS7wSpOyxsbQx55STgob9c4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDEw/MjUzLTE2OTIzODIx/NzItNTYwNi5qcGVn.jpeg" alt="Cover for AR" style="max-width:120px; height:auto;" />
       </td>
@@ -2147,8 +2139,8 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 56</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 70</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 70</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 71</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 95</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 95</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 96</li>
@@ -2158,7 +2150,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/TGXH3Vn117miRv-Ch9-I2Ei8Qx6kdPc9XfBiLzRYs5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjI4/NjY4LTE2OTc2MjQy/MzYtNzk3Ni5qcGVn.jpeg" alt="Cover for A Great Chaos" style="max-width:120px; height:auto;" />
       </td>
@@ -2179,7 +2171,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/BgAulR25L3x83MV1nsIetkx1sjJn9E47eexTtYF0Krk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA2/MDY0LTE2MTUxMzQ3/MDgtNzI1NC5qcGVn.jpeg" alt="Cover for ZUU" style="max-width:120px; height:auto;" />
       </td>
@@ -2200,7 +2192,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>2024-06-14</td>
@@ -2217,7 +2209,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/zX3QbWR3O7vRy26rRPd5C1E7VhJ6PL6kIhcaBslAUXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTEz/NTE4LTE2NTg1MzY4/NjYtNDk4Ny5wbmc.jpeg" alt="Cover for her loss" style="max-width:120px; height:auto;" />
       </td>
@@ -2237,7 +2229,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td></td>
