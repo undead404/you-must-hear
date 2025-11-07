@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T12:30:58.162Z
+date: 2025-11-06T15:04:21.522Z
 permalink: tags/eurodance
 title: eurodance
 ---
 
 ## eurodance
 
-Last updated: <time datetime="2025-10-28T12:30:58.162Z">Tue Oct 28 2025 14:30:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-06T15:04:21.522Z">Thu Nov 06 2025 17:04:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -15,108 +15,1962 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 2 |  |  | MC Sar &amp; The Real McCoy | Another Night |
-| 4 |  |  | Promoe | Svennebanan |
-| 32 | ![Cover](https://i.discogs.com/25n7IQG_7Mx-6_zpdbSofea4zEQGoPkM5ZHfZc8gOvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTY4/ODEtMTQxMzk2Mzg4/My05MTA1LmpwZWc.jpeg) | 1987 | Modern Talking | In The Garden Of Venus |
-| 20 | ![Cover](https://i.discogs.com/mZjJqN1R0rke1eW_bCcMYFQWqBEMxyGslKqMakLJqp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODAy/MC0xMTg0MjA0OTQ2/LmpwZWc.jpeg) | 1989 | Technotronic | Pump Up The Jam - The Album |
-| 19 |  | 1989-11-07 | Technotronic | Pump Up the Jam: The Album |
-| 23 | ![Cover](https://i.discogs.com/4tmWskp6MNVDSTn9yg2ldhK6OpG7LO9845iMjak7-rM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODMw/OC0xNjg2Nzc1ODk1/LTM5NTQuanBlZw.jpeg) | 1990 | Nick Kamen | Move Until We Fly |
-| 18 |  | 1992-11-30 | Double You | We All Need Love |
-| 50 |  |  | DJ Heartstring | 4 The People |
-| 100 | ![Cover](https://i.discogs.com/JimlzwTxRAQ56O0VU7_H68tOa1_j8YYDeNoJ3jM7mMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjc4/MDMtMTUwNDQ1NjIw/MS00ODMxLmpwZWc.jpeg) | 1990 | Robin S | Show Me Love |
-| 84 | ![Cover](https://i.discogs.com/8uIbImQGps5Ht72dmwwD1XgGfIvoMH9DZb99yCe-S5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDUz/MjctMTUxOTgxMDA4/Ny0yNDQ2LmpwZWc.jpeg) | 1990-05-14 | Snap! | World Power |
-| 60 |  | 1990-12-13 | C+C Music Factory | Gonna Make You Sweat |
-| 55 | ![Cover](https://i.discogs.com/TflYg9sHaIUQUdSLUb-eHY3AyAYUVQfgLZp_PEnoKjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjE3/MS0xNTI1NTMyMTUy/LTg3MTIuanBlZw.jpeg) | 1992-07 | Captain Hollywood Project | More and More |
-| 51 |  | 1992-09-15 | The Shamen | Boss Drum |
-| 72 | ![Cover](https://i.discogs.com/YPLMXsQirDCIFuGwIpWnwt3s6DceEso3_c4OIio8y-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzU1/NS0xMzg5NjM5MTIx/LTk1MzcuanBlZw.jpeg) | 1992-11-30 | Dr. Alban | One Love |
-| 11 |  | 1993 | Jam &amp; Spoon | Right in the night |
-| 26 | ![Cover](https://i.discogs.com/255Xd7pzo1icSZ9_hfcMk9HIucXb--9RJ-NpeXuir3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTEx/LTE1MDEzNDQxMTYt/NTk4OS5qcGVn.jpeg) | 1993 | Reel 2 Real | I Like To Move It |
-| 35 | ![Cover](https://i.discogs.com/Xw8U5kH45Oo9usaOyZqIHUk61Oo2Tgtsplg8VMBFjp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDky/NC0xNTk3Njg2NjA0/LTMzNzIuanBlZw.jpeg) | 1993 | Haddaway | What Is Love (Reloaded) |
-| 66 | ![Cover](https://i.discogs.com/DcZR_1ZfYf6IexeHs3jIhKuvrey0PPs_XqReDxoFwPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MzU2LTE1MDY5ODA4/NzUtMjY0MS5qcGVn.jpeg) | 1993 | Undercover | Chapati |
-| 87 | ![Cover](https://i.discogs.com/N3w9KU1SI04wadoQ_DJly9MM9I4CDMkbT5XUtM-SDQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgw/OC0xMjE3ODgwMDgw/LmpwZWc.jpeg) | 1993 | Real McCoy | Another Night |
-| 99 |  | 1993 | Corona | The Rhythm of the Night |
-| 80 |  | 1993-01-19 | Cappella | U Got 2 Know |
-| 34 |  | 1993-03-01 | Captain Hollywood Project | Love Is Not Sex |
-| 16 | ![Cover](https://i.discogs.com/m414cLeUc_7A_9IFHC-_e-jEmqIh84hg0MbHm8BeBaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzkz/NDAtMTUzNzAyMTQ5/NS0xOTA4LmpwZWc.jpeg) | 1993-05-10 | 2 Unlimited | No Limits |
-| 75 | ![Cover](https://i.discogs.com/n4pO7WyeIdsPndl7WVK2pWWrYjZM0LSSJiVP9thTVbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDQz/NS0xMTA4OTMyNjE4/LmpwZw.jpeg) | 1993-06-02 | Culture Beat | Serenity |
-| 71 |  | 1993-11-23 | Haddaway | Haddaway |
-| 95 |  | 1993-11-23 | Haddaway | The Album |
-| 1 |  | 1994 | Reel 2 Real | Move It! |
-| 49 | ![Cover](https://i.discogs.com/kvgiqar8Cm8M4Aq7gWL3QRFDCLy9Fr9huGdeV4_scfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTE1/NC0xNjI3MTI3OTYy/LTY1ODQuanBlZw.jpeg) | 1994-07-03 | Maxx | To the Maxximum |
-| 68 |  | 1994-08-31 | 2 Brothers on the 4th Floor | Dreams |
-| 7 |  | 1994-11-23 | Basic Element | Basic Injection |
-| 62 |  | 1995 | DJ Bobo | There Is a Party |
-| 8 | ![Cover](https://i.discogs.com/0s2EQWyMCkYXB5cdtBUiHY9W3wxch3b6ItutCviSU14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTMw/LTE0MTQ4Nzk0MzAt/OTUxNS5qcGVn.jpeg) | 1995-01-01 | Culture Beat | Inside Out |
-| 56 | ![Cover](https://i.discogs.com/P1wy6JDHhB2oObugmVnCCT_S0oYRoCjXYMuxBDz6nL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTI2/NzktMTUwODI5MjY4/My02NjU2LmpwZWc.jpeg) | 1995-05-04 | Whigfield | Whigfield |
-| 41 |  | 1995-05-29 | E-Rotic | Sex Affairs |
-| 37 |  | 1995-09-11 | N-Trance | Stayin&#39; Alive |
-| 47 |  | 1995-10-30 | Masterboy | Generation of Love |
-| 45 | ![Cover](https://i.discogs.com/862uIYHAqWy_oVAk3gvtXgI2I-b65GVVaZbCaMc2l_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTA0/LTEyNzUwNzU4MTMu/anBlZw.jpeg) | 1996 | Livin&#39; Joy | Don’t Stop Movin’ |
-| 39 |  | 1996-03-25 | Captain Jack | The Mission |
-| 81 |  | 1996-05-17 | Mr. President | We See The Same Sun |
-| 9 |  | 1996-09-03 | Paulina Rubio | Planeta Paulina |
-| 63 | ![Cover](https://i.discogs.com/X8LaWxVxqnu8Nsn7xod3ty2TZvnxgz_93aSW9Yg__zQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQ1/MS0xNTI2ODYxMTk1/LTcxMTYuanBlZw.jpeg) | 1996-11-25 | Amber | This Is Your Night |
-| 43 | ![Cover](https://i.discogs.com/vlZeQwN5jsngOkShA_Zeo5e2YgmBAsYrpoRC7XtykGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTEw/NS0xNTU0MTI4MTUw/LTk1OTguanBlZw.jpeg) | 1997-11-18 | Gala | Come Into My Life |
-| 64 | ![Cover](https://i.discogs.com/1VuUSZvMvHVKLqTg5um5SP1plrYYiNIvv2ykZy44ZvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzQ5/MTUtMTU1ODQ3NDE3/My03MzU4LmpwZWc.jpeg) | 1998-06-10 | Modern Talking | Back For Good |
-| 15 | ![Cover](https://i.discogs.com/yleQ__Ikz6We3mieWL4Y9cY0Qcpf28ZfH8GoY1JSLMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzcy/OTMtMTQ4MjE3NTc3/Mi05NTY4LmpwZWc.jpeg) | 1998-06-15 | Ace of Base | Flowers |
-| 85 | ![Cover](https://i.discogs.com/eeGGc4riaAbva15xbfQytPy_Ew2uKJ4xVCSX1UZ8jbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTE1/NjItMTUwODE1MTAy/NC00MjM4LmpwZWc.jpeg) | 1998-11-09 | Vengaboys | The Party Album! |
-| 54 |  | 1998-11-27 | E-Type | Last Man Standing |
-| 78 |  |  | SEGA Sound Team | Sonic R Original Soundtrack |
-| 88 |  | 1992-03-24 | Snap! | The Madman&#39;s Return |
-| 90 | ![Cover](https://i.discogs.com/J1jVrPta7aXaMcOR2IpqOwAyBGZ40rXtnZn_Y2-N-JE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM4/Ny0xNjAzNTIzNDUy/LTgxNjIuanBlZw.jpeg) | 1994-06 | La Bouche | Sweet Dreams |
-| 91 | ![Cover](https://i.discogs.com/G1h7f46SaJkUCzuPAxibmVL_EUrbo-A6vceiRQusauY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTgz/Mi0xMTk3NzU3MzUz/LmpwZWc.jpeg) | 1994-08-12 | Rednex | Sex &amp; Violins |
-| 93 |  | 1995-07-10 | Scatman John | Scatman&#39;s World |
-| 96 |  | 1997-05-21 | Aqua | Aquarium |
-| 13 | ![Cover](https://i.discogs.com/7wbN4ZXn1UjZs2iIWmTSNGeK0sD5sIPu7fBIdcFLq0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzI0/MS0xNTgyMzE4Njg0/LTMyOTAuanBlZw.jpeg) | 1999 | Lady Violet | Inside to Outside |
-| 52 | ![Cover](https://i.discogs.com/eUQPXDSAkKghoVlf0nSQIjUpb3yByGND1hlGrOGDJ4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzIt/MTIxODI1MjU4OC5q/cGVn.jpeg) | 1999 | French Affair | My Heart Goes Boom &#39;reloaded&#39; |
-| 31 |  | 1999-08-04 | Toy-Box | Fantastic |
-| 86 |  | 1999-11 | Gigi D&#39;Agostino | L&#39;Amour Toujours |
-| 89 | ![Cover](https://i.discogs.com/6liVrZflJVV5RChIHaFgjZFHQOfwVgV46l6u5AeIYyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjQw/Ny0xNTA2NDM5NzM4/LTI0MjAuanBlZw.jpeg) | 1999-11-20 | Eiffel 65 | Europop |
-| 21 | ![Cover](https://i.discogs.com/CQZZx75pb_cuqJ48OAvv3gDzijFeTdAD_DbreZNmcyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTU3/MC0xNDczMzU3MTEw/LTgzMDUuanBlZw.jpeg) | 2000 | Gigi D&#39;Agostino | Top 100 Greatest Dance Hits |
-| 82 | ![Cover](https://i.discogs.com/8jjfDK0DEVuAaFtfpVDq2DdJXIJwrTEyQXhV07d49Zs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODUz/NjItMTI5MjI3NTA3/MS5qcGVn.jpeg) | 2000 | Vengaboys | Greatest Hits! |
-| 92 | ![Cover](https://i.discogs.com/0tQJaLNCe4iQm4UvsxL1Z97ZX00UEy0U9YPBo2podqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTE2/Mzk3LTE1NjM5OTk3/MzctNzE1NC5qcGVn.jpeg) | 2000 | Aqua | Aquarium (Special Edition) |
-| 36 |  | 2000-03-13 | Vengaboys | The Platinum Album |
-| 42 |  | 2000-09-26 | Milk Inc. | Land Of The Living |
-| 97 |  | 2000-10-02 | Baha Men | Who Let the Dogs Out |
-| 17 | ![Cover](https://i.discogs.com/YTTh8uLWTm1jeKObKJk-u3AOjgAHJ5Q46OGOfB5M7hA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc3/NDItMTE5MDQxMTk4/MC5qcGVn.jpeg) | 2001 | S Club | Sunshine |
-| 38 |  | 2001-11-21 | E-Type | Euro IV Ever |
-| 24 | ![Cover](https://i.discogs.com/B7ICJ_0QmLb9D7gWaqzOZEUALuT9-pm_4VqQ0aIAs68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDA0/My0xNDUwNzMyNzE2/LTEwMjYuanBlZw.jpeg) | 2002 | Kate Ryan | Libertine |
-| 10 | ![Cover](https://i.discogs.com/m-tbqqJ6bwdSpF8wtPWghxTq-BvTIjqukqwrgkEH9nI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU3/MjgtMTQyMDQ1MzIx/Mi0yNjQ1LmpwZWc.jpeg) | 2002-04-29 | Modern Talking | Alone |
-| 5 | ![Cover](https://i.discogs.com/YHBOvpt_0DL0J4kTNNsIE5BSvPtPz5bKYBg4-9KqrCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjM4/My0xNTEzNDM3MDEx/LTg0MzguanBlZw.jpeg) | 2002-06-24 | Mark &#39;Oh | Let This Party Never End |
-| 28 | ![Cover](https://i.discogs.com/FJW0XnS9l1_imlRga5G4-kHMutvqzQjQB_YQOL4U9RA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk5/LTExNjU3NTU5NDAu/anBlZw.jpeg) | 2002-11-18 | Lasgo | Pray |
-| 69 | ![Cover](https://i.discogs.com/LKx7d1qINaF6wK6xG9hIgpUJvk7Ut9lXuM6KpcHRX-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTI0/Mi0xMTIyNzYwMzUx/LmpwZw.jpeg) | 2003 | Magic Box | If You... |
-| 14 |  | 2003-08-13 | O-Zone | Disco-zone |
-| 33 |  | 2004-08-23 | Groove Coverage | 7 Years And 50 Days |
-| 83 |  | 2005-07-25 | Crazy Frog | Crazy Frog Presents Crazy Hits |
-| 22 | ![Cover](https://i.discogs.com/FfjbscMJlQCVXbGfFt-M_MQxhMGCrsSnQyj1y0x6h0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDE2/OC0xNDU5NDMzMTQy/LTg2MjguanBlZw.jpeg) | 2005-09-26 | Sugababes | Push The Button |
-| 6 |  | 2006-02-01 | Steve Ellington Band | The Electrolysis EP |
-| 58 |  | 2006-08-30 | Basshunter | LOL &lt;(^^,)&gt; |
-| 27 |  | 2006-09-01 | Milk Inc. | Supersized |
-| 12 | ![Cover](https://i.discogs.com/jbVv1VAk_KhR_2oAUvGOlsK-OOVl1xLZP24sni--qCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ4/MzgtMTY0MzUzMzMz/MC0yMDEwLmpwZWc.jpeg) | 2007-10 | Yelle | A Cause Des Garçons |
-| 61 |  | 2007-10-31 | E-Type | Eurotopia |
-| 67 |  | 2007-12-03 | Cascada | Perfect Day |
-| 3 | ![Cover](https://i.discogs.com/5z9duWnHA_-txAhYWq86jDc8o-W-0akRp-BIOlP8V84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjc3/MjUtMTI1MzAxNTky/OS5qcGVn.jpeg) | 2008 | Waldo&#39;s People | Lose Control |
-| 29 | ![Cover](https://i.discogs.com/yYan1lJY4lKohLQn9o0WxOgcT8bt0O_qJWHeBJ9yXvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM3/Mjg1LTE1NzI0ODk0/NDEtMjMwNS5wbmc.jpeg) | 2008-06-25 | Caramell | Caramelldansen - Speedy Mixes |
-| 40 | ![Cover](https://i.discogs.com/2pHJcRVY_Xmb8src3iuuJ_NcYnDTQzlpiLw1af0eOZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjg3/MDg1LTE2NDg1NjAx/NzItMjgyMS5qcGVn.jpeg) | 2009-01-26 | Reel 2 Real | I Like to Move It (feat. The Mad Stuntman) |
-| 46 | ![Cover](https://i.discogs.com/6VzdzewiwRBJfDqvTx6refVdBYvOeP9GuRdhvVqKg1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIy/NzAtMTI1NTQ1Nzcy/My5qcGVn.jpeg) | 2009-08-20 | Inna | HEARTBREAKER |
-| 25 | ![Cover](https://i.discogs.com/8QnIJKUuvEQUpsQAehYXq-2CysUM985PUHc3KLjNOAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjYw/NzE0LTE1ODg4Mzgx/MzEtNjU2Mi5wbmc.jpeg) | 2010 | Lady Gaga | Chromatica |
-| 48 | ![Cover](https://i.discogs.com/9cYN3UVP9HesuFfN-gV1d7Q2Fvp-jduuj_7C5Ul8MqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI1/NzQtMTQwMzI1NTUy/MC05MDc5LmpwZWc.jpeg) | 2010-03-19 | Italobrothers | Love Is On Fire |
-| 76 |  | 2010-09-13 | Rihanna | Only Girl (In the World) |
-| 59 |  | 2011-02-14 | September | Love CPR |
-| 65 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0110e5e0ff7fe9ecdbab0011cf1dde6a.png) | 2012 | Pitbull | I Am Armando - Armando Reloaded |
-| 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ed1a39b3f9a8e0ec0cb1568549b3a7d5.png) | 2012-05-01 | Marsheaux | E-Bay Queen Is Dead |
-| 70 | ![Cover](https://i.discogs.com/V1rSdhd9PK7B0xxMNe2i0X_flltmi2oAhSYXV-EFPos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ5/NTU5LTE2NDc1NjM0/MzItMjAxNS5wbmc.jpeg) | 2013-05-04 | Ecco2k &amp; Bladee | Amygdala - Single |
-| 57 | ![Cover](https://i.discogs.com/iYRhhQlYnlrm4Jllew6yOShb8txyq6J_QOIWcDYZ934/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzA3/NTAtMTQxNjY1Mjg2/MS00MDQ3LmpwZWc.jpeg) | 2014 | Pitbull | Fireball (feat. John Ryan) |
-| 94 |  | 2014-11-21 | Pitbull | Globalization |
-| 98 | ![Cover](https://i.discogs.com/iN06f6aa8pelm4QzBN5KZPaiea6WZcnzG1lzUeJTHpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Mjg3/NzAtMTQyOTcyMjI4/OS02NTg2LmpwZWc.jpeg) | 2015-04-21 | Adam Lambert | Ghost Town |
-| 79 | ![Cover](https://i.discogs.com/o7nfRyDPKwMezsYwpmJVqOvT-7QXiGWnB3ND3KtL7Vg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA1/OTAyLTE1NTk0MTUx/MjQtMjI4MS5qcGVn.jpeg) | 2017 | Thaiboy Digital | S.o.S |
-| 73 | ![Cover](https://i.discogs.com/ScCCFIvApyx8tGKmTVBUflOlw1RA1LnDg3QhbpgTpg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjYy/MzQ2LTE3MDMxMzYx/NDAtMTAxNi5qcGVn.jpeg) | 2018-12-12 | slayyyter | STARFUCKER (Deluxe) |
-| 53 | ![Cover](https://i.discogs.com/PbyWODM4naaKPSPKCeYUhJ2sWeQ02ccs1FWhuLl5tkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTQw/NTctMTQ2Njc2NDI5/Ny02NDIwLmpwZWc.jpeg) | 2019-05-30 | Inna | Nirvana |
-| 74 | ![Cover](https://i.discogs.com/NeV1bPQaHA38MwhhymgaTPN24MUaVYRphQjpQkOOZE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDU3/OTc3LTE2MzAzNjk1/MTktODU0Mi5qcGVn.jpeg) | 2020-08-19 | Dj Billybool | My Fantasy World |
-| 77 | ![Cover](https://i.discogs.com/0UkP2nt9329x8wjek8hwRbzrzsRtZSnxY0OFWioCBdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzQ1/MDQ5LTE2MzUzMDU0/NjQtNzk5Ni5qcGVn.jpeg) | 2021-10-26 | Romy | Strong |
-| 44 | ![Cover](https://i.discogs.com/ZiUpgxjqLUMYkF3mteaz4uzTsfI8ywvv6gT_rogBx3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg2/MTY2LTE2OTMwNzgy/NTctODQyMS5qcGVn.jpeg) | 2024-02-29 | Six Sex | satiSFIRE |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/25n7IQG_7Mx-6_zpdbSofea4zEQGoPkM5ZHfZc8gOvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTY4/ODEtMTQxMzk2Mzg4/My05MTA1LmpwZWc.jpeg" alt="Cover for In The Garden Of Venus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Modern Talking</td>
+      <td>In The Garden Of Venus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/mZjJqN1R0rke1eW_bCcMYFQWqBEMxyGslKqMakLJqp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODAy/MC0xMTg0MjA0OTQ2/LmpwZWc.jpeg" alt="Cover for Pump Up The Jam - The Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Technotronic</td>
+      <td>Pump Up The Jam - The Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td>1989-11-07</td>
+      <td>Technotronic</td>
+      <td>Pump Up the Jam: The Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/4tmWskp6MNVDSTn9yg2ldhK6OpG7LO9845iMjak7-rM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODMw/OC0xNjg2Nzc1ODk1/LTM5NTQuanBlZw.jpeg" alt="Cover for Move Until We Fly" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Nick Kamen</td>
+      <td>Move Until We Fly</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/JimlzwTxRAQ56O0VU7_H68tOa1_j8YYDeNoJ3jM7mMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjc4/MDMtMTUwNDQ1NjIw/MS00ODMxLmpwZWc.jpeg" alt="Cover for Show Me Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Robin S</td>
+      <td>Show Me Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/8uIbImQGps5Ht72dmwwD1XgGfIvoMH9DZb99yCe-S5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDUz/MjctMTUxOTgxMDA4/Ny0yNDQ2LmpwZWc.jpeg" alt="Cover for World Power" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990-05-14</td>
+      <td>Snap!</td>
+      <td>World Power</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+      </td>
+      <td>1990-12-13</td>
+      <td>C+C Music Factory</td>
+      <td>Gonna Make You Sweat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>1992-03-24</td>
+      <td>Snap!</td>
+      <td>The Madman&#39;s Return</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/TflYg9sHaIUQUdSLUb-eHY3AyAYUVQfgLZp_PEnoKjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjE3/MS0xNTI1NTMyMTUy/LTg3MTIuanBlZw.jpeg" alt="Cover for More and More" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992-07</td>
+      <td>Captain Hollywood Project</td>
+      <td>More and More</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+      </td>
+      <td>1992-09-15</td>
+      <td>The Shamen</td>
+      <td>Boss Drum</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/YPLMXsQirDCIFuGwIpWnwt3s6DceEso3_c4OIio8y-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzU1/NS0xMzg5NjM5MTIx/LTk1MzcuanBlZw.jpeg" alt="Cover for One Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992-11-30</td>
+      <td>Dr. Alban</td>
+      <td>One Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td>1992-11-30</td>
+      <td>Double You</td>
+      <td>We All Need Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/DcZR_1ZfYf6IexeHs3jIhKuvrey0PPs_XqReDxoFwPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MzU2LTE1MDY5ODA4/NzUtMjY0MS5qcGVn.jpeg" alt="Cover for Chapati" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Undercover</td>
+      <td>Chapati</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Jam &amp; Spoon</td>
+      <td>Right in the night</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/255Xd7pzo1icSZ9_hfcMk9HIucXb--9RJ-NpeXuir3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTEx/LTE1MDEzNDQxMTYt/NTk4OS5qcGVn.jpeg" alt="Cover for I Like To Move It" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Reel 2 Real</td>
+      <td>I Like To Move It</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/Xw8U5kH45Oo9usaOyZqIHUk61Oo2Tgtsplg8VMBFjp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDky/NC0xNTk3Njg2NjA0/LTMzNzIuanBlZw.jpeg" alt="Cover for What Is Love (Reloaded)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Haddaway</td>
+      <td>What Is Love (Reloaded)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/N3w9KU1SI04wadoQ_DJly9MM9I4CDMkbT5XUtM-SDQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgw/OC0xMjE3ODgwMDgw/LmpwZWc.jpeg" alt="Cover for Another Night" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Real McCoy</td>
+      <td>Another Night</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Corona</td>
+      <td>The Rhythm of the Night</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>1993-01-19</td>
+      <td>Cappella</td>
+      <td>U Got 2 Know</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td>1993-03-01</td>
+      <td>Captain Hollywood Project</td>
+      <td>Love Is Not Sex</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/m414cLeUc_7A_9IFHC-_e-jEmqIh84hg0MbHm8BeBaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzkz/NDAtMTUzNzAyMTQ5/NS0xOTA4LmpwZWc.jpeg" alt="Cover for No Limits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-05-10</td>
+      <td>2 Unlimited</td>
+      <td>No Limits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/n4pO7WyeIdsPndl7WVK2pWWrYjZM0LSSJiVP9thTVbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDQz/NS0xMTA4OTMyNjE4/LmpwZw.jpeg" alt="Cover for Serenity" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-06-02</td>
+      <td>Culture Beat</td>
+      <td>Serenity</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td>1993-11-23</td>
+      <td>Haddaway</td>
+      <td>Haddaway</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>1993-11-23</td>
+      <td>Haddaway</td>
+      <td>The Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Reel 2 Real</td>
+      <td>Move It!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/J1jVrPta7aXaMcOR2IpqOwAyBGZ40rXtnZn_Y2-N-JE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM4/Ny0xNjAzNTIzNDUy/LTgxNjIuanBlZw.jpeg" alt="Cover for Sweet Dreams" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-06</td>
+      <td>La Bouche</td>
+      <td>Sweet Dreams</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/kvgiqar8Cm8M4Aq7gWL3QRFDCLy9Fr9huGdeV4_scfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTE1/NC0xNjI3MTI3OTYy/LTY1ODQuanBlZw.jpeg" alt="Cover for To the Maxximum" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-07-03</td>
+      <td>Maxx</td>
+      <td>To the Maxximum</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/G1h7f46SaJkUCzuPAxibmVL_EUrbo-A6vceiRQusauY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTgz/Mi0xMTk3NzU3MzUz/LmpwZWc.jpeg" alt="Cover for Sex &amp; Violins" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-08-12</td>
+      <td>Rednex</td>
+      <td>Sex &amp; Violins</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td>1994-08-31</td>
+      <td>2 Brothers on the 4th Floor</td>
+      <td>Dreams</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td>1994-11-23</td>
+      <td>Basic Element</td>
+      <td>Basic Injection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>Sin With Sebastian</td>
+      <td>Golden Boy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>DJ Bobo</td>
+      <td>There Is a Party</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/0s2EQWyMCkYXB5cdtBUiHY9W3wxch3b6ItutCviSU14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTMw/LTE0MTQ4Nzk0MzAt/OTUxNS5qcGVn.jpeg" alt="Cover for Inside Out" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-01-01</td>
+      <td>Culture Beat</td>
+      <td>Inside Out</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/P1wy6JDHhB2oObugmVnCCT_S0oYRoCjXYMuxBDz6nL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTI2/NzktMTUwODI5MjY4/My02NjU2LmpwZWc.jpeg" alt="Cover for Whigfield" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-05-04</td>
+      <td>Whigfield</td>
+      <td>Whigfield</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td>1995-05-29</td>
+      <td>E-Rotic</td>
+      <td>Sex Affairs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td>1995-07-10</td>
+      <td>Scatman John</td>
+      <td>Scatman&#39;s World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td>1995-09-11</td>
+      <td>N-Trance</td>
+      <td>Stayin&#39; Alive</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>1995-10-30</td>
+      <td>Masterboy</td>
+      <td>Generation of Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/862uIYHAqWy_oVAk3gvtXgI2I-b65GVVaZbCaMc2l_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTA0/LTEyNzUwNzU4MTMu/anBlZw.jpeg" alt="Cover for Don’t Stop Movin’" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Livin&#39; Joy</td>
+      <td>Don’t Stop Movin’</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+      </td>
+      <td>1996-03-25</td>
+      <td>Captain Jack</td>
+      <td>The Mission</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td>1996-05-17</td>
+      <td>Mr. President</td>
+      <td>We See The Same Sun</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+      </td>
+      <td>1996-09-03</td>
+      <td>Paulina Rubio</td>
+      <td>Planeta Paulina</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 1</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/X8LaWxVxqnu8Nsn7xod3ty2TZvnxgz_93aSW9Yg__zQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQ1/MS0xNTI2ODYxMTk1/LTcxMTYuanBlZw.jpeg" alt="Cover for This Is Your Night" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-11-25</td>
+      <td>Amber</td>
+      <td>This Is Your Night</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td>1997-05-21</td>
+      <td>Aqua</td>
+      <td>Aquarium</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/vlZeQwN5jsngOkShA_Zeo5e2YgmBAsYrpoRC7XtykGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTEw/NS0xNTU0MTI4MTUw/LTk1OTguanBlZw.jpeg" alt="Cover for Come Into My Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-11-18</td>
+      <td>Gala</td>
+      <td>Come Into My Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/1VuUSZvMvHVKLqTg5um5SP1plrYYiNIvv2ykZy44ZvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzQ5/MTUtMTU1ODQ3NDE3/My03MzU4LmpwZWc.jpeg" alt="Cover for Back For Good" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-06-10</td>
+      <td>Modern Talking</td>
+      <td>Back For Good</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/yleQ__Ikz6We3mieWL4Y9cY0Qcpf28ZfH8GoY1JSLMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzcy/OTMtMTQ4MjE3NTc3/Mi05NTY4LmpwZWc.jpeg" alt="Cover for Flowers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-06-15</td>
+      <td>Ace of Base</td>
+      <td>Flowers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/eeGGc4riaAbva15xbfQytPy_Ew2uKJ4xVCSX1UZ8jbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTE1/NjItMTUwODE1MTAy/NC00MjM4LmpwZWc.jpeg" alt="Cover for The Party Album!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-11-09</td>
+      <td>Vengaboys</td>
+      <td>The Party Album!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td>1998-11-27</td>
+      <td>E-Type</td>
+      <td>Last Man Standing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/7wbN4ZXn1UjZs2iIWmTSNGeK0sD5sIPu7fBIdcFLq0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzI0/MS0xNTgyMzE4Njg0/LTMyOTAuanBlZw.jpeg" alt="Cover for Inside to Outside" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Lady Violet</td>
+      <td>Inside to Outside</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/eUQPXDSAkKghoVlf0nSQIjUpb3yByGND1hlGrOGDJ4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzIt/MTIxODI1MjU4OC5q/cGVn.jpeg" alt="Cover for My Heart Goes Boom &#39;reloaded&#39;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>French Affair</td>
+      <td>My Heart Goes Boom &#39;reloaded&#39;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td>1999-08-04</td>
+      <td>Toy-Box</td>
+      <td>Fantastic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/6liVrZflJVV5RChIHaFgjZFHQOfwVgV46l6u5AeIYyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjQw/Ny0xNTA2NDM5NzM4/LTI0MjAuanBlZw.jpeg" alt="Cover for Europop" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-11-20</td>
+      <td>Eiffel 65</td>
+      <td>Europop</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 30</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 41</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td>1999-11</td>
+      <td>Gigi D&#39;Agostino</td>
+      <td>L&#39;Amour Toujours</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/CQZZx75pb_cuqJ48OAvv3gDzijFeTdAD_DbreZNmcyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTU3/MC0xNDczMzU3MTEw/LTgzMDUuanBlZw.jpeg" alt="Cover for Top 100 Greatest Dance Hits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Gigi D&#39;Agostino</td>
+      <td>Top 100 Greatest Dance Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/8jjfDK0DEVuAaFtfpVDq2DdJXIJwrTEyQXhV07d49Zs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODUz/NjItMTI5MjI3NTA3/MS5qcGVn.jpeg" alt="Cover for Greatest Hits!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Vengaboys</td>
+      <td>Greatest Hits!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/0tQJaLNCe4iQm4UvsxL1Z97ZX00UEy0U9YPBo2podqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTE2/Mzk3LTE1NjM5OTk3/MzctNzE1NC5qcGVn.jpeg" alt="Cover for Aquarium (Special Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Aqua</td>
+      <td>Aquarium (Special Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>2000-03-13</td>
+      <td>Vengaboys</td>
+      <td>The Platinum Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europop" | relative_url }}">europop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 87</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td>2000-10-02</td>
+      <td>Baha Men</td>
+      <td>Who Let the Dogs Out</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/YTTh8uLWTm1jeKObKJk-u3AOjgAHJ5Q46OGOfB5M7hA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc3/NDItMTE5MDQxMTk4/MC5qcGVn.jpeg" alt="Cover for Sunshine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>S Club</td>
+      <td>Sunshine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 19</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 24</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td>2001-11-21</td>
+      <td>E-Type</td>
+      <td>Euro IV Ever</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/B7ICJ_0QmLb9D7gWaqzOZEUALuT9-pm_4VqQ0aIAs68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDA0/My0xNDUwNzMyNzE2/LTEwMjYuanBlZw.jpeg" alt="Cover for Libertine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Kate Ryan</td>
+      <td>Libertine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/m-tbqqJ6bwdSpF8wtPWghxTq-BvTIjqukqwrgkEH9nI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU3/MjgtMTQyMDQ1MzIx/Mi0yNjQ1LmpwZWc.jpeg" alt="Cover for Alone" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-04-29</td>
+      <td>Modern Talking</td>
+      <td>Alone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/YHBOvpt_0DL0J4kTNNsIE5BSvPtPz5bKYBg4-9KqrCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjM4/My0xNTEzNDM3MDEx/LTg0MzguanBlZw.jpeg" alt="Cover for Let This Party Never End" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-06-24</td>
+      <td>Mark &#39;Oh</td>
+      <td>Let This Party Never End</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/FJW0XnS9l1_imlRga5G4-kHMutvqzQjQB_YQOL4U9RA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk5/LTExNjU3NTU5NDAu/anBlZw.jpeg" alt="Cover for Pray" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-11-18</td>
+      <td>Lasgo</td>
+      <td>Pray</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/LKx7d1qINaF6wK6xG9hIgpUJvk7Ut9lXuM6KpcHRX-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTI0/Mi0xMTIyNzYwMzUx/LmpwZw.jpeg" alt="Cover for If You..." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Magic Box</td>
+      <td>If You...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td>2003-08-13</td>
+      <td>O-Zone</td>
+      <td>Disco-zone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td>2004-08-23</td>
+      <td>Groove Coverage</td>
+      <td>7 Years And 50 Days</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td>2005-07-25</td>
+      <td>Crazy Frog</td>
+      <td>Crazy Frog Presents Crazy Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/FfjbscMJlQCVXbGfFt-M_MQxhMGCrsSnQyj1y0x6h0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDE2/OC0xNDU5NDMzMTQy/LTg2MjguanBlZw.jpeg" alt="Cover for Push The Button" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-09-26</td>
+      <td>Sugababes</td>
+      <td>Push The Button</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>2006-02-01</td>
+      <td>Steve Ellington Band</td>
+      <td>The Electrolysis EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/london" | relative_url }}">london</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 64</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td>2006-08-30</td>
+      <td>Basshunter</td>
+      <td>LOL &lt;(^^,)&gt;</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td>2006-09-01</td>
+      <td>Milk Inc.</td>
+      <td>Supersized</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td>2007-10-31</td>
+      <td>E-Type</td>
+      <td>Eurotopia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/jbVv1VAk_KhR_2oAUvGOlsK-OOVl1xLZP24sni--qCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ4/MzgtMTY0MzUzMzMz/MC0yMDEwLmpwZWc.jpeg" alt="Cover for A Cause Des Garçons" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-10</td>
+      <td>Yelle</td>
+      <td>A Cause Des Garçons</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europop" | relative_url }}">europop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>2007-12-03</td>
+      <td>Cascada</td>
+      <td>Perfect Day</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/5z9duWnHA_-txAhYWq86jDc8o-W-0akRp-BIOlP8V84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjc3/MjUtMTI1MzAxNTky/OS5qcGVn.jpeg" alt="Cover for Lose Control" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Waldo&#39;s People</td>
+      <td>Lose Control</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europop" | relative_url }}">europop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/yYan1lJY4lKohLQn9o0WxOgcT8bt0O_qJWHeBJ9yXvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM3/Mjg1LTE1NzI0ODk0/NDEtMjMwNS5wbmc.jpeg" alt="Cover for Caramelldansen - Speedy Mixes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-06-25</td>
+      <td>Caramell</td>
+      <td>Caramelldansen - Speedy Mixes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/2pHJcRVY_Xmb8src3iuuJ_NcYnDTQzlpiLw1af0eOZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjg3/MDg1LTE2NDg1NjAx/NzItMjgyMS5qcGVn.jpeg" alt="Cover for I Like to Move It (feat. The Mad Stuntman)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-01-26</td>
+      <td>Reel 2 Real</td>
+      <td>I Like to Move It (feat. The Mad Stuntman)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/6VzdzewiwRBJfDqvTx6refVdBYvOeP9GuRdhvVqKg1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIy/NzAtMTI1NTQ1Nzcy/My5qcGVn.jpeg" alt="Cover for HEARTBREAKER" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-08-20</td>
+      <td>Inna</td>
+      <td>HEARTBREAKER</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/8QnIJKUuvEQUpsQAehYXq-2CysUM985PUHc3KLjNOAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjYw/NzE0LTE1ODg4Mzgx/MzEtNjU2Mi5wbmc.jpeg" alt="Cover for Chromatica" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Lady Gaga</td>
+      <td>Chromatica</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 17</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 62</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 78</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 83</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 90</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/9cYN3UVP9HesuFfN-gV1d7Q2Fvp-jduuj_7C5Ul8MqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI1/NzQtMTQwMzI1NTUy/MC05MDc5LmpwZWc.jpeg" alt="Cover for Love Is On Fire" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-03-19</td>
+      <td>Italobrothers</td>
+      <td>Love Is On Fire</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td>2010-09-13</td>
+      <td>Rihanna</td>
+      <td>Only Girl (In the World)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>2011-02-14</td>
+      <td>September</td>
+      <td>Love CPR</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0110e5e0ff7fe9ecdbab0011cf1dde6a.png" alt="Cover for I Am Armando - Armando Reloaded" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Pitbull</td>
+      <td>I Am Armando - Armando Reloaded</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed1a39b3f9a8e0ec0cb1568549b3a7d5.png" alt="Cover for E-Bay Queen Is Dead" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-05-01</td>
+      <td>Marsheaux</td>
+      <td>E-Bay Queen Is Dead</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/V1rSdhd9PK7B0xxMNe2i0X_flltmi2oAhSYXV-EFPos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ5/NTU5LTE2NDc1NjM0/MzItMjAxNS5wbmc.jpeg" alt="Cover for Amygdala - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-05-04</td>
+      <td>Ecco2k &amp; Bladee</td>
+      <td>Amygdala - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 16</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 20</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 32</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 40</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/iYRhhQlYnlrm4Jllew6yOShb8txyq6J_QOIWcDYZ934/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzA3/NTAtMTQxNjY1Mjg2/MS00MDQ3LmpwZWc.jpeg" alt="Cover for Fireball (feat. John Ryan)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Pitbull</td>
+      <td>Fireball (feat. John Ryan)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>2014-11-21</td>
+      <td>Pitbull</td>
+      <td>Globalization</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 14</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 18</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/iN06f6aa8pelm4QzBN5KZPaiea6WZcnzG1lzUeJTHpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Mjg3/NzAtMTQyOTcyMjI4/OS02NTg2LmpwZWc.jpeg" alt="Cover for Ghost Town" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-04-21</td>
+      <td>Adam Lambert</td>
+      <td>Ghost Town</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/o7nfRyDPKwMezsYwpmJVqOvT-7QXiGWnB3ND3KtL7Vg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA1/OTAyLTE1NTk0MTUx/MjQtMjI4MS5qcGVn.jpeg" alt="Cover for S.o.S" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Thaiboy Digital</td>
+      <td>S.o.S</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/ScCCFIvApyx8tGKmTVBUflOlw1RA1LnDg3QhbpgTpg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjYy/MzQ2LTE3MDMxMzYx/NDAtMTAxNi5qcGVn.jpeg" alt="Cover for STARFUCKER (Deluxe)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-12-12</td>
+      <td>slayyyter</td>
+      <td>STARFUCKER (Deluxe)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 33</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/PbyWODM4naaKPSPKCeYUhJ2sWeQ02ccs1FWhuLl5tkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTQw/NTctMTQ2Njc2NDI5/Ny02NDIwLmpwZWc.jpeg" alt="Cover for Nirvana" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-05-30</td>
+      <td>Inna</td>
+      <td>Nirvana</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 97</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/NeV1bPQaHA38MwhhymgaTPN24MUaVYRphQjpQkOOZE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDU3/OTc3LTE2MzAzNjk1/MTktODU0Mi5qcGVn.jpeg" alt="Cover for My Fantasy World" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-08-19</td>
+      <td>Dj Billybool</td>
+      <td>My Fantasy World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 96</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/0UkP2nt9329x8wjek8hwRbzrzsRtZSnxY0OFWioCBdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzQ1/MDQ5LTE2MzUzMDU0/NjQtNzk5Ni5qcGVn.jpeg" alt="Cover for Strong" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-10-26</td>
+      <td>Romy</td>
+      <td>Strong</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/ZiUpgxjqLUMYkF3mteaz4uzTsfI8ywvv6gT_rogBx3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg2/MTY2LTE2OTMwNzgy/NTctODQyMS5qcGVn.jpeg" alt="Cover for satiSFIRE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-02-29</td>
+      <td>Six Sex</td>
+      <td>satiSFIRE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 76</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 85</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td></td>
+      <td>MC Sar &amp; The Real McCoy</td>
+      <td>Another Night</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Promoe</td>
+      <td>Svennebanan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td></td>
+      <td>DJ Heartstring</td>
+      <td>4 The People</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td></td>
+      <td>SEGA Sound Team</td>
+      <td>Sonic R Original Soundtrack</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
