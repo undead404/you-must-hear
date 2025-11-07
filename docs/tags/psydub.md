@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-05T01:54:51.761Z
+date: 2025-11-06T22:42:59.571Z
 permalink: tags/psydub
 title: psydub
 ---
 
 ## psydub
 
-Last updated: <time datetime="2025-11-05T01:54:51.761Z">Wed Nov 05 2025 03:54:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-06T22:42:59.571Z">Fri Nov 07 2025 00:42:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1082,6 +1082,29 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/6bXFslJ3dD9Ky8V7-Sp1KX7BMb-MdqLbRChCl0n074Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjE2/MjgwLTE1OTQ1OTU2/MDctNTIyMy5qcGVn.jpeg" alt="Cover for Rockabilly Dub Mineral" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-07-06</td>
+      <td>Fortes</td>
+      <td>Rockabilly Dub Mineral</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>66</td>
       <td>
       </td>
@@ -2012,28 +2035,6 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>JahPAWO.</td>
-      <td>Worldly.Tales.4.Those.WithOut.Voices</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
       <td>
