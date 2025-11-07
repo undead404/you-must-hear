@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-05T05:38:52.058Z
+date: 2025-11-07T08:37:41.306Z
 permalink: tags/zen
 title: zen
 ---
 
 ## zen
 
-Last updated: <time datetime="2025-11-05T05:38:52.058Z">Wed Nov 05 2025 07:38:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-07T08:37:41.306Z">Fri Nov 07 2025 10:37:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -991,6 +991,25 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
       </td>
     </tr>
     <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td>2012-06-22</td>
+      <td>Jon Brooks</td>
+      <td>Seventh Heaven - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>99</td>
       <td>
           <img src="https://i.discogs.com/MFuKAhG2ChBTPENbXRjCcFIxlIWAzFCW3CG9YDMAEL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NTkw/MDUtMTM3MTMzOTU2/MC03MzM5LmpwZWc.jpeg" alt="Cover for 音は光る (The Sound Is Shining)" style="max-width:120px; height:auto;" />
@@ -1107,6 +1126,26 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
       </td>
     </tr>
     <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/m6eHunCZmShChFqYKgd76MYL8NDp2xvhXVhTGCA1ML4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzQ0/NTQxLTE2MjExMTQz/MjMtOTk0NS5qcGVn.jpeg" alt="Cover for Untitled Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Zen Dub</td>
+      <td>Untitled Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>68</td>
       <td>
           <img src="https://i.discogs.com/-VXoh5MPI94VA3cThM-sbIZgLaQpd8p6Kpg5PKrbAps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTMx/Mzk4LTE2NTgyMjIw/OTctODQyNC5qcGVn.jpeg" alt="Cover for Zen Lounge (Chan Shi)" style="max-width:120px; height:auto;" />
@@ -1125,29 +1164,7 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/Wh_m9tUfB76ZjqnbJzSgP5aEE0RLu5Jz2ce_z4eei0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Nzg1/NjQtMTQyNjQzOTA3/OC0zNjYyLmpwZWc.jpeg" alt="Cover for Music for Zen Meditation:Shakuhachi Japanese flute" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-03-08</td>
-      <td>Rodrigo Rodriguez</td>
-      <td>Music for Zen Meditation:Shakuhachi Japanese flute</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/urR6tSlN1ly9MwiygJ4IEdMFXjjdFEDT6fUFHvJsJqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODM2/MDE1LTE2MTU3MTg3/OTEtMTQ4OS5qcGVn.jpeg" alt="Cover for Zen Dub - The Journey EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1446,7 +1463,25 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
+      <td>
+      </td>
+      <td></td>
+      <td>5 minute dharma</td>
+      <td>5 Minute Dharma Podcast</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1468,50 +1503,7 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-      </td>
-      <td></td>
-      <td>5 minute dharma</td>
-      <td>5 Minute Dharma Podcast</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Dadra &amp; Iivan</td>
-      <td>Untitled Album</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/recorder" | relative_url }}">recorder</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>

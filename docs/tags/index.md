@@ -1,18 +1,21 @@
 ---
 category: list
-date: 2025-11-07T03:56:19.530Z
+date: 2025-11-07T09:29:38.976Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-07T03:56:19.530Z">Fri Nov 07 2025 05:56:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-07T09:29:38.976Z">Fri Nov 07 2025 11:29:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [soulful house]({{ "tags/soulful-house" | relative_url }}) | <time datetime="2025-11-07T09:29:38.976Z">Fri Nov 07 2025 11:29:38 GMT+0200 (Eastern European Standard Time)</time> |
+| [zen]({{ "tags/zen" | relative_url }}) | <time datetime="2025-11-07T08:37:41.306Z">Fri Nov 07 2025 10:37:41 GMT+0200 (Eastern European Standard Time)</time> |
+| [spanish guitar]({{ "tags/spanish-guitar" | relative_url }}) | <time datetime="2025-11-07T06:57:14.418Z">Fri Nov 07 2025 08:57:14 GMT+0200 (Eastern European Standard Time)</time> |
 | [asian]({{ "tags/asian" | relative_url }}) | <time datetime="2025-11-07T03:56:19.530Z">Fri Nov 07 2025 05:56:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [vocal jazz]({{ "tags/vocal-jazz" | relative_url }}) | <time datetime="2025-11-07T03:05:50.235Z">Fri Nov 07 2025 05:05:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [black noise]({{ "tags/black-noise" | relative_url }}) | <time datetime="2025-11-06T23:41:47.703Z">Fri Nov 07 2025 01:41:47 GMT+0200 (Eastern European Standard Time)</time> |
@@ -63,8 +66,6 @@ Last updated: <time datetime="2025-11-07T03:56:19.530Z">Fri Nov 07 2025 05:56:19
 | [late romantic]({{ "tags/late-romantic" | relative_url }}) | <time datetime="2025-11-05T08:11:55.439Z">Wed Nov 05 2025 10:11:55 GMT+0200 (Eastern European Standard Time)</time> |
 | [groove metal]({{ "tags/groove-metal" | relative_url }}) | <time datetime="2025-11-05T07:39:51.456Z">Wed Nov 05 2025 09:39:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [nu metal]({{ "tags/nu-metal" | relative_url }}) | <time datetime="2025-11-05T07:20:51.565Z">Wed Nov 05 2025 09:20:51 GMT+0200 (Eastern European Standard Time)</time> |
-| [zen]({{ "tags/zen" | relative_url }}) | <time datetime="2025-11-05T05:38:52.058Z">Wed Nov 05 2025 07:38:52 GMT+0200 (Eastern European Standard Time)</time> |
-| [spanish guitar]({{ "tags/spanish-guitar" | relative_url }}) | <time datetime="2025-11-05T05:31:51.566Z">Wed Nov 05 2025 07:31:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [shred]({{ "tags/shred" | relative_url }}) | <time datetime="2025-11-05T05:18:51.250Z">Wed Nov 05 2025 07:18:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [sludge]({{ "tags/sludge" | relative_url }}) | <time datetime="2025-11-05T04:54:52.115Z">Wed Nov 05 2025 06:54:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [avanthop]({{ "tags/avanthop" | relative_url }}) | <time datetime="2025-11-05T04:10:51.018Z">Wed Nov 05 2025 06:10:51 GMT+0200 (Eastern European Standard Time)</time> |
@@ -315,7 +316,6 @@ Last updated: <time datetime="2025-11-07T03:56:19.530Z">Fri Nov 07 2025 05:56:19
 | [latino]({{ "tags/latino" | relative_url }}) | <time datetime="2025-10-31T20:55:51.053Z">Fri Oct 31 2025 22:55:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [bagpipes]({{ "tags/bagpipes" | relative_url }}) | <time datetime="2025-10-31T20:34:51.364Z">Fri Oct 31 2025 22:34:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [deep techno]({{ "tags/deep-techno" | relative_url }}) | <time datetime="2025-10-31T19:53:51.614Z">Fri Oct 31 2025 21:53:51 GMT+0200 (Eastern European Standard Time)</time> |
-| [soulful house]({{ "tags/soulful-house" | relative_url }}) | <time datetime="2025-10-31T19:51:51.583Z">Fri Oct 31 2025 21:51:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [irish]({{ "tags/irish" | relative_url }}) | <time datetime="2025-10-31T19:25:51.392Z">Fri Oct 31 2025 21:25:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [romance]({{ "tags/romance" | relative_url }}) | <time datetime="2025-10-31T17:57:50.997Z">Fri Oct 31 2025 19:57:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [electro]({{ "tags/electro" | relative_url }}) | <time datetime="2025-10-31T17:56:51.545Z">Fri Oct 31 2025 19:56:51 GMT+0200 (Eastern European Standard Time)</time> |

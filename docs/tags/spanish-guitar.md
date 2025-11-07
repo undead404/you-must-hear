@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-05T05:31:51.566Z
+date: 2025-11-07T06:57:14.418Z
 permalink: tags/spanish-guitar
 title: spanish guitar
 ---
 
 ## spanish guitar
 
-Last updated: <time datetime="2025-11-05T05:31:51.566Z">Wed Nov 05 2025 07:31:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-07T06:57:14.418Z">Fri Nov 07 2025 08:57:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -851,6 +851,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4471ec528af87db832e5f30b9f6d5f6f.png" alt="Cover for Free Fall" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-09-26</td>
       <td>Jesse Cook</td>
@@ -1170,8 +1171,8 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       <td>
           <img src="https://i.discogs.com/mtP-I78lDKCUe2gBNSw49iJ_IRAP8byve9sqS6AjaSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzA5/ODYtMTQyMzQ2ODk2/OS00MTk1LmpwZWc.jpeg" alt="Cover for Möbius" style="max-width:120px; height:auto;" />
       </td>
-      <td>2004-05-12</td>
-      <td>RIN</td>
+      <td>2004-09-29</td>
+      <td>Rin</td>
       <td>Möbius</td>
       <td>
         <ul>
