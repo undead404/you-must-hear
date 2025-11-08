@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-30T00:23:40.126Z
+date: 2025-11-08T00:32:54.557Z
 permalink: tags/industrial-hip-hop
 title: industrial hip hop
 ---
 
 ## industrial hip hop
 
-Last updated: <time datetime="2025-10-30T00:23:40.126Z">Thu Oct 30 2025 02:23:40 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-08T00:32:54.557Z">Sat Nov 08 2025 02:32:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -24,6 +24,7 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
@@ -40,29 +41,23 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
-      </td>
-      <td>1992-03-17</td>
-      <td>The Disposable Heroes Of Hiphoprisy</td>
-      <td>Hypocrisy Is The Greatest Luxury</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/cRCDzCSoaQ2UtVHItjElyJS1WHgYgDhoCuJvpKRIG2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzgw/My0xMzE4ODY5MzI1/LmpwZWc.jpeg" alt="Cover for Derbe Respect, Alder" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Faust</td>
       <td>Derbe Respect, Alder</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -81,6 +76,11 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 73</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>75</td>
@@ -95,6 +95,13 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 12</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 47</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -112,11 +119,18 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 16</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 48</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 57</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/kt6LYbmS5ySO8aHZe5mZ3SLg0oPBnbzDGfjUjlvCij0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTIt/MTE0MjIzNDMwNC5n/aWY.jpeg" alt="Cover for &#x2F;\&#x2F;\ &#x2F;\ Y &#x2F;\" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8e8fe15d9a248eabfecd21395ca3bef.png" alt="Cover for &#x2F;\&#x2F;\ &#x2F;\ Y &#x2F;\" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-29</td>
       <td>M.I.A.</td>
@@ -126,9 +140,13 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/bvHih_y8cpRxh43cJBOqNxwRpsJviP3D6TMUOQoATOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzAx/NTQtMTQxNjYyNzQ3/MC03MDkwLmpwZWc.jpeg" alt="Cover for DEFCON_6" style="max-width:120px; height:auto;" />
       </td>
@@ -144,9 +162,14 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 31</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/bvHih_y8cpRxh43cJBOqNxwRpsJviP3D6TMUOQoATOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzAx/NTQtMTQxNjYyNzQ3/MC03MDkwLmpwZWc.jpeg" alt="Cover for DEATH OF ME" style="max-width:120px; height:auto;" />
       </td>
@@ -161,9 +184,14 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 34</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/DTEMLDLTC_3-dEti4Dl90gWA5uhHid3ozNP87eYRJzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Mjk5/Ni0xMTc2Nzg3OTcw/LmpwZWc.jpeg" alt="Cover for PQ" style="max-width:120px; height:auto;" />
       </td>
@@ -174,6 +202,10 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -190,11 +222,15 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/poA0T5suvRkjfer5d8VA2OlxBrRJ2xoE_ZCLMYwD6cs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDc0/Ny0xNzA5MDUzNTE4/LTM3MjkuanBlZw.jpeg" alt="Cover for I&#39;ll Sleep When You&#39;re Dead" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/818b6cf1994f0b0b7ad11ab0889e87c3.png" alt="Cover for I&#39;ll Sleep When You&#39;re Dead" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>El-P</td>
@@ -204,14 +240,24 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 29</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b064dc0cb370920329333fb7edb2ac4.png" alt="Cover for The Inevitable Rise and Liberation of Niggy Tardust" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-01</td>
       <td>Saul Williams</td>
       <td>The Inevitable Rise and Liberation of Niggy Tardust</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -230,6 +276,10 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>34</td>
@@ -244,10 +294,16 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 39</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/831e96df3afd4777c7ac562537bdb356.png" alt="Cover for Exmilitary" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-25</td>
       <td>Death Grips</td>
@@ -255,7 +311,14 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 57 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 24</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 59</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -271,9 +334,17 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 1</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 92</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 99</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 100</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
       </td>
       <td>2011-06-28</td>
@@ -289,6 +360,17 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 6</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 53</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 85</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 91</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 97</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 97</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -309,6 +391,15 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 20</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 60</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 82</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 89</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 94</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>81</td>
@@ -323,11 +414,15 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/WCpZuFJEeHBuvrPWRPZT0o3GWLGRO9ojXy8eKOgtjCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQw/NTg4LTE1MjkxMDg4/MzEtNDE4MS5qcGVn.jpeg" alt="Cover for Jenny Death" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab97706d20fe4b10cb32bfb8b136f795.png" alt="Cover for Jenny Death" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-19</td>
       <td>Death Grips</td>
@@ -340,18 +435,33 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 17</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 32</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 52</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30ef0d3d35720910529fe026a2d2fe7c.png" alt="Cover for The Money Store" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-13</td>
       <td>Death Grips</td>
       <td>The Money Store</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 11</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 44</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 59</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 91</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -373,23 +483,39 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 52</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 78</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f3bf939762c4ca58430c8db55cf4c05.png" alt="Cover for No Love Deep Web" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-01</td>
       <td>Death Grips</td>
       <td>No Love Deep Web</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 33</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 48</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 68</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 69</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71d8c1f84d67e60c5dda039d6fb3653f.png" alt="Cover for Yeezus" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-18</td>
       <td>Kanye West</td>
@@ -400,9 +526,18 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 57</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 71</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 77</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 91</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 93</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
       </td>
       <td>2013-11-13</td>
@@ -412,6 +547,15 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 15</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 75</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -431,9 +575,14 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 71</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/upVDCc_FWV_EH9yOXf6F7T-qR61CaonGzNthuenId78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzQx/OTItMTQwMjI4NjE3/My0zMDk0LmpwZWc.jpeg" alt="Cover for Niggas on the Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -444,6 +593,11 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -461,9 +615,16 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 12</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 42</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 58</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/KavZx-vh6THT4qBD8cnR5-X8VbGmH4JW_BE5WYR7egM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTc5/NzQtMTQyOTAzNzgy/MC03MjM4LmpwZWc.jpeg" alt="Cover for Cherry Bomb" style="max-width:120px; height:auto;" />
       </td>
@@ -474,9 +635,19 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 27</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 59</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 71</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 77</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 87</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 94</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/sNYQOqYW62YMjhkBSRI8yRMbzrlbdxcroylZ5NgwSY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTY2/OTctMTQyNzIyODIx/OS02MjkxLmpwZWc.jpeg" alt="Cover for the powers that b" style="max-width:120px; height:auto;" />
       </td>
@@ -488,6 +659,18 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
             <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
             <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 17</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 31</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 52</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 55</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 61</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 72</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 81</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -503,6 +686,16 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 13</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 21</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 24</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 30</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 72</li>
+            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -524,9 +717,15 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 3</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 96</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/m7PBmAFEIj5SZFdUFi1My44q1SPONBKlahhjUyWCBX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/OTctMTY5NTQyNjUz/OC00MjMxLmpwZWc.jpeg" alt="Cover for Black Ben Carson" style="max-width:120px; height:auto;" />
       </td>
@@ -539,6 +738,12 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 12</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -555,6 +760,11 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -578,9 +788,17 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 32</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 58</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 64</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 75</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/4AHOZFry48iXvkzD70JiGDoupX74xm3mPeucZBMil9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQx/NDgtMTQ2MjUyMTU0/MC04NTcxLmpwZWc.jpeg" alt="Cover for Bottomless Pit" style="max-width:120px; height:auto;" />
       </td>
@@ -591,6 +809,17 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
             <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 35</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 54</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 57</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 78</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 79</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 82</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -607,6 +836,10 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>60</td>
@@ -619,6 +852,13 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 51</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -641,9 +881,14 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 2</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/jTrCYBrpa2Ot_v7wiuU1SCmvmtFRXX2aBqNV0NXzpRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MDk3LTE0OTU1MDIy/ODAtMTE2OC5qcGVn.jpeg" alt="Cover for Steroids (Crouching Tiger Hidden Gabber)" style="max-width:120px; height:auto;" />
       </td>
@@ -658,11 +903,18 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 69</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 93</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 100</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
-          <img src="https://i.discogs.com/Qlsbma_leN3QOY_ohnRSgGneCg2Qe0wU7AWt6XrSRw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc2/OTQxLTE1MjU4NjU3/ODktMzY5MS5qcGVn.jpeg" alt="Cover for Lxrdszn" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2fd69e1153b728c5dd91b33c7eae317.png" alt="Cover for Lxrdszn" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-29</td>
       <td>SCARLXRD</td>
@@ -674,6 +926,11 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -692,9 +949,14 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 14</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
       </td>
       <td>2018-06-22</td>
@@ -706,6 +968,18 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
             <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
             <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 23</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 39</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 48</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 77</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 92</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 96</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -726,6 +1000,11 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 63</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>45</td>
@@ -743,6 +1022,12 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 41</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 44</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>35</td>
@@ -755,6 +1040,13 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 12</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -777,6 +1069,11 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 38</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>17</td>
@@ -791,9 +1088,14 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 19</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/2KEI_GkIGtSYL_bbKnYKDl5Aej-X60LwIANJRT4-ufc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTI3/NjczLTE2NDAzNTIx/NzAtOTYyMC5qcGVn.jpeg" alt="Cover for All My Heroes Are Cornballs" style="max-width:120px; height:auto;" />
       </td>
@@ -804,6 +1106,14 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
             <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 4</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 50</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -818,6 +1128,11 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -836,6 +1151,12 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 79</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 81</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>58</td>
@@ -848,12 +1169,18 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 74</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/SejFC3dP0zsp8T8Rz9-nSjfugD43MWowo2Pd9ABTM-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg2/ODQ3LTE1OTU5MTEz/MjUtNzU1My5qcGVn.jpeg" alt="Cover for scaring the hoes" style="max-width:120px; height:auto;" />
       </td>
@@ -867,9 +1194,17 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 2</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 94</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 95</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 97</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/-lAZ0dgtjXc2NKgLaSkh4sL6lh_2habp-t_xbsvoOnk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzU5/ODgtMTM4MTQ5MzE4/OS02NjcwLmpwZWc.jpeg" alt="Cover for Yeezus [Explicit Version]" style="max-width:120px; height:auto;" />
       </td>
@@ -880,6 +1215,10 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -898,9 +1237,15 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 43</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 45</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/1SVDhYQhq6AJz2kBLWYU6aphk3WqWKt4OndkKUkDM20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzAy/OTkyLTE1OTYyMTI3/ODYtNzM0Mi5qcGVn.jpeg" alt="Cover for AMERICAN WASTELAND" style="max-width:120px; height:auto;" />
       </td>
@@ -918,11 +1263,21 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 30</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 55</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 76</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 86</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 88</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 94</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/RgkzLWqTf0C-bOlO2JbqSaJknF8bc9wTAVl4-KoMfZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjc3/NTQxLTE2MTI1NzI1/MTctOTQ1My5wbmc.jpeg" alt="Cover for HXW THEY JUDGE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fefb49db354db7a32fe63cf08c715b18.png" alt="Cover for HXW THEY JUDGE" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-12</td>
       <td>SCARLXRD</td>
@@ -934,6 +1289,11 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -961,6 +1321,14 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 45</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 46</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 73</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 87</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>82</td>
@@ -973,14 +1341,19 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/9HoqaT30PKOBGnzYL9DcYYEZzT6Kuwl5_Z7Upiyb_0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg0/ODEyLTE1MDQyNzY1/NjAtMzY0OS5qcGVn.jpeg" alt="Cover for Lang Lebe Der Tod" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d20b8c86a69bc535b2fbe1bf831ad000.png" alt="Cover for Lang Lebe Der Tod" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-02</td>
       <td>Casper</td>
@@ -995,9 +1368,15 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 44</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 97</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/TOsWLJAT0lel0X1lDxrE2bcTUbucJq7sFHVjgGggODA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDg4/NTc5LTE2MDU0OTUz/NzEtNjAyMC5qcGVn.jpeg" alt="Cover for Visions of Bodies Being Burned" style="max-width:120px; height:auto;" />
       </td>
@@ -1007,14 +1386,22 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 74</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 78</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 82</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/JQYvkwUKdSlQEIMajX_D2zc3eia-YmDZs94359F0ClY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTY4/MDM0LTE2MDQ2MDY0/NzQtODYzNy5qcGVn.jpeg" alt="Cover for Don&#39;t Play It Straight" style="max-width:120px; height:auto;" />
       </td>
@@ -1028,9 +1415,13 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/NsI84f3PtS7ND2wmfWdB4jPW4HOPTbXRUC_6QYy6c5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQx/NzUxLTE2MDU4NTAx/NTAtNzA5NS5qcGVn.jpeg" alt="Cover for Alias" style="max-width:120px; height:auto;" />
       </td>
@@ -1045,9 +1436,15 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 98</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 99</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/pw8Dl_WsUkbMwIkyaJRVHLBAz-NryOffrNXasHKhSxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzc2/MzY2LTE2MTg5MDY2/MjgtNjQwNS5qcGVn.jpeg" alt="Cover for VETERAN" style="max-width:120px; height:auto;" />
       </td>
@@ -1059,9 +1456,16 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 3</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 29</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 45</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/S58QIukVFg0_esLhT_UvDpCns48FuvO8P-f5LSBPz0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjIz/MTMxLTE2MjAzNzQ2/NzktMTkyNS5qcGVn.jpeg" alt="Cover for cum" style="max-width:120px; height:auto;" />
       </td>
@@ -1074,6 +1478,11 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1091,6 +1500,11 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 55</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>53</td>
@@ -1106,9 +1520,19 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 8</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 27</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 34</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 51</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 69</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 82</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/yDiQ7Cff-QiEMmOJmphl6TQBkOJEnodNRLNO7IWrNYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDkx/Mjk0LTE2Mzc2Njcz/OTMtODUyOS5wbmc.jpeg" alt="Cover for Dig Yourself a Grave" style="max-width:120px; height:auto;" />
       </td>
@@ -1121,6 +1545,10 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1143,6 +1571,11 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 45</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>57</td>
@@ -1158,11 +1591,17 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 13</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 97</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/bakoD0QjTiFerv5BguVrzswmnRo5LFi2IrqIppEHYhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjY2/MjUwLTE2Nzc2NzI0/NjYtNTY5NC5wbmc.jpeg" alt="Cover for Post Mortem" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/396b0253bac5bd9bd0b2ccd84134f40e.png" alt="Cover for Post Mortem" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-12-01</td>
       <td>Dillom</td>
@@ -1179,9 +1618,18 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 22</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 30</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 67</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 71</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 86</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/i1o4QLPXRdipvANagJ_R9CPe2DogZid3oZThQqVR9MQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzEz/NjgyLTE2MzIyMjQx/MTctMzM0Ny5qcGVn.jpeg" alt="Cover for AS HARD AS YOU CAN" style="max-width:120px; height:auto;" />
       </td>
@@ -1197,9 +1645,17 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 71</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 91</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 91</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 95</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/iYbHm61vAuXy7Zz0453A8qadeZYKVxFjuMzP7LXealo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODIz/MTc1LTE2NjU3Njcx/MDQtOTMxNy5qcGVn.jpeg" alt="Cover for NOT ON VETERAN!" style="max-width:120px; height:auto;" />
       </td>
@@ -1214,9 +1670,13 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/c3_EAqL9vxb5wqmi9mMG3UtzXEwCOVBopwfxOoaM2X4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzY4/OTYwLTE2MTMwNzE5/NzEtODczNi5qcGVn.jpeg" alt="Cover for Puff Daddy" style="max-width:120px; height:auto;" />
       </td>
@@ -1226,6 +1686,10 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1244,9 +1708,14 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 14</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/58sIKX2H0eZ8YLUpbP5ZXJA0dwalLuuG0C0mJLhd4PY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTg5/NTU4LTE2NTIyNzMz/ODAtNzYxNS5qcGVn.jpeg" alt="Cover for Bimbocore" style="max-width:120px; height:auto;" />
       </td>
@@ -1257,6 +1726,11 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1277,6 +1751,13 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 5</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 42</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1300,9 +1781,17 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 31</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 32</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 53</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 59</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/9STt_4FXjHyITqFVwvwb6i6xsHLdVUioRV-LExnxU1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjgz/NzktMTQ1NjQyNDI3/NC04ODY0LnBuZw.jpeg" alt="Cover for Warlord (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1312,6 +1801,11 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1328,6 +1822,11 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1347,6 +1846,11 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 2</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>47</td>
@@ -1360,6 +1864,11 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1381,6 +1890,12 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 38</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 54</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>61</td>
@@ -1400,9 +1915,20 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 25</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 43</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 84</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 89</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 91</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 96</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 99</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/T3kP5T2GcX6K_QGcoAAt0Worb72QwesWke42Ow_8NVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTc1/MTQyLTE2ODg0NjA1/MDQtOTg0OS5wbmc.jpeg" alt="Cover for RORSCHACH" style="max-width:120px; height:auto;" />
       </td>
@@ -1417,6 +1943,36 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/iHA655pehhl6YY7fbeAe4jCed6zBVjHvaEnANeq1Vvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjAx/MzQwLTE3MDk1ODA3/NDItOTMyMy5qcGVn.jpeg" alt="Cover for BLK LBL" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-01-24</td>
+      <td>Armand Hammer</td>
+      <td>BLK LBL</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1435,9 +1991,14 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 23</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/TrzW-9SPqrv_LLiV-Z8PckPuq13mz63mvpqpeuF4vqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/NTI0LTE2NjQ5Njgx/NjctNzI0Ni5qcGVn.jpeg" alt="Cover for 2093" style="max-width:120px; height:auto;" />
       </td>
@@ -1450,9 +2011,17 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 35</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 79</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 99</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 100</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/weoOtjcwaYUFu6-iMzkHTPWNCqV-tzmPuEgb9tfAH6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYy/NjIyLTE3MDg0Mzgx/OTktMjk0OS5qcGVn.jpeg" alt="Cover for 2093 (P2)" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,6 +2038,13 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 34</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 94</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 98</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>38</td>
@@ -1482,6 +2058,12 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 46</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1507,9 +2089,18 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 7</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 8</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 54</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 68</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 71</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/uO2X7RUsrikk8_1m-9OAUckQVqa7aOLmhJS8eM-jLsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/NDExLTE3MTYzMDc3/MjMtODQxNS5qcGVn.jpeg" alt="Cover for LAUGHINGFISH" style="max-width:120px; height:auto;" />
       </td>
@@ -1520,6 +2111,12 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 7</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1537,9 +2134,17 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 17</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 95</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 99</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/CRAbMcV4OJ5xuOnft71Rm1j3W7AYSKCnSP6jNyBbKUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDI2/MTc4LTE3MjkxNjQ1/OTgtOTczMy5qcGVn.jpeg" alt="Cover for Daredeviil2000" style="max-width:120px; height:auto;" />
       </td>
@@ -1554,35 +2159,8 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>
-      </td>
-      <td></td>
-      <td>ilysm</td>
-      <td>no matter how i look at it ..</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Buy Muy Drugs</td>
-      <td>Buy Muy Drugs</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
     </tr>
@@ -1602,6 +2180,11 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1625,17 +2208,9 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Crizin da Z.O.</td>
-      <td>Acelero</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1654,6 +2229,69 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 57</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 70</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td></td>
+      <td>ilysm</td>
+      <td>no matter how i look at it ..</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Buy Muy Drugs</td>
+      <td>Buy Muy Drugs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Crizin da Z.O.</td>
+      <td>Acelero</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -1667,6 +2305,6 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
 - [hardcore hip hop]({{ "/tags/hardcore-hip-hop" | relative_url }})
 - [abstract hip hop]({{ "/tags/abstract-hip-hop" | relative_url }})
 - [cloud rap]({{ "/tags/cloud-rap" | relative_url }})
-- [rap]({{ "/tags/rap" | relative_url }})
 - [digital hardcore]({{ "/tags/digital-hardcore" | relative_url }})
+- [rap]({{ "/tags/rap" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})

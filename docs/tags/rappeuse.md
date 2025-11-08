@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-05T16:22:51.484Z
+date: 2025-11-08T00:13:19.561Z
 permalink: tags/rappeuse
 title: rappeuse
 ---
 
 ## rappeuse
 
-Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-08T00:13:19.561Z">Sat Nov 08 2025 02:13:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,7 +49,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/UgSj24dOz2cRCVkF_lPSej4z0-cM8UOtDpFI3kcAaFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjM5/OTkxLTE2NDE1Njgz/MzgtMzkyMi5qcGVn.jpeg" alt="Cover for Paris - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f26009ae0235f3a25daeaf62c3beb35.png" alt="Cover for Paris - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Doria</td>
@@ -76,7 +76,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/d6Scpj7lesQQ_-AepuXuXPdXGqzrMAsMMsw0wyWib4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkz/NjY5LTE1ODY2ODI0/NzUtMjk1MC5qcGVn.jpeg" alt="Cover for Sortir de la tess" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a95028b5b15c92a6f4f4e7f21c0205bd.png" alt="Cover for Sortir de la tess" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Leys</td>
@@ -106,7 +106,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/d6Scpj7lesQQ_-AepuXuXPdXGqzrMAsMMsw0wyWib4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkz/NjY5LTE1ODY2ODI0/NzUtMjk1MC5qcGVn.jpeg" alt="Cover for Parabellum (Nouvelle École)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dab74ceed534b375153156531b22b84.png" alt="Cover for Parabellum (Nouvelle École)" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Leys</td>
@@ -137,34 +137,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/d6Scpj7lesQQ_-AepuXuXPdXGqzrMAsMMsw0wyWib4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkz/NjY5LTE1ODY2ODI0/NzUtMjk1MC5qcGVn.jpeg" alt="Cover for Seule (Nouvelle École) - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>Leys</td>
-      <td>Seule (Nouvelle École) - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>
-          <img src="https://i.discogs.com/d6Scpj7lesQQ_-AepuXuXPdXGqzrMAsMMsw0wyWib4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkz/NjY5LTE1ODY2ODI0/NzUtMjk1MC5qcGVn.jpeg" alt="Cover for Tous à Table - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86c4ae4d63877f0c7983477127495a0c.png" alt="Cover for Tous à Table - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Leys</td>
@@ -189,9 +162,36 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
       </td>
     </tr>
     <tr>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3a3b5fa06efe99d3c360762ad96389a.png" alt="Cover for Seule (Nouvelle École) - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Leys</td>
+      <td>Seule (Nouvelle École) - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/d6Scpj7lesQQ_-AepuXuXPdXGqzrMAsMMsw0wyWib4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkz/NjY5LTE1ODY2ODI0/NzUtMjk1MC5qcGVn.jpeg" alt="Cover for Sortir de la tess - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb6c6970b7e38eb8c38b0fe68228cc6d.png" alt="Cover for Sortir de la tess - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Leys</td>
@@ -218,7 +218,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/d6Scpj7lesQQ_-AepuXuXPdXGqzrMAsMMsw0wyWib4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkz/NjY5LTE1ODY2ODI0/NzUtMjk1MC5qcGVn.jpeg" alt="Cover for Makelele - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1cb70c49c41ca6f80d3f86949307852.png" alt="Cover for Makelele - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Leys</td>
@@ -245,7 +245,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/d6Scpj7lesQQ_-AepuXuXPdXGqzrMAsMMsw0wyWib4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkz/NjY5LTE1ODY2ODI0/NzUtMjk1MC5qcGVn.jpeg" alt="Cover for Parabellum (Nouvelle École) - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d9b1814c112ce3876c42bf9f03d551f.png" alt="Cover for Parabellum (Nouvelle École) - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Leys</td>
@@ -640,7 +640,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/KeLf64IRpzY43onrnDer6v8sdDcIRUwhyhS8j-FE1eM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDEw/NTAzLTE3MjkwMTU2/NzYtOTQ5Mi5wbmc.jpeg" alt="Cover for Jolies personnes - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b8d7b75fba07cbe488e735c1c678f6b.png" alt="Cover for Jolies personnes - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>George Ka</td>
@@ -662,7 +662,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/KeLf64IRpzY43onrnDer6v8sdDcIRUwhyhS8j-FE1eM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDEw/NTAzLTE3MjkwMTU2/NzYtOTQ5Mi5wbmc.jpeg" alt="Cover for Par avance - EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a67e728052acda8c976de3cffad324d5.png" alt="Cover for Par avance - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>George Ka</td>
@@ -684,7 +684,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/KeLf64IRpzY43onrnDer6v8sdDcIRUwhyhS8j-FE1eM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDEw/NTAzLTE3MjkwMTU2/NzYtOTQ5Mi5wbmc.jpeg" alt="Cover for Garçon manqué, fille manquante - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4210e267650461ca5df4554a65e8f3b.png" alt="Cover for Garçon manqué, fille manquante - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>George Ka</td>
@@ -855,7 +855,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/YIDgd-vAoOj0wPp_KQ-zpE_p-sJx72qjUZRBC1HbGE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM0/NzIzLTE0OTA0NzU4/NzEtNTQyOS5qcGVn.jpeg" alt="Cover for Depuis le départ" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2592b906b35ce99cc7c23d613441de64.png" alt="Cover for Depuis le départ" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Doria</td>
@@ -915,7 +915,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/wp8SG38npawIqblh_-N8DklzRaaMJwnyCFfA1_K1B54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDY4/NzktMTQ1OTAzNDAy/My03MjkxLmpwZWc.jpeg" alt="Cover for Pas le choix - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25f98c72a756744ad736f2f332e3e093.png" alt="Cover for Pas le choix - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Doria</td>
@@ -942,7 +942,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/YIDgd-vAoOj0wPp_KQ-zpE_p-sJx72qjUZRBC1HbGE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM0/NzIzLTE0OTA0NzU4/NzEtNTQyOS5qcGVn.jpeg" alt="Cover for Triste époque - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb9ff5168629dbd277f13fb27e0684b5.png" alt="Cover for Triste époque - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Doria</td>
@@ -969,7 +969,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/wp8SG38npawIqblh_-N8DklzRaaMJwnyCFfA1_K1B54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDY4/NzktMTQ1OTAzNDAy/My03MjkxLmpwZWc.jpeg" alt="Cover for Plus personne - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c61be70da4365ef1b34ce4f26d08964.png" alt="Cover for Plus personne - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Doria</td>
@@ -996,7 +996,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/Nr1Fz9kwPrsyDByvkOEX1kUowIYVuGU2eKMul34bCmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAz/NDgtMTQ4OTYwMjkw/NC05NTgxLmpwZWc.jpeg" alt="Cover for Symptômes - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ca59f2b832c7af5cfda609769de56a5.png" alt="Cover for Symptômes - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-10</td>
       <td>Doria</td>
@@ -1023,7 +1023,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/Nr1Fz9kwPrsyDByvkOEX1kUowIYVuGU2eKMul34bCmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAz/NDgtMTQ4OTYwMjkw/NC05NTgxLmpwZWc.jpeg" alt="Cover for Booska Do - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bfe5f5f48dbcc0cf4bedc5bcda752fb.png" alt="Cover for Booska Do - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-10</td>
       <td>Doria</td>
@@ -1050,7 +1050,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/Nr1Fz9kwPrsyDByvkOEX1kUowIYVuGU2eKMul34bCmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAz/NDgtMTQ4OTYwMjkw/NC05NTgxLmpwZWc.jpeg" alt="Cover for Calcul - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fe2a3e96df68274c5185e98168756c0.png" alt="Cover for Calcul - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-10</td>
       <td>Doria</td>
@@ -1077,7 +1077,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/Nr1Fz9kwPrsyDByvkOEX1kUowIYVuGU2eKMul34bCmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAz/NDgtMTQ4OTYwMjkw/NC05NTgxLmpwZWc.jpeg" alt="Cover for On prend tout - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e54d6479804f1949ce958076b57c2efd.png" alt="Cover for On prend tout - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-10</td>
       <td>Doria</td>
@@ -1104,7 +1104,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg" alt="Cover for MDP 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eca1847e2a0f61867c22af8ea9b2fb17.png" alt="Cover for MDP 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
@@ -1216,7 +1216,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for Calcul" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71b25a6e37b8a016ed56e4f7856b6927.png" alt="Cover for Calcul" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
@@ -1274,7 +1274,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/YIDgd-vAoOj0wPp_KQ-zpE_p-sJx72qjUZRBC1HbGE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM0/NzIzLTE0OTA0NzU4/NzEtNTQyOS5qcGVn.jpeg" alt="Cover for On prend tout" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe7bed4f146cce51199944edb7fac1e9.png" alt="Cover for On prend tout" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
@@ -1391,7 +1391,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg" alt="Cover for MDP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c371042632d7b55ba1f2f7b5ee6a25c.png" alt="Cover for MDP" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
@@ -1422,7 +1422,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg" alt="Cover for MDP 1 - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e02f40ece34682e098c768cca29b192.png" alt="Cover for MDP 1 - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
@@ -1449,7 +1449,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg" alt="Cover for Leçon - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a639dc99e6f17a9af7f97dacb2cbf1c7.png" alt="Cover for Leçon - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
@@ -1476,7 +1476,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg" alt="Cover for 96 - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e04b78d62c226f150ac720d51d03dc9.png" alt="Cover for 96 - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
@@ -1503,7 +1503,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg" alt="Cover for Mission - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1fcd50b7807a2c96aa2c2544ccb1bc7.png" alt="Cover for Mission - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
@@ -1557,7 +1557,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/YIDgd-vAoOj0wPp_KQ-zpE_p-sJx72qjUZRBC1HbGE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM0/NzIzLTE0OTA0NzU4/NzEtNTQyOS5qcGVn.jpeg" alt="Cover for DGT - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09beb81f5cf323412920fd95e6596d8d.png" alt="Cover for DGT - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
@@ -1584,7 +1584,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/YIDgd-vAoOj0wPp_KQ-zpE_p-sJx72qjUZRBC1HbGE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM0/NzIzLTE0OTA0NzU4/NzEtNTQyOS5qcGVn.jpeg" alt="Cover for Tempo - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67217f803cc93711a7619f77070a0dfb.png" alt="Cover for Tempo - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
@@ -1611,7 +1611,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg" alt="Cover for Oh Boy - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23fb6253a75ac27f6676ff315f2a0030.png" alt="Cover for Oh Boy - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
@@ -1638,7 +1638,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for VRRR - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73964344f8cd8338c978545bb5da40de.png" alt="Cover for VRRR - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
@@ -1665,7 +1665,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg" alt="Cover for MDP - EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db798da01f8f9ad05c807b457a3fb541.png" alt="Cover for MDP - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
@@ -1916,34 +1916,6 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
             <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 15</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 24</li>
             <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 25</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/cQjfkSKlJQtQK_L_VwvK6sTQMK7oxUXe9XuHLk2Za4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjEx/ODA3LTE2Mzg1Mzk3/NjgtODQwOS5qcGVn.jpeg" alt="Cover for Dimanche [Explicit]" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-12-10</td>
-      <td>Cœur</td>
-      <td>Dimanche [Explicit]</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -2326,9 +2298,37 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/O6FvpPFrGu5Dan3UNk25u0YRKbwKnZAZ-UvAjGI2Nvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjY3/ODU4LTE1MzE3ODY0/MjctNzY3OS5qcGVn.jpeg" alt="Cover for Aout [Explicit]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024</td>
+      <td>Cœur</td>
+      <td>Aout [Explicit]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/d6Scpj7lesQQ_-AepuXuXPdXGqzrMAsMMsw0wyWib4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkz/NjY5LTE1ODY2ODI0/NzUtMjk1MC5qcGVn.jpeg" alt="Cover for Bad Gyal - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c62ed372766c5d52c82d5fb5464d5734.png" alt="Cover for Bad Gyal - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2024</td>
       <td>Leys</td>
@@ -2355,7 +2355,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/d6Scpj7lesQQ_-AepuXuXPdXGqzrMAsMMsw0wyWib4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkz/NjY5LTE1ODY2ODI0/NzUtMjk1MC5qcGVn.jpeg" alt="Cover for Sommet - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c382819afd1a6518234d5359e15551c.png" alt="Cover for Sommet - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2024</td>
       <td>Leys</td>
@@ -2382,7 +2382,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/d6Scpj7lesQQ_-AepuXuXPdXGqzrMAsMMsw0wyWib4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkz/NjY5LTE1ODY2ODI0/NzUtMjk1MC5qcGVn.jpeg" alt="Cover for Seule - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b087ac38f94c3d895b5166da8c7c643.png" alt="Cover for Seule - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2024</td>
       <td>Leys</td>
@@ -2409,7 +2409,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/d6Scpj7lesQQ_-AepuXuXPdXGqzrMAsMMsw0wyWib4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkz/NjY5LTE1ODY2ODI0/NzUtMjk1MC5qcGVn.jpeg" alt="Cover for Codes - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47b6c7765e6ef9b7049340f2a2ecfe4a.png" alt="Cover for Codes - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2024</td>
       <td>Leys</td>
@@ -2501,6 +2501,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af3165c1b252c228b36af2106414787c.png" alt="Cover for DIGITAL" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vannye</td>
@@ -2530,6 +2531,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2768b025d4fc4ffd0f946c03365184d7.png" alt="Cover for Stand" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Uzi Freyja</td>
@@ -2560,6 +2562,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/276749c9b4b4675caae909c06140e9d1.png" alt="Cover for Jamais - Single" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Toallita</td>
@@ -2585,6 +2588,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b3523bd18a969c09bbd300acdb791ec.png" alt="Cover for Killi - Single" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Toallita</td>
@@ -2610,6 +2614,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e434f7f675d8264f200c7f9b0ccfb8bc.png" alt="Cover for Stand - EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Uzi Freyja</td>
@@ -2637,6 +2642,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/896ad96e4559fbcc0366da80e57d6cc1.png" alt="Cover for Jamais" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Toallita</td>
@@ -2662,6 +2668,7 @@ Last updated: <time datetime="2025-11-05T16:22:51.484Z">Wed Nov 05 2025 18:22:51
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8ea1774a643ec71a17dbb332e67d72b.png" alt="Cover for Killi" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Toallita</td>
