@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-05T21:00:50.976Z
+date: 2025-11-08T08:12:13.332Z
 permalink: tags/electronic-rock
 title: electronic rock
 ---
 
 ## electronic rock
 
-Last updated: <time datetime="2025-11-05T21:00:50.976Z">Wed Nov 05 2025 23:00:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-08T08:12:13.332Z">Sat Nov 08 2025 10:12:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,8 +29,9 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
   </thead>
   <tbody>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90864c283e884fa180eb41b7f92e9278.png" alt="Cover for Walk Into Light" style="max-width:120px; height:auto;" />
       </td>
       <td>1983-11-18</td>
       <td>Ian Anderson</td>
@@ -51,6 +52,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5afb2c117332007ab9b2352d31173fd.png" alt="Cover for The Age of Consent" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Bronski Beat</td>
@@ -58,13 +60,11 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 56</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 56</li>
             <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 86</li>
         </ul>
       </td>
@@ -111,7 +111,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>1994-11-17</td>
@@ -163,7 +163,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>1997-02-27</td>
@@ -200,7 +200,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>1999</td>
@@ -218,7 +218,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/hyvM4ONS2l2txkvf46g37gYYTOEJ3H4lmMmL0SX-rqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTM3/OC0xMzI3MjY2NDc1/LmpwZWc.jpeg" alt="Cover for Making Love" style="max-width:120px; height:auto;" />
       </td>
@@ -285,25 +285,6 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-          <img src="https://i.discogs.com/deeSxLOpvmF8GuW4zmq1ShKxCzvBMWABqPcJx_WHlQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjY0/NC0xMTc1Mjk3NzM2/LmpwZWc.jpeg" alt="Cover for Transmission" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001-09-24</td>
-      <td>Gay Dad</td>
-      <td>Transmission</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>27</td>
       <td>
       </td>
@@ -349,7 +330,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/sx3udFUPKbUPTNfN1M2zs60mXR_arLBLSdEJMwJLHdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzI4/NzYtMTU1OTUxNjYz/Mi05NDEzLmpwZWc.jpeg" alt="Cover for National P" style="max-width:120px; height:auto;" />
       </td>
@@ -450,7 +431,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/pCLnJL2MZha6MgXYPudI5qHbqtAeMb4G3bR1UlrUVVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjY2/MTItMTQwMTAyMTI4/Mi05NjE2LmpwZWc.jpeg" alt="Cover for Whore (Ep)" style="max-width:120px; height:auto;" />
       </td>
@@ -569,7 +550,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/rlEvugewNcPznOHg61S_8T_r7nX681PlIWTcHsUTINc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTA2/MDEtMTQ1Nzg1MTgz/NC0yOTgzLmpwZWc.jpeg" alt="Cover for Hello Fascination" style="max-width:120px; height:auto;" />
       </td>
@@ -586,7 +567,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 13</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 19</li>
             <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 35</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 75</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -648,7 +629,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>2010-05-18</td>
@@ -761,7 +742,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/WQSkfAvuEy5quYvYy714BoavVuTv2fhlppyChMio77I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTM5/ODMtMTU5MjY4OTA2/MC0yMjQzLmpwZWc.jpeg" alt="Cover for Sweet Noise" style="max-width:120px; height:auto;" />
       </td>
@@ -838,7 +819,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c07bffc889b4726a7c7c2b84e96ec3f.png" alt="Cover for Planetary (Go!)" style="max-width:120px; height:auto;" />
       </td>
@@ -949,7 +930,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cccad923dbb5110ebd009ac781790075.png" alt="Cover for Sleepwalker" style="max-width:120px; height:auto;" />
       </td>
@@ -969,7 +950,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2011-09-25</td>
@@ -979,6 +960,25 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f936b84acaa94ebab271043a9c9ff96b.png" alt="Cover for Other People&#39;s Problems" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-03-26</td>
+      <td>Breton</td>
+      <td>Other People&#39;s Problems</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
         </ul>
       </td>
       <td>
@@ -1101,7 +1101,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 15</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 20</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 21</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 79</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 91</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 93</li>
@@ -1129,7 +1129,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/WYfhVGowR4FR_kI1Fek4RNr2WHslpvdDhWwOQOihATo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDk5/OTctMTM3NjIyNDYw/MS0yMTA0LmpwZWc.jpeg" alt="Cover for Signal 30 EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1368,7 +1368,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/T3F5_JRVfDW3Kkxkw_gVWmUrUx18bUFBLdrWoTn1cMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMjY0/MjktMTY1OTc4NjM3/MS0zMjUyLmpwZWc.jpeg" alt="Cover for Death Magic" style="max-width:120px; height:auto;" />
       </td>
@@ -1383,7 +1383,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 32</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 33</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 75</li>
         </ul>
       </td>
@@ -1522,7 +1522,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/1Al8Tev7zO9yC3g9uePuYQSBw1Aa1-hFhuBwEkN33kY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjUz/ODUxLTE1Nzg5NzI5/NDUtNTExNS5qcGVn.jpeg" alt="Cover for Darkness Leaves Nowhere to Go" style="max-width:120px; height:auto;" />
       </td>
@@ -1545,7 +1545,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/xrr5iOngpN634wqVSc5UZCsoZnkV3Y1mF3vuQnmz13E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjU0/ODcwLTE1NzkwMDM1/MDgtNjk1OC5qcGVn.jpeg" alt="Cover for Revelation (ArcheAge Orchidna NA Theme)" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,7 +1588,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/4aXQlPl0ra2IdPKf8zf0SBOoV2F7Wmv650b6YA8bj4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDU3/NjU1LTE0OTA4ODEx/ODUtOTEyNS5qcGVn.jpeg" alt="Cover for Hotline Miami" style="max-width:120px; height:auto;" />
       </td>
@@ -1671,7 +1671,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/1lo8eSd_Oxhbb-hA3W2fRNdfHcXR10fZhLjadS28sBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI2/MTQwLTE1NTU4Njg2/NDUtODU5MS5qcGVn.jpeg" alt="Cover for The Tryforce" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9bbd569d6bb93ba0f9cc48e80d9ad189.png" alt="Cover for The Tryforce" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-19</td>
       <td>Starbomb</td>
@@ -1787,7 +1787,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/_lNDQJyI1yKqUceoA0A440TJm8PIvzFe3O0K6KyLdDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE2/NTMyLTE2NzgyOTQw/ODEtMzAxNy5qcGVn.jpeg" alt="Cover for Use Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3fc920b817b71fee126ecb3d018c34d.png" alt="Cover for Use Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-08-28</td>
       <td>PVRIS</td>
@@ -1803,7 +1803,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2020-10-02</td>
@@ -1830,7 +1830,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/q3S0M6PntzkbRlOMte5GcmfKZOLU6WjdVe0ZP_eYPKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDY4/MjA5LTE2MDI4NjQ3/MjYtODU1Ni5qcGVn.jpeg" alt="Cover for My Agenda" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93548b4bdfe9c13ab8604ee53c75c159.png" alt="Cover for My Agenda" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-16</td>
       <td>Dorian Electra</td>
@@ -1878,7 +1878,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/Qy-ZX-WgUBcnhxjh1OBu_Nkg6FXFu-X2iKfG6dArUYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjM4/OTI2LTE2MDU3OTk2/NjMtNTAwMC5qcGVn.jpeg" alt="Cover for Trans Am" style="max-width:120px; height:auto;" />
       </td>
@@ -1960,7 +1960,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2022-09-16</td>
@@ -2032,7 +2032,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2023-01-13</td>
