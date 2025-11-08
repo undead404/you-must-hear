@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T00:08:50.941Z
+date: 2025-11-07T18:46:04.718Z
 permalink: tags/magyar
 title: magyar
 ---
 
 ## magyar
 
-Last updated: <time datetime="2025-11-01T00:08:50.941Z">Sat Nov 01 2025 02:08:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-07T18:46:04.718Z">Fri Nov 07 2025 20:46:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -28,6 +28,24 @@ Magyar music refers to the traditional music of Hungary, which has its roots in 
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>1969</td>
+      <td>Omega</td>
+      <td>10000 lépés</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td>84</td>
       <td>
@@ -270,24 +288,6 @@ Magyar music refers to the traditional music of Hungary, which has its roots in 
       <td>1991</td>
       <td>Bonanza Banzai</td>
       <td>1984</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/magyar" | relative_url }}">magyar</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/-v6v5hQEDvemgIqs-txXyidScO0U-a8AQWLEB4GTU-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDE3/MzQtMTU4NDgxMzA2/NS00MzY3LmpwZWc.jpeg" alt="Cover for Egyenlítői Magyar Afrika" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992</td>
-      <td>Napoleon Boulevard</td>
-      <td>Egyenlítői Magyar Afrika</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/magyar" | relative_url }}">magyar</a></li>
@@ -752,7 +752,7 @@ Magyar music refers to the traditional music of Hungary, which has its roots in 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/jqT_DP8nNNgyGeAxz2nAwqgCcUl91-2aIOKYZDTcBhM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY2/Njc1LTE0OTEwNDAx/NDAtNTY5My5qcGVn.jpeg" alt="Cover for Listen" style="max-width:120px; height:auto;" />
       </td>
@@ -871,7 +871,7 @@ Magyar music refers to the traditional music of Hungary, which has its roots in 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/06qAHdrEGmzLtKkDWoVKr86359OBJm22-uQ_RPeXrHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjE4/NjgtMTI2NjcwMTY0/NS5qcGVn.jpeg" alt="Cover for Rólunk szól" style="max-width:120px; height:auto;" />
       </td>
@@ -1168,7 +1168,7 @@ Magyar music refers to the traditional music of Hungary, which has its roots in 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/BT5r3kfH6mKNm-nQHpqMU9BYB4H7zfiFzUWhCnRQnB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjIw/MjgtMTI3OTcxMTY5/NC5qcGVn.jpeg" alt="Cover for 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1269,7 +1269,7 @@ Magyar music refers to the traditional music of Hungary, which has its roots in 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td>2004</td>
@@ -1430,7 +1430,7 @@ Magyar music refers to the traditional music of Hungary, which has its roots in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 15</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 14</li>
             <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 40</li>
             <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 43</li>
         </ul>
@@ -1668,7 +1668,7 @@ Magyar music refers to the traditional music of Hungary, which has its roots in 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7171ed2061604b2e8647f068d4f1d479.png" alt="Cover for Pohár vér" style="max-width:120px; height:auto;" />
       </td>
@@ -1835,7 +1835,7 @@ Magyar music refers to the traditional music of Hungary, which has its roots in 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/BVsqEe9wFnJKkLWIU_r_xLSA1S2xRfQR3N2QpYyC7mc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDY3/MDA2LTE2Mzc0OTg4/MTEtMjE5NC5qcGVn.jpeg" alt="Cover for didn&#39;t want to hurt you" style="max-width:120px; height:auto;" />
       </td>

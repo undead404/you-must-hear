@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-05T08:56:51.823Z
+date: 2025-11-07T18:48:34.478Z
 permalink: tags/quartet
 title: quartet
 ---
 
 ## quartet
 
-Last updated: <time datetime="2025-11-05T08:56:51.823Z">Wed Nov 05 2025 10:56:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-07T18:48:34.478Z">Fri Nov 07 2025 20:48:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -399,7 +399,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/mL5ftm6_1Bd_cvP3LtyAVQASmkZY_4Q_jQX1S0p1OqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzgy/ODk1LTE1NzM0MDg0/NjYtOTkxMy5qcGVn.jpeg" alt="Cover for Magnard, Faure: String Quartets" style="max-width:120px; height:auto;" />
       </td>
@@ -959,7 +959,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       <td>
         <ul>
             <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 4</li>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 47</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1558,6 +1558,25 @@ A quartet is a musical composition for four instruments or voices, also referrin
       <td>
       </td>
       <td></td>
+      <td>Led Zeppelin</td>
+      <td>Led Zeppelin: Greatest Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td></td>
       <td>Eujineus</td>
       <td>Eujineus Quartets 2012</td>
       <td>
@@ -1573,7 +1592,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1583,44 +1602,6 @@ A quartet is a musical composition for four instruments or voices, also referrin
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Patricio da Silva</td>
-      <td>Piano Quartet</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lute" | relative_url }}">lute</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a></li>
         </ul>
       </td>
       <td>
@@ -1647,7 +1628,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
