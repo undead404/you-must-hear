@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T04:12:53.610Z
+date: 2025-11-08T00:35:41.880Z
 permalink: tags/north-carolina
 title: north carolina
 ---
 
 ## north carolina
 
-Last updated: <time datetime="2025-10-28T04:12:53.610Z">Tue Oct 28 2025 06:12:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-08T00:35:41.880Z">Sat Nov 08 2025 02:35:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
   </thead>
   <tbody>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/z0LGE95K-sWBo0i_QGH5nK8OjcUNoyAF0cwkRdQyPA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUw/NjU2LTE1MzkzNTI0/MzItODkyMy5qcGVn.jpeg" alt="Cover for Shirley Logan" style="max-width:120px; height:auto;" />
       </td>
@@ -49,7 +49,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/z0LGE95K-sWBo0i_QGH5nK8OjcUNoyAF0cwkRdQyPA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUw/NjU2LTE1MzkzNTI0/MzItODkyMy5qcGVn.jpeg" alt="Cover for So Much to Say" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/8tYJTMWgAHwmQMpizBDuV3QJOIE7zH5qMh1GlYd1eQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTM4/OTQtMTQxMjkwNjcy/Ny0zNTAxLmpwZWc.jpeg" alt="Cover for Your Face Or Mine" style="max-width:120px; height:auto;" />
       </td>
@@ -87,7 +87,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/S5zCToQvwaKtykDJSWx7aCPlI8eRlh9oX801uNx-UGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjgx/MC0xMTEzMjUzNjIx/LmpwZw.jpeg" alt="Cover for Drop Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -108,7 +108,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/BF4K1AscdbBsevvvGjHGuMExv3Mft_rrEV_vKn52vpU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzg2/NTYtMTM4MTkzMjQ4/Ni05NDkxLmpwZWc.jpeg" alt="Cover for Toasterhead" style="max-width:120px; height:auto;" />
       </td>
@@ -171,7 +171,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/GC3lwJruC8Y1FcxOeb9rPb8h9jymvpvg24FJKj1KRyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDgz/NDAyLTE1Njg0MDU5/ODUtNTc5NC5qcGVn.jpeg" alt="Cover for Twisted Laurel&#x2F;Merchants Lunch" style="max-width:120px; height:auto;" />
       </td>
@@ -194,7 +194,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td>1992</td>
@@ -214,7 +214,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
       </td>
       <td>1992</td>
@@ -234,7 +234,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/2YsqG8ewQ-ja7o28ZMpWFgKV9WWB5xa0xNXcgcAw9CI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzYz/MjEtMTMxOTE5MTM3/My5qcGVn.jpeg" alt="Cover for 10 Million Summers" style="max-width:120px; height:auto;" />
       </td>
@@ -252,7 +252,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td>1992-11-16</td>
@@ -326,7 +326,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/4b9-UcE-N-J8kV189HsSHDfaTgjX5Onupu7BBBcAdLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTIx/MDctMTQ0MjU5MTI1/NC05NjE5LmpwZWc.jpeg" alt="Cover for Live" style="max-width:120px; height:auto;" />
       </td>
@@ -347,7 +347,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/GrAvqNGX2nUBg_A3vDc7m8qMgDb8j9SggL_tqNNeves/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTMx/MjM1LTE1Njg0MDYw/NzQtMzI1MS5qcGVn.jpeg" alt="Cover for The Red Clay Ramblers LIVE" style="max-width:120px; height:auto;" />
       </td>
@@ -393,7 +393,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
       </td>
       <td>1998</td>
@@ -430,7 +430,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/q52vldFFlsVYgdYdcWuDhjp420Ms8hkO6g8dvZjPIAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjMx/MzMtMTQ4MDMwMzcz/Ny03NzA3LmpwZWc.jpeg" alt="Cover for Love Shape Bruise" style="max-width:120px; height:auto;" />
       </td>
@@ -468,7 +468,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
       </td>
       <td>2001</td>
@@ -489,9 +489,9 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/uWRrtzjAGmfMFAt0K4E-Q6sMmM96IpLU_7qduxJ36SQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzk5/MzUtMTMwNTM5Mzgy/Mi5qcGVn.jpeg" alt="Cover for Mr. Rozzi Live at the dotmatrix project" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08a9569ef31a5990bc3e409d50ea6e69.png" alt="Cover for Mr. Rozzi Live at the dotmatrix project" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Mr. Rozzi</td>
@@ -511,7 +511,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
       </td>
       <td>2001</td>
@@ -529,7 +529,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/9vYXMlGWNruqok8DoXyx47DTLSzTONxJhpgAocIMQCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDU1/MzktMTU0MzMzMTk2/NS00MjQyLmpwZWc.jpeg" alt="Cover for The Art of Resistance" style="max-width:120px; height:auto;" />
       </td>
@@ -548,7 +548,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/tGuUvRCFjG5YLCR2s8MWaSDB9Gi3lgYyFHL74w40bzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjk2/ODgtMTMzNDA3MDcx/OC5qcGVn.jpeg" alt="Cover for Taco Stories" style="max-width:120px; height:auto;" />
       </td>
@@ -569,7 +569,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/tGuUvRCFjG5YLCR2s8MWaSDB9Gi3lgYyFHL74w40bzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjk2/ODgtMTMzNDA3MDcx/OC5qcGVn.jpeg" alt="Cover for Fabulously Trashy" style="max-width:120px; height:auto;" />
       </td>
@@ -632,7 +632,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd5d432a0c724cc39705ef2a0d5223bd.png" alt="Cover for One Big Party" style="max-width:120px; height:auto;" />
       </td>
@@ -655,7 +655,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/YHTCsIOHT02h4GBvCWqq0hBd1A9uhjrbq-XunVH-zko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzQ4/NDctMTQ1Mjk3NDIy/MC02Mzg5LmpwZWc.jpeg" alt="Cover for The Beautiful World" style="max-width:120px; height:auto;" />
       </td>
@@ -673,7 +673,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/tLqpz9wVScG652AZmE93mOY3CUdkW_jRM8JPz12vjhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzQx/NzYtMTQ1NDc3ODIz/MC0yODU1LmpwZWc.jpeg" alt="Cover for Spoon Box" style="max-width:120px; height:auto;" />
       </td>
@@ -692,7 +692,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
       </td>
       <td>2004</td>
@@ -727,7 +727,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/Qw6yYdkH-SeQfvHmGw_Z5pMH0mgouKoWFlIn0_a4sr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTEz/MzMtMTQ4ODM5NzAx/MC00MDAxLmpwZWc.jpeg" alt="Cover for Bigga Than It Really Is" style="max-width:120px; height:auto;" />
       </td>
@@ -767,7 +767,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/8BfEwHLsaAHkELBeyzuQIvoZzKPXvBfkkDahNj_bLHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTg4/NzgtMTQwMzU0NzQ5/NC0xNjYzLmpwZWc.jpeg" alt="Cover for Everything Else" style="max-width:120px; height:auto;" />
       </td>
@@ -855,12 +855,12 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avanthop" | relative_url }}">avanthop</a> # 12</li>
+            <li> <a href="{{ "/tags/avanthop" | relative_url }}">avanthop</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/6XAvawmzJNSDyQM3KGw9aDnN27k8ALiZ5zg8ZT1OPvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM5/NDE0LTE0OTA1NTQw/MjktODYyNS5qcGVn.jpeg" alt="Cover for Anti-Rust EP (2005)" style="max-width:120px; height:auto;" />
       </td>
@@ -899,7 +899,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ef3ce457f934fef83ee47182010183f.png" alt="Cover for Free Your Mellow" style="max-width:120px; height:auto;" />
       </td>
@@ -916,12 +916,12 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 8</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/NQfZnGocKULoPORnENrflrW9JEaJ1E6atVTDqlHLRYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY5/MzU5LTE1OTE1NjA3/MzctODY2Ni5qcGVn.jpeg" alt="Cover for A Vile Of Vegetables" style="max-width:120px; height:auto;" />
       </td>
@@ -947,7 +947,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/_5ml6XXBKn5IDHXQLc-8O9j0dPspThZ2jFf6M5dOwLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA5/OTkyLTE1MDYzNjIz/NDMtODMwOC5qcGVn.jpeg" alt="Cover for Hammer No More The Fingers Live at the dotmatrix project" style="max-width:120px; height:auto;" />
       </td>
@@ -965,7 +965,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/oXkA5lE91zInHeFUwX3iWj9etyzukuCAJ2tRA6-rPAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTY2/NjktMTQ0NjEyNzUy/MS01MTAwLmpwZWc.jpeg" alt="Cover for Into Your Sleeping Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -983,7 +983,24 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>80</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cf8d380a34747d9a72b241e4c68e419.png" alt="Cover for Median&#39;s Relief" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-09-25</td>
+      <td>Median</td>
+      <td>Median&#39;s Relief</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/4LqRb7Ay7C9Coy_LDcnHiwQhhB9Z5BxfxEs-GNJ9bIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjIt/MTEzNDUyODM3NS5q/cGVn.jpeg" alt="Cover for Hard Road To Travel" style="max-width:120px; height:auto;" />
       </td>
@@ -1067,14 +1084,13 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avanthop" | relative_url }}">avanthop</a> # 13</li>
+            <li> <a href="{{ "/tags/avanthop" | relative_url }}">avanthop</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/EyBM_qpMMtt_xKpKLuNl4ng1z8BIXVVP6I1YTneCz54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM5/NTExLTE0OTA1NTUx/MjQtMTAzNC5qcGVn.jpeg" alt="Cover for Lend An Ear (2009)" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-02</td>
       <td>ShamGrammar</td>
@@ -1086,7 +1102,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avanthop" | relative_url }}">avanthop</a> # 5</li>
+            <li> <a href="{{ "/tags/avanthop" | relative_url }}">avanthop</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1109,7 +1125,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/z7O6SOPT5GqdyexKvAgRFjpIpc2LHhnj_01E-VAe3IQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjQz/OTkzLTE2NDgyNDE2/MTQtMzQ0NC5qcGVn.jpeg" alt="Cover for This is Not an Entrance" style="max-width:120px; height:auto;" />
       </td>
@@ -1130,7 +1146,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/517ECzPEB5Lbpf3uyJReOYe3rF6WYjriNfbK2rKSLwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDMw/OTE1LTE2NTk3MTUz/OTYtNjU2MS5qcGVn.jpeg" alt="Cover for Old North State" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,26 +1168,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/vWEN4z-gFV2T-LrmyWgdbCRGi4GWSX-sSuUeI1ahbgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODk1/MjM3LTE2NTAwNjQx/NTAtMjU4Ny5qcGVn.jpeg" alt="Cover for The ThoughtCriminals" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>The ThoughtCriminals</td>
-      <td>The ThoughtCriminals</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/_GPWkWS7Za2Ohz7WjqWLseGM_biQ03H7dQMLNiDExio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjEx/MTIxLTE1NTc5MzM1/ODItMjk3Ni5qcGVn.jpeg" alt="Cover for Island Diplomacy" style="max-width:120px; height:auto;" />
       </td>
@@ -1194,7 +1191,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/4xfbf-g5_POW5bVe3u730luHltAun6hAdEe5LZSrfGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTgy/OTgtMTIzNzY4NDY5/Ny5qcGVn.jpeg" alt="Cover for more fun than a cardboard box EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1259,7 +1256,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/upTKdEJ1_YBFA7z8TDgyVH0Zlk7gEgCZSMhv5Im-1Ts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTcy/MzUtMTI3ODI3NjY2/NC5qcGVn.jpeg" alt="Cover for ATAK013 Ligne" style="max-width:120px; height:auto;" />
       </td>
@@ -1286,7 +1283,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
       </td>
       <td>2010-03-10</td>
@@ -1327,7 +1324,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/Mchoz2cGtl89Pa0Z-FmZU8xpbXSeOzi-cauVylmhlhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjg5/MDAtMTI4MzUzOTIx/OC5qcGVn.jpeg" alt="Cover for S&#x2F;T -Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1346,7 +1343,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b5e3cbd5f87484c9c034b809d1e802f.png" alt="Cover for A Different Story" style="max-width:120px; height:auto;" />
       </td>
@@ -1368,7 +1365,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
       </td>
       <td>2011-03-28</td>
@@ -1420,7 +1417,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/fI2ggcuTeV2FZqkfUE37ywN5BoJzeNHxZYRT9zryff0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDE4/OTQtMTMyNDc0ODE3/NC5qcGVn.jpeg" alt="Cover for beko_92" style="max-width:120px; height:auto;" />
       </td>
@@ -1457,7 +1454,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/UYLfjj7Y4ZQNDw1fb3c_UcpjkeWISAZpumEXuXTWkl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODUy/MDUtMTM5MjA1ODI2/Ni0yOTc3LmpwZWc.jpeg" alt="Cover for Demonstrations" style="max-width:120px; height:auto;" />
       </td>
@@ -1500,7 +1497,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/UYLfjj7Y4ZQNDw1fb3c_UcpjkeWISAZpumEXuXTWkl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODUy/MDUtMTM5MjA1ODI2/Ni0yOTc3LmpwZWc.jpeg" alt="Cover for Radical Graves" style="max-width:120px; height:auto;" />
       </td>
@@ -1525,7 +1522,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/UYLfjj7Y4ZQNDw1fb3c_UcpjkeWISAZpumEXuXTWkl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODUy/MDUtMTM5MjA1ODI2/Ni0yOTc3LmpwZWc.jpeg" alt="Cover for Dark Fruit" style="max-width:120px; height:auto;" />
       </td>
@@ -1548,7 +1545,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>2012-04-25</td>
@@ -1568,7 +1565,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/rW6obaOe3vbfZ1456LT36oWEDHUjlx-b0gEg4YQb_OQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTQ2/MDAtMTQ0MTAzMTMz/Ny03NzUwLmpwZWc.jpeg" alt="Cover for Lowcountry" style="max-width:120px; height:auto;" />
       </td>
@@ -1631,7 +1628,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/Mn10JGTva7W8e3_YOMRoUQkkHx9HfmgftxEH64FTlcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM5/NzE1LTE0OTA1NTc0/NzUtNzExNy5qcGVn.jpeg" alt="Cover for Progress In Works (produced by LoFi)" style="max-width:120px; height:auto;" />
       </td>
@@ -1648,12 +1645,12 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avanthop" | relative_url }}">avanthop</a> # 1</li>
+            <li> <a href="{{ "/tags/avanthop" | relative_url }}">avanthop</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/Mn10JGTva7W8e3_YOMRoUQkkHx9HfmgftxEH64FTlcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM5/NzE1LTE0OTA1NTc0/NzUtNzExNy5qcGVn.jpeg" alt="Cover for Progress In Works (produced by LoFi) [2006]" style="max-width:120px; height:auto;" />
       </td>
@@ -1671,7 +1668,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/yb1Sx0TQqhfc6bX1EglO0Q1dfa1Kz1K-te_qUFIlN8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTQ3/MDczLTE1NjQ2NzA0/ODctMjkyNy5qcGVn.jpeg" alt="Cover for Time Dilations" style="max-width:120px; height:auto;" />
       </td>
@@ -1692,7 +1689,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/4UuvUPO_xGoAO-HRdQ1BOgf6YTP5sgapSbdZKri2odQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Nzcz/OTQtMTQ2MzU4NTky/NC02MjM4LnBuZw.jpeg" alt="Cover for Compress" style="max-width:120px; height:auto;" />
       </td>
@@ -1743,7 +1740,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/ekwyHqk_UTldQ5xiYlIcQeUEB6GpPDvoFz1S2bLasqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTI0/Njk1LTE2NjY1NzUy/NjMtNDc5MS5wbmc.jpeg" alt="Cover for Buddy System (Music from Season 1)" style="max-width:120px; height:auto;" />
       </td>
@@ -1782,7 +1779,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/jVYI2j2EKNwaA_lZh0UmxDKJpfTh8V_5awvujvSFB1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzI3/MzIyLTE1MTQzMDk1/MzMtNDQ1My5qcGVn.jpeg" alt="Cover for The Demos" style="max-width:120px; height:auto;" />
       </td>
@@ -1826,7 +1823,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/kLRcxLarxJ433hrIk9vi3PfUpdF9mAHrGNxyu24Cc7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTYw/MjA3LTE2MzQwMjMz/MjctNDEyMi5qcGVn.jpeg" alt="Cover for Oneirophrenia" style="max-width:120px; height:auto;" />
       </td>
@@ -1864,9 +1861,9 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
-          <img src="https://i.discogs.com/s9ku04jtAUEsT5ZLnNXj4OYFoO4u0-JGbncprXUsz0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTAw/MDk1LTE1NjM2Mzcx/MjgtODI0OC5qcGVn.jpeg" alt="Cover for Beyond What Is Real" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5edaabb4b54f0fc9f55337861442c64.png" alt="Cover for Beyond What Is Real" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-07-05</td>
       <td>Nightmare Scenario</td>
@@ -1887,7 +1884,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -1907,8 +1904,9 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/914adcc5f13480221b62965b89b0c690.png" alt="Cover for The Best of LATRUTH Vol.1 2009" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>LATruth</td>
@@ -1926,7 +1924,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -1943,7 +1941,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -1964,7 +1962,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -1982,12 +1980,30 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
       <td>The Future Kings of Nowhere</td>
       <td>The Future Kings of Nowhere (Solo) Live at the dotmatrix project</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d97dbf41ef80d7d0e19b98dd26bef6ae.png" alt="Cover for Black Space Soul" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>KID-80</td>
+      <td>Black Space Soul</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
@@ -2042,25 +2058,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>44</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d97dbf41ef80d7d0e19b98dd26bef6ae.png" alt="Cover for Black Space Soul" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>KID-80</td>
-      <td>Black Space Soul</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
       </td>
       <td></td>
@@ -2080,8 +2078,9 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d40319d70a0b9a37c600e80b71c55d93.png" alt="Cover for Who Is Latruth" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>LATruth</td>
@@ -2101,8 +2100,9 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1997ff63d04c92510136d2ad4bbe3eda.png" alt="Cover for Ascension" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Shoko Kurai</td>

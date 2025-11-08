@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T07:21:50.994Z
+date: 2025-11-08T00:38:36.360Z
 permalink: tags/pop-rap
 title: pop rap
 ---
 
 ## pop rap
 
-Last updated: <time datetime="2025-11-01T07:21:50.994Z">Sat Nov 01 2025 09:21:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-08T00:38:36.360Z">Sat Nov 08 2025 02:38:36 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
   </thead>
   <tbody>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/Qw87_FQoNdoyucaX2CitZdvy_uRKqU7pSfc4jh-zVbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjM5/Njk4LTE2NjQyMTY4/MzYtMzYxNC5qcGVn.jpeg" alt="Cover for QUANTUM BABY" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c323335fc070a7cd20669c4167bbed80.png" alt="Cover for QUANTUM BABY" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Tinashe</td>
@@ -44,7 +44,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 30</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -96,9 +96,9 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/N0mni5-LaIUL_AYyhYYu0Ko35n2We3j1S1gE82ZmHkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjE3/MjE0LTE2MjcyMDg2/NTAtMjU2Mi5qcGVn.jpeg" alt="Cover for Pink Friday (Complete Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/85b7b7774e6f435195a7500db5ee48b1.png" alt="Cover for Pink Friday (Complete Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-06</td>
       <td>Nicki Minaj</td>
@@ -114,12 +114,12 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 19</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>2012-12-26</td>
@@ -135,7 +135,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 15</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 70</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 71</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 79</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 91</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 93</li>
@@ -143,7 +143,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/TS4p05D4UmG5ProsH9WnvLWxbK3WEmoFjZgx0sj93aE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjk4/ODgtMTYzOTUwMjg3/Mi0zNDg5LmpwZWc.jpeg" alt="Cover for Finally Rich (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -165,7 +165,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/N4Qhuw8XPp_-QUC8Bkw_g0mphTJ8bzBTzWNO-SFPFsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjM0/NDItMTM4MzkxNjc1/Ni02MDQyLmpwZWc.jpeg" alt="Cover for good kid, m.A.A.d city (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0de576a486344cbfe3fa52a1d14bf47.png" alt="Cover for good kid, m.A.A.d city (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Kendrick Lamar</td>
@@ -177,14 +177,14 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       <td>
         <ul>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 3</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 4</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 6</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 95</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>2013-01-15</td>
@@ -197,7 +197,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 84</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 85</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 89</li>
         </ul>
       </td>
@@ -225,15 +225,15 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f636525495f1458c7c55f238eb8e27d.png" alt="Cover for Because the Internet" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-06</td>
       <td>Childish Gambino</td>
       <td>Because the Internet</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
         </ul>
       </td>
       <td>
@@ -248,8 +248,9 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e5dfc556d4a44fcc4967721f258e8ea.png" alt="Cover for Globalization" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-21</td>
       <td>Pitbull</td>
@@ -264,13 +265,13 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 18</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 82</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 80</li>
             <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/A-4-qaGYWSxsgLbL_ZwIe5Aw4lTM2y4m4e6PE_1gIyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDI0/MjUxLTE2NzU3OTA3/ODctODkzOC5qcGVn.jpeg" alt="Cover for JORDI (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -295,7 +296,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/O2XFs96lnF5ipzjUJWQIERLngA84RkYfvQOcWSJtd0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MjY0/MzEtMTY2MTM1NDgx/MC03ODA0LmpwZWc.jpeg" alt="Cover for Lil Uzi Vert vs. The World" style="max-width:120px; height:auto;" />
       </td>
@@ -310,8 +311,8 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 14</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 55</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 15</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 57</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 93</li>
         </ul>
       </td>
@@ -361,7 +362,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 39</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 66</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 83</li>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 90</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -383,12 +384,12 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       <td>
         <ul>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 41</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 56</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/lx5OsXjMSypTrp6RHkfOFIeZiqgELkh_O0Z_JD_Cq4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI1/MzIzLTE2MDMxOTcx/NzYtNTk0Ni5qcGVn.jpeg" alt="Cover for Leave Her" style="max-width:120px; height:auto;" />
       </td>
@@ -408,7 +409,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 15</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 16</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 62</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 85</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 87</li>
@@ -417,7 +418,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/awerI_Ci6xmJU5vI3GVMKigGPPTqWt25iBQrsd4B-a4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzAx/MjI2LTE2NzMxNjM5/MzEtODQ1NC5wbmc.jpeg" alt="Cover for then i&#39;ll be happy" style="max-width:120px; height:auto;" />
       </td>
@@ -474,7 +475,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 20</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -496,14 +497,14 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 11</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 59</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 13</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 60</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/byZ0Fcnr5WE298QclpjELZQKmF85ia7xkN27yYh8HbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQw/NTExLTE0OTU2Mjk2/ODAtMjUwMi5qcGVn.jpeg" alt="Cover for Tear In My Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -536,13 +537,14 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/FU9zzKlGGrJMQaYCauF5_b7bqUnMGz6aN1RJq1iSVtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDE5/MTc4LTE1OTEyMzQ5/MDMtMjY2MS5qcGVn.jpeg" alt="Cover for DAMN." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a59ed3a9c71cb5113325e2026889e4a.png" alt="Cover for DAMN." style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-14</td>
       <td>Kendrick Lamar</td>
@@ -575,30 +577,9 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 71</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 86</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 73</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 87</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
-          <img src="https://i.discogs.com/tRjk1MW44GzTrwUdMqvGqvd1seKyxU-AI-1vZoj5mNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ1/NTAwLTE0OTc1OTI3/MDEtNTMxNS5qcGVn.jpeg" alt="Cover for SATURATION" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-06-09</td>
-      <td>BROCKHAMPTON</td>
-      <td>SATURATION</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 6</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 38</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -619,7 +600,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 15</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 21</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 44</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 63</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 80</li>
@@ -627,7 +608,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/_4_JgB14cD4RRpkVMnUtO9dhecLf6JMN8ZUMugmFS-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDI2/NTU0LTE2NjAwNzU2/MTktNjkyMi5qcGVn.jpeg" alt="Cover for Too Hard" style="max-width:120px; height:auto;" />
       </td>
@@ -650,7 +631,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/qMOk9UcxKqbc-7Wb0G_umECfoOJtbesr-_ozA8p8Ylc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjky/MDIwLTE1MTM1NTEw/ODAtNTEzMS5qcGVn.jpeg" alt="Cover for Saturation III" style="max-width:120px; height:auto;" />
       </td>
@@ -672,7 +653,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/awCVlhgr64SLkTmrRZq_BtwHur1VUzV3E9gtGUUt8Ks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTYw/NjkyLTE1NDUzODE5/ODQtMzg0Mi5qcGVn.jpeg" alt="Cover for i am &gt; i was (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -699,7 +680,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/GGe9A7gP2z8DVwTgCzoTbykcpngxWPYgTqVN6U0-d30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMw/OTAwLTE1MzMwNjg5/MjAtOTAyNS5qcGVn.jpeg" alt="Cover for Swimming" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f0e333c941c1a0147fc5d347d343e6d.png" alt="Cover for Swimming" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Mac Miller</td>
@@ -711,13 +692,13 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 65</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/PGwCGbKuk4gU3apU1C8hRgCxn_VMRJc4325IlMxiqIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzY5/MzUyLTE2ODA4NzU3/NTMtNjQ0NC5qcGVn.jpeg" alt="Cover for SR3MM" style="max-width:120px; height:auto;" />
       </td>
@@ -739,7 +720,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/0hmdRrouyGHqquH21Lp27m-4o3odsCP_x3FFSLfHseI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc4/MjQwLTE2NTk2OTk5/NDQtOTM1Ni5qcGVn.jpeg" alt="Cover for Ye" style="max-width:120px; height:auto;" />
       </td>
@@ -786,9 +767,9 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/6sjkRQaiGMbv5_YUc1FpNGBhzgPUPRD5dnhqBklDSA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMw/NDA2LTE1MzMwNjE2/NjctMzA0My5qcGVn.jpeg" alt="Cover for TA13OO" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb08998bcef5c46fc1aaec14be568d86.png" alt="Cover for TA13OO" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-07-27</td>
       <td>Denzel Curry</td>
@@ -801,7 +782,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 33</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 35</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 65</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 66</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 84</li>
@@ -826,10 +807,38 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 38</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 42</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 80</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 82</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 83</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/fI4ezBjcVIjSuM4Apt272BB496_odC9E_OXFEiaTYpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTky/NTU2LTE1Mzg5NjQ5/NjctODI5OC5qcGVn.jpeg" alt="Cover for trench" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-10-05</td>
+      <td>Twenty One Pilots</td>
+      <td>trench</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 35</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 38</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 59</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 80</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -850,7 +859,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 14</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 16</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 90</li>
         </ul>
       </td>
@@ -940,14 +949,14 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 7</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 53</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 9</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 54</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/CIC-rpgk_xmk05UgMm7n66vXiWBb51f-IQ1EJxmZdnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTAx/MzA0LTE1OTk4NjAw/MTgtODA2Mi5qcGVn.jpeg" alt="Cover for U Was At The Club (Bottoms Up)" style="max-width:120px; height:auto;" />
       </td>
@@ -964,7 +973,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 5</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 9</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 18</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 80</li>
         </ul>
@@ -986,12 +995,12 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 76</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/fk68yQWWV063GeJey3bcJmmoKzGRkQkupl7DU3bXtOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjA4/ODc5LTE2OTM3NzA0/MTItMjQ2My5wbmc.jpeg" alt="Cover for DOA" style="max-width:120px; height:auto;" />
       </td>
@@ -1029,12 +1038,12 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       <td>
         <ul>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 4</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 60</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/Je4QlrDF7EFFeXGuFTmLCJYtgIqWezpXlCw_uPozxeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUx/NjEzLTE2MTQxODIx/NTgtNzgzMy5qcGVn.jpeg" alt="Cover for The Lost Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -1075,9 +1084,9 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 43</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 76</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 78</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 45</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 77</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 80</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 94</li>
         </ul>
       </td>
@@ -1085,7 +1094,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/OQI6bSEKuOrZtKpq-TsaVkennST5GZZb9657CYPjhbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ2/OTg5LTE2NTgxNjE5/MjYtNTIwNS5qcGVn.jpeg" alt="Cover for GINGER" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c65c336166f7455a23bc487518e70d4.png" alt="Cover for GINGER" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-08-23</td>
       <td>BROCKHAMPTON</td>
@@ -1117,7 +1126,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 78</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 79</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 97</li>
         </ul>
       </td>
@@ -1160,8 +1169,8 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 42</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 60</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 43</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 61</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 73</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 94</li>
         </ul>
@@ -1182,14 +1191,14 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 76</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/0uYp_osbywpwHQoalYAvwuxbFdAhMzY8h5YJMapOuqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODE3/NjM2LTE2MjE1OTEx/NTctMzg4MC5qcGVn.jpeg" alt="Cover for poems of the past" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/081cfff805a909af553d9eb5d310be9d.png" alt="Cover for poems of the past" style="max-width:120px; height:auto;" />
       </td>
       <td>2020</td>
       <td>Powfu</td>
@@ -1225,14 +1234,14 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 28</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 29</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 87</li>
             <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/2-XcYU41FYEHVlOvgSKXiKB5LmYsHG5klVH1oOfHeTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ0/NDYzLTE1ODI2Njg4/ODgtMjk0Mi5qcGVn.jpeg" alt="Cover for My Turn (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1257,9 +1266,9 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/lT0Cvidd7rJais6fBUOUiJyZ8rH0krgWk0kPdJdn9kY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDY3/MjA3LTE2MDc5MDgz/MjctMjMwNS5qcGVn.jpeg" alt="Cover for Be Runway" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/305ffa05d30ae76633ed121f24f0dbb7.png" alt="Cover for Be Runway" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-30</td>
       <td>Bree Runway</td>
@@ -1306,8 +1315,8 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 16</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 61</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 18</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 62</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 84</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 97</li>
             <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 100</li>
@@ -1358,14 +1367,14 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 39</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 41</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 89</li>
             <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2020-08-14</td>
@@ -1405,14 +1414,14 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 48</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 77</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 50</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 78</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/ZBgGBKbAQHhkMfUuZ25AuEXrfFc4aPb0n1CVV62TfbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTk0/MzUyLTE3MzQ0NzAx/MzItNjYyMy5wbmc.jpeg" alt="Cover for After Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1499,7 +1508,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 2</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 4</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 82</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 93</li>
             <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 98</li>
@@ -1507,7 +1516,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/6qGxRVh34w9niuOBFxvLFnoBS9gxdlQedqd22vruJH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTE4/MTM2LTE2MjIzNDkz/NzItOTk3OC5qcGVn.jpeg" alt="Cover for The Fool" style="max-width:120px; height:auto;" />
       </td>
@@ -1524,7 +1533,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       <td>
         <ul>
             <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 11</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 49</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 50</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 96</li>
         </ul>
       </td>
@@ -1550,7 +1559,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77b5667c69ac2d6bc933e1939a8d29da.png" alt="Cover for Fallen Raven" style="max-width:120px; height:auto;" />
       </td>
@@ -1570,7 +1579,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/84b315c6b328238ebce29c2d34aa2198.png" alt="Cover for Nothing More Nothing Less" style="max-width:120px; height:auto;" />
       </td>
@@ -1590,9 +1599,9 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/1HKv_W4g4WB6GSq8bib6jKKqQdTLc7YcNlsyIYKgxAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTEw/NTEwLTE2MjY0MTYy/MzUtNjY4OS5wbmc.jpeg" alt="Cover for Faith" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ff5e416d02568181c719bcd0e8f4677.png" alt="Cover for Faith" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-07-16</td>
       <td>Pop Smoke</td>
@@ -1613,7 +1622,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/r8C6GnJEkufj2GDQcaJE61CbIZfOe06EaYD-DOAtIDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/NzY0LTE2NjQ5Njc2/NzYtMTc0MC5qcGVn.jpeg" alt="Cover for Trëndi" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,13 +1637,13 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 38</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 74</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 40</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/nrFgQf8zt7q9jJ-NcYAoS8C0zLAuFd-MztOp2XJEbd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTQ1/NTk0LTE2NjQ5MjI1/MzMtNDExOC5qcGVn.jpeg" alt="Cover for TRIP AT KNIGHT" style="max-width:120px; height:auto;" />
       </td>
@@ -1653,7 +1662,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/OrphlmzUbMoeNkhm5RVKHxmfATrYfm3gM_9uQTuILIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTQ1/NjYzLTE2Mjk1NzM4/NTItNjk5Ni5wbmc.jpeg" alt="Cover for Trip At Knight (Complete Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1691,7 +1700,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/rUePvEmxR1-UV0HdNvAj1L4LLL6vbjLTVjZIyNz4bxc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/NDQ2LTE2NjQ5Njcy/ODUtMTk1MS5qcGVn.jpeg" alt="Cover for up 2 më" style="max-width:120px; height:auto;" />
       </td>
@@ -1710,7 +1719,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/DoxMAay-QIgOkLBqBenaW6o8_-GBz0GF3uNDyW5SiII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTgz/OTkyLTE2Mzg5Njk0/OTEtMTUwNi5qcGVn.jpeg" alt="Cover for The Melodic Blue (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1729,7 +1738,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       <td>
         <ul>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 16</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 41</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 44</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 88</li>
         </ul>
       </td>
@@ -1754,7 +1763,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 10</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 9</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 85</li>
         </ul>
       </td>
@@ -1779,7 +1788,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       <td>
         <ul>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 50</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 61</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 63</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 66</li>
         </ul>
       </td>
@@ -1804,9 +1813,9 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 10</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 58</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 71</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 12</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 59</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 72</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 84</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 85</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 90</li>
@@ -1833,7 +1842,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/-jizgM2qZ8HrwYHYIWDIBSs685Jo0_s9TQ7JPfcwin0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTIy/NTc4LTE2OTg2NjE2/MTMtMzI2OC5qcGVn.jpeg" alt="Cover for TW20 50" style="max-width:120px; height:auto;" />
       </td>
@@ -1858,7 +1867,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/r3_mkaXBLuZEHz_rTh45xiRIkErGGKJaAWuhyLJsoi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTM5/NjkxLTE2NjY3MDE0/NTMtNDYxMC5qcGVn.jpeg" alt="Cover for 2 aliVë (GEëK pacK)" style="max-width:120px; height:auto;" />
       </td>
@@ -1897,7 +1906,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
         <ul>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 5</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 29</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 49</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 51</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 64</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 71</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 79</li>
@@ -1923,7 +1932,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 31</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 32</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 82</li>
         </ul>
       </td>
@@ -1952,7 +1961,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/_w5wT9C4HARkjqF6Hptbq2ICGmeYqZmwvQqV7nJTRWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDAx/ODY3LTE2OTE2MjY4/NzctODc4My5qcGVn.jpeg" alt="Cover for Nymph" style="max-width:120px; height:auto;" />
       </td>
@@ -1972,7 +1981,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       <td>
         <ul>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 18</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 36</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 39</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 53</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 74</li>
             <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 97</li>
@@ -2017,14 +2026,14 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 86</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 87</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 99</li>
             <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/xvuFp0sL4bmgRMFJo6eNqmgRXmrVjMCNP575KIW132U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDU3/MjU3LTE2OTI4MjA2/ODctMjQ3Ny5qcGVn.jpeg" alt="Cover for NS+ (ULTRA)" style="max-width:120px; height:auto;" />
       </td>
@@ -2047,7 +2056,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/j9r_qc8Sz8L3ffI0VsUxTeJ1awNwBvpDLNRpuYKHB1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjgw/OTQ0LTE2Njk0MTI3/NTctNTU3MS5qcGVn.jpeg" alt="Cover for Bawskee 3.5" style="max-width:120px; height:auto;" />
       </td>
@@ -2085,16 +2094,16 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 14</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 20</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 65</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/2q6UjHgI_J7ABIjqMZLUR1XoLf5rj2WXMNCL64pXLSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjQ2/NDQ2LTE2OTE0ODE2/OTktNjAxMi5qcGVn.jpeg" alt="Cover for Don’t Get Too Close" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eece4f678152ee330a5ff33aecb02919.png" alt="Cover for Don’t Get Too Close" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-02-18</td>
       <td>Skrillex</td>
@@ -2111,7 +2120,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/uPO64kRHUUcn6dcrS09CwXwOX4eLtYULRjXMkL7cVQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjA2/NjU1LTE2NzcyNjM1/MzgtMTcxNy5qcGVn.jpeg" alt="Cover for Aftërlyfe" style="max-width:120px; height:auto;" />
       </td>
@@ -2128,13 +2137,13 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 23</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 24</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/etolYUZRNKtNh1VirbGolhaFqJJYvi3g0HVaJc1O068/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTQz/MDY3LTE2ODQ2MzI2/MjAtNTkyMy5qcGVn.jpeg" alt="Cover for KaytrAminé" style="max-width:120px; height:auto;" />
       </td>
@@ -2152,7 +2161,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/rDq7KQmIPElY5GfEY1MDvx3moyXmejVRX_I_nx4z2eg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDg3/ODI0LTE2ODgwNTUz/MjctODUyNi5qcGVn.jpeg" alt="Cover for Business Is Business" style="max-width:120px; height:auto;" />
       </td>
@@ -2173,7 +2182,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/j-O5Wj479PK4_2Z4p25u3alpjv2IZVY0TdX6y14_3bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODAy/NTYzLTE2OTA1NDY2/MTEtOTY4OS5qcGVn.jpeg" alt="Cover for Utopia" style="max-width:120px; height:auto;" />
       </td>
@@ -2192,10 +2201,10 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 23</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 25</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 61</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 83</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 88</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 84</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 89</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 91</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 96</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 99</li>
@@ -2203,7 +2212,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c24b0391a23dcfb761833a9a79507ca.png" alt="Cover for Isolation" style="max-width:120px; height:auto;" />
       </td>
@@ -2220,7 +2229,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 39</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 40</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 62</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 67</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 85</li>
@@ -2245,7 +2254,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/zX3QbWR3O7vRy26rRPd5C1E7VhJ6PL6kIhcaBslAUXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTEz/NTE4LTE2NTg1MzY4/NjYtNDk4Ny5wbmc.jpeg" alt="Cover for her loss" style="max-width:120px; height:auto;" />
       </td>
@@ -2259,7 +2268,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 68</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 70</li>
             <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 95</li>
         </ul>
       </td>
@@ -2279,7 +2288,7 @@ Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 47</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 49</li>
         </ul>
       </td>
     </tr>
