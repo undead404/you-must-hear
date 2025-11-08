@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-23T08:41:41.260Z
+date: 2025-11-08T14:31:57.841Z
 permalink: tags/san-francisco
 title: san francisco
 ---
 
 ## san francisco
 
-Last updated: <time datetime="2025-10-23T08:41:41.260Z">Thu Oct 23 2025 11:41:41 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-08T14:31:57.841Z">Sat Nov 08 2025 16:31:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -66,7 +66,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/fvwgbT9LwGYNQy9IaSC8Tt4wLSDzciiNYUj2KZU-lzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjcw/MDUtMTE4OTU2MjU2/MS5qcGVn.jpeg" alt="Cover for Fun Terminal" style="max-width:120px; height:auto;" />
       </td>
@@ -121,7 +121,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/W_gTwg4Mj3l4u7KdDdF6NteCbwtEDX-aGobgyEF3N2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzE1/MzktMTQ4ODc0Nzky/MC02ODU3LmpwZWc.jpeg" alt="Cover for Coletãnea De Sucessos" style="max-width:120px; height:auto;" />
       </td>
@@ -158,7 +158,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td>1990-06</td>
@@ -193,7 +193,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/XMlZWm8shOstD9xabRr4PmXzyn5e4p__39PwmFNWYDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzUz/MDctMTU0MzM1Nzk5/My02Njk2LmpwZWc.jpeg" alt="Cover for Break EM Off A Chunk" style="max-width:120px; height:auto;" />
       </td>
@@ -343,7 +343,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 29</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -387,7 +387,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
       </td>
       <td>1995-08-08</td>
@@ -414,7 +414,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/zXIKdBTt-Y9Xnt-xyBboHRjN3enZqpU1MwsD35Ljllg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTgw/My0xNjA4MjU4MDI2/LTk4MTguanBlZw.jpeg" alt="Cover for Niggaz On High" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b619a7807481c493a7a39d654452aaa.png" alt="Cover for Niggaz On High" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-09-03</td>
       <td>N.O.H. Mafia</td>
@@ -433,7 +433,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/_oxTMdDsHakuJ8MiNueYUA6LxFfts7f55XZ5d5PbqXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI1/MjQwLTE1MTc4NzQ5/ODctNjk4Mi5qcGVn.jpeg" alt="Cover for Exhibit A" style="max-width:120px; height:auto;" />
       </td>
@@ -596,7 +596,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>1998</td>
@@ -614,7 +614,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td>1999-11-23</td>
@@ -717,6 +717,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/352072233b3e392a17b6186fa932bffa.png" alt="Cover for Indoor Universe" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Paula Frazer</td>
@@ -734,7 +735,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/NZa0Pu5DEOKtBxv62Oc5Q_zp9E3PDCv6N425edGtKh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTU3/OS0xNjQzODQ3MTc0/LTk2ODUucG5n.jpeg" alt="Cover for Cupid&#39;s Cactus" style="max-width:120px; height:auto;" />
       </td>
@@ -770,7 +771,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
       </td>
       <td>2003-04-22</td>
@@ -873,7 +874,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 38</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 55</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 69</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 72</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 74</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 89</li>
         </ul>
       </td>
@@ -896,7 +897,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/VtnwmxWIP9qbEXzW9Tw0h7qfE3-liIU9X-HgEyFNvRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTMw/NDk1LTE2MTM5NzM2/NDYtOTA2Ni5qcGVn.jpeg" alt="Cover for Houses Shine Like Teeth" style="max-width:120px; height:auto;" />
       </td>
@@ -952,7 +953,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/l06cmHerBhwU1k34gRNk4ScS7HRL7u3Fap7YlLuwx9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTkz/NTQtMTQxOTc3NjQ4/Mi04NjY5LmpwZWc.jpeg" alt="Cover for Moods For Take Out" style="max-width:120px; height:auto;" />
       </td>
@@ -1005,7 +1006,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
       </td>
       <td>2005-02-11</td>
@@ -1046,7 +1047,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/A1WCTEeIM7D_eogPfj5JvJlEoPY168L6viOuHK1XfiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU0/Njc4LTE1MDE3NzMy/MTgtNzA4Ny5qcGVn.jpeg" alt="Cover for Phobos" style="max-width:120px; height:auto;" />
       </td>
@@ -1100,7 +1101,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
       </td>
       <td>2006-06-20</td>
@@ -1280,11 +1281,11 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 3</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 4</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 35</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 74</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 76</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 82</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 83</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 87</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 88</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 96</li>
@@ -1309,7 +1310,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/nH5YtRTRoszhMk3w5SyGyaecT-rbM8HZj2l-qAH97mU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODIy/NDUtMTQ1Mjg4NTQw/My0zNjI1LmpwZWc.jpeg" alt="Cover for One Day to Save All Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1339,7 +1340,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 50</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 60</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 74</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 76</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 78</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 81</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 92</li>
         </ul>
@@ -1388,7 +1389,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/UkrXAQFYYmJFqwMtD-EIWWE2vVKc-MI4_L5A9BhHy0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjYz/ODEtMTQ5MTkxMzY2/MC0xOTQ2LmpwZWc.jpeg" alt="Cover for Know Better Learn Faster" style="max-width:120px; height:auto;" />
       </td>
@@ -1443,7 +1444,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/bWbvVXxaA_ibgGR1Edzx-2NKyTfI0Kl88S1_6kJoE9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTg5/NDQtMTI0NTQzODE4/My5qcGVn.jpeg" alt="Cover for Robot Picnic" style="max-width:120px; height:auto;" />
       </td>
@@ -1487,7 +1488,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td>2010-06-01</td>
@@ -1508,7 +1509,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/NyZUx-49TtGsbgRSLMWSx5ptRQOGsMr2teUyoI9MslE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTk4/MjktMTMwNjM0MDM0/Ny5qcGVn.jpeg" alt="Cover for self-titled LP" style="max-width:120px; height:auto;" />
       </td>
@@ -1594,7 +1595,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2222f9622cc4e869ba156cdb77aee72.png" alt="Cover for The Less You Know, The Better" style="max-width:120px; height:auto;" />
       </td>
@@ -1611,7 +1612,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg" alt="Cover for avant-unlistenable" style="max-width:120px; height:auto;" />
       </td>
@@ -1673,8 +1674,9 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3284d8eeca244b789f39aef4b65f4ec.png" alt="Cover for We Could Be Arsonists" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-24</td>
       <td>Loquat</td>
@@ -1791,7 +1793,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e24f85ad2721457da1effad21e37c4ad.png" alt="Cover for Twins" style="max-width:120px; height:auto;" />
       </td>
@@ -1800,8 +1802,6 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       <td>Twins</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
         </ul>
       </td>
       <td>
@@ -1859,7 +1859,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72c7345f06544cb6a39f181441e7a5b4.png" alt="Cover for Lysandre" style="max-width:120px; height:auto;" />
       </td>
@@ -1887,6 +1887,23 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/807a4967caac4c41aec961012be92a80.png" alt="Cover for Sleeper" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-08-19</td>
+      <td>Ty Segall</td>
+      <td>Sleeper</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -1928,7 +1945,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/OHJcjvILa9jKlSmIs57aJv-SWZ_cu1pFj4xERpxXBnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjI3/NjE0LTE1NTAzMjY4/MzgtMjY2Mi5qcGVn.jpeg" alt="Cover for Bend &amp; Break" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a91925923feca34b32fd197a0e9b45ee.png" alt="Cover for Bend &amp; Break" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-14</td>
       <td>FM-84</td>
@@ -2032,7 +2049,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 44</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 43</li>
             <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 46</li>
         </ul>
       </td>
@@ -2094,7 +2111,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       <td>
         <ul>
             <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 52</li>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 55</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -2185,12 +2202,12 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 13</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
       </td>
       <td></td>
@@ -2253,22 +2270,6 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
         </ul>
       </td>
     </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>if you can&#39;t bring any beauty into the world, the next best thing is to show everybody how ugly everything is.</td>
-      <td>Pope John Paul the third outtakes</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
   </tbody>
 </table>
 
@@ -2282,5 +2283,5 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
 - [electronic]({{ "/tags/electronic" | relative_url }})
 - [alternative]({{ "/tags/alternative" | relative_url }})
 - [indie rock]({{ "/tags/indie-rock" | relative_url }})
-- [rock]({{ "/tags/rock" | relative_url }})
 - [underground rap]({{ "/tags/underground-rap" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})

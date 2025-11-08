@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-25T09:25:36.890Z
+date: 2025-11-08T14:32:47.118Z
 permalink: tags/parody
 title: parody
 ---
 
 ## parody
 
-Last updated: <time datetime="2025-10-25T09:25:36.890Z">Sat Oct 25 2025 12:25:36 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-08T14:32:47.118Z">Sat Nov 08 2025 16:32:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
   </thead>
   <tbody>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/QyOjIjUv-YZnl9Yw5RXgVbXqpW0Dus48McInspGK64U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Mzg3/OS0xNTQ0OTc5MjA1/LTc3MzAuanBlZw.jpeg" alt="Cover for My Son, The Celebrity" style="max-width:120px; height:auto;" />
       </td>
@@ -46,7 +46,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
       </td>
       <td>1965</td>
@@ -68,7 +68,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>1967-10</td>
@@ -85,7 +85,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg" alt="Cover for Roundworm" style="max-width:120px; height:auto;" />
       </td>
@@ -104,7 +104,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/VpEsEQMPQsOOWZNIgwSOW_lYz0lJPwnkN9DQC9DOKts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzYx/NjAtMTMxNzQ1MzU4/MS5qcGVn.jpeg" alt="Cover for Unhappiness!!!" style="max-width:120px; height:auto;" />
       </td>
@@ -135,7 +135,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Co-Op (Original Cast Album)" style="max-width:120px; height:auto;" />
       </td>
@@ -179,7 +179,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/qIK3YqsJqHeGTIzptS69ZYbpIuEQynKPxPzWD18ZvbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzE1/NzktMTQyNTYyMDU4/Ny02MTc2LmpwZWc.jpeg" alt="Cover for UHF and Other Stuff" style="max-width:120px; height:auto;" />
       </td>
@@ -220,7 +220,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/G2VHksvIjV_EffWnKU8FrrITkpGciilKAShd1vwWe2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI3/NjQxLTE1Mjg4NDAz/NjMtNDk0Ny5qcGVn.jpeg" alt="Cover for White &amp; Nerdy - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -241,7 +241,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/e3Li9U3FdHEU6W328zEELPX5sLjdL0ww18uF7tFlMQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTk3/MjQtMTI0NDEzMDYw/My5qcGVn.jpeg" alt="Cover for На советской скорости" style="max-width:120px; height:auto;" />
       </td>
@@ -261,7 +261,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/JO1cFqSi5rkmcivFcErrNJGEZykzUmHjyJTFPcTA8v4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDk3/MzItMTM5NDU2NjM0/MC0yMDMyLmpwZWc.jpeg" alt="Cover for 5,000,000" style="max-width:120px; height:auto;" />
       </td>
@@ -278,7 +278,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td>1991-09-16</td>
@@ -297,7 +297,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>1992-04-14</td>
@@ -317,7 +317,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/NPpybS1SsBvfDaAP6SzB6jQDcR6yO_qevEsofeM4j1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTgw/NC0xMzk0NjY4OTA5/LTQyMjcuanBlZw.jpeg" alt="Cover for Smells Like Nirvana" style="max-width:120px; height:auto;" />
       </td>
@@ -341,7 +341,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>1993-10-05</td>
@@ -359,7 +359,27 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>1995-01-15</td>
+      <td>Black Velvet Flag</td>
+      <td>Come Recline...with Black Velvet Flag</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parody" | relative_url }}">parody</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
       <td>
       </td>
       <td>1995-11-07</td>
@@ -396,7 +416,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd7d2cf4c64649a5aa2b483d909d2171.png" alt="Cover for Bad Hair Day" style="max-width:120px; height:auto;" />
       </td>
@@ -415,7 +435,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>1997</td>
@@ -448,7 +468,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       <td>
         <ul>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 55</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 72</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 73</li>
             <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 83</li>
             <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 94</li>
             <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 94</li>
@@ -482,7 +502,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>1997-09-30</td>
@@ -506,7 +526,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/NER7gkFRZ6lSVWpXG_nb8eS941ZQhhS1nz5lu2WFQJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDYw/OC0xNjA2NjI1Njk4/LTk0NDUucG5n.jpeg" alt="Cover for White &amp; Nerdy" style="max-width:120px; height:auto;" />
       </td>
@@ -527,7 +547,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
       </td>
       <td>1998-01-23</td>
@@ -578,7 +598,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 23</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 26</li>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 81</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 89</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 93</li>
@@ -589,7 +609,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>1998-07-21</td>
@@ -606,7 +626,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02c15c8714508c72c1dc278410d1466e.png" alt="Cover for Running With Scissors" style="max-width:120px; height:auto;" />
       </td>
@@ -625,7 +645,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/sadrATO8UZxVc8o0Qp4TrzyzIljC4aFNtjnPmf_29VU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQ4/NzMtMTI3OTM0Njk2/NC5qcGVn.jpeg" alt="Cover for The Saga Begins" style="max-width:120px; height:auto;" />
       </td>
@@ -645,7 +665,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>2000-01-01</td>
@@ -663,7 +683,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>2000-10-17</td>
@@ -682,7 +702,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/sWuGTArt6Al9BlLoDXJyqbRPH2DGa0xM0bayYfY7sz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDAw/OTExLTE1MzQ1Mjc1/NjctMTIwNS5qcGVn.jpeg" alt="Cover for Music for Young Adults [demo]" style="max-width:120px; height:auto;" />
       </td>
@@ -703,7 +723,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/ttSygjSr43Ax0CLENsBPpYJGWspMIJFGyNEA_bCt37Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDIy/OTU2LTE1NzQyMzA5/OTgtNjU2MS5qcGVn.jpeg" alt="Cover for pope john paul the third" style="max-width:120px; height:auto;" />
       </td>
@@ -732,7 +752,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
         <ul>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 22</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 32</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 46</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 47</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 54</li>
             <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 87</li>
         </ul>
@@ -813,8 +833,9 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e246bc3bb6065ad332f76a03f6c830f5.png" alt="Cover for Poodle Hat" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-20</td>
       <td>&quot;Weird Al&quot; Yankovic</td>
@@ -831,7 +852,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f330b6489bf04cf5ae68093a8b75210c.png" alt="Cover for Triumph of True Metal of Steel" style="max-width:120px; height:auto;" />
       </td>
@@ -850,7 +871,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bff6d1853934ae9878cc77c4d3a21a6.png" alt="Cover for Beatallica" style="max-width:120px; height:auto;" />
       </td>
@@ -868,7 +889,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/lZur1GbbT42ZSqIRLju7Mo2sNGzrH3iikmrXhubnkE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTU2/ODMtMTI0NTIxODcy/OC5qcGVn.jpeg" alt="Cover for Сулейман Стальский" style="max-width:120px; height:auto;" />
       </td>
@@ -910,7 +931,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce955d4bfd914139ac5a482531c0808d.png" alt="Cover for Other Bands Play, Nanowar Gay!" style="max-width:120px; height:auto;" />
       </td>
@@ -927,7 +948,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/hfz5wJJ5kb7umWXFyyk0-3fR79dpAgOoSbzNeZZzDns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODY1/OTM0LTE1MjM3Mzky/MDgtOTk4OS5qcGVn.jpeg" alt="Cover for Lunch Money EP" style="max-width:120px; height:auto;" />
       </td>
@@ -948,7 +969,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2006-04-03</td>
@@ -969,7 +990,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55ebc765574c4d8eea1c4d3b2be496ea.png" alt="Cover for Straight Outta Lynwood" style="max-width:120px; height:auto;" />
       </td>
@@ -1001,12 +1022,12 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 20</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e0c907ae2e3a8a2b6aaf208eede60d1.png" alt="Cover for Gnarkill vs. Unkle Matt &amp; the Shitbirdz" style="max-width:120px; height:auto;" />
       </td>
@@ -1028,7 +1049,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/LI6RbvPRynL25pOF323ZycDxNcr9yngi4zb-9accMuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDc2/MDctMTQwMzIxNTY3/NC0zNzIxLmpwZWc.jpeg" alt="Cover for Ma France À Moi" style="max-width:120px; height:auto;" />
       </td>
@@ -1063,7 +1084,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ceaaf72121614a8f8425992934edaac8.png" alt="Cover for Sgt. Hetfield&#39;s Motorbreath Pub Band" style="max-width:120px; height:auto;" />
       </td>
@@ -1081,7 +1102,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/vYZN2aMGrbA_zL8Ks9WOEbg8J7bszJ6z4NZpmzU5Myc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODIw/MzItMTQzMDkzNzIx/Mi03MTMzLmpwZWc.jpeg" alt="Cover for Look At Me, I&#39;m A Breakdancing Dinosaur" style="max-width:120px; height:auto;" />
       </td>
@@ -1101,7 +1122,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/797acae43c71aa0e91341eaa35de2edf.png" alt="Cover for The Flesh Eating Rollerskate Holiday Joyride" style="max-width:120px; height:auto;" />
       </td>
@@ -1120,7 +1141,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/7xZOvFlDN54W64Ph0TSsVVgx5-PLknzRtrK2OFIub0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDI3/MjgtMTIzODM5OTA5/Mi5qcGVn.jpeg" alt="Cover for Animation (...)" style="max-width:120px; height:auto;" />
       </td>
@@ -1142,7 +1163,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/-pBM7gEecbRVwLMw10s1mUdZ9zZw8Xn-j0GUGRDmrm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDA3/MjYtMTU5Nzg3MzI3/MC0zNDMzLmpwZWc.jpeg" alt="Cover for Unfit To Practice" style="max-width:120px; height:auto;" />
       </td>
@@ -1161,7 +1182,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/abf26dc7ce7aa299bee51d59b9ba0c09.png" alt="Cover for Chef Aid: The South Park Album (Extreme Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1191,36 +1212,14 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 12</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 14</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 33</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3b6d888298a400eb87a3be33414f300.png" alt="Cover for Masterful Mystery Tour" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-08-04</td>
-      <td>Beatallica</td>
-      <td>Masterful Mystery Tour</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parody" | relative_url }}">parody</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 72</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb75cb8553384fbc9707af1fc029782e.png" alt="Cover for Space Vampires Vs. Zombie Dinosaurs in 3D" style="max-width:120px; height:auto;" />
       </td>
@@ -1239,7 +1238,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/3YR975mmwelWgQBDYq0abRKvDt0W8i00IlmmxJhcx2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTU5/MTUtMTM1NTc2MzYz/NC0xMjgyLmpwZWc.jpeg" alt="Cover for Aus Liebe Zum Geld (Ihre Schönsten Misserfolge)" style="max-width:120px; height:auto;" />
       </td>
@@ -1260,7 +1259,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7b6e215bef4465d9d577ac07cfc6063.png" alt="Cover for Bits Of Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1282,7 +1281,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/eNyv13QOBY_k5GR1OXVx3SyvE8onbxvUwQ-7bKw06h4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjAz/NzAtMTQ5NTAxNDQ3/My01NTQ3LmpwZWc.jpeg" alt="Cover for The Difficult Second Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1343,7 +1342,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/1JsCpWNmeQ-9ZebOqLsZJpkcpFhpc2JLIkECF2DSMsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDEw/MTUtMTQ2Njg5ODM2/NC0yMTE1LmpwZWc.jpeg" alt="Cover for I&#39;d Like A Virgin (Censored Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1363,9 +1362,9 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
-          <img src="https://i.discogs.com/8ce81LM8zp3vwUYVZSTAlbDH1Y5bplV6Vi5SFGk3vdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODkx/MTEtMTUyNTI2OTk0/OS05ODc0LmpwZWc.jpeg" alt="Cover for Stricksocken Swagger (Deluxe Version 2014)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c59ecab47cac1797d5c59e6d515e7c0d.png" alt="Cover for Stricksocken Swagger (Deluxe Version 2014)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Y-Titty</td>
@@ -1384,7 +1383,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>2013-05-31</td>
@@ -1404,7 +1403,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/ZOeCeDcPhl_WBItlxoR_2SGQHzKtvYV6JgIAXi7KK_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA4/MjU3LTE1MjI3MzU5/MjQtOTkwMC5qcGVn.jpeg" alt="Cover for Red (Taylor&#39;s Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1418,21 +1417,21 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       <td>
         <ul>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 1</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 4</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 5</li>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 6</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 16</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 17</li>
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 18</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 30</li>
             <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 36</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 38</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 40</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 41</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 45</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/Cnyns0HQmNmZKRey4Y6fwG-l-DgGGOCzVPPRMawxl6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA4/NDU1LTE1MjI3Mzk3/OTYtNjcwMy5qcGVn.jpeg" alt="Cover for Red (Taylor&#39;s Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1448,7 +1447,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 1</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 17</li>
             <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 21</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 22</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 23</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 24</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 24</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 88</li>
@@ -1456,7 +1455,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/T97ZuWGvdYUOklVT_MJaIP4_XQ0Z0oTDTKtr7YQVxyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODc0/NjMtMTQxMDcyODA2/MC0zNTgxLmpwZWc.jpeg" alt="Cover for Greatest Hits 2014" style="max-width:120px; height:auto;" />
       </td>
@@ -1475,7 +1474,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e1970c297204f77cf01498c1d73fb36.png" alt="Cover for Flossophy" style="max-width:120px; height:auto;" />
       </td>
@@ -1526,11 +1525,11 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 30</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 42</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 43</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 58</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 64</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 74</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 84</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 85</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 95</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 98</li>
             <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 100</li>
@@ -1538,7 +1537,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/2qmKllIBX7NhyfiM7f9MtEmrQh7QMvFsy7bBM-P120w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njky/MzgtMTQ1MjYzMzI5/Ny0zNDU4LnBuZw.jpeg" alt="Cover for Beating A Dead Horse" style="max-width:120px; height:auto;" />
       </td>
@@ -1555,13 +1554,13 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 65</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 64</li>
             <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/z0Y0_XFOLGOtkbuvyEF_AG0CGr3n8SRRR-Tub7IuxVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njg5/NDItMTQ1MjYyOTE3/My01Njc2LmpwZWc.jpeg" alt="Cover for Beating a Dead Horse: Deluxe Ultra-Limited Exclusive Undead Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -1579,7 +1578,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/Bapwcw6r6kV7SfLwFY7JUZr_1v8KMSnFCOqG-wUypJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjI4/OTUtMTQ2NjIyNTY2/My0yNTAwLmpwZWc.jpeg" alt="Cover for Liberté, Egalité, Friendvillé (Easycore Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1592,15 +1591,15 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 13</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 14</li>
             <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/Bapwcw6r6kV7SfLwFY7JUZr_1v8KMSnFCOqG-wUypJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjI4/OTUtMTQ2NjIyNTY2/My0yNTAwLmpwZWc.jpeg" alt="Cover for Boybandin&#39; Up" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a68b5dd0f497c384024574af7e52049.png" alt="Cover for Boybandin&#39; Up" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-01</td>
       <td>Sunrise Skater Kids</td>
@@ -1650,7 +1649,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/ELBBipX21JSudlyzvn8KZG4FGaf2TI4DHh6CL_jtSLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI1/OTY0LTE1NDg1MTYy/MTEtNDE2Mi5qcGVn.jpeg" alt="Cover for The Key of Awesome" style="max-width:120px; height:auto;" />
       </td>
@@ -1668,7 +1667,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/8107o8lfKP-RmDKC45hKlGPRnd8kkI7FghoEJhAjg50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDU1/NDktMTQ4MzU0MzIw/Mi00NDAzLmpwZWc.jpeg" alt="Cover for Pink Season" style="max-width:120px; height:auto;" />
       </td>
@@ -1687,7 +1686,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/S63KMTRVsBqMwCOC5vNIi_zkZ-5WUO-RinpdW-rf_kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMw/ODQ2LTE1MDg1ODI1/NDctMjU1Mi5qcGVn.jpeg" alt="Cover for How Far I&#39;ll Go" style="max-width:120px; height:auto;" />
       </td>
@@ -1710,7 +1709,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/S63KMTRVsBqMwCOC5vNIi_zkZ-5WUO-RinpdW-rf_kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMw/ODQ2LTE1MDg1ODI1/NDctMjU1Mi5qcGVn.jpeg" alt="Cover for All the Old Things (feat. Christina Rotondo)" style="max-width:120px; height:auto;" />
       </td>
@@ -1778,7 +1777,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/5MEjomXZDIO0UhwboJw_Es3ivO42ktk4cTdI_4JSdz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU5/OTQ3LTE1MDg1ODA0/MDgtODcwMy5qcGVn.jpeg" alt="Cover for Ohio Is for Emo Kids" style="max-width:120px; height:auto;" />
       </td>
@@ -1804,7 +1803,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/ErDvELVc9fDeOxk0dIbgAjvnGZFM5cxbzdAYkFP7QLw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc4/ODI5LTE1Mzk4OTYw/MDQtNjIzNy5qcGVn.jpeg" alt="Cover for Éxitos de Youtube" style="max-width:120px; height:auto;" />
       </td>
@@ -1822,7 +1821,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/k9UR7gZfzJMCDkJF3Tt8Lrw7FIKaOa1PNmnRsSoYo8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzA1/NjU1LTE1NTU3MDc4/NDctNjYxNC5qcGVn.jpeg" alt="Cover for This Is My Street" style="max-width:120px; height:auto;" />
       </td>
@@ -1842,7 +1841,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/ihfhUpbwkWVcz4yMCVnPXYlx9ugA4D5YlT1TsRt5DM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTMy/MTcyLTE1Njg0MzA0/NjgtNDE1OS5qcGVn.jpeg" alt="Cover for Saving the World by Overloading It With Mincegore Brigade" style="max-width:120px; height:auto;" />
       </td>
@@ -1942,12 +1941,13 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       <td>
         <ul>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 3</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 3</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 24</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 37</li>
             <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 42</li>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 43</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 60</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 63</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 64</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 64</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 69</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 70</li>
@@ -1960,7 +1960,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/D3m4UbHqXuqmt01kw7VgAkE_7b5OKGkUsWquwnUyK1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjg4/MjA4LTE2MzkwNjk0/ODktOTM3NS5qcGVn.jpeg" alt="Cover for Red (Taylor&#39;s Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1978,13 +1978,13 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
             <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 24</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 26</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 26</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 26</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 27</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/Wt7K7Ift3zM5Dy-6PvRmof6F80woW9fGEz8S-Lwkupk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTEw/NTU0LTE2MjkzMjU5/NDUtMTE4Ny5qcGVn.jpeg" alt="Cover for Super Ghostbusters" style="max-width:120px; height:auto;" />
       </td>
@@ -2003,9 +2003,9 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/6Mm9ZVAAmGzQxUOoQNpoTuzOE7SzG_nHb7saL3TUcX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDAx/NjQ2LTE3MDA3Nzc2/NDAtNTM1NS5qcGVn.jpeg" alt="Cover for ULTIMATE NBA 2K RAP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f089b08eca9571b6ac09fdec24adaaee.png" alt="Cover for ULTIMATE NBA 2K RAP" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-06</td>
       <td>Ghetto Smosh</td>
@@ -2024,7 +2024,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/6Mm9ZVAAmGzQxUOoQNpoTuzOE7SzG_nHb7saL3TUcX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDAx/NjQ2LTE3MDA3Nzc2/NDAtNTM1NS5qcGVn.jpeg" alt="Cover for Ghetto Smosh Production Music" style="max-width:120px; height:auto;" />
       </td>
@@ -2046,7 +2046,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/6Mm9ZVAAmGzQxUOoQNpoTuzOE7SzG_nHb7saL3TUcX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDAx/NjQ2LTE3MDA3Nzc2/NDAtNTM1NS5qcGVn.jpeg" alt="Cover for Legend of the PLUG" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/953e158a918090e3d5bb5c36eb227f91.png" alt="Cover for Legend of the PLUG" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-06</td>
       <td>Ghetto Smosh</td>
@@ -2066,7 +2066,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/6Mm9ZVAAmGzQxUOoQNpoTuzOE7SzG_nHb7saL3TUcX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDAx/NjQ2LTE3MDA3Nzc2/NDAtNTM1NS5qcGVn.jpeg" alt="Cover for Assassin&#39;s Weed Rap" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e06c9b731051ef7eafe3ab51a81ccd1.png" alt="Cover for Assassin&#39;s Weed Rap" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-06</td>
       <td>Ghetto Smosh</td>
@@ -2084,7 +2084,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/KFTUDL8E_gZXRgVy1vZno80dGXAlGJaug8sLI2TTQfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzM1/NDQ1LTE3MTYyMzY5/MjItODUwNi5qcGVn.jpeg" alt="Cover for Still the one" style="max-width:120px; height:auto;" />
       </td>
@@ -2102,7 +2102,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -2128,7 +2128,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 11</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 12</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 14</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 17</li>
             <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 80</li>
@@ -2136,7 +2136,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td></td>
@@ -2148,20 +2148,21 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 1</li>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 2</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 11</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 12</li>
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 15</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 28</li>
             <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 32</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 35</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 36</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 37</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 43</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td></td>
@@ -2183,7 +2184,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -2201,7 +2202,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -2220,7 +2221,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td></td>
@@ -2237,7 +2238,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td></td>
@@ -2288,4 +2289,4 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
 - [brutal death metal]({{ "/tags/brutal-death-metal" | relative_url }})
 - [grindcore]({{ "/tags/grindcore" | relative_url }})
 - [death metal]({{ "/tags/death-metal" | relative_url }})
-- [metal]({{ "/tags/metal" | relative_url }})
+- [dance]({{ "/tags/dance" | relative_url }})

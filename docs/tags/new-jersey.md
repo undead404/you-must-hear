@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-04T06:05:51.353Z
+date: 2025-11-08T14:28:53.436Z
 permalink: tags/new-jersey
 title: new jersey
 ---
 
 ## new jersey
 
-Last updated: <time datetime="2025-11-04T06:05:51.353Z">Tue Nov 04 2025 08:05:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-08T14:28:53.436Z">Sat Nov 08 2025 16:28:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
   </thead>
   <tbody>
     <tr>
-      <td>44</td>
+      <td>41</td>
       <td>
       </td>
       <td>1973</td>
@@ -49,7 +49,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/DER3Anrxfzoot-ZPFLvNd9EMvZ8i8fVOVHaBnbcfwVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzI1/NDctMTM5ODA2MDAx/OC03MDMxLmpwZWc.jpeg" alt="Cover for Only Losers Left Alive" style="max-width:120px; height:auto;" />
       </td>
@@ -63,6 +63,25 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4df1eca298baabcaef980a689f8f146e.png" alt="Cover for Naughty By Nature" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991-08-30</td>
+      <td>Naughty By Nature</td>
+      <td>Naughty By Nature</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -86,7 +105,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/ZiZn3Sec1NHMZDuoCxXqLVrBUkbZ5g7ovSav2YNV42o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDQy/NS0xMjM5MzA0NjM4/LmpwZWc.jpeg" alt="Cover for HaTeRtainment (Last.fm MIX)" style="max-width:120px; height:auto;" />
       </td>
@@ -109,8 +128,9 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c5ad99717a44db99c6c8e397ed8b9ef.png" alt="Cover for Dare Iz A Darkside" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-11-22</td>
       <td>Redman</td>
@@ -118,7 +138,6 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a></li>
         </ul>
       </td>
       <td>
@@ -128,7 +147,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/VA6mdttRNoE97wtrlXy6V_cWc1-16qe3WUnefq4NWKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDMw/NjctMTQ0OTI3Nzgx/OC0xMTg2LmpwZWc.jpeg" alt="Cover for Sugar Coat" style="max-width:120px; height:auto;" />
       </td>
@@ -172,6 +191,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac86059418ec44cce8840735eb12acf6.png" alt="Cover for Bootleg Versions" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-11-26</td>
       <td>Fugees</td>
@@ -189,7 +209,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8517ac42d39d0aebce0668e9c411b5da.png" alt="Cover for Help!" style="max-width:120px; height:auto;" />
       </td>
@@ -209,7 +229,25 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9db079e2f9034929c9e59bf8f6447ece.png" alt="Cover for Blunted On Reality" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Fugees</td>
+      <td>Blunted On Reality</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/yafwpLDePgbrJkvR1eTPRFVLZZm6UbTf1oJN8oQ8szE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDc3/MDM0LTE0OTgyNDIw/NzAtODM2Ny5qcGVn.jpeg" alt="Cover for Pharoah" style="max-width:120px; height:auto;" />
       </td>
@@ -230,7 +268,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>79</td>
       <td>
       </td>
       <td>2000-01-12</td>
@@ -250,9 +288,9 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/b9Lw4OyXJ1VByhXokQpmVT9GWrhcrO1b4Zs2QLy-9QI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDgw/ODIyLTE2NzYyOTIy/NDYtMzk3My5qcGVn.jpeg" alt="Cover for for the soul y&#39;all" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5a044266f41315f4f83c098f4e532c6.png" alt="Cover for for the soul y&#39;all" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>PDM</td>
@@ -272,7 +310,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/7SwZtkBykUvOdlLH3GKZb0LBPDqVWnyfftY9PUm7uNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzU4/MDczLTE1MTMyMTc2/NDEtOTE4My5qcGVn.jpeg" alt="Cover for Waiting For The Sound..." style="max-width:120px; height:auto;" />
       </td>
@@ -292,7 +330,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/YIQQtdj6sv3rpGLjq6sjhTkDbJkOnJjXdh_vFbG8pH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDEx/MzU0LTE1NjQzMjE1/NTgtODM2OC5qcGVn.jpeg" alt="Cover for A Longer Distance" style="max-width:120px; height:auto;" />
       </td>
@@ -313,7 +351,24 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d36a1ba38d4afe0ac829ce146b42c1c0.png" alt="Cover for MTV Unplugged No. 2.0" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-05-07</td>
+      <td>Ms. Lauryn Hill</td>
+      <td>MTV Unplugged No. 2.0</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/kMApAbnmsSXPpYQCg8VRFLmhPjq28jtlONWRyHFaW7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MjU4/OTktMTQ0MzI5ODA4/My02NTczLmpwZWc.jpeg" alt="Cover for Nice" style="max-width:120px; height:auto;" />
       </td>
@@ -332,7 +387,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/vexxZ-p4Z4QIXl-H4HM-II2dm_cFGCrWu8zTwxtGKz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTc4/MjY5LTE1MDAyNTQ3/OTctNDQyMS5qcGVn.jpeg" alt="Cover for Anthology 1991-1998" style="max-width:120px; height:auto;" />
       </td>
@@ -353,7 +408,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/UnGJP3TI_gHP4c158_tKaXHRZVTIqtr3R58qts3MDLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzc4/MTMtMTI2MzQ3NDQ1/Mi5qcGVn.jpeg" alt="Cover for Singles &amp; B-Sides - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -374,7 +429,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/942RB9vbxS1otwTz2uOPokF5xDF2pmLCRNFikwUoW14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjY1/MzYtMTQ3NDgzNzg1/Mi00MjYxLmpwZWc.jpeg" alt="Cover for Demo 2007" style="max-width:120px; height:auto;" />
       </td>
@@ -394,7 +449,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9035c6e64b371b30f7a42d700b2af734.png" alt="Cover for Life in Death" style="max-width:120px; height:auto;" />
       </td>
@@ -414,9 +469,9 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/_ldRI2FbH1pCHQB833KHwMZrQkCah6hVpujN34XW4Hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzE0/NDM2LTE2NDI5OTAy/MjItOTkwOC5qcGVn.jpeg" alt="Cover for Max Blood" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa41fff5decda46507020f8ed9726943.png" alt="Cover for Max Blood" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>BING</td>
@@ -435,7 +490,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/teXySqkifWBN5QliYIndGtueFHXApbBmdqNiGQLkENc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTc5/OC0xNDE3OTQ0Mzc0/LTkwNzQuanBlZw.jpeg" alt="Cover for Zero Tolerance" style="max-width:120px; height:auto;" />
       </td>
@@ -453,7 +508,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/quAzrakV3rbjzndqDsv90TiRVbwDENQUgNfPWPwS71I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk5/ODQyLTE1MzI0NDk3/NDEtNzY4Ny5qcGVn.jpeg" alt="Cover for The Green" style="max-width:120px; height:auto;" />
       </td>
@@ -472,7 +527,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/dFEnVPFSQUjFUrcYRz3nHBQd9hUv7UsKg8UHI0YWLy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjk2/Ny0xMjUwNTA5NTg3/LmpwZWc.jpeg" alt="Cover for The Leak Edition Volume 2" style="max-width:120px; height:auto;" />
       </td>
@@ -510,7 +565,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/9DjDm4vzArRjvEh7b2yKeCBurrDNXzVJn4JuXLTKgBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTg2/MjAtMTI1ODg1NDAw/OC5qcGVn.jpeg" alt="Cover for Tales of the Lost Tribe: Hidden Jewels" style="max-width:120px; height:auto;" />
       </td>
@@ -530,7 +585,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/585160c5540004754d1b4266ec94dcc3.png" alt="Cover for Fat City Reprise" style="max-width:120px; height:auto;" />
       </td>
@@ -553,7 +608,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>60</td>
       <td>
       </td>
       <td>2007-05-05</td>
@@ -575,7 +630,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/O5LlTgb1ecJJIh9jknK6sWczXhGeNCVAQLFWpUc07hA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTI5/NzQtMTE5MTQ5NzUz/Mi5qcGVn.jpeg" alt="Cover for If The Devil&#39;s In The Details Then How Many Details Can You Fit Upon A Match?" style="max-width:120px; height:auto;" />
       </td>
@@ -605,7 +660,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/L1JCUTQWcS19dikIaeaU3YsWW7oDdo2Hh5OAHHmXe_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzg1/NjctMTQ1OTY1OTE0/My00NDQ0LmpwZWc.jpeg" alt="Cover for The Hardest" style="max-width:120px; height:auto;" />
       </td>
@@ -625,7 +680,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/h6ic7Q6ROmU1xXTiI4NCYI7psJ_WB7LRE_Bs0x_-ieU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODI3/NzAtMTYxNDYxOTcw/OC05NzI0LmpwZWc.jpeg" alt="Cover for Titus Andronicus s&#x2F;t 7&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -647,9 +702,9 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/L9x75BTtUfegND4z_P7k5OriAmrVkqdx-8HxbjeYcY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjEx/MjkzLTE2Njg4MzMz/NzktNDkwNi5wbmc.jpeg" alt="Cover for Essex County Kings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/046f8c53a461469692c78130c7a03d2f.png" alt="Cover for Essex County Kings" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-01-01</td>
       <td>Essex County Kings</td>
@@ -693,7 +748,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cf5d141053943d4c3384aee7ab0df51.png" alt="Cover for Halestorm" style="max-width:120px; height:auto;" />
       </td>
@@ -711,7 +766,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/UCRnmQL64EgD5qSV-HdaV2uqoYWKMNZ6rQBJv-GI1Q8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDk5/MjAtMTY4MzY3Nzc5/NS02OTI3LnBuZw.jpeg" alt="Cover for The Summer was Over Before it Began" style="max-width:120px; height:auto;" />
       </td>
@@ -731,7 +786,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb424a5dd2b841fc9c756e943252aed9.png" alt="Cover for Picture Perfect" style="max-width:120px; height:auto;" />
       </td>
@@ -749,7 +804,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40a689487cd04a6793db58afc9a4457c.png" alt="Cover for This One&#39;s On You" style="max-width:120px; height:auto;" />
       </td>
@@ -770,7 +825,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/PXKTlgzPCVAZpgKjspOTWhsGGXx6q121SC_qt1k5XNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTky/OTctMTM1ODg3NjQ0/MC00NDUxLmpwZWc.jpeg" alt="Cover for Freedom Express Line" style="max-width:120px; height:auto;" />
       </td>
@@ -788,7 +843,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/fxmSe3a38EyivB7QjqXTZUDHzu10YJut0JJRsS7TJ00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjgx/MDU3LTE1NjE4ODM1/OTktMTA3OC5qcGVn.jpeg" alt="Cover for The Lord Is Waiting the Devil Is Too" style="max-width:120px; height:auto;" />
       </td>
@@ -827,7 +882,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/TnVela7swAGnXny5OphmdeHXErH-GgbrhkFVO9xmQb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTQ1/NTgtMTMwMjQwMTgz/NS5qcGVn.jpeg" alt="Cover for Tight Tight" style="max-width:120px; height:auto;" />
       </td>
@@ -854,7 +909,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/IBPUPLm2aZlXq8JOhr8k_LmoLpVepgHZGweYFDeb9SE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDk0/OTgtMTMwMjAxNjYx/OS5qcGVn.jpeg" alt="Cover for Problem" style="max-width:120px; height:auto;" />
       </td>
@@ -907,7 +962,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/iJn4xrOcL-tRGE33DNEUnHx9lUSlKQtGHeN0GpImXe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjUw/NzI4LTE2NDU0NjM5/MDktNDc5Ni5qcGVn.jpeg" alt="Cover for Sing Loud" style="max-width:120px; height:auto;" />
       </td>
@@ -928,7 +983,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/TlzUvvZWEHSC3jG5bOqXnwBaH4gkSv04iDIeDQ7femM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjUw/Nzc5LTE2NDU0NjQw/NzUtNTcxNC5qcGVn.jpeg" alt="Cover for Drive Safe" style="max-width:120px; height:auto;" />
       </td>
@@ -949,9 +1004,8 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>10</td>
       <td>
-          <img src="https://i.discogs.com/fMIF-pAfE4E3gDjq2FfPXe79w5LE6-_V_W_nM6KFQg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzQ0/ODktMTUxOTQ3MzI5/My02Nzc2LnBuZw.jpeg" alt="Cover for 92N&#39;Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-29</td>
       <td>Ikenna</td>
@@ -969,7 +1023,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/IBu0rrLmqlojuIhFQVsSs6HxdM7krsBV4j1xHWl4I9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDU4/MTctMTM4NDY0MjMw/MC05NTk1LmpwZWc.jpeg" alt="Cover for Shellshock From Birth" style="max-width:120px; height:auto;" />
       </td>
@@ -992,7 +1046,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/fIkFllC2HV7WxU4OJKhG6SwJxyqaJlLgKE8JM7B2fP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDI0/OTUtMTM3MDgzMTI3/NS01ODMxLnBuZw.jpeg" alt="Cover for Dirty Water EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1019,7 +1073,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/QbluXkNizUbBnC0CKuq412uBb4j7cy1btG-wtrspdZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM1/MjEyLTE1NjY1MzMx/MDQtOTg5Ni5qcGVn.jpeg" alt="Cover for Grand Slam For The Home Team" style="max-width:120px; height:auto;" />
       </td>
@@ -1040,7 +1094,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/mH80rsVxuZqpqBR9_y9aPjOTZa4zgLVu4YFSXrm37o4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTMz/MjAtMTQzODY0ODQ2/Ni05MzUzLmpwZWc.jpeg" alt="Cover for Casual" style="max-width:120px; height:auto;" />
       </td>
@@ -1061,7 +1115,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/E3yu8_XzlK1GYIqwH7ALsu4lnMYezG7ELqjooIjxjz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTA0/OTgtMTQ2NzE1OTU5/OS02NTcxLmpwZWc.jpeg" alt="Cover for We Shall Overcome the Seeger Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -1086,7 +1140,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/SAQ_NW-W4gNmSssh8OWkbgS51FeL5Go_fPCyviLOoJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDg5/MjkzLTE2MDMyMjgy/OTAtNjYwMC5qcGVn.jpeg" alt="Cover for Secret Sound" style="max-width:120px; height:auto;" />
       </td>
@@ -1108,7 +1162,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/WT085isKp8N3VHL-YImBe4ie1QOz3FAzmS_3N22tNfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk3/NzI4LTE1MjI1NjUz/MjMtNDQ5Mi5qcGVn.jpeg" alt="Cover for Year of the Rat" style="max-width:120px; height:auto;" />
       </td>
@@ -1128,7 +1182,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/360fTgMuEg_IXsvzybB3zRSBP_C1B_ELswVQ-vHbB_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDcy/NDg0LTE2MTcwNzQ5/NzMtNDU4Ny5qcGVn.jpeg" alt="Cover for Free-Based Martyrdom" style="max-width:120px; height:auto;" />
       </td>
@@ -1151,7 +1205,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/7P89Az4FCoOmQyyQZB3xHt7f2YoBl5K8B7ogsiQB8Io/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTc4/MjAzLTE1Nzc0OTY4/MDctNTgyMy5qcGVn.jpeg" alt="Cover for TESD X​-​Mas 2017: The Space Monkeys Save Christmas" style="max-width:120px; height:auto;" />
       </td>
@@ -1170,7 +1224,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b18903808acc32bf184f89620769b5b.png" alt="Cover for What Could Be Better" style="max-width:120px; height:auto;" />
       </td>
@@ -1191,7 +1245,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/SimGXYPmdwsT9FmjdIcExTlL0juRTocjNcKjXW9dJ3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA0/MDIyLTE1NDgxMTEy/MjEtNDY5OS5qcGVn.jpeg" alt="Cover for We Are Wandering" style="max-width:120px; height:auto;" />
       </td>
@@ -1210,7 +1264,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b86b1b922cf074cb11fd72b769db982.png" alt="Cover for Go Dumb" style="max-width:120px; height:auto;" />
       </td>
@@ -1230,7 +1284,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/qzp2IWLCzLHAjGinAk514-gd-L50Wy3bGwwVnYS8o4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzM0/Mjc3LTE2MzIzNzUy/NTctNzMzNS5qcGVn.jpeg" alt="Cover for a-Tunes" style="max-width:120px; height:auto;" />
       </td>
@@ -1248,7 +1302,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/o9tJpzq0roSpeRFnxuHL7CBs99_MXkuurl69YvrmeLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQz/NzA4LTE2NjUxMDU2/MzgtMjUwNi5qcGVn.jpeg" alt="Cover for Sugar Coat (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1271,7 +1325,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/nXawwrcg3kub11XZlLW0VbTs8ZCXvH11ZfwUeMnX-XI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjcz/NzA3LTE2NTYwMjQ1/MzMtMTg1My5qcGVn.jpeg" alt="Cover for Untying The Giant Knot" style="max-width:120px; height:auto;" />
       </td>
@@ -1294,7 +1348,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/nXawwrcg3kub11XZlLW0VbTs8ZCXvH11ZfwUeMnX-XI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjcz/NzA3LTE2NTYwMjQ1/MzMtMTg1My5qcGVn.jpeg" alt="Cover for Untying the Giant Knot - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1316,7 +1370,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>83</td>
       <td>
       </td>
       <td>2023-05-02</td>
@@ -1341,64 +1395,6 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       <td>
       </td>
       <td></td>
-      <td>Mike Herz</td>
-      <td>Overgrown</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Siggy 808er</td>
-      <td>Some Girls</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Aaron Elite</td>
-      <td>#12TwelvE12</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-      </td>
-      <td></td>
       <td>Nachtmutter</td>
       <td>Mutter Museum</td>
       <td>
@@ -1414,8 +1410,9 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be316f7e3513800542d50ea6802a92b8.png" alt="Cover for falu" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Wiseboy Jeremy</td>
@@ -1434,7 +1431,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1455,7 +1452,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1476,7 +1473,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1498,7 +1495,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -1520,7 +1517,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -1538,7 +1535,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -1557,7 +1554,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -1574,7 +1571,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -1591,7 +1588,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -1622,7 +1619,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -1641,8 +1638,9 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56420091740f49e1b35fa5642b2773ef.png" alt="Cover for Dreams Become Nightmares" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Complex Eternal</td>
@@ -1662,7 +1660,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
@@ -1683,7 +1681,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>
@@ -1700,7 +1698,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>27</td>
       <td>
       </td>
       <td></td>
@@ -1719,7 +1717,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>
@@ -1741,7 +1739,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -1758,8 +1756,9 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/041f3b25c80045378a1c450e3e80d1dd.png" alt="Cover for The Floor Plan" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Complex Eternal</td>
@@ -1779,7 +1778,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
@@ -1797,7 +1796,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>36</td>
       <td>
       </td>
       <td></td>
@@ -1818,7 +1817,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>37</td>
       <td>
       </td>
       <td></td>
@@ -1840,7 +1839,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>39</td>
       <td>
       </td>
       <td></td>
@@ -1867,7 +1866,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>47</td>
       <td>
       </td>
       <td></td>
@@ -1884,8 +1883,9 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/965b968ff97763cb8638200f60951369.png" alt="Cover for Welcome To My Creative MInd" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Lyriqs</td>
@@ -1907,7 +1907,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>53</td>
       <td>
       </td>
       <td></td>
@@ -1925,8 +1925,9 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0441a993b6c46e2a2033f1b79f7f08b.png" alt="Cover for Destroy &amp; Rebuild" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Complex Eternal</td>
@@ -1945,7 +1946,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>59</td>
       <td>
       </td>
       <td></td>
@@ -1965,7 +1966,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14727137760a3e959ddcadbad44a6b4a.png" alt="Cover for Tragically Yours" style="max-width:120px; height:auto;" />
       </td>
@@ -1988,7 +1989,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/340887d11e094bf2b5f8a6b9ac13c3d2.png" alt="Cover for Redemption Of The Damned" style="max-width:120px; height:auto;" />
       </td>
@@ -2007,7 +2008,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>81</td>
       <td>
       </td>
       <td></td>
@@ -2025,7 +2026,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -2041,8 +2042,9 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bf8d9d49fb240879e119864090211e0.png" alt="Cover for I&#39;m Sorry, I&#39;m Broken" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Raymond Strife</td>
@@ -2057,7 +2059,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>43</td>
       <td>
       </td>
       <td></td>
@@ -2073,7 +2075,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>50</td>
       <td>
       </td>
       <td></td>
