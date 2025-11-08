@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-08T07:12:09.982Z
+date: 2025-11-08T07:39:31.079Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-08T07:12:09.982Z">Sat Nov 08 2025 09:12:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-08T07:39:31.079Z">Sat Nov 08 2025 09:39:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [polish death metal]({{ "tags/polish-death-metal" | relative_url }}) | <time datetime="2025-11-08T07:39:31.079Z">Sat Nov 08 2025 09:39:31 GMT+0200 (Eastern European Standard Time)</time> |
 | [american idol]({{ "tags/american-idol" | relative_url }}) | <time datetime="2025-11-08T07:12:09.982Z">Sat Nov 08 2025 09:12:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [drumless]({{ "tags/drumless" | relative_url }}) | <time datetime="2025-11-08T06:16:23.249Z">Sat Nov 08 2025 08:16:23 GMT+0200 (Eastern European Standard Time)</time> |
 | [feminist]({{ "tags/feminist" | relative_url }}) | <time datetime="2025-11-08T06:16:09.137Z">Sat Nov 08 2025 08:16:09 GMT+0200 (Eastern European Standard Time)</time> |
@@ -104,7 +105,6 @@ Last updated: <time datetime="2025-11-08T07:12:09.982Z">Sat Nov 08 2025 09:12:09
 | [glam metal]({{ "tags/glam-metal" | relative_url }}) | <time datetime="2025-11-05T21:21:43.665Z">Wed Nov 05 2025 23:21:43 GMT+0200 (Eastern European Standard Time)</time> |
 | [electronic rock]({{ "tags/electronic-rock" | relative_url }}) | <time datetime="2025-11-05T21:00:50.976Z">Wed Nov 05 2025 23:00:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [industrial rock]({{ "tags/industrial-rock" | relative_url }}) | <time datetime="2025-11-05T20:59:51.212Z">Wed Nov 05 2025 22:59:51 GMT+0200 (Eastern European Standard Time)</time> |
-| [polish death metal]({{ "tags/polish-death-metal" | relative_url }}) | <time datetime="2025-11-05T20:53:51.007Z">Wed Nov 05 2025 22:53:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [easycore]({{ "tags/easycore" | relative_url }}) | <time datetime="2025-11-05T18:21:51.423Z">Wed Nov 05 2025 20:21:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [live show]({{ "tags/live-show" | relative_url }}) | <time datetime="2025-11-05T16:02:52.418Z">Wed Nov 05 2025 18:02:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [funk metal]({{ "tags/funk-metal" | relative_url }}) | <time datetime="2025-11-05T15:57:51.362Z">Wed Nov 05 2025 17:57:51 GMT+0200 (Eastern European Standard Time)</time> |
