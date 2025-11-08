@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-08T06:16:23.249Z
+date: 2025-11-08T07:12:09.982Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-08T06:16:23.249Z">Sat Nov 08 2025 08:16:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-08T07:12:09.982Z">Sat Nov 08 2025 09:12:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [american idol]({{ "tags/american-idol" | relative_url }}) | <time datetime="2025-11-08T07:12:09.982Z">Sat Nov 08 2025 09:12:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [drumless]({{ "tags/drumless" | relative_url }}) | <time datetime="2025-11-08T06:16:23.249Z">Sat Nov 08 2025 08:16:23 GMT+0200 (Eastern European Standard Time)</time> |
 | [feminist]({{ "tags/feminist" | relative_url }}) | <time datetime="2025-11-08T06:16:09.137Z">Sat Nov 08 2025 08:16:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [midwest rap]({{ "tags/midwest-rap" | relative_url }}) | <time datetime="2025-11-08T04:50:16.469Z">Sat Nov 08 2025 06:50:16 GMT+0200 (Eastern European Standard Time)</time> |
@@ -330,7 +331,6 @@ Last updated: <time datetime="2025-11-08T06:16:23.249Z">Sat Nov 08 2025 08:16:23
 | [horror punk]({{ "tags/horror-punk" | relative_url }}) | <time datetime="2025-11-01T08:47:42.871Z">Sat Nov 01 2025 10:47:42 GMT+0200 (Eastern European Standard Time)</time> |
 | [rap rock]({{ "tags/rap-rock" | relative_url }}) | <time datetime="2025-11-01T08:11:50.999Z">Sat Nov 01 2025 10:11:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [skinhead]({{ "tags/skinhead" | relative_url }}) | <time datetime="2025-11-01T08:00:50.961Z">Sat Nov 01 2025 10:00:50 GMT+0200 (Eastern European Standard Time)</time> |
-| [american idol]({{ "tags/american-idol" | relative_url }}) | <time datetime="2025-11-01T07:53:50.964Z">Sat Nov 01 2025 09:53:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [djent]({{ "tags/djent" | relative_url }}) | <time datetime="2025-11-01T07:10:50.965Z">Sat Nov 01 2025 09:10:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [musical theater]({{ "tags/musical-theater" | relative_url }}) | <time datetime="2025-11-01T06:28:50.961Z">Sat Nov 01 2025 08:28:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [uk hip hop]({{ "tags/uk-hip-hop" | relative_url }}) | <time datetime="2025-11-01T05:23:51.388Z">Sat Nov 01 2025 07:23:51 GMT+0200 (Eastern European Standard Time)</time> |
