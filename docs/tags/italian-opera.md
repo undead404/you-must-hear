@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-05T09:35:56.291Z
+date: 2025-11-07T18:52:04.953Z
 permalink: tags/italian-opera
 title: italian opera
 ---
 
 ## italian opera
 
-Last updated: <time datetime="2025-11-05T09:35:56.291Z">Wed Nov 05 2025 11:35:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-07T18:52:04.953Z">Fri Nov 07 2025 20:52:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -341,6 +341,23 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>1971</td>
+      <td>Birgit Nilsson</td>
+      <td>Puccini:Turandot</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>73</td>
       <td>
           <img src="https://i.discogs.com/b9oSTuquttx9tXCBUWoNcr_mlmWd48Kf19_wf8VTEww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTkx/ODEtMTY3Njc0OTk2/NS02Nzg2LmpwZWc.jpeg" alt="Cover for VERDI: Aida (Caniglia, Gigli) (1946)" style="max-width:120px; height:auto;" />
@@ -640,7 +657,7 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>1985</td>
@@ -848,23 +865,6 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-      </td>
-      <td>1990</td>
-      <td>Arturo Toscanini</td>
-      <td>Verdi:Otello</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>17</td>
       <td>
           <img src="https://i.discogs.com/Lo74nCambUOMBRE4HrsNqTkJTkU0wQswADDsF0HU2eE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjE0/ODczLTE2Mzg1NTM1/MjMtNDM4Mi5qcGVn.jpeg" alt="Cover for Puccini: Le Villi" style="max-width:120px; height:auto;" />
@@ -967,6 +967,26 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>John Eliot Gardiner &amp; The English Baroque Soloists</td>
+      <td>Monteverdi: L&#39;incoronazione di Poppea</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
       <td>
@@ -1538,41 +1558,7 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Orchestra e Coro dell&#39; E.A.R.  Teatro Bellini</td>
-      <td>Bellini: Adelson &amp; Salvini</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Orchestra Camerata Musicale</td>
-      <td>Rossini: La Pietra Del Paragone</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1589,12 +1575,29 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
       <td>Orchestra &amp; Coro della RTSI</td>
       <td>Rossini: La Gazzetta</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Orchestra e Coro dell&#39; E.A.R.  Teatro Bellini</td>
+      <td>Bellini: Adelson &amp; Salvini</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
@@ -1731,7 +1734,7 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T23:59:16.977Z
+date: 2025-11-07T18:52:14.837Z
 permalink: tags/acid-rock
 title: acid rock
 ---
 
 ## acid rock
 
-Last updated: <time datetime="2025-11-03T23:59:16.977Z">Tue Nov 04 2025 01:59:16 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-07T18:52:14.837Z">Fri Nov 07 2025 20:52:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
   </thead>
   <tbody>
     <tr>
-      <td>89</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/7FbkNeRFuYUtWDAPMiFNYt_kAnAdRTaGyziqtUqKWh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Nzkx/OC0xMzI5MDQ5MTM2/LmpwZWc.jpeg" alt="Cover for Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -47,9 +47,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>39</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24590e4ca3a94c748d6c8452ce52467b.png" alt="Cover for The Doors" style="max-width:120px; height:auto;" />
       </td>
       <td>1967-01-04</td>
       <td>The Doors</td>
@@ -66,9 +65,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>40</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50e9c81e046775be2287b9fb53a788e7.png" alt="Cover for Are You Experienced" style="max-width:120px; height:auto;" />
       </td>
       <td>1967-05-12</td>
       <td>The Jimi Hendrix Experience</td>
@@ -84,7 +82,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>6</td>
       <td>
       </td>
       <td>1967-10-25</td>
@@ -93,7 +91,6 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
         </ul>
       </td>
       <td>
@@ -102,7 +99,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>72</td>
       <td>
       </td>
       <td>1967-10</td>
@@ -120,7 +117,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>76</td>
       <td>
       </td>
       <td>1967-12-01</td>
@@ -141,7 +138,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>29</td>
       <td>
       </td>
       <td>1968</td>
@@ -159,7 +156,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>43</td>
       <td>
       </td>
       <td>1968</td>
@@ -176,7 +173,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>86</td>
       <td>
       </td>
       <td>1968</td>
@@ -193,9 +190,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f2b791d9f5ca1a7c94d9c45234c1316.png" alt="Cover for Outsideinside" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>Blue Cheer</td>
@@ -213,9 +209,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>82</td>
       <td>
-          <img src="https://i.discogs.com/JTGofzR95qjJElcFshbfmsuMQdgR3SI8OPVGUeb4m0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODMw/ODMtMTU4NzM3NjQ5/MC0yMjIyLmpwZWc.jpeg" alt="Cover for Quicksilver Messenger Service" style="max-width:120px; height:auto;" />
       </td>
       <td>1968-05</td>
       <td>Quicksilver Messenger Service</td>
@@ -231,9 +226,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>25</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e73d538be45fb3f7238a05858927e5dd.png" alt="Cover for Creedence Clearwater Revival" style="max-width:120px; height:auto;" />
       </td>
       <td>1968-07-05</td>
       <td>Creedence Clearwater Revival</td>
@@ -251,9 +245,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/A8hyu4tI50n0zVZr8u809LC3luNJ7htuDTq55qGLkV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU1/NjgtMTU4OTI5MDA2/OC0xNDMxLmpwZWc.jpeg" alt="Cover for Grape Jam" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Moby Grape</td>
@@ -273,27 +266,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>48</td>
-      <td>
-          <img src="https://i.discogs.com/QPIIFFUPsuWq9jbqA6bEL7J94RG5UHsvcYqbyc3phFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/NzYtMTQwNTM4Njg2/OS05NzM4LmpwZWc.jpeg" alt="Cover for Four Sail" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1969</td>
-      <td>Love</td>
-      <td>Four Sail</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
       </td>
       <td>1969</td>
@@ -311,7 +284,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>73</td>
       <td>
       </td>
       <td>1969</td>
@@ -328,7 +301,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/CfIOImrIuZOWqRHLyDrGt2wpRQZjBD6JbRmzz7QXJq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU4/MDgtMTIzMzQ0NjQ5/Ny5qcGVn.jpeg" alt="Cover for Oora" style="max-width:120px; height:auto;" />
       </td>
@@ -351,7 +324,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
       </td>
       <td>1969-07</td>
@@ -369,9 +342,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93c64183679a437dc301407a3ee87590.png" alt="Cover for Wasa Wasa" style="max-width:120px; height:auto;" />
       </td>
       <td>1969-07</td>
       <td>Edgar Broughton Band</td>
@@ -387,8 +359,9 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ef472a4367d910efe5c6d0735b3b063.png" alt="Cover for Astra" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Freedom&#39;s Children</td>
@@ -408,7 +381,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>38</td>
       <td>
       </td>
       <td>1970</td>
@@ -428,9 +401,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/rvXgpffgk5ym-1teMQrJHbe8yLBqhxnZMH4yWjDXcNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTYy/Mi0xMjc2MzY5MzMz/LmpwZWc.jpeg" alt="Cover for Birth Control" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Birth Control</td>
@@ -455,7 +427,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/iH6P91dskpc2S6SdpzRUl_kwVtNKF4Vb7dekhbqTeoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTIx/My0xNDYzMzgwOTQ5/LTQ4NzYucG5n.jpeg" alt="Cover for Mannish Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -474,31 +446,26 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>5</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0f83bed092424df60ca2f827a208a0e.png" alt="Cover for Morrison Hotel" style="max-width:120px; height:auto;" />
       </td>
       <td>1970-02-20</td>
       <td>The Doors</td>
       <td>Morrison Hotel</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 75</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 85</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>88</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87a2976b705e4713ba6231606ee05b05.png" alt="Cover for Just for Love" style="max-width:120px; height:auto;" />
       </td>
       <td>1970-08</td>
       <td>Quicksilver Messenger Service</td>
@@ -516,9 +483,9 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/bfz4qwCHOh4-kPAf8tIhSoGcJQ_NJ3azJ2o_-yx97z0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTcw/OTM1LTE2MzgyMjAx/NzktMTA1OC5qcGVn.jpeg" alt="Cover for What About Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d59793807364132ae4c6d3814a1274a.png" alt="Cover for What About Me" style="max-width:120px; height:auto;" />
       </td>
       <td>1970-12</td>
       <td>Quicksilver Messenger Service</td>
@@ -539,7 +506,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>49</td>
       <td>
       </td>
       <td>1971-04</td>
@@ -560,7 +527,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
       </td>
       <td>1971-10</td>
@@ -579,7 +546,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>71</td>
       <td>
       </td>
       <td>1971-11</td>
@@ -600,7 +567,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg" alt="Cover for Fun With Mushrooms" style="max-width:120px; height:auto;" />
       </td>
@@ -624,9 +591,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>18</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a96aaddefd76e2a90be48a71180be7c.png" alt="Cover for Volcanic Rock" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>Buffalo</td>
@@ -641,7 +607,24 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>1975</td>
+      <td>Jimi Hendrix</td>
+      <td>1975-Midnight Lightning</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
       <td>
       </td>
       <td>1975-11</td>
@@ -658,7 +641,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/UcVRkttfmLkiJZhmYYpJ50FxilVfZKOdehBp40p7hHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTE0/NjUtMTQwMDA1ODg0/MS0yMDYyLmpwZWc.jpeg" alt="Cover for Circuit Rider" style="max-width:120px; height:auto;" />
       </td>
@@ -677,16 +660,14 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>70</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c73c5d9a2cd053a470d8b344a9791c17.png" alt="Cover for &quot;A Divina Comédia Ou Ando Meio Desligado&quot;" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Os Mutantes</td>
       <td>&quot;A Divina Comédia Ou Ando Meio Desligado&quot;</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
         </ul>
       </td>
       <td>
@@ -697,9 +678,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>87</td>
       <td>
-          <img src="https://i.discogs.com/SJg0g65oarjtfO-WOxT1spdU3Os5pQclIdPGtsjeqLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODc1/MDQtMTQyODg0NzQz/OC04Njk3LmpwZWc.jpeg" alt="Cover for Band Of Gypsys" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Jimi Hendrix</td>
@@ -716,9 +696,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/N_4e4J6pdXFZ7KCGPHQeayaTz1h63oRe4TliMWg5dU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTg4/MzktMTMwNDMwMTcy/Mi5qcGVn.jpeg" alt="Cover for Electric Music For Mind And Body" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Country Joe &amp; The Fish</td>
@@ -734,7 +713,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>41</td>
       <td>
       </td>
       <td>1988</td>
@@ -755,7 +734,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
       </td>
       <td>1989</td>
@@ -774,7 +753,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>16</td>
       <td>
       </td>
       <td>1990</td>
@@ -796,7 +775,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/TQ27TFsKoHTNwiypjRl9JWkxAGNrO6tlLGdsdZ7zztk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDMw/ODExLTE1MTYyMDEw/NTgtNzYxNy5qcGVn.jpeg" alt="Cover for Six-Pack" style="max-width:120px; height:auto;" />
       </td>
@@ -816,12 +795,12 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       <td>
         <ul>
             <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 73</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 81</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/1u7ozwFBQ_Q9PhKK2fa5gcVfPo9IzKsr8V6WKhDhnv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzQw/NDEtMTU4NDYyNjM2/NS05MTE4LmpwZWc.jpeg" alt="Cover for An Announcement" style="max-width:120px; height:auto;" />
       </td>
@@ -852,7 +831,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/M6GZ7Aho39cXw6yDb3tbfRYHZqJyyb9yyS-PRAYkESk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzcy/MDAwLTE2MjEyOTI1/NjEtMjQ5OC5qcGVn.jpeg" alt="Cover for In A Gadda Da Vida" style="max-width:120px; height:auto;" />
       </td>
@@ -872,9 +851,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>13</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/234091c8452a430da24831e7ba79b66f.png" alt="Cover for First Rays of the New Rising Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Jimi Hendrix</td>
@@ -890,9 +868,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>42</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4ce23e407840dd42923e5bf04791a39.png" alt="Cover for Mountain EP" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Motorpsycho</td>
@@ -914,7 +891,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a2c775248cfd888445dc40485bfdead.png" alt="Cover for Psychotic Overkill" style="max-width:120px; height:auto;" />
       </td>
@@ -932,7 +909,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>21</td>
       <td>
       </td>
       <td>1995</td>
@@ -949,7 +926,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
       </td>
       <td>1995</td>
@@ -968,9 +945,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>45</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4d0769b7a0e5e24e6e1a2e9dbb36081.png" alt="Cover for Are You Experienced" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Jimi Hendrix</td>
@@ -985,7 +961,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/tBS8A13nnzS3xmgI5oeboibqvLmg_c7ppxvEPRYuYUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzg4/NjItMTcyMTc0MzM0/My04NjIxLmpwZWc.jpeg" alt="Cover for Brain Damage" style="max-width:120px; height:auto;" />
       </td>
@@ -1003,7 +979,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/kUctz0Qn2ZYv_tILj417EHqAoWxu0PnNVDn3x8F-q-A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTQz/Ni0xNDM2OTA2ODY1/LTk3NjEuanBlZw.jpeg" alt="Cover for Heavenicetrip!" style="max-width:120px; height:auto;" />
       </td>
@@ -1024,9 +1000,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>12</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8c6e57a027c4833c82b2ebcf2886892.png" alt="Cover for Electric Ladyland" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Jimi Hendrix</td>
@@ -1045,7 +1020,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/18d14485c4cf4eaeb4c1eb845e6bc1a5.png" alt="Cover for Live at Woodstock" style="max-width:120px; height:auto;" />
       </td>
@@ -1063,16 +1038,14 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>14</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/459ab913b00e05632f42ff6baa4d87f6.png" alt="Cover for Dead Meadow" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Dead Meadow</td>
       <td>Dead Meadow</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
         </ul>
       </td>
       <td>
@@ -1082,7 +1055,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>48</td>
       <td>
       </td>
       <td>2000</td>
@@ -1099,9 +1072,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/qDBKyUrlEEIkHl7nHTsvduxz-rKnsqxPtB9Bo3P_lbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTU4/MDE2LTE2ODQ3NzA4/NTMtNjUxNi5qcGVn.jpeg" alt="Cover for Behold &amp; See (Original Mono Mix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Ultimate Spinach</td>
@@ -1118,7 +1090,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/HPxSXYjEr2xcqrFyEfFFNXjb1b-7U47mGXYxIzwPjZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDY0/MTktMTM1OTYwMzc5/MS05NjIxLmpwZWc.jpeg" alt="Cover for 1965-67 Cambridge St&#x2F;ation" style="max-width:120px; height:auto;" />
       </td>
@@ -1136,7 +1108,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>17</td>
       <td>
       </td>
       <td>2002</td>
@@ -1153,7 +1125,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>34</td>
       <td>
       </td>
       <td>2002</td>
@@ -1172,7 +1144,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
       </td>
       <td>2002</td>
@@ -1191,9 +1163,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>11</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47854588647c5892ac822606875fd543.png" alt="Cover for Microminiature Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-07-22</td>
       <td>Michael Yonkers Band</td>
@@ -1209,7 +1180,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/qUUc39OlTTY0Eg2Kaiu6r87CtIJdA2nuoNrgr_X-USE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQ0/MzY3LTE2MzU5OTUw/MjAtNDM1OS5qcGVn.jpeg" alt="Cover for The Gold Digger Live Bootleg E.P. (2005)" style="max-width:120px; height:auto;" />
       </td>
@@ -1246,7 +1217,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
       </td>
       <td>2005-07-19</td>
@@ -1265,7 +1236,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/akKRuZER-ZznFUZqC84NsI8DebepO6g5CzVEfV57WxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTU5/NS0xMTY2NDcxMTQ3/LmdpZg.jpeg" alt="Cover for Gamelan into the Mink Supernatural" style="max-width:120px; height:auto;" />
       </td>
@@ -1285,7 +1256,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/S5xs_MB0a2udfDY9rK5YYq9PfAAkv3MTO1Ce3mvjgeU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzQ2/MjctMTMzNDI0NTMx/My5qcGVn.jpeg" alt="Cover for Axis: Bold As Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1299,12 +1270,12 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 78</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/1_74BuPdC7vDlqX3vSf5q2NyALJRpMOp1SI5p-ekuIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTc5/NzMtMTI3NTIzNDY0/OC5qcGVn.jpeg" alt="Cover for The Early Years 1969 Dramatis&#x2F;ation" style="max-width:120px; height:auto;" />
       </td>
@@ -1323,7 +1294,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
       </td>
       <td>2006-09-24</td>
@@ -1344,7 +1315,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>78</td>
       <td>
       </td>
       <td>2007</td>
@@ -1365,7 +1336,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/X29ozo6j2uwwIL2eCiQmQe63yP57Br-KcraNYBx3bN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzQw/MC0xMTI2MDgwNzYz/LmpwZWc.jpeg" alt="Cover for III - Tri - Logy" style="max-width:120px; height:auto;" />
       </td>
@@ -1385,7 +1356,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>9</td>
       <td>
       </td>
       <td>2007-06-26</td>
@@ -1411,7 +1382,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/mIkwG-ILxyKYcpywLv-cq-uqys_pvRfkXBDoZ9pFaDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Nzg2/MDctMTQ1NzcyMjM1/Ny0zMDA4LmpwZWc.jpeg" alt="Cover for Méfie-toi du savant fou !" style="max-width:120px; height:auto;" />
       </td>
@@ -1429,7 +1400,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>53</td>
       <td>
       </td>
       <td>2008</td>
@@ -1448,9 +1419,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/XcaZ0FqVAO_UiRROgVE9zOB6NoTRuR22gLTk_pNUwNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTkw/ODctMTIyNTY0MDU5/MS5qcGVn.jpeg" alt="Cover for High Beams" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Magic Lantern</td>
@@ -1468,9 +1438,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
-          <img src="https://i.discogs.com/brYjHUfOyuRYCrCgcQsFv84wzVgjpx5kfVdbzoLybdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzUy/NTItMTI4NzAwNzIx/Mi5qcGVn.jpeg" alt="Cover for Batholith" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03</td>
       <td>Bardo Pond</td>
@@ -1488,7 +1457,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
       </td>
       <td>2008-04</td>
@@ -1507,7 +1476,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
       </td>
       <td>2008-10-14</td>
@@ -1525,7 +1494,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/wcfi7FaD_ahHMG9HHWYv6Dmh5JzqJ3TidbNlj6pJ_ZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzQz/MDgtMTIzMDA1NTk4/MC5qcGVn.jpeg" alt="Cover for Raccoo-oo-oon" style="max-width:120px; height:auto;" />
       </td>
@@ -1545,7 +1514,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>47</td>
       <td>
       </td>
       <td>2009-04-10</td>
@@ -1564,7 +1533,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
       </td>
       <td>2009-05-30</td>
@@ -1594,7 +1563,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/BBKFWKIUQj99cthxVi4S2X74G0KP7BIFnILcsFN9FIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjcy/MDEtMTYwNzUwNzAy/NS0yMTM0LmpwZWc.jpeg" alt="Cover for We Only Sing For Blood Or Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1615,7 +1584,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/coAB1J-f8AJg_jCm00tYVER9_BacGcfOgX9VUbzPbTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjQ3/MDgtMTMxODY5NzU2/OC5qcGVn.jpeg" alt="Cover for Static Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1659,7 +1628,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>33</td>
       <td>
       </td>
       <td>2010-02-15</td>
@@ -1704,7 +1673,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>80</td>
       <td>
       </td>
       <td>2010-12-21</td>
@@ -1740,21 +1709,20 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       <td>
         <ul>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 7</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 20</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 22</li>
             <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 39</li>
             <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 44</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 64</li>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 88</li>
             <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 89</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 90</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 90</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/N_4e4J6pdXFZ7KCGPHQeayaTz1h63oRe4TliMWg5dU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTg4/MzktMTMwNDMwMTcy/Mi5qcGVn.jpeg" alt="Cover for Electric Music For The Mind &amp; Body" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-16</td>
       <td>Country Joe &amp; The Fish</td>
@@ -1770,9 +1738,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/EC6NjUknrlMmk-51gcb8Dr7lp44la2I6fdC08Ku_FFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODQy/OTQtMTQ1Mzk0ODEy/OS01NTk4LmpwZWc.jpeg" alt="Cover for Mustache In Your Face" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Pretty</td>
@@ -1792,7 +1759,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/KANq8yTn_lFtkEtQmfrFlfsi_HuadQdHjXDAVEt08VY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzk5/MTctMTQ3MTUzNjky/OC0yOTU3LmpwZWc.jpeg" alt="Cover for The Axeman Cometh" style="max-width:120px; height:auto;" />
       </td>
@@ -1810,7 +1777,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>74</td>
       <td>
       </td>
       <td>2013-08-01</td>
@@ -1851,7 +1818,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       <td>
         <ul>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 31</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 33</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 36</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 49</li>
             <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 58</li>
             <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 60</li>
@@ -1866,47 +1833,45 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/raKKCJJvn-RTEd01WzrYi5QzIQMMxQlb0OPjOCfJXCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjA0/MjQ2LTE2NDc5NjM3/NTItOTE5Ny5qcGVn.jpeg" alt="Cover for Omnium Gatherum" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-10-01</td>
+      <td>Fuzz</td>
+      <td>Fuzz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 24</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
       </td>
       <td>2014-03-07</td>
       <td>King Gizzard &amp; The Lizard Wizard</td>
       <td>Omnium Gatherum</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 24</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 37</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
-      <td>
-          <img src="https://i.discogs.com/-QYQT9iZvqBZQi8twWqkyv71_QmaI26wFaCIb2dtKP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDU1/MzQ5LTE2NzE4MDIy/NjAtODE1My5qcGVn.jpeg" alt="Cover for Ice, Death, Planets, Lungs, Mushrooms and Lava" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015</td>
-      <td>King Gizzard &amp; The Lizard Wizard</td>
-      <td>Ice, Death, Planets, Lungs, Mushrooms and Lava</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 72</li>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 95</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/xkdyDXSgOgaV5-jw1IjptjCalWexl_IkAy-uQXdlzR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzE0/ODgtMTY4MzkwMTI1/NS0xNTYxLmpwZWc.jpeg" alt="Cover for L.A.Woman" style="max-width:120px; height:auto;" />
       </td>
@@ -1928,7 +1893,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/J0Vmjy7yDNiaC1cz8YLDxPX1omlhEKOoOiAIRSXj7QA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTU0/NzUtMTIyMTAxOTA4/NS5qcGVn.jpeg" alt="Cover for The &#39;67 Demos" style="max-width:120px; height:auto;" />
       </td>
@@ -1946,7 +1911,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/HMnzgj9j2G7VHRa4KkA9qGMK3LxGv-TEDRBgEL5F2Os/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjAy/MTc0LTE1Mzk4ODYw/OTUtMjk5NC5qcGVn.jpeg" alt="Cover for Pusher Man" style="max-width:120px; height:auto;" />
       </td>
@@ -1967,7 +1932,6 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/8KnuJjyHU6GE0pxWhycFLL-w0I8UxnUWSxiyCNwdogg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDMx/NDg2LTE2MTU1NDA2/MzEtOTMxNi5qcGVn.jpeg" alt="Cover for House in the Tall Grass" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-23</td>
       <td>Kikagaku Moyo</td>
@@ -1986,9 +1950,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/krYc6WEoV9agPauCXp8Un4dl3xJYzBiIPH1H2gN1sTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjY0/OTQ0LTE1NzkxOTg1/ODItNzkzNy5qcGVn.jpeg" alt="Cover for Do You Wanna Have a Skeleton Dream?" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-01-13</td>
       <td>Big Blood</td>
@@ -2009,9 +1972,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>89</td>
       <td>
-          <img src="https://i.discogs.com/RKUgRCuzGXYYBrj4CNuODIJpOwK8u-4YrN8eAthvZLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQz/ODU0LTE2MTAxNzA2/MzctMzA3NC5qcGVn.jpeg" alt="Cover for Tik Tak Tok" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-30</td>
       <td>Silica Gel</td>
@@ -2030,9 +1992,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>15</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97cdb459500b01fcd2c840f3edec48e0.png" alt="Cover for Afrique Victime" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Mdou Moctar</td>
@@ -2050,9 +2011,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
-          <img src="https://i.discogs.com/hh5Hp7qx34aiK2uvvF_UArh3eLG4VMSqAiqLhf5T4OA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTU1/NDUtMTM0NjIzNzI0/MC01NDAxLmpwZWc.jpeg" alt="Cover for The OZ Tapes" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Les Rallizes Dénudés</td>
@@ -2074,7 +2034,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -2114,7 +2074,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
@@ -2135,7 +2095,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
       </td>
       <td></td>
@@ -2157,9 +2117,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>85</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c2c3497de281cd0a284da05917e9eca.png" alt="Cover for Mars Studio 1980" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Les Rallizes Dénudés</td>
