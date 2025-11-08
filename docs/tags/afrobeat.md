@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T02:45:51.006Z
+date: 2025-11-07T18:58:41.294Z
 permalink: tags/afrobeat
 title: afrobeat
 ---
 
 ## afrobeat
 
-Last updated: <time datetime="2025-11-01T02:45:51.006Z">Sat Nov 01 2025 04:45:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-07T18:58:41.294Z">Fri Nov 07 2025 20:58:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
   </thead>
   <tbody>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
       </td>
       <td>1968</td>
@@ -47,7 +47,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
       </td>
       <td>1971</td>
@@ -64,7 +64,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
       </td>
       <td>1972</td>
@@ -81,7 +81,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
       </td>
       <td>1972</td>
@@ -99,7 +99,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
       </td>
       <td>1973</td>
@@ -134,7 +134,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
       </td>
       <td>1975</td>
@@ -151,7 +151,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for The Original Sound Of 1970&#39;s Funky Africa" style="max-width:120px; height:auto;" />
       </td>
@@ -170,7 +170,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/9CtAWJz6dA4D3YmpOIeNQ9TZXeLRlWk4qM99qvcN8EY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTg2/OC0xMzE0NjUyNjQ5/LmpwZWc.jpeg" alt="Cover for Upside Down" style="max-width:120px; height:auto;" />
       </td>
@@ -206,7 +206,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/n3vSEqrydbyrTIwtVQYc8hFzUphV9sUBbRFLTpcYU2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY4/MjU5LTE1MDAwNTM4/MDgtNTczNy5qcGVn.jpeg" alt="Cover for Army Arrangement" style="max-width:120px; height:auto;" />
       </td>
@@ -228,7 +228,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
       </td>
       <td>1985</td>
@@ -247,7 +247,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>1991</td>
@@ -264,7 +264,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>1992</td>
@@ -282,7 +282,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/4-2yhB7W8UHvPu-aftBBgENtJomYMEheGrfyvxaNq9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDI5/Mi0xNTUzODUyOTI4/LTUzMzEuanBlZw.jpeg" alt="Cover for Wakafrika" style="max-width:120px; height:auto;" />
       </td>
@@ -302,7 +302,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/C4_mc3tDYmox6_mXnqkCKzrSIp5yvhJdZLcLUxQZd0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzE5/MjMtMTQ2MTQ5Mjk2/My0xNTk4LmpwZWc.jpeg" alt="Cover for Fela&#39;s London Scene" style="max-width:120px; height:auto;" />
       </td>
@@ -322,7 +322,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/9CtAWJz6dA4D3YmpOIeNQ9TZXeLRlWk4qM99qvcN8EY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTg2/OC0xMzE0NjUyNjQ5/LmpwZWc.jpeg" alt="Cover for London Scene" style="max-width:120px; height:auto;" />
       </td>
@@ -340,9 +340,9 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/nlO_8tfxniB3P1op7mIqFjnP_ikO78OgAnlAEKW9-0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjkw/ODMtMTMwMzA3NzIy/MC5qcGVn.jpeg" alt="Cover for Feelin&#39; Funky" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ad027ebfb8b49128f42167c5bbef2da.png" alt="Cover for Feelin&#39; Funky" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Matata</td>
@@ -359,7 +359,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/JmJdQT2yBz6VcRQioPo-uTQA9q96Hc9sJLX1i2sU4fE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzI3/OS0xNTgyNDkwODU2/LTg4MDUuanBlZw.jpeg" alt="Cover for The &#39;69 Los Angeles Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -378,7 +378,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/C4_mc3tDYmox6_mXnqkCKzrSIp5yvhJdZLcLUxQZd0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzE5/MjMtMTQ2MTQ5Mjk2/My0xNTk4LmpwZWc.jpeg" alt="Cover for Fela With Ginger Baker Live!" style="max-width:120px; height:auto;" />
       </td>
@@ -396,7 +396,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/OvDmso54NIMtRGGxyx944cDpdVA1IDZo1IPmyf8zQQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDk4/MDYtMTQ0NzE4ODY4/NS03NTc0LmpwZWc.jpeg" alt="Cover for Shaman!" style="max-width:120px; height:auto;" />
       </td>
@@ -414,7 +414,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/DX6KKrGo8cTm6iU5lBdfsDsSAAyBY9oIoOtwiVDU4Us/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjEz/Ni0xNTU5NzYxMDE1/LTM5MzYuanBlZw.jpeg" alt="Cover for Soul Explosion" style="max-width:120px; height:auto;" />
       </td>
@@ -432,7 +432,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/C4_mc3tDYmox6_mXnqkCKzrSIp5yvhJdZLcLUxQZd0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzE5/MjMtMTQ2MTQ5Mjk2/My0xNTk4LmpwZWc.jpeg" alt="Cover for Sorrow Tears and Blood" style="max-width:120px; height:auto;" />
       </td>
@@ -450,9 +450,9 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
-          <img src="https://i.discogs.com/pWw36_CF1Vb_NsuQOCxYFrUGvtAzs774YHM6cGiVfIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Njc2/MDQtMTUwMDQwNDk1/Mi05MzkzLmpwZWc.jpeg" alt="Cover for Shoki Shoki" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/532208c7a2ee4455a62e61792d13c101.png" alt="Cover for Shoki Shoki" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-11-17</td>
       <td>Femi Kuti</td>
@@ -472,7 +472,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/C3TejC723UABBaaghIiB2XvSrg64pajkE5Xk6CYPreM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDAz/MzAtMTY3Nzc1NzI1/Ny02MzM4LmpwZWc.jpeg" alt="Cover for Beautifully" style="max-width:120px; height:auto;" />
       </td>
@@ -498,7 +498,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>1999</td>
@@ -520,7 +520,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/C3TejC723UABBaaghIiB2XvSrg64pajkE5Xk6CYPreM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDAz/MzAtMTY3Nzc1NzI1/Ny02MzM4LmpwZWc.jpeg" alt="Cover for Baby Riddim" style="max-width:120px; height:auto;" />
       </td>
@@ -546,9 +546,9 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/_5D7yQ7lqmf3nkvin97YEhjoCWOWjmKl2IDu1t5jb3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTI4/LTEyNTEyODk2NDMu/anBlZw.jpeg" alt="Cover for Black Voices" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95619a1f91a679d9c1bde74d1f761ee9.png" alt="Cover for Black Voices" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Tony Allen</td>
@@ -564,7 +564,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/hJaTcwhUN6UtiLrHUSGaRbkKRbHbSaiyFFWER6EYl9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTYx/NTAtMTIyMTA2ODQz/MS5qcGVn.jpeg" alt="Cover for Best Of&#x2F;20th Century" style="max-width:120px; height:auto;" />
       </td>
@@ -583,9 +583,9 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
-          <img src="https://i.discogs.com/A-w-6C7yaoMcjUoFJclU1793ml4KaxfJitau2Z7QuU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDAz/NjYtMTMyNDY2NDIx/MC5qcGVn.jpeg" alt="Cover for Riddim 5" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/781c79ab79150075b76fff0d56cd71ee.png" alt="Cover for Riddim 5" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Fave</td>
@@ -609,7 +609,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/C4_mc3tDYmox6_mXnqkCKzrSIp5yvhJdZLcLUxQZd0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzE5/MjMtMTQ2MTQ5Mjk2/My0xNTk4LmpwZWc.jpeg" alt="Cover for Open &amp; Close &#x2F; Afrodisiac" style="max-width:120px; height:auto;" />
       </td>
@@ -627,7 +627,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/C4_mc3tDYmox6_mXnqkCKzrSIp5yvhJdZLcLUxQZd0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzE5/MjMtMTQ2MTQ5Mjk2/My0xNTk4LmpwZWc.jpeg" alt="Cover for Confusion &#x2F; Gentleman" style="max-width:120px; height:auto;" />
       </td>
@@ -645,7 +645,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2000-06-13</td>
@@ -667,8 +667,9 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50eef2765eae4e4886680d30d28428d0.png" alt="Cover for Orgone" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Orgone</td>
@@ -689,7 +690,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>2001-01</td>
@@ -706,7 +707,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>2002</td>
@@ -725,7 +726,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/-sTvWzwj58DIZ2p5iW8RuCXSbFTPQzq5bZWY14fBaGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDY3/MjctMTM2NTExMDg1/MC04OTExLmpwZWc.jpeg" alt="Cover for The Best of the Black President" style="max-width:120px; height:auto;" />
       </td>
@@ -746,7 +747,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/6nyHBMQ7UmifaGodrkVtJsnPH8FKCao7BLK74ZKQWcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDA5/MDA1LTE2NTkyMTAy/NDUtNDE5OC5qcGVn.jpeg" alt="Cover for Koola Lobitos&#x2F;The &#39;69 L.A. Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -764,7 +765,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2003</td>
@@ -782,7 +783,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/4HvesGAIGXkrdEd1hVNkZVMMPLJQnMaUGBFHhaWoVFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MzA2/MS0xMTIxNTE2NTUy/LmpwZw.jpeg" alt="Cover for African Shrine" style="max-width:120px; height:auto;" />
       </td>
@@ -802,7 +803,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/Qp_pOuRZKeKXGHNvRGJwdq2J2Itn1ZnWDwYVP3aWPEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODY5/ODYtMTE5OTMxNTE5/OS5qcGVn.jpeg" alt="Cover for The Underground Spiritual Game" style="max-width:120px; height:auto;" />
       </td>
@@ -820,7 +821,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>2004</td>
@@ -838,7 +839,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>2004-08-01</td>
@@ -857,7 +858,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
       </td>
       <td>2005</td>
@@ -880,9 +881,9 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/-KQ7EpbDmntvLdUHF2Tl7mja7Of5dWAS4WaWtt4MegY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDM3/Ni0xNTAyNjEzMTk5/LTk5ODQuanBlZw.jpeg" alt="Cover for Renegades of Funk" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60d0364db83e2efe2763579955419ed0.png" alt="Cover for Renegades of Funk" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-07</td>
       <td>Cymande</td>
@@ -900,7 +901,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/kMwZzfGmvfbYOlF1JIN8Wyy0qM3TubM3VMOzxKf1XG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE2/MzMtMTI4OTcxNTY2/Ni5qcGVn.jpeg" alt="Cover for Chicago Afrobeat Project" style="max-width:120px; height:auto;" />
       </td>
@@ -918,8 +919,9 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/edcf7c620a2140bbae202d7e4eefa260.png" alt="Cover for The Budos Band" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-29</td>
       <td>The Budos Band</td>
@@ -931,12 +933,12 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 9</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2006-02-20</td>
@@ -953,7 +955,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
       </td>
       <td>2006-05-29</td>
@@ -970,17 +972,15 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/IQbsV0WrItvhDh--Loz2oPbdoUoIKbwThPIuvVmYJtY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTIy/MjctMTQzNTgwMzIz/NS00MDU1LmpwZWc.jpeg" alt="Cover for The Lion King: The Gift [Deluxe Edition]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f946fbc9a4c2676e7eb0f24e3867b2c0.png" alt="Cover for The Lion King: The Gift [Deluxe Edition]" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Beyoncé</td>
       <td>The Lion King: The Gift [Deluxe Edition]</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
         </ul>
       </td>
       <td>
@@ -989,7 +989,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
       </td>
       <td>2007-02-13</td>
@@ -1007,7 +1007,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/56SFlpUwbGJ9VgJxmBpkfOA2501Y-sVwQOo1xhQpkUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQ5/NTctMTE4ODUwODMx/NC5qcGVn.jpeg" alt="Cover for The Budos Band II" style="max-width:120px; height:auto;" />
       </td>
@@ -1025,8 +1025,9 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/192b66b70268ae3fa506f4953eae6448.png" alt="Cover for Afro Disco Beat" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-08</td>
       <td>Tony Allen</td>
@@ -1044,8 +1045,9 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56b2ee6c03764eefa867c23a87168e69.png" alt="Cover for The Killion Floor" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-24</td>
       <td>Orgone</td>
@@ -1066,8 +1068,9 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/320b762eb177965fddb4dd62497503f1.png" alt="Cover for Bacano" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-01</td>
       <td>Orgone</td>
@@ -1089,7 +1092,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>2008-11-30</td>
@@ -1107,7 +1110,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/hvJ0K9g3fM0F9fVmhlR-B7RYEBmCjfnl5Eextdz7W_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODk4/MzQtMTM2OTI2MTU4/Mi0xMzYwLmpwZWc.jpeg" alt="Cover for Nneka... To and Fro" style="max-width:120px; height:auto;" />
       </td>
@@ -1132,7 +1135,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/a_1YE0l1fVgyuDTcd7qN-8-fvQmWZlftWZx1pzbLpHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTgz/NDUtMTI2NTAyMTUx/My5qcGVn.jpeg" alt="Cover for Anthology 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1150,7 +1153,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>2009</td>
@@ -1168,7 +1171,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/vS8-mG0r4nfo_wKcBXDd0Ss2BTnJHgl5bhfAuYGx2jU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODA0/My0xNjA1NTQ1Nzk1/LTMyNTEuanBlZw.jpeg" alt="Cover for Gentleman" style="max-width:120px; height:auto;" />
       </td>
@@ -1188,7 +1191,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/Z-DnvQOBYqtkYhoqIqLMfnWFPczoHUbA6Wf4_79mrQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDQw/MC0xMTg0MTYyMDYz/LmpwZWc.jpeg" alt="Cover for The Lion King: The Gift" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3fbfdc835343091ae32c1cd239c0728.png" alt="Cover for The Lion King: The Gift" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Beyoncé</td>
@@ -1205,7 +1208,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
       </td>
       <td>2009-06-08</td>
@@ -1222,7 +1225,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/jAnOLas-6mZM2MM4NLWQOQ70xQeh15ecbCOjmTMaXYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTM2/MjItMTQxMTQwMTE1/OS04Njk3LmpwZWc.jpeg" alt="Cover for Rise Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1241,7 +1244,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
       </td>
       <td>2010-01-19</td>
@@ -1258,9 +1261,9 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/JOk9gXbrx9fv1qxj7YjrkuIzDr-1P_JEHNyctIfepMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjM0/NzAtMTI5MDYyNjY4/Ni5qcGVn.jpeg" alt="Cover for Dunya" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6de6e5019e354159ab843727ba85e958.png" alt="Cover for Dunya" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-25</td>
       <td>Bibi Tanga &amp; The Selenites</td>
@@ -1285,7 +1288,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
       </td>
       <td>2010-02-16</td>
@@ -1302,7 +1305,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2010-05-03</td>
@@ -1323,7 +1326,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/gXWuLqcCMKWiY_bggvW96ckRDPM9BbCOyWbr4OnjVFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzky/NjItMTMzMDQyOTQ5/Ni5qcGVn.jpeg" alt="Cover for Many Things" style="max-width:120px; height:auto;" />
       </td>
@@ -1345,7 +1348,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
       </td>
       <td>2011</td>
@@ -1362,7 +1365,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
       </td>
       <td>2011-04-08</td>
@@ -1379,7 +1382,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>2011-06-07</td>
@@ -1396,7 +1399,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/oDjze4tRSIsAoBYVHGhijqMDJLP08lm8yiwj4g120Q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTAw/NjktMTQ4Mzc4NjM1/Mi02MjcwLmpwZWc.jpeg" alt="Cover for Los Sebosos Postizos - Interpretam Jorge Ben Jor" style="max-width:120px; height:auto;" />
       </td>
@@ -1416,7 +1419,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2012-08-06</td>
@@ -1433,30 +1436,9 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>41</td>
       <td>
-      </td>
-      <td>2012-08-20</td>
-      <td>Goat</td>
-      <td>World Music</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 16</li>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 74</li>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>
-          <img src="https://i.discogs.com/EjbZXb3342jt_vA6XFv1dRuwjnB9PVkDFSU-UsXlzv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODU1/OTktMTUzODE1NTE4/Ny00MzEwLmpwZWc.jpeg" alt="Cover for More Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/434a922ecca5474f1f9d6bbcc3a1050c.png" alt="Cover for More Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Drake</td>
@@ -1471,12 +1453,12 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
         <ul>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 25</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 48</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 60</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
       </td>
       <td>2013-02-05</td>
@@ -1493,7 +1475,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/SvqwTYfVbqASVaYdMB4M1coOdP0vzBgC9W1bFiUvVUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjgx/OTY3LTE1MTMzNjI0/NzAtNzI0Ny5qcGVn.jpeg" alt="Cover for Sober" style="max-width:120px; height:auto;" />
       </td>
@@ -1509,14 +1491,14 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 56</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/MiqFGizjTDotPs3KBgkI83mfc8dOsVqxYcy9dcQgHWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQy/NDYtMTM5Nzc2NzQy/NC0zNDcyLmpwZWc.jpeg" alt="Cover for Food" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/868b65e0c7a14797c75ef95a016914d4.png" alt="Cover for Food" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-17</td>
       <td>Kelis</td>
@@ -1534,7 +1516,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2014-04-21</td>
@@ -1551,7 +1533,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/AXmVW69Ik7aPXjYfPQAzmQPJWaQen-Hxhak7n65EGHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjQy/OTgtMTQyODI1NjUw/Mi05MDk2LmpwZWc.jpeg" alt="Cover for Vilã" style="max-width:120px; height:auto;" />
       </td>
@@ -1572,9 +1554,8 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b293ba2b153b4aa7cae9c62214ad4a9e.png" alt="Cover for Commune" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-22</td>
       <td>Goat</td>
@@ -1592,7 +1573,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/h4Xo5q-J7lM63J9nxaN3-kacceQWyxVEdgG-UHvMpW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTM0/MTAtMTQ2ODg4MDIw/OC03MDczLmpwZWc.jpeg" alt="Cover for Piacó" style="max-width:120px; height:auto;" />
       </td>
@@ -1611,7 +1592,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/4RIDsBTA5FxJmYIIJReEz0o_-j6s4c7rZhZlSwLz7Sc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjI2/MzEzLTE2ODA0Mzg5/MzEtODc1Ny5qcGVn.jpeg" alt="Cover for Circular Movimento" style="max-width:120px; height:auto;" />
       </td>
@@ -1630,7 +1611,29 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/3BKAqq11z87g2FDP2BHHVMpJRDOyDa14GGA-ChrWI5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzU5/NDktMTQ2NDM2OTA1/My02MzIyLmpwZWc.jpeg" alt="Cover for Siren Song" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-05-27</td>
+      <td>Nubiyan Twist</td>
+      <td>Siren Song</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/7Q4NMBo8QuegvkNZKe2nuOUEKd2isw6AVkt0MCrY7sI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ5/NjI4LTE1MjE3MzM1/MDgtNjY5Ny5qcGVn.jpeg" alt="Cover for Socadona (feat. Mr. Vegas)" style="max-width:120px; height:auto;" />
       </td>
@@ -1650,7 +1653,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/zuIRSVPQ_czsTPp0m4VFcx1QWQpsy66NZ5ngGPaxYT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTUw/MDg3LTE1ODQ3MDc3/NDctODQ0NS5qcGVn.jpeg" alt="Cover for Cough (Odo)" style="max-width:120px; height:auto;" />
       </td>
@@ -1668,7 +1671,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/vijyw2wUeFhD5H3EScYmodUgR_3nuIH2n68Fczrdc3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTM3/MjQxLTE2MDQwNjcy/NzAtOTc5OS5qcGVn.jpeg" alt="Cover for Made In Lagos" style="max-width:120px; height:auto;" />
       </td>
@@ -1688,7 +1691,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/vS8-mG0r4nfo_wKcBXDd0Ss2BTnJHgl5bhfAuYGx2jU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODA0/My0xNjA1NTQ1Nzk1/LTMyNTEuanBlZw.jpeg" alt="Cover for Live In Amsterdam" style="max-width:120px; height:auto;" />
       </td>
@@ -1709,7 +1712,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/b6DOwQl3ZmbYzsmZa3kesFAi9EfUUTuz997s0TippDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODYw/MTkzLTE2Mjg5NTc3/MzgtNjk4OS5qcGVn.jpeg" alt="Cover for Cavs" style="max-width:120px; height:auto;" />
       </td>
@@ -1727,7 +1730,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/0UinwsBQPgXe5378jkt5gQtBKtFUvWjHCAkVIirZ7KU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDg3/OTU5LTE2NTk1NDYw/OTUtMTI1My5qcGVn.jpeg" alt="Cover for Could We Be More" style="max-width:120px; height:auto;" />
       </td>
@@ -1746,7 +1749,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/rBMAwaOPDGvMIxogo6f_3xFKbbeVjVzEwD818_y0MVg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTEx/NzcyLTE3MDM2MjQ5/NTgtODYwNy5qcGVn.jpeg" alt="Cover for Aimez ces airs" style="max-width:120px; height:auto;" />
       </td>
@@ -1764,9 +1767,9 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
-          <img src="https://i.discogs.com/ljzUvaOXlUki-jux8xa7LcjplaTcPIKkHu6PwTFyWGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzU4/MjQyLTE2ODY1NjA5/NDUtMzA0MC5qcGVn.jpeg" alt="Cover for The Age of Pleasure" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96ca9abd6370fc05644517ba48d6349a.png" alt="Cover for The Age of Pleasure" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-06-09</td>
       <td>Janelle Monáe</td>
@@ -1782,9 +1785,9 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/EXGNz1gu8_0MsWMhfdKptwY4fTpoi2POeAuKUxk-KGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTgw/Njg0LTE2MDQ4MjU0/NzEtMTg1My5qcGVn.jpeg" alt="Cover for Envious" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd5984ade8f06194b14454c3caaba77a.png" alt="Cover for Envious" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-07-07</td>
       <td>Aluna</td>
@@ -1807,9 +1810,9 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/mP3q4z8wHGduEnYsMkmcwEU1OnF4WYWnp6ZBuHHCR2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTcw/MzA2LTE3MTExMDgz/NzctNzAzNi5qcGVn.jpeg" alt="Cover for Tyla +" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7512e845d5d51de2480048e940c4537f.png" alt="Cover for Tyla +" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-22</td>
       <td>Tyla</td>
@@ -1826,7 +1829,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2024-08-15</td>
@@ -1845,7 +1848,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
       </td>
       <td></td>
@@ -1862,7 +1865,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
       </td>
       <td></td>
@@ -1879,7 +1882,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
       </td>
       <td></td>
@@ -1898,7 +1901,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
       </td>
       <td></td>
@@ -1915,7 +1918,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
       </td>
       <td></td>
@@ -1933,7 +1936,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
