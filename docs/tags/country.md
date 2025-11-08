@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T04:58:48.908Z
+date: 2025-11-08T10:46:52.627Z
 permalink: tags/country
 title: country
 ---
 
 ## country
 
-Last updated: <time datetime="2025-10-28T04:58:48.908Z">Tue Oct 28 2025 06:58:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-08T10:46:52.627Z">Sat Nov 08 2025 12:46:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -15,108 +15,1890 @@ Country music is a genre rooted in American folk traditions, featuring storytell
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 78 | ![Cover](https://i.discogs.com/6cEsYgX6bfLKPoMhNHrXfjq09jSXcycuCVLQktp03tU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTg4/MTYtMTMzMzk4MTI2/Ni5qcGVn.jpeg) | 1959-09 | Marty Robbins | Gunfighter Ballads and Trail Songs |
-| 25 |  | 1963 | Johnny Cash | Ring of Fire: The Best of Johnny Cash |
-| 68 |  | 1968 | Johnny Cash | At Folsom Prison |
-| 86 |  | 1969-04-09 | Bob Dylan | Nashville Skyline |
-| 44 |  | 1969-06-17 | Elvis Presley | From Elvis In Memphis |
-| 66 | ![Cover](https://i.discogs.com/N5XaRHW3vEwkwpuM60t_CC9LKwvnFmPe-irqQ4CMzh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI4/MjYtMTQyNDIwNDcy/My0yMjU5LmpwZWc.jpeg) | 1969-09 | Townes Van Zandt | Townes Van Zandt |
-| 82 | ![Cover](https://i.discogs.com/J4KAoOnEUJpFZ7KYNlphmTtEq0BB17Ntyp1NXGGrPMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjgw/MDItMTM5NzEyNTM1/MC0xNzcyLmpwZWc.jpeg) | 1974-02-04 | Dolly Parton | Jolene |
-| 62 |  | 1977-02 | Glen Campbell | Southern Nights |
-| 9 |  | 1978 | Kenny Rogers | The Gambler |
-| 74 | ![Cover](https://i.discogs.com/JmfgJQFGtr4ANnXnqSLLI-Dz8mxXTlEo9B-lBGvK1gw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI0/MzctMTI4OTA1Nzkw/MC5qcGVn.jpeg) | 1980-11-17 | Dolly Parton | 9 To 5 And Odd Jobs |
-| 14 |  | 1994-04-26 | Johnny Cash | American Recordings |
-| 35 |  | 1994-11-01 | Johnny Cash | Super Hits |
-| 3 | ![Cover](https://i.discogs.com/g2HhlL96E3efkwP2vx5vVVFXdah6XEjXpWuAoRu3O-A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzU5/OTEtMTQ2ODgzNzQz/Mi0zMDU0LmpwZWc.jpeg) | 1995 | Skeeter Davis | The Essential Skeeter Davis |
-| 83 |  | 1997-11-04 | Shania Twain | Come on Over |
-| 71 |  | 2000-10-17 | Johnny Cash | American III: Solitary Man |
-| 33 | ![Cover](https://i.discogs.com/v5Mz0jczL-Rx_FJ1fcDKNQEHEt9dATNbd9lRjvR-sI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTAw/NjItMTM5OTQ4NzMz/NC0zNDU2LmpwZWc.jpeg) | 2001 | The Highwaymen | Highwayman |
-| 20 |  | 2001-07-31 | Blake Shelton | Blake Shelton |
-| 95 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d02aeea86757347aa3b1fc3f67f52f44.png) | 2002 | Beyoncé | COWBOY CARTER |
-| 4 |  | 2002-07-23 | Toby Keith | Unleashed |
-| 17 |  | 2002-08-26 | Dixie Chicks | Home |
-| 21 |  | 2002-10-08 | Keith Urban | Golden Road |
-| 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/df687b9f01e138ac58ec071eef3663a0.png) | 2002-11-05 | Johnny Cash | American IV: The Man Comes Around |
-| 96 |  | 2002-11-05 | Johnny Cash | The Man Comes Around |
-| 34 |  | 2003 | Kenny Chesney | When The Sun Goes Down |
-| 8 | ![Cover](https://i.discogs.com/PEuqO19Scl7OQPuvRRvy9Dv3QQD_TxtG68K84SkLQP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjQ0/Ny0xMTMzNDkwNTI2/LmpwZWc.jpeg) | 2004-09-21 | Keith Urban | Be Here |
-| 39 |  | 2004-09-28 | Rascal Flatts | Feels Like Today |
-| 13 |  | 2005-07-26 | Jason Aldean | Jason Aldean |
-| 43 |  | 2005-10-18 | Billy Currington | Doin&#39; Somethin&#39; Right |
-| 46 |  | 2005-10-24 | Johnny Cash | The Legend of Johnny Cash |
-| 89 |  | 2005-11-15 | Carrie Underwood | Some Hearts |
-| 61 |  | 2006-01-24 | Josh Turner | Your Man |
-| 12 | ![Cover](https://i.discogs.com/d4jz55IBo0u7lqN_FlmD5FS8_uL2Y1EugE9U0QfxRoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTQy/Mi0xNDk1Nzk4MjU3/LTQxODYuanBlZw.jpeg) | 2006-04-04 | Dixie Chicks | Taking The Long Way |
-| 73 |  | 2006-04-04 | Rascal Flatts | Me And My Gang |
-| 70 |  | 2006-06-30 | Johnny Cash | American V: A Hundred Highways |
-| 15 |  | 2006-07-18 | Eric Church | Sinners Like Me |
-| 90 | ![Cover](https://i.discogs.com/JxD5S7fGTUnCn7zlkWIoCGVzHbLhE-43sWroV4Q-7RE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODU5/OS0xNDE0MzU0Mjc4/LTg3OTMuanBlZw.jpeg) | 2006-09-02 | Beyoncé | TEXAS HOLD &#39;EM |
-| 99 |  | 2006-10-24 | Taylor Swift | Taylor Swift |
-| 1 |  | 2006-10-27 | Dierks Bentley | Long Trip Alone |
-| 24 |  | 2006-11-07 | Sugarland | Enjoy The Ride |
-| 27 |  | 2007-05-01 | Miranda Lambert | Crazy Ex-Girlfriend |
-| 23 |  | 2007-08-14 | Luke Bryan | I&#39;ll Stay Me |
-| 64 |  | 2007-10-23 | Carrie Underwood | Carnival Ride |
-| 36 | ![Cover](https://i.discogs.com/w29spRnE_-RTxjOP-hjju_JW8muCYIKiXkD54OITH_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjY0/NDctMTMyOTk0MTgw/OS5qcGVn.jpeg) | 2008-04-14 | Lady Antebellum | Lady Antebellum |
-| 67 | ![Cover](https://i.discogs.com/GN59fARaFjmPw2yOnSX0atnbJVYANVH-nLirZw-i7iU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjA1/OTctMTMyMTMwMzA4/My5qcGVn.jpeg) | 2008-09-12 | Taylor Swift | Love Story |
-| 10 |  | 2008-10-14 | Billy Currington | Little Bit of Everything |
-| 97 | ![Cover](https://i.discogs.com/ql9n6cLBgwI9rON0JiGT5ZXxQpb_Nk3_4N_ubq4Gz2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzg3/NTUtMTQ1OTU4MzQ5/MS05NjUyLmpwZWc.jpeg) | 2008-11-11 | Taylor Swift | Fearless |
-| 29 | ![Cover](https://i.discogs.com/GEWOKAluDni4aPsi-zWQckhr1MFFzUKOi4-4uMzFqvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjQw/MzgtMTU5NTY4Mzg1/My05NzY4LmpwZWc.jpeg) | 2009 | Luke Bryan | Doin&#39; My Thing |
-| 37 | ![Cover](https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg) | 2009 | Various Artists | Cars (Original Motion Picture Soundtrack) |
-| 19 |  | 2009-03-31 | Rodney Atkins | It&#39;s America |
-| 48 |  | 2009-04-07 | Jason Aldean | Wide Open |
-| 56 | ![Cover](https://i.discogs.com/FLOdEfPsayepMGtnKjsEHJEOtS004aA3HCjzr6hZbGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTE4/MzkyLTE2MzY1MDc0/NDQtNDI3OC5qcGVn.jpeg) | 2009-07-21 | Jason Aldean | She&#39;s Country |
-| 16 |  | 2009-08-11 | Justin Moore | Justin Moore |
-| 7 |  | 2009-08-31 | Chris Young | The Man I Want To Be |
-| 18 |  | 2009-09-24 | Miranda Lambert | Revolution |
-| 5 |  | 2009-10-20 | Tim McGraw | Southern Voice |
-| 50 |  | 2009-11-03 | Carrie Underwood | Play On |
-| 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/388662d19544edecc966d5147a738e4d.png) | 2010 | Taylor Swift | Speak Now (Deluxe Package) |
-| 41 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e055c85aecbc445ca7a083897ef63dd8.png) | 2010-02-22 | Johnny Cash | American VI: Ain&#39;t No Grave |
-| 77 | ![Cover](https://i.discogs.com/eWJu2GxxCQYdtKND1cb6klDpX973de3NYgLqpHdKt7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjI1/MjUtMTI2NjE3NDY3/MC5qcGVn.jpeg) | 2010-06-29 | Lady Antebellum | Need You Now |
-| 28 |  | 2010-10-12 | The Band Perry | The Band Perry EP |
-| 55 | ![Cover](https://i.discogs.com/cJ4JSi1WvsZnsLmLXDcBOxsxrjz8J0v5v1E3C5m6bhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTk2/NDgtMTMzOTI0OTI3/Mi03NjUzLmpwZWc.jpeg) | 2010-10-12 | The Band Perry | The Band Perry |
-| 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/88b646daa5e6626399ccd002ba67e50d.png) | 2010-10-25 | Taylor Swift | Speak Now (Deluxe Edition) |
-| 98 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a9ff4f81e3402e5fdd3c8e85681ad606.png) | 2010-10-25 | Taylor Swift | Speak Now |
-| 40 |  | 2010-11-02 | Jason Aldean | My Kinda Party |
-| 45 | ![Cover](https://i.discogs.com/MAOdJcKFlyySdMv2VQmSMj_YADgXZQjfCB9ke8J5HB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODQz/NTEtMTY3NTA0NTQy/NC02MDg1LmpwZWc.jpeg) | 2011-06-27 | Lady Gaga | JOANNE (Deluxe) |
-| 58 |  | 2011-07-22 | Eric Church | Chief |
-| 63 |  | 2011-08-09 | Luke Bryan | Tailgates &amp; Tanlines |
-| 26 |  | 2011-08-26 | Jake Owen | Barefoot Blue Jean Night |
-| 2 |  | 2011-09-13 | Lady Antebellum | Own the Night |
-| 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ae5d22987f89445da85a6ec7d2bbc668.png) | 2011-11-19 | Phillip Phillips | The World from the Side of the Moon |
-| 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3727b95c9ccb4b9a894ae15fe3db1319.png) | 2011-11-21 | Taylor Swift | Speak Now World Tour Live |
-| 30 | ![Cover](https://i.discogs.com/bfbD78NH5MC0-cIkwVIbwDixcnV7KNdF599N4SQlfAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzU4/MDgtMTMzNTk1NDk3/My5qcGVn.jpeg) | 2012-05-01 | Carrie Underwood | Blown Away |
-| 88 |  | 2012-08-10 | Taylor Swift | Red |
-| 80 |  | 2012-08-14 | Taylor Swift | We Are Never Ever Getting Back Together |
-| 53 |  | 2013-03-19 | Kacey Musgraves | Same Trailer Different Park |
-| 31 |  | 2013-04-08 | Luke Bryan | Crash My Party |
-| 6 |  | 2013-05-17 | Darius Rucker | True Believers |
-| 72 | ![Cover](https://i.discogs.com/oRJy2mbZchwPGoOMJHogsR2-rQ6HIfCE9Y72_vZ870o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODc3/MjgtMTUyNDY5MzUy/NS03MjIxLmpwZWc.jpeg) | 2015 | Chris Stapleton | Traveller |
-| 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/744ac6c94364403d9549af2cb7aef775.png) | 2015 | Taylor Swift | The Hunger Games: Songs from District 12 and Beyond |
-| 32 | ![Cover](https://i.discogs.com/OBjs-71k39_eY-qfcLdypsF1ss2BeDz2LgqZX5TK9yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDY2/MzQtMTI1MTU4MTU0/Ni5qcGVn.jpeg) | 2016 | Eagles | Hotel California (Remastered) |
-| 51 | ![Cover](https://i.discogs.com/MNTBgFTWcBU-SYAS0wdGpyhrE8mBIhFwOv97uZ_5uLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM5/My0xNTc0NDU0NDEy/LTYyOTYuanBlZw.jpeg) | 2016 | Beyoncé | 16 caRriAGeS |
-| 85 | ![Cover](https://i.discogs.com/OXDxN7-Ws3x-PBSe52nwitDqnNUq0ONETh7hAb9n2Mc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzIx/NzIzLTE1MDMwNzUy/MzUtNzkzNi5qcGVn.jpeg) | 2017-09-29 | Miley Cyrus | Younger Now |
-| 49 | ![Cover](https://i.discogs.com/jbNF0W7gAelI_MzEiKPmxmKO0DcBA-I8Zz2bFftHEu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjM0/MjM1LTE2MTgxMjQ0/ODQtNzAyNS5qcGVn.jpeg) | 2017-11-10 | Taylor Swift | Fearless (Platinum Edition) |
-| 76 | ![Cover](https://i.discogs.com/mKPn53KzMbCzhuodWXdTBvstE0dhJ2ZEkQ9Nm7JU-MQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE0/NzY0LTE1NTM3Njcy/NDMtNjk4Ni5qcGVn.jpeg) | 2018 | Dan + Shay | Tequila |
-| 100 | ![Cover](https://i.discogs.com/7MF-NXTXhzAIKhCSTIZwYLkc9iA9zhcbNTjg4x6iXLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ1/NTAwLTE2MTU2NzQx/NjAtMjgwOS5qcGVn.jpeg) | 2018 | Lil Nas X | Old Town Road |
-| 11 | ![Cover](https://i.discogs.com/O2IHScUtHgfyN0pFaKjRxGF91OYYJ4vzJfTxuK55VqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQ5/MDkwLTE1MTc1OTcw/OTQtMzY3My5qcGVn.jpeg) | 2018-02-02 | Justin Timberlake | Man of the Woods |
-| 60 | ![Cover](https://i.discogs.com/CNC-_baPUek4ARTLi3SqmvjgKteWNTHMiLmXZAdPVKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzc2/NjgyLTE1NDYwMjg3/MTktODk0MC5qcGVn.jpeg) | 2018-03-30 | Kacey Musgraves | Golden Hour |
-| 52 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/56a3dc32cdceee45a49b20cf5a97313a.png) | 2018-09-07 | Paul McCartney | Ram (Archive Collection) |
-| 75 | ![Cover](https://i.discogs.com/iIVbiWm8uCR22hntsJ5Qc8BMK6jqXY2I9OOywSzVCd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTY5/MTIzLTE1OTc3ODgx/NjctOTI3MC5qcGVn.jpeg) | 2018-10-05 | Lady Gaga | a star is born soundtrack |
-| 65 | ![Cover](https://i.discogs.com/vkFXzyKO9RcxgrqowKgIb7z7-rQkCcT30O4Ysthqdu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgw/ODczLTE1NTgzODQ3/MDctNjg4My5qcGVn.jpeg) | 2019-03-22 | Orville Peck | Pony |
-| 47 | ![Cover](https://i.discogs.com/b_VQtnIunjHqFTzlXpg621rpcfsa8J6cWE3pLeOCgRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQw/NzQwLTE1NjIzMzA5/NzAtNTg0OS5qcGVn.jpeg) | 2020-08-21 | Taylor Swift | The Taylor Swift Holiday Collection |
-| 69 | ![Cover](https://i.discogs.com/l3qWKcYAhB5ByBcUBiGtDspBcTzc7h7ww7cSmva-kok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjg3/NzIyLTE2MzkwNjcz/ODUtMTk3MS5qcGVn.jpeg) | 2021 | Olivia Rodrigo | The Hunger Games: The Ballad of Songbirds &amp; Snakes (Music From &amp; Inspired By) |
-| 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/191adf8abb015054473562220d813fe7.png) | 2021 | Taylor Swift | If This Was a Movie (Taylor’s Version) |
-| 87 | ![Cover](https://i.discogs.com/jbNF0W7gAelI_MzEiKPmxmKO0DcBA-I8Zz2bFftHEu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjM0/MjM1LTE2MTgxMjQ0/ODQtNzAyNS5qcGVn.jpeg) | 2021-04-09 | Taylor Swift | Fearless (Taylor&#39;s Version) |
-| 57 | ![Cover](https://i.discogs.com/ibULTMUOo8W1q7bLohMD7mJ4cc1jUQeql1jxT3bS2aI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTY5/MzI3LTE2Mjk3NDQy/MDQtODQxNC5qcGVn.jpeg) | 2021-09-10 | Kacey Musgraves | star-crossed |
-| 42 | ![Cover](https://i.discogs.com/eZHasrE8LkIOSY-PBzIRN5eusy_4uvO43Ea5Oc-xo_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjc3/MDE2LTE2NjExNTYw/ODQtMTEwNi5qcGVn.jpeg) | 2022-07-15 | Zach Bryan | Summertime Blues |
-| 59 | ![Cover](https://i.discogs.com/Bm7868uFw_hMScxYPwZ_0rFODgx5IS2PaX-nSxciens/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTc5/MzczLTE2Njg1NzQ0/MTMtODE4Ni5qcGVn.jpeg) | 2022-09-21 | P!nk | Funhouse (Expanded Edition) |
-| 92 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/caa5a586b599869e10542593928b5fdf.png) | 2022-11 | Taylor Swift | Speak Now (Taylor&#39;s Version) |
-| 84 | ![Cover](https://i.discogs.com/hD1hjaVCEi1NQ9siuy0Mf4Ma0K-CKQQrx_MGtKyWbDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTI4/NzYwLTE2OTM0NjY1/ODYtMTI3Ny5wbmc.jpeg) | 2023-08-25 | Zach Bryan | Zach Bryan |
-| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/55be76f23e745b72d6c0cb1474fb2a4b.png) |  | Chris Young | The Man I Want to Be |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/6cEsYgX6bfLKPoMhNHrXfjq09jSXcycuCVLQktp03tU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTg4/MTYtMTMzMzk4MTI2/Ni5qcGVn.jpeg" alt="Cover for Gunfighter Ballads and Trail Songs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1959-09</td>
+      <td>Marty Robbins</td>
+      <td>Gunfighter Ballads and Trail Songs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western" | relative_url }}">western</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/classic-country" | relative_url }}">classic country</a> # 45</li>
+            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td>1963</td>
+      <td>Johnny Cash</td>
+      <td>Ring of Fire: The Best of Johnny Cash</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td>1968</td>
+      <td>Johnny Cash</td>
+      <td>At Folsom Prison</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td>1969-04-09</td>
+      <td>Bob Dylan</td>
+      <td>Nashville Skyline</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>1969-06-17</td>
+      <td>Elvis Presley</td>
+      <td>From Elvis In Memphis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 26</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/N5XaRHW3vEwkwpuM60t_CC9LKwvnFmPe-irqQ4CMzh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI4/MjYtMTQyNDIwNDcy/My0yMjU5LmpwZWc.jpeg" alt="Cover for Townes Van Zandt" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969-09</td>
+      <td>Townes Van Zandt</td>
+      <td>Townes Van Zandt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ad2d125c8db89da058cdd2568c96ad0.png" alt="Cover for Jolene" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974-02-04</td>
+      <td>Dolly Parton</td>
+      <td>Jolene</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td>1977-02</td>
+      <td>Glen Campbell</td>
+      <td>Southern Nights</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 10</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 95</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 99</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+      </td>
+      <td>1978</td>
+      <td>Kenny Rogers</td>
+      <td>The Gambler</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/JmfgJQFGtr4ANnXnqSLLI-Dz8mxXTlEo9B-lBGvK1gw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI0/MzctMTI4OTA1Nzkw/MC5qcGVn.jpeg" alt="Cover for 9 To 5 And Odd Jobs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980-11-17</td>
+      <td>Dolly Parton</td>
+      <td>9 To 5 And Odd Jobs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td>1994-04-26</td>
+      <td>Johnny Cash</td>
+      <td>American Recordings</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td>1994-11-01</td>
+      <td>Johnny Cash</td>
+      <td>Super Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28f10cf43e62bca4bd47d254cf621eb3.png" alt="Cover for The Essential Skeeter Davis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Skeeter Davis</td>
+      <td>The Essential Skeeter Davis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b126d3d411d5fa010ec3e4788591119.png" alt="Cover for Come on Over" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-11-04</td>
+      <td>Shania Twain</td>
+      <td>Come on Over</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td>2000-10-17</td>
+      <td>Johnny Cash</td>
+      <td>American III: Solitary Man</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/v5Mz0jczL-Rx_FJ1fcDKNQEHEt9dATNbd9lRjvR-sI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTAw/NjItMTM5OTQ4NzMz/NC0zNDU2LmpwZWc.jpeg" alt="Cover for Highwayman" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>The Highwaymen</td>
+      <td>Highwayman</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td>2001-07-31</td>
+      <td>Blake Shelton</td>
+      <td>Blake Shelton</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d02aeea86757347aa3b1fc3f67f52f44.png" alt="Cover for COWBOY CARTER" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Beyoncé</td>
+      <td>COWBOY CARTER</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td>2002-07-23</td>
+      <td>Toby Keith</td>
+      <td>Unleashed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td>2002-08-26</td>
+      <td>Dixie Chicks</td>
+      <td>Home</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 25</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td>2002-10-08</td>
+      <td>Keith Urban</td>
+      <td>Golden Road</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df687b9f01e138ac58ec071eef3663a0.png" alt="Cover for American IV: The Man Comes Around" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-11-05</td>
+      <td>Johnny Cash</td>
+      <td>American IV: The Man Comes Around</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td>2002-11-05</td>
+      <td>Johnny Cash</td>
+      <td>The Man Comes Around</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Kenny Chesney</td>
+      <td>When The Sun Goes Down</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/PEuqO19Scl7OQPuvRRvy9Dv3QQD_TxtG68K84SkLQP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjQ0/Ny0xMTMzNDkwNTI2/LmpwZWc.jpeg" alt="Cover for Be Here" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-09-21</td>
+      <td>Keith Urban</td>
+      <td>Be Here</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td>2004-09-28</td>
+      <td>Rascal Flatts</td>
+      <td>Feels Like Today</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td>2005-07-26</td>
+      <td>Jason Aldean</td>
+      <td>Jason Aldean</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td>2005-10-18</td>
+      <td>Billy Currington</td>
+      <td>Doin&#39; Somethin&#39; Right</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+      </td>
+      <td>2005-10-24</td>
+      <td>Johnny Cash</td>
+      <td>The Legend of Johnny Cash</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7caaf35b42fe4b458dedc3dec6e58a3b.png" alt="Cover for Some Hearts" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-11-15</td>
+      <td>Carrie Underwood</td>
+      <td>Some Hearts</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 17</li>
+            <li> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td>2006-01-24</td>
+      <td>Josh Turner</td>
+      <td>Your Man</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/d4jz55IBo0u7lqN_FlmD5FS8_uL2Y1EugE9U0QfxRoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTQy/Mi0xNDk1Nzk4MjU3/LTQxODYuanBlZw.jpeg" alt="Cover for Taking The Long Way" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-04-04</td>
+      <td>Dixie Chicks</td>
+      <td>Taking The Long Way</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td>2006-04-04</td>
+      <td>Rascal Flatts</td>
+      <td>Me And My Gang</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td>2006-06-30</td>
+      <td>Johnny Cash</td>
+      <td>American V: A Hundred Highways</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+      </td>
+      <td>2006-07-18</td>
+      <td>Eric Church</td>
+      <td>Sinners Like Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/JxD5S7fGTUnCn7zlkWIoCGVzHbLhE-43sWroV4Q-7RE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODU5/OS0xNDE0MzU0Mjc4/LTg3OTMuanBlZw.jpeg" alt="Cover for TEXAS HOLD &#39;EM" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-09-02</td>
+      <td>Beyoncé</td>
+      <td>TEXAS HOLD &#39;EM</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d60d9367bceb0ee1eb97a11033fa37ed.png" alt="Cover for Taylor Swift" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-10-24</td>
+      <td>Taylor Swift</td>
+      <td>Taylor Swift</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 24</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2006-10-27</td>
+      <td>Dierks Bentley</td>
+      <td>Long Trip Alone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td>2006-11-07</td>
+      <td>Sugarland</td>
+      <td>Enjoy The Ride</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td>2007-05-01</td>
+      <td>Miranda Lambert</td>
+      <td>Crazy Ex-Girlfriend</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+      </td>
+      <td>2007-08-14</td>
+      <td>Luke Bryan</td>
+      <td>I&#39;ll Stay Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8034761756b405f885ccc8c2563909a.png" alt="Cover for Carnival Ride" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-10-23</td>
+      <td>Carrie Underwood</td>
+      <td>Carnival Ride</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a> # 42</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/w29spRnE_-RTxjOP-hjju_JW8muCYIKiXkD54OITH_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjY0/NDctMTMyOTk0MTgw/OS5qcGVn.jpeg" alt="Cover for Lady Antebellum" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-04-14</td>
+      <td>Lady Antebellum</td>
+      <td>Lady Antebellum</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/GN59fARaFjmPw2yOnSX0atnbJVYANVH-nLirZw-i7iU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjA1/OTctMTMyMTMwMzA4/My5qcGVn.jpeg" alt="Cover for Love Story" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-09-12</td>
+      <td>Taylor Swift</td>
+      <td>Love Story</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+      </td>
+      <td>2008-10-14</td>
+      <td>Billy Currington</td>
+      <td>Little Bit of Everything</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/acdd1489ea27beb10b07c58ffdb99a83.png" alt="Cover for Fearless" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-11-11</td>
+      <td>Taylor Swift</td>
+      <td>Fearless</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Cars (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Various Artists</td>
+      <td>Cars (Original Motion Picture Soundtrack)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 45</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/GEWOKAluDni4aPsi-zWQckhr1MFFzUKOi4-4uMzFqvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjQw/MzgtMTU5NTY4Mzg1/My05NzY4LmpwZWc.jpeg" alt="Cover for Doin&#39; My Thing" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Luke Bryan</td>
+      <td>Doin&#39; My Thing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td>2009-03-31</td>
+      <td>Rodney Atkins</td>
+      <td>It&#39;s America</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+      </td>
+      <td>2009-04-07</td>
+      <td>Jason Aldean</td>
+      <td>Wide Open</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/FLOdEfPsayepMGtnKjsEHJEOtS004aA3HCjzr6hZbGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTE4/MzkyLTE2MzY1MDc0/NDQtNDI3OC5qcGVn.jpeg" alt="Cover for She&#39;s Country" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-07-21</td>
+      <td>Jason Aldean</td>
+      <td>She&#39;s Country</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td>2009-08-11</td>
+      <td>Justin Moore</td>
+      <td>Justin Moore</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td>2009-08-31</td>
+      <td>Chris Young</td>
+      <td>The Man I Want To Be</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b628f3b29714a10ab77682592a03325.png" alt="Cover for Revolution" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-09-24</td>
+      <td>Miranda Lambert</td>
+      <td>Revolution</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td>2009-10-20</td>
+      <td>Tim McGraw</td>
+      <td>Southern Voice</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cc2119838d1689b4ad65c47c829f967.png" alt="Cover for Play On" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-11-03</td>
+      <td>Carrie Underwood</td>
+      <td>Play On</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/388662d19544edecc966d5147a738e4d.png" alt="Cover for Speak Now (Deluxe Package)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Taylor Swift</td>
+      <td>Speak Now (Deluxe Package)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 46</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e055c85aecbc445ca7a083897ef63dd8.png" alt="Cover for American VI: Ain&#39;t No Grave" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-02-22</td>
+      <td>Johnny Cash</td>
+      <td>American VI: Ain&#39;t No Grave</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e693b627d4bc40c6a149883ca8e69d4d.png" alt="Cover for Need You Now" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-06-29</td>
+      <td>Lady Antebellum</td>
+      <td>Need You Now</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08e1c049ca5f4ca1a985c5c91308bf08.png" alt="Cover for The Band Perry EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-10-12</td>
+      <td>The Band Perry</td>
+      <td>The Band Perry EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a32b64e415377eedf80237b27c3c48de.png" alt="Cover for The Band Perry" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-10-12</td>
+      <td>The Band Perry</td>
+      <td>The Band Perry</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88b646daa5e6626399ccd002ba67e50d.png" alt="Cover for Speak Now (Deluxe Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-10-25</td>
+      <td>Taylor Swift</td>
+      <td>Speak Now (Deluxe Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9ff4f81e3402e5fdd3c8e85681ad606.png" alt="Cover for Speak Now" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-10-25</td>
+      <td>Taylor Swift</td>
+      <td>Speak Now</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td>2010-11-02</td>
+      <td>Jason Aldean</td>
+      <td>My Kinda Party</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/MAOdJcKFlyySdMv2VQmSMj_YADgXZQjfCB9ke8J5HB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODQz/NTEtMTY3NTA0NTQy/NC02MDg1LmpwZWc.jpeg" alt="Cover for JOANNE (Deluxe)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-06-27</td>
+      <td>Lady Gaga</td>
+      <td>JOANNE (Deluxe)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+      </td>
+      <td>2011-07-22</td>
+      <td>Eric Church</td>
+      <td>Chief</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td>2011-08-09</td>
+      <td>Luke Bryan</td>
+      <td>Tailgates &amp; Tanlines</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td>2011-08-26</td>
+      <td>Jake Owen</td>
+      <td>Barefoot Blue Jean Night</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 53</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td>2011-09-13</td>
+      <td>Lady Antebellum</td>
+      <td>Own the Night</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3727b95c9ccb4b9a894ae15fe3db1319.png" alt="Cover for Speak Now World Tour Live" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-11-21</td>
+      <td>Taylor Swift</td>
+      <td>Speak Now World Tour Live</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/978150f141d968173232ae7d2ed7615f.png" alt="Cover for Blown Away" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-05-01</td>
+      <td>Carrie Underwood</td>
+      <td>Blown Away</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad99371a89ed925f63ee3737b4bf9908.png" alt="Cover for Red" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-08-10</td>
+      <td>Taylor Swift</td>
+      <td>Red</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f86f7ae6b696182dca49318423f71144.png" alt="Cover for We Are Never Ever Getting Back Together" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-08-14</td>
+      <td>Taylor Swift</td>
+      <td>We Are Never Ever Getting Back Together</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td>2013-03-19</td>
+      <td>Kacey Musgraves</td>
+      <td>Same Trailer Different Park</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td>2013-04-08</td>
+      <td>Luke Bryan</td>
+      <td>Crash My Party</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>2013-05-17</td>
+      <td>Darius Rucker</td>
+      <td>True Believers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/oRJy2mbZchwPGoOMJHogsR2-rQ6HIfCE9Y72_vZ870o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODc3/MjgtMTUyNDY5MzUy/NS03MjIxLmpwZWc.jpeg" alt="Cover for Traveller" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Chris Stapleton</td>
+      <td>Traveller</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/744ac6c94364403d9549af2cb7aef775.png" alt="Cover for The Hunger Games: Songs from District 12 and Beyond" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Taylor Swift</td>
+      <td>The Hunger Games: Songs from District 12 and Beyond</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef5d6cf8102d955c49d01b86de4dffc7.png" alt="Cover for Hotel California (Remastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Eagles</td>
+      <td>Hotel California (Remastered)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/MNTBgFTWcBU-SYAS0wdGpyhrE8mBIhFwOv97uZ_5uLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM5/My0xNTc0NDU0NDEy/LTYyOTYuanBlZw.jpeg" alt="Cover for 16 caRriAGeS" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Beyoncé</td>
+      <td>16 caRriAGeS</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42d1ce13bd83008eb4170de723aee7a4.png" alt="Cover for Younger Now" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-09-29</td>
+      <td>Miley Cyrus</td>
+      <td>Younger Now</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/jbNF0W7gAelI_MzEiKPmxmKO0DcBA-I8Zz2bFftHEu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjM0/MjM1LTE2MTgxMjQ0/ODQtNzAyNS5qcGVn.jpeg" alt="Cover for Fearless (Platinum Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-11-10</td>
+      <td>Taylor Swift</td>
+      <td>Fearless (Platinum Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/mKPn53KzMbCzhuodWXdTBvstE0dhJ2ZEkQ9Nm7JU-MQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE0/NzY0LTE1NTM3Njcy/NDMtNjk4Ni5qcGVn.jpeg" alt="Cover for Tequila" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Dan + Shay</td>
+      <td>Tequila</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 50</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 85</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c23e1f5f19d37f609dfe4aabf78b7480.png" alt="Cover for Old Town Road" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Lil Nas X</td>
+      <td>Old Town Road</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9683a9156e85b5c1d7cd06ea823fb36d.png" alt="Cover for Man of the Woods" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-02-02</td>
+      <td>Justin Timberlake</td>
+      <td>Man of the Woods</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/010b2d7d5791836d72544fbe41f59440.png" alt="Cover for Golden Hour" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-03-30</td>
+      <td>Kacey Musgraves</td>
+      <td>Golden Hour</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 13</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56a3dc32cdceee45a49b20cf5a97313a.png" alt="Cover for Ram (Archive Collection)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-09-07</td>
+      <td>Paul McCartney</td>
+      <td>Ram (Archive Collection)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/iIVbiWm8uCR22hntsJ5Qc8BMK6jqXY2I9OOywSzVCd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTY5/MTIzLTE1OTc3ODgx/NjctOTI3MC5qcGVn.jpeg" alt="Cover for a star is born soundtrack" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-10-05</td>
+      <td>Lady Gaga</td>
+      <td>a star is born soundtrack</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/vkFXzyKO9RcxgrqowKgIb7z7-rQkCcT30O4Ysthqdu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgw/ODczLTE1NTgzODQ3/MDctNjg4My5qcGVn.jpeg" alt="Cover for Pony" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-03-22</td>
+      <td>Orville Peck</td>
+      <td>Pony</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 31</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 90</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 96</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/634310fe6132b419ae59b0a832b65e68.png" alt="Cover for The Taylor Swift Holiday Collection" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-08-21</td>
+      <td>Taylor Swift</td>
+      <td>The Taylor Swift Holiday Collection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/l3qWKcYAhB5ByBcUBiGtDspBcTzc7h7ww7cSmva-kok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjg3/NzIyLTE2MzkwNjcz/ODUtMTk3MS5qcGVn.jpeg" alt="Cover for The Hunger Games: The Ballad of Songbirds &amp; Snakes (Music From &amp; Inspired By)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>Olivia Rodrigo</td>
+      <td>The Hunger Games: The Ballad of Songbirds &amp; Snakes (Music From &amp; Inspired By)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 73</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 95</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/191adf8abb015054473562220d813fe7.png" alt="Cover for If This Was a Movie (Taylor’s Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>Taylor Swift</td>
+      <td>If This Was a Movie (Taylor’s Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1aaa3638ee0bfee0ba8089c78ad63b26.png" alt="Cover for Fearless (Taylor&#39;s Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-04-09</td>
+      <td>Taylor Swift</td>
+      <td>Fearless (Taylor&#39;s Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
+            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 93</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/ibULTMUOo8W1q7bLohMD7mJ4cc1jUQeql1jxT3bS2aI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTY5/MzI3LTE2Mjk3NDQy/MDQtODQxNC5qcGVn.jpeg" alt="Cover for star-crossed" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-09-10</td>
+      <td>Kacey Musgraves</td>
+      <td>star-crossed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 75</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/eZHasrE8LkIOSY-PBzIRN5eusy_4uvO43Ea5Oc-xo_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjc3/MDE2LTE2NjExNTYw/ODQtMTEwNi5qcGVn.jpeg" alt="Cover for Summertime Blues" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-07-15</td>
+      <td>Zach Bryan</td>
+      <td>Summertime Blues</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/Bm7868uFw_hMScxYPwZ_0rFODgx5IS2PaX-nSxciens/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTc5/MzczLTE2Njg1NzQ0/MTMtODE4Ni5qcGVn.jpeg" alt="Cover for Funhouse (Expanded Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-09-21</td>
+      <td>P!nk</td>
+      <td>Funhouse (Expanded Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 76</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 88</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 88</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 97</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/caa5a586b599869e10542593928b5fdf.png" alt="Cover for Speak Now (Taylor&#39;s Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-11</td>
+      <td>Taylor Swift</td>
+      <td>Speak Now (Taylor&#39;s Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 62</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/hD1hjaVCEi1NQ9siuy0Mf4Ma0K-CKQQrx_MGtKyWbDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTI4/NzYwLTE2OTM0NjY1/ODYtMTI3Ny5wbmc.jpeg" alt="Cover for Zach Bryan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-08-25</td>
+      <td>Zach Bryan</td>
+      <td>Zach Bryan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 98</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2003714981df86c07fefbe62f98f7b6a.png" alt="Cover for From Elvis in Memphis" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Elvis Presley</td>
+      <td>From Elvis in Memphis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55be76f23e745b72d6c0cb1474fb2a4b.png" alt="Cover for The Man I Want to Be" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Chris Young</td>
+      <td>The Man I Want to Be</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
