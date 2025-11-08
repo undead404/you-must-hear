@@ -1,118 +1,1984 @@
 ---
 category: genre
-date: 2025-10-25T06:35:32.148Z
+date: 2025-11-08T04:03:48.534Z
 permalink: tags/italian
 title: italian
 ---
 
 ## italian
 
-Last updated: <time datetime="2025-10-25T06:35:32.148Z">Sat Oct 25 2025 09:35:32 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-08T04:03:48.534Z">Sat Nov 08 2025 06:03:48 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Italian music encompasses a rich tradition blending operatic vocal techniques with contemporary pop, rock, and electronic sounds. The genre reflects Italy&#39;s deep cultural heritage through melodic, emotionally expressive singing often accompanied by accordion, mandolin, and synthesizers. It ranges from romantic ballads to experimental fusion, maintaining distinct Mediterranean character.
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 3 | ![Cover](https://i.discogs.com/ElsBr46Gx635PW5gMG6tf3dkgDkmhhAJaoDcto2jKCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDk5/ODMtMTQxNDc3MDc0/MC01NjkxLmpwZWc.jpeg) | 1961 | Ornella Vanoni | Ornella Vanoni |
-| 71 | ![Cover](https://i.discogs.com/grnEdM2aPAzNrqq-6iA7YTKMolnhgh1BW6y_ew4xFlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDMz/NzctMTI4OTY3MzE5/OC5qcGVn.jpeg) | 1970-11 | Fabrizio De André | La Buona Novella |
-| 63 |  | 1974 | Fabrizio De André | Canzoni |
-| 60 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8ffd31abb8fa4980c9043f1fefbdc828.png) | 1974-07 | Rino Gaetano | Ingresso libero |
-| 77 |  | 1976 | Rino Gaetano | Mio fratello è figlio unico |
-| 45 |  | 1980-02 | Lucio Battisti | Una Giornata Uggiosa |
-| 55 | ![Cover](https://i.discogs.com/OiRgce3rqwMh7HsPLUcmols5ZNya_wxJJtBrdn9Di5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzIw/ODgtMTU2MzA5Nzk4/NC0yNjM5LmpwZWc.jpeg) | 1980-04-01 | Edoardo Bennato | Sono Solo Canzonette |
-| 95 | ![Cover](https://i.discogs.com/eFTaNTkzbB-B9Ex1cvggjiCAmqKOftAJQcnhOA3hAMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQ1/NjAtMTQxNTA0NjE5/OC04ODcyLmpwZWc.jpeg) | 1985 | Anna | VERA BADDIE |
-| 13 |  | 1990 | Vasco Rossi | Fronte Del Palco |
-| 74 | ![Cover](https://i.discogs.com/uHuz9nfkV7WQnJHZGxppAw-0AI0s-MWdwiauy_zo9hY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTU0/MjMtMTU0MDA2OTQ3/Mi04NDQ4LmpwZWc.jpeg) | 1990 | Paolo Conte | Best Of |
-| 17 |  | 1993 | 883 | Nord Sud Ovest Est |
-| 27 | ![Cover](https://i.discogs.com/iPl4JAcZpN9oZ1AhkdBXG7NCS6OBdWThVxPE-Asv4h0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjI5/MDItMTUwNTg3MjM5/OS04MDcxLmpwZWc.jpeg) | 1993 | Laura Pausini | The Best of Laura Pausini |
-| 32 |  | 1993-04-19 | Eros Ramazzotti | Tutte Storie |
-| 98 |  | 1993-05-18 | Laura Pausini | Laura Pausini |
-| 28 |  | 1994 | Fiorella Mannoia | Le Canzoni |
-| 23 | ![Cover](https://i.discogs.com/lJT0t7IEwhyIuRR3_LcYjrvf0acJq2mcrrcFxjxlRig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTk1/ODAtMTE4NDc1Mjk5/MC5qcGVn.jpeg) | 1995 | Cosmo | COSMOTRONIC |
-| 24 | ![Cover](https://i.discogs.com/GFlywSXy-2gTey3w6JpaYvcO1PwY9N6qK63iPn4E-4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDUy/OTQtMTQ1MDU1OTc2/NC03MjI1LmpwZWc.jpeg) | 1995 | Zucchero | ZU &amp; Co. |
-| 2 |  | 1996 | Andrea Bocelli | Viaggio Italiano |
-| 14 | ![Cover](https://i.discogs.com/UlpM_Zmg7PAJevI82ua4Yk6DcTV44faZuf28KZQ5YmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjQy/NjE4LTE2ODkwNjg2/OTUtMzYxNS5qcGVn.jpeg) | 1996 | Eros Ramazzotti | Dove ce musica |
-| 19 | ![Cover](https://i.discogs.com/w9foN2YWy6ckjijGW-P51bOYoV0CL56FrtexdJOoGbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjE3/NTMtMTQ4NTc4MzE4/Ni00NDAwLmpwZWc.jpeg) | 1996 | Gigi D&#39;Agostino | The Essential Gigi D\&#39;Agostino |
-| 34 |  | 1996 | Paolo Conte | The Best Of |
-| 61 | ![Cover](https://i.discogs.com/ZL8fEpCUe265oN99Phc9DqH8ieDr0cSA1EI8j18myZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTc4/ODQtMTQxODcwNDcx/OS0xODY3LmpwZWc.jpeg) | 1996 | Nek | Lei, gli amici e tutto il resto |
-| 96 | ![Cover](https://i.discogs.com/9hZVs89tjB6Il6DJkn13JgcchmqigwLyiCqkz2FkizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTQ5/Ni0xMjQ3NDcwNDU4/LmpwZWc.jpeg) | 1996 | Andrea Bocelli | Romanza |
-| 5 |  | 1996-05-13 | Eros Ramazzotti | Dove c&#39;è musica |
-| 82 |  | 1996-09-19 | Fabrizio De André | Anime salve |
-| 85 |  | 1997 | Samuele Bersani | Samuele Bersani |
-| 56 |  | 1997-10-27 | Eros Ramazzotti | Eros |
-| 18 |  | 1998-10-15 | Laura Pausini | La mia risposta |
-| 30 | ![Cover](https://i.discogs.com/McoeEIFIX1-tyGRe8nw750manMdjkOsplGmOnu3q4fk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzUw/MTAtMTY3MjY0Nzc3/NS0zMTU5LmpwZWc.jpeg) | 1998-11 | Alex Britti | it.pop |
-| 47 |  | 1998-11-17 | Francesco De Gregori | Curve Nella Memoria |
-| 90 | ![Cover](https://i.discogs.com/_Rpcd2x_aay9RF8lMTGzgskNcXQERi_tGAm_JOnegtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTU3/MTgtMTMyODMxMDYx/Mi5qcGVn.jpeg) | 1999-08-26 | Subsonica | Microchip Emozionale |
-| 65 |  | 1999-10-22 | Franco Battiato | Fleurs |
-| 11 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ecd2528d18f8446c9e6f3e8ae884c3e2.png) | 2000 | Franco Battiato | La Cura |
-| 33 | ![Cover](https://i.discogs.com/UzlMmG1API1G7dqhfgXFzFIk9WZ8zfcsA0CXw-G3pJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDA1/OC0xMzcxNTQyMDk2/LTU2MjAuanBlZw.jpeg) | 2000 | Eros Ramazzotti | Stilelibero |
-| 49 | ![Cover](https://i.discogs.com/x1SXroHi7FoKQrYL0573Y7r7jevfcxgXJTy-fDGCrjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg4/MzgtMTY3ODU0Mzgx/MC00NDY4LmpwZWc.jpeg) | 2000 | Andrea Bocelli | Vivere |
-| 51 | ![Cover](https://i.discogs.com/CQZZx75pb_cuqJ48OAvv3gDzijFeTdAD_DbreZNmcyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTU3/MC0xNDczMzU3MTEw/LTgzMDUuanBlZw.jpeg) | 2000 | Gigi D&#39;Agostino | Top 100 Greatest Dance Hits |
-| 52 | ![Cover](https://i.discogs.com/aSCdtewa4Cgq-oYmsrsPOX7-V_jsC5XYCMNqpYCYD5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjI1/MzEtMTIyMTU1Nzkz/NS5qcGVn.jpeg) | 2000 | Marlene Kuntz | Che Cosa Vedi |
-| 68 | ![Cover](https://i.discogs.com/6pAtNwuSB96EE5FFQkbbsmZyJ6di4kPLFjosDNr854w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDE5/NDYtMTMwMTY3MzUw/NS5qcGVn.jpeg) | 2000 | Tonino Carotone | Mondo Difficile |
-| 15 | ![Cover](https://i.discogs.com/zQ4K1qND4YpyhD3Nwj97iR_x25hJDy8heLnxhMNuFi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzY1/NzMtMTM4NzAxNjQx/My0yMjc4LmpwZWc.jpeg) | 2001 | Laura Pausini | Lo Mejor de Laura Pausini - Volveré Junto a Ti |
-| 20 | ![Cover](https://i.discogs.com/d2bLRzS4l_omD_2nnADDbGoiRVuswgqIPGmt1tQchBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTQy/NTktMTMwMTM4NzU5/Ni5qcGVn.jpeg) | 2001 | Ludovico Einaudi | Diario Mali |
-| 76 | ![Cover](https://i.discogs.com/aHR1AT9iwIcQkHn1KcedkJd0f6YpfPP5D2JVcJV1ueE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODY3/NDgtMTM1Nzk4NjA2/NC03Mzk3LmpwZWc.jpeg) | 2001 | Rino Gaetano | Mio Fratello E&#39; Figlio Unico |
-| 86 | ![Cover](https://i.discogs.com/4p1KQ0xDb7CcEGF6gSrdSvm4r-NMWjLiSPgb5nQY-_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzU1/NDAtMTQ4OTI2NTE5/Ni00MDgxLmpwZWc.jpeg) | 2001 | Laura Pausini | E ritorno da te |
-| 1 |  | 2002 | Marco Masini | Collezione |
-| 69 |  | 2002-03-28 | Articolo 31 | Domani Smetto |
-| 50 | ![Cover](https://i.discogs.com/1Fpvh1Cc5uo3i489FI0qJmn00VoPuMCl2Az5Kb7GGvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTg3/MS0xMTk0NDcwODI2/LmpwZWc.jpeg) | 2002-06-28 | Tiziano Ferro | Rosso relativo |
-| 8 | ![Cover](https://i.discogs.com/2dtu6pBYqnxz9BKwk4SquZ5IrmGlGFbPDJ2pgxybuV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTY0/MzYtMTUzMTA3OTMy/My0xNjk5LmpwZWc.jpeg) | 2002-11-15 | Cesare Cremonini | Bagus |
-| 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/beadc5db9ea679a840d427f73123e795.png) | 2003 | Zucchero | Greatest Hits |
-| 21 |  | 2003-02 | Marta Sui Tubi | Muscoli e dei |
-| 72 |  | 2003-11 | Elisa | Lotus |
-| 75 | ![Cover](https://i.discogs.com/GLO07BEPOyLEcPIA-57AaL7shmy3rFnB9xVzw_lfY5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDY2/NTAtMTIwNDkyNjYy/MS5qcGVn.jpeg) | 2003-11-07 | Tiziano Ferro | 111 Centoundici |
-| 81 | ![Cover](https://i.discogs.com/9agRXUWU48-KJpPGtxTyqlKUEkorh4F3pFUqbjhaUZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcx/NzktMTI5NTQ5MTM0/MC5qcGVn.jpeg) | 2004 | Laura Pausini | Escucha |
-| 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bf732607034a47eba0002e3ed7832f4e.png) | 2004-01-26 | Gianna Nannini | Perle |
-| 22 |  | 2004-05-28 | Max Pezzali | Il mondo insieme a te |
-| 9 |  | 2004-10-15 | Talco | Tutti Assolti |
-| 38 | ![Cover](https://i.discogs.com/jYWvKSHhgCxq8aqHE832fnMzkGp8xgD4G9mmcrT6DsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjYw/MDAtMTU0ODQ3NTAw/MC0xNjg5LmpwZWc.jpeg) | 2004-10-15 | Elisa | Pearl Days |
-| 84 | ![Cover](https://i.discogs.com/1WJ0OmNE2T1IA6xDrrKNOUmstQwoKvKwSDPz8BCM_3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTM3/MC0xNTU1MTYzMTQ5/LTQ3MTguanBlZw.jpeg) | 2004-10-22 | Laura Pausini | Resta in ascolto |
-| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a24f218ec0a94c52cce62097f8f234d9.png) | 2005-03-07 | Offlaga Disco Pax | Socialismo Tascabile (Prove Tecniche di Trasmissione) |
-| 79 |  | 2005-04-11 | Planet Funk | The Illogical Consequence |
-| 73 |  | 2005-04-22 | Subsonica | Terrestre |
-| 36 |  | 2005-06-10 | Cesare Cremonini | Maggese |
-| 87 |  | 2005-10 | Baustelle | La malavita |
-| 31 |  | 2005-10-14 | Marta Sui Tubi | C&#39;è gente che deve dormire |
-| 70 | ![Cover](https://i.discogs.com/XJUHDzrnZ3oZUbVJGDpfSycUYMHxjg2pRoqoeo3t370/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/MjUtMTQ5OTI2ODI5/OC0xMTUxLmpwZWc.jpeg) | 2006 | Laura Pausini | Live in Paris |
-| 29 |  | 2006-01-20 | Vinicio Capossela | Ovunque Proteggi |
-| 7 |  | 2006-03 | Vittorio Grigolo | In The Hands Of Love |
-| 67 | ![Cover](https://i.discogs.com/5E4HDZQffAro58dyoV2JTXh_9ixwFKrN2QUROAkGtds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODk2/MTQtMTI1MDM2MTk0/MC5qcGVn.jpeg) | 2006-07-28 | Gianna Nannini | Grazie |
-| 40 |  | 2006-10-10 | Talco | Combat Circus |
-| 89 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6ccb61a0748d45f68b9b905496840172.png) | 2006-10-23 | Antonello Venditti | Diamanti |
-| 6 |  | 2007 | Dente | Non c&#39;è due senza te |
-| 59 |  | 2007-02-09 | Tre allegri ragazzi morti | La seconda rivoluzione sessuale |
-| 46 |  | 2007-03-16 | Biagio Antonacci | Vicky Love |
-| 4 | ![Cover](https://i.discogs.com/Bjdei1O_mTnN8TxS1Yb_HuffqetJvhNvmmkphbZ1fD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzk2/NjAtMTM4MzkzOTMy/Ni0yNjI4LmpwZWc.jpeg) | 2007-05-27 | Max Pezzali | Love Life |
-| 44 |  | 2007-06-08 | Negramaro | La Finestra |
-| 10 |  | 2007-11-02 | Anna Tatangelo | Mai dire mai |
-| 53 |  | 2007-11-23 | Zucchero | All The Best |
-| 66 | ![Cover](https://i.discogs.com/ztlVg4vAIj303j-qIUTsaEipGZ6BJM3MUXcBVSRM0Hg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDE1/OTktMTYxOTk2NjI2/OS05MDI5LmpwZWc.jpeg) | 2007-11-23 | Subsonica | L&#39;Eclissi |
-| 88 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c6b51873758f8b7c5e72c7e64b05ea27.png) | 2007-11-30 | Eros Ramazzotti | E2 |
-| 16 |  | 2008 | Vasco Rossi | Il Mondo Che Vorrei |
-| 91 |  | 2008 | Laura Pausini | Primavera Anticipada |
-| 97 | ![Cover](https://i.discogs.com/iu58SrCqCR-sVvGtLRKqYn3L866YrUGXzPn9RLV7x7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE5/OTEzLTE2NDI3MDk1/MTEtMTUyNy5qcGVn.jpeg) | 2008-01-18 | Jovanotti | Safari |
-| 41 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7e966f58db2070618b8fec97e0137bff.png) | 2008-04-11 | Caparezza | Le Dimensioni Del Mio Caos |
-| 42 | ![Cover](https://i.discogs.com/ZhKdM0xiEEqJMYXDf91Z_VcCCRToNqaA-AeoEQJxz74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzEy/OTUtMTUwNjEwMzUx/Ny00NTg1LmpwZWc.jpeg) | 2008-07-15 | Elisa | Dancing |
-| 93 |  | 2008-11-14 | Laura Pausini | Primavera in anticipo |
-| 35 |  | 2013-03-19 | Marco Mengoni | #PRONTOACORRERE |
-| 99 |  | 2014-03-22 | Kid Francescoli | With Julia |
-| 37 |  | 2014-04-22 | Caparezza | Museica |
-| 39 | ![Cover](https://i.discogs.com/V-Jlq2VC68Lmd5KiKX1mBrkFyqhElDXGTE8WWI5N9T0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM4/Mjg0LTE1NzA0Nzcx/MTktNTM2NC5wbmc.jpeg) | 2015-01-13 | Marco Mengoni | Parole in circolo |
-| 57 | ![Cover](https://i.discogs.com/xf0N5QRhFxRpsp5BL7gHrEna38McnwcXYFc4y7kUu2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA0/MTY3LTE1NDAzODYx/NTMtNjgyMi5qcGVn.jpeg) | 2015-05-18 | Antonio Giacca | Sensation |
-| 26 | ![Cover](https://i.discogs.com/jaFqP5A-llq1w0VvP55Kd0PCnOKhPkKISCJN2FKs-W0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDEw/NDQtMTQ1NTkxMzcy/NS0yNzMxLmpwZWc.jpeg) | 2015-10-24 | Francesca Michielin | DI20ARE |
-| 94 | ![Cover](https://i.discogs.com/iI7xI9Wc43KLH5Q71PJZjd_lKPOtk_twTedOmArRmiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjEw/MzAtMTU0MDAzMDk3/My02MDMwLmpwZWc.jpeg) | 2016 | Sfera Ebbasta | Sfera Ebbasta |
-| 58 | ![Cover](https://i.discogs.com/ytT8hNnjTwPaFWsiP4J5m_TKJbEfboLDiTl0DcIPvko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDE2/NTEwLTE0OTU2OTY2/NDUtNjc0My5qcGVn.jpeg) | 2017 | TEDUA | Orange County California |
-| 25 | ![Cover](https://i.discogs.com/v7oy3ZL0mzhUvt4c8vrL43g8HO1VWiJiLr5NeXnTcxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA3/MjQwLTE1MTU3ODc3/ODEtNDA2Ni5qcGVn.jpeg) | 2018-01-12 | Francesca Michielin | 2640 |
-| 43 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3e039da5b12594d2e4b4d381960a4ae0.png) | 2018-08-09 | Slander | Kneel Before Me |
-| 54 | ![Cover](https://i.discogs.com/Fp6UH7LVPxJlxQBRU0ROBCfMl_8lx88BhHpoRqZyIdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIz/NzQ1LTE1NzAxOTgz/ODgtOTExOC5qcGVn.jpeg) | 2019-10 | Jovanotti | Buon Sangue |
-| 48 | ![Cover](https://i.discogs.com/eivWrUomxhYAl9fkR-bXfTmgzMU5q_m2a2v3n5lwp34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTcw/NjQ5LTE1NzczNTAx/MTUtMzgxMi5qcGVn.jpeg) | 2019-11-29 | Diodato | Che vita meravigliosa |
-| 78 | ![Cover](https://i.discogs.com/NFONzwNCYJdqU6NpJCDh34gPErIKa9LYatTPuCIzzhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODk3/MzI2LTE2MTYwNzIx/MzItNzA3MC5qcGVn.jpeg) | 2021 | Madame | Madame |
-| 100 |  | 2021-03-19 | Måneskin | Teatro d&#39;Ira - Vol. I |
-| 92 | ![Cover](https://i.discogs.com/kHYp72aeVEi0dUZLkDl4UxsDAKZstRvCSMvQ9yXfb4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQz/ODI1LTE2NjUxMDY5/NDAtODQ1OS5qcGVn.jpeg) | 2022-10-07 | Marco Mengoni | MATERIA (PELLE) |
-| 83 | ![Cover](https://i.discogs.com/K3GrvBhT7Gc1szZ0d336jUKuC1FLM3F8o-yJz9K_sIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDMy/Njc1LTE2OTY1MjMz/NzMtMjEwNS5qcGVn.jpeg) | 2023 | Annalisa | E poi siamo finiti nel vortice |
-| 64 | ![Cover](https://i.discogs.com/qjBjDIV69ypFL0D7Bn-87at1eiy_sWyBtNRKLgMnI94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDY1/NDg1LTE3MTc0MjUw/NTYtNTExNS5wbmc.jpeg) | 2024-03-08 | Rose Villain | Radio Sakura |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/ElsBr46Gx635PW5gMG6tf3dkgDkmhhAJaoDcto2jKCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDk5/ODMtMTQxNDc3MDc0/MC01NjkxLmpwZWc.jpeg" alt="Cover for Ornella Vanoni" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1961</td>
+      <td>Ornella Vanoni</td>
+      <td>Ornella Vanoni</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/grnEdM2aPAzNrqq-6iA7YTKMolnhgh1BW6y_ew4xFlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDMz/NzctMTI4OTY3MzE5/OC5qcGVn.jpeg" alt="Cover for La Buona Novella" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1970-11</td>
+      <td>Fabrizio De André</td>
+      <td>La Buona Novella</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td>1974</td>
+      <td>Fabrizio De André</td>
+      <td>Canzoni</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ffd31abb8fa4980c9043f1fefbdc828.png" alt="Cover for Ingresso libero" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974-07</td>
+      <td>Rino Gaetano</td>
+      <td>Ingresso libero</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>1976</td>
+      <td>Rino Gaetano</td>
+      <td>Mio fratello è figlio unico</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td>1980-02</td>
+      <td>Lucio Battisti</td>
+      <td>Una Giornata Uggiosa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/OiRgce3rqwMh7HsPLUcmols5ZNya_wxJJtBrdn9Di5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzIw/ODgtMTU2MzA5Nzk4/NC0yNjM5LmpwZWc.jpeg" alt="Cover for Sono Solo Canzonette" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980-04-01</td>
+      <td>Edoardo Bennato</td>
+      <td>Sono Solo Canzonette</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9067c0efda83165213dfe7f8505c918d.png" alt="Cover for VERA BADDIE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985</td>
+      <td>Anna</td>
+      <td>VERA BADDIE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>Vasco Rossi</td>
+      <td>Fronte Del Palco</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/uHuz9nfkV7WQnJHZGxppAw-0AI0s-MWdwiauy_zo9hY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTU0/MjMtMTU0MDA2OTQ3/Mi04NDQ4LmpwZWc.jpeg" alt="Cover for Best Of" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Paolo Conte</td>
+      <td>Best Of</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>883</td>
+      <td>Nord Sud Ovest Est</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06a64384940345ac96f72cb2f5c43877.png" alt="Cover for The Best of Laura Pausini" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Laura Pausini</td>
+      <td>The Best of Laura Pausini</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83263ba67d121c70a1ab6794fa72b4d4.png" alt="Cover for Tutte Storie" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-04-19</td>
+      <td>Eros Ramazzotti</td>
+      <td>Tutte Storie</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31dc9056dfba432ec388f0fcc95a90f1.png" alt="Cover for Laura Pausini" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-05-18</td>
+      <td>Laura Pausini</td>
+      <td>Laura Pausini</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Fiorella Mannoia</td>
+      <td>Le Canzoni</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0594eb348146e11637c944c1b86cad6c.png" alt="Cover for COSMOTRONIC" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Cosmo</td>
+      <td>COSMOTRONIC</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/GFlywSXy-2gTey3w6JpaYvcO1PwY9N6qK63iPn4E-4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDUy/OTQtMTQ1MDU1OTc2/NC03MjI1LmpwZWc.jpeg" alt="Cover for ZU &amp; Co." style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Zucchero</td>
+      <td>ZU &amp; Co.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Andrea Bocelli</td>
+      <td>Viaggio Italiano</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 50</li>
+            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/9hZVs89tjB6Il6DJkn13JgcchmqigwLyiCqkz2FkizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTQ5/Ni0xMjQ3NDcwNDU4/LmpwZWc.jpeg" alt="Cover for Romanza" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Andrea Bocelli</td>
+      <td>Romanza</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 57</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/UlpM_Zmg7PAJevI82ua4Yk6DcTV44faZuf28KZQ5YmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjQy/NjE4LTE2ODkwNjg2/OTUtMzYxNS5qcGVn.jpeg" alt="Cover for Dove ce musica" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Eros Ramazzotti</td>
+      <td>Dove ce musica</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/w9foN2YWy6ckjijGW-P51bOYoV0CL56FrtexdJOoGbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjE3/NTMtMTQ4NTc4MzE4/Ni00NDAwLmpwZWc.jpeg" alt="Cover for The Essential Gigi D\&#39;Agostino" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Gigi D&#39;Agostino</td>
+      <td>The Essential Gigi D\&#39;Agostino</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Paolo Conte</td>
+      <td>The Best Of</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/ZL8fEpCUe265oN99Phc9DqH8ieDr0cSA1EI8j18myZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTc4/ODQtMTQxODcwNDcx/OS0xODY3LmpwZWc.jpeg" alt="Cover for Lei, gli amici e tutto il resto" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Nek</td>
+      <td>Lei, gli amici e tutto il resto</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f4b6e470473b9c24167c7a98b03d4e0.png" alt="Cover for Dove c&#39;è musica" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-05-13</td>
+      <td>Eros Ramazzotti</td>
+      <td>Dove c&#39;è musica</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>1996-09-19</td>
+      <td>Fabrizio De André</td>
+      <td>Anime salve</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Samuele Bersani</td>
+      <td>Samuele Bersani</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td>1997-10-27</td>
+      <td>Eros Ramazzotti</td>
+      <td>Eros</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1118dfaa3f06481ac873b720363fcb0e.png" alt="Cover for La mia risposta" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-10-15</td>
+      <td>Laura Pausini</td>
+      <td>La mia risposta</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>1998-11-17</td>
+      <td>Francesco De Gregori</td>
+      <td>Curve Nella Memoria</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/McoeEIFIX1-tyGRe8nw750manMdjkOsplGmOnu3q4fk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzUw/MTAtMTY3MjY0Nzc3/NS0zMTU5LmpwZWc.jpeg" alt="Cover for it.pop" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-11</td>
+      <td>Alex Britti</td>
+      <td>it.pop</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/_Rpcd2x_aay9RF8lMTGzgskNcXQERi_tGAm_JOnegtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTU3/MTgtMTMyODMxMDYx/Mi5qcGVn.jpeg" alt="Cover for Microchip Emozionale" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-08-26</td>
+      <td>Subsonica</td>
+      <td>Microchip Emozionale</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbe5164f4a708f63e40331328d129f07.png" alt="Cover for Fleurs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-10-22</td>
+      <td>Franco Battiato</td>
+      <td>Fleurs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecd2528d18f8446c9e6f3e8ae884c3e2.png" alt="Cover for La Cura" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Franco Battiato</td>
+      <td>La Cura</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70252b8f3493aee3667344135dc7095c.png" alt="Cover for Stilelibero" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Eros Ramazzotti</td>
+      <td>Stilelibero</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/CQZZx75pb_cuqJ48OAvv3gDzijFeTdAD_DbreZNmcyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTU3/MC0xNDczMzU3MTEw/LTgzMDUuanBlZw.jpeg" alt="Cover for Top 100 Greatest Dance Hits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Gigi D&#39;Agostino</td>
+      <td>Top 100 Greatest Dance Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/6pAtNwuSB96EE5FFQkbbsmZyJ6di4kPLFjosDNr854w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDE5/NDYtMTMwMTY3MzUw/NS5qcGVn.jpeg" alt="Cover for Mondo Difficile" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Tonino Carotone</td>
+      <td>Mondo Difficile</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/x1SXroHi7FoKQrYL0573Y7r7jevfcxgXJTy-fDGCrjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg4/MzgtMTY3ODU0Mzgx/MC00NDY4LmpwZWc.jpeg" alt="Cover for Vivere" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Andrea Bocelli</td>
+      <td>Vivere</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/aSCdtewa4Cgq-oYmsrsPOX7-V_jsC5XYCMNqpYCYD5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjI1/MzEtMTIyMTU1Nzkz/NS5qcGVn.jpeg" alt="Cover for Che Cosa Vedi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Marlene Kuntz</td>
+      <td>Che Cosa Vedi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2000-06-09</td>
+      <td>Vinicio Capossela</td>
+      <td>Canzoni a manovella</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 70</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db1adbee39494f60cfc8f10d52febf60.png" alt="Cover for Lo Mejor de Laura Pausini - Volveré Junto a Ti" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Laura Pausini</td>
+      <td>Lo Mejor de Laura Pausini - Volveré Junto a Ti</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europop" | relative_url }}">europop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 78</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/d2bLRzS4l_omD_2nnADDbGoiRVuswgqIPGmt1tQchBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTQy/NTktMTMwMTM4NzU5/Ni5qcGVn.jpeg" alt="Cover for Diario Mali" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Ludovico Einaudi</td>
+      <td>Diario Mali</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harp" | relative_url }}">harp</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 35</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 57</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/aHR1AT9iwIcQkHn1KcedkJd0f6YpfPP5D2JVcJV1ueE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODY3/NDgtMTM1Nzk4NjA2/NC03Mzk3LmpwZWc.jpeg" alt="Cover for Mio Fratello E&#39; Figlio Unico" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Rino Gaetano</td>
+      <td>Mio Fratello E&#39; Figlio Unico</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fe49ed06aebb1a10db5178ca17f62b8.png" alt="Cover for E ritorno da te" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Laura Pausini</td>
+      <td>E ritorno da te</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>Marco Masini</td>
+      <td>Collezione</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td>2002-03-28</td>
+      <td>Articolo 31</td>
+      <td>Domani Smetto</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/610ddde6763e47b7c7216b25cdc4108b.png" alt="Cover for Rosso relativo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-06-28</td>
+      <td>Tiziano Ferro</td>
+      <td>Rosso relativo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 29</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 64</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 84</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54f558afd11cfaa76d64c73dd74f753d.png" alt="Cover for Bagus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-11-15</td>
+      <td>Cesare Cremonini</td>
+      <td>Bagus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 73</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/beadc5db9ea679a840d427f73123e795.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Zucchero</td>
+      <td>Greatest Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td>2003-02</td>
+      <td>Marta Sui Tubi</td>
+      <td>Muscoli e dei</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 77</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 85</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7933da0549354cb5cc0a80128f0b3cef.png" alt="Cover for 111 Centoundici" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-11-07</td>
+      <td>Tiziano Ferro</td>
+      <td>111 Centoundici</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/576fc7422add49939497bcd53a0fa8f7.png" alt="Cover for Lotus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-11</td>
+      <td>Elisa</td>
+      <td>Lotus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/9agRXUWU48-KJpPGtxTyqlKUEkorh4F3pFUqbjhaUZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcx/NzktMTI5NTQ5MTM0/MC5qcGVn.jpeg" alt="Cover for Escucha" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Laura Pausini</td>
+      <td>Escucha</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 11</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf732607034a47eba0002e3ed7832f4e.png" alt="Cover for Perle" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-01-26</td>
+      <td>Gianna Nannini</td>
+      <td>Perle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td>2004-05-28</td>
+      <td>Max Pezzali</td>
+      <td>Il mondo insieme a te</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+      </td>
+      <td>2004-10-15</td>
+      <td>Talco</td>
+      <td>Tutti Assolti</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/jYWvKSHhgCxq8aqHE832fnMzkGp8xgD4G9mmcrT6DsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjYw/MDAtMTU0ODQ3NTAw/MC0xNjg5LmpwZWc.jpeg" alt="Cover for Pearl Days" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-10-15</td>
+      <td>Elisa</td>
+      <td>Pearl Days</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12b64a564467beb6520024b43c1c12c2.png" alt="Cover for Resta in ascolto" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-10-22</td>
+      <td>Laura Pausini</td>
+      <td>Resta in ascolto</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a24f218ec0a94c52cce62097f8f234d9.png" alt="Cover for Socialismo Tascabile (Prove Tecniche di Trasmissione)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-03-07</td>
+      <td>Offlaga Disco Pax</td>
+      <td>Socialismo Tascabile (Prove Tecniche di Trasmissione)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td>2005-04-11</td>
+      <td>Planet Funk</td>
+      <td>The Illogical Consequence</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td>2005-04-22</td>
+      <td>Subsonica</td>
+      <td>Terrestre</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>2005-06-10</td>
+      <td>Cesare Cremonini</td>
+      <td>Maggese</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td>2005-10-14</td>
+      <td>Marta Sui Tubi</td>
+      <td>C&#39;è gente che deve dormire</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td>2005-10</td>
+      <td>Baustelle</td>
+      <td>La malavita</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/XJUHDzrnZ3oZUbVJGDpfSycUYMHxjg2pRoqoeo3t370/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/MjUtMTQ5OTI2ODI5/OC0xMTUxLmpwZWc.jpeg" alt="Cover for Live in Paris" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Laura Pausini</td>
+      <td>Live in Paris</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 49</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td>2006-01-20</td>
+      <td>Vinicio Capossela</td>
+      <td>Ovunque Proteggi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td>2006-03</td>
+      <td>Vittorio Grigolo</td>
+      <td>In The Hands Of Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/5E4HDZQffAro58dyoV2JTXh_9ixwFKrN2QUROAkGtds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODk2/MTQtMTI1MDM2MTk0/MC5qcGVn.jpeg" alt="Cover for Grazie" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-07-28</td>
+      <td>Gianna Nannini</td>
+      <td>Grazie</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td>2006-10-10</td>
+      <td>Talco</td>
+      <td>Combat Circus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ccb61a0748d45f68b9b905496840172.png" alt="Cover for Diamanti" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-10-23</td>
+      <td>Antonello Venditti</td>
+      <td>Diamanti</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Dente</td>
+      <td>Non c&#39;è due senza te</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>2007-02-09</td>
+      <td>Tre allegri ragazzi morti</td>
+      <td>La seconda rivoluzione sessuale</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 92</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td>2007-03-16</td>
+      <td>Biagio Antonacci</td>
+      <td>Vicky Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/Bjdei1O_mTnN8TxS1Yb_HuffqetJvhNvmmkphbZ1fD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzk2/NjAtMTM4MzkzOTMy/Ni0yNjI4LmpwZWc.jpeg" alt="Cover for Love Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-05-27</td>
+      <td>Max Pezzali</td>
+      <td>Love Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+      </td>
+      <td>2007-06-08</td>
+      <td>Negramaro</td>
+      <td>La Finestra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+      </td>
+      <td>2007-11-02</td>
+      <td>Anna Tatangelo</td>
+      <td>Mai dire mai</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 62</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+      </td>
+      <td>2007-11-23</td>
+      <td>Zucchero</td>
+      <td>All The Best</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/ztlVg4vAIj303j-qIUTsaEipGZ6BJM3MUXcBVSRM0Hg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDE1/OTktMTYxOTk2NjI2/OS05MDI5LmpwZWc.jpeg" alt="Cover for L&#39;Eclissi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-11-23</td>
+      <td>Subsonica</td>
+      <td>L&#39;Eclissi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6b51873758f8b7c5e72c7e64b05ea27.png" alt="Cover for E2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-11-30</td>
+      <td>Eros Ramazzotti</td>
+      <td>E2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f97a942099e27628050d36ac454f089.png" alt="Cover for Primavera Anticipada" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Laura Pausini</td>
+      <td>Primavera Anticipada</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 20</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Vasco Rossi</td>
+      <td>Il Mondo Che Vorrei</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/iu58SrCqCR-sVvGtLRKqYn3L866YrUGXzPn9RLV7x7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE5/OTEzLTE2NDI3MDk1/MTEtMTUyNy5qcGVn.jpeg" alt="Cover for Safari" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-01-18</td>
+      <td>Jovanotti</td>
+      <td>Safari</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f316312127ba4527910be201d80a223f.png" alt="Cover for Dancing" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-07-15</td>
+      <td>Elisa</td>
+      <td>Dancing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89d8b1da767f4de3994c221fb07dc609.png" alt="Cover for Primavera in anticipo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-11-14</td>
+      <td>Laura Pausini</td>
+      <td>Primavera in anticipo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td>2013-03-19</td>
+      <td>Marco Mengoni</td>
+      <td>#PRONTOACORRERE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a682258c706e463cc65f96dee41c2f00.png" alt="Cover for With Julia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-03-22</td>
+      <td>Kid Francescoli</td>
+      <td>With Julia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td>2014-04-22</td>
+      <td>Caparezza</td>
+      <td>Museica</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/634d300eaf206fdd34b058df057ce76f.png" alt="Cover for Parole in circolo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-01-13</td>
+      <td>Marco Mengoni</td>
+      <td>Parole in circolo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/xf0N5QRhFxRpsp5BL7gHrEna38McnwcXYFc4y7kUu2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA0/MTY3LTE1NDAzODYx/NTMtNjgyMi5qcGVn.jpeg" alt="Cover for Sensation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-05-18</td>
+      <td>Antonio Giacca</td>
+      <td>Sensation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/jaFqP5A-llq1w0VvP55Kd0PCnOKhPkKISCJN2FKs-W0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDEw/NDQtMTQ1NTkxMzcy/NS0yNzMxLmpwZWc.jpeg" alt="Cover for DI20ARE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-10-24</td>
+      <td>Francesca Michielin</td>
+      <td>DI20ARE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de50f77b76a03cf9989af16080402e74.png" alt="Cover for Sfera Ebbasta" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Sfera Ebbasta</td>
+      <td>Sfera Ebbasta</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0eeb5b58f3fd5d942d6d74ece65d5550.png" alt="Cover for Orange County California" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>TEDUA</td>
+      <td>Orange County California</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e3b67511590bd9003cc1a2283dd821a.png" alt="Cover for 2640" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-01-12</td>
+      <td>Francesca Michielin</td>
+      <td>2640</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e039da5b12594d2e4b4d381960a4ae0.png" alt="Cover for Kneel Before Me" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-08-09</td>
+      <td>Slander</td>
+      <td>Kneel Before Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/Fp6UH7LVPxJlxQBRU0ROBCfMl_8lx88BhHpoRqZyIdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIz/NzQ1LTE1NzAxOTgz/ODgtOTExOC5qcGVn.jpeg" alt="Cover for Buon Sangue" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-10</td>
+      <td>Jovanotti</td>
+      <td>Buon Sangue</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d4b742b312f3dd956d901d74911b299.png" alt="Cover for Che vita meravigliosa" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-11-29</td>
+      <td>Diodato</td>
+      <td>Che vita meravigliosa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce0cb6215effd0815ef2fda536b20131.png" alt="Cover for Madame" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>Madame</td>
+      <td>Madame</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td>2021-03-19</td>
+      <td>Måneskin</td>
+      <td>Teatro d&#39;Ira - Vol. I</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 94</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0f516632dc6ff2ae8f08c8934b83730.png" alt="Cover for MATERIA (PELLE)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-10-07</td>
+      <td>Marco Mengoni</td>
+      <td>MATERIA (PELLE)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26646eb9c9ad213d6e997ac4350b35ac.png" alt="Cover for E poi siamo finiti nel vortice" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Annalisa</td>
+      <td>E poi siamo finiti nel vortice</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/qjBjDIV69ypFL0D7Bn-87at1eiy_sWyBtNRKLgMnI94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDY1/NDg1LTE3MTc0MjUw/NTYtNTExNS5wbmc.jpeg" alt="Cover for Radio Sakura" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-03-08</td>
+      <td>Rose Villain</td>
+      <td>Radio Sakura</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
