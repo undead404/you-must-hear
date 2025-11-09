@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T11:00:51.001Z
+date: 2025-11-08T15:24:14.913Z
 permalink: tags/korean
 title: korean
 ---
 
 ## korean
 
-Last updated: <time datetime="2025-11-01T11:00:51.001Z">Sat Nov 01 2025 13:00:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-08T15:24:14.913Z">Sat Nov 08 2025 17:24:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
   </thead>
   <tbody>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/BmEO_8IpI4oECDeA94c5alETV2g6_X7bLKnTUgsRXss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzM2/NzM0LTE1ODk5Mzc1/OTYtNTUxNS5qcGVn.jpeg" alt="Cover for Spit it Out" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/289a4b1915e48bb7259330a842378a13.png" alt="Cover for Spit it Out" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Solar</td>
@@ -52,26 +52,6 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 80</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 95</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 95</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
-      <td>
-          <img src="https://i.discogs.com/stxOlbnuT0qNVz-511xZKiqVQfyzSWr2AFnr12zH9ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTcx/NTQtMTUyODMyOTEz/My04MzE2LmpwZWc.jpeg" alt="Cover for Queendom - The 6th Mini Album" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Red Velvet</td>
-      <td>Queendom - The 6th Mini Album</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -122,7 +102,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/l84Z1rBZEYQIE6SQ2ZO12X74BoSbfchtPXE5blBbAaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjAy/MS0xNjkwNDk1OTkz/LTYyOTkucG5n.jpeg" alt="Cover for SEVENTEEN 10th Mini Album &#39;FML&#39;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f0e40052937d61cc566fcd62e0e7bd6.png" alt="Cover for SEVENTEEN 10th Mini Album &#39;FML&#39;" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Seventeen</td>
@@ -160,7 +140,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/JFEbelHYd2XbhcGVsO_mugp2FsrFH6AA9pVVxCpnlxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAw/MTc3LTE1NDIxOTc4/MDYtNDQzMy5qcGVn.jpeg" alt="Cover for HATE XX" style="max-width:120px; height:auto;" />
       </td>
@@ -179,7 +159,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/oqJGjZeUeL7fAGybbuKiWdixEuFy1YgDqV9OFVqsBL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTI0/NjgtMTMxNTMxMTYx/NS5qcGVn.jpeg" alt="Cover for ˣ‿ˣ (SMiLEY)" style="max-width:120px; height:auto;" />
       </td>
@@ -200,7 +180,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/Yftdn6_AGPgoQIYRZEwlCNfBmC9Pxc6zywXhEAqozUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODQ4/MzU3LTE2ODE5MjYy/NjktNjY5OS5wbmc.jpeg" alt="Cover for THE BOYZ 3rd Single Album [MAVERICK]" style="max-width:120px; height:auto;" />
       </td>
@@ -219,7 +199,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/_Ml50wPVTuiQMWADkTRlBeE4FlqfCLCGKSF92exMOIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc5/ODE5LTE0OTYzMjEw/NjEtOTU2Ny5qcGVn.jpeg" alt="Cover for Birthday" style="max-width:120px; height:auto;" />
       </td>
@@ -241,9 +221,9 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/Sri3wrgQG-G4FcllK1f-VR0Y35aV-k7VKiLjTxrmy1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDY5/MzAtMTI2MDY1ODYw/Ni5naWY.jpeg" alt="Cover for Goblin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14be12ed3b7f1430db734c34fca0d63e.png" alt="Cover for Goblin" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-01-23</td>
       <td>Sulli</td>
@@ -369,7 +349,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/bWEhQTbobotlHchwmQfAu-AHCahqfxijaAGbbViEQgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODQx/NjQtMTUzMjUxNjk2/Ny0zNjEyLmpwZWc.jpeg" alt="Cover for [+ +]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad2f42cfa70d7fe14ca91ae784cc38b8.png" alt="Cover for [+ +]" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-05-27</td>
       <td>Loona</td>
@@ -386,9 +366,9 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/2XUXmqNwScMpXLtmUXl8Vv5TMqRSkZXB6jjn5u2Afvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg5/ODI5LTE1Njk1NDEw/MDEtNTk2My5qcGVn.jpeg" alt="Cover for We BOOM - The 3rd Mini Album" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d69c5ca95d0b1aac216b3cee5d9bf3b3.png" alt="Cover for We BOOM - The 3rd Mini Album" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-27</td>
       <td>NCT DREAM</td>
@@ -404,12 +384,12 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 21</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/x9L1AWKfXC0e9HWGhPYJznny9vM8TzKXsVPCQu8kG2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTcy/ODYzLTE1MDc0Njc5/MjUtMzIzNi5qcGVn.jpeg" alt="Cover for Miss Me?" style="max-width:120px; height:auto;" />
       </td>
@@ -429,7 +409,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/QcUqfjS6ISMfASgVvfN_VQroO8VKjIXLkz2AyqvBn0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA3/ODYxLTE0OTg4ODM3/MTAtNDUzNC5qcGVn.jpeg" alt="Cover for Palette" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8d279f03485bc6df179d0fcf4bb08f0.png" alt="Cover for Palette" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-21</td>
       <td>IU</td>
@@ -448,9 +428,9 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/rllNwqDebndz_pBqpVt3Z4qMl724SKbq4-0BqKZ66h8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI1/NzAtMTQ4Nzg5NjMw/My03MjM2LmpwZWc.jpeg" alt="Cover for NCT#127 LIMITLESS - The 2nd Mini Album" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3139556807ae012f06d65ed1e2a7233c.png" alt="Cover for NCT#127 LIMITLESS - The 2nd Mini Album" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-14</td>
       <td>NCT 127</td>
@@ -467,7 +447,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/RKCAYIlg7W21zxtesf3v6ebZmAJ1X85URwtiWpVOjNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTU1/MjM1LTE1OTU0MzY1/NjAtOTk0MS5wbmc.jpeg" alt="Cover for Love Yourself 承 &#39;Her&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -486,7 +466,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/uGpPR9-q11myj2gYwc-VQwnJjGLMtaXr__g7PMzXJHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTQx/NDA0LTE2NjQ0NTkz/NDUtMjM5NS5qcGVn.jpeg" alt="Cover for MIXTAPE" style="max-width:120px; height:auto;" />
       </td>
@@ -506,9 +486,9 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/YsXF4PVbaZrsXzAwJ1dWisw3VFWwbqVnSCODZq8m5Zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/NjcyLTE1MjQzMTQx/MTctNDE0Mi5qcGVn.jpeg" alt="Cover for Agust D" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05ed3fae3b45b2fcda6c80e76c4c8aed.png" alt="Cover for Agust D" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-21</td>
       <td>Agust D</td>
@@ -525,9 +505,9 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/GhcghqpKAokd80suhPhDP6Nre2TyKmNoERPy3_brrzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTE4/Njk2LTE1Mzk4MDU1/NzYtMTUyMi5qcGVn.jpeg" alt="Cover for Yellow Flower" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3c91629b0752c82cb522e48525a9bc9.png" alt="Cover for Yellow Flower" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-03-07</td>
       <td>MAMAMOO</td>
@@ -544,7 +524,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/-8UfzC-JuGpiY9FQdofK6zH-NekcoMGogiu40fH1HD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDYw/NzQ1LTE1MzY2MzM2/NjQtNTA5MC5qcGVn.jpeg" alt="Cover for Red Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -582,29 +562,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>56</td>
-      <td>
-          <img src="https://i.discogs.com/lLW12SkIM3FTSdYgwY3n4f3zqtbAUnwe6-ghK4Ro22Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTA3/MTEyLTE2MDA0Mzgy/MjUtNzMyOS5qcGVn.jpeg" alt="Cover for TREASURE EPILOGUE : Action To Answer" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-01-15</td>
-      <td>ATEEZ</td>
-      <td>TREASURE EPILOGUE : Action To Answer</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/_ka0qaGuKSQfq_xwznDF-NGrmvncPrfim8iAkrK5zPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQ4/MjY2LTE1NTgyMzc0/NzUtMjY3Mi5qcGVn.jpeg" alt="Cover for TREASURE EP.2: Zero to One" style="max-width:120px; height:auto;" />
       </td>
@@ -644,7 +602,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/Z6AGLqdHZajmTOnD2CGtvLt7j1XLr-QJQRN68fqV3AU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODA2/Mjk4LTE1NjMzNzQ1/NDEtODc5NC5wbmc.jpeg" alt="Cover for Uh-Oh" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0bcf147a98ee8609d584be18627fb29.png" alt="Cover for Uh-Oh" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-26</td>
       <td>(G)I-DLE</td>
@@ -666,7 +624,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/qvXudG300G_OTteBlN7H8OgrhaZzS-_GCUTIBURAhac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ4/NDE3LTE1ODI3NDkz/MzctOTYwNS5qcGVn.jpeg" alt="Cover for TREASURE EP.FIN: All To Action" style="max-width:120px; height:auto;" />
       </td>
@@ -685,7 +643,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/KcvZo0qhtfr4ocfMxL_6BtsdUvR7HQI1r54fGlAMaNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI5/NDI3LTE0OTk0NzE1/MDgtOTM1OS5qcGVn.jpeg" alt="Cover for TWICETAGRAM" style="max-width:120px; height:auto;" />
       </td>
@@ -703,7 +661,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/VpLLxETkUCxQ7YxpneMSCDztOCIxqjmBO4DPDRZPCLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQz/NTEyLTE1Nzg3NzYw/MjYtODU5My5qcGVn.jpeg" alt="Cover for Clé : Levanter" style="max-width:120px; height:auto;" />
       </td>
@@ -743,7 +701,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/Cdtjawm6tnmBeT6MfDFpGtXPj5fWNmdWLuTKoZfa-9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzEy/NjY5LTE1OTQ0MDA3/MTAtMTM0My5wbmc.jpeg" alt="Cover for NONSTOP" style="max-width:120px; height:auto;" />
       </td>
@@ -762,7 +720,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/EKA0AXfrg9vkNSIBq3IhBb9c3EC4o5zFVegnrRAXJII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYz/MDY0LTE2MDYyMDYw/NDItNTk1Ni5qcGVn.jpeg" alt="Cover for Reload" style="max-width:120px; height:auto;" />
       </td>
@@ -799,9 +757,9 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/FvMphg5y-QhNWdUL3jKs-qkMoqolQDx8M6vFooPhSlE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk2/NTgzLTE1OTc5NTk2/NjctMTM3MS5qcGVn.jpeg" alt="Cover for D-2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2998abc4c73550e78749e21846afa431.png" alt="Cover for D-2" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-22</td>
       <td>Agust D</td>
@@ -820,6 +778,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5fd1e7141882412fa11fb15cd886264.png" alt="Cover for Monster - The 1st Mini Album" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-06</td>
       <td>Red Velvet - IRENE &amp; SEULGI</td>
@@ -874,7 +833,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/TJuRaub-cJJG9zI225fiBEgfc6_--uLMvrcgT9GqWQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk4/MzE4LTE2MDE2NDU3/NDAtMjc3OC5wbmc.jpeg" alt="Cover for The Album" style="max-width:120px; height:auto;" />
       </td>
@@ -888,14 +847,33 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 34</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 37</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 81</li>
             <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/kh0lHfp7thM80ZbqjgmME6I4qNesZ3d-7szxE7k929s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDgx/NTg0LTE2NTk0NzQw/NzAtMTMxMC5qcGVn.jpeg" alt="Cover for DISHARMONY : STAND OUT" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-10-28</td>
+      <td>P1Harmony</td>
+      <td>DISHARMONY : STAND OUT</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/lQEJtzOARASEbZY94ebtI1jVA3Hm9cIBaTg4C4HtXrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzk5/OTM1LTE2MDc1MTk5/NDEtODA0OC5wbmc.jpeg" alt="Cover for One-reeler &#x2F; Act IV" style="max-width:120px; height:auto;" />
       </td>
@@ -914,7 +892,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/zQnRSive8npWSIYASAZlWvsG49PxHSRLpKx1Jl4sySo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjU4/OTQxLTE2MTI0ODE2/MTEtNzc2NS5wbmc.jpeg" alt="Cover for [Dystopia : Road to Utopia]" style="max-width:120px; height:auto;" />
       </td>
@@ -933,7 +911,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/Orv9mbeUb8BbVpNiGvc6aGarrNDHzY1rOM92yEIrE8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDM1/Njg5LTE2MTM0MzU1/MzYtNTI1Mi5qcGVn.jpeg" alt="Cover for Eenie Meenie" style="max-width:120px; height:auto;" />
       </td>
@@ -952,7 +930,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/RRd-XdMKEwX2YyxyxplBDzxa9_7AGQZlbroDJ-nX-rI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzUz/MTYyLTE2NDA2MjE2/MDktMzQzNS5qcGVn.jpeg" alt="Cover for ZERO : FEVER Part.1" style="max-width:120px; height:auto;" />
       </td>
@@ -971,7 +949,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/s1uEUqSwiurIAgHhspfLtYBHA0SU5oK31AShFHykGho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDYz/MDIzLTE2NTQzNjM1/NzYtODgxMS5qcGVn.jpeg" alt="Cover for SET" style="max-width:120px; height:auto;" />
       </td>
@@ -1067,7 +1045,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/V8ZygO3aKazvKjGxvcxSfYcB-HNbk_qVUG-FMx9CQqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjM2/ODAyLTE2NDkyMTMz/NTktNjM3My5qcGVn.jpeg" alt="Cover for Hello - Special Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1086,7 +1064,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/LlbktP8OoKWSa_ane2tsCwYiJxoHm44kW-PAQjFuyiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzY0/NzkxLTE2NDkxMTEy/MjMtOTQ0My5wbmc.jpeg" alt="Cover for Iite Cool" style="max-width:120px; height:auto;" />
       </td>
@@ -1126,7 +1104,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/SXj2D7rg3WwQb_wYxRNL8xx4ZQ-3E7Ld8_LuU8uiy80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjQ4/NTQyLTE2MTgxMzY5/MDctMzUwNS5wbmc.jpeg" alt="Cover for ZERO : FEVER EPILOGUE" style="max-width:120px; height:auto;" />
       </td>
@@ -1148,7 +1126,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/HtxVzvfhFaI79Tp0e7oJ9_Fthj6Vd2u5z7MR4oJHIeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzAw/MTE0LTE2ODYwMTc0/OTEtODE0NS5qcGVn.jpeg" alt="Cover for SYNK : PARALLEL LINE - Special Digital Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1167,7 +1145,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/HAa9mXBRsK_GLUI901IfHQZ9NbJRVjtSQCqI6hKyoeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDQx/NjE2LTE2NDUxMzE2/NTQtNjY0NC5qcGVn.jpeg" alt="Cover for Sticker - The 3rd Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1186,7 +1164,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
       </td>
       <td>2021-10-08</td>
@@ -1242,7 +1220,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/tS4Was8NB1IVI-ecv5B-FmN0MWd_H5B_bAB56XmUf9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTg5/MTA0LTE2ODg1Nzc0/NDctMTc5MS5qcGVn.jpeg" alt="Cover for THE GIRLS (BLACKPINK THE GAME OST)" style="max-width:120px; height:auto;" />
       </td>
@@ -1298,7 +1276,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/66PFE8YcwTAuRQ5bD5hT2r7sJLX6X2U23siJZkwtBps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjQ0/MjIwLTE2NjQ0NzQ5/MjMtNTM4Ni5wbmc.jpeg" alt="Cover for DOUBLAST" style="max-width:120px; height:auto;" />
       </td>
@@ -1382,9 +1360,9 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/EgrXJsqhr3JdsNxBNe7aWwZGA46OQDpCYOMrGxg5fnQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzE4/NjAyLTE2NjE1MDM1/MzItODU1Mi5qcGVn.jpeg" alt="Cover for BETWEEN 1&amp;2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ee2a81a81d671983816b4b725c53385.png" alt="Cover for BETWEEN 1&amp;2" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-08-26</td>
       <td>TWICE</td>
@@ -1417,15 +1395,15 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 44</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 43</li>
             <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/qDYdmnaaMZcVDkwGzKBtg8Vxo4EDGoea5CptXaKOjSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjMz/MTY2LTE2NjkwMDIw/NTQtOTkwMC5qcGVn.jpeg" alt="Cover for Lowlife Princess: Noir" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c80dc7ca44445fe8b6d826395fccaa9b.png" alt="Cover for Lowlife Princess: Noir" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11-18</td>
       <td>Bibi</td>
@@ -1444,7 +1422,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/0GOkbcLmawB8tBu9xTKL0MAy7NGLjWwcfwZXWBao0K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA0/ODU2LTE2NDk0MDgx/NTQtMzc0OC5qcGVn.jpeg" alt="Cover for ‘The ReVe Festival 2022 - Feel My Rhythm’" style="max-width:120px; height:auto;" />
       </td>
@@ -1463,13 +1441,32 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/SqC29z451eWUmr-yys_GmpiFnsUKjPYcFD9PjZUMsBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzE2/Mjc3LTE2NzMyODMx/MjgtODU2Ni5qcGVn.jpeg" alt="Cover for Spin Off : From The Witness" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-12-30</td>
       <td>ATEEZ</td>
       <td>Spin Off : From The Witness</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/ClPyNjAHioJm67TKnqN16Vu_Cl3L2kfiq4NQz8ZVFcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzI0/NzkyLTE3MjYyOTM3/NTAtMzQ1MS5qcGVn.jpeg" alt="Cover for ISTJ - The 3rd Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>NCT DREAM</td>
+      <td>ISTJ - The 3rd Album</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
@@ -1602,7 +1599,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/-wvqmQO-oD5tG8CCtG0eY4a1x7Xa9sKyhFjEtocGBY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDE1/MTUzLTE2ODU3MTUz/ODEtNTQxNi5qcGVn.jpeg" alt="Cover for LOVESTRUCK!" style="max-width:120px; height:auto;" />
       </td>
@@ -1621,7 +1618,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/3__8HN67AIzg_OcGRquoIpayh7yCWRX4NYGoGMmoMZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTI4/MDM1LTE2ODI4NDA3/NzktMjA1OS5qcGVn.jpeg" alt="Cover for Over The Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -1640,7 +1637,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/0NkyoPhtHuJKBd7zAiW4zSyPoihdN-TfkhqG6ei8AsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU0/NjAwLTE3MDAzMzgy/MjktNTU3OC5qcGVn.jpeg" alt="Cover for Down to Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -1659,7 +1656,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/6iKEvi8oU_yuDOVEOET9uEoLZY7ZY0lzX2StQIKGrT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDQy/OTE0LTE2OTI3MDEx/MTMtMTgzNi5qcGVn.jpeg" alt="Cover for Impossible" style="max-width:120px; height:auto;" />
       </td>
@@ -1698,7 +1695,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/GdKx9SMSDF_VW-BsLtGh1PvLTlgSMnR2RWkn_csub_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTYy/ODM2LTE2OTcwMzc1/OTItNzM5MC5qcGVn.jpeg" alt="Cover for Fact Check - The 5th Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1736,7 +1733,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/Pf0nryNu_XUFmvmdQK_9cUeFOCJaErZJ0Kq7p_wXfOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjMw/NDU2LTE2OTc2Mzgw/MjgtMjUyMy5qcGVn.jpeg" alt="Cover for Howl" style="max-width:120px; height:auto;" />
       </td>
@@ -1755,7 +1752,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6830defaf76e25fe01e541b0cdc2592.png" alt="Cover for Seventeen 4th Album Repackage &#39;SECTOR 17&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -1774,7 +1771,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/MtyU2eaiENOJeSl3DscRIMN0XnS-JvESpV6xw5vB9NU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTY4/Mjc4LTE3MDIyNTE1/NDctMTk5MC5wbmc.jpeg" alt="Cover for Born to be XX" style="max-width:120px; height:auto;" />
       </td>
@@ -1793,7 +1790,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/OAdBwtnAxi8FnmkSv4ZKLptzSTnO1k9wKkimsRgLRpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAx/NjA3LTE2NjM4OTQz/MjYtMzcyNi5wbmc.jpeg" alt="Cover for 2 Baddies - The 4th Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1900,8 +1897,9 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45286c895828df3dff6cf04775ee2300.png" alt="Cover for Episode1 : Love" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>So!YoON!</td>
@@ -1915,12 +1913,12 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 54</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/41e2b71debed0ca0908ded498d731dc9.png" alt="Cover for poppop - The 2nd Mini Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1939,7 +1937,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -1957,7 +1955,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bebc6963de33caea5acb4a5860003041.png" alt="Cover for KILL MY DOUBT" style="max-width:120px; height:auto;" />
       </td>
@@ -1976,7 +1974,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -1994,7 +1992,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
       </td>
       <td></td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-30T05:18:38.996Z
+date: 2025-11-08T14:56:21.775Z
 permalink: tags/brazilian-pop
 title: brazilian pop
 ---
 
 ## brazilian pop
 
-Last updated: <time datetime="2025-10-30T05:18:38.996Z">Thu Oct 30 2025 07:18:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-08T14:56:21.775Z">Sat Nov 08 2025 16:56:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
   </thead>
   <tbody>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/Bf-qdYyqbbid5l9FSStTmGjNMhaVFFJJBirCjNsCP2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDkz/MDktMTYzNDAzNzc3/Ni05NDAzLmpwZWc.jpeg" alt="Cover for Zizi Possi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d1e834e34f02c6ee124a6b78b67ada7.png" alt="Cover for Zizi Possi" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Zizi Possi</td>
@@ -70,7 +70,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/PqxztuzrWUSXLZwu-m0RQN6Aig-nrEeTPWp8r9cnfIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDMz/MjMtMTUyNDU5ODE1/MC0yMTI4LmpwZWc.jpeg" alt="Cover for Roupa Nova (1983)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0e5d6c5e195426f9604dd447b3b4f22.png" alt="Cover for Roupa Nova (1983)" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Roupa Nova</td>
@@ -110,7 +110,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 10</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 9</li>
             <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 68</li>
         </ul>
       </td>
@@ -143,7 +143,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/AWnaE7Hn-vZsh1hN5Xz2kHYKFAxi0CNTJDP2uTaU-yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzM2/MTQtMTQxOTE2MDA2/Ny0xOTQzLmpwZWc.jpeg" alt="Cover for RPM" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92a2779cc46d407bc04d62154d22299f.png" alt="Cover for RPM" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>RPM</td>
@@ -181,7 +181,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 10</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 11</li>
             <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 98</li>
         </ul>
       </td>
@@ -254,7 +254,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/EgeREQiCHDI_A_rkaqThiboIDOyUczn-CwjAzhzBTyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTUz/NDUtMTQ0ODkyMzQz/OC05OTk0LmpwZWc.jpeg" alt="Cover for Ao Vivo Daniela Mercury: Eletrodoméstico" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0cea245b31f4a2780b70db4409f3d68.png" alt="Cover for Ao Vivo Daniela Mercury: Eletrodoméstico" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Daniela Mercury</td>
@@ -297,6 +297,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbb24915bd84dd516dc2c3c5530037ea.png" alt="Cover for Da Lata" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Fernanda Abreu</td>
@@ -310,28 +311,6 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc61a91271bcac3857bff4a92949fab6.png" alt="Cover for Asa Morena" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Zizi Possi</td>
-      <td>Asa Morena</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -406,7 +385,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/QZxMAK-Ywn11JtEJji44ga1e-cu6_npf6H6cLDPb4CA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzQz/MzUtMTQ3MjU2ODc5/NC02MzQ1LmpwZWc.jpeg" alt="Cover for Elo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef12d9068c1a3b2db753e1e8f78a1d9e.png" alt="Cover for Elo" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Jorge Vercillo</td>
@@ -426,7 +405,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7db4702d5a9b48732cb64f9cfdd8bbc4.png" alt="Cover for Leoni" style="max-width:120px; height:auto;" />
       </td>
@@ -445,7 +424,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/4Xwv5nXIwyE-jRcAFZmUN_3s-1S1yQ39PDFLRmXZLjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDIy/NTItMTMzMDU0MDQy/MS5qcGVn.jpeg" alt="Cover for Fora da Memória" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d110be1cadb73509ffa29b67712fc0f6.png" alt="Cover for Fora da Memória" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Tribalistas</td>
@@ -468,7 +447,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/eiUMGfzAslniVK7EDflgLfYREqxk9GOTkghTYl2vRhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg4/MzkzLTE1NjExNDE0/MDQtNzI4My5qcGVn.jpeg" alt="Cover for Só Sucessos Nº 1 (Ao Vivo)" style="max-width:120px; height:auto;" />
       </td>
@@ -510,6 +489,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d645bc7df7aa0229077a693caae742e.png" alt="Cover for Do Meu Jeito" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-04-23</td>
       <td>Kelly Key</td>
@@ -551,7 +531,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/f0ejEbxj3TO_cHlSSxw1k-MUGPesx-G_lc-27RJtLt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDAx/MTYtMTQyOTA5MzMw/MC00ODIyLmpwZWc.jpeg" alt="Cover for Brava" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/651a91757beb51060a38092aa21374c1.png" alt="Cover for Brava" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Brava</td>
@@ -597,7 +577,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/kzK5xBpRuHZGm21bli3L0x6NNLvp4ewivZP5GtPXvbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODQ5/ODItMTM5MjA1NTIw/My03ODAyLmpwZWc.jpeg" alt="Cover for Djavan &quot;Ao Vivo&quot;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/060a0d9d9bb6321e37e61f96efcfec7c.png" alt="Cover for Djavan &quot;Ao Vivo&quot;" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Djavan</td>
@@ -618,9 +598,9 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 46</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 64</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 47</li>
             <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 64</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 65</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 69</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 81</li>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 82</li>
@@ -628,7 +608,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/7GQV1yQjIkTtZEUC1Z4zIKI93KtC0E7B3tRtuX2eLN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Njk3/NTgtMTQzMDgzOTMz/Ni0xNTQ3LmpwZWc.jpeg" alt="Cover for Mpbsoulsambagroove" style="max-width:120px; height:auto;" />
       </td>
@@ -648,7 +628,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/4CPiDG7SEw4xoAd7sSkyib8MQVxJ-DorLvrUkhlFo0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDI5/NTEtMTQwNDIzMjkz/OS02NzUwLmpwZWc.jpeg" alt="Cover for Xuxa Só para Baixinhos 5 (XSPB 5) - Circo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a302b03d5a69e0ec1ca8a8aba1a7a85.png" alt="Cover for Xuxa Só para Baixinhos 5 (XSPB 5) - Circo" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-24</td>
       <td>Xuxa</td>
@@ -733,7 +713,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/s7bV_V5NDtFiSIBXDrV61TNtTLWCAqvNLvw_pEeX8oc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzQz/NjItMTQ3MjU2OTE0/NS0xNjk4LmpwZWc.jpeg" alt="Cover for Signo De Ar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d977c0cf8a504559c5c29fd8e31cfb08.png" alt="Cover for Signo De Ar" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-12-09</td>
       <td>Jorge Vercillo</td>
@@ -757,7 +737,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/JuRw14pQgzNm6932U2Mhn20K3w-ObhvmJ3eGjywG1nA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzc5/MDctMTY5MTE0ODcw/NS00MDcxLmpwZWc.jpeg" alt="Cover for À Vontade" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37084e559565a46732a78a03a2230ba9.png" alt="Cover for À Vontade" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Ivete Sangalo</td>
@@ -806,7 +786,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/Pdj-pIt1V2qDYqlSEjFVnNmDGVWDL0pnKaOzUyiOrqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIw/NDE1LTE2MTY3NDEx/ODEtMzg3My5qcGVn.jpeg" alt="Cover for Pra Brilhar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9cd6882ab6747788e7e95cfea5b1bd5.png" alt="Cover for Pra Brilhar" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Kelly Key</td>
@@ -825,7 +805,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/QugqxQLyYmgTpvVNkTDP2daA8ZHIzuHM3ShwV05B2jQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzQ2/OTQtMTI2MjUzOTE3/Ny5qcGVn.jpeg" alt="Cover for Quarto" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b6a731b866b496fb668cdb79f58a64f.png" alt="Cover for Quarto" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Ana Carolina</td>
@@ -845,7 +825,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c88711b6eb09b8a3f5bb56edc0c56cbf.png" alt="Cover for Companhia do Calypso, Vol. 01 (Ao Vivo)" style="max-width:120px; height:auto;" />
       </td>
@@ -862,7 +842,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/yOfs1VjAzW1uhIgt0t7M3WDC1hxf3KG7Zd45pyaHo5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTQw/MzgtMTM3MjQ1OTA5/NS01MjkwLmpwZWc.jpeg" alt="Cover for ONErpm Showcase (Ao Vivo)" style="max-width:120px; height:auto;" />
       </td>
@@ -886,7 +866,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td>2007</td>
@@ -971,7 +951,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/lXHHEHByDLRgTcpqbP7rlCvYC3EBFEZlyefUXk3q3WU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDQx/NTMtMTY5NDk4NjY3/My03ODgwLmpwZWc.jpeg" alt="Cover for Flores, Amores e Blablablá" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c7b183b119c2ab19c03b6d9e119bc54.png" alt="Cover for Flores, Amores e Blablablá" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Marjorie Estiano</td>
@@ -988,7 +968,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/RkTQcKracucKnBlrLVUivIG85USZpTv_S7eh157iz_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzMz/MjItMTYyMTUyNDEw/Mi01NjY3LmpwZWc.jpeg" alt="Cover for Multishow Ao Vivo Ana Carolina &quot;Dois Quartos&quot;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57d0da0ef551449997d91ddc614af370.png" alt="Cover for Multishow Ao Vivo Ana Carolina &quot;Dois Quartos&quot;" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Ana Carolina</td>
@@ -1006,9 +986,9 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/_O-qx7Bk-dUharOXNG4RMbZ5Myp3lzWbSS2HePAmjb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzM3/NjItMTMxNDQ4NjMz/NC5qcGVn.jpeg" alt="Cover for Jorge Vercilo (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2981921182b6afaf54751ce5d76c6f2.png" alt="Cover for Jorge Vercilo (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-19</td>
       <td>Jorge Vercillo</td>
@@ -1029,7 +1009,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/5Ku5dSYoQrHUcklHJaMTtY1-c1Yh8LfAZkhQKThtgwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTA1/NzAwLTE1MDk5MzY3/NzgtMjY5NC5qcGVn.jpeg" alt="Cover for Silêncio Raro" style="max-width:120px; height:auto;" />
       </td>
@@ -1057,7 +1037,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/VyuwlPStCHzzVZgWaYPm5QJUm4st2532SJl6YrHK8Mc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTY3/NTctMTQ3MDQwMDI1/OS0zMjIwLmpwZWc.jpeg" alt="Cover for Mexeu comigo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1dbcaf5644b306ababa320b3bf611ca.png" alt="Cover for Mexeu comigo" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-01</td>
       <td>Tiê</td>
@@ -1079,7 +1059,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/SB-wrIC4pjDIzNkxHRpCGhtrz4YuNaFB_kWOLZwM9Bg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzQ3/NDQtMTQ3MjU3NDQz/My03NzM1LmpwZWc.jpeg" alt="Cover for Trem Da Minha Vida" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/180b0e5c848f42d79fcf405ad040541d.png" alt="Cover for Trem Da Minha Vida" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-31</td>
       <td>Jorge Vercillo</td>
@@ -1103,7 +1083,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/V9kjH10zzgPiRp_ZsdVlKNR6hV0Wi2FmqUHJHBAoLAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDI3/NzgtMTQzNDY2NDUw/NC0zMDEzLmpwZWc.jpeg" alt="Cover for Bons Ventos Sempre Chegam" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0eca8bfbc244e07a8da3a579cc12415.png" alt="Cover for Bons Ventos Sempre Chegam" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-29</td>
       <td>Luiza Possi</td>
@@ -1121,7 +1101,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 2</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 3</li>
             <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 85</li>
         </ul>
       </td>
@@ -1174,7 +1154,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/Ij9vh1hGi7eCBJ42H_DqCviXUE7N1ZVimrkwFfos12M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzQ4/OTAtMTY2NDU3OTQy/MS04NTMzLmpwZWc.jpeg" alt="Cover for Multishow Ao Vivo - Ivete Sangalo No Madison Square Garden (Ao Vivo No Madison Square Garden &#x2F; 2010)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/baffb2ad867cc33c2d4bd55cea9bf36c.png" alt="Cover for Multishow Ao Vivo - Ivete Sangalo No Madison Square Garden (Ao Vivo No Madison Square Garden &#x2F; 2010)" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Ivete Sangalo</td>
@@ -1193,7 +1173,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/cku748pfWeyNYEOMbQIA7yybhj54R9NvdFhS6APfWs0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzEy/MDEtMTMwNzg4Nzg0/OS5qcGVn.jpeg" alt="Cover for Ainda Vibra" style="max-width:120px; height:auto;" />
       </td>
@@ -1239,7 +1219,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/kBGkPAPaYzpuyPqirs6D6Q87vagyDSxvVUQENaMOTTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzg4/ODItMTUwNjExNTY5/NS0xMzE5LnBuZw.jpeg" alt="Cover for Acordando o Prédio" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec01fe9c5be8df58e4b1a6b46a1a0271.png" alt="Cover for Acordando o Prédio" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-10</td>
       <td>Luan Santana</td>
@@ -1255,7 +1235,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 36</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 37</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 41</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 57</li>
         </ul>
@@ -1264,7 +1244,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/iu_YTtGa8J8uyJ2sF9CImAughtihatUnXQAnVrqoxU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTE0/MDc1LTE1NDgyODgx/NjktOTkwMS5qcGVn.jpeg" alt="Cover for Dres" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39ef57a9fc34ac542d5bd7ee4250d2c9.png" alt="Cover for Dres" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Nando Reis</td>
@@ -1287,9 +1267,27 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
     </tr>
     <tr>
+      <td>16</td>
+      <td>
+      </td>
+      <td>2013-03-15</td>
+      <td>Boogarins</td>
+      <td>As Plantas Que Curam</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 14</li>
+            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 21</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/BE_T5mpCCNWZPfSSpz9H5qqaqH4HAu45p2lfFKbqtoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjIx/NDUtMTQyODIyMTk2/My0yOTU3LmpwZWc.jpeg" alt="Cover for Até o Sol" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30d9cc4fba495f18a5e99fb11cea38c0.png" alt="Cover for Até o Sol" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-28</td>
       <td>Jullie</td>
@@ -1309,7 +1307,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/JralFKFGQOUU2xoZiHXG4a5-_NkZmYW_dWZ995oZQpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTQ1/NzMtMTQzODU2MTk5/Mi00ODM4LmpwZWc.jpeg" alt="Cover for Duetos - Homenagem a Luiz Gonzaga e Zédantas (Ao Vivo)" style="max-width:120px; height:auto;" />
       </td>
@@ -1347,15 +1345,15 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       <td>
         <ul>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 47</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 51</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 69</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 52</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/Tvg6aZtlBAgErPKypwTVNqPbjZWGkFfm-4qV7DrXA3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjY3/ODUtMTQzOTkyNzY2/OS0yNTMyLmpwZWc.jpeg" alt="Cover for Vai Malandra (feat. Tropkillaz &amp; DJ Yuri Martins)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fd0d978b52f2c5d17f97b72cc372400.png" alt="Cover for Vai Malandra (feat. Tropkillaz &amp; DJ Yuri Martins)" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-01-28</td>
       <td>Anitta</td>
@@ -1443,7 +1441,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 36</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 75</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 82</li>
-            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 84</li>
+            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1467,6 +1465,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 3</li>
             <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 73</li>
         </ul>
       </td>
@@ -1514,7 +1513,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/nh--1oF4C24Lfum-Cx232kALrVikKMcXxkLgrOLgNHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NzU2/MDMtMTQ0NDc5MjA1/MC0yNTI5LmpwZWc.jpeg" alt="Cover for Bang" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24aa9e1b9dd1d8481102ff843323830d.png" alt="Cover for Bang" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-13</td>
       <td>Anitta</td>
@@ -1532,7 +1531,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/96Op493Xwj0WaIy7WPWVeqXNl0rYU0cDOh1A5M1NPEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODg5/NDktMTQ3OTY5MTAx/MC02MzI5LmpwZWc.jpeg" alt="Cover for Loka" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/435c1d395464ae764a4971e2dc602719.png" alt="Cover for Loka" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Simone &amp; Simaria</td>
@@ -1549,7 +1548,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       <td>
         <ul>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 2</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 7</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 8</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 47</li>
         </ul>
       </td>
@@ -1580,7 +1579,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/LQikLbGfpxtCwsrK37k6Qj1Z0wdOX6ihHsLPn6JHGd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTcx/MTk4LTE2MzY4NTk4/NDctNTQ4Mi5qcGVn.jpeg" alt="Cover for LIA (pt.1)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9656231aa5c1ac97b3d108dd444ffb2.png" alt="Cover for LIA (pt.1)" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-29</td>
       <td>Lia Clark</td>
@@ -1627,7 +1626,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/EnE_7DtMCXnrQqrPTXzr_oKawpoozn2-NX_zh8fhdaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDk1/NTMwLTE0OTE1MTgy/OTYtMzA1OS5qcGVn.jpeg" alt="Cover for Vem Que Eu Tô Querendo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4734954d38566aef9e9ba90a065d948.png" alt="Cover for Vem Que Eu Tô Querendo" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-31</td>
       <td>Lexa</td>
@@ -1649,7 +1648,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/Ms_ATwJSpu7ysqxjlskTnTvI_un1eW8Z1KxfmEuZt_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA1/NjI2LTE1MDI3NjI5/ODMtMzc5My5qcGVn.jpeg" alt="Cover for Baldin de Gelo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8789143ee41eae758abfa6d77eef5974.png" alt="Cover for Baldin de Gelo" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-04</td>
       <td>Claudia Leitte</td>
@@ -1666,7 +1665,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 15</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 18</li>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 87</li>
         </ul>
       </td>
@@ -1674,7 +1673,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/PLugLdHkW4wY3s3erMPXwlPyaxmfA0th6S2x7mYCTz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc3/NzA4LTE0OTY2Nzg5/MDUtMjIwMi5qcGVn.jpeg" alt="Cover for Manu" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b089715d200b45baf7f2b2544b1ab5a8.png" alt="Cover for Manu" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-21</td>
       <td>Manu Gavassi</td>
@@ -1691,6 +1690,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 1</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 45</li>
         </ul>
       </td>
@@ -1698,7 +1698,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/0xnU3S8lHVUWTChYXBVthJwjLMdhWVnJwQXaIudF4Hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTAy/NDE2LTE1ODM3NjIw/MjAtMTE1Ny5qcGVn.jpeg" alt="Cover for Hipnose" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/762f0666dee278a1cb26fbbd6a3f2ba9.png" alt="Cover for Hipnose" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-21</td>
       <td>Manu Gavassi</td>
@@ -1720,7 +1720,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/IcRgt13wyiecOi6N5I5mRJzs2XbX855MlPVd5ud73ok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjYz/OTQtMTQzOTkyMDM2/OS0xMTAxLmpwZWc.jpeg" alt="Cover for Paradinha" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5316f26025d55be38fa1bf0dd5852df0.png" alt="Cover for Paradinha" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-31</td>
       <td>Anitta</td>
@@ -1737,15 +1737,15 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 81</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 82</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 92</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 92</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 93</li>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/u2RBLuxuRktY4INCjwD2-AdDHaQnQ4Uovm_IzUsiCQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzcw/OTE4LTE1ODEzMDky/NDktMTEyOS5qcGVn.jpeg" alt="Cover for Br&#39;oz (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1763,7 +1763,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/2yuvKys3ZibLTS2yL-4bHa0MqWLDqWQ99rnektgxeT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQz/NzAzLTE2NDQ3Njg2/MjEtNjg3OS5qcGVn.jpeg" alt="Cover for Preciso Dizer que Te Amo" style="max-width:120px; height:auto;" />
       </td>
@@ -1789,7 +1789,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/FKJaqCl1UhQYV5l_Ya0a-TCdrM4iC1jn8L44Xstlxc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY5/MzI4LTE1OTkyOTQ2/OTMtMTUwMC5qcGVn.jpeg" alt="Cover for Um Só" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3dd8a843e8033aa477150c4e5756572e.png" alt="Cover for Um Só" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-15</td>
       <td>Tribalistas</td>
@@ -1814,7 +1814,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/FKJaqCl1UhQYV5l_Ya0a-TCdrM4iC1jn8L44Xstlxc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY5/MzI4LTE1OTkyOTQ2/OTMtMTUwMC5qcGVn.jpeg" alt="Cover for Diáspora" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/324194b25e523dc59630a8670dcb5f80.png" alt="Cover for Diáspora" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-15</td>
       <td>Tribalistas</td>
@@ -1839,7 +1839,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/FKJaqCl1UhQYV5l_Ya0a-TCdrM4iC1jn8L44Xstlxc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY5/MzI4LTE1OTkyOTQ2/OTMtMTUwMC5qcGVn.jpeg" alt="Cover for Aliança" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2243037ee8daa6e55a74971a68441ef.png" alt="Cover for Aliança" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-15</td>
       <td>Tribalistas</td>
@@ -1920,16 +1920,16 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       <td>
         <ul>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 6</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 39</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 41</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 60</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 70</li>
             <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 80</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 82</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 83</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 87</li>
             <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 94</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 95</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 96</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 96</li>
             <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 97</li>
             <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 98</li>
             <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 99</li>
@@ -1939,7 +1939,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/kqHJ3Pk3lit5kTZ6Ony-gHYqj_5Q4hj39SR8lHB6NoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTg1/NTM5LTE2MzQyMTA5/MTktNzM1Ni5qcGVn.jpeg" alt="Cover for Doce Como Bala" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c9a4721a0fe0642879ecc051af770e1.png" alt="Cover for Doce Como Bala" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-01</td>
       <td>Cammie</td>
@@ -2010,7 +2010,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/0EJ_nq9k1Shcj8cNfx7DYx74N2S3tipMZ5kobBW7OmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTc5/MTAwLTE2MjM5NjYx/OTItMjIwNy5qcGVn.jpeg" alt="Cover for Você Não Presta" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f94396e817c4e087defc4368ce964e48.png" alt="Cover for Você Não Presta" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-15</td>
       <td>Mallu Magalhães</td>
@@ -2080,7 +2080,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>2023</td>
@@ -2117,6 +2117,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/256c00b22449f427132e730d501b2ea9.png" alt="Cover for As Quatro Estações (Ao Vivo)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sandy e Junior</td>
@@ -2159,7 +2160,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -2178,6 +2179,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/231f475926c35c726163764366ff94d3.png" alt="Cover for A Cor do Amor" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Liah Soares</td>
@@ -2198,6 +2200,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f8473251fbc4f2eb8112b531b862eb9.png" alt="Cover for Amigas" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Fernanda Brum e Eyshila</td>
@@ -2235,6 +2238,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d740004b70d46eb738f3e9e480b0e62.png" alt="Cover for Tribalistas Ao Vivo" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Tribalistas</td>
