@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-06T02:48:52.706Z
+date: 2025-11-08T19:46:51.937Z
 permalink: tags/future-house
 title: future house
 ---
 
 ## future house
 
-Last updated: <time datetime="2025-11-06T02:48:52.706Z">Thu Nov 06 2025 04:48:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-08T19:46:51.937Z">Sat Nov 08 2025 21:46:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1295,7 +1295,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/-dkv9RZsrE3_ezIGCEWz0QGpW_z4qmWpfmjdAUf1GmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ1/NTY5LTE2NDk2OTgx/NzgtMTQzNy5qcGVn.jpeg" alt="Cover for BXU" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/795a6e35af362d6b46dcb51a3744028f.png" alt="Cover for BXU" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-04-11</td>
       <td>Bishu</td>
@@ -1409,7 +1409,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/DndDN714jLYCiMKnCGVyEt_YDsHmAHovhQEyODQNlw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk2/Nzg0LTE2NTc5MTg1/NjctNTY1NC5qcGVn.jpeg" alt="Cover for Red" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce822da5587cd1cfce1b50ce9205b7b7.png" alt="Cover for Red" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-07-15</td>
       <td>BEAUZ</td>
@@ -1432,7 +1432,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/OO0VU9-4uUWneKAVG8dzjb23JuV0yZCnogeKgVwFjks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjkx/NDY0LTE2NjEyNzQ3/NzAtNjA0Ny5qcGVn.jpeg" alt="Cover for Without You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/401dfe6d9d73f87f0c842afb554b714c.png" alt="Cover for Without You" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-08-23</td>
       <td>Ovsky</td>
@@ -1568,7 +1568,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td></td>
       <td>Tyler Brooker</td>
-      <td>Elevation</td>
+      <td>Scrap God (Spicy Edition)</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
