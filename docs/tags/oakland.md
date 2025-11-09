@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-23T10:35:13.480Z
+date: 2025-11-08T19:48:47.357Z
 permalink: tags/oakland
 title: oakland
 ---
 
 ## oakland
 
-Last updated: <time datetime="2025-10-23T10:35:13.480Z">Thu Oct 23 2025 13:35:13 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-08T19:48:47.357Z">Sat Nov 08 2025 21:48:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -75,7 +75,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e13fd4c40bc863b90d3b85271fac4c1.png" alt="Cover for On The Rise" style="max-width:120px; height:auto;" />
       </td>
@@ -241,7 +241,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/IkFrKtfyd4NZ3Q2Ay-YIaOshKkQ9u73-EfoMpQd5OHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDA4/MzYtMTE4MjYzMzc5/MC5qcGVn.jpeg" alt="Cover for Slappin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7767c39918d7de40ce185695d49cc8ac.png" alt="Cover for Slappin" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>E-40</td>
@@ -260,7 +260,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/6Ph72XViKX9Lv2SM3Fl2d-CNHCbqLQFZ4ukK4Q4wdLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/MjEtMTIyMDkwMDY3/NS5qcGVn.jpeg" alt="Cover for 93 &#39;til Infinity" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d870f3091da3450fb2bde10283302387.png" alt="Cover for 93 &#39;til Infinity" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Souls of Mischief</td>
@@ -410,7 +410,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/1_BkIU3GAlbH7_2I0sh_FQJ4c6BymJoALBxVo53WPAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzA4/NS0xNDgzOTkxODk1/LTMyNDcuanBlZw.jpeg" alt="Cover for Boxcar Sessions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76a62373b9ccb268a5f9f5dd495cf551.png" alt="Cover for Boxcar Sessions" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-09-23</td>
       <td>Saafir</td>
@@ -423,7 +423,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 40</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -656,7 +656,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/blIObd6_o1QjcJ-rGsX-fJ4g40NBiU8PPoZmgRxJjRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NzM2/NC0xMTQyOTc0MjI5/LmpwZWc.jpeg" alt="Cover for Rebirth" style="max-width:120px; height:auto;" />
       </td>
@@ -721,7 +721,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/oNPvKX4Ipx4z6HHhYHXqejdI-7H-SEtPMyXMW5tj5j8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjA4/MTMtMTM5NTQ3NDE1/Ni0zMDgxLmpwZWc.jpeg" alt="Cover for Tribal Groove Volume 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cb9b5d1a5eda8a80a8fc3849abba4b0.png" alt="Cover for Tribal Groove Volume 1" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>T-Mo</td>
@@ -824,9 +824,9 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/HWsUvU97D4OcTIYfR6vYVQMQCwAcQd81XiQfbe-_0s8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgy/NDQwLTE1OTA2MjU0/MDUtOTAzNS5qcGVn.jpeg" alt="Cover for Child of the Storm" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d51137a379746939072bbc0013ee72c.png" alt="Cover for Child of the Storm" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Sunspot Jonz</td>
@@ -843,7 +843,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/Xv31IXQ97F6ux--dyq186fEW5NOx-VoRFgkdLjxpnMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAw/MjQwLTE2MzE4Njk4/MjktODc5OS5qcGVn.jpeg" alt="Cover for Time Money and Drama" style="max-width:120px; height:auto;" />
       </td>
@@ -938,6 +938,24 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18f62e1e5de3e97b668f99a9666ff6dd.png" alt="Cover for Even Closer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-09-10</td>
+      <td>Goapele</td>
+      <td>Even Closer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
         </ul>
       </td>
       <td>
@@ -1060,7 +1078,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 30</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1109,6 +1127,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4098db305124530b07871f9a551ea51.png" alt="Cover for West Coast Vaccine (The Cure)" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06-05</td>
       <td>Turf Talk</td>
@@ -1184,8 +1203,8 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 47</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 47</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1226,12 +1245,12 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 4</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbab5cc2a0a64dd497c28ac5f3902ca2.png" alt="Cover for Giving Birth To Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1302,7 +1321,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/aV98HY8LZHbfLo3Qmcd2zVhcaAaDw4EMbsOIwOGzKWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODIz/OTEtMTI3NDI3MDk0/MS5qcGVn.jpeg" alt="Cover for Mobb Boss" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/afa8339dcba94b6b9bd0433ef0d11483.png" alt="Cover for Mobb Boss" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-18</td>
       <td>Keak Da Sneak</td>
@@ -1318,7 +1337,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 16</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1374,7 +1393,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/dvh3N9DROAjMUnTqxuvAbyGvIBL_dohUID2o8mLhVVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDMx/NDY4LTE1NjIyMzIx/NDEtNjUzMC5qcGVn.jpeg" alt="Cover for Under Covers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce65e5afce294f57b5173b56626ee258.png" alt="Cover for Under Covers" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-11</td>
       <td>Quinn Deveaux &amp; the Blue Beat Review</td>
@@ -1437,6 +1456,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3284d8eeca244b789f39aef4b65f4ec.png" alt="Cover for We Could Be Arsonists" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-24</td>
       <td>Loquat</td>
@@ -1451,7 +1471,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 66</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1500,7 +1520,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/j80v7wD65fXkJyORtcj93qoqOWLngEn4dp86AOd0Sv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzM3/MjUtMTQ3MTc3MTMw/Ni03OTYwLmpwZWc.jpeg" alt="Cover for Pony Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -1523,7 +1543,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/neTDKFQTMVdrhWGFtGiaJHdMRY2RlCDZRzRpkDOm7y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjY1/NzE2LTE1MTMwMjI5/NDItNDU4Mi5qcGVn.jpeg" alt="Cover for Turkey Bag Boy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f05f158f87b06e48886f01e94acaed93.png" alt="Cover for Turkey Bag Boy" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-12</td>
       <td>Lee Majors</td>
@@ -1620,28 +1640,6 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/7R_0Z8x0YYumeeAarNlJc9dAN4gfghq7x_hEaLoeHmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDkx/MjQtMTQ2Mzg0MjEz/Ny0zMzQ0LmpwZWc.jpeg" alt="Cover for Silk to Dry the Tears" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-06-03</td>
-      <td>Cos BV</td>
-      <td>Silk to Dry the Tears</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>39</td>
       <td>
           <img src="https://i.discogs.com/FRoKjFfZj8vLVpk4NM-XPaacn0YfT8yvtHy4-YlPRxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjc3/NjcxLTE1MDIyMTc4/NDUtMjk2Ny5qcGVn.jpeg" alt="Cover for Mesmer EP" style="max-width:120px; height:auto;" />
@@ -1663,7 +1661,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/Y1J1vZhxUy-2LXcRJygV1RL8N531ThpBI4bqvXWLQHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTc3/ODI4LTE2MjAwNzEy/MTItOTA1OC5wbmc.jpeg" alt="Cover for Jentrify" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d74655d371450d0d97453a8cca2d4be.png" alt="Cover for Jentrify" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-16</td>
       <td>Elujay</td>
@@ -1722,7 +1720,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/EaQjZgYOaqDF3nt6565tSmjsoFNp7LAsbWTie3UXTvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTQy/NDA3LTE2MDA2MjI0/MjctNDAzNy5qcGVn.jpeg" alt="Cover for Struggle Sandwich" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/689cd741799863df88f2d7933b23bda5.png" alt="Cover for Struggle Sandwich" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-02</td>
       <td>Variex</td>
@@ -1826,7 +1824,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/SIvgr2dB4E29YNXdauV9Imtvn2WX4zTvMdVHFgUFLe4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODkx/MTExLTE2NTkzMDc0/MjUtMzYyNS5qcGVn.jpeg" alt="Cover for People Eat Music" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82e3958acc73a0ab96ec2e7da096bc40.png" alt="Cover for People Eat Music" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-05-20</td>
       <td>Abunai</td>
@@ -1868,7 +1866,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/2rw22kblJ-KyJ0bcXOjhLMUTkg0jcNgOjCMKvM9SZ1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjg1/NTMwLTE2NjE3MTI5/MzAtMTE4Mi5qcGVn.jpeg" alt="Cover for Cursed to March on Shattered Limbs" style="max-width:120px; height:auto;" />
       </td>
@@ -1909,7 +1907,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -1930,7 +1928,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1949,7 +1947,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1970,7 +1968,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -2070,7 +2068,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td></td>

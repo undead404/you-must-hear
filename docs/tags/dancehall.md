@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T17:33:51.459Z
+date: 2025-11-08T19:50:32.246Z
 permalink: tags/dancehall
 title: dancehall
 ---
 
 ## dancehall
 
-Last updated: <time datetime="2025-11-01T17:33:51.459Z">Sat Nov 01 2025 19:33:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-08T19:50:32.246Z">Sat Nov 08 2025 21:50:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
   </thead>
   <tbody>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/aEPLlafMxmqquhOhmOedmHKdFNNBymw_dKWGG7hI-qQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTY4/OS0xMTI3MjUwMTY5/LmpwZWc.jpeg" alt="Cover for Truth and Rights" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
       </td>
       <td>1977</td>
@@ -140,13 +140,13 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 13</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 14</li>
             <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/OSmg2xJchu9_D_ivnaVnJ04OHeLDa4rJx0_u4CGYPw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDQ3/NC0xMzQ2NjU4Mjk4/LTU3MTguanBlZw.jpeg" alt="Cover for The Stopper" style="max-width:120px; height:auto;" />
       </td>
@@ -187,7 +187,29 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>2</td>
+      <td>
+      </td>
+      <td>1997-08-21</td>
+      <td>Half Pint</td>
+      <td>Half Pint</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 71</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/R6eGpqzR4wMRPBQL0ue71cpTMjau-XG3F3i_JdCOrfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODI5/NS0xNDYzMjI3NDI1/LTUwMDMuanBlZw.jpeg" alt="Cover for Many Moods Of Moses" style="max-width:120px; height:auto;" />
       </td>
@@ -206,7 +228,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
       </td>
       <td>1998-04-01</td>
@@ -245,7 +267,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/gTO4FwijYNTj37YbRg_W9pNzecUCYCqeosTDi4usH0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTk4/Ni0xNDYzNzUzMzYw/LTE5NzMuanBlZw.jpeg" alt="Cover for More Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -285,6 +307,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/438632d5d209f458075adb800be67696.png" alt="Cover for Hot Shot" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-08-08</td>
       <td>Shaggy</td>
@@ -301,8 +324,9 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4668120602e044d4c483524d4d357a4d.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Shabba Ranks</td>
@@ -319,9 +343,9 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
-          <img src="https://i.discogs.com/w0PRjLQuHJc1P0Dh6aF0h8CwR_W5ymEhuorN2QzavY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDUx/NS0xMTk1ODU4MzAz/LmpwZWc.jpeg" alt="Cover for The Boombastic Collection - Best of Shaggy (International Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/204b27a3a7f34f37c818bd10c7a7e34a.png" alt="Cover for The Boombastic Collection - Best of Shaggy (International Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Shaggy</td>
@@ -343,7 +367,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/w0PRjLQuHJc1P0Dh6aF0h8CwR_W5ymEhuorN2QzavY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDUx/NS0xMTk1ODU4MzAz/LmpwZWc.jpeg" alt="Cover for Mr Lover Lover - The Best Of Shaggy... (Part 1)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/164eca5224b8421c86d63856675f6d64.png" alt="Cover for Mr Lover Lover - The Best Of Shaggy... (Part 1)" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Shaggy</td>
@@ -363,8 +387,9 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6566fea472f81ee09445a99f80c12182.png" alt="Cover for New Dubby Conquerors" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-05-21</td>
       <td>Seeed</td>
@@ -421,9 +446,9 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/sgBmwo7jhAt0ioZzJfGL6lfQgX0AKRa7IqnNaY3F7iQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTc3/OC0xNDcwMzE1ODEz/LTYyODMuanBlZw.jpeg" alt="Cover for The Best Of Both Worlds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4688a4a128ba49f8c9e2c4bd28c49717.png" alt="Cover for The Best Of Both Worlds" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>R. Kelly &amp; Jay-Z</td>
@@ -442,7 +467,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/owPwciTqH7exIK8iPax-oFjyuOYeZ3Mz2X0utxL0XBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTg3/My0xNDcxMTM1OTk0/LTE2MDEuanBlZw.jpeg" alt="Cover for Still Blazin" style="max-width:120px; height:auto;" />
       </td>
@@ -460,7 +485,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>2002-08-19</td>
@@ -519,7 +544,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/60ab0Vgf2DGsJ0WXxZhnSj0eBg5y_b_Vne24Pua2oJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDMw/NTYtMTU3NDUzNjEz/OC02MjY5LmpwZWc.jpeg" alt="Cover for Afrikya" style="max-width:120px; height:auto;" />
       </td>
@@ -538,7 +563,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
       </td>
       <td>2003-09-30</td>
@@ -560,7 +585,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
       </td>
       <td>2003-12-03</td>
@@ -639,7 +664,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
       </td>
       <td>2005</td>
@@ -653,14 +678,14 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 1</li>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 15</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 2</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 16</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/QxS2XSwy195IkYiyeqQFf6dDbK8FEFyUEyvC35Sk-s8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTQ2/NzQ3LTE2NzIxOTM5/NzktOTM0OC5qcGVn.jpeg" alt="Cover for Nielegalne rytmy" style="max-width:120px; height:auto;" />
       </td>
@@ -678,7 +703,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/SgFNzPvOPuUc_xZxrKcopgKL8EhhzuezRriATdF7cOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/Ny0xMzQ5NjE0MjM2/LTk5NzcuanBlZw.jpeg" alt="Cover for Next-Retail CD" style="max-width:120px; height:auto;" />
       </td>
@@ -696,28 +721,27 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f5092a408b5db4a889311894cca9c6d.png" alt="Cover for Arular" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-22</td>
       <td>M.I.A.</td>
       <td>Arular</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/grime" | relative_url }}">grime</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 45</li>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 78</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 77</li>
             <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
       </td>
       <td>2005-06-18</td>
@@ -738,7 +762,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/Rt-0B67_uMpaxVrAs0cpKGHC6BX8qPuZGOgDwtUgGvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/MzQtMTIzMjc0MzMx/My5qcGVn.jpeg" alt="Cover for Unknown Language" style="max-width:120px; height:auto;" />
       </td>
@@ -762,6 +786,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0064d12db8ff4332a351585332ae2cd5.png" alt="Cover for Music of the Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-08-29</td>
       <td>Rihanna</td>
@@ -782,6 +807,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8304d21a03b44ba82ad258f3d85a3bf.png" alt="Cover for Welcome to Jamrock" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-12</td>
       <td>Damian Marley</td>
@@ -802,7 +828,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/uBmG-RH0uw85YKgp05dyL45MAeAxf_YaddWpzfK8KWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE1/NjUtMTE4ODI4Mzgx/OC5qcGVn.jpeg" alt="Cover for The Trinity" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f44e34eaa88dbc4dc1d1117c400a408.png" alt="Cover for The Trinity" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-26</td>
       <td>Sean Paul</td>
@@ -836,7 +862,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 18</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -861,7 +887,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
       </td>
       <td>2006</td>
@@ -878,14 +904,14 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 21</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 25</li>
             <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 82</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/DaqvBx0uCehY1njd4GOkqtEefYlYx9Jh4B6fQCaIrNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTYz/MTE4LTE1ODI2OTU5/NTQtNDA4Ni5qcGVn.jpeg" alt="Cover for Top Of The Line El Internacional" style="max-width:120px; height:auto;" />
       </td>
@@ -906,8 +932,9 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/100944bdf25b49069c52d270f78e6ab1.png" alt="Cover for A Girl Like Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-10</td>
       <td>Rihanna</td>
@@ -926,7 +953,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2006-04-18</td>
@@ -946,7 +973,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/H8J9wLF9HelMow4piHAs3mjgKU8VX8HbnaFGjGvQrzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDYw/MjAtMTM4MDcyOTg5/NS02MDUwLmpwZWc.jpeg" alt="Cover for Stronger Than Before" style="max-width:120px; height:auto;" />
       </td>
@@ -962,26 +989,6 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       <td>
         <ul>
             <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 72</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>
-          <img src="https://i.discogs.com/9bQFZu-AeeBZrgfdj7hit9XTZqKQQ8lbY1735hJOTkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUw/NDgtMTUyMDc0OTIw/OS00MjI3LmpwZWc.jpeg" alt="Cover for Love Is Wicked" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Brick &amp; Lace</td>
-      <td>Love Is Wicked</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1069,8 +1076,9 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6834a67b56d3e444599f7d7c73464740.png" alt="Cover for Gangsta For Life: The Symphony Of David Brooks" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-07-10</td>
       <td>Mavado</td>
@@ -1103,25 +1111,26 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>1</td>
       <td>
       </td>
-      <td>2007-08-07</td>
-      <td>Kat DeLuna</td>
-      <td>9 Lives</td>
+      <td>2007-07</td>
+      <td>Natural Black</td>
+      <td>Love Gonna Conquer Evil</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
       </td>
       <td>2008-08-29</td>
@@ -1143,6 +1152,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f2215b8f5da47b88388ec67d621b495.png" alt="Cover for Stadtaffe" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-26</td>
       <td>Peter Fox</td>
@@ -1162,7 +1172,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2008-11-17</td>
@@ -1198,14 +1208,14 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       <td>
         <ul>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 73</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 92</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/356yXOJY3xhCnC2YRFe6natznRzyQ-pSER6xiGkcgmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDYw/NDEyLTE2Mzc0NDMx/NDYtNzM0NS5qcGVn.jpeg" alt="Cover for Unforgettable (Major Lazer Remix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8857787bb2d117db5bc0ca4176c53347.png" alt="Cover for Unforgettable (Major Lazer Remix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>French Montana</td>
@@ -1223,7 +1233,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/K54qzwmcAoATqRHyGC4so_YJvSowzH1VdQc_HiSC9l8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDUx/NzMtMTIzODE1NTQx/My5qcGVn.jpeg" alt="Cover for Mr. Brooks...A Better Tomorrow" style="max-width:120px; height:auto;" />
       </td>
@@ -1242,7 +1252,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/y3OmEwMrzLX3PizfK5zdzpISVnNiExhDXJ7bLgwZeXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTEz/MjItMTI2MzQ5ODQ4/Ny5qcGVn.jpeg" alt="Cover for L.S.M. [kk26]" style="max-width:120px; height:auto;" />
       </td>
@@ -1262,7 +1272,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1851f0211d7749fc804d1bb1bbc4b50c.png" alt="Cover for Imperial Blaze" style="max-width:120px; height:auto;" />
       </td>
@@ -1297,12 +1307,12 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 50</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>2009-12-04</td>
@@ -1319,7 +1329,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/YRzSbD6dN2xRVAG0ayM0gRdW3t38GK6ZrzH3ZhuQrpU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjc0/OTctMTI3NzE5ODI5/NC5qcGVn.jpeg" alt="Cover for LazerProof" style="max-width:120px; height:auto;" />
       </td>
@@ -1338,7 +1348,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
       </td>
       <td>2010-08-13</td>
@@ -1381,7 +1391,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/PmlJ4CHOfoYFkujpKb6MGBT91g8eEqNiqMO584OadIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDg4/MTItMTI5MDgxNjA0/Mi5qcGVn.jpeg" alt="Cover for Infected Ep" style="max-width:120px; height:auto;" />
       </td>
@@ -1400,7 +1410,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/7oHq5xrbKPBFt_y2rQFqGt3B451n4GVMMTKWCTRp4kI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTQx/MTgtMTMxMDg1OTYy/MC5qcGVn.jpeg" alt="Cover for Watch Me Dance" style="max-width:120px; height:auto;" />
       </td>
@@ -1418,7 +1428,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>2011-11-25</td>
@@ -1458,7 +1468,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/EjbZXb3342jt_vA6XFv1dRuwjnB9PVkDFSU-UsXlzv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODU1/OTktMTUzODE1NTE4/Ny00MzEwLmpwZWc.jpeg" alt="Cover for More Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/434a922ecca5474f1f9d6bbcc3a1050c.png" alt="Cover for More Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Drake</td>
@@ -1472,14 +1482,15 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       <td>
         <ul>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 25</li>
-            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 40</li>
+            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 41</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/751fc61d9566405f82843c647f1fea39.png" alt="Cover for Meine Soldaten" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-03</td>
       <td>Maxim</td>
@@ -1530,8 +1541,8 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
         <ul>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 2</li>
             <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 71</li>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 75</li>
             <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 75</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 76</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 88</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 90</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 96</li>
@@ -1558,12 +1569,12 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 80</li>
+            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
       </td>
       <td>2014-02-21</td>
@@ -1637,7 +1648,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/78gI94MNKHSmkfWVbcNOrITiLy7yRkaoXT1ySbWRUdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg1/NDA2LTE0OTY0MjM1/NzgtMzEwNS5qcGVn.jpeg" alt="Cover for Slow Wine Mixtape" style="max-width:120px; height:auto;" />
       </td>
@@ -1654,7 +1665,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/m1HzujRO-cau7ZC4WFabx5ahR9A_oyq9KBbSlWN9Bl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzIx/MTg5LTE2NjI4MjQy/NTQtMjY5NS5qcGVn.jpeg" alt="Cover for Not Nice" style="max-width:120px; height:auto;" />
       </td>
@@ -1687,7 +1698,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 95</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1764,7 +1775,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/61KLFAEsE8JGNXjK4Q4wJt-D0-kOHHB93tymDcKym4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTg0/NDk3LTE1MjYwMDUw/MzgtMTI2Mi5qcGVn.jpeg" alt="Cover for All I Want" style="max-width:120px; height:auto;" />
       </td>
@@ -1789,7 +1800,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/4uwLlv5RMIXeIlQukBycyIeRiX7uCpF0NOHIdzWnMyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI1/MDAwLTE1Mjg4MDQ2/NTItMTAzNC5qcGVn.jpeg" alt="Cover for Vibras" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8595d9e5445d021db45bd5912608f9ef.png" alt="Cover for Vibras" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-25</td>
       <td>J Balvin</td>
@@ -1802,12 +1813,12 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/UBT9Ze8yONpEv9flFVCleT2EfGzBNdoGt-ClzVoJlXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzA0/Njg4LTE1MzI1NDU0/NjgtMjQzOS5qcGVn.jpeg" alt="Cover for Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -1861,9 +1872,9 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
-          <img src="https://i.discogs.com/vndFIsniKhUuZIZIVgeGV49O-14KO0W_ws1PhHvWsVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY2/ODgzLTE1OTc0MjUw/OTAtMTk4OC5qcGVn.jpeg" alt="Cover for Veterano" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1858f165933013e2a7480f123a701e13.png" alt="Cover for Veterano" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Nego Gallo</td>
@@ -1920,7 +1931,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/5sLsNj-BLJZy7USjNv56Pdka1WfEiw1Bu57mSLorscI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDg5/MzU0LTE2MzA2MDU3/OTAtOTUxMS5qcGVn.jpeg" alt="Cover for besitos, cuídate" style="max-width:120px; height:auto;" />
       </td>
@@ -1933,7 +1944,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 2</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 1</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 4</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 41</li>
         </ul>
@@ -1977,7 +1988,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       <td>
         <ul>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 34</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 70</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 71</li>
             <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 88</li>
         </ul>
       </td>
@@ -2002,7 +2013,7 @@ Dancehall is a genre of Jamaican popular music that originated in the late 1970s
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/Hsaa7zrbnroZGDerTZoANoYx2isyT2G3HJfURYkkf6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk3/NjEzLTE1NDQwODk0/MzctMzAxMi5qcGVn.jpeg" alt="Cover for Real Ting Mixtape" style="max-width:120px; height:auto;" />
       </td>
