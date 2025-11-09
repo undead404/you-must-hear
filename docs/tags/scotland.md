@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T11:37:51.203Z
+date: 2025-11-08T18:30:57.058Z
 permalink: tags/scotland
 title: scotland
 ---
 
 ## scotland
 
-Last updated: <time datetime="2025-11-01T11:37:51.203Z">Sat Nov 01 2025 13:37:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-08T18:30:57.058Z">Sat Nov 08 2025 20:30:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
   </thead>
   <tbody>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/h69a9-9EzEeusp78SF14ItWMU56eX8iwrQa9RRoClRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzI4/MTEwLTE2NzgxMzQ1/MDgtNTQ2OS5qcGVn.jpeg" alt="Cover for Songs of Scotland" style="max-width:120px; height:auto;" />
       </td>
@@ -141,7 +141,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c94c282c0f57a982065985d599da54fd.png" alt="Cover for The Rod Stewart Album" style="max-width:120px; height:auto;" />
       </td>
@@ -188,24 +188,6 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a9b60bcfcfb94c2cdeb2e889288a656.png" alt="Cover for A Night on the Town" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1976</td>
-      <td>Rod Stewart</td>
-      <td>A Night on the Town</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
@@ -356,7 +338,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/E7jhoEnOQ-Mkp8c-yk6CuUcnmmvglrOkfY8wZkQW5do/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjgz/Ni0xNjA2NTc3MDc4/LTM3OTEuanBlZw.jpeg" alt="Cover for Faith" style="max-width:120px; height:auto;" />
       </td>
@@ -379,7 +361,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/sK4oAj5tbPSzg4to5Qg4j6TKYw0125Ftf6kV11yGkNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Nzgy/OS0xMTIxOTcwOTQx/LmpwZw.jpeg" alt="Cover for Sideway Look" style="max-width:120px; height:auto;" />
       </td>
@@ -418,7 +400,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 34</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 32</li>
             <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 68</li>
         </ul>
       </td>
@@ -426,6 +408,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c4d9479029bcd7b026fa57465f8a2fa.png" alt="Cover for Strawberry Switchblade" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Strawberry Switchblade</td>
@@ -437,7 +420,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 2</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -483,7 +466,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/IM-BoOIQmD3vOnqt8RYC50ZfgPaoWK-FH_28NOsjsTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTA2/Ni0xMzU4MDUyMTg3/LTkwOTUuanBlZw.jpeg" alt="Cover for Truthdare Doubledare" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a99a6e2510c0eb5c0e53412aa43768c2.png" alt="Cover for Truthdare Doubledare" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-07</td>
       <td>Bronski Beat</td>
@@ -660,7 +643,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 36</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -832,6 +815,26 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
     </tr>
     <tr>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10c7a8f41cc916c002ddf6b9633c767b.png" alt="Cover for White On Blonde" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-02-01</td>
+      <td>Texas</td>
+      <td>White On Blonde</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 57.95454545454546 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac344ef22a5446dbc6401707b8ff59a4.png" alt="Cover for Good Feeling" style="max-width:120px; height:auto;" />
@@ -850,7 +853,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/t1fZLHe7POJ1EC5UgHecFHrShhE6REJ0CSAIkI52vLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk1/NzI4LTE1MjA5NTAz/MjEtNzYzNi5qcGVn.jpeg" alt="Cover for Celtic Roads: Through Ireland, Scotland and Brittany" style="max-width:120px; height:auto;" />
       </td>
@@ -1057,7 +1060,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/XYu9_F267Y3h5rtFdMOajlsm7hEQoKyXSvXU2q1zUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzY5/OTgtMTIzMzcwMTIw/NS5qcGVn.jpeg" alt="Cover for No Frills Friend" style="max-width:120px; height:auto;" />
       </td>
@@ -1114,7 +1117,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/ZR8BeO8yrtB2mM2vGEenjw90ezWKWPB2IvtWg_Fc6ZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODY1/MjctNTE3Ny5qcGVn.jpeg" alt="Cover for Step Into My Office Baby" style="max-width:120px; height:auto;" />
       </td>
@@ -1162,7 +1165,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td>2004-09-21</td>
@@ -1217,7 +1220,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/1t6e4RadAdleBxQ-2LC_mHOJ1k1EZKmfQnTCGkM89xM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzgw/OTk2LTE1NzMzODEy/ODUtNTE1NS5qcGVn.jpeg" alt="Cover for From The Dawn Of Time We Came...." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a823891621a3c9aff5bbc056be155009.png" alt="Cover for From The Dawn Of Time We Came...." style="max-width:120px; height:auto;" />
       </td>
       <td>2005-04-01</td>
       <td>All Time High</td>
@@ -1242,7 +1245,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/cSJ08LI5O723IP-epZPW_o9E9zZ2jAMGFnKVxvNuxhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU2/ODAzLTE1ODc0MDg1/NTgtMTYzNC5qcGVn.jpeg" alt="Cover for Why are you still here?" style="max-width:120px; height:auto;" />
       </td>
@@ -1393,7 +1396,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/S_jqI4TXli8lxxI2gEwQEV9RBapB_BsAwagNgfQ3M0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjkx/MjQtMTMzMDE4ODEx/MS5qcGVn.jpeg" alt="Cover for Cuilidh" style="max-width:120px; height:auto;" />
       </td>
@@ -1591,7 +1594,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/LodQ31fo2xLUZ4FA_hJy7r9iRUnQgq-73iM7pXQvEOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcy/NjQtMTQ1Mzk5NDc4/Mi0xMDEzLmpwZWc.jpeg" alt="Cover for The Constant" style="max-width:120px; height:auto;" />
       </td>
@@ -1665,6 +1668,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76531a5cf8c94ca0969c6061a49dbcac.png" alt="Cover for Codeine Velvet Club" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-25</td>
       <td>Codeine Velvet Club</td>
@@ -1683,6 +1687,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4848a894cb144938ace389b39f9dfb02.png" alt="Cover for It Looked So Good On Me..." style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-30</td>
       <td>VUKOVI</td>
@@ -1730,7 +1735,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/k9aLygYEmi-YpURmeyS3QYJlO_Dux7Uc7woUmquUHEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDAw/ODMtMTQ0OTkyMzE5/Ni03Mjk4LmpwZWc.jpeg" alt="Cover for ...But I Won&#39;t Wear You Again" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1517c160a8da4307984bd84e8bb13c46.png" alt="Cover for ...But I Won&#39;t Wear You Again" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-09</td>
       <td>VUKOVI</td>
@@ -1770,6 +1775,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab2f1413fd654d3d82da03efef30d388.png" alt="Cover for Sweet Swears" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-22</td>
       <td>VUKOVI</td>
@@ -2051,7 +2057,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-30T06:07:39.629Z
+date: 2025-11-08T18:48:31.964Z
 permalink: tags/jamaican
 title: jamaican
 ---
 
 ## jamaican
 
-Last updated: <time datetime="2025-10-30T06:07:39.629Z">Thu Oct 30 2025 08:07:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-08T18:48:31.964Z">Sat Nov 08 2025 20:48:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -198,7 +198,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
       </td>
       <td>1976-04-30</td>
@@ -331,7 +331,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/nRsKmDpTq_XkxHM38gGmBW4lTfOoieu0U8rz_snsh4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDAy/OC0xNDYxMDcwMjQ1/LTM0MzIuanBlZw.jpeg" alt="Cover for Babylon By Bus" style="max-width:120px; height:auto;" />
       </td>
@@ -349,7 +349,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/hE32wPD-bvfTF4nKbzL4SLyWsc0Gz1VK_jLAzoEHb_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDIy/MC0xNjA4OTAxMTc2/LTQyMDUuanBlZw.jpeg" alt="Cover for Mystic Man" style="max-width:120px; height:auto;" />
       </td>
@@ -388,7 +388,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/EUMzRrXI5n-hHXFif70uxsfC8to_i2-ez4VX1piKviw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NzY2/NTgtMTQ3MDYwNDMy/Ni00ODgyLmpwZWc.jpeg" alt="Cover for Soul Revolution Part II" style="max-width:120px; height:auto;" />
       </td>
@@ -445,6 +445,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f28cb7a577376f87ec1785083acd901.png" alt="Cover for Nightclubbing" style="max-width:120px; height:auto;" />
       </td>
       <td>1981-05-04</td>
       <td>Grace Jones</td>
@@ -484,7 +485,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/TnlsrDPRDCjbdol08J4pvSdEzIFht2HLlzOn-kPv6k4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTc3/MzItMTYwOTE4ODUy/OS03NTAyLmpwZWc.jpeg" alt="Cover for Mento Mania Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -525,7 +526,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/Vcw3vrsDITjrWW6lKkcQs32_eEvfUFAWi8gRyXIPx4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzcw/NzctMTMyNDA0NTUw/MC5qcGVn.jpeg" alt="Cover for Princess Lady" style="max-width:120px; height:auto;" />
       </td>
@@ -544,8 +545,9 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ffdc84aa891559c3f4f7db5545ede90.png" alt="Cover for Living My Life" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Grace Jones</td>
@@ -563,6 +565,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e96c73c21ef07b0f0af0965f2024a3c4.png" alt="Cover for Confrontation" style="max-width:120px; height:auto;" />
       </td>
       <td>1983-03-23</td>
       <td>Bob Marley &amp; The Wailers</td>
@@ -603,7 +606,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
       </td>
       <td>1984</td>
@@ -620,16 +623,16 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddbbcfc11f7e5f1efb6a0edd35de8f9f.png" alt="Cover for Island Life" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Grace Jones</td>
       <td>Island Life</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
         </ul>
       </td>
       <td>
@@ -758,7 +761,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/V-FNuBJWWzi8us7-BAGk2lzqxUmgdghT7by8GELGxSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzk4/MTctMTQyNDQ3NTA3/MS0xMjc3LmpwZWc.jpeg" alt="Cover for Hot Number" style="max-width:120px; height:auto;" />
       </td>
@@ -783,7 +786,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/VP4JnM2axAKOxOLCBtr54XkaHMdGs98ZVCblnYHl_Zw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDIz/NC0xNTU5NzUyNzI5/LTI0ODcuanBlZw.jpeg" alt="Cover for Tales of Mozambique" style="max-width:120px; height:auto;" />
       </td>
@@ -840,7 +843,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/aV1F1ns2eO9pWq-ATaJ7oUL_c1wfkQbUnQQ8WhW_QQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTgz/OC0xMTMwMzMzMzUw/LmpwZWc.jpeg" alt="Cover for Stamina Daddy" style="max-width:120px; height:auto;" />
       </td>
@@ -914,7 +917,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/x_P71DVLtWFohe6LkZvvGa41ejarONvmV7JQBTWeoPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODAy/OC0xMjMyNDExOTQ5/LmpwZWc.jpeg" alt="Cover for Miracle" style="max-width:120px; height:auto;" />
       </td>
@@ -938,7 +941,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
       </td>
       <td>1997</td>
@@ -951,12 +954,12 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 25</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/XXW9-nZ3lxhofPqsAq_KbWrJ1M8bqsI4cDQzLDGwFas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTg4/MzY3LTE1ODc4NDUy/NDktNTU4NC5qcGVn.jpeg" alt="Cover for American Dread" style="max-width:120px; height:auto;" />
       </td>
@@ -1031,7 +1034,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
       </td>
       <td>1997-08-21</td>
@@ -1074,7 +1077,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/SF6SQy0hJ097udwRktsak7jbeBCFJ2SI7hK7baLjx-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDAy/MTEtMTI3NDA0ODg3/NS5qcGVn.jpeg" alt="Cover for Gold (1967-1972)" style="max-width:120px; height:auto;" />
       </td>
@@ -1110,7 +1113,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
       </td>
       <td>1998-06-08</td>
@@ -1146,7 +1149,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
       </td>
       <td>2000</td>
@@ -1224,7 +1227,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/5YyTEt0dOh32ahCy-TqD6wu09iko_BjomGc5lMIw4j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDU3/NjQtMTYyMTI4NTYw/NS02ODg5LmpwZWc.jpeg" alt="Cover for The biggest ragga dancehall anthems 2002" style="max-width:120px; height:auto;" />
       </td>
@@ -1359,7 +1362,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
         <ul>
             <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 38</li>
             <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 78</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 95</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1383,7 +1386,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/ldZYgvBMeHPtIPZk1nPFl722_IqJXDCHj-L5LMiWxhE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzcy/MDQtMTUyMzk0OTA2/OC00OTIxLmpwZWc.jpeg" alt="Cover for Good and Bad" style="max-width:120px; height:auto;" />
       </td>
@@ -1429,7 +1432,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/vH_fTIHuvsikuQkfQgpUJCzOeveoarND4gUQV9HkbQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI0/OTAtMTU4NjQzNzQ1/NC01MDExLmpwZWc.jpeg" alt="Cover for Marshall Law" style="max-width:120px; height:auto;" />
       </td>
@@ -1449,7 +1452,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/uYCU24Znu_xaQMJrO4Gc8AT0ubNmhQBOsCR2aYx2hfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQ3/NjgtMTI1Mzg5NTYz/NC5qcGVn.jpeg" alt="Cover for Lion Treasury, Legendary Roots Reggae Classic" style="max-width:120px; height:auto;" />
       </td>
@@ -1506,7 +1509,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/5YyTEt0dOh32ahCy-TqD6wu09iko_BjomGc5lMIw4j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDU3/NjQtMTYyMTI4NTYw/NS02ODg5LmpwZWc.jpeg" alt="Cover for The Biggest Ragga Anthems 2002" style="max-width:120px; height:auto;" />
       </td>
@@ -1526,7 +1529,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/JKQtwr04-k15LuKgt-Eet1-XU3l8QYuJpeyPfH_BY2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTQ2/MC0xNjU3NTE1NjQ1/LTUzMDEuanBlZw.jpeg" alt="Cover for Living Dub Vol. 5" style="max-width:120px; height:auto;" />
       </td>
@@ -1565,7 +1568,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
       </td>
       <td>2006-07-25</td>
@@ -1584,9 +1587,28 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90ce8f209dba4b2aad8548a87d1a7476.png" alt="Cover for Love Is Wicked" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Brick &amp; Lace</td>
+      <td>Love Is Wicked</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 23</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/FPbg_s16UdgSnzReRYqONJVAXpPeqAeaUyrL00P4Qbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTk0/ODYtMTQwNTc4NzI1/OS04MDgyLmpwZWc.jpeg" alt="Cover for Primadonna" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4de4b6b519784c728e26f47340f56b6f.png" alt="Cover for Primadonna" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Tami Chynn</td>
@@ -1606,7 +1628,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/8oIW9B8YhLfv5Z2jQrKEYN-3LKNjCVWLVn0uCPMEDps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjU2/OTUtMTIzMjEzNzA0/NC5qcGVn.jpeg" alt="Cover for Torcidas de Futebol do Nordeste" style="max-width:120px; height:auto;" />
       </td>
@@ -1712,7 +1734,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/ctZ7ManJ-svtHApFMcvacNY0zA_DWB3m_uT_wAszQ04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTAx/ODUtMTQ1NDE4MTI0/MS01MTM3LmpwZWc.jpeg" alt="Cover for Madlib Medicine Show No. 4 - 420 Chalice All Stars" style="max-width:120px; height:auto;" />
       </td>
@@ -1751,7 +1773,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/f1lXe7rBGif369LYR9010yfbTfrC9A-q-NiU5DtHSVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjMx/MDM5LTE1MTIzMzgy/MDEtODIwNy5qcGVn.jpeg" alt="Cover for Chin&#39;s Calypso Cd 5" style="max-width:120px; height:auto;" />
       </td>
@@ -1833,50 +1855,6 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Vlad Pronin</td>
-      <td>Dark &amp; Long Mixtape 4AE</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 16</li>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 17</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>60</td>
       <td>
       </td>
@@ -1896,7 +1874,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
