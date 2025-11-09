@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-06T07:20:42.175Z
+date: 2025-11-08T23:03:38.284Z
 permalink: tags/rock
 title: rock
 ---
 
 ## rock
 
-Last updated: <time datetime="2025-11-06T07:20:42.175Z">Thu Nov 06 2025 09:20:42 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-08T23:03:38.284Z">Sun Nov 09 2025 01:03:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
   </thead>
   <tbody>
     <tr>
-      <td>8</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29490302d152888afc06a03b49f444fb.png" alt="Cover for Rubber Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -44,14 +44,13 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 75</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>13</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b452c0defc75479bb1e3e273b8464d95.png" alt="Cover for Aftermath" style="max-width:120px; height:auto;" />
       </td>
       <td>1966-04-15</td>
       <td>The Rolling Stones</td>
@@ -63,14 +62,13 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 20</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21394faeb4c2e3696ac5c2bfb6e93672.png" alt="Cover for Revolver" style="max-width:120px; height:auto;" />
       </td>
       <td>1966-08-05</td>
       <td>The Beatles</td>
@@ -83,12 +81,13 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 53</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 18</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f304ba0296794c6fc9d0e1cccd194ed0.png" alt="Cover for Abbey Road" style="max-width:120px; height:auto;" />
       </td>
@@ -102,12 +101,12 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 50</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2550608de7d41d2c18bcd9f0db1bc00.png" alt="Cover for Can&#39;t Buy A Thrill" style="max-width:120px; height:auto;" />
       </td>
@@ -126,7 +125,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f9e7a75277e438197de13fdbf1cafdb.png" alt="Cover for Born to Run" style="max-width:120px; height:auto;" />
       </td>
@@ -165,7 +164,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td>1977-08-29</td>
@@ -185,7 +184,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/406d21db13fc76a1525abf3fc10d265f.png" alt="Cover for Dire Straits" style="max-width:120px; height:auto;" />
       </td>
@@ -200,12 +199,12 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 90</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b746f016aef9f8a8274c3f377e0d6316.png" alt="Cover for The Joshua Tree" style="max-width:120px; height:auto;" />
       </td>
@@ -223,7 +222,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/186d8f509e10fafc3493fc2ae7852a64.png" alt="Cover for Synchronicity (Remastered 2003)" style="max-width:120px; height:auto;" />
       </td>
@@ -241,7 +240,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0c650e7f12684cd3dae5b865f9d1832.png" alt="Cover for Jeremy" style="max-width:120px; height:auto;" />
       </td>
@@ -260,7 +259,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d19f35fd24fd83aa03b92a1198846690.png" alt="Cover for Paint It Black" style="max-width:120px; height:auto;" />
       </td>
@@ -275,7 +274,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 89</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -319,7 +318,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 47</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 56</li>
             <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 81</li>
         </ul>
       </td>
@@ -338,7 +337,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 42</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 52</li>
             <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 82</li>
         </ul>
       </td>
@@ -357,34 +356,13 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 20</li>
             <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01783165e340ca652384d141a05588fe.png" alt="Cover for No Need to Argue" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994-09</td>
-      <td>The Cranberries</td>
-      <td>No Need to Argue</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 96 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 29</li>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 68</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/MxkYPNJveNPRh751VI7MlSpvB-iSEP8fyxlPE3NMvT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NjI0/Ny0xMjA4NTA0NDQ5/LmpwZWc.jpeg" alt="Cover for Bends" style="max-width:120px; height:auto;" />
       </td>
@@ -398,33 +376,13 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 23</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 27</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d6e35eaf31f4e1db42b2ea247d90bb7.png" alt="Cover for Jagged Little Pill" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995-06-09</td>
-      <td>Alanis Morissette</td>
-      <td>Jagged Little Pill</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 89 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 24</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b217359e775a8b6a7bc443abe5b08c2.png" alt="Cover for (What&#39;s the Story) Morning Glory?" style="max-width:120px; height:auto;" />
       </td>
@@ -444,7 +402,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04797853e460d46e290e68d652ef1f6a.png" alt="Cover for Tragic Kingdom" style="max-width:120px; height:auto;" />
       </td>
@@ -465,7 +423,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f39c09dc965abeda75a5e3e359338f8.png" alt="Cover for Fashion Nugget" style="max-width:120px; height:auto;" />
       </td>
@@ -483,7 +441,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/62d26c6cb4ac4bdccb8f3a2a0fd55421.png" alt="Cover for OK Computer" style="max-width:120px; height:auto;" />
       </td>
@@ -498,7 +456,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 67</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 70</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 92</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 99</li>
         </ul>
@@ -551,7 +509,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4384d762a0d44a45aa5f35ebcade8eef.png" alt="Cover for Make Yourself" style="max-width:120px; height:auto;" />
       </td>
@@ -571,7 +529,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c21b3923a4d3ff5629996f3f8e178140.png" alt="Cover for Hybrid Theory" style="max-width:120px; height:auto;" />
       </td>
@@ -592,7 +550,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fbcfb7258117e88cb73b45e25c88b01.png" alt="Cover for Parachutes" style="max-width:120px; height:auto;" />
       </td>
@@ -606,13 +564,32 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 17</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 20</li>
             <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08903e8de53947859fbac649e3d011e1.png" alt="Cover for All That You Can&#39;t Leave Behind" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-10-30</td>
+      <td>U2</td>
+      <td>All That You Can&#39;t Leave Behind</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80f256e56b1043cdbb99da3ac4dd69a0.png" alt="Cover for Is This It" style="max-width:120px; height:auto;" />
       </td>
@@ -633,7 +610,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f6bed4795106f6a5ace9295accf4493.png" alt="Cover for Bleed American" style="max-width:120px; height:auto;" />
       </td>
@@ -648,13 +625,13 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 69</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 71</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c70cda3df810b0d34904b55618e0eebe.png" alt="Cover for Help! (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -693,7 +670,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f95067353057a3c59fe6ba90469e56c6.png" alt="Cover for By the Way" style="max-width:120px; height:auto;" />
       </td>
@@ -714,28 +691,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbf019744c23450f80c16a492c6917e0.png" alt="Cover for Songs About Jane" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002-06-25</td>
-      <td>Maroon 5</td>
-      <td>Songs About Jane</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 52 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 52 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 95</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a54881070cc06d4d4a15f7847c4c255.png" alt="Cover for Heathen Chemistry" style="max-width:120px; height:auto;" />
       </td>
@@ -771,8 +727,28 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 62</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 63</li>
             <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/hAt3evPrN_2dvimSTVjzvHfD8pnBVx4zX13-ivzKde0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDMz/NzEtMTM1NTMzMTkz/MS01MzE4LmpwZWc.jpeg" alt="Cover for Rage Against The Machine&#x2F;Evil Empire" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Rage Against the Machine</td>
+      <td>Rage Against The Machine&#x2F;Evil Empire</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 15</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -792,7 +768,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 15</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 70</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -813,7 +789,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
         <ul>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 16</li>
             <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 59</li>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 61</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -840,7 +816,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2770e3f5cad964e46dbe9e2c3d84be42.png" alt="Cover for Ocean Avenue" style="max-width:120px; height:auto;" />
       </td>
@@ -860,7 +836,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9c961c8da0d4427b7d7a4018738f5df.png" alt="Cover for Room on Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -875,29 +851,9 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 33</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 54</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 56</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 83</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 95</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0beb5604cbf4731ae6856863b82761a.png" alt="Cover for Under My Skin" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004-05-12</td>
-      <td>Avril Lavigne</td>
-      <td>Under My Skin</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -917,14 +873,14 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 35</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 82</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 90</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 36</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 83</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/943Z_SoxqmeXY-ZGhantIaFyyvPP_HklnFI5ZSac6GE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzEw/Ny0xMTgwNjMxNjc5/LmpwZWc.jpeg" alt="Cover for Getting Away With Murder" style="max-width:120px; height:auto;" />
       </td>
@@ -941,14 +897,14 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 8</li>
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 89</li>
             <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bcb675866706c229ad9f77188b8ac44.png" alt="Cover for American Idiot" style="max-width:120px; height:auto;" />
       </td>
@@ -969,7 +925,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/39c3661deb1a495ab1a39861ca30bbea.png" alt="Cover for Aha Shake Heartbreak" style="max-width:120px; height:auto;" />
       </td>
@@ -990,7 +946,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/NuiLwdSwLVp-5Aig7OHgMQL933IjmVSFm5J3BJsJ_Ec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTg3/MTUtMTQzNjQzMjk2/NC04ODQwLmpwZWc.jpeg" alt="Cover for American Idiot (bonus disc)" style="max-width:120px; height:auto;" />
       </td>
@@ -1010,7 +966,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc1ea275a6d04db08a4b3948b32a7c6c.png" alt="Cover for All That We Needed" style="max-width:120px; height:auto;" />
       </td>
@@ -1045,13 +1001,13 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 43</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 44</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73ff2d6aea6d465ac6b9a697ce4c6168.png" alt="Cover for From Under the Cork Tree" style="max-width:120px; height:auto;" />
       </td>
@@ -1066,13 +1022,13 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 84</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 85</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/271483e955d2b255160f3361a7f5fb78.png" alt="Cover for Demon Days" style="max-width:120px; height:auto;" />
       </td>
@@ -1093,7 +1049,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38761f082a1b02ac535785fafc7964cc.png" alt="Cover for X&amp;Y" style="max-width:120px; height:auto;" />
       </td>
@@ -1109,15 +1065,15 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 16</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 43</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 80</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 21</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 46</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 81</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4bd9ed207184af23b8199fb41c8eba2.png" alt="Cover for Get Behind Me Satan" style="max-width:120px; height:auto;" />
       </td>
@@ -1132,13 +1088,13 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 36</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 40</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/03b5b44e892541fabe3061c1d0df3683.png" alt="Cover for How to Save a Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1153,12 +1109,12 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 81</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4799fa93e32360c802cd9b99e2a12a54.png" alt="Cover for All We Know Is Falling" style="max-width:120px; height:auto;" />
       </td>
@@ -1198,7 +1154,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/v1LMDqb7HPIt9_CmZINz9pv00whfnW_6lwCtpVXNSTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Mzkx/Ny0xMTY3MzY0NjEx/LmpwZWc.jpeg" alt="Cover for All The Right Reasons" style="max-width:120px; height:auto;" />
       </td>
@@ -1216,7 +1172,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbbfffdb6896f562264bef91f16c9f3b.png" alt="Cover for Don&#39;t You Fake It" style="max-width:120px; height:auto;" />
       </td>
@@ -1231,14 +1187,14 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 1</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 1</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 2</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e1480805bdf29da606e0de2ac07b205.png" alt="Cover for Whatever People Say I Am, That&#39;s What I&#39;m Not" style="max-width:120px; height:auto;" />
       </td>
@@ -1252,7 +1208,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 44</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 65</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 67</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 99</li>
         </ul>
       </td>
@@ -1275,12 +1231,12 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 27</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 83</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c65460d86d454f3388988c3acf876936.png" alt="Cover for Stadium Arcadium" style="max-width:120px; height:auto;" />
       </td>
@@ -1302,7 +1258,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/03a98e38c34e1dce39f1e7397dbf25bb.png" alt="Cover for Broken Boy Soldiers" style="max-width:120px; height:auto;" />
       </td>
@@ -1322,7 +1278,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
     <tr>
       <td>82</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6d4821f6a554c7bc882a9fa75070dfe.png" alt="Cover for Black Holes and Revelations" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab6de70be40647855f87baa1efac4cef.png" alt="Cover for Black Holes and Revelations" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06-28</td>
       <td>Muse</td>
@@ -1335,12 +1291,14 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 1</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 13</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98c4929524ed494f83a4aa3ef3a6dab0.png" alt="Cover for Razorlight" style="max-width:120px; height:auto;" />
       </td>
@@ -1355,12 +1313,12 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 55</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/803243d801e34ea086447dd28dfe6aca.png" alt="Cover for These Streets" style="max-width:120px; height:auto;" />
       </td>
@@ -1378,7 +1336,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a15c4f3ac52e8d53d14a1ae917c88a7b.png" alt="Cover for The Open Door" style="max-width:120px; height:auto;" />
       </td>
@@ -1414,8 +1372,8 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 49</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 63</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 50</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 65</li>
             <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 89</li>
             <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 91</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 96</li>
@@ -1423,7 +1381,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b01817dacd044f7d9389e6b69933330b.png" alt="Cover for Infinity on High" style="max-width:120px; height:auto;" />
       </td>
@@ -1438,13 +1396,13 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 81</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 82</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c737386c1604655951f7ee93231f29f.png" alt="Cover for Because of the Times" style="max-width:120px; height:auto;" />
       </td>
@@ -1498,15 +1456,15 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 21</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 29</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 30</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 42</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 78</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df27954a78474015b4bf9e8a4eb2649f.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1522,7 +1480,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 35</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 37</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1541,9 +1499,10 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 9</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 36</li>
             <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 62</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 70</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 73</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 80</li>
         </ul>
       </td>
@@ -1565,14 +1524,14 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 27</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 72</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 29</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 73</li>
             <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/826cd46695ae445ca9db6ca7d694cdc0.png" alt="Cover for O My Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1606,14 +1565,14 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 42</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 45</li>
             <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 84</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/67f65a24646b6ad7de63485b78a7a383.png" alt="Cover for The Fray" style="max-width:120px; height:auto;" />
       </td>
@@ -1634,7 +1593,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db822d6479fb3683562a36524c5c7465.png" alt="Cover for It&#39;s Blitz!" style="max-width:120px; height:auto;" />
       </td>
@@ -1649,12 +1608,12 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 45</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ed82a108c6242a6902fcccd206eac7b.png" alt="Cover for Music for Men" style="max-width:120px; height:auto;" />
       </td>
@@ -1668,6 +1627,27 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72a314e1e9064a0418159b144fe1ad72.png" alt="Cover for 21st Century Breakdown" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-04</td>
+      <td>Green Day</td>
+      <td>21st Century Breakdown</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 86</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1691,7 +1671,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b243e3b226cf4b3089e166f30e2cb83c.png" alt="Cover for Waking Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1727,7 +1707,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 74</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 75</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 82</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 94</li>
         </ul>
@@ -1749,13 +1729,13 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 32</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 34</li>
             <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/vOu4DphcNFbne1DUvQ8wNS8fmjs3G5mM90eeASaaXqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTU2/MjAtMTQ3NjQ2NTA2/OC0zNTI0LmpwZWc.jpeg" alt="Cover for overcompensATE" style="max-width:120px; height:auto;" />
       </td>
@@ -1771,13 +1751,13 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 26</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 39</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 29</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cba23a41d35545d7a740f66e1d22b58c.png" alt="Cover for Number One" style="max-width:120px; height:auto;" />
       </td>
@@ -1794,12 +1774,12 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 11</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 65</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/919a1916404a2777163ed83f0057f9cb.png" alt="Cover for Paramore" style="max-width:120px; height:auto;" />
       </td>
@@ -1815,16 +1795,15 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 69</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 74</li>
             <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 78</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb300e3afe470b74b4384b169b96dd56.png" alt="Cover for Ultraviolence (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-06-17</td>
       <td>Lana Del Rey</td>
@@ -1837,7 +1816,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 29</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 50</li>
             <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 53</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 95</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 98</li>
@@ -1863,7 +1842,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/OOj-prXDDiPq1jIKwIL7wp71o6h-BD9sXPK9GM43chA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODk4/OTAtMTQ0NjgwNTI0/Mi0xNzI5LmpwZWc.jpeg" alt="Cover for Adventure Of A Lifetime" style="max-width:120px; height:auto;" />
       </td>
@@ -1882,16 +1861,37 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 33</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 35</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 37</li>
             <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 88</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22fae11f52714165e3efeca3c14084ea.png" alt="Cover for Origins (Deluxe)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-11-09</td>
+      <td>Imagine Dragons</td>
+      <td>Origins (Deluxe)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 4</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/1wS2-N24YN2jGrIfjuTLG2w7_bGV2rCEgIt2OTzVmw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTEw/NTEyLTE1NzYwMTM0/NzUtNTE4MC5qcGVn.jpeg" alt="Cover for Fine Line" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7940fbb1df766b4683951aed490a8b5a.png" alt="Cover for Fine Line" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-12-13</td>
       <td>Harry Styles</td>
@@ -1905,14 +1905,14 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 77</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 81</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 78</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 84</li>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/69bdee0d5985c91adff44a4e04055b2c.png" alt="Cover for Plastic Hearts" style="max-width:120px; height:auto;" />
       </td>
@@ -1927,7 +1927,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       <td>
         <ul>
             <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 18</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 51</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1952,7 +1952,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb3bde22a87ff8b31c0dd915206aa38f.png" alt="Cover for APT." style="max-width:120px; height:auto;" />
       </td>
@@ -1969,13 +1969,13 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 60</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 65</li>
             <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79b94bd821ce482f867947b4eb5c7981.png" alt="Cover for Lies for the Liars" style="max-width:120px; height:auto;" />
       </td>
@@ -1995,7 +1995,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44592187ade17dafe3531db1b7cafbe1.png" alt="Cover for Clancy" style="max-width:120px; height:auto;" />
       </td>
@@ -2016,7 +2016,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa8592aa8d444bdfcb69dbbe39c579b9.png" alt="Cover for City to City" style="max-width:120px; height:auto;" />
       </td>
@@ -2036,7 +2036,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e68669788bdf8e102229b14ab3b64f15.png" alt="Cover for Day &amp; Age" style="max-width:120px; height:auto;" />
       </td>
@@ -2051,7 +2051,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 72</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 73</li>
         </ul>
       </td>
     </tr>
