@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-18T23:58:48.590Z
+date: 2025-11-08T19:41:25.169Z
 permalink: tags/detroit-rap
 title: detroit rap
 ---
 
 ## detroit rap
 
-Last updated: <time datetime="2025-10-18T23:58:48.590Z">Sun Oct 19 2025 02:58:48 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-08T19:41:25.169Z">Sat Nov 08 2025 21:41:25 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,7 +50,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/3qtDNaQnKoZrIY-EAwrRLQtNIqG-oE4hscfKS0y0J-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODA4/OC0xNTgxOTY3MjYy/LTMwNTMubXBv.jpeg" alt="Cover for Without Warning Vol.3" style="max-width:120px; height:auto;" />
       </td>
@@ -72,6 +72,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ec57b92c25e8aa18c19c67eddae68b8.png" alt="Cover for Boomin&#39; Words From Hell" style="max-width:120px; height:auto;" />
       </td>
       <td>1988-06-08</td>
       <td>Esham</td>
@@ -112,7 +113,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/zsQkfck4OWT9Iq2kioOHbLcmYl6l5S9VBR7N5tTtPjY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzI3/NTQtMTQ5MDUzNzk2/MC0yOTExLmpwZWc.jpeg" alt="Cover for Come into My World" style="max-width:120px; height:auto;" />
       </td>
@@ -154,6 +155,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db6f6a9c49c59347ed849f395a3d040a.png" alt="Cover for Doubelievengod" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Natas</td>
@@ -172,7 +174,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/DkLU_Y8dgnZlC0_Rx-1S6KOnYCvB91rnz6Xz4ADQan0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Mzk0/MS0xMzcwMDkzMjg5/LTgzMzEuanBlZw.jpeg" alt="Cover for Lickkuiddrano" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c3a78c2840f48a0b1b2627066133496.png" alt="Cover for Lickkuiddrano" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-01-17</td>
       <td>Mastamind</td>
@@ -192,13 +194,13 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 45</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 46</li>
             <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/QiTGPd3UqnzPQBenIjZVqroGubirhG0Yxe7VEK1qsCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ0/NDQtMTI3MzQ4NjQ2/OS5qcGVn.jpeg" alt="Cover for Hellaween: Pure Horror" style="max-width:120px; height:auto;" />
       </td>
@@ -219,6 +221,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b7cb0f86cff6a4b93b31813c9b13b09.png" alt="Cover for Riddle Box" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-10-10</td>
       <td>Insane Clown Posse</td>
@@ -226,8 +229,6 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
         </ul>
       </td>
       <td>
@@ -244,8 +245,9 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db50dc7c1592bd2c8272691f24b617d6.png" alt="Cover for The Great Milenko" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-06-24</td>
       <td>Insane Clown Posse</td>
@@ -264,6 +266,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c9b9007e15500c700c99ff2bf31bb51.png" alt="Cover for Mostasteless" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-11-25</td>
       <td>Twiztid</td>
@@ -301,7 +304,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/Lz58ejc_FlVZqiGD7PD6mvSL5TaxabZ5nirgZokKlEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDE3/NzQtMTQxOTMwNDcy/Ni00OTQ1LmpwZWc.jpeg" alt="Cover for Serial Killaz" style="max-width:120px; height:auto;" />
       </td>
@@ -320,13 +323,13 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 38</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 37</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/aagvYqDV9fimjUhHXXkO5qSWpXZL-WpyUEbIL3Fr63A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjQ3/MC0xMzcwODE4Mjk1/LTgxODIuanBlZw.jpeg" alt="Cover for Venus Flytrap" style="max-width:120px; height:auto;" />
       </td>
@@ -365,7 +368,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/hBrDUpzpxytugF8OrIqxvDKSMw3rBkHpF2VJOyTzB0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTk3/Mjc3LTE2MDUxMDky/NzgtMzg3Ni5qcGVn.jpeg" alt="Cover for Mudd Deep Babies" style="max-width:120px; height:auto;" />
       </td>
@@ -386,7 +389,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/KjI2pSHHxH4MkzdBi1B83xaDLOv7HjBitYSfd9F_vXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjM2/OC0xNjM2OTA3Mzc0/LTQwNTAuanBlZw.jpeg" alt="Cover for Tongues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a354b9dfb6e4826aee5b0967a5d323b.png" alt="Cover for Tongues" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Esham</td>
@@ -504,7 +507,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/N2u03Tzc9B7FYqrKZFIvRjDLVyEqDkKo6JqtTqbgZqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDU5/NTMtMTM4MzI0NzUy/MC03MzYyLmpwZWc.jpeg" alt="Cover for The Green Book" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/379d2be99b0526872c167b8daaddf18d.png" alt="Cover for The Green Book" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-07-01</td>
       <td>Twiztid</td>
@@ -526,6 +529,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/132f7448468d2126f0b527852480732b.png" alt="Cover for Cheers" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-23</td>
       <td>Obie Trice</td>
@@ -542,7 +546,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/MvVAcYvobPmm4hWlRdg8GnhJzbCGRM6k-7b8DuWggW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTcw/MjMzLTE1NTk1NDAy/MzItMTYwOC5qcGVn.jpeg" alt="Cover for Stack Master" style="max-width:120px; height:auto;" />
       </td>
@@ -597,9 +601,9 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/nTCyJaCsn-c-bl09O4u8GPMx5adZIEk5TL1d0NJfmiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk0/OTgtMTIxNDUyMjgw/My5qcGVn.jpeg" alt="Cover for The 12 Step Program" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6a1d0c30ef5164c4e11399ce0b93117.png" alt="Cover for The 12 Step Program" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Skrapz</td>
@@ -618,7 +622,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 33</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 32</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 34</li>
         </ul>
       </td>
@@ -626,6 +630,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7be4dca794c846c19c3dba58946507e7.png" alt="Cover for The Calm" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-17</td>
       <td>Insane Clown Posse</td>
@@ -724,9 +729,29 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cf4601967c425e104df77cbebfd20fc.png" alt="Cover for Second Rounds On Me" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-08-11</td>
+      <td>Obie Trice</td>
+      <td>Second Rounds On Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 42</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/lws-SoRw7vVme-lTwX-YN1x_0Oc8m6JW3QoOfvMyIv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/ODAtMTY0NTkxMTc3/NC03ODg2LmpwZWc.jpeg" alt="Cover for The Bar Exam" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54583e91e9aa5271d809f9f4dec5a7c1.png" alt="Cover for The Bar Exam" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Royce da 5&#39;9&quot;</td>
@@ -745,7 +770,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/B9QD0vlCXliP572ZhMw8FL6QvlrdhzA9LwkiQQK6yMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQx/MjgtMTU1OTc5MjYy/MS04ODMyLmpwZWc.jpeg" alt="Cover for Baby Unk 2" style="max-width:120px; height:auto;" />
       </td>
@@ -766,6 +791,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be415db3dd19301bd8e8c51723556a3a.png" alt="Cover for Independent&#39;s Day" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-07-03</td>
       <td>Twiztid</td>
@@ -785,7 +811,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/Fv_59Zbt3qV0Sk46yerH-ivvZzhhjGHdsxWbSXP6MF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTgy/NjktMTIzNzY4MTg0/OC5qcGVn.jpeg" alt="Cover for The Villain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c2fa4df7e5d4423bf18fb06cd42e157.png" alt="Cover for The Villain" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-30</td>
       <td>Trick Trick</td>
@@ -804,14 +830,15 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       <td>
         <ul>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 30</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 61</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 75</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 62</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2e4e7fefb7a40748399c29d23d64c7b.png" alt="Cover for Certified WhiteBoy" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Shane Capone</td>
@@ -833,7 +860,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       <td>
         <ul>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 7</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 50</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 51</li>
             <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 57</li>
         </ul>
       </td>
@@ -862,7 +889,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/uQP8x3X3yCefuwUCACj4jgJ1SWwbfPKHH2hokxeoMd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODA2/NTQyLTE1Mzc5MjM5/MDgtNDIxNS5qcGVn.jpeg" alt="Cover for King of Horrorcore, Vol.1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10c9efb6e1bc4245849352b0279be05b.png" alt="Cover for King of Horrorcore, Vol.1" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-13</td>
       <td>King Gordy</td>
@@ -918,7 +945,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/Vs7QGCQ57GX01AIOA_OELYkUSu4fWOJ90ze0UzWcLuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODMx/MDY3LTE1NDI3OTMy/NzgtMzk4Mi5qcGVn.jpeg" alt="Cover for Rich &amp; Famous" style="max-width:120px; height:auto;" />
       </td>
@@ -1072,27 +1099,6 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/Nf_QmKtLK8pFG9hRYSm9SoukDcGLcZUwOYIZ7HcuDw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODMz/MDU4LTE1MDUwNDgx/NDItNDI4Mi5qcGVn.jpeg" alt="Cover for FatherHOOD" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-07-24</td>
-      <td>Fatt Father</td>
-      <td>FatherHOOD</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>42</td>
       <td>
           <img src="https://i.discogs.com/C_V1JPN8tWUEHGKb8PDylz_LAN4Jm_mOV121kSUYiww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDI2/OTgtMTQyMDc0MzUy/MS02MjA1LmpwZWc.jpeg" alt="Cover for Free Roc" style="max-width:120px; height:auto;" />
@@ -1112,7 +1118,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/z8rxfnfF6kvken0jho4IIjNTIxSR6xN80mQMBlcvfZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzQy/MDQtMTM4NjUyNTcy/OC0yMjI5LmpwZWc.jpeg" alt="Cover for Lace Blunts" style="max-width:120px; height:auto;" />
       </td>
@@ -1131,7 +1137,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/PAxEQOSaZlGgjlfwvgc7SdvZufvSrQd3TqCLWKSoGms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTQ2/NjItMTQzMTI1ODgz/NC03NjIyLmpwZWc.jpeg" alt="Cover for Ghetto Testimony" style="max-width:120px; height:auto;" />
       </td>
@@ -1170,7 +1176,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/OcaO_TlZQf3C37wVGZM2gbbwRe0nQkNC4gNIrn57d9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjIz/NjktMTQzMTg3ODQx/OC0yNzEzLmpwZWc.jpeg" alt="Cover for Clarity 6" style="max-width:120px; height:auto;" />
       </td>
@@ -1208,7 +1214,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/AUJb0twfUd3chUB_EYSwTh2HVl6tj29DtThdybvIl0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzUy/ODktMTQxMjAyMzg4/NC04OTk5LmpwZWc.jpeg" alt="Cover for Beastmode" style="max-width:120px; height:auto;" />
       </td>
@@ -1227,7 +1233,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/RaCGTFKZythL86l11QeptFwS0zr40RzcFicAn2snW6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDI3/OTktMTQyMDc0NDkx/Mi01OTU1LmpwZWc.jpeg" alt="Cover for My Turn" style="max-width:120px; height:auto;" />
       </td>
@@ -1265,7 +1271,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/sOJlrDjekeYYbpp2jfV-pymXuwf7TsoiI5zyPS7Fnr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzAz/MzQtMTQzNjY5NzI3/Ny03NjIyLmpwZWc.jpeg" alt="Cover for The Clarity 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1303,7 +1309,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/QpHKraieeKzVd32wseF-PqDQx18QJyhgJTpF9iprtqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDc2/MzE2LTE1ODYzNzMx/NzgtMTU5My5qcGVn.jpeg" alt="Cover for WDW 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1322,7 +1328,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/m1DTbeY_bSILb-cXovhe5X2Vg_8TcB3HkVG5CSRNJ7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTk1/NzE4LTE1MDc4ODc4/MjUtNjkxMC5qcGVn.jpeg" alt="Cover for Return of the Kid" style="max-width:120px; height:auto;" />
       </td>
@@ -1341,7 +1347,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/2gL-QzyEOKR3VlBQYj5Mx3wDpHRcJnX4sm6-5KYHz1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDE2/ODQ2LTE2MTExNTI0/NzAtMjkxNi5qcGVn.jpeg" alt="Cover for Ghetto Boyz" style="max-width:120px; height:auto;" />
       </td>
@@ -1362,7 +1368,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/OkcU-BR-0z_kal8ZwIT3Y3DP2WuaRk5g6yqSeo0Lh_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDYy/ODg1LTE1ODYxODY5/MzktODg4MS5qcGVn.jpeg" alt="Cover for War Zone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f7ea5e195cc1f4da50b270926a3cd77.png" alt="Cover for War Zone" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-20</td>
       <td>Fmb Dz</td>
@@ -1655,7 +1661,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/-_weqb6Mrwjdae9QCG-wEIRD4yYDYQoh6bv3q5C3Fek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU2/OTkxLTE1ODQ3MTYx/MTgtMzY4Ni5qcGVn.jpeg" alt="Cover for Goat" style="max-width:120px; height:auto;" />
       </td>
@@ -1674,7 +1680,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/BJab9NtPLNGfu7q7XV7MfFm0-FVdpEPrboEjzCFh3wI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzU5/MTAyLTE2NTY3NTk0/NzAtOTcxNC5qcGVn.jpeg" alt="Cover for Can&#39;t Miss" style="max-width:120px; height:auto;" />
       </td>
@@ -1749,7 +1755,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/aeEv1GVY23PJdyfXlFGZ8W7Ve71YoGvDA8BDh78GLS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTcx/NjEzLTE2MTc2Njc3/NjMtNzY4NS5qcGVn.jpeg" alt="Cover for Free Roc (Doughboyz Cashout Ent. Presents)" style="max-width:120px; height:auto;" />
       </td>
@@ -1806,7 +1812,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/iqLEbIUWkfzDgs2VACuTCqC9QrOqEGz0YvbcvtPNQNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Njc5/NjItMTM3NDg4NjM3/NS05OTkzLmpwZWc.jpeg" alt="Cover for Wicked Vic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b42686b7dcaad5deafb1157ff1225248.png" alt="Cover for Wicked Vic" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Insane Clown Posse</td>
@@ -1823,7 +1829,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       <td>
         <ul>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 11</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 21</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 24</li>
             <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 38</li>
         </ul>
       </td>
@@ -1888,7 +1894,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -1907,7 +1913,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -2000,6 +2006,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6014b42a5c0b828e6eb4ff15891dabc.png" alt="Cover for Da House, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Whitehouse Studio</td>

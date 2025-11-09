@@ -1,18 +1,30 @@
 ---
 category: list
-date: 2025-11-08T19:39:21.596Z
+date: 2025-11-08T19:44:43.288Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-08T19:39:21.596Z">Sat Nov 08 2025 21:39:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-08T19:44:43.288Z">Sat Nov 08 2025 21:44:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [nu-bluz]({{ "tags/nu-bluz" | relative_url }}) | <time datetime="2025-11-08T19:44:43.288Z">Sat Nov 08 2025 21:44:43 GMT+0200 (Eastern European Standard Time)</time> |
+| [blues]({{ "tags/blues" | relative_url }}) | <time datetime="2025-11-08T19:43:52.063Z">Sat Nov 08 2025 21:43:52 GMT+0200 (Eastern European Standard Time)</time> |
+| [soul jazz]({{ "tags/soul-jazz" | relative_url }}) | <time datetime="2025-11-08T19:43:45.955Z">Sat Nov 08 2025 21:43:45 GMT+0200 (Eastern European Standard Time)</time> |
+| [indie rock]({{ "tags/indie-rock" | relative_url }}) | <time datetime="2025-11-08T19:43:33.609Z">Sat Nov 08 2025 21:43:33 GMT+0200 (Eastern European Standard Time)</time> |
+| [acoustic guitar]({{ "tags/acoustic-guitar" | relative_url }}) | <time datetime="2025-11-08T19:41:48.600Z">Sat Nov 08 2025 21:41:48 GMT+0200 (Eastern European Standard Time)</time> |
+| [detroit rap]({{ "tags/detroit-rap" | relative_url }}) | <time datetime="2025-11-08T19:41:25.169Z">Sat Nov 08 2025 21:41:25 GMT+0200 (Eastern European Standard Time)</time> |
+| [boogie]({{ "tags/boogie" | relative_url }}) | <time datetime="2025-11-08T19:41:20.841Z">Sat Nov 08 2025 21:41:20 GMT+0200 (Eastern European Standard Time)</time> |
+| [tribal]({{ "tags/tribal" | relative_url }}) | <time datetime="2025-11-08T19:40:52.100Z">Sat Nov 08 2025 21:40:52 GMT+0200 (Eastern European Standard Time)</time> |
+| [acid folk]({{ "tags/acid-folk" | relative_url }}) | <time datetime="2025-11-08T19:40:30.000Z">Sat Nov 08 2025 21:40:30 GMT+0200 (Eastern European Standard Time)</time> |
+| [improvisation]({{ "tags/improvisation" | relative_url }}) | <time datetime="2025-11-08T19:40:21.196Z">Sat Nov 08 2025 21:40:21 GMT+0200 (Eastern European Standard Time)</time> |
+| [norge]({{ "tags/norge" | relative_url }}) | <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01 GMT+0200 (Eastern European Standard Time)</time> |
+| [new orleans]({{ "tags/new-orleans" | relative_url }}) | <time datetime="2025-11-08T19:39:34.578Z">Sat Nov 08 2025 21:39:34 GMT+0200 (Eastern European Standard Time)</time> |
 | [bay area]({{ "tags/bay-area" | relative_url }}) | <time datetime="2025-11-08T19:39:21.596Z">Sat Nov 08 2025 21:39:21 GMT+0200 (Eastern European Standard Time)</time> |
 | [philly soul]({{ "tags/philly-soul" | relative_url }}) | <time datetime="2025-11-08T19:39:17.128Z">Sat Nov 08 2025 21:39:17 GMT+0200 (Eastern European Standard Time)</time> |
 | [gothic pop]({{ "tags/gothic-pop" | relative_url }}) | <time datetime="2025-11-08T19:38:57.188Z">Sat Nov 08 2025 21:38:57 GMT+0200 (Eastern European Standard Time)</time> |
@@ -192,7 +204,6 @@ Last updated: <time datetime="2025-11-08T19:39:21.596Z">Sat Nov 08 2025 21:39:21
 | [drum]({{ "tags/drum" | relative_url }}) | <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [death metal]({{ "tags/death-metal" | relative_url }}) | <time datetime="2025-11-04T11:11:51.109Z">Tue Nov 04 2025 13:11:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [industrial metal]({{ "tags/industrial-metal" | relative_url }}) | <time datetime="2025-11-04T11:10:51.075Z">Tue Nov 04 2025 13:10:51 GMT+0200 (Eastern European Standard Time)</time> |
-| [nu-bluz]({{ "tags/nu-bluz" | relative_url }}) | <time datetime="2025-11-04T11:09:52.575Z">Tue Nov 04 2025 13:09:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [ireland]({{ "tags/ireland" | relative_url }}) | <time datetime="2025-11-04T11:07:50.972Z">Tue Nov 04 2025 13:07:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [japanese rock]({{ "tags/japanese-rock" | relative_url }}) | <time datetime="2025-11-04T10:46:33.775Z">Tue Nov 04 2025 12:46:33 GMT+0200 (Eastern European Standard Time)</time> |
 | [austin]({{ "tags/austin" | relative_url }}) | <time datetime="2025-11-04T09:30:28.724Z">Tue Nov 04 2025 11:30:28 GMT+0200 (Eastern European Standard Time)</time> |
@@ -352,7 +363,6 @@ Last updated: <time datetime="2025-11-08T19:39:21.596Z">Sat Nov 08 2025 21:39:21
 | [dance]({{ "tags/dance" | relative_url }}) | <time datetime="2025-11-01T20:16:51.107Z">Sat Nov 01 2025 22:16:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [skacore]({{ "tags/skacore" | relative_url }}) | <time datetime="2025-11-01T18:32:50.997Z">Sat Nov 01 2025 20:32:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [dancehall]({{ "tags/dancehall" | relative_url }}) | <time datetime="2025-11-01T17:33:51.459Z">Sat Nov 01 2025 19:33:51 GMT+0200 (Eastern European Standard Time)</time> |
-| [boogie]({{ "tags/boogie" | relative_url }}) | <time datetime="2025-11-01T15:21:56.249Z">Sat Nov 01 2025 17:21:56 GMT+0200 (Eastern European Standard Time)</time> |
 | [africa]({{ "tags/africa" | relative_url }}) | <time datetime="2025-11-01T12:21:51.024Z">Sat Nov 01 2025 14:21:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [true metal]({{ "tags/true-metal" | relative_url }}) | <time datetime="2025-11-01T12:03:51.879Z">Sat Nov 01 2025 14:03:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [deathrock]({{ "tags/deathrock" | relative_url }}) | <time datetime="2025-11-01T11:48:51.462Z">Sat Nov 01 2025 13:48:51 GMT+0200 (Eastern European Standard Time)</time> |
@@ -412,7 +422,6 @@ Last updated: <time datetime="2025-11-08T19:39:21.596Z">Sat Nov 08 2025 21:39:21
 | [female rapper]({{ "tags/female-rapper" | relative_url }}) | <time datetime="2025-10-30T08:03:53.054Z">Thu Oct 30 2025 10:03:53 GMT+0200 (Eastern European Standard Time)</time> |
 | [german metal]({{ "tags/german-metal" | relative_url }}) | <time datetime="2025-10-30T08:03:23.059Z">Thu Oct 30 2025 10:03:23 GMT+0200 (Eastern European Standard Time)</time> |
 | [choir]({{ "tags/choir" | relative_url }}) | <time datetime="2025-10-30T08:02:47.159Z">Thu Oct 30 2025 10:02:47 GMT+0200 (Eastern European Standard Time)</time> |
-| [blues]({{ "tags/blues" | relative_url }}) | <time datetime="2025-10-30T08:02:17.849Z">Thu Oct 30 2025 10:02:17 GMT+0200 (Eastern European Standard Time)</time> |
 | [space ambient]({{ "tags/space-ambient" | relative_url }}) | <time datetime="2025-10-30T06:04:39.027Z">Thu Oct 30 2025 08:04:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [vocal trance]({{ "tags/vocal-trance" | relative_url }}) | <time datetime="2025-10-30T05:05:52.924Z">Thu Oct 30 2025 07:05:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [tolkien]({{ "tags/tolkien" | relative_url }}) | <time datetime="2025-10-30T03:07:39.596Z">Thu Oct 30 2025 05:07:39 GMT+0200 (Eastern European Standard Time)</time> |
@@ -451,7 +460,6 @@ Last updated: <time datetime="2025-11-08T19:39:21.596Z">Sat Nov 08 2025 21:39:21
 | [folk rock]({{ "tags/folk-rock" | relative_url }}) | <time datetime="2025-10-29T02:53:40.032Z">Wed Oct 29 2025 04:53:40 GMT+0200 (Eastern European Standard Time)</time> |
 | [screamo]({{ "tags/screamo" | relative_url }}) | <time datetime="2025-10-29T02:19:39.073Z">Wed Oct 29 2025 04:19:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [field recordings]({{ "tags/field-recordings" | relative_url }}) | <time datetime="2025-10-29T02:06:00.713Z">Wed Oct 29 2025 04:06:00 GMT+0200 (Eastern European Standard Time)</time> |
-| [indie rock]({{ "tags/indie-rock" | relative_url }}) | <time datetime="2025-10-29T02:05:17.348Z">Wed Oct 29 2025 04:05:17 GMT+0200 (Eastern European Standard Time)</time> |
 | [celtic rock]({{ "tags/celtic-rock" | relative_url }}) | <time datetime="2025-10-29T02:02:36.878Z">Wed Oct 29 2025 04:02:36 GMT+0200 (Eastern European Standard Time)</time> |
 | [world fusion]({{ "tags/world-fusion" | relative_url }}) | <time datetime="2025-10-29T01:03:39.596Z">Wed Oct 29 2025 03:03:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [vocaloid]({{ "tags/vocaloid" | relative_url }}) | <time datetime="2025-10-29T00:58:40.042Z">Wed Oct 29 2025 02:58:40 GMT+0200 (Eastern European Standard Time)</time> |
@@ -675,7 +683,6 @@ Last updated: <time datetime="2025-11-08T19:39:21.596Z">Sat Nov 08 2025 21:39:21
 | [turkish]({{ "tags/turkish" | relative_url }}) | <time datetime="2025-10-28T06:35:14.301Z">Tue Oct 28 2025 08:35:14 GMT+0200 (Eastern European Standard Time)</time> |
 | [neurofunk]({{ "tags/neurofunk" | relative_url }}) | <time datetime="2025-10-28T06:35:03.916Z">Tue Oct 28 2025 08:35:03 GMT+0200 (Eastern European Standard Time)</time> |
 | [impressionism]({{ "tags/impressionism" | relative_url }}) | <time datetime="2025-10-28T06:34:58.059Z">Tue Oct 28 2025 08:34:58 GMT+0200 (Eastern European Standard Time)</time> |
-| [soul jazz]({{ "tags/soul-jazz" | relative_url }}) | <time datetime="2025-10-28T06:34:40.414Z">Tue Oct 28 2025 08:34:40 GMT+0200 (Eastern European Standard Time)</time> |
 | [montreal]({{ "tags/montreal" | relative_url }}) | <time datetime="2025-10-28T06:06:11.863Z">Tue Oct 28 2025 08:06:11 GMT+0200 (Eastern European Standard Time)</time> |
 | [alternativo]({{ "tags/alternativo" | relative_url }}) | <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [banjo]({{ "tags/banjo" | relative_url }}) | <time datetime="2025-10-28T06:05:04.330Z">Tue Oct 28 2025 08:05:04 GMT+0200 (Eastern European Standard Time)</time> |
@@ -869,10 +876,7 @@ Last updated: <time datetime="2025-11-08T19:39:21.596Z">Sat Nov 08 2025 21:39:21
 | [oakland]({{ "tags/oakland" | relative_url }}) | <time datetime="2025-10-23T10:35:13.480Z">Thu Oct 23 2025 13:35:13 GMT+0300 (Eastern European Summer Time)</time> |
 | [minimal wave]({{ "tags/minimal-wave" | relative_url }}) | <time datetime="2025-10-23T10:21:49.044Z">Thu Oct 23 2025 13:21:49 GMT+0300 (Eastern European Summer Time)</time> |
 | [sjw]({{ "tags/sjw" | relative_url }}) | <time datetime="2025-10-23T10:17:05.001Z">Thu Oct 23 2025 13:17:05 GMT+0300 (Eastern European Summer Time)</time> |
-| [acoustic guitar]({{ "tags/acoustic-guitar" | relative_url }}) | <time datetime="2025-10-23T10:14:54.082Z">Thu Oct 23 2025 13:14:54 GMT+0300 (Eastern European Summer Time)</time> |
 | [britain]({{ "tags/britain" | relative_url }}) | <time datetime="2025-10-23T10:12:58.140Z">Thu Oct 23 2025 13:12:58 GMT+0300 (Eastern European Summer Time)</time> |
-| [acid folk]({{ "tags/acid-folk" | relative_url }}) | <time datetime="2025-10-23T09:38:33.036Z">Thu Oct 23 2025 12:38:33 GMT+0300 (Eastern European Summer Time)</time> |
-| [improvisation]({{ "tags/improvisation" | relative_url }}) | <time datetime="2025-10-23T09:37:53.422Z">Thu Oct 23 2025 12:37:53 GMT+0300 (Eastern European Summer Time)</time> |
 | [korea]({{ "tags/korea" | relative_url }}) | <time datetime="2025-10-23T09:14:21.048Z">Thu Oct 23 2025 12:14:21 GMT+0300 (Eastern European Summer Time)</time> |
 | [duo]({{ "tags/duo" | relative_url }}) | <time datetime="2025-10-23T09:13:17.092Z">Thu Oct 23 2025 12:13:17 GMT+0300 (Eastern European Summer Time)</time> |
 | [brasileira]({{ "tags/brasileira" | relative_url }}) | <time datetime="2025-10-23T08:59:36.728Z">Thu Oct 23 2025 11:59:36 GMT+0300 (Eastern European Summer Time)</time> |
@@ -1270,11 +1274,7 @@ Last updated: <time datetime="2025-11-08T19:39:21.596Z">Sat Nov 08 2025 21:39:21
 | [black metal]({{ "tags/black-metal" | relative_url }}) | <time datetime="2025-10-19T00:15:44.314Z">Sun Oct 19 2025 03:15:44 GMT+0300 (Eastern European Summer Time)</time> |
 | [spain]({{ "tags/spain" | relative_url }}) | <time datetime="2025-10-18T23:59:00.825Z">Sun Oct 19 2025 02:59:00 GMT+0300 (Eastern European Summer Time)</time> |
 | [neoclassical darkwave]({{ "tags/neoclassical-darkwave" | relative_url }}) | <time datetime="2025-10-18T23:58:56.986Z">Sun Oct 19 2025 02:58:56 GMT+0300 (Eastern European Summer Time)</time> |
-| [detroit rap]({{ "tags/detroit-rap" | relative_url }}) | <time datetime="2025-10-18T23:58:48.590Z">Sun Oct 19 2025 02:58:48 GMT+0300 (Eastern European Summer Time)</time> |
-| [tribal]({{ "tags/tribal" | relative_url }}) | <time datetime="2025-10-18T22:41:40.725Z">Sun Oct 19 2025 01:41:40 GMT+0300 (Eastern European Summer Time)</time> |
 | [uk funky]({{ "tags/uk-funky" | relative_url }}) | <time datetime="2025-10-18T22:31:22.521Z">Sun Oct 19 2025 01:31:22 GMT+0300 (Eastern European Summer Time)</time> |
-| [norge]({{ "tags/norge" | relative_url }}) | <time datetime="2025-10-18T21:40:40.904Z">Sun Oct 19 2025 00:40:40 GMT+0300 (Eastern European Summer Time)</time> |
-| [new orleans]({{ "tags/new-orleans" | relative_url }}) | <time datetime="2025-10-18T21:02:17.984Z">Sun Oct 19 2025 00:02:17 GMT+0300 (Eastern European Summer Time)</time> |
 | [apocalyptic folk]({{ "tags/apocalyptic-folk" | relative_url }}) | <time datetime="2025-10-18T20:40:04.930Z">Sat Oct 18 2025 23:40:04 GMT+0300 (Eastern European Summer Time)</time> |
 | [acid techno]({{ "tags/acid-techno" | relative_url }}) | <time datetime="2025-10-18T20:39:53.305Z">Sat Oct 18 2025 23:39:53 GMT+0300 (Eastern European Summer Time)</time> |
 | [liquid funk]({{ "tags/liquid-funk" | relative_url }}) | <time datetime="2025-10-18T20:39:50.167Z">Sat Oct 18 2025 23:39:50 GMT+0300 (Eastern European Summer Time)</time> |

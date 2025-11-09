@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-23T09:37:53.422Z
+date: 2025-11-08T19:40:21.196Z
 permalink: tags/improvisation
 title: improvisation
 ---
 
 ## improvisation
 
-Last updated: <time datetime="2025-10-23T09:37:53.422Z">Thu Oct 23 2025 12:37:53 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-08T19:40:21.196Z">Sat Nov 08 2025 21:40:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -51,7 +51,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/v5gTDqaR6H-0gQ1X4VijoFhwET9bSkvqndzoR7mESpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTEw/Mi0xNDg0NTc0MDg3/LTk3NzYuanBlZw.jpeg" alt="Cover for Symphony for Improvisers (The Rudy Van Gelder Edition) [Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -88,7 +88,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 18</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 20</li>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 38</li>
         </ul>
       </td>
@@ -198,7 +198,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 2</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -267,7 +267,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>1984</td>
@@ -546,6 +546,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/418a99fb31ad45ba8615d94ae2cb6bc7.png" alt="Cover for そらの庭" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-10-22</td>
       <td>新居昭乃</td>
@@ -589,7 +590,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
             <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 35</li>
             <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 40</li>
             <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 49</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 57</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 58</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 69</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 70</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 76</li>
@@ -627,7 +628,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 79</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 81</li>
             <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 99</li>
         </ul>
       </td>
@@ -669,7 +670,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/EiouTZbqjZuCjiQ-5kLk9oqm0TFMNoDBUpegHWzGQic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDUz/NTAtMTI0OTkyMDc2/MS5qcGVn.jpeg" alt="Cover for Plays Standards" style="max-width:120px; height:auto;" />
       </td>
@@ -777,9 +778,9 @@ Improvisation refers to music created spontaneously in the moment rather than fr
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 26</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 31</li>
             <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 50</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 56</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 57</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 57</li>
             <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 57</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 57</li>
             <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 58</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 73</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 78</li>
@@ -946,6 +947,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b63c88b86320d98b2692b8a5d8f46514.png" alt="Cover for Sora No Uta" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-23</td>
       <td>新居昭乃</td>
@@ -990,8 +992,8 @@ Improvisation refers to music created spontaneously in the moment rather than fr
         <ul>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 4</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 16</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 37</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 37</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 37</li>
             <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 52</li>
             <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 55</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 71</li>
@@ -1080,7 +1082,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/-NokyKxpI4XQg695DVFk0UdJeh1ZnE2ACghMuxdaYPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/ODg3LTE0OTQwMTcx/NDItOTg1NS5qcGVn.jpeg" alt="Cover for New Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1151,25 +1153,6 @@ Improvisation refers to music created spontaneously in the moment rather than fr
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/ZZNuSVAaFMaGKtsJfZtc_ARe5hM1HSJ9JmBAprFHcso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAx/NDgtMTIwNTIzNzg2/NS5qcGVn.jpeg" alt="Cover for Hounded By Fury" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-09-01</td>
-      <td>hwyl nofio</td>
-      <td>Hounded By Fury</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
         </ul>
       </td>
       <td>
@@ -1282,7 +1265,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 4</li>
             <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 5</li>
             <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 10</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 26</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 28</li>
             <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 30</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 53</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 55</li>
@@ -1354,7 +1337,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       <td>
         <ul>
             <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 11</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 15</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 16</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 18</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 39</li>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 69</li>
@@ -1362,7 +1345,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/IlCxcRbQ4YaiasUN7SkGj9-GVJcqQw-bQFzfMBualcs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTc5/NDgtMTIzNzY2Mzk4/Ni5qcGVn.jpeg" alt="Cover for sonicbrat: Quiet Windows" style="max-width:120px; height:auto;" />
       </td>
@@ -1444,7 +1427,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/HE5JVFa5ee5CU3JKzMt1jKn4v90k5n9Y8GZNwcw5Vjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDQ1/NjYtMTYxNTQxMTQy/NS04NTU4LmpwZWc.jpeg" alt="Cover for Verona" style="max-width:120px; height:auto;" />
       </td>
@@ -1582,7 +1565,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/sUddGZQO1Ufpz_rB5rojqvxnPEPDY9jh-J3qg_LBGVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njkw/NzctMTMzNTY0MzI2/Ni5qcGVn.jpeg" alt="Cover for Les Briktechniciens de l&#39;Infernal" style="max-width:120px; height:auto;" />
       </td>
@@ -1667,7 +1650,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/KsNSwu9fY9zmZFHuePy39HSYqVFpoEdgpYEf2_GHgLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAx/MjEtMTIzNzY1NzU5/MC5qcGVn.jpeg" alt="Cover for Metanoia (Remastered)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5aeb10a0eb303ca2ed2b980dc50442db.png" alt="Cover for Metanoia (Remastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Porcupine Tree</td>
@@ -1737,7 +1720,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/VztxH2QZOoyMAqKs2Gtk6hIa10FwwtGPcVVdoa18uZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODc2/MTMtMTU1ODg0NjQx/Ni04MzM4LmpwZWc.jpeg" alt="Cover for Hacia aquellos bosques de inmensidad" style="max-width:120px; height:auto;" />
       </td>
@@ -1910,7 +1893,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/bJMni9kN066pluM3qfif5QKuYDGmIIhSDLnZfrpXP9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/OTQyLTE1MTM0NDQy/NDUtNDIzMS5qcGVn.jpeg" alt="Cover for Exposure" style="max-width:120px; height:auto;" />
       </td>
@@ -1932,7 +1915,6 @@ Improvisation refers to music created spontaneously in the moment rather than fr
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/FzOd_zH-V8sD5KKffLRukvfS8llVYwaC6MV0GekKO4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDg1/MjI3LTE1Njc1NTU4/MDEtNjI0OS5wbmc.jpeg" alt="Cover for Line Standing" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-29</td>
       <td>Electric Octopus</td>
@@ -2025,7 +2007,6 @@ Improvisation refers to music created spontaneously in the moment rather than fr
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/lnNHOw5boRoUBpxgMCiWFJJzEBORA98MjQvToOyHcuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjk4/NzYyLTE2MzkxNDk0/MDYtMTgwMS5qcGVn.jpeg" alt="Cover for Where the Spirits Are" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11-13</td>
       <td>Suishou No Fune</td>
@@ -2046,15 +2027,14 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 51</li>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 90</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 53</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/hh5Hp7qx34aiK2uvvF_UArh3eLG4VMSqAiqLhf5T4OA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTU1/NDUtMTM0NjIzNzI0/MC01NDAxLmpwZWc.jpeg" alt="Cover for The OZ Tapes" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Les Rallizes Dénudés</td>
@@ -2070,8 +2050,8 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 10</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 97</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 12</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2100,7 +2080,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 38</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 39</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 75</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 82</li>
         </ul>
@@ -2149,7 +2129,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/CdIRT-TuyhqHljuQzUspG5UdKBY7AT47NPPbPrb9_Ns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTky/NS0xMTc2MTM5MjE1/LmpwZWc.jpeg" alt="Cover for Relic Once Lost" style="max-width:120px; height:auto;" />
       </td>
@@ -2188,7 +2168,24 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19ac73ec9c3b4be31b431b41935afb94.png" alt="Cover for The Key (Became the Important Thing [and Then Just Faded Away])" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-06-28</td>
+      <td>Chris Corsano</td>
+      <td>The Key (Became the Important Thing [and Then Just Faded Away])</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -2363,7 +2360,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
             <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 9</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 26</li>
             <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 27</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 29</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 30</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 46</li>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 75</li>
         </ul>
@@ -2400,6 +2397,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 8</li>
             <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 28</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 52</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 67</li>
@@ -2444,7 +2442,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 9</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 10</li>
             <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 16</li>
             <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 24</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 46</li>
@@ -2455,7 +2453,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
