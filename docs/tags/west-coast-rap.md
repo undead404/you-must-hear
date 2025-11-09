@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-04T17:58:42.496Z
+date: 2025-11-08T22:02:38.910Z
 permalink: tags/west-coast-rap
 title: west coast rap
 ---
 
 ## west coast rap
 
-Last updated: <time datetime="2025-11-04T17:58:42.496Z">Tue Nov 04 2025 19:58:42 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-08T22:02:38.910Z">Sun Nov 09 2025 00:02:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
   </thead>
   <tbody>
     <tr>
-      <td>60</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/WBghMo5-rfh_YL7WMsZL9vxYktqMmrsm8wqwg1JGmmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjU2/NjgzLTE3MTU1MDc2/MjAtMzUzMS5qcGVn.jpeg" alt="Cover for Menace II Society" style="max-width:120px; height:auto;" />
       </td>
@@ -48,9 +48,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/stny6vidsdViGWD5OhuiujcR0l8LesCXgAUJDNblf7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjgw/LTEzNTA3OTg2ODAt/Njk5NC5qcGVn.jpeg" alt="Cover for Rhyme Pays" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76ecd7563e1f41cf86451a30f0b54052.png" alt="Cover for Rhyme Pays" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Ice-T</td>
@@ -68,7 +68,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/phPUh97tZg42Gffoqkru8J9meDS8KTpmPO3zjRFlGJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTY5/LTExNzE4NzY1Njgu/anBlZw.jpeg" alt="Cover for Staight Outta Compton" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecbbc4b350a446809979916a8bb6b375.png" alt="Cover for Staight Outta Compton" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>N.W.A</td>
@@ -104,7 +104,24 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>10</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0ef58cf6f964e8bce6bf2cfbe51ddee.png" alt="Cover for No One Can Do It Better" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989-07-11</td>
+      <td>The D.O.C.</td>
+      <td>No One Can Do It Better</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
       <td>
       </td>
       <td>1990</td>
@@ -126,7 +143,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/RBK2sQ5fIl5ioH7uxEQH63Z8kdFOQBWSShU8f172J1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTM2/Mi0xMjg0NDg3OTU0/LmpwZWc.jpeg" alt="Cover for Sex Packets" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7310b074ca3443f0c3ec7a68629e9a8b.png" alt="Cover for Sex Packets" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Digital Underground</td>
@@ -161,9 +178,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/skeWbnCANeYOhkkk_vmqYXBfouEPdBr290AmLkP0pb0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDU4/Ny0xMjE3Njk0OTMw/LmpwZWc.jpeg" alt="Cover for Bitch Betta Have My Money" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd7a4c2af24fe8f8dc44725f17287f2b.png" alt="Cover for Bitch Betta Have My Money" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>AMG</td>
@@ -180,29 +197,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>48</td>
-      <td>
-          <img src="https://i.discogs.com/WirqVwI2AqjTjs6EZ6vhStxdDrV0X5Qx91dElfhv1Fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDQw/NS0xNTM4OTAxMTEw/LTIxOTQuanBlZw.jpeg" alt="Cover for O.G. Original Gangster" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>Ice-T</td>
-      <td>O.G. Original Gangster</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/-d_teiVdGo4mUkN5wr8NRvXtpwrZ52ICdzD4rmkPlR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODUx/NC0xMjc0ODI0ODc4/LmpwZWc.jpeg" alt="Cover for Quik Is The Name" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17e1cc558dd9981795e71f544059bc83.png" alt="Cover for Quik Is The Name" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-07-01</td>
       <td>DJ Quik</td>
@@ -220,7 +217,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/Rk796241BdOEGpmASupZfL17qJUp7fc5PSJ-zOjTYyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjgz/OS0xNDM5NjE3ODgy/LTQ0MDkuanBlZw.jpeg" alt="Cover for This Is An E.P. Release" style="max-width:120px; height:auto;" />
       </td>
@@ -238,8 +235,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/824a474ba0cc0338c7922b0a98dd8b5e.png" alt="Cover for Sons of the P" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-10-15</td>
       <td>Digital Underground</td>
@@ -256,7 +254,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
       </td>
       <td>1992</td>
@@ -278,7 +276,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>25</td>
       <td>
       </td>
       <td>1992-04-21</td>
@@ -297,7 +295,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>61</td>
       <td>
       </td>
       <td>1992-06-01</td>
@@ -313,13 +311,13 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 63</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 40</li>
             <li> <a href="{{ "/tags/chicano-rap" | relative_url }}">chicano rap</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b32681f7224440d099e879ed40b1a11d.png" alt="Cover for Music To Driveby" style="max-width:120px; height:auto;" />
       </td>
@@ -338,27 +336,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
-      </td>
-      <td>1992-11-17</td>
-      <td>Ice Cube</td>
-      <td>The Predator</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 95</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75176c3686ee259d2ce632889bcde3f4.png" alt="Cover for The Chronic" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-12-15</td>
       <td>Dr. Dre</td>
@@ -376,7 +356,28 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>4</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>The Click</td>
+      <td>Down And Dirty</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
       <td>
       </td>
       <td>1993</td>
@@ -394,9 +395,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/Ke3QuCW3wLYw_NjGK8ldvcGA8ZtPBSIZTe21spsKY1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTA3/MTUtMTM1MDI2MDQx/My0xMDE4LmpwZWc.jpeg" alt="Cover for Home Invasion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/caadf101898ef299db84c6509b45ca52.png" alt="Cover for Home Invasion" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Ice-T</td>
@@ -412,7 +413,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f1257a53795675891dad75becddaf11.png" alt="Cover for Black Sunday" style="max-width:120px; height:auto;" />
       </td>
@@ -421,8 +422,6 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       <td>Black Sunday</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 76 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
       <td>
@@ -432,7 +431,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3665f07c2b5b41b4af0c6d6a0760a909.png" alt="Cover for Shock Of The Hour" style="max-width:120px; height:auto;" />
       </td>
@@ -451,7 +450,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/OqV6CVVPk3zIZG1Jcx_Iy8ElHF-7uByjoKZoXHgXGdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODY0/Ni0xMTc4OTE5Mzk5/LmpwZWc.jpeg" alt="Cover for Don&#39;t Fight the Feelin" style="max-width:120px; height:auto;" />
       </td>
@@ -474,7 +473,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/FOitdaaX52KAHfc5Sef2RZpy0rEljYfUL06P89OcIwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNDE1/OC0xMTI2MjA3OTg2/LmpwZWc.jpeg" alt="Cover for Illegal Business" style="max-width:120px; height:auto;" />
       </td>
@@ -494,7 +493,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/vq72gaT8xVS7jRoCUFFTpddVB0gE6GJqhzmSGaXgnWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Nzcz/OC0xMjg2ODE3NzAz/LmpwZWc.jpeg" alt="Cover for R&amp;G (Rhythm &amp; Gangsta): The Masterpiece [Explicit Version]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c49cbe1c770e30a07bc5550a4fe83a59.png" alt="Cover for R&amp;G (Rhythm &amp; Gangsta): The Masterpiece [Explicit Version]" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-02-04</td>
       <td>Snoop Dogg</td>
@@ -532,8 +531,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa007010b996b12e775f36c39c6316f8.png" alt="Cover for Uncle Sam&#39;s Curse" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-07-12</td>
       <td>Above the Law</td>
@@ -551,7 +551,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/qdkf-75n70J5qf2mNJo4LRyIS7cR92r003DxfQwgOdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDEw/NS0xMTg4MjkxMzMy/LmpwZWc.jpeg" alt="Cover for Don&#39;t Fight The Feelin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -582,9 +582,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/goj-wogxFd0xqHIEhXDA7uRlu3H5vMUmLICGnArzrTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY0/MjAzLTE1MDM4OTQx/MDEtNTIzMy5qcGVn.jpeg" alt="Cover for Season Of Da Siccness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddbe8883568d4276a78e556708685a76.png" alt="Cover for Season Of Da Siccness" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Brotha Lynch Hung</td>
@@ -601,9 +601,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/bbrhm5mP5e9jn9wxv-fhoI_evYse7C-tzWYNAAMqHgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTcx/OC0xNDA0MDg0MjI3/LTQzMjAuanBlZw.jpeg" alt="Cover for Dead 4 Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d55138541cc458248727d312a65e0e40.png" alt="Cover for Dead 4 Life" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Sicx</td>
@@ -624,9 +624,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/abzdTm3sjpIGFeo8hoUMhqv3sj4xhSouer-6Hh3BTJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzQz/Mi0xMDc4MDc2Mzg0/LmpwZw.jpeg" alt="Cover for It&#39;s On (Dr. Dre) 187um Killa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64aa89aebe596ce61449f2642980ae34.png" alt="Cover for It&#39;s On (Dr. Dre) 187um Killa" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Eazy-E</td>
@@ -646,7 +646,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/S8Q-ukmmZbFUh-gB6xe8nukj3evdW9c4bO88HsqT_Xc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk2/NjYtMTY3NzQ5MjM5/MS03NzI1LmpwZWc.jpeg" alt="Cover for Me Against the World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec29da1ea284444ba76b9baff0a4f08c.png" alt="Cover for Me Against the World" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>2Pac</td>
@@ -659,8 +659,8 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 45</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 45</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 58</li>
             <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 87</li>
         </ul>
       </td>
@@ -668,7 +668,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/1iyFtNCf-H5uaHH4o4gGFuKY236zUUTy7q-Kjn63Rq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTA2/Ny0xMTEzMjE1MTc4/LmpwZw.jpeg" alt="Cover for Eternal E" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c32a92b9af94426b205a8f1fc8f0eec.png" alt="Cover for Eternal E" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Eazy-E</td>
@@ -686,7 +686,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
       </td>
       <td>1995</td>
@@ -704,7 +704,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>65</td>
       <td>
       </td>
       <td>1995-01-24</td>
@@ -723,7 +723,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>55</td>
       <td>
       </td>
       <td>1995-02-21</td>
@@ -742,7 +742,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>1995-02-28</td>
@@ -759,9 +759,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/f4osCX-FazbD_3wB8cp2pNdudhNK5Seu7YkNE63GhtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDEw/MzEtMTMxMTM2MTEw/Ny5qcGVn.jpeg" alt="Cover for The Don Killuminati: The 7 Day Theory" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58cc90ae1764477cc7cd6ae2013dbe3c.png" alt="Cover for The Don Killuminati: The 7 Day Theory" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-03-14</td>
       <td>2Pac</td>
@@ -775,13 +775,31 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 68</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 35</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51866830a8b43282657d4bdf9692cfa4.png" alt="Cover for Take A Ride" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-05-30</td>
+      <td>Jayo Felony</td>
+      <td>Take A Ride</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/Fvvc60NFyLrvUqDG3EJrXodyMJZNb0aMF-T3LVbe6WM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTM2/OC0xMjgyOTE0MDAx/LmpwZWc.jpeg" alt="Cover for No Man&#39;s Land" style="max-width:120px; height:auto;" />
       </td>
@@ -806,9 +824,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/1QoJunBLlYJQP50CnAk5FowbbwzXTGmSQ0W_3C-8RWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjA2/My0xNTYxOTg3NTQw/LTM0NTEuanBlZw.jpeg" alt="Cover for Dogg Food" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cccd2c2ed4061e8a61db5fc48dd41c93.png" alt="Cover for Dogg Food" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-10-31</td>
       <td>Tha Dogg Pound</td>
@@ -825,7 +843,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/SZuScH2i5IfV5UYm3VQXITglGsnYmYO8xLYpkBT8FTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTk2/My0xNTQ0NjI0ODgx/LTU1ODYuanBlZw.jpeg" alt="Cover for Bow Down" style="max-width:120px; height:auto;" />
       </td>
@@ -845,7 +863,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/ZTothliD-BF3rZBUik2-Tfb75xebMnekiW-yooPMHlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzYx/Ni0xNjI2MjIwMjgw/LTUzMDcuanBlZw.jpeg" alt="Cover for Hall Of Game" style="max-width:120px; height:auto;" />
       </td>
@@ -882,8 +900,27 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>6</td>
       <td>
+          <img src="https://i.discogs.com/ogNShbqJ9lMP4_nvTb5h15o_J3xHybKCM3g5yaXFABk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDAy/OS0xNTIxNzE5NjU4/LTM2OTguanBlZw.jpeg" alt="Cover for First Round Knock Out" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-05-26</td>
+      <td>Dr. Dre</td>
+      <td>First Round Knock Out</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ccf182f30fd44b5862ab0b72f0827e7.png" alt="Cover for Delinquent Habits" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-06-04</td>
       <td>Delinquent Habits</td>
@@ -923,6 +960,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc4b77f92823a393694743c96259afe4.png" alt="Cover for At The Speed Of Life" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-10-01</td>
       <td>Xzibit</td>
@@ -939,8 +977,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d958ad48e46ee753556caeaae59199e9.png" alt="Cover for Tha Hall Of Game" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-10-29</td>
       <td>E-40</td>
@@ -956,7 +995,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/xTFdQYCGWnsmOInxtwkR1n_BfUmUxjRd7JpolE8Mhnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTI0/ODYwLTE2NDQ2NTUy/OTctMjYzMi5qcGVn.jpeg" alt="Cover for Take A Look Over Your Shoulder" style="max-width:120px; height:auto;" />
       </td>
@@ -978,7 +1017,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>36</td>
       <td>
       </td>
       <td>1998-04-28</td>
@@ -997,7 +1036,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/KhEZ-wd0kMo6mqF785kg7_pcjyH8os1ETjsrNjwTwUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjkx/Ni0xNjExMjc5ODI4/LTk5MTguanBlZw.jpeg" alt="Cover for G-Funk Classics, Vols. 1 &amp; 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1015,7 +1054,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c53533b4ded4cef8be181f83c0ae34c.png" alt="Cover for IV" style="max-width:120px; height:auto;" />
       </td>
@@ -1024,7 +1063,6 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       <td>IV</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
         </ul>
       </td>
       <td>
@@ -1034,8 +1072,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c53ad6979e9f731de3420488b51539db.png" alt="Cover for rhythm-al-ism" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-11-10</td>
       <td>DJ Quik</td>
@@ -1052,9 +1091,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
-          <img src="https://i.discogs.com/0ToHqntoQpMh3_3sBTVY7s85wDI_bWdXDztI6S1pLZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjky/Mi0xNDc5NDkzMjQ1/LTY2NDUuanBlZw.jpeg" alt="Cover for War &amp; Peace Vol. 1 (The War Disc)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d39e8565c5804f47cfe9233bfbd9a2e2.png" alt="Cover for War &amp; Peace Vol. 1 (The War Disc)" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-11-17</td>
       <td>Ice Cube</td>
@@ -1072,7 +1111,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/8F2TfGBgwwY3k4XrJihIWcm5v2ggvxXs6gd-t2bIawY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDAy/NS0xNjc5MTQyODMy/LTI1NjAuanBlZw.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ca8269cfa0a4e0bb9a08aedfb645ed6.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-11-24</td>
       <td>2Pac</td>
@@ -1086,35 +1125,33 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
         <ul>
             <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 4</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 15</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 32</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 53</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>3</td>
       <td>
+          <img src="https://i.discogs.com/fKqcftxDiAIp238KKP7WLrnPtCWsFmwxmiWpiBL_ui8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDAy/MTktMTU4Nzc5MDY4/Ny0yNjU0LmpwZWc.jpeg" alt="Cover for No Limit Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
-      <td>1999-05-11</td>
-      <td>Snoop Dogg</td>
-      <td>No Limit Top Dogg</td>
+      <td>1999-06-01</td>
+      <td>TRU</td>
+      <td>No Limit Greatest Hits</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/f7apkdHRjj0mwJY-UZLDn8doXtTI3Bm8eadIH6JPJ84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mzk1/OC0xMTQzODc1MzQ2/LmpwZWc.jpeg" alt="Cover for Gangsta Rap" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1db596ccce7f43329c8bf2f6e4703e0c.png" alt="Cover for Gangsta Rap" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-07</td>
       <td>Ice-T</td>
@@ -1130,8 +1167,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8a6417d7c1d30ed4a211bdceb0e8cf9.png" alt="Cover for 2001" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-11-16</td>
       <td>Dr. Dre</td>
@@ -1146,7 +1184,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       <td>
         <ul>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 36</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 47</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 55</li>
             <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 92</li>
             <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 97</li>
         </ul>
@@ -1171,9 +1209,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/-lz-Y5B3dVkkEAdt1zR8VZVqBKKnhZ575QQYjwOpqPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjA0/NS0xMjIyNzg3NTI1/LmpwZWc.jpeg" alt="Cover for Doggystyle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f56d238345e49e8c9906e892984c187.png" alt="Cover for Doggystyle" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Snoop Dogg</td>
@@ -1194,8 +1232,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/033146b9dd73b82b88b3d1fcd4de48c2.png" alt="Cover for Snoop Dogg Presents Tha Eastsidaz" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-02-01</td>
       <td>Tha Eastsidaz</td>
@@ -1215,7 +1254,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>12</td>
       <td>
       </td>
       <td>2001-11-28</td>
@@ -1235,7 +1274,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/92hARpRXhxV6Jb6V73cuQd9tFWZJ-0HPVl7nqZiJgUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Njc0/NC0xMjY5MTUxNjY5/LmpwZWc.jpeg" alt="Cover for Bang Or Ball" style="max-width:120px; height:auto;" />
       </td>
@@ -1253,7 +1292,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>50</td>
       <td>
       </td>
       <td>2002-09-10</td>
@@ -1288,7 +1327,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/n-dGv8vaF2thRKiOwoYWoNCyp3FDb1gCKYDAjTXkW3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTg2/NDEtMTIwOTI1MDE1/MS5qcGVn.jpeg" alt="Cover for Young Roscoe Philaphornia" style="max-width:120px; height:auto;" />
       </td>
@@ -1309,7 +1348,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/v7usyPYpE3bkffKsSO7nWwfglPvTqCJPtzDr8Ohx8Ws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjA1/Mi0xMTI5Mjc3MDU0/LmpwZWc.jpeg" alt="Cover for Impact of a Legend" style="max-width:120px; height:auto;" />
       </td>
@@ -1329,7 +1368,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/sX08ugjyHAjxcI9EYMDkVZvmAk099LhQBabSikEF1Ec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYy/MTA5LTE0OTEyMjIw/MzEtNDg2OC5qcGVn.jpeg" alt="Cover for Nu Mixx Klazzics Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1347,7 +1386,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>47</td>
       <td>
       </td>
       <td>2003-03-11</td>
@@ -1364,7 +1403,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
       </td>
       <td>2003-04-22</td>
@@ -1378,13 +1417,13 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 83</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 84</li>
             <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/O7bCAD2JMW11jucq0ADjPz-jxk2C-fPZvnPOhDG6630/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYw/ODEtMTI4ODgwNjA0/Mi5qcGVn.jpeg" alt="Cover for Takin&#39; No Shortz" style="max-width:120px; height:auto;" />
       </td>
@@ -1403,9 +1442,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
-          <img src="https://i.discogs.com/6IUHnx80ajuY2SFAr6ES1LF-o760K3gZs018za2Nm_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDky/MS0xNTQ0ODcyMDk2/LTY4NDkuanBlZw.jpeg" alt="Cover for The Hard Way" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b56069ae1b1494f8e7992a3edb428c3.png" alt="Cover for The Hard Way" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-08-13</td>
       <td>213</td>
@@ -1423,8 +1462,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c52dab1180fa46389fd1d9b24890b4f4.png" alt="Cover for Loyal To The Game" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-12-14</td>
       <td>2Pac</td>
@@ -1432,19 +1472,36 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 7</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 44</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8fae92f6dd80c89b4156deff23a40a4.png" alt="Cover for The Documentary" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-01-13</td>
+      <td>The Game</td>
+      <td>The Documentary</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/XeH9kT7-1rZ-_fPZqlzc_DwRzQrt7FH55T3fBX-1Roc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NTQ5/OS0xMzgwNzUwMTE4/LTE5MzcuanBlZw.jpeg" alt="Cover for It&#39;s Not a Game" style="max-width:120px; height:auto;" />
       </td>
@@ -1464,7 +1521,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>23</td>
       <td>
       </td>
       <td>2005-09-27</td>
@@ -1481,7 +1538,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/X5dY7pvEzKS3NG695rufEpXBs1iI4C9F7VjWEVvWaEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTg4/NS0xNjM3MjU1NDgx/LTg5NzAuanBlZw.jpeg" alt="Cover for Bullet Symphony: Horns and Halos #3" style="max-width:120px; height:auto;" />
       </td>
@@ -1503,9 +1560,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/Okg05YU4MIII-zEHb0ETunuGASrz6owosvL0ruMxkjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjI2/Ni0wMDEuanBn.jpeg" alt="Cover for Playwutchyalike: The Best Of Digital Underground" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da92748bb785495db4515ab5b0a80e1b.png" alt="Cover for Playwutchyalike: The Best Of Digital Underground" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-27</td>
       <td>Digital Underground</td>
@@ -1516,25 +1573,6 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
-      <td>
-      </td>
-      <td>2006-03-14</td>
-      <td>E-40</td>
-      <td>My Ghetto Report Card</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1555,7 +1593,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/x4zcVvF1hj2QW4dojMHCHj1rNXv3r2PdRx5HoQttsTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODc2/NzUtMTQwMjc1Mjc5/NC03ODM5LmpwZWc.jpeg" alt="Cover for Born And Raised In Compton: The Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1573,17 +1611,15 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d32a6d3e1397d7dbad20525fb00e8ce0.png" alt="Cover for Doctor&#39;s Advocate" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-11</td>
       <td>The Game</td>
       <td>Doctor&#39;s Advocate</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
       <td>
@@ -1593,7 +1629,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/ACbx-8neCm7xL-jbwd7helBnD8vRK7SPcjlz5FbFF7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjk1/Mjk1LTE0OTQ4MzIx/OTYtNjA2NS5qcGVn.jpeg" alt="Cover for Cartel or Die...S.C.C.&#39;s Most Gangsta" style="max-width:120px; height:auto;" />
       </td>
@@ -1611,7 +1647,25 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/y8a9sxi6soFN350C6kbH512ZB4NNTNIrdzTeP79GK4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTYw/NzMtMTQ0NDA0OTg0/My0zMTU4LmpwZWc.jpeg" alt="Cover for The Ripgut Collection" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-05-29</td>
+      <td>Brotha Lynch Hung</td>
+      <td>The Ripgut Collection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/4KsZx9VFOs99h7QgmmVhitxHobcjsPIwKPOXk_QiYT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzg5/MjAxLTE2MzI3NjE0/MDMtNjI0MS5qcGVn.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1631,9 +1685,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/P6LjYjqSG0Xn4ROOL4UaOp_HbXmMG5ew-1w52Ogycg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIx/MjgtMTQ1OTQ0ODQ2/Mi01MDQwLmpwZWc.jpeg" alt="Cover for Ego Trippin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf3363f783594dd89594ee18f5d1c208.png" alt="Cover for Ego Trippin" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Snoop Dogg</td>
@@ -1650,7 +1704,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>48</td>
       <td>
       </td>
       <td>2008-01-28</td>
@@ -1667,7 +1721,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>39</td>
       <td>
       </td>
       <td>2008-12-02</td>
@@ -1691,7 +1745,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/0AWsEsGowfwbeNOHVgHM0aqVaC8_n18Gs0uFJCj2NOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTcy/NTQtMTQzMTMwOTgy/Mi0yMzgzLmpwZWc.jpeg" alt="Cover for Freedom &#x2F; Our Way" style="max-width:120px; height:auto;" />
       </td>
@@ -1709,51 +1763,15 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/LZ11hVl3iSGXqFHUBnZwI2UyS5JHWt5Ijt2Rwj60gnk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODIx/MDA2LTE1ODIyNDE2/NzYtMzYxMi5qcGVn.jpeg" alt="Cover for Ketchup (mixed by DJ Low Key)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aef895e7b8f4412db1b511111d40ec1f.png" alt="Cover for Ketchup (mixed by DJ Low Key)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-25</td>
       <td>TiRon</td>
       <td>Ketchup (mixed by DJ Low Key)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
-      <td>
-      </td>
-      <td>2009-10-20</td>
-      <td>Fashawn</td>
-      <td>Boy Meets World</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>
-      </td>
-      <td>2010-06-21</td>
-      <td>Kero One</td>
-      <td>Kinetic World</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a></li>
         </ul>
       </td>
       <td>
@@ -1764,6 +1782,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29eb6553ea8244b58621b7c98864ef3d.png" alt="Cover for Overly Dedicated" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-14</td>
       <td>Kendrick Lamar</td>
@@ -1783,6 +1802,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d140d8d8dde411e96d2c6168f4f083f.png" alt="Cover for Section.80" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-02</td>
       <td>Kendrick Lamar</td>
@@ -1797,16 +1817,17 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 12</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 49</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 89</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 89</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48628c6af67db437b0b9ff156b2c1085.png" alt="Cover for good kid, m.A.A.d city" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-21</td>
       <td>Kendrick Lamar</td>
@@ -1817,32 +1838,13 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 15</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 86</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
-      <td>
-          <img src="https://i.discogs.com/8Ede-qHrLM0CmoMPi2CtkcIxHJ2exjsMB3Blt_EDgC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Njk0/MTUtMTU4NjA5MTU3/OS01MDE2LmpwZWc.jpeg" alt="Cover for Good Kid M.A.A.D City (Deluxe Edition)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-10-22</td>
-      <td>Kendrick Lamar</td>
-      <td>Good Kid M.A.A.D City (Deluxe Edition)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/deiO-7v2lLtnUKIWhfSB5VKnrAXvjlARxenXVNoNhJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njkw/OTk5LTE2Mjc3NDIw/MTUtNDAxOS5qcGVn.jpeg" alt="Cover for Domino" style="max-width:120px; height:auto;" />
       </td>
@@ -1861,9 +1863,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
-          <img src="https://i.discogs.com/PZc9Br6jii2qToj19mMzTqlYSBgO-LDOHa4FmufE70Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODQ5/OS0xNTE1NTMzMzM3/LTM4NjYuanBlZw.jpeg" alt="Cover for EFIL4ZAGGIN" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0adf832e18194aafca75a86eb7c4c53e.png" alt="Cover for EFIL4ZAGGIN" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>N.W.A</td>
@@ -1880,7 +1882,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/CjdEjq_q_nM4grvOJLECRAtc7nNxA5etPncklZ4moNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjk0/NzgtMTE5NDQyNzM5/OC5qcGVn.jpeg" alt="Cover for Still I Rise" style="max-width:120px; height:auto;" />
       </td>
@@ -1899,7 +1901,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/KavZx-vh6THT4qBD8cnR5-X8VbGmH4JW_BE5WYR7egM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTc5/NzQtMTQyOTAzNzgy/MC03MjM4LmpwZWc.jpeg" alt="Cover for Flower Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -1912,21 +1914,21 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 6</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 7</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 37</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 41</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 42</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 42</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 46</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 74</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 75</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 95</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/jlle3_YtzXp3_hMj-yHZbBp0ukkr5Gu2b8ReLdYPjD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzY2/ODMtMTQzMzkzNjcw/OS0yMTk1LmpwZWc.jpeg" alt="Cover for Chemical Warfare" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3332d50004c84bbbb654afe6f22730bf.png" alt="Cover for Chemical Warfare" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-01-28</td>
       <td>Alchemist</td>
@@ -1951,7 +1953,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 31</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 33</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 34</li>
             <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 43</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 54</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 60</li>
@@ -1960,7 +1962,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>40</td>
       <td>
       </td>
       <td></td>
@@ -1977,7 +1979,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>44</td>
       <td>
       </td>
       <td></td>
@@ -2006,5 +2008,5 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
 - [g-funk]({{ "/tags/g-funk" | relative_url }})
 - [chicano rap]({{ "/tags/chicano-rap" | relative_url }})
 - [oakland]({{ "/tags/oakland" | relative_url }})
-- [hardcore rap]({{ "/tags/hardcore-rap" | relative_url }})
 - [san francisco]({{ "/tags/san-francisco" | relative_url }})
+- [hardcore rap]({{ "/tags/hardcore-rap" | relative_url }})

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-20T04:00:33.872Z
+date: 2025-11-08T22:04:11.424Z
 permalink: tags/puerto-rico
 title: puerto rico
 ---
 
 ## puerto rico
 
-Last updated: <time datetime="2025-10-20T04:00:33.872Z">Mon Oct 20 2025 07:00:33 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-08T22:04:11.424Z">Sun Nov 09 2025 00:04:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
   </thead>
   <tbody>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/tkNPtQ91r8HHtUJsRX14G2joYEGYtFaEHkcQjlz9Rfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODgx/ODItMTQyNDY0NDg5/Mi01OTgyLmpwZWc.jpeg" alt="Cover for Asalto Navideño Deluxe Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -85,7 +85,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/ZYgesV-H8SjypMGm8YZGQ4hzRafReN86fKlHRNEmamU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjA0/MDEtMTUyNTM1MzIz/Ny00MjA1LmpwZWc.jpeg" alt="Cover for Puerto Rico: Algo Se Quema Allá A Fuera! (Something Is Burning Out There!)" style="max-width:120px; height:auto;" />
       </td>
@@ -103,7 +103,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
       </td>
       <td>1975</td>
@@ -142,7 +142,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg" alt="Cover for Salsa" style="max-width:120px; height:auto;" />
       </td>
@@ -165,7 +165,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg" alt="Cover for Tarde" style="max-width:120px; height:auto;" />
       </td>
@@ -183,7 +183,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/koEUELuOgt-I3CAO4LWqC7MJdyWmEw315d9ztd0um-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTg5/MTg4LTE2MjI2NjQ1/OTctMTA0Mi5qcGVn.jpeg" alt="Cover for Boricua Roots&#x2F;Raices Boricuas: Sings Puerto Rican Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -205,7 +205,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/xfCsse0GGiI4tJJXdahFCGzLWMYGmy8_wRV9wIIvhAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU5/NzAtMTIyNzY0MTc3/OS5qcGVn.jpeg" alt="Cover for Sintetizadores vs Guitarras" style="max-width:120px; height:auto;" />
       </td>
@@ -230,7 +230,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Lo Mejor De Oro Salsero Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -284,7 +284,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/xUZ9jOsrwYJv3DkegIYyp5RnNHiIqoJntpKUU7HfsM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTk0/MTU5LTE1NDk3Mjkz/OTAtNDUyNi5qcGVn.jpeg" alt="Cover for Join The Madness" style="max-width:120px; height:auto;" />
       </td>
@@ -302,7 +302,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
       </td>
       <td>1994</td>
@@ -351,12 +351,12 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 69</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/Vt841chXcF1Xwxl4C957URWGo5-_7sEP9Joil0ZNHl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA3/NzkxLTE0OTc0MDgw/NzctOTIwMS5qcGVn.jpeg" alt="Cover for Naci Para Cantar" style="max-width:120px; height:auto;" />
       </td>
@@ -412,7 +412,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/t_ORVWY1iFG98zQAFXNh8d2UUk9aJdmawgi30rMhKnk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDMz/NDAtMTU1NjEyODQx/NS0zODEzLmpwZWc.jpeg" alt="Cover for Somos Boricuas: Bomba Y Plena En Nueva York" style="max-width:120px; height:auto;" />
       </td>
@@ -469,7 +469,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg" alt="Cover for Regeton Lento" style="max-width:120px; height:auto;" />
       </td>
@@ -508,8 +508,8 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       <td>
         <ul>
             <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 6</li>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 21</li>
             <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 31</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 80</li>
             <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 99</li>
         </ul>
       </td>
@@ -533,7 +533,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/fj_w0fC8yHaPommRbu499MFmb1HWyTi5u_olkTgPRAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjA5/Mzg5LTE2NjM5NTU1/MzEtNDkwNi5qcGVn.jpeg" alt="Cover for Cristales Rotos" style="max-width:120px; height:auto;" />
       </td>
@@ -557,7 +557,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/45TBWz9h7IkZbsCpMlEsdrRy3x1YuFNtMy3L--gTwB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA2/NzQtMTM2MTk2MDg4/NS03MDAzLmpwZWc.jpeg" alt="Cover for IDEAS NUEVAS (EN VIVO)" style="max-width:120px; height:auto;" />
       </td>
@@ -590,12 +590,12 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 44</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/iohpTcCTbK9rMKXhVSQ8hDklDgl0rtmwA01ywVPMA8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njgz/MTAwLTE2ODk0MzM5/OTUtMTk3MC5qcGVn.jpeg" alt="Cover for Ley De Gravedad" style="max-width:120px; height:auto;" />
       </td>
@@ -613,7 +613,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/yKo46p2gn_ts1qAJ8DdY13PcpKS-p505O_2f5QCyopM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDIy/OTItMTQ1NDAyMzgw/NC00OTE1LmpwZWc.jpeg" alt="Cover for Arecibo Psycodelic Classics 17: Abortos Musicales" style="max-width:120px; height:auto;" />
       </td>
@@ -672,7 +672,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
       </td>
       <td>2004</td>
@@ -708,7 +708,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/R3DDlnDVsKWdDu6vGv_nCIhlbjhz8Bf5Xk_5hYH95Q8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjQ1/NDEtMTQ4MDM1MDUy/MC03MTIwLmpwZWc.jpeg" alt="Cover for Ay! Mi Vida" style="max-width:120px; height:auto;" />
       </td>
@@ -744,7 +744,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/U1gzyGZzOMvxVhSmZf6qmXr0MHpYLvLVYXkLgmvq2Do/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODI3/Ni0xMTUyNjAxNzY0/LmpwZWc.jpeg" alt="Cover for Bien Gorgeous" style="max-width:120px; height:auto;" />
       </td>
@@ -856,7 +856,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/JbvJfni7XMjTeW2uUbEq8TcfLyLeN_QCiLjd3kvbQL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzg4/OTItMTIzNDIwNzgy/OS5qcGVn.jpeg" alt="Cover for Ensayo de un Desaparecido" style="max-width:120px; height:auto;" />
       </td>
@@ -895,7 +895,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
       </td>
       <td>2009-04-28</td>
@@ -935,15 +935,15 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43b3e19f9aeb8df5a500b2c8f35efdb5.png" alt="Cover for Con Calma" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Daddy Yankee</td>
       <td>Con Calma</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a></li>
         </ul>
       </td>
       <td>
@@ -952,7 +952,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/VFTLDPRg8rs9x0iqUAY17i7FmktzztP84l0KhdWgpy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzA0/MzMtMTI2Mjk5MzYy/MS5qcGVn.jpeg" alt="Cover for Free Sousa" style="max-width:120px; height:auto;" />
       </td>
@@ -990,7 +990,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6811fb3ddfe1bb7e9d9c72fd0ae1976.png" alt="Cover for Cosa Nuestra" style="max-width:120px; height:auto;" />
       </td>
@@ -1009,9 +1009,26 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/ofSna8aywmM1N9V779DWEBTqRwt_9S7fxJbegbLoN-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI2/ODcyLTE1OTMwMjgx/NzUtOTI4OS5qcGVn.jpeg" alt="Cover for Rima" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3a825b3e07faed087dbe9fefcc8eef9.png" alt="Cover for Real G 4 Life Part 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-01-03</td>
+      <td>Ñengo Flow</td>
+      <td>Real G 4 Life Part 2</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5dffd583506dfe7a00a1047f141fd7d.png" alt="Cover for Rima" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-24</td>
       <td>Negro González</td>
@@ -1028,7 +1045,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/o3EBnomWsIOTo3XwiuBPoiuGEey286-HQAk-Og9pcZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njk1/MjEtMTQ1MjYzNzI0/MS0xNDcyLmpwZWc.jpeg" alt="Cover for Songs and Dances of Puerto Rico" style="max-width:120px; height:auto;" />
       </td>
@@ -1064,7 +1081,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>2013</td>
@@ -1100,7 +1117,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/P4h8zXb25rzUWXZhmBXgLm6d6kCUxANmHmBgv99tWvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDA1/NjQtMTQ4NjUxNDIw/Mi05ODY0LmpwZWc.jpeg" alt="Cover for Clamor Victorium, Clamor Silentii" style="max-width:120px; height:auto;" />
       </td>
@@ -1171,7 +1188,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
       </td>
       <td>2014-08-25</td>
@@ -1190,7 +1207,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/-JoETuqC_30nIaoGZ4LChPtJKtBJ0uzyVGDtz84jgRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjI4/MzA2LTE1NzAyODky/ODktNDI3My5qcGVn.jpeg" alt="Cover for El Alma De Puerto Rico: Jíbaro Tradition by Ecos De Borinquen" style="max-width:120px; height:auto;" />
       </td>
@@ -1212,7 +1229,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/QwiwwM22Boi2BCDEQHGoq7cpkq4efvbq-g1-rScXbuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTI0/ODgtMTQ4NjcyMzI1/Mi05NDU0LnBuZw.jpeg" alt="Cover for White Widow" style="max-width:120px; height:auto;" />
       </td>
@@ -1253,7 +1270,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/xjXOziZKpm43yAScVzvjE1AcKIFTcvtu2ffqKou62mM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDIy/NDAtMTQ4NTY1MDcx/OS01MzQ0LmpwZWc.jpeg" alt="Cover for Zen Thrills" style="max-width:120px; height:auto;" />
       </td>
@@ -1309,7 +1326,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/KsBL3wWrbYngCUiKAj6G35TF6RIKMvpRH74qP-UkyOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTg0/NzQ2LTE2NDExODQ0/MjAtNDE5NS5qcGVn.jpeg" alt="Cover for Ya Se Quien Eres Tu" style="max-width:120px; height:auto;" />
       </td>
@@ -1330,7 +1347,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/ti1xABdl2FfgLbJH7DadXTFXPL8yJxy8FnTMAHYGOR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTQx/MzAyLTE1NjQ1NDE4/ODgtMjgxMC5qcGVn.jpeg" alt="Cover for Plans for Ya" style="max-width:120px; height:auto;" />
       </td>
@@ -1387,7 +1404,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/H1eq-_uL6qOCjVaduJbzb3PjF-xWSCCdj_rbYfIPuOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzM3/MjE1LTE1ODk5MzM1/NDUtNTkzOS5qcGVn.jpeg" alt="Cover for Street Lord" style="max-width:120px; height:auto;" />
       </td>
@@ -1409,7 +1426,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/SijNayO53DpoqTKL-mLAGX8Top2K58NNMVjb-xVEiTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI2/NDAzLTE1OTMwMjIy/NDQtODQwMS5wbmc.jpeg" alt="Cover for DEM8encia (EP)" style="max-width:120px; height:auto;" />
       </td>
@@ -1428,7 +1445,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/SijNayO53DpoqTKL-mLAGX8Top2K58NNMVjb-xVEiTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI2/NDAzLTE1OTMwMjIy/NDQtODQwMS5wbmc.jpeg" alt="Cover for Arte Intacto (ep)" style="max-width:120px; height:auto;" />
       </td>
@@ -1446,7 +1463,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/SijNayO53DpoqTKL-mLAGX8Top2K58NNMVjb-xVEiTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI2/NDAzLTE1OTMwMjIy/NDQtODQwMS5wbmc.jpeg" alt="Cover for dem8oz" style="max-width:120px; height:auto;" />
       </td>
@@ -1466,7 +1483,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/93vRxzUAfPLwNO5LwEcEVa1HlXQlQgP4avhk4HPjYmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzUw/NTk3LTE2MzI0ODgx/MzEtMjc1Ny5qcGVn.jpeg" alt="Cover for Kemba Walker" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ad3d223008da383a6b9fbd6786739a8.png" alt="Cover for Kemba Walker" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Eladio Carrion</td>
@@ -1485,7 +1502,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/ao1IebtAs6ZycZV2Pk3Wz87QWSpwJB1bUtdfDW449yI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njgz/OTk2LTE2MDkyNDc2/OTAtNjYyMi5qcGVn.jpeg" alt="Cover for The Way We Are Created" style="max-width:120px; height:auto;" />
       </td>
@@ -1515,7 +1532,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/ijDwCDASrTIfaF3OnODgX0Digar3eK6CaswDxKHuzHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDAy/NTIyLTE2NzA0ODg5/NzctNzIxOS5qcGVn.jpeg" alt="Cover for Saturno" style="max-width:120px; height:auto;" />
       </td>
@@ -1599,8 +1616,9 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aca7908cee9a446eb403f94713cd9f76.png" alt="Cover for Artistas De la Big Street" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Jhon El Smoking</td>
@@ -1696,7 +1714,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -1716,7 +1734,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -1737,7 +1755,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1755,7 +1773,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1772,7 +1790,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -1789,7 +1807,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -1809,7 +1827,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -1830,7 +1848,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -1854,7 +1872,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -1873,7 +1891,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -1892,7 +1910,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -1913,7 +1931,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
@@ -1938,7 +1956,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
       </td>
       <td></td>
@@ -1994,22 +2012,6 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
         </ul>
       </td>
     </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Gigolo Y La Exce, Myke Towers &amp; Arcángel</td>
-      <td>Rasta Barbie (Remix) [feat. El Alfa &amp; Farruko] - Single</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
   </tbody>
 </table>
 
@@ -2023,5 +2025,5 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
 - [alternative]({{ "/tags/alternative" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
 - [latino]({{ "/tags/latino" | relative_url }})
-- [metal]({{ "/tags/metal" | relative_url }})
 - [hardcore]({{ "/tags/hardcore" | relative_url }})
+- [metal]({{ "/tags/metal" | relative_url }})
