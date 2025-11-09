@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-06T04:56:51.649Z
+date: 2025-11-08T21:59:27.032Z
 permalink: tags/alternative-metal
 title: alternative metal
 ---
 
 ## alternative metal
 
-Last updated: <time datetime="2025-11-06T04:56:51.649Z">Thu Nov 06 2025 06:56:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-08T21:59:27.032Z">Sat Nov 08 2025 23:59:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -86,7 +86,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 90</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -169,7 +169,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
             <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 64</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 64</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 68</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 69</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 70</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 100</li>
         </ul>
       </td>
@@ -247,7 +247,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 17</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 18</li>
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 82</li>
         </ul>
       </td>
@@ -273,7 +273,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/84242397f28320deb951091d15b284b2.png" alt="Cover for Lavô Tá Novo" style="max-width:120px; height:auto;" />
       </td>
@@ -473,7 +473,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       <td>
         <ul>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 70</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 71</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 72</li>
             <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 73</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 81</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 93</li>
@@ -722,7 +722,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63dc0788b4190aef38e7c6cbbb99275c.png" alt="Cover for Stone Sour" style="max-width:120px; height:auto;" />
       </td>
@@ -793,7 +793,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 25</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 26</li>
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 56</li>
         </ul>
       </td>
@@ -952,7 +952,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/943Z_SoxqmeXY-ZGhantIaFyyvPP_HklnFI5ZSac6GE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzEw/Ny0xMTgwNjMxNjc5/LmpwZWc.jpeg" alt="Cover for Getting Away With Murder" style="max-width:120px; height:auto;" />
       </td>
@@ -969,6 +969,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 1</li>
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 89</li>
             <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 96</li>
         </ul>
@@ -1255,7 +1256,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 30</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 31</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 73</li>
             <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 95</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 99</li>
@@ -1263,7 +1264,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c8adfb1f5ff5cf91b63ec260f0061fc.png" alt="Cover for Indestructible" style="max-width:120px; height:auto;" />
       </td>
@@ -1364,7 +1365,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2009-04-21</td>
@@ -1383,7 +1384,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f524b13fb712d202496fcfb948c4c619.png" alt="Cover for War Is the Answer" style="max-width:120px; height:auto;" />
       </td>
@@ -1401,7 +1402,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a266a082f84b0a457dbc8a5acaf978e.png" alt="Cover for Mudvayne" style="max-width:120px; height:auto;" />
       </td>
@@ -1417,7 +1418,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 27</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1458,7 +1459,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 1</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 15</li>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 38</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 54</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 55</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 96</li>
         </ul>
       </td>
@@ -1486,7 +1487,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2012-01-20</td>
@@ -1542,26 +1543,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 4</li>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 18</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e5642a8d73de9210f80e59ff3d63643.png" alt="Cover for Nothing More" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013</td>
-      <td>Nothing More</td>
-      <td>Nothing More</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1587,7 +1569,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2014-11-14</td>
@@ -1621,13 +1603,13 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 6</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 7</li>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/332da6a234b24004c0cf039773924649.png" alt="Cover for Human" style="max-width:120px; height:auto;" />
       </td>
@@ -1659,7 +1641,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 52</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 53</li>
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 54</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 61</li>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 96</li>
@@ -1685,7 +1667,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 5</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 6</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 29</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 34</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 90</li>
@@ -1819,7 +1801,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2020-07-08</td>
@@ -1895,6 +1877,24 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       <td>
         <ul>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74f52b68d9510f97ef9df59d59ca01ee.png" alt="Cover for Heroine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-06-03</td>
+      <td>Thornhill</td>
+      <td>Heroine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1994,7 +1994,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 65</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 89</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 90</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 99</li>
         </ul>
       </td>
