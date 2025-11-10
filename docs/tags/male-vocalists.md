@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T02:22:14.209Z
+date: 2025-11-10T13:06:28.498Z
 permalink: tags/male-vocalists
 title: male vocalists
 ---
 
 ## male vocalists
 
-Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-10T13:06:28.498Z">Mon Nov 10 2025 15:06:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -95,6 +95,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a55d946f86cabca8dda72f3ff87533a.png" alt="Cover for King of the Road" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Roger Miller</td>
@@ -192,7 +193,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 92</li>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -293,7 +294,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/sFQVPsU_WnbJ9wc9YZc_O80lDlaeOPjXIj2HZcEogio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzUx/NDItMTUyMjkyMzgz/OS05OTY5LmpwZWc.jpeg" alt="Cover for Room on the 3rd Floor" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6925fee849e34b28a8c59e6ae9827642.png" alt="Cover for Room on the 3rd Floor" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-01-01</td>
       <td>McFly</td>
@@ -331,8 +332,9 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 18</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 67</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 14</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 22</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 72</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 87</li>
         </ul>
       </td>
@@ -340,6 +342,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcc90fdbe33c173846b7cc4279ab0664.png" alt="Cover for Jace Everett" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-22</td>
       <td>Jace Everett</td>
@@ -415,10 +418,11 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 57</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 5</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 58</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 60</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 87</li>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 88</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -545,8 +549,9 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e57979e1696d60ac1d209ed2d191209.png" alt="Cover for Departure - Recharged" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Jesse McCartney</td>
@@ -643,23 +648,6 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-      </td>
-      <td>2010-06-21</td>
-      <td>Stromae</td>
-      <td>Cheese</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2c8247844444018c0583f04139698f6.png" alt="Cover for Rhythm Of Love" style="max-width:120px; height:auto;" />
@@ -721,6 +709,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62569f50507647aa8ed5b45cc920339c.png" alt="Cover for Olly Murs" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-29</td>
       <td>Olly Murs</td>
@@ -757,7 +746,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/msJyFy6tKncWdnaQw9MEA_0cbEbAy91NHqdweiZJTrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTQw/NDQtMTMwMTQxNzIw/NC5qcGVn.jpeg" alt="Cover for Civilization" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4a796591d9d4e00abc06b9cc5e51a42.png" alt="Cover for Civilization" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-30</td>
       <td>Justice</td>
@@ -777,6 +766,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47eb84701a244cfe636badce5de93a0e.png" alt="Cover for Bounce" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-20</td>
       <td>JJ Project</td>
@@ -814,7 +804,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 66</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -828,16 +818,14 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 63</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 65</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 81</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 98</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 98</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 99</li>
         </ul>
       </td>
@@ -854,17 +842,15 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 67</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 69</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 84</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 87</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 88</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 90</li>
         </ul>
       </td>
@@ -872,7 +858,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/v3Kd4f4WjcuU9ZOoBAw_idOi8XoBNsry0YKDuqmzQg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTc1/MTEtMTM4MTY5MjQ3/MS02NDkwLmpwZWc.jpeg" alt="Cover for The 20&#x2F;20 Experience (Deluxe Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1de1b815025e2ceadfad8736d89047c7.png" alt="Cover for The 20&#x2F;20 Experience (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-15</td>
       <td>Justin Timberlake</td>
@@ -884,7 +870,6 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -905,7 +890,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 76</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -944,7 +929,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       <td>
         <ul>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 7</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 10</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 15</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 64</li>
         </ul>
       </td>
@@ -973,6 +958,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/372d7baa0cb7414aa2ea2148e7bad3f4.png" alt="Cover for Now, Then &amp; Forever" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-10</td>
       <td>Earth, Wind &amp; Fire</td>
@@ -1021,7 +1007,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 56</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1042,7 +1028,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 49</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1067,7 +1053,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/96srSL3z4DELqi6_mJaKLjEm2r2lQsltkRY-qH_ehjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTkz/ODM4LTE1MDc4NDA1/NzUtODE2NS5qcGVn.jpeg" alt="Cover for The Definition" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f021de776d1f4cadcce1507fa4abd263.png" alt="Cover for The Definition" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-23</td>
       <td>Jon Bellion</td>
@@ -1112,6 +1098,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca3a356664ab48b3c8dfe4f7e1af82b1.png" alt="Cover for Anything Goes" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-14</td>
       <td>Florida Georgia Line</td>
@@ -1120,17 +1107,15 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 71</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 73</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 90</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 91</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1189,8 +1174,34 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 62</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 64</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ffb2f4a0a53982d41fb8d5c8ce1dae8.png" alt="Cover for Shangri-La" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-09-09</td>
+      <td>VIXX</td>
+      <td>Shangri-La</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 53</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 53</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1212,14 +1223,14 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 4</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 73</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/nSRm1hACSAUhPr_e6w0B6CdzqeW4pVveGxtfmWq3Zwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDU4/NjEtMTQ1NzEyNDAy/NC0yNTUzLmpwZWc.jpeg" alt="Cover for Live and in Session" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c10ea3ad0d4c438cc3d5e8a527b61347.png" alt="Cover for Live and in Session" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-26</td>
       <td>Ed Sheeran</td>
@@ -1285,7 +1296,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/p35wT-YhRFCAN0WZE1IZkivG8e7JQF9S0A_s7V1Mni4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDYx/ODgtMTQ3NjIyMTAz/MC0zMTU2LmpwZWc.jpeg" alt="Cover for Dig Your Roots" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1f4ebc2349a2c316ec3eb289f26b1af.png" alt="Cover for Dig Your Roots" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-26</td>
       <td>Florida Georgia Line</td>
@@ -1300,7 +1311,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 68</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 70</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 85</li>
         </ul>
       </td>
@@ -1389,7 +1400,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 24</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 27</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 84</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 90</li>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 99</li>
@@ -1413,7 +1424,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 89</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1442,7 +1453,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/33RGTH-3oY8Lgmy22rxgtPq8V6BpNk9YUZalqSuif6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUw/NzE2LTE2MDc0Nzgw/OTItNTY1OC5qcGVn.jpeg" alt="Cover for Ready" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98f844b58d93c82e39a7312c0af5a0a7.png" alt="Cover for Ready" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-15</td>
       <td>Ruel</td>
@@ -1459,7 +1470,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 90</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1480,6 +1491,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 3</li>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 37</li>
         </ul>
       </td>
@@ -1498,7 +1510,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 94</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1520,7 +1532,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 8</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 66</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1541,7 +1553,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 90</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 91</li>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 93</li>
         </ul>
       </td>
@@ -1585,8 +1597,8 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 100</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 100</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 100</li>
             <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 100</li>
         </ul>
       </td>
@@ -1716,14 +1728,14 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 10</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 57</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/bFbfBsyIxyw12MX4w2x48JhD22WiDeCzacJjx0lk97Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjU2/NTkxLTE2MDk5MTY4/NTEtNDg4My5wbmc.jpeg" alt="Cover for breath of love: last piece" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b8d3da6fc286161062438c086e1c029.png" alt="Cover for breath of love: last piece" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11-30</td>
       <td>GOT7</td>
@@ -1760,7 +1772,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 9</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 64</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 66</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 83</li>
         </ul>
       </td>
@@ -1828,7 +1840,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 16</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1861,7 +1873,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/wrWrXDOS40hrkaMj--MfkN9LzCjEcpVHnmm6u4seejQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzQ5/MzQ1LTE2Mzk2OTE1/NjAtNTQ1Ny5qcGVn.jpeg" alt="Cover for BPL" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cdb6b4b3055ed0bba572580d27af28c.png" alt="Cover for BPL" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11-12</td>
       <td>D. Savage</td>
@@ -1902,7 +1914,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/qBwWQ1W1B2HqyzE1F67Fi2Y6rlgdNpR1K7VaRVPQOoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjIw/MzctMTQyNjU5NjE3/MS02MzU0LmpwZWc.jpeg" alt="Cover for The Nocturne" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/956fa8ccb7a2cec379ad97c68e3295ce.png" alt="Cover for The Nocturne" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-15</td>
       <td>NU&#39;EST</td>
@@ -1921,7 +1933,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/-bKAM9sSoORGlpgqrUJCGpq8J2j1mT1uRzNpURxqLvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTIw/MDcxLTE2NTAyODAw/ODUtMTc1Mi5qcGVn.jpeg" alt="Cover for nEw wAVe" style="max-width:120px; height:auto;" />
       </td>
@@ -1942,14 +1954,14 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
         <ul>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 55</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 55</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 83</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/8j7MwoHw_lkO0nO4xN2cxkOdEdN3vH6eoD7rsl9Au3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTQz/OTQ2LTE2MTYzMzA5/MDgtNjUzNy5qcGVn.jpeg" alt="Cover for HIDEOUT: BE OUR VOICE - SEASON 3." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/deb0a889279102c36f4160dc44eb6de7.png" alt="Cover for HIDEOUT: BE OUR VOICE - SEASON 3." style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-22</td>
       <td>CRAVITY</td>
@@ -2054,7 +2066,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 7</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 69</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -2077,13 +2089,14 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/Bo-kD5U5UE1rg4eSnBa_iUprj-sfhUVLAnFeSt0UvHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MDk4/NDEtMTQ4MTgyMTUw/OC04MDQzLmpwZWc.jpeg" alt="Cover for Silva Canta Marisa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e73723f480e88719ea0293a86d499fd.png" alt="Cover for Silva Canta Marisa" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11</td>
       <td>Silva</td>
@@ -2105,10 +2118,10 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       <td>
         <ul>
             <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 32</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 35</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 38</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 36</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 42</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 56</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 58</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -2151,7 +2164,7 @@ Last updated: <time datetime="2025-10-31T02:22:14.209Z">Fri Oct 31 2025 04:22:14
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 84</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 85</li>
         </ul>
       </td>
     </tr>

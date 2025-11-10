@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-04T21:12:07.935Z
+date: 2025-11-10T13:06:42.718Z
 permalink: tags/spanish
 title: spanish
 ---
 
 ## spanish
 
-Last updated: <time datetime="2025-11-04T21:12:07.935Z">Tue Nov 04 2025 23:12:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-10T13:06:42.718Z">Mon Nov 10 2025 15:06:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Spanish music refers to the musical traditions and styles that have developed in
   </thead>
   <tbody>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/UEzv2ix2KE5PHdvbGz8aiwmhrynsF0cpHP_8k_LYdzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ1/NDgyLTE2NDc3Nzg5/NDctMjQ5OS5qcGVn.jpeg" alt="Cover for MOTOMAMI" style="max-width:120px; height:auto;" />
       </td>
@@ -42,7 +42,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 14</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 43</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 83</li>
             <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 94</li>
@@ -73,7 +73,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/q5c6-6Ra1RbCMQK3DfCEI42vQ--3dOLG-TDrQVc8vHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ5/MTEtMTUxODg4ODQz/Ny05ODQ4LmpwZWc.jpeg" alt="Cover for Canciones" style="max-width:120px; height:auto;" />
       </td>
@@ -92,7 +92,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>1991-05-28</td>
@@ -113,7 +113,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/66fea374f7e9c094861a927e3d3dabc2.png" alt="Cover for Animal Nocturno" style="max-width:120px; height:auto;" />
       </td>
@@ -131,7 +131,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>1992-10-19</td>
@@ -148,9 +148,9 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/ONOtUsbgcEmF6RlRac9IeOVSmONmYbP9yQprM8p0MiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjEw/MTQ1LTE1ODgxNTE0/MDMtMjY5OS5qcGVn.jpeg" alt="Cover for Laura Pausini - Spanish Version" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34983bf5bf7b41dd8a798e0547e6c37d.png" alt="Cover for Laura Pausini - Spanish Version" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Laura Pausini</td>
@@ -189,7 +189,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/L7Dhu8vDzEJYjsIQ_M-63t6a8f0RUi0G6OaSLArWRFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQ2/ODM0LTE1OTE2NTg5/ODgtNjc5Ni5qcGVn.jpeg" alt="Cover for Cama Incendiada" style="max-width:120px; height:auto;" />
       </td>
@@ -248,7 +248,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/0pUXxvJtPW_2dQGO6atI66cZ1eSDOe1OSgKUsLM729E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODMw/ODQtMTM3NjYyMjI3/Ni0zOTk1LmpwZWc.jpeg" alt="Cover for Gypsy Flame" style="max-width:120px; height:auto;" />
       </td>
@@ -264,27 +264,6 @@ Spanish music refers to the musical traditions and styles that have developed in
       <td>
         <ul>
             <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 84</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad19d05177d1ec58acd56c259d29a1e0.png" alt="Cover for Pies Descalzos" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995-10-06</td>
-      <td>Shakira</td>
-      <td>Pies Descalzos</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 62</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -312,7 +291,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/JpHS3MHEMbumLhNZUWViWl85ootK06Cbi5RWUqplXxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODc4/NS0xMTU2ODQ3NzEy/LmpwZWc.jpeg" alt="Cover for Fiesta Macarena" style="max-width:120px; height:auto;" />
       </td>
@@ -369,6 +348,7 @@ Spanish music refers to the musical traditions and styles that have developed in
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/109f50b374bcde4427d4b317975ea926.png" alt="Cover for La Llorona" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-02</td>
       <td>Lhasa</td>
@@ -408,6 +388,7 @@ Spanish music refers to the musical traditions and styles that have developed in
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab83f164a82e0f150b03345089805259.png" alt="Cover for Dile al sol" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-05-18</td>
       <td>La Oreja de Van Gogh</td>
@@ -426,6 +407,7 @@ Spanish music refers to the musical traditions and styles that have developed in
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e28a21e42544b676a4a60dff81809a3d.png" alt="Cover for Estopa" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Estopa</td>
@@ -443,8 +425,9 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5e42c3f53c1d016007c4d4eb6083cc1.png" alt="Cover for Amarte es un Placer" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-09-14</td>
       <td>Luis Miguel</td>
@@ -478,8 +461,8 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 30</li>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 74</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 31</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 72</li>
             <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 88</li>
         </ul>
       </td>
@@ -503,15 +486,16 @@ Spanish music refers to the musical traditions and styles that have developed in
       <td>
         <ul>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 66</li>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 68</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 69</li>
             <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 84</li>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39fc518a05c7bf9845a25412f4d1a071.png" alt="Cover for Una pequeña parte del mundo" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-03-17</td>
       <td>Amaral</td>
@@ -530,6 +514,7 @@ Spanish music refers to the musical traditions and styles that have developed in
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ccdb6be05195ca9b34cbc7ffc1446a7b.png" alt="Cover for El viaje de Copperpot" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-09-11</td>
       <td>La Oreja de Van Gogh</td>
@@ -542,13 +527,14 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 4</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba6a0123a8ac736e63837b4c270b30de.png" alt="Cover for Mi Reflejo" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-09-12</td>
       <td>Christina Aguilera</td>
@@ -561,13 +547,13 @@ Spanish music refers to the musical traditions and styles that have developed in
       <td>
         <ul>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 4</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 9</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 18</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 12</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2000-10</td>
@@ -584,7 +570,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>2001-09-04</td>
@@ -652,7 +638,7 @@ Spanish music refers to the musical traditions and styles that have developed in
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/JlhKrP_C6WG9J7TlyeK2bbe0KTodiD31YFh-no94jvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMzE4/OTYtMTQ1MzgyNjQ3/Ny02MDkzLmpwZWc.jpeg" alt="Cover for Shakira MTV Unplugged" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/953ba60b57fc0ec2232039e70655bf03.png" alt="Cover for Shakira MTV Unplugged" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Shakira</td>
@@ -669,15 +655,16 @@ Spanish music refers to the musical traditions and styles that have developed in
       <td>
         <ul>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 65</li>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 67</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 68</li>
             <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 83</li>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8867343c5865b7d7008006aa6e78fa1.png" alt="Cover for Se Eu Não Te Amasse Tanto Assim" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-07-23</td>
       <td>Ivete Sangalo</td>
@@ -712,7 +699,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>2002-08-26</td>
@@ -730,7 +717,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/YeylSaJF3om09Xv-m3kw6wVh0CI6QmwhmnTW7QvnzL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDMw/ODU4LTE2MTkyMTMx/MjItMjU0My5qcGVn.jpeg" alt="Cover for Sin Noticias De Holanda" style="max-width:120px; height:auto;" />
       </td>
@@ -748,8 +735,9 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19654c17e16abab02d9097e3de50830a.png" alt="Cover for Lo que te conté mientras te hacías la dormida" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-04-28</td>
       <td>La Oreja de Van Gogh</td>
@@ -768,6 +756,7 @@ Spanish music refers to the musical traditions and styles that have developed in
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88755da85bc743e39b8d449e0c63e32f.png" alt="Cover for Belinda" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-05</td>
       <td>Belinda</td>
@@ -783,7 +772,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 26</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 27</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 59</li>
             <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 88</li>
         </ul>
@@ -810,7 +799,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2004</td>
@@ -827,7 +816,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2004</td>
@@ -845,7 +834,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/M2DXphH8JB51kDVRuFdGhd2G_PNAQ2OsRFXbM5XkpJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjI1/MjMtMTYyNjA0Nzc4/Ni05ODE1LmpwZWc.jpeg" alt="Cover for Sweet &amp; Sour - Hot &amp; Spicy" style="max-width:120px; height:auto;" />
       </td>
@@ -865,6 +854,7 @@ Spanish music refers to the musical traditions and styles that have developed in
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3b283d1aefc82f1ef3b75902cb90d48.png" alt="Cover for Mi Sangre" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-28</td>
       <td>Juanes</td>
@@ -879,14 +869,14 @@ Spanish music refers to the musical traditions and styles that have developed in
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 30</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 59</li>
             <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 76</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 90</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/xgZe_3ERenRWbi5Z9teZhn71zJrDPa3FG6_F-t-ZqiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzYz/OTM0LTE1MzM3NDk5/MTktODU2Ny5qcGVn.jpeg" alt="Cover for The Best Of" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d399e3a96a1a46d796d7c17db084d89e.png" alt="Cover for The Best Of" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Gipsy Kings</td>
@@ -906,7 +896,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>2005</td>
@@ -945,7 +935,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2005-03-07</td>
@@ -998,7 +988,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/sY_YlQcswNOvr04ymPcBqI0g7YancwXdnPfqO3q0pO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYx/NDUxLTE1NTA5Mzgy/NTItMzc1My5qcGVn.jpeg" alt="Cover for Parrandera, Rebelde Y Atrevida" style="max-width:120px; height:auto;" />
       </td>
@@ -1015,7 +1005,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>2005-11-22</td>
@@ -1052,7 +1042,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/I8O_OBYWExw1D5Wr1SQnT_bKG9l2KoAleDNfAH6OeZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTY0/NzktMTQ0ODIwMjY1/OC0zNDQzLmpwZWc.jpeg" alt="Cover for Premonicion" style="max-width:120px; height:auto;" />
       </td>
@@ -1072,7 +1062,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2006-01-30</td>
@@ -1090,7 +1080,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2006-02-21</td>
@@ -1128,7 +1118,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8551e31c6054a4c81b1e81d73bfeaa5.png" alt="Cover for Guapa" style="max-width:120px; height:auto;" />
       </td>
@@ -1164,7 +1154,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td>2006-06</td>
@@ -1221,14 +1211,12 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 31</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 60</li>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 73</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2007-03-20</td>
@@ -1242,12 +1230,12 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 61</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/5tyc5kh1UsXwdlBQE_2-SEnjbRNj-Si3d3HlnOiDpHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Nzc0/MjgtMTM5OTY2ODI5/Ni04MjU4LmpwZWc.jpeg" alt="Cover for Fin De Un Viaje Infinito" style="max-width:120px; height:auto;" />
       </td>
@@ -1265,7 +1253,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>2007-04-10</td>
@@ -1319,7 +1307,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/ZyR2_ymS4Hz1KVCUICT3BmROxlCPgMwHLmdSUdbpdic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjgz/NzktMTQ4NjQxMzQy/Mi05MzMxLmpwZWc.jpeg" alt="Cover for Absurda Cenicienta" style="max-width:120px; height:auto;" />
       </td>
@@ -1338,7 +1326,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/GYan_gluXbDM_wrobuBKiAjpJTnUFF12WXS_gTjgtZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzQz/NTYtMTI5ODYyODk2/NC5qcGVn.jpeg" alt="Cover for Eusebio" style="max-width:120px; height:auto;" />
       </td>
@@ -1354,6 +1342,26 @@ Spanish music refers to the musical traditions and styles that have developed in
       <td>
         <ul>
             <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/t6jWu1uLMPUuqmWxkkTK9o8ot7cO_B2G4XrHR0oSLEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzQ4/ODAtMTQ2OTAzODIx/Ni02NzYzLmpwZWc.jpeg" alt="Cover for Allenrok" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-02-17</td>
+      <td>Estopa</td>
+      <td>Allenrok</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1375,7 +1383,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>2008-09-30</td>
@@ -1392,7 +1400,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2009-03-03</td>
@@ -1412,7 +1420,7 @@ Spanish music refers to the musical traditions and styles that have developed in
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/ezWXEVPWEn4kfDIFWnPCfmk7mV4Zx8cZwFpoacKZ9bs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTgx/MDQtMTI4OTc2ODE3/Mi5qcGVn.jpeg" alt="Cover for Aocana" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6b4926261ab4b11bf5b309496b7b45b.png" alt="Cover for Aocana" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-17</td>
       <td>Ojos de Brujo</td>
@@ -1430,7 +1438,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/CvYKJucva5dMdHbXMO-qzJNp2t8ni1b1eskXkQizaEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTgw/MjUtMTMxOTMwODk0/Ny5qcGVn.jpeg" alt="Cover for Otra Cosa" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,7 +1463,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2010-05-04</td>
@@ -1489,8 +1497,9 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbc86524f7e514b5972e7543d7dbc7b8.png" alt="Cover for Mena" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-01</td>
       <td>Javiera Mena</td>
@@ -1498,8 +1507,6 @@ Spanish music refers to the musical traditions and styles that have developed in
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
       <td>
@@ -1526,9 +1533,9 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/yQHg9q_hS6RLsn7YipFSAOwacay6uzE3t41TQm5WoS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzEy/ODItMTYzMDcwMTM5/OS0zNzM5LmpwZWc.jpeg" alt="Cover for Cometas por el cielo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/320cfd353ffd4f7db7243bd74cc163e9.png" alt="Cover for Cometas por el cielo" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-13</td>
       <td>La Oreja de Van Gogh</td>
@@ -1559,12 +1566,12 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 19</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2012-05-22</td>
@@ -1581,7 +1588,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/CFuMNCFPrkYWM-QRrsXHjXRSYPFnStOyT8zNIBl7bto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM3/NjI5LTE1NjY1ODA5/NTctNTQ5NC5qcGVn.jpeg" alt="Cover for Carrion Flowers - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1652,17 +1659,17 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 18</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 19</li>
             <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 26</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 29</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 38</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 30</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 39</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 39</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 41</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 46</li>
             <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 46</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 48</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 53</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 55</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 63</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 64</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 76</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 77</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
@@ -1676,8 +1683,9 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61d29b60afc74c0bad460df1fca2c866.png" alt="Cover for Juntos" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-08</td>
       <td>Fifth Harmony</td>
@@ -1694,7 +1702,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/BhTKJrjCTHmdxIjftMvzaZcOjJT5JmvJU-58P1QSNpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODU1/NDY1LTE2ODIyNTYy/NjAtNTc0MC5wbmc.jpeg" alt="Cover for N5" style="max-width:120px; height:auto;" />
       </td>
@@ -1710,14 +1718,14 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 11</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/UvFGBPn28KYAZOxmillagONlOdF-VMzcT5slC6XHpoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDk3/NzYtMTM1MjIwNTc1/OS02NzE1LmpwZWc.jpeg" alt="Cover for Terral" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/232f519e16f92a32203a807ccb79dd10.png" alt="Cover for Terral" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-10</td>
       <td>Pablo Alborán</td>
@@ -1734,9 +1742,9 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/2lzFkmb81VMYMTeU9xa49OsSP3FZPq1_VvhXAMUziQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDA4/OTEtMTM5MDkxMzI1/Ny04NTcyLmpwZWc.jpeg" alt="Cover for Pablo Alboran (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df233b5d3e9e76450539d33e26d0f3cc.png" alt="Cover for Pablo Alboran (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Pablo Alborán</td>
@@ -1776,14 +1784,14 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 17</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 72</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 19</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 73</li>
             <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/6bVEb-I_Gp-sfGuYpe1rDSE0M6QAgywlk6kxb7kGbz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMjk3/MDUtMTQzOTA0NTI4/MC0yNjU4LmpwZWc.jpeg" alt="Cover for Five (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1821,7 +1829,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/Liu7nHke2sD0-GI5TEuooP146Wxcj319RRLdnom9xd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY1/NjE3LTE1NTQ3MzM0/MTYtNzE2OC5qcGVn.jpeg" alt="Cover for A.D.R.O.M.I.C.F.M.S. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1861,11 +1869,11 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 48</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 74</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 50</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 81</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 83</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 93</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 94</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1941,7 +1949,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 87</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 88</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 95</li>
         </ul>
       </td>
@@ -1969,9 +1977,9 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/Upt7o-H-cxncqXkVdDf1rY3epq9hq_AtdQSIt2IUlKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTYw/MDQ5LTE2OTE5NTEy/NjYtMjUyMy5qcGVn.jpeg" alt="Cover for the voicenotes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e40e99520143629f89ef6b16ba3cb17.png" alt="Cover for the voicenotes" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-08-27</td>
       <td>Alaina Castillo</td>
@@ -2008,14 +2016,14 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 33</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/GUPLh2qKTfot_708BmTX3DNTSmrWWepWWvd02g-M3r4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDg1/ODM3LTE2MDgwMzg5/ODgtNjk0Ny5qcGVn.jpeg" alt="Cover for antisocial butterfly" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd2d6823fcb036304287b46784bb9561.png" alt="Cover for antisocial butterfly" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11-24</td>
       <td>Alaina Castillo</td>
@@ -2094,11 +2102,11 @@ Spanish music refers to the musical traditions and styles that have developed in
       <td>
         <ul>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 3</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 3</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 24</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 8</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 25</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 37</li>
             <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 42</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 43</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 45</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 60</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 64</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 64</li>
@@ -2113,7 +2121,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/ZUo2CV_InMXIHWcI_4cHEtTd0tOX4YVz_LveusTe7yE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQz/MDE0LTE2MzU5ODE0/MTQtMjA0My5qcGVn.jpeg" alt="Cover for 1940 Carmen" style="max-width:120px; height:auto;" />
       </td>
@@ -2131,9 +2139,9 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/6woVMRF91ZzyRZ4NVpCJejheltThxtdvliREMyE_pRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQ2/OTYtMTIyMTczMTEz/NC5qcGVn.jpeg" alt="Cover for La Fuerza" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b00ee3904591323d0dd2078ab2836a3.png" alt="Cover for La Fuerza" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-01-21</td>
       <td>Christina Aguilera</td>
