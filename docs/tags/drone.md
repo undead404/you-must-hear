@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T01:40:14.792Z
+date: 2025-11-10T07:15:33.115Z
 permalink: tags/drone
 title: drone
 ---
 
 ## drone
 
-Last updated: <time datetime="2025-10-31T01:40:14.792Z">Fri Oct 31 2025 03:40:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-10T07:15:33.115Z">Mon Nov 10 2025 09:15:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Drone music is a genre of experimental music that is characterized by the use of
   </thead>
   <tbody>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/pPZqLt9cWCwvOhH1v3ZJF9IpyJsL4zAbAsYiehgImhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODk4/ODMtMTU0NDAxOTQx/Ny02MTAxLmpwZWc.jpeg" alt="Cover for 528 Hz Transformation and Miracles (DNA Repair)" style="max-width:120px; height:auto;" />
       </td>
@@ -49,7 +49,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/Ge9SL8xbJzKkckYHy02Z23q8DBIALcxqI5bQ37JZERA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTU5/NDEtMTQ0NDc4Mjk2/NC02NTYwLmpwZWc.jpeg" alt="Cover for Time Machines" style="max-width:120px; height:auto;" />
       </td>
@@ -68,7 +68,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>1992</td>
@@ -83,12 +83,12 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 35</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/1EpORJ_aK7hswXX1JrsUO1W_yhHl0FfT2Y_7X7wyt3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDA4/OC0xMTU0MDMyNjUx/LmpwZWc.jpeg" alt="Cover for Bloweyelashwish" style="max-width:120px; height:auto;" />
       </td>
@@ -107,7 +107,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/LtRInXmiHUeoaz3TDMe6bt5AeRFFhw89hNy1BLMWpcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjQt/MTI2NDA1NzM1MS5q/cGVn.jpeg" alt="Cover for #19" style="max-width:120px; height:auto;" />
       </td>
@@ -126,7 +126,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/dyAFDaTZCUlRrh0L5552CXRjtkbk2_OnvqV2tCCLqf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODM4/OC0xMTYyOTMxMzAx/LmpwZWc.jpeg" alt="Cover for Phase III: Thrones and Dominions" style="max-width:120px; height:auto;" />
       </td>
@@ -145,7 +145,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/dyAFDaTZCUlRrh0L5552CXRjtkbk2_OnvqV2tCCLqf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODM4/OC0xMTYyOTMxMzAx/LmpwZWc.jpeg" alt="Cover for Phase 3: Thrones and Dominions" style="max-width:120px; height:auto;" />
       </td>
@@ -164,7 +164,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
       </td>
       <td>1996</td>
@@ -182,7 +182,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td>1997-03-10</td>
@@ -200,7 +200,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>1997-08-25</td>
@@ -222,7 +222,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>1998-03-23</td>
@@ -240,7 +240,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75230d0556277b4f316a27170436ca17.png" alt="Cover for Sunn Amps and Smashed Guitars" style="max-width:120px; height:auto;" />
       </td>
@@ -258,7 +258,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>1998-11-25</td>
@@ -280,7 +280,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/QgxlVK8CtlF32qWb0984aIvF_8_iCakm_b1AzRN9mU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzU4/LTExNjQ4NDYyMTku/anBlZw.jpeg" alt="Cover for Avec Laudanum" style="max-width:120px; height:auto;" />
       </td>
@@ -299,7 +299,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>1999-12-07</td>
@@ -317,7 +317,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/2Sd47UcJo7bAc3K8rwW7HA0hq_j75PJagIofMbP6Mhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjA4/NC0xMzAyNzMxODUy/LmpwZWc.jpeg" alt="Cover for Earth 2" style="max-width:120px; height:auto;" />
       </td>
@@ -337,7 +337,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/8db6cAkt_8b3vrgbDdJcMmqtQ876VVWUMFVdjIkqoyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTQ3/NS0xMTY3NDMyOTEz/LmpwZWc.jpeg" alt="Cover for The Grimmrobe Demos" style="max-width:120px; height:auto;" />
       </td>
@@ -355,7 +355,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td>2000-12-15</td>
@@ -373,8 +373,9 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1924cd0f8d1fb9a8bfceb7e3ccc5564.png" alt="Cover for Playthroughs" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-10-21</td>
       <td>Keith Fullerton Whitman</td>
@@ -413,7 +414,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
       </td>
       <td>2003-03-25</td>
@@ -431,7 +432,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2003-04-22</td>
@@ -449,7 +450,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>2003-05</td>
@@ -468,9 +469,8 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88666db81b163fd51d9c25b77dfba829.png" alt="Cover for Akuma No Uta" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-06-06</td>
       <td>Boris</td>
@@ -481,12 +481,12 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 55</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2003-10-06</td>
@@ -506,7 +506,6 @@ Drone music is a genre of experimental music that is characterized by the use of
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/o-YzjvM5kWK9mDfEXrrAU6n49AeLYiMZzFFUduKn8bY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDE3/Mi0xNDk2ODA5MDkx/LTUxMjIuanBlZw.jpeg" alt="Cover for Boris at Last - Feedbacker" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-12-25</td>
       <td>Boris</td>
@@ -522,14 +521,14 @@ Drone music is a genre of experimental music that is characterized by the use of
       <td>
         <ul>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 1</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 42</li>
             <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 43</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 43</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2004-06-19</td>
@@ -548,7 +547,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/k2DVrZhCed8A7grbz69_ldyjQ9Ll5AgNMh-x0Bjmi0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjIx/MzItMTI0MDc0NTYz/Ni5qcGVn.jpeg" alt="Cover for Inca Ore &#x2F; Grouper" style="max-width:120px; height:auto;" />
       </td>
@@ -569,7 +568,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/Ha0dX5UuGkdkT8oNfDgWYeT2Kj60Ik-YSwTVdMxQZvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDY4/MDgzLTE1Mjc2MzYw/NjktODUxOC5qcGVn.jpeg" alt="Cover for Hex: Or Printing in the Infernal Method" style="max-width:120px; height:auto;" />
       </td>
@@ -605,7 +604,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>2006-02-08</td>
@@ -624,7 +623,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2006-08-22</td>
@@ -643,7 +642,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>2006-10-16</td>
@@ -661,7 +660,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td>2006-10-31</td>
@@ -679,7 +678,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td>2007-02-02</td>
@@ -698,7 +697,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/raUJ_tnVID_w8evVtI7bvouIAB0W5xk6x-aOwfYoSLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODI0/Ni0xMTc4OTM0NjQ2/LmpwZWc.jpeg" alt="Cover for Oracle" style="max-width:120px; height:auto;" />
       </td>
@@ -717,7 +716,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/6nFzi3GsGSarh-Y2EBYivrGVExlyB9oHpwqETaG3_k8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Mzgw/MC0xMzUzMjk0MDcy/LTY0NTkuanBlZw.jpeg" alt="Cover for and Their Refinement of the Decline" style="max-width:120px; height:auto;" />
       </td>
@@ -736,7 +735,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/G94TBmfQ2FFdxHAJemc7ZTeGINp_iXM-ce2WZGEIA9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTAw/NDctMTE5NjE3NDA3/Ni5qcGVn.jpeg" alt="Cover for The Grimm Robe Demos" style="max-width:120px; height:auto;" />
       </td>
@@ -754,7 +753,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2007-11-20</td>
@@ -812,8 +811,9 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/287d8f6f2a887c98aae6584b494ac9c0.png" alt="Cover for Street Horrrsing" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-17</td>
       <td>Fuck Buttons</td>
@@ -832,7 +832,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/7AU4qt0_reSXDHhKsAe8PX0yuiHtXjE8Vk2nKvgNHV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjM3/NjgtMTQ0Njk5ODY5/NC01NjI1LnBuZw.jpeg" alt="Cover for The Dance of the Moon and the Sun (Disc 2 - Sun)" style="max-width:120px; height:auto;" />
       </td>
@@ -850,7 +850,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>2008-06-16</td>
@@ -869,7 +869,25 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/7AU4qt0_reSXDHhKsAe8PX0yuiHtXjE8Vk2nKvgNHV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjM3/NjgtMTQ0Njk5ODY5/NC01NjI1LnBuZw.jpeg" alt="Cover for The Dance of the Moon and the Sun (Disc 1 - Moon)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-06</td>
+      <td>Natural Snow Buildings</td>
+      <td>The Dance of the Moon and the Sun (Disc 1 - Moon)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/A0999Gw1_hBZvboddaM7rBRVTiZ3UIWjBjnOrg_EM5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDQ2/ODMtMTM0MjYzNzIy/NS01MjE3LmpwZWc.jpeg" alt="Cover for Eraserhead Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -891,7 +909,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2009-01</td>
@@ -910,7 +928,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
       </td>
       <td>2009-03</td>
@@ -928,7 +946,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
       </td>
       <td>2009-05-18</td>
@@ -946,7 +964,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2009-07-14</td>
@@ -965,7 +983,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/faYt0vl9OOeRDp15ml5Qt8gKUmnv-PxuuR-GS0NJP94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzYz/MzktMTI0OTQ5ODQz/NS5qcGVn.jpeg" alt="Cover for Infinity" style="max-width:120px; height:auto;" />
       </td>
@@ -985,28 +1003,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>87</td>
-      <td>
-          <img src="https://i.discogs.com/CzCkOKsiYfBU49ughaorNA0x8Gf2ykbFzz9A8Yulynk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njcy/OTctMTQzMTYwMzQ4/MC0yNzIzLmpwZWc.jpeg" alt="Cover for Tarot Sport" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-10-12</td>
-      <td>Fuck Buttons</td>
-      <td>Tarot Sport</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>2009-10-19</td>
@@ -1025,8 +1022,9 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/367a11b3688f69ee0cddef99f8cd708d.png" alt="Cover for Russian Mind" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10</td>
       <td>Oneohtrix Point Never</td>
@@ -1043,7 +1041,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/Fo9cW5Xf1a9he89FaGGDvA3JBNlLPoPIvl3cflWAXDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODky/NjctMTM0OTAyNjQ2/OS0yNzk1LmpwZWc.jpeg" alt="Cover for Runaljod – gap var Ginnunga" style="max-width:120px; height:auto;" />
       </td>
@@ -1062,8 +1060,9 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e51eaa72a08c13a1b66ac9d9c676a92.png" alt="Cover for Coconuts" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-09</td>
       <td>Coconuts</td>
@@ -1079,8 +1078,9 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9de43f0a02c8b0a3fe8996b3c75ad2fb.png" alt="Cover for Ravedeath, 1972" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01</td>
       <td>Tim Hecker</td>
@@ -1096,7 +1096,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/N36-EFOBhI-v95UkRnm7DH-WrX9wd0nAL9Mgycz7Pg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDYw/NzktMTMxMTM4Mzg3/OC5qcGVn.jpeg" alt="Cover for Landmarks" style="max-width:120px; height:auto;" />
       </td>
@@ -1117,7 +1117,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/iQaCxtqgMV7cG1FGtdotF5jBHVu9KHQ2cWvuNdJ8_Qw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzE2/MDQtMTM1NzM2NDEx/Ny02MzkxLmpwZWc.jpeg" alt="Cover for A I A: Dream Loss" style="max-width:120px; height:auto;" />
       </td>
@@ -1136,7 +1136,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/PBagztfd-mTACkytZIIzFSflHBPqGOEJXOJFSWyr4JA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTc4/MjctMTMwMDEzMzA2/Ny5qcGVn.jpeg" alt="Cover for Angels Of Darkness, Demons Of Light 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1153,7 +1153,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2012-02-14</td>
@@ -1165,12 +1165,12 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 39</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2012-04-03</td>
@@ -1187,7 +1187,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>2012-05-22</td>
@@ -1205,7 +1205,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>2012-10-15</td>
@@ -1223,7 +1223,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/1hUpurPAA8qid8VuAN3dPezVGOP50pB0xG06KOFMlX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzE1/NzctMTM1NzM2NDAx/OS0xNzM0LmpwZWc.jpeg" alt="Cover for A I A: Alien Observer" style="max-width:120px; height:auto;" />
       </td>
@@ -1242,7 +1242,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dcbfcd44dfa25624bf27e59c3b5c6b5.png" alt="Cover for The Man Who Died in His Boat" style="max-width:120px; height:auto;" />
       </td>
@@ -1279,12 +1279,12 @@ Drone music is a genre of experimental music that is characterized by the use of
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 24</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 52</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/-1c-3yjnr9M8goe8AR47C3SkDQsulEsLhNfjvMuqZcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE4/MDMtMTQ0NDIzMDIw/Ni02NTg0LmpwZWc.jpeg" alt="Cover for Flight of the Behemoth" style="max-width:120px; height:auto;" />
       </td>
@@ -1302,7 +1302,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2013-06-25</td>
@@ -1319,7 +1319,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/CFuMNCFPrkYWM-QRrsXHjXRSYPFnStOyT8zNIBl7bto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM3/NjI5LTE1NjY1ODA5/NTctNTQ5NC5qcGVn.jpeg" alt="Cover for Carrion Flowers - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1390,32 +1390,33 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 22</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 29</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 29</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 38</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 26</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 28</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 30</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 39</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 39</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 41</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 45</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 46</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 46</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 48</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 53</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 55</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 63</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 76</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 76</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 64</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 76</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 77</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 91</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 92</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd857888f281d96a49efba4d1baea439.png" alt="Cover for Virgins" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-14</td>
       <td>Tim Hecker</td>
@@ -1432,8 +1433,9 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54990d7a9e834c40cca293c2de38d060.png" alt="Cover for The World" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12</td>
       <td>Croatian Amor</td>
@@ -1494,12 +1496,12 @@ Drone music is a genre of experimental music that is characterized by the use of
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 26</li>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 33</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>2014-05-21</td>
@@ -1518,7 +1520,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/4R8eefd4P8IWcYusuA2ciTkax96oY1baBmwVhxTH1i4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzgx/NzUtMTM0NjM5NTQ1/Ny0yNzAzLmpwZWc.jpeg" alt="Cover for A&#x2F;D, Music For Picture" style="max-width:120px; height:auto;" />
       </td>
@@ -1536,7 +1538,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2014-09-02</td>
@@ -1554,7 +1556,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td>2014-10-07</td>
@@ -1570,7 +1572,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2015-03-31</td>
@@ -1587,9 +1589,8 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
-          <img src="https://i.discogs.com/HnyQjCXOSF8NWDgZAyQA4uY3beXe4lAPWtLJioqYcKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDI0/MTQtMTQzMTQyODk2/Mi04MTkzLmpwZWc.jpeg" alt="Cover for Moonlust" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-12</td>
       <td>The Holydrug Couple</td>
@@ -1605,15 +1606,16 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 18</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 10</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 23</li>
             <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/y_x-lNYSYU4Tq5VqA-yk5ume3FAneaI0vHQgRsZOLxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODc1/NDAtMTUwODc2MTg5/Ni03NjE0LmpwZWc.jpeg" alt="Cover for Dumb Flesh" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a77d79bd1607310bfef30930fb78b02.png" alt="Cover for Dumb Flesh" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-12</td>
       <td>Blanck Mass</td>
@@ -1649,7 +1651,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/1Gfrsw3XatUTEg5kwDX_EJFyDm1BPrYEoQlZmksey20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODY4/OTk3LTE1MDU2NTkw/MjktMTYyMy5qcGVn.jpeg" alt="Cover for Hiss Spun" style="max-width:120px; height:auto;" />
       </td>
@@ -1670,7 +1672,8 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 71</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 2</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1694,7 +1697,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/6vs1YN04NGXmSRVROR7lxnZdR5A7xPFrw0nFcsigxIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODEw/NzA0LTE2ODE2Njg2/NDMtNjYzOS5qcGVn.jpeg" alt="Cover for Lesser Man (extended version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1723,9 +1726,9 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
-          <img src="https://i.discogs.com/8fkWE9CIp6yIGeQLY6Aya07EaJrD6bh20lUpQy5FKT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY3/NTc3LTE2NTE0MjQ3/MjEtNDA5MS5qcGVn.jpeg" alt="Cover for Konoyo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/994fef673e7f67e15d58286055dc362e.png" alt="Cover for Konoyo" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-28</td>
       <td>Tim Hecker</td>
@@ -1744,7 +1747,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/0dN8ucBy-l-CT-nRYcb_iMjpCBY5v1mHV2nQa6soR30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzY2/NjU2LTE2NjE5MjAz/MjMtMjQyMS5qcGVn.jpeg" alt="Cover for somewhere in the distance, somewhere toward the mountains" style="max-width:120px; height:auto;" />
       </td>
@@ -1761,7 +1764,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/GHAV2upyqYFKv5D6PaJ0xOnyf0tR6tkOPFpM4HJtTkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg2/NDgyLTE1NzU3Nzcy/MzItNDk0OS5qcGVn.jpeg" alt="Cover for On Time Out of Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1782,9 +1785,9 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/jYTsGC5DIE18atL-LbK98uSWH25XURh9vOI48lBkM4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODc5/MTY4LTE1NjMxNjQy/ODctMjg2Ni5qcGVn.jpeg" alt="Cover for Tracing Back The Radiance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29366cd86afead780662c683dd756950.png" alt="Cover for Tracing Back The Radiance" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-07-12</td>
       <td>Jefre Cantu-Ledesma</td>
@@ -1801,7 +1804,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/Dci_6_T-r2BCrcumo1Jv08VWtj5x9XXpzRbKhudzrcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQ1/MDcyLTE1OTg4NDQ0/MDEtMzA3My5qcGVn.jpeg" alt="Cover for One Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1822,7 +1825,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/kKE9Nxi8uUH4skx8NUKX-jfVnFccHX0pJUZbmYs2Mqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODUw/MDI3LTE2MDA4OTA2/ODEtOTI3NS5qcGVn.jpeg" alt="Cover for All Thoughts Fly" style="max-width:120px; height:auto;" />
       </td>
@@ -1837,7 +1840,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 6</li>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 78</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1886,22 +1889,22 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 59</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 60</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 63</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 85</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 61</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 64</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 68</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 86</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 97</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 99</li>
             <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 100</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 100</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 100</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 100</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 100</li>
             <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/1kj0NPLSC0FhYtl3xHV0JVv_c2bwAleeCPrrGY7EJ3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDk4/NzY5LTE2NDcxOTY5/NzktMTUzMi5qcGVn.jpeg" alt="Cover for Drive My Car Original Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -1926,7 +1929,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/iRMI2LmoIV5y6gKQcMfMJRpPGp8vcuil9uK5Q9ujcio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/ODAzLTE2NTU0MjM5/ODQtNzc2OC5qcGVn.jpeg" alt="Cover for Small Winters" style="max-width:120px; height:auto;" />
       </td>
@@ -1945,7 +1948,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 56</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 57</li>
             <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 72</li>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 94</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 98</li>
@@ -1953,9 +1956,9 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/w69wlZ8awAU9pApHkXRl8Po-AQDU6d3Jfqd8ctcoiHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODEx/MTAxLTE2NjMxNjQz/NjAtNjk1MS5wbmc.jpeg" alt="Cover for Living Torch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a40d953f1e5b2aba8d47895a4b825229.png" alt="Cover for Living Torch" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-07-07</td>
       <td>Kali Malone</td>
@@ -1971,7 +1974,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/ArJUivn9AsggSrqZf_-tck7r_po7OFb1DqyujdHDliM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTEy/MjAwLTE0OTg5NjU5/MDAtNTA5My5qcGVn.jpeg" alt="Cover for We&#39;re All Going to the World&#39;s Fair (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1991,7 +1994,7 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/mycGcUrfqrPyUwA81a-U_mvlDKhSct7TzWSSrRQ4q3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTE5/NjUwLTE2NzQ5NTgy/NDctODM0MS5qcGVn.jpeg" alt="Cover for Time of Land (2021 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -2011,14 +2014,14 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 38</li>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 50</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 41</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 51</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -2034,13 +2037,13 @@ Drone music is a genre of experimental music that is characterized by the use of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 28</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 42</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 29</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td></td>
@@ -2061,6 +2064,7 @@ Drone music is a genre of experimental music that is characterized by the use of
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6dfca1fc6e1f4f91263d5863f7e11f82.png" alt="Cover for hurry up mixtape" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Alvedon</td>

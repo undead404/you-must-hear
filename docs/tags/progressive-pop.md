@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-04T20:51:44.619Z
+date: 2025-11-10T07:16:06.366Z
 permalink: tags/progressive-pop
 title: progressive pop
 ---
 
 ## progressive pop
 
-Last updated: <time datetime="2025-11-04T20:51:44.619Z">Tue Nov 04 2025 22:51:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-10T07:16:06.366Z">Mon Nov 10 2025 09:16:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,29 +29,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
   </thead>
   <tbody>
     <tr>
-      <td>8</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa5372c785c9d4188cc32788cd914c04.png" alt="Cover for Pet Sounds" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1966-05-16</td>
-      <td>The Beach Boys</td>
-      <td>Pet Sounds</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
-            <li style="font-size: calc(1rem * 87 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 61</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 73</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/45s3kHunRtp8qOIesLytiUOOx-zXP2rgdbYFKIu1j9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mjg4/OTctMTY4NDMzOTM5/Ny03ODk4LmpwZWc.jpeg" alt="Cover for Good Vibrations" style="max-width:120px; height:auto;" />
       </td>
@@ -72,7 +50,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       <td>
         <ul>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 14</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 14</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 19</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 39</li>
             <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 87</li>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 90</li>
@@ -80,8 +58,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a163383cd84247699b6df8a8ee387a2.png" alt="Cover for Surf&#39;s Up" style="max-width:120px; height:auto;" />
       </td>
       <td>1971-08-30</td>
       <td>The Beach Boys</td>
@@ -96,14 +75,14 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       <td>
         <ul>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 32</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 64</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>85</td>
       <td>
-          <img src="https://i.discogs.com/JLty8sxK8H1YuDIvSfqBPZa-F_IOR75PVvNVLzAri6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjQ4/OS0xNDMyNzUzNDIz/LTQ3NjAuanBlZw.jpeg" alt="Cover for Bohemian Rhapsody" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f207b1d38f2ac93360ccaf85c897636c.png" alt="Cover for Bohemian Rhapsody" style="max-width:120px; height:auto;" />
       </td>
       <td>1975</td>
       <td>Queen</td>
@@ -123,8 +102,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aff3da7e9cdedcefcbc5fdbdcc50c446.png" alt="Cover for The Original Soundtrack" style="max-width:120px; height:auto;" />
       </td>
       <td>1975-03-11</td>
       <td>10cc</td>
@@ -139,12 +119,12 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       <td>
         <ul>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 73</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 74</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/k6KUBtb5cINLHrasJW5iH5gJpvhuvRzXUYlq7mYTD0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjk2/ODUtMTI2NDQ1NTYx/OC5qcGVn.jpeg" alt="Cover for Holland (2000 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -163,8 +143,8 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 27</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 63</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 29</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -192,7 +172,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/j8hD-RkDRa1T0NjVr8BV9u4JNFSNQIumbPaOPO8a7UM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Nzg3/OC0xMzk0NTE0MTIx/LTg1MzcuanBlZw.jpeg" alt="Cover for Out of the Blue (40th Anniversary Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -209,13 +189,13 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 77</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 79</li>
             <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/NsnzqL7COezkl4umSF4jdWPv4VVRro-lmLTeXqewVrA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTg0/NjMtMTI2MTI1OTc0/MS5qcGVn.jpeg" alt="Cover for SheetRock" style="max-width:120px; height:auto;" />
       </td>
@@ -259,7 +239,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/lmzfAF1tOjBC4D5FpldyJ9dPWLy6x6I4p_KjxPFWOw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzIz/NjMtMTM1MzI0NjEx/OC03NjMzLmpwZWc.jpeg" alt="Cover for Accadde a…" style="max-width:120px; height:auto;" />
       </td>
@@ -278,7 +258,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/G8kuuGD8H2Kj8FiEXBVf_yjOuiFqPIwDmyQISJOt-KI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzI0/MDItMTI5NDE3NTM1/OC5qcGVn.jpeg" alt="Cover for Never Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -292,31 +272,31 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 44</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c859c67599902e8a38ff2fb1247ebe63.png" alt="Cover for Never for Ever" style="max-width:120px; height:auto;" />
       </td>
       <td>1980-09-08</td>
       <td>Kate Bush</td>
       <td>Never for Ever</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdcb38afa602c94070e6a89b016fa94b.png" alt="Cover for The Dreaming" style="max-width:120px; height:auto;" />
       </td>
       <td>1982-09-13</td>
       <td>Kate Bush</td>
@@ -329,14 +309,15 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 78</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 15</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/CrDFlMcKTT_otbVvgAWtujgWPrv0vZ2WUaVrwIvHKJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjMx/OTctMTY2Mzk2MDQ3/MC0xNjE4LmpwZWc.jpeg" alt="Cover for Mondo Di Cromo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0018662a14b217e33a9a01ffcc867562.png" alt="Cover for Mondo Di Cromo" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Luis Alberto Spinetta</td>
@@ -355,7 +336,28 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/128a4b0357da06a7916d247e07d1eb34.png" alt="Cover for Secret Messages" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983-06-17</td>
+      <td>Electric Light Orchestra</td>
+      <td>Secret Messages</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/_AF14OwzZPByGdCIQvxtNawh_ANWbEjgMNdGyXtXJsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDM1/NTMtMTQyNDY2Mzgz/NC0zODA5LmpwZWc.jpeg" alt="Cover for Bandido" style="max-width:120px; height:auto;" />
       </td>
@@ -378,7 +380,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/vta2B6Ha2_sr_iFQVK3kJiyo95AV2IXF23hLofiI_e8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTYw/OTU1LTE2NDM2NDQ0/NDAtNzE3Ni5qcGVn.jpeg" alt="Cover for Aim and Ignite [Deluxe Version]" style="max-width:120px; height:auto;" />
       </td>
@@ -394,14 +396,14 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 40</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/XlnbA4GAIpYcTAMltE7g1lXLg0uioORw6pzcfWCqBa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTg4/MzU0LTE2NTUzNDMw/MjEtNjAyNC5qcGVn.jpeg" alt="Cover for Hounds of Love (2018 Remaster)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05285e80c423dafb8a052290c676f629.png" alt="Cover for Hounds of Love (2018 Remaster)" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Kate Bush</td>
@@ -419,7 +421,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/zRIcP7UolloiORRpkf9hc57020X5MVsCBJu9xl60h8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODY1/MS0xMzM4OTc1NjM4/LTk4MDYuanBlZw.jpeg" alt="Cover for Hounds Of Love (remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -441,8 +443,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/391be121643ab50801b7955b0ac5b50c.png" alt="Cover for Hounds of Love" style="max-width:120px; height:auto;" />
       </td>
       <td>1985-07-30</td>
       <td>Kate Bush</td>
@@ -455,18 +458,17 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 20</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 34</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 76</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 82</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 84</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 87</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 85</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/LCBjJNdgSt6Ktdl1-knX_gDRabukwK5HaAQmasJcDN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODcz/MjctMTQyODc4NTA5/MS01NzM4LmpwZWc.jpeg" alt="Cover for Smiley Smile (Remastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-08-30</td>
       <td>The Beach Boys</td>
@@ -478,12 +480,12 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 65</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/tMVCLEs0cPSbxn3D26xAzS7BPd4XIxHpYDw880lZlJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTE5/MjQtMTIzODUzODAx/OC5qcGVn.jpeg" alt="Cover for The Seeds of Love" style="max-width:120px; height:auto;" />
       </td>
@@ -503,7 +505,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4bbf73ba62024be279364e867b0ca20.png" alt="Cover for Abbey Road (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -512,22 +514,17 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       <td>Abbey Road (Remastered)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 18</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 21</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 77</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 79</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 91</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 34</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/573e51b6764b30d991e67d607ed268f0.png" alt="Cover for Band on the Run" style="max-width:120px; height:auto;" />
       </td>
@@ -545,7 +542,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/2Pzj_n2pGpaDsQQYizwFx5rQamR_TpSt9nGJclfMZGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzAz/NzEtMTQ1NjY5OTk5/Ni01NzA2LmpwZWc.jpeg" alt="Cover for Lionheart (2018 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -562,13 +559,13 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 4</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 9</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/Zn2laoJdFZCNoYDT20VQJXbUb3_lKgjpIubbGvL8Gno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODAy/Ny0xMjAyMzc4MDY5/LmpwZWc.jpeg" alt="Cover for The Genius Of Komeda" style="max-width:120px; height:auto;" />
       </td>
@@ -589,9 +586,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/VK7IPJ6mOJ-SAnMhOlaoJ2nFAmalSxNtVYswo9K0T0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODMy/ODctMTU0MTM0NDA1/My04MTczLmpwZWc.jpeg" alt="Cover for Long Season" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bdce8a547e0003901a829ebce43183c.png" alt="Cover for Long Season" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-10-25</td>
       <td>Fishmans</td>
@@ -604,14 +601,14 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 8</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 9</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 21</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 42</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/k44-DbXq6sU_C6bLYCvLxYgKj83HQsbDqTvxrjEcnNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTYy/OC0xNDM2NjUwOTMx/LTgxMDIuanBlZw.jpeg" alt="Cover for Intruders" style="max-width:120px; height:auto;" />
       </td>
@@ -630,7 +627,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/efb341c4338f7614a41d4933344ece51.png" alt="Cover for Breakfast With Girls" style="max-width:120px; height:auto;" />
       </td>
@@ -650,7 +647,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/a2oDVKBn3Hirk3hSsbFUfMieOSu0i7P7PZMgEvF3Y1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTg5/MjAtMTI1ODg4NjE2/MS5qcGVn.jpeg" alt="Cover for MTV Unplugged - Summer Solstice" style="max-width:120px; height:auto;" />
       </td>
@@ -687,11 +684,12 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/PU6hrxPjOigJoU7JmDfKFQUM9x3U3Jm0axL3xpABrb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzg3/MS0xNTQyOTc4Nzcy/LTg1OTYuanBlZw.jpeg" alt="Cover for Spirit They&#39;ve Gone, Spirit They&#39;ve Vanished" style="max-width:120px; height:auto;" />
       </td>
@@ -712,7 +710,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
       </td>
       <td>2003-10-06</td>
@@ -724,6 +722,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 4</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 48</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 74</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 80</li>
@@ -732,9 +731,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>87</td>
       <td>
-          <img src="https://i.discogs.com/ZQA00IcDWFuoiR89uS9Dh6YmGNFAjj912Dqy2WHpFI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzEy/NzcxLTE2MjA5Mjgx/NTUtNTIxMS5qcGVn.jpeg" alt="Cover for Frengers: Not Quite Friends But Not Quite Strangers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ca2ca6ba41e3c0a528ee43168d538ba.png" alt="Cover for Frengers: Not Quite Friends But Not Quite Strangers" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-12-05</td>
       <td>Mew</td>
@@ -752,7 +751,26 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2005-03-14</td>
+      <td>Monade</td>
+      <td>A Few Steps More</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f51768726b92fac71f82d2cb9a50b0b.png" alt="Cover for Marvin&#39;s Marvelous Mechanical Museum" style="max-width:120px; height:auto;" />
       </td>
@@ -772,7 +790,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/7imif85ywTffo2Fgx4HeiJIGrHQotecqipt7MXPPcdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDYy/ODEtMTI2NTMyNTky/MC5qcGVn.jpeg" alt="Cover for Monstre Cosmic" style="max-width:120px; height:auto;" />
       </td>
@@ -793,7 +811,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>2008-03-31</td>
@@ -810,9 +828,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/s4cOmK3Fm3vfDwAsNtbPaTnUCnmHXBr1PMHrX_2VDuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzIz/NjQtMTIxOTI0NTkx/Mi5qcGVn.jpeg" alt="Cover for Fantasy Black Channel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07ea643ed3e2407a8766d1cba356483b.png" alt="Cover for Fantasy Black Channel" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-11</td>
       <td>Late of the Pier</td>
@@ -825,16 +843,16 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 6</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 7</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 82</li>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Natasha, Pierre &amp; the Great Comet of 1812 (Original Broadway Cast Recording)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5e2596b59c083c2e207cbb86e5450a1.png" alt="Cover for Natasha, Pierre &amp; the Great Comet of 1812 (Original Broadway Cast Recording)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Various Artists</td>
@@ -846,12 +864,12 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       <td>
         <ul>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 22</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 81</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/e90hpx5vCSnW5jIMzHvm4lhDelPydAUj_7zbIgYk8VI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njcy/MjMtMTMxNTYwNzE1/Ny5qcGVn.jpeg" alt="Cover for Dissolver" style="max-width:120px; height:auto;" />
       </td>
@@ -870,8 +888,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4dfd7aae7ca0419edcade2414ecfafc.png" alt="Cover for The Age of Adz" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-11</td>
       <td>Sufjan Stevens</td>
@@ -884,7 +903,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 1</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 2</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 81</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 94</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 95</li>
@@ -911,7 +930,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/184aed4189474a648a21b7722e70a59b.png" alt="Cover for Rome" style="max-width:120px; height:auto;" />
       </td>
@@ -930,7 +949,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/GTbxFdUtldP004NGyDsgBv6L5Z6ex9Osbi6jmkYm1TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTUz/MDMtMTQ5MTY1NTE3/NC0zNzU4LmpwZWc.jpeg" alt="Cover for The SMiLE Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -947,8 +966,8 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       <td>
         <ul>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 58</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 60</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 62</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 63</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -992,15 +1011,15 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 10</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 49</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 14</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 55</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 84</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2012-06-27</td>
@@ -1023,7 +1042,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/ki3vhsgLt6G7I9O4iWBD4w2fR_vkSWs8yxof20WRm00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Nzg0/OTMtMTY2NDQ1NDg3/OS02NjA4LmpwZWc.jpeg" alt="Cover for Kiss Land (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/effcb5470433a6b807cb99706fdff8db.png" alt="Cover for Kiss Land (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-09</td>
       <td>The Weeknd</td>
@@ -1037,12 +1056,12 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2013-12-04</td>
@@ -1059,9 +1078,8 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/lEW5fcBt54X2oxbQvUxKLf0mKHljIjyS1DO05amesP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDky/Mi0xMTA1ODk2ODk1/LmdpZg.jpeg" alt="Cover for A Wizard &#x2F; A True Star" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-19</td>
       <td>Todd Rundgren</td>
@@ -1076,13 +1094,14 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 1</li>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 13</li>
             <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2014-10-29</td>
@@ -1125,7 +1144,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d00ead19750b3fe827d9592465ea3c6.png" alt="Cover for Get to Heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -1144,7 +1163,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/QTIed6mE1h8aswOmjY1NqyYthi7WvNbMDh9asinf8cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTk5/NzEtMTQ3ODQwNjk0/OC00NTM5LmpwZWc.jpeg" alt="Cover for Divers" style="max-width:120px; height:auto;" />
       </td>
@@ -1165,7 +1184,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/EACksX46l0kEntc54zQNHT3znQuxsPgfGlyro1c2ah4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTk1/MjAtMTQ1NzM3MjUw/NS04MjAyLmpwZWc.jpeg" alt="Cover for Spirit Phone" style="max-width:120px; height:auto;" />
       </td>
@@ -1181,16 +1200,15 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 50</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 56</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 64</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 65</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/R7oTPSAI2ho4VG8xGJLnPDecs_2uVuOwRjyNm5KS5_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzIw/NjAtMTQ3NjAzMTYx/My0yODk4LmpwZWc.jpeg" alt="Cover for Do Hollywood" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-14</td>
       <td>The Lemon Twigs</td>
@@ -1202,14 +1220,14 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 7</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/n0i_3CGvsEESqdLW7Vn9hS1L2vnuIcTSL-KL7UmvT1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTk0/MzMtMTI2OTM4NDk5/My5qcGVn.jpeg" alt="Cover for Mew with Copenhagen Philharmonic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f2cc352082d13742517534ca6d329ed.png" alt="Cover for Mew with Copenhagen Philharmonic" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Mew</td>
@@ -1240,7 +1258,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 13</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 14</li>
             <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 56</li>
             <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 77</li>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 84</li>
@@ -1248,7 +1266,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/pe1AWZZ9cDx0b2fG0ic_yjhF7Kvtb8Y9244xs1R0qC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODI5/NDQtMTYxOTUyMjM0/MC03OTM0LmpwZWc.jpeg" alt="Cover for Hang" style="max-width:120px; height:auto;" />
       </td>
@@ -1267,7 +1285,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/NLiQzgQaZvVEEM_bB-jl5uC6uTrC8XiEd_wM8EEBLys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA5/NDUxLTE1MDI4Mjkx/MzItOTUyMC5qcGVn.jpeg" alt="Cover for To The Bone" style="max-width:120px; height:auto;" />
       </td>
@@ -1287,29 +1305,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>86</td>
-      <td>
-          <img src="https://i.discogs.com/zdeUIGQxEzJO56sVYo4bwU_4Seh-Qpbvz24jHMX2ue0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTQ5MTMyOTU4/Ni0yMDQ5LmpwZWc.jpeg" alt="Cover for Drunk" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-02-24</td>
-      <td>Thundercat</td>
-      <td>Drunk</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 66</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 83</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/0aAVcB85kM-somSrXWLqXRdEhZzd0J5vz3OCW2UEEEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzIx/NTExLTE0OTUzOTI5/MzMtODg1Ni5qcGVn.jpeg" alt="Cover for Modern Kosmology" style="max-width:120px; height:auto;" />
       </td>
@@ -1331,7 +1327,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/CbspShPio24XXPS66qIHdK5WxTt5Gpwg7BTPOPH9_BM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYy/MDI3LTE0OTA5NjUy/ODktMjg4Ni5qcGVn.jpeg" alt="Cover for Sugar Tastes Like Salt" style="max-width:120px; height:auto;" />
       </td>
@@ -1351,7 +1347,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/81I-3AMORBFUZzF-pg7_zix8lu-3LR_Dpdy6bXXLy08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc5/MjMxLTE1Mjg5MDk4/MjUtNzQyNC5qcGVn.jpeg" alt="Cover for Fırtınayt" style="max-width:120px; height:auto;" />
       </td>
@@ -1376,8 +1372,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd65cfa490d342d493cebe2b2fdb32a3.png" alt="Cover for Crumbling" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-07-31</td>
       <td>Mid-Air Thief</td>
@@ -1391,7 +1388,8 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 61</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 6</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 65</li>
             <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 65</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 97</li>
         </ul>
@@ -1423,9 +1421,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/dfcvx0e_0Tjtsot5IN-KZjjTIsyrgU7cHt9V3SaxzEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc0/NTY3LTE1NDA0MDQz/NzItODY1My5qcGVn.jpeg" alt="Cover for Electrically Possessed [Switched On Volume 4]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3c02d9f2ef9861ce002eea0f791b34c.png" alt="Cover for Electrically Possessed [Switched On Volume 4]" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-28</td>
       <td>Stereolab</td>
@@ -1443,7 +1441,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/Km5J_FcA_RXg1uC6XjXDmdFdOaSxYZXSF4EczRtb7aY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjYy/Mjg4LTE1Mzk1NjQ5/MTQtNDE1MS5qcGVn.jpeg" alt="Cover for Ego Death (feat. Steve Vai)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efd6544886af88d4241bc934f6c78afe.png" alt="Cover for Ego Death (feat. Steve Vai)" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-12</td>
       <td>Polyphia</td>
@@ -1461,7 +1459,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 79</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 81</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 91</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 100</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 100</li>
@@ -1469,7 +1467,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/R1f7OMxUF7IUmEWTgR1yUuXdfj6hdLRjYTRpMMwMm2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA3/OTIyLTE1NDA0Njg4/NDAtNzI1MS5qcGVn.jpeg" alt="Cover for Aviary" style="max-width:120px; height:auto;" />
       </td>
@@ -1489,9 +1487,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/Ohy5y7IqaHZal13gShvyh7Fzsebb4O_aA28hYgBVY_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI5/NzQwLTE1NzIzNTIz/MjUtODk2NS5qcGVn.jpeg" alt="Cover for Sketches 3d" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7d44428ddc07202af248956ae8f4015.png" alt="Cover for Sketches 3d" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Edu</td>
@@ -1505,12 +1503,12 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 15</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/5CAFo6IWJoxbGr6ySgWAgIstEIwCWEnmhpCGpj6bWG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQw/NDMzLTE1NTQyNTA3/OTItNTkyNC5qcGVn.jpeg" alt="Cover for Titanic Rising" style="max-width:120px; height:auto;" />
       </td>
@@ -1524,16 +1522,16 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 23</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 28</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 69</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/OE_uVL72za6ZoZM3HiFt7b1LDNdU1uG-BQjMzLNmZWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODg0/MDEtMTQzMTQ0ODgx/NC03NjYxLmpwZWc.jpeg" alt="Cover for Hairless Toys" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a80473dec6e7cb9678f0f69626be019.png" alt="Cover for Hairless Toys" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-08</td>
       <td>Róisín Murphy</td>
@@ -1552,7 +1550,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/8EThDoL7QDG_qaa9WtkzAQzv0Bx9311pP_YX0z9hT2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjkz/OTczLTE2NTQ3OTA1/MzktNjM3NC5wbmc.jpeg" alt="Cover for the first glass beach album" style="max-width:120px; height:auto;" />
       </td>
@@ -1568,16 +1566,16 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 2</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 59</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 8</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 62</li>
             <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 63</li>
             <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 70</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 76</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/ZFcOcXv5NrJMk7haYmjN_W5jXR6pp7kFuIyZWlROTQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTMy/NTcyLTE1ODcxMTI2/MzctMjI3MS5qcGVn.jpeg" alt="Cover for Fetch the Bolt Cutters" style="max-width:120px; height:auto;" />
       </td>
@@ -1596,7 +1594,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/SsBGG7IcEmzO0cYIEVyCK0qWiOeptoTEuOY9AEZ_DV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDY0/NDcyLTE1OTE5Njg2/NTMtMjgyMy5qcGVn.jpeg" alt="Cover for Room For The Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,7 +1614,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/Us7jSZivEeq4Z0VBCLQeSLsEdyKzXH59BNPwLBCWqL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTQx/OTU4LTE2NzY4MzE5/OTUtNjY4MC5qcGVn.jpeg" alt="Cover for Air Ni Ni" style="max-width:120px; height:auto;" />
       </td>
@@ -1642,9 +1640,8 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/9zNIs4RUtIwY1TfMoW1Wfc8FRKU4_kdzYQxeR9oo0Mg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE3/NTMyLTE1OTgzNTQ3/OTEtOTM1NC5qcGVn.jpeg" alt="Cover for American Head" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-09-11</td>
       <td>The Flaming Lips</td>
@@ -1661,7 +1658,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/kZKDouRNAqQ0CFXW8f8eIAKebJQTzTmvgyjZLYkaZuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk2/NzQ4LTE2MjQ4MTA4/ODYtMjk4Mi5qcGVn.jpeg" alt="Cover for Chaos Space Marine" style="max-width:120px; height:auto;" />
       </td>
@@ -1680,7 +1677,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/tzo1-DTu3wFrsCFYh--t2p5YJXNRrfvo7T44cw_1osg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjc1/MDk0LTE2MjQ2NDU4/NjYtMTE0Ni5qcGVn.jpeg" alt="Cover for Butterfly 3000" style="max-width:120px; height:auto;" />
       </td>
@@ -1696,13 +1693,13 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 49</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 73</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 54</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/hcDkyxrl3Ve8sKFicQeNVpsKpPKKTTfjqcs0jdTS5Fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTg4/NTk4LTE2MjQwMzYy/MzUtODk1MS5qcGVn.jpeg" alt="Cover for The Turning Wheel" style="max-width:120px; height:auto;" />
       </td>
@@ -1740,14 +1737,14 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 5</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 9</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 98</li>
             <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/xtSkLekxoVOD7WQfxwh1_vLmr-p6dQ35yMcFGwLykTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTk0/NzE4LTE2NTIzMDgw/MjctNTgxNS5qcGVn.jpeg" alt="Cover for Dance Fever" style="max-width:120px; height:auto;" />
       </td>
@@ -1763,13 +1760,14 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 69</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 1</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 70</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/mUE1iWvGV1XnHb-uoyaeSUKTrbwfaZSiVN2BIMCg0z0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTkx/OTc1LTE2NTUzODE4/MDItODg3Ni5qcGVn.jpeg" alt="Cover for Janky Star" style="max-width:120px; height:auto;" />
       </td>
@@ -1788,14 +1786,14 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 24</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/7lp-l4EozA32IRL6M96d5BLJnUDDw_Vt_2yzkVMEQqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDM3/MjgyLTE2NjI1MTQ3/NTMtNTMzMC5qcGVn.jpeg" alt="Cover for I Love You Jennifer B" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e3123c042fb257fe1851e25400203af.png" alt="Cover for I Love You Jennifer B" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-09</td>
       <td>Jockstrap</td>
@@ -1838,7 +1836,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/cXp0LIiBHrzEGMqLXt8VQd6yR2SmB-SOkn94JKfjjEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzEz/NjcxLTE2Njk2NzY1/MDgtNTMyNS5qcGVn.jpeg" alt="Cover for Flaming Swords" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70b1b00b90ef149def0ec63ba3d516a8.png" alt="Cover for Flaming Swords" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11-25</td>
       <td>Fievel Is Glauque</td>
@@ -1861,7 +1859,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b04885cce96857d9773ffb992df24b9e.png" alt="Cover for SZNZ: Winter" style="max-width:120px; height:auto;" />
       </td>
@@ -1902,9 +1900,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/1SU-NKLQUEFntmKz3CsV0i2_pkTSKBGLmyuxEbkkG2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTIx/NzE2LTE1MjA1NTA2/NzYtNTQxMC5qcGVn.jpeg" alt="Cover for LEXICON" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/485cd9eed885dc3ada623d50f9f59df2.png" alt="Cover for LEXICON" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Isyana Sarasvati</td>
@@ -1924,9 +1922,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/FJi88vAms7BFCPtz_NBudJCrIkiIwRagt1Oh0ca5lP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDky/NzUzLTE2NzYzMjU3/OTgtNjI2MC5qcGVn.jpeg" alt="Cover for Desire, I Want to Turn Into You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8efbfdc3ffd98d732a93e75aa5a53852.png" alt="Cover for Desire, I Want to Turn Into You" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-02-14</td>
       <td>Caroline Polachek</td>
@@ -1937,7 +1935,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 42</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 43</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 44</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 80</li>
         </ul>
@@ -1958,15 +1956,15 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       <td>
         <ul>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 4</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 35</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 79</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 38</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/kN2enG8nfHX4wPXshWAY2q64R5LEQQzCErlO7JzbwcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDgw/ODY2LTE2MTM2ODU0/MzgtNTczMS5qcGVn.jpeg" alt="Cover for Spirit They’re Gone, Spirit They’ve Vanished" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e23146d7b834aeaf779d2f48a0f1232.png" alt="Cover for Spirit They’re Gone, Spirit They’ve Vanished" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-05-12</td>
       <td>Animal Collective</td>
@@ -1983,7 +1981,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/sbAfq-kIeZzwOnD3RNFtuFZaejqk3kF2nzmHw2CTj1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjQ4/MTMxLTE3MDY5MTg0/NTktOTkyNy5qcGVn.jpeg" alt="Cover for Prelude To Ecstasy" style="max-width:120px; height:auto;" />
       </td>
@@ -1998,14 +1996,14 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 48</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 49</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 55</li>
             <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/UPfMj2IyleDKQ_vtyEuU4iisZJwF093BxfWuDVUrACQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODY4/NzQ4LTE3MDg0NzY3/MjEtOTY1My5qcGVn.jpeg" alt="Cover for Loss Of Life" style="max-width:120px; height:auto;" />
       </td>
@@ -2020,12 +2018,12 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 47</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/f55Vma_NPqXbymA3w_AtmAaa0OVelnxkd0XjoK2Bx20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Nzg2/NTI3LTE3MDc4MDQx/NjktNzY5MC5qcGVn.jpeg" alt="Cover for Rooting for Love" style="max-width:120px; height:auto;" />
       </td>
@@ -2048,7 +2046,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/oxWvgq0INPQLKZ8kNx56wL3fuQw0pdOzOQZL27SADWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDAz/MTY5LTE3MDk2MDU2/MjYtNDQzMy5qcGVn.jpeg" alt="Cover for Djesse Vol. 4" style="max-width:120px; height:auto;" />
       </td>
@@ -2070,9 +2068,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/s5qeShTqB_7iNh3r2-UU_IK2_SEjdwP1-o0Rf5M6gN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTE5/NzUyLTE3MTk5NTcw/ODQtOTQxMi5qcGVn.jpeg" alt="Cover for Hotel La Rut (破爛酒店)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5db2d5aea9f4681484274d476f665048.png" alt="Cover for Hotel La Rut (破爛酒店)" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-07</td>
       <td>Joanna Wang</td>
@@ -2091,7 +2089,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/34QM_S2m4nrCCdAkQCGz-pBiqvSkhnBFtDbWwDo2K2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ5/NDU3LTE3MTQ1MDMx/MDItNzM0Ni5qcGVn.jpeg" alt="Cover for HIT ME HARD AND SOFT" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6db576307ee7bdd81056432542b6bab7.png" alt="Cover for HIT ME HARD AND SOFT" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-17</td>
       <td>Billie Eilish</td>
@@ -2104,12 +2102,12 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 19</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 63</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 23</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 64</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 74</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 82</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 83</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 88</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 93</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 94</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 98</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 99</li>
         </ul>
@@ -2154,12 +2152,12 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       <td>
         <ul>
             <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 10</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 17</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>
