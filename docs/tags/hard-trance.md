@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T02:04:29.118Z
+date: 2025-11-11T03:37:08.036Z
 permalink: tags/hard-trance
 title: hard trance
 ---
 
 ## hard trance
 
-Last updated: <time datetime="2025-10-22T02:04:29.118Z">Wed Oct 22 2025 05:04:29 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-11T03:37:08.036Z">Tue Nov 11 2025 05:37:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
   </thead>
   <tbody>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg" alt="Cover for Sixth Gate" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bb6b9fc7f5837169121916aa6520b19.png" alt="Cover for Sixth Gate" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -48,7 +48,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td>1993</td>
@@ -87,7 +87,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td>1994</td>
@@ -108,7 +108,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/PTyO-W74YWOU7SJFft051J6fbcsOrz73yYPu5lwHJQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTM3/LTExOTg0NjQyMDgu/anBlZw.jpeg" alt="Cover for Fairy Tales" style="max-width:120px; height:auto;" />
       </td>
@@ -148,7 +148,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
       </td>
       <td>1994-05-16</td>
@@ -174,7 +174,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/AM-xfOpmbbNJcZnTCl22UfvjidUZ0Nl2S1NDAQGRT80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzE1/OS0xMjA4MzU0OTc3/LmpwZWc.jpeg" alt="Cover for This Is Hardcore &#x2F; Why Should You Live" style="max-width:120px; height:auto;" />
       </td>
@@ -196,7 +196,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/zs8eqFSrLBrU98cNl9sSz-BXEUsigGLWeoCyPGn1Qic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTEz/LTEyNDMxNjE2Nzku/anBlZw.jpeg" alt="Cover for Volume One" style="max-width:120px; height:auto;" />
       </td>
@@ -214,7 +214,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td>1995-05-05</td>
@@ -232,7 +232,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td>1995-05-05</td>
@@ -250,7 +250,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td>1996-02-01</td>
@@ -287,7 +287,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
       </td>
       <td>1997-04-14</td>
@@ -306,7 +306,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for SINDEX VA 003 - Trance Infused" style="max-width:120px; height:auto;" />
       </td>
@@ -326,7 +326,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
       </td>
       <td>1998-05-22</td>
@@ -347,7 +347,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/wYHTFiBHo_8JtZTsYyIO3Nk-njK3JcA_qH5vzJsJRrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg0/NTY2LTE2Mzk4Mzk5/NjUtNDQwNy5qcGVn.jpeg" alt="Cover for Hot Music EP" style="max-width:120px; height:auto;" />
       </td>
@@ -365,7 +365,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/wprCle0d8kAj6pnsl7Hlw3cl-6FvvEvan3dKBSIuxU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk2/OC0xMDg1MTEwNDUx/LmpwZw.jpeg" alt="Cover for return to elysium &#x2F; ignition" style="max-width:120px; height:auto;" />
       </td>
@@ -405,7 +405,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg" alt="Cover for Frantic Web Album" style="max-width:120px; height:auto;" />
       </td>
@@ -467,7 +467,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/A0qDGKl-NwSgt5EwExaBnuANLy3jt9Wtah6-NsKLYz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTAw/Mi0xNjQxMTI5MzQ4/LTE3OTQuanBlZw.jpeg" alt="Cover for The Stadium Techno Experience (20 Years of Hardcore Expanded Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2872e1491b48d5afe6dcce21c861b5cb.png" alt="Cover for The Stadium Techno Experience (20 Years of Hardcore Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-06</td>
       <td>Scooter</td>
@@ -508,7 +508,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/ewtd29G46SqN-0723By1W5HOUqdp2I4nickLt9Il1jY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc0/NjctMTIxNTUwNzU2/OC5qcGVn.jpeg" alt="Cover for E Quality" style="max-width:120px; height:auto;" />
       </td>
@@ -553,7 +553,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/dC82OnSF03s9znnThjFPU5Vl8zUHgcnEjKQQNBU6Fg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDM3/My0xNjAyMTc1NDg4/LTQwODguanBlZw.jpeg" alt="Cover for Tales From The Big Room" style="max-width:120px; height:auto;" />
       </td>
@@ -593,7 +593,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/IYuTKBxrXkP3xRaitV8zHmlasGwq3ceOncVAIiBUNSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDg1/Ni0xNjczMDk1NjM3/LTU0NDAucG5n.jpeg" alt="Cover for Freefall" style="max-width:120px; height:auto;" />
       </td>
@@ -613,7 +613,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/dodFjhpde3g3xEHwX3z8r6TTpfjLpEhw5wm_QA8T6wY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzA5/LTEyODI3NTc4NzYu/anBlZw.jpeg" alt="Cover for Dream Dance Vol. 46" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fe48eaf668a4010b65a2a4d5f7c45a7.png" alt="Cover for Dream Dance Vol. 46" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>DJ Shog</td>
@@ -634,6 +634,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87d41672584449ab977f123d5faf7b28.png" alt="Cover for India" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-27</td>
       <td>Jochen Miller</td>
@@ -656,9 +657,8 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/frsUNAhOIwVLKi005ZRcLUvlnnwLDITP5RnTMS1l4UE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTI2/ODMtMTE5MTQ1ODkz/Ni5qcGVn.jpeg" alt="Cover for Everybody&#39;s Free" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Andy Whitby &amp; Matt Lee</td>
@@ -701,7 +701,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/fBIgI-nDkIYeAgCrn8GgIWHrjdjr7KIGuGV573Q-d4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTIz/MS0xNjQzNDczODg0/LTM2NzIuanBlZw.jpeg" alt="Cover for Synaptic" style="max-width:120px; height:auto;" />
       </td>
@@ -781,7 +781,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/k-WBg6tpiII_6gbRyio1kWqMnWOF5U_r_El1C6Pw7s0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTUz/MjgtMTE5MTY3OTAy/NC5qcGVn.jpeg" alt="Cover for Alive" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c693b58d616e1c6ceff39788ec4a3e3.png" alt="Cover for Alive" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-12</td>
       <td>Jochen Miller</td>
@@ -840,7 +840,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/4BCdybuezrnqwsleeCmM6mUw_cMcpLoXBzHBwLSe7Y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQ1/NDQtMTI1NjA3NjQ3/My5qcGVn.jpeg" alt="Cover for Redefining The Paradigm Of Bang" style="max-width:120px; height:auto;" />
       </td>
@@ -913,7 +913,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/UZqZBmXbCEZJcZTcX_8wnpjDuoJ_gvjRP4mtnFkDOiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzM4/OTQ4LTE2MTI5MDAw/NzYtNjY2Ni5wbmc.jpeg" alt="Cover for Ateriavia" style="max-width:120px; height:auto;" />
       </td>
@@ -949,7 +949,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/ufjFSMUuPG2csuFzmQOaidKWXSRQqDDW_SgcZQQJBBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzI4/NTAtMTM0NzYzNTU5/OC05MDY3LmpwZWc.jpeg" alt="Cover for Coco Jambo" style="max-width:120px; height:auto;" />
       </td>
@@ -967,7 +967,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/sT6-8NcR86A_kyyfMafQ_joREj18mvpG07T6z3dBJic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjkx/OTMtMTMyNzY3MDU1/My5qcGVn.jpeg" alt="Cover for Autumn Shine" style="max-width:120px; height:auto;" />
       </td>
@@ -987,8 +987,9 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/682a26b87021465bab06775372e44e01.png" alt="Cover for Drive By" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-18</td>
       <td>Jason Born</td>
@@ -1008,9 +1009,9 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/EYs0AW2RtBuQ8aDxp5inkU8KXDd1vLAtLQxpFARpc2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTYx/NzItMTMzNzUxMDk4/Ni04MjI5LmpwZWc.jpeg" alt="Cover for Dizzy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ca7d1318c40411bb59d5aac8d595a8d.png" alt="Cover for Dizzy" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-18</td>
       <td>De-Grees</td>
@@ -1081,9 +1082,9 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/xcFoGzu5r7nUlJH7MiGl-mFOwz9p26cWZM4YjIBiSFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjE5/MTgtMTY1ODkzNTIy/OC01MzM5LmpwZWc.jpeg" alt="Cover for The Early Bedroom Sessions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e55dbb3fd35d41efb5a853ce10a59d48.png" alt="Cover for The Early Bedroom Sessions" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-04</td>
       <td>Basshunter</td>
@@ -1104,9 +1105,9 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/r_SUsTNTL98y8q7MIWg8EpGAL6CcPmsC0NnNYKdBsAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODEy/MjItMTM2MTgxMzcw/NS01MTI2LmpwZWc.jpeg" alt="Cover for The Bass" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0c1d7a7ce8cb0391b59ad7f90db72cc.png" alt="Cover for The Bass" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-11</td>
       <td>Ben Nicky</td>
@@ -1125,6 +1126,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fd94a6d23af45bb94507de9fb2fb27b.png" alt="Cover for This Is Nightlife" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-15</td>
       <td>Italobrothers</td>
@@ -1163,7 +1165,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/qPS2CLzLDZu_d80CapB_Q2XEIxet9EYG9ONpqxoN888/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTg2/NDItMTM4ODkyODg2/NC0yMDA5LmpwZWc.jpeg" alt="Cover for Prove Your Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1182,7 +1184,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/z1N6zbosKgHAaNB_h8GscLxP82kSoM8wvbDhf4Te7Ak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjIy/OC0xMjk4MjI4MzM3/LmpwZWc.jpeg" alt="Cover for Dj tiesto" style="max-width:120px; height:auto;" />
       </td>
@@ -1202,7 +1204,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/YzSqMvD0LIEIdnFY-MrqcFAJkc90PC7RdO14oyROhds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI0/Nzg3LTE1NDI2NjAx/MDEtMjA4OC5qcGVn.jpeg" alt="Cover for All Day I Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1227,7 +1229,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/atYQb9bs_rDMlJzmeg5Lzh3bAtDuclo5_4Ol9_-sIz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTI3/OTQtMTQwNTE5MTM0/NS0zODcyLmpwZWc.jpeg" alt="Cover for Live Life Living (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1274,7 +1276,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/BOg6jDEkPwDjRJi20n0RboFbrCtTEwN8tkRsju9RG5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDk0/NTItMTQ0Nzk4ODQ3/NC0xNzM5LmpwZWc.jpeg" alt="Cover for Ateriavia" style="max-width:120px; height:auto;" />
       </td>
@@ -1331,14 +1333,14 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 78</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/U-syRXDwt6TzvtxsvitaX8FV1TxK08grcxBF3PE4JnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc3/MDAzLTE1MTMyNjUy/NzEtMzI5MC5qcGVn.jpeg" alt="Cover for Virtual Self" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd44635521a1aa109cbd4f476450ff0e.png" alt="Cover for Virtual Self" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-01</td>
       <td>Virtual Self</td>
@@ -1355,7 +1357,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/DA0zPOxz0-bqSWjdL-eX9doqMVuJMO3Q10MgbyY5iKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDM1/NTc4LTE1NDY4ODQ1/OTgtMTE0NC5qcGVn.jpeg" alt="Cover for Vessels" style="max-width:120px; height:auto;" />
       </td>
@@ -1368,26 +1370,6 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/X1kLZ3GXyz6b_FTW-N01xVmkbX-ot-xQ2d90nI5mhi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM5/NzMyLTE1MzExOTAz/MzQtODg3NC5qcGVn.jpeg" alt="Cover for A&#x2F;B SERIES #8" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-07-09</td>
-      <td>I.E</td>
-      <td>A&#x2F;B SERIES #8</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
       </td>
       <td>
@@ -1491,7 +1473,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/-b5dsfyGT7egW_wLkwWzZnqC2QDna3YLZewBJVm2nws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njg1/NDIwLTE2Njc5MTM4/NDQtNzkyOC5qcGVn.jpeg" alt="Cover for UTE003" style="max-width:120px; height:auto;" />
       </td>
@@ -1511,7 +1493,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/XG3JAG2UYju3Jjugko9W0J-c3vonmsLQgJoNfJbeI5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjIy/MTM3LTE1ODgzMTc3/NjAtNTAwNS5qcGVn.jpeg" alt="Cover for Moon Tear" style="max-width:120px; height:auto;" />
       </td>
@@ -1587,7 +1569,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 40</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 42</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 90</li>
         </ul>
       </td>
@@ -1617,7 +1599,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/PCAD10IRrR3YWIRcBT1lslgj6IXU6bxTcVvQ1LiNUL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjg3/ODM0LTE2MzIwNDI0/MDUtODcyMi5qcGVn.jpeg" alt="Cover for Bye Bye Sky High" style="max-width:120px; height:auto;" />
       </td>
@@ -1678,6 +1660,23 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
+      <td>43</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eaa55ca0e0adfd6ee0042c697cbd5694.png" alt="Cover for Vierge" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-01-25</td>
+      <td>Ascendant Vierge</td>
+      <td>Vierge</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>49</td>
       <td>
           <img src="https://i.discogs.com/NPm3CkSnI6uku_O1D8YkTJ4YAuh8StEVJDXE-HeEP3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjkz/Nzk5LTE1MTM2MDE1/MTAtNzY5Ny5qcGVn.jpeg" alt="Cover for Angry People" style="max-width:120px; height:auto;" />
@@ -1701,7 +1700,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/MkYiSc0nqyeb1mjT7dt22klb9ML93FH8Z5lj5sZfoK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDk2/ODk2LTE2ODY2OTgy/NDYtNzczMi5wbmc.jpeg" alt="Cover for Immortal Spirit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81b41e106b66237310f59a04da521557.png" alt="Cover for Immortal Spirit" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-04-08</td>
       <td>purity filter</td>
@@ -1723,7 +1722,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 23</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 37</li>
             <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 67</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 82</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 83</li>
             <li> <a href="{{ "/tags/sextrance" | relative_url }}">sextrance</a> # 100</li>
         </ul>
       </td>
@@ -1910,7 +1909,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 44</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 47</li>
             <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 76</li>
             <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 97</li>
         </ul>
@@ -1941,7 +1940,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/RRxDOMs3MkxcLUz5PqCowJpVlLsLd3CJRJ9QG5KkS2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzU1/NjI0LTE3MzIyMjA1/NDUtOTA3OC5qcGVn.jpeg" alt="Cover for put em high" style="max-width:120px; height:auto;" />
       </td>
@@ -2030,9 +2029,9 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 3</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 41</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 42</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 57</li>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 63</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 64</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 74</li>
             <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 88</li>
         </ul>
@@ -2056,8 +2055,8 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 42</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 47</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 45</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -2080,7 +2079,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       <td>
         <ul>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 52</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 56</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 57</li>
             <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 94</li>
         </ul>
       </td>
@@ -2088,6 +2087,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/757072452130d58597bd18943bccb6ce.png" alt="Cover for bootleg (+)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Isyti</td>
@@ -2145,7 +2145,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 55</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 56</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 91</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 93</li>
             <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 98</li>
@@ -2153,7 +2153,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -2172,7 +2172,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -2189,7 +2189,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>

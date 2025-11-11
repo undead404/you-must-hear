@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T02:16:42.702Z
+date: 2025-11-11T03:40:35.254Z
 permalink: tags/venezuela
 title: venezuela
 ---
 
 ## venezuela
 
-Last updated: <time datetime="2025-10-22T02:16:42.702Z">Wed Oct 22 2025 05:16:42 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-11T03:40:35.254Z">Tue Nov 11 2025 05:40:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/P1MX4nwAhJw0V6LS52cxolZ0bUwdKMcczmi1Jwi1B6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTg2/OTUtMTQ0MTEyNjY4/My0yNzkyLmpwZWc.jpeg" alt="Cover for Homenaje a Alfredo Zitarrosa" style="max-width:120px; height:auto;" />
       </td>
@@ -67,7 +67,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/VxxhVPqRdn9PjoS3k2ChYmQ1H9ZCHFBDc6i128Lg8do/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDE4/NDU5LTE2NTA5ODE1/NzItNTA3Mi5qcGVn.jpeg" alt="Cover for Desnuditos EP" style="max-width:120px; height:auto;" />
       </td>
@@ -88,7 +88,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/w4mb2DC7XMCLZzZiHT-gNHJ-RhA_qCA8ZYn73aTFQTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzU0/MDktMTM4NTk0NDM5/Ny0zODU1LmpwZWc.jpeg" alt="Cover for Songs of Venezuela" style="max-width:120px; height:auto;" />
       </td>
@@ -107,7 +107,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/rpFG6wcnGa6Gw5hh06ZlkCG82RJOfDehXCOLoM3WZn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY2/NDE4LTE1NTI4NDYz/MzctNDQyOS5qcGVn.jpeg" alt="Cover for En Vivo En Argentina" style="max-width:120px; height:auto;" />
       </td>
@@ -145,7 +145,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/BhfmR_2Q4hTnAKKZx8malQgbx7pTSvqNnP4XXKxACI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODgz/NDItMTI3NDY2Nzk0/MS5qcGVn.jpeg" alt="Cover for Mujer" style="max-width:120px; height:auto;" />
       </td>
@@ -164,7 +164,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/Nxv4dOiY4UmGD8gCfYrUG3_PiFszLs1sDZ7lHaUAoUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzIx/NDYtMTQ1NDYwNTE0/NC0xOTg5LmpwZWc.jpeg" alt="Cover for Yo Soy Carlos Mata, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -183,6 +183,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70d6b9729b52322ca12bfda2f92f588e.png" alt="Cover for Franco De Vita" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Franco De Vita</td>
@@ -199,7 +200,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/VgHy57-137ZcNWj65pDPxzLUP-RMl4v1Ge70COKamYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI4/NDU5LTE1MDg1Mjg1/MTMtMjg4OC5qcGVn.jpeg" alt="Cover for ¡Parranda! Venezuelan Carnival Music" style="max-width:120px; height:auto;" />
       </td>
@@ -219,7 +220,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
       </td>
       <td>1986</td>
@@ -236,7 +237,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/ZT6lHk_lsboMK15A1Op1bXdYu5fycoeuzdiyzfueztA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTc5/NjgtMTQ1MzE3NzQx/Mi05MzM3LmpwZWc.jpeg" alt="Cover for Celebridades- Franco De Vita" style="max-width:120px; height:auto;" />
       </td>
@@ -254,7 +255,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/KWEOqv3iDUmHpX0BrPd0lXf5ocAH7x6iW-En9OKWrNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg0/NjIzLTE2MTA2NTAx/MTgtMjU0NC5qcGVn.jpeg" alt="Cover for rules antologia 1985-2004" style="max-width:120px; height:auto;" />
       </td>
@@ -291,7 +292,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/Iq_W9rU5D7FqTZGLJUZBy6hz9feJlc9nAK1Ctna07GU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI3/NzcxLTE1Mjg4NDMw/MzctNTUwMC5qcGVn.jpeg" alt="Cover for 20 Años de Exitos" style="max-width:120px; height:auto;" />
       </td>
@@ -310,7 +311,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/nkfJybRIFMrNkVcsUGtskz7hM6uyUVyNsiyAD2LlvRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTc2/OTgtMTQyNTk3MTA3/Ny05ODQ0LmpwZWc.jpeg" alt="Cover for Escalofrio" style="max-width:120px; height:auto;" />
       </td>
@@ -370,7 +371,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/6D9BEZRWNAdf-yAzeQmq33Sg-ycwgAkehOvjYyRlMZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTk2/MDQtMTM1NzI2NTg1/Ni00MTAyLmpwZWc.jpeg" alt="Cover for Un Mundo Mejor" style="max-width:120px; height:auto;" />
       </td>
@@ -388,7 +389,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/IfP6cdwWDcE4awgLRuQv-_o0imytFoywLggoGB1HPLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzk0/MzAtMTM0ODU2MjA4/NC00Mjk1LmpwZWc.jpeg" alt="Cover for De Sol a Sol" style="max-width:120px; height:auto;" />
       </td>
@@ -406,7 +407,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/PVxM-5laTDUMsPz9aACgVILybFfUPSmSfytYt-eKGXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgx/OTU2LTE1NjkzOTcw/MzYtNTA1NC5qcGVn.jpeg" alt="Cover for Premier Demo" style="max-width:120px; height:auto;" />
       </td>
@@ -425,7 +426,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td>1994</td>
@@ -442,7 +443,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/N5IwocFL5z7DXZVVsb7e7M2IveV6LhZbBPCmAl2KCGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTU4/NTktMTQ3Mjk3MjQ2/Ni0xODM1LmpwZWc.jpeg" alt="Cover for De Amor Y Deseo" style="max-width:120px; height:auto;" />
       </td>
@@ -460,7 +461,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/fp3jgrm7XZfuGolIZsPgcxaXFxcCKNVxzQimf9MjDhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjAy/MDM1LTE2MjAyMzQw/NTgtODk1OS5qcGVn.jpeg" alt="Cover for La Pulga y el Piojo" style="max-width:120px; height:auto;" />
       </td>
@@ -481,7 +482,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/7LKNpmFMSupGmLz14HCRbzGsA5AnUwK00L1RIog2KNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTAz/NzUtMTQ1NTMzMDk1/NC01Mjc2LmpwZWc.jpeg" alt="Cover for Colección Inéditos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f11c36c3f8d893f8fb6d9da12d6c181.png" alt="Cover for Colección Inéditos" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Horus</td>
@@ -517,9 +518,9 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/ld8cGvPiHJnCUa_1xXXO9l5P25vcEEY-yjTezCZ6LoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEz/LTEyMTg2MDEwODcu/anBlZw.jpeg" alt="Cover for El Cuervo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b291e62f193c7553bb66a654caca6dc.png" alt="Cover for El Cuervo" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>GEGGA</td>
@@ -536,9 +537,9 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/ld8cGvPiHJnCUa_1xXXO9l5P25vcEEY-yjTezCZ6LoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEz/LTEyMTg2MDEwODcu/anBlZw.jpeg" alt="Cover for The Rainmaker" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/555f12805c501b670cb64cbfc9218e02.png" alt="Cover for The Rainmaker" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>GEGGA</td>
@@ -555,7 +556,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/rpFG6wcnGa6Gw5hh06ZlkCG82RJOfDehXCOLoM3WZn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY2/NDE4LTE1NTI4NDYz/MzctNDQyOS5qcGVn.jpeg" alt="Cover for Una Sola Vida Tengo" style="max-width:120px; height:auto;" />
       </td>
@@ -593,7 +594,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
       </td>
       <td>2000</td>
@@ -628,7 +629,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/C_I24_D3j3v8IEcfgw3CuBg4jMHpkOiWTTozgqlttFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODc0/ODYtMTU5Nzg5NDkx/OS0zOTczLmpwZWc.jpeg" alt="Cover for Grandes Exitos" style="max-width:120px; height:auto;" />
       </td>
@@ -665,7 +666,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/sHep8mvVi31zb1srwJmwurPTBUQ8M7iGA3MBN-mRpIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjU2/ODYtMTU4MzgyNTgz/MC00Njc2LmpwZWc.jpeg" alt="Cover for Signos de Admiración" style="max-width:120px; height:auto;" />
       </td>
@@ -700,7 +701,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf9dfa0a847dd1c9c84a6dd96fb2bf46.png" alt="Cover for Liqüet" style="max-width:120px; height:auto;" />
       </td>
@@ -739,7 +740,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/LEdYAwELApbnP1LZl5pK91tRKmpFiyc1eqODZMAi_gE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNjQ2/NzEtMTQ2MjU1NzE2/NC05ODk0LmpwZWc.jpeg" alt="Cover for Documentos" style="max-width:120px; height:auto;" />
       </td>
@@ -760,7 +761,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/T4iYwwg_fm6ZCnSCNQCoTTFg7_oJ7R4wHsryFu_opok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY0/NzktMTIxMDczMzMx/NS5qcGVn.jpeg" alt="Cover for My Favorite Things" style="max-width:120px; height:auto;" />
       </td>
@@ -778,7 +779,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/1K1UKv9i6zqBO2Gkcq2ParQ4kMReIl_9RD0Pxiq_uks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk4/MjY5LTE1Njk3MDYz/MDEtMjUzMC5qcGVn.jpeg" alt="Cover for Coctel #5: cacao,mujer y beats" style="max-width:120px; height:auto;" />
       </td>
@@ -813,7 +814,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/qNDaylDBLSBD8h3TMiaaZ4mi747cMFgjRzR2pH_7hBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAy/OTYyLTE2Mjk3MDMw/MzAtMjAwNS5qcGVn.jpeg" alt="Cover for Materia Prima" style="max-width:120px; height:auto;" />
       </td>
@@ -833,7 +834,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/G1aecFZdypJW17L3RAi5XFvVxLZ6SwsuDCBM8FaYF1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDk3/ODktMTQ0NDQ5NDkw/OS0xOTA3LmpwZWc.jpeg" alt="Cover for Acid Girlzzz Demo" style="max-width:120px; height:auto;" />
       </td>
@@ -918,7 +919,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/odesYMf-8s8MCy577m5wKv4w1eRtbp8_-nAi99JaZmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzQ1/ODAtMTQ3ODU1OTQ4/MC04OTYzLmpwZWc.jpeg" alt="Cover for Can + Zoo Índigo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e6cf2decb69aeeb2b5329a8dfe0b318.png" alt="Cover for Can + Zoo Índigo" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Canserbero</td>
@@ -937,6 +938,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5d5a997f37442ed8553c3013cbd0818.png" alt="Cover for Commercial" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-09</td>
       <td>Los Amigos Invisibles</td>
@@ -952,12 +954,12 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 57</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/qO_eRP-Nrr6m5mshkzqOuATsm8pz3x0iziPByhIMNXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzQ3/NjY0LTE1OTcwNTcw/MTctNTgyNS5qcGVn.jpeg" alt="Cover for Las primeras Leyendas" style="max-width:120px; height:auto;" />
       </td>
@@ -980,7 +982,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/P-nuC5OPYOULXFF2qLAcmPpCvp0aX2SXvxPg_-nHi_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTcx/ODQtMTYwNzA4OTkx/OS00NDAxLmpwZWc.jpeg" alt="Cover for Superlirical" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d34c04d7c1d4214b0d017ffc3969608.png" alt="Cover for Superlirical" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Mcklopedia</td>
@@ -999,6 +1001,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee298625884489a75f8da00c31036f43.png" alt="Cover for Muerte" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Canserbero</td>
@@ -1012,12 +1015,12 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 75</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/VzZJXctxOoc8Jpb5-ubyugsEXzQUS8eyGboq8fe5JFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzU2/NjQtMTM5MTg0OTgz/Mi03NjQ1LmpwZWc.jpeg" alt="Cover for Night of the Living Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -1036,7 +1039,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/EOMnaA1HKN1YLWS2VfJdaTesbQ8PEcBd5-BOzibnrYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjAz/NTM5LTE1MDA3NzI4/MzItODU4OC5qcGVn.jpeg" alt="Cover for Revelacion" style="max-width:120px; height:auto;" />
       </td>
@@ -1057,7 +1060,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/tSCFvqLsbdyhTxqOGzNrClLtqRPlVmQwQKPYqDafILA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTA0/MDMtMTQ3ODM3MTY3/Ni0xOTgwLmpwZWc.jpeg" alt="Cover for Give Me 5" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5dee7353d96047a6c7a4ac0249f18451.png" alt="Cover for Give Me 5" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Canserbero</td>
@@ -1074,7 +1077,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/KMjB0qBWz7elxZSIBrSImjuQpYDws_CuXHKzpX0-ONI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjYy/ODktMTM0Nzk5NDg3/MC05OTc5LmpwZWc.jpeg" alt="Cover for Simple" style="max-width:120px; height:auto;" />
       </td>
@@ -1116,6 +1119,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b40fb7b79db24cf4a0df48cbf92b7a4f.png" alt="Cover for Hotel Miramar" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-27</td>
       <td>Tomates Fritos</td>
@@ -1173,7 +1177,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/durDFP26ljfAW4tH06YSx2aVGoMf5FTfRFM51sTJ1dg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzEw/MjctMTQ3NTMxMDMz/NS0xOTc4LmpwZWc.jpeg" alt="Cover for ¡Canta con Venezuela! Sing with Venezuela!" style="max-width:120px; height:auto;" />
       </td>
@@ -1195,7 +1199,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
       </td>
       <td>2013</td>
@@ -1271,9 +1275,8 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/K0JfV8RfpEXyVHYPeplEkRCMEnl6SNucpVzVVm0jr_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA2/NTM3LTE2NzQ4Nzg1/ODktOTczOS5qcGVn.jpeg" alt="Cover for LEGAL" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Lisérgicos</td>
@@ -1290,9 +1293,9 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/K0JfV8RfpEXyVHYPeplEkRCMEnl6SNucpVzVVm0jr_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA2/NTM3LTE2NzQ4Nzg1/ODktOTczOS5qcGVn.jpeg" alt="Cover for Sonata a la Mata" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5501d43e56f8415cfe99f38014b4188.png" alt="Cover for Sonata a la Mata" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Lisérgicos</td>
@@ -1311,7 +1314,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/p7lF-CfE3fcq9fFqCtdSvf04uBlFRr8OtG196d3ror4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjY1/NTMwLTE2MjUzNzcy/NzktNTQ5My5qcGVn.jpeg" alt="Cover for Codes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18ece5141831af1093f9deb450bdd5f7.png" alt="Cover for Codes" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-15</td>
       <td>Lou Fresco</td>
@@ -1348,7 +1351,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/TNiRBcgH7PeGPbokRho4LFiGQpckWJI_7DZBt3bu2iY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTY2/NjI2LTE2MTY0NTAx/NTUtNjA3NS5qcGVn.jpeg" alt="Cover for Siempre Firmes" style="max-width:120px; height:auto;" />
       </td>
@@ -1370,9 +1373,9 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/y1W6jk_IDLKwiA6RZ8u9xoz09CO4jJjUMDZ_LJCiPpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTUz/MTQzLTE1MTgzODA4/MTktNDM2NC5qcGVn.jpeg" alt="Cover for Primogénito" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1a954d407f841d660f738757711a217.png" alt="Cover for Primogénito" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-29</td>
       <td>Nasty Killah</td>
@@ -1389,7 +1392,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/Xo0ZziVy3_d1vu95-5uI_S-WTSPm7RXgWFPZhi92PWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzg1/MTMyLTE1MjIzMzk5/MzAtMjc0Ni5qcGVn.jpeg" alt="Cover for Hogar Monocromático" style="max-width:120px; height:auto;" />
       </td>
@@ -1408,7 +1411,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/Mn41QYa3UhrZFn9tQaS4WIt0SgoalQKsmNCwkySWgIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUx/MzctMTQ2ODcxMjc0/OC00OTA1LmpwZWc.jpeg" alt="Cover for De Pie" style="max-width:120px; height:auto;" />
       </td>
@@ -1426,7 +1429,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/c9Z6ESV-1TITRBvJqW165BI4u2-2WUH6-J7nTTWiiv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQ1/NzM5LTE1NTYyNjQz/ODMtMzE4OS5wbmc.jpeg" alt="Cover for Somniaprima" style="max-width:120px; height:auto;" />
       </td>
@@ -1447,7 +1450,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/3QZSbrGf8OT88N27gNmtAV-NhM_U0g_UmFbonbvN9M4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDcz/NjU5LTE2MjIzODkx/ODgtNzUyOS5qcGVn.jpeg" alt="Cover for Serio" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b638eb41064b60d67bc0534b465bcab.png" alt="Cover for Serio" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-17</td>
       <td>Lil Supa</td>
@@ -1461,14 +1464,14 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 37</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/3QZSbrGf8OT88N27gNmtAV-NhM_U0g_UmFbonbvN9M4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDcz/NjU5LTE2MjIzODkx/ODgtNzUyOS5qcGVn.jpeg" alt="Cover for AMVISION" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3ee18889c040d495488b204181b1714.png" alt="Cover for AMVISION" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-17</td>
       <td>Lil Supa</td>
@@ -1486,9 +1489,27 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9bd5d9884764383a7eb54e5551fde22.png" alt="Cover for CLARO" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-03-17</td>
+      <td>Lil Supa</td>
+      <td>CLARO</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/yyBiRBMgplXrXBkrZu_ZuSvtgQlJMp5XIPCz9gF554U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjIx/OTUzLTE1MTIxNjkx/ODItOTAxOS5qcGVn.jpeg" alt="Cover for En Vivo Madrid 2017" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e574c69943fc2087e12ba171adebc5a3.png" alt="Cover for En Vivo Madrid 2017" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-17</td>
       <td>Lil Supa</td>
@@ -1507,7 +1528,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/yyBiRBMgplXrXBkrZu_ZuSvtgQlJMp5XIPCz9gF554U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjIx/OTUzLTE1MTIxNjkx/ODItOTAxOS5qcGVn.jpeg" alt="Cover for NEØN" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c69e2673bc1fb84c26ff48f0cce93ab1.png" alt="Cover for NEØN" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-17</td>
       <td>Lil Supa</td>
@@ -1567,7 +1588,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/tSCFvqLsbdyhTxqOGzNrClLtqRPlVmQwQKPYqDafILA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTA0/MDMtMTQ3ODM3MTY3/Ni0xOTgwLmpwZWc.jpeg" alt="Cover for Vida" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58204e3be0084f9806a1079bd94fbb1f.png" alt="Cover for Vida" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-05-01</td>
       <td>Canserbero</td>
@@ -1623,8 +1644,9 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c67ba706476646fb9bce4fa3507a1a92.png" alt="Cover for Nos Casamos en África EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Bi-Log</td>
@@ -1646,7 +1668,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
       </td>
       <td></td>
@@ -1688,6 +1710,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1945b8f99c29cdba999ee33182d3f642.png" alt="Cover for Quédate Conmigo" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Chyno Miranda</td>
@@ -1731,23 +1754,6 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       <td>
       </td>
       <td></td>
-      <td>Que se Vayan Todos</td>
-      <td>Que se vayan todos</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
       <td>Ríal Guawankó</td>
       <td>La Lengua De Los Beatz y Lo Oculto de Los Versos</td>
       <td>
@@ -1762,7 +1768,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -1781,8 +1787,9 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95ce929f3c7ac1cc4adeb1812473abe3.png" alt="Cover for Venezuelan Mindset" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>12&quot; Ninjazz</td>
@@ -1799,7 +1806,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
       </td>
       <td></td>
@@ -1816,8 +1823,9 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/85809140992422db2e178c53997ee926.png" alt="Cover for The Real Drama" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Ríal Guawankó</td>
@@ -1834,7 +1842,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
       </td>
       <td></td>
@@ -1852,8 +1860,9 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da4401758ac760b171e5272fab3b9f4b.png" alt="Cover for malandreo conceptual" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>weed420</td>
@@ -1871,8 +1880,9 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a21b54b72a194257b36b54631ca293f.png" alt="Cover for Ocho Lunas" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Gona</td>
@@ -1891,6 +1901,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eff8e5135d88a440a46c11193856e5ec.png" alt="Cover for Latin Jazz Rap" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Ríal Guawankó</td>
@@ -1909,6 +1920,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1aa9c5711e1096de248d9cb2419e8ee8.png" alt="Cover for Worldwide" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>El Dojo</td>
@@ -1927,6 +1939,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64c3d332180785c21e3429ff381513ca.png" alt="Cover for WIZ" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>N-Wise Allah</td>

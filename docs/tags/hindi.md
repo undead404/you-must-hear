@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T02:16:15.882Z
+date: 2025-11-11T03:40:18.675Z
 permalink: tags/hindi
 title: hindi
 ---
 
 ## hindi
 
-Last updated: <time datetime="2025-10-22T02:16:15.882Z">Wed Oct 22 2025 05:16:15 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-11T03:40:18.675Z">Tue Nov 11 2025 05:40:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
   </thead>
   <tbody>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/IPWqizoUiYLuMl4KPQ6Dnv5DZD0Vd7zRrCFwOJ668XA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ3/NTQ4LTE2MzE5Nzc4/MTYtODkzNy5qcGVn.jpeg" alt="Cover for Do Bhai" style="max-width:120px; height:auto;" />
       </td>
@@ -150,7 +150,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/zIsF_UOEqtJlhAQXOjFsPAYmQAwZK10u9gqt2yHKtAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODE1/NzUtMTQxMzEwMzQ4/MC0yNDMwLmpwZWc.jpeg" alt="Cover for Disco Dancer (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -168,7 +168,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/xsjjj4s26ezbrexHjlhW6h7iA3v_FeQV4ce4LL20kjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzE0/OTMtMTM2MDU3MTM3/Ny04OTU3LmpwZWc.jpeg" alt="Cover for Native American Odyssey" style="max-width:120px; height:auto;" />
       </td>
@@ -186,7 +186,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/ZSkiqpnUsU-1ecuBnidFeB1YqYYCAdvR-2Hr98j28us/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjky/NTI5LTE1NzE1OTUw/MzEtMTk0MC5qcGVn.jpeg" alt="Cover for Rab Ne Bana Di Jodi" style="max-width:120px; height:auto;" />
       </td>
@@ -204,7 +204,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/aVIIrG48AWrd1cDSKIhy_GZlwHKqYjGAT1c2tOvyZoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzMy/ODc3LTE1MjE0NTQx/MjEtNDUxMC5qcGVn.jpeg" alt="Cover for Golden Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -262,7 +262,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/Vm_f-8Y3cRxn-rW0UTqvNfHKnnvpB3rIbKLFwZxuSVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTI5/ODA2LTE1NjgzODU4/MjktNzM3MS5qcGVn.jpeg" alt="Cover for Slumdog Millionaire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12631af3d3f6d616cf78fc086c8e2099.png" alt="Cover for Slumdog Millionaire" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-11</td>
       <td>A.R. Rahman</td>
@@ -279,7 +279,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/OjSUGRaz88LSCJ7Gf3GeDfqHDm0IXMeIniSq2ppzIt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjA2/NTktMTM4NjA3NDA3/OC0zNzQ4LmpwZWc.jpeg" alt="Cover for Race" style="max-width:120px; height:auto;" />
       </td>
@@ -340,7 +340,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/M6iDwnqIlunvajNWJT0oogDz4l93RnkAD2PI-IYKDto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODAw/Nzc4LTE1NjE0NTE3/MzQtMTIyMS5qcGVn.jpeg" alt="Cover for Golden Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -385,7 +385,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/oPFy9R7NRrnZRk75HcRsup15bPxDRAoyFH2K7btOCk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTI5/NTMtMTQ3MzI2MzIw/Ni03NjUyLmpwZWc.jpeg" alt="Cover for Kuch Kuch Hota Hai" style="max-width:120px; height:auto;" />
       </td>
@@ -402,7 +402,26 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>34</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d2a9a7fe5f54cee8f5190e577e4aae6.png" alt="Cover for Tunak Tunak Tun" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-02-28</td>
+      <td>Daler Mehndi</td>
+      <td>Tunak Tunak Tun</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 100</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/7F1i7PYFVEkJoaBMQKHqe8yuq3pZgKgxK2R8PklGZQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzYy/NjAtMTQxMTk3NTUy/MS01ODI1LmpwZWc.jpeg" alt="Cover for The Way We Do It" style="max-width:120px; height:auto;" />
       </td>
@@ -464,25 +483,6 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/7UTEzPHUzhrDJBjIfY-Znt-GbQYX12J8bYS_eV3TGhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTQ2/MDA5LTE3MDIwNTUx/MDctMzAzMC5qcGVn.jpeg" alt="Cover for Dil To Pagal Hai" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>Lata Mangeshkar &amp; Udit Narayan</td>
-      <td>Dil To Pagal Hai</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>42</td>
       <td>
       </td>
@@ -500,7 +500,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/wn_Z8gqnacVUeEeYZclZ4ZN6j_mFpgY2DZX5CdHRdGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTk3/NTMyLTE1NjU3NDUz/NzYtODU4OS5qcGVn.jpeg" alt="Cover for Din Dhal Jaaye" style="max-width:120px; height:auto;" />
       </td>
@@ -614,7 +614,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/Epq1vPbezx02Uk2KgqpMiG6M6EflYOGn_5xw5FBJE6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTAy/OTYtMTI3NDc1NTM2/NC5qcGVn.jpeg" alt="Cover for Om Shanti Om" style="max-width:120px; height:auto;" />
       </td>
@@ -633,7 +633,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/AfcwP3u2iQbORng9-EhKNSqOJxhwDgEM2NT8SP7fHic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjY3/Mjk1LTE1NTEwMzM2/MDQtNTMyMC5qcGVn.jpeg" alt="Cover for Jab We Met" style="max-width:120px; height:auto;" />
       </td>
@@ -709,7 +709,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/CEqyWKpUSY0cMExoDctpla0Fh_MKOiMyPR7fX4Z-Li8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDA3/NzU4LTE1NDYzNTc4/NjUtNjk4MS5qcGVn.jpeg" alt="Cover for Saagar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b70147181a4470bc70296f51e01ebef.png" alt="Cover for Saagar" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Fuzon</td>
@@ -869,7 +869,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
       </td>
       <td>2004-12</td>
@@ -1063,7 +1063,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg" alt="Cover for Jannat" style="max-width:120px; height:auto;" />
       </td>
@@ -1098,7 +1098,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/0W_vqEjv8MFyp_GxtmYtq3o1WIZPiA8wO7yENqhrChY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQ2/NTU4LTE1NzI2ODQz/OTQtODI4Ny5qcGVn.jpeg" alt="Cover for Devdas" style="max-width:120px; height:auto;" />
       </td>
@@ -1116,7 +1116,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/bEOwhS0Hv9Yn1Gqz-qUV_vCCA5Z0O_H6Y33ZH1735D0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjAz/NzA5LTE2MjQxNDE0/NzktOTYwMy5qcGVn.jpeg" alt="Cover for Best Of Me Pritam" style="max-width:120px; height:auto;" />
       </td>
@@ -1313,7 +1313,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/UZQ_OEHLLd2RN49D_alw1hwNJEMPMmhdbA2hiCv_EiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjIz/MTg5LTE2NTA1NDgx/MzAtNzk3Mi5qcGVn.jpeg" alt="Cover for Bolo Radhey" style="max-width:120px; height:auto;" />
       </td>
@@ -1349,7 +1349,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/8JLcq_wgVXa0NVXbjzJtskFNoBtevBAr6pSaCQB5-Po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQz/NjQ5LTE1OTE3MTA1/NjctMzE0NS5qcGVn.jpeg" alt="Cover for CARDAMOMO" style="max-width:120px; height:auto;" />
       </td>
@@ -1375,7 +1375,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
       </td>
       <td>2012-06-07</td>
@@ -1413,7 +1413,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
       </td>
       <td>2013-05-29</td>
@@ -1431,7 +1431,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/SJhRsOD9AjKNOrN-Guwi_rb2k6BsU-Vo48nwYo0SZHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTkx/MjEtMTI3MTQ2OTUy/NC5qcGVn.jpeg" alt="Cover for Guru" style="max-width:120px; height:auto;" />
       </td>
@@ -1466,7 +1466,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/6Gpu34eFQZlrAsF585Quaglnhn6GsGlJ1GFrrLa9ZG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjE5/NjUtMTU2MzI2MTA1/OC0zMzg2LmpwZWc.jpeg" alt="Cover for Yeh Jawaani Hai Deewani" style="max-width:120px; height:auto;" />
       </td>
@@ -1522,7 +1522,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/iBB1z9vZQwm4o_qmNy54zCIUl0gCRmFf4RsCrjtR5p0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk2/Mjc3LTE2NTU0MDQ2/NDYtNjk0OC5qcGVn.jpeg" alt="Cover for Ghamand Kar (From &quot;Tanhaji - The Unsung Warrior&quot;)" style="max-width:120px; height:auto;" />
       </td>
@@ -1545,7 +1545,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/vLc1P11RLWcELRJOHOKxSjw-Xp2cWvegZ9qWpTix0zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODcz/NDYwLTE1MDU3Mzkw/ODgtNTAxNS5qcGVn.jpeg" alt="Cover for Ek Villain" style="max-width:120px; height:auto;" />
       </td>
@@ -1565,7 +1565,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/6Gpu34eFQZlrAsF585Quaglnhn6GsGlJ1GFrrLa9ZG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjE5/NjUtMTU2MzI2MTA1/OC0zMzg2LmpwZWc.jpeg" alt="Cover for Barfi!" style="max-width:120px; height:auto;" />
       </td>
@@ -1605,7 +1605,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/xW-N1pIEdbmLE3-A5zjpCWdXNnVRh9WaBDEgTEzYo30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTg2/ODc3LTE2MTQyOTEw/NjMtOTA1OS5qcGVn.jpeg" alt="Cover for Qabool Hai (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/501e721ded02a2cbe8d49db1b26675b6.png" alt="Cover for Qabool Hai (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-16</td>
       <td>Karun</td>
@@ -1664,7 +1664,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td>2024-05</td>
@@ -1682,7 +1682,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -1702,7 +1702,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -1774,7 +1774,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -1791,8 +1791,9 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a38fe4b2ef440bfc08c77734aeecfd6.png" alt="Cover for Race 2" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Benny Dayal &amp; Shalmali Kholgade</td>
@@ -1812,7 +1813,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -1829,7 +1830,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -1846,7 +1847,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
       </td>
       <td></td>
@@ -1976,6 +1977,6 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
 - [desi]({{ "/tags/desi" | relative_url }})
 - [world]({{ "/tags/world" | relative_url }})
 - [pop]({{ "/tags/pop" | relative_url }})
-- [ghazal]({{ "/tags/ghazal" | relative_url }})
 - [punjabi]({{ "/tags/punjabi" | relative_url }})
+- [ghazal]({{ "/tags/ghazal" | relative_url }})
 - [dance]({{ "/tags/dance" | relative_url }})
