@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T09:09:19.048Z
+date: 2025-11-11T03:36:55.955Z
 permalink: tags/electro-house
 title: electro house
 ---
 
 ## electro house
 
-Last updated: <time datetime="2025-10-31T09:09:19.048Z">Fri Oct 31 2025 11:09:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T03:36:55.955Z">Tue Nov 11 2025 05:36:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/uUbRH_rqlRA1VwuCNcwU0miue2CG-6Wd-YdFWRGk7Lg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjgx/OS0xNjEyOTUxMTQ2/LTM5MzcuanBlZw.jpeg" alt="Cover for Dead Man Walking" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf9ad4665ed88573c7ff2d4081877c69.png" alt="Cover for Dead Man Walking" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Grant</td>
@@ -48,7 +48,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 26</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -71,9 +71,9 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/7TTPh9qkEtyUw1u8FCiCGRAbMe673UhYPRM4mJIxjNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDY3/Ny0xMTE3NzM2NDk0/LmpwZw.jpeg" alt="Cover for WE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c4691ed35327d822939a56a5a3f3605.png" alt="Cover for WE" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Winner</td>
@@ -91,7 +91,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 37</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 42</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 99</li>
         </ul>
       </td>
@@ -99,7 +99,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/Q6jIC_Pgni9o69as099Rz8eNoVV0hP0rxrpWkSFiPLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI5/ODE0LTE1OTEzOTU3/MjMtODkyOC5qcGVn.jpeg" alt="Cover for The Secret Garden" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/103be84c9a4f28f05b0fa60c53130ffc.png" alt="Cover for The Secret Garden" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Aurora</td>
@@ -121,13 +121,13 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 11</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 10</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 13</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 55</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 56</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 62</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 75</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 77</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 87</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 91</li>
         </ul>
       </td>
@@ -158,20 +158,20 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 4</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 14</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 41</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 31</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 42</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 76</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 43</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 77</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 86</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 86</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 91</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 95</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 96</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/7cvgTQD0WYRRsPvl8lRMuu1c5H8QpVP5ZAJm7eAZvxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDQx/MTUzLTE2MzAyNTc2/NTQtMjc5NS5qcGVn.jpeg" alt="Cover for Cure For Me (Vintage Culture Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -197,7 +197,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 8</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 29</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 31</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 38</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 44</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 84</li>
         </ul>
       </td>
@@ -205,7 +205,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/IYs898OaoTnyP1mfgc23sHhKcrvJIv94toDCWwaUtrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODM3/NzYyLTE2NTc0MTk0/MzItNzcxOC5qcGVn.jpeg" alt="Cover for The Devil Is Human" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b1583689defd65e3a6ff5d44c051adf.png" alt="Cover for The Devil Is Human" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-01-24</td>
       <td>Aurora</td>
@@ -228,21 +228,22 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 8</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 14</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 28</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 68</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 10</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 17</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 27</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 69</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 76</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 81</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 86</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 91</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 92</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/WYQVAZi5UcceKLtlUCoZaCG2NrsGVDpoQ1Eyj_sjZII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTcy/Njg5LTE1OTM5NzYy/NDYtMzE0OC5wbmc.jpeg" alt="Cover for Scarborough Fair" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/362dbb8ff23fcde8d95b089f40d962a1.png" alt="Cover for Scarborough Fair" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Aurora</td>
@@ -276,20 +277,20 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 5</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 4</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 15</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 38</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 49</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 40</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 51</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 55</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 72</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 72</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 74</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 83</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 84</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 85</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 86</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 87</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 89</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 93</li>
             <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 95</li>
@@ -300,9 +301,9 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
-          <img src="https://i.discogs.com/2O9W3m-d55ORsyRIazX4VLmwAjl3dU0H0miDrX-vBSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTU5/NTEtMTQ1MzU0Njgx/Ni05MDYxLnBuZw.jpeg" alt="Cover for Conqueror" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d2ebd899ab6ed502059575933dea805.png" alt="Cover for Conqueror" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Aurora</td>
@@ -330,16 +331,15 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 1</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 17</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 47</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 49</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 53</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 70</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 70</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 72</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 81</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 82</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 83</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 83</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 83</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 84</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 87</li>
@@ -350,7 +350,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/kZEx5IQ4mFcj6oLsPbsWKB__jJABPlKkkyS0Bo-khPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzY2/ODcwLTE2NDkxMTY0/MTAtNDg1Ni5qcGVn.jpeg" alt="Cover for The Woman I Am" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4729ee0f72ef41a0819e55b3caa6d639.png" alt="Cover for The Woman I Am" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Aurora</td>
@@ -378,15 +378,15 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 8</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 7</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 14</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 53</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 55</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 61</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 73</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 75</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 76</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 86</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 86</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 87</li>
@@ -398,7 +398,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/niXEIKOEyy3UvCX7RTwpD0znQ7SRgZV0Vpk_pWzGLHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTA4/OTk3LTE2Mzc3ODI3/MjEtNzQ5My5qcGVn.jpeg" alt="Cover for Midas Touch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f94511fa3f49aa8ea73c8052fd5ca4b8.png" alt="Cover for Midas Touch" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Aurora</td>
@@ -426,19 +426,19 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 8</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 11</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 24</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 65</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 12</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 23</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 66</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 70</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 78</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 82</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 83</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 88</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 89</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 90</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 90</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 90</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 90</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 90</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 92</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 96</li>
         </ul>
@@ -447,7 +447,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/yPyWiM9lgWzjZbSDI2FCSy0xGJeNe8-9c_kW0ZHstPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzYy/NDcyLTE1NTI3NzY4/OTctMTQ1Ni5qcGVn.jpeg" alt="Cover for Into the Unknown" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e465f26217d63a50b15358ef388b8af.png" alt="Cover for Into the Unknown" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Aurora</td>
@@ -469,14 +469,15 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 5</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 9</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 12</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 27</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 67</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 15</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 26</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 68</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 73</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 80</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 84</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 90</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 91</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 94</li>
         </ul>
       </td>
@@ -484,7 +485,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/GTLOZUlN9ZxgW03RDzZO8WJbUNlbzlzzCz2xOTTZeoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjY3/MTkyLTE2Mjc0NzU5/NjUtNTExNS5qcGVn.jpeg" alt="Cover for Stjernestøv" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4afaeb1e439472160b29700d3a919e72.png" alt="Cover for Stjernestøv" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Aurora</td>
@@ -507,14 +508,14 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 5</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 9</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 32</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 28</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 35</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 38</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 71</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 72</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 84</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 85</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 90</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 94</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 95</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 97</li>
         </ul>
       </td>
@@ -522,7 +523,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/9IniugbC-kcbqr-6xtToGXCWqXQwZCznbQkIhXJKyn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTA3/NzY5LTE1NTU1MTYx/MDEtOTMzNi5qcGVn.jpeg" alt="Cover for Under Stars" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c583f76db2e0fa1043d7ae6eb085ec62.png" alt="Cover for Under Stars" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-05-01</td>
       <td>Aurora</td>
@@ -552,28 +553,28 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 2</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 24</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 38</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 47</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 53</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 78</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 79</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 88</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 88</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 88</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 88</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 92</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 93</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 93</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 93</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 93</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 96</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 99</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 93</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 97</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 99</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/nhnfbgTwNgOyZjpAL1LlYaa0Bd5uH6UF87dcduTFT0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY3/NTA0LTE2NjI3Nzk0/NjMtNTUxNy5qcGVn.jpeg" alt="Cover for Hunting Shadows (Assassin’s Creed)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce7eee09e57def9a05eddbc031c40734.png" alt="Cover for Hunting Shadows (Assassin’s Creed)" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-08-27</td>
       <td>Aurora</td>
@@ -596,11 +597,11 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 19</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 39</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 42</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 46</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 64</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 66</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 77</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 79</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 86</li>
         </ul>
       </td>
@@ -608,7 +609,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/7OcESZWQVXV8XIohGD0v0X-oaK6ykrgHCL6kOs14FmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDgw/Ni0xMzA1MzA3Mzg2/LmpwZWc.jpeg" alt="Cover for Hypnotica" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c06808362dd7f7c28f845fe6d65e48ed.png" alt="Cover for Hypnotica" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-01</td>
       <td>Benny Benassi</td>
@@ -624,8 +625,9 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9bf4fec0f5bf3db23e33683a323a511.png" alt="Cover for Shining Star" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-12-18</td>
       <td>Get Far</td>
@@ -660,7 +662,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8ad494ba5504bcbb2f9155e70ad0871.png" alt="Cover for Show You Love" style="max-width:120px; height:auto;" />
       </td>
@@ -681,7 +683,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/y8DRoxVGaXTLLoT7C9QlDZLKUnmDKRtU7HVXM7iee_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDE5/MC0xMTgxNjUxMjU0/LmpwZWc.jpeg" alt="Cover for D.A.N.C.E" style="max-width:120px; height:auto;" />
       </td>
@@ -718,8 +720,27 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>1</td>
       <td>
+          <img src="https://i.discogs.com/l8tNtfDWcJRKHpEqAqP3QDsClg2aWLu7fxTpDYCnWvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQy/MDktMTIwODAyNjkx/OC5qcGVn.jpeg" alt="Cover for Bounce - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-04-01</td>
+      <td>MSTRKRFT</td>
+      <td>Bounce - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84bc8fcb1ca4404b928223e5d2bd8724.png" alt="Cover for Planisphère" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-08</td>
       <td>Justice</td>
@@ -735,24 +756,21 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 38</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 43</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/uvbK56XwwrKsrrZRxXj0wH1Wy5-kllBRVj7-gaow_Is/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzc4/MzktMTY0NjQwMDc5/MS03NTYzLmpwZWc.jpeg" alt="Cover for 4x4&#x3D;12" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31ddeb90dfa945b5c53e357d6dc71046.png" alt="Cover for 4x4&#x3D;12" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-26</td>
       <td>deadmau5</td>
       <td>4x4&#x3D;12</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
         </ul>
       </td>
       <td>
@@ -763,15 +781,15 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8aefc5606df3460dc6f5e131398a93f3.png" alt="Cover for For Lack of a Better Name" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-22</td>
       <td>deadmau5</td>
       <td>For Lack of a Better Name</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
@@ -821,6 +839,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/687e7ef677215eb621e9abd23dbcfa60.png" alt="Cover for Say My Name" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-07-21</td>
       <td>Porter Robinson</td>
@@ -839,7 +858,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/M0ZI1_IF0ZU5U5NJ129p3ik9bP8DIOI34ZElx057yx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTUx/NjgtMTQwMDk2NTIx/OC0zNzgzLmpwZWc.jpeg" alt="Cover for Kaleidoscope Remixed" style="max-width:120px; height:auto;" />
       </td>
@@ -860,9 +879,9 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/BDuVgflrMApU-B13PPl3d5iR6EIiZKR29x8M3BzEQ00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTIx/NTEtMTQ1ODQ5NTM4/MC0xMDk3LmpwZWc.jpeg" alt="Cover for Scary Monsters and Nice Sprites" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67090b491b4b419db1d14f974d836d8c.png" alt="Cover for Scary Monsters and Nice Sprites" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-22</td>
       <td>Skrillex</td>
@@ -882,6 +901,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d17077ce2824642ad55b99c72c8bcec.png" alt="Cover for Feed Me&#39;s Big Adventure" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12-06</td>
       <td>Feed Me</td>
@@ -900,7 +920,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/armVSkSqrS0YjXrBToSAawECpdbKw1OLZOWWwfpdFZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTQy/MTg1LTE2ODU0NDU2/NzgtNTgxMC5qcGVn.jpeg" alt="Cover for Let&#39;s Go" style="max-width:120px; height:auto;" />
       </td>
@@ -920,7 +940,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ec15e64f71801819f40a48d3bdfde4b.png" alt="Cover for I&#39;m Good (Blue)" style="max-width:120px; height:auto;" />
       </td>
@@ -956,7 +976,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/ZpSkAuW81u5slIa-mHEPRmOP9NKsfgBVBWyaUh83AQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzkz/MjQtMTMwODI0NDkw/Ni5qcGVn.jpeg" alt="Cover for Save The World (The Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -975,7 +995,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
       </td>
       <td>2011-05-27</td>
@@ -991,12 +1011,12 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 67</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>58</td>
       <td>
       </td>
       <td>2011-08-08</td>
@@ -1010,7 +1030,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 41</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1037,7 +1057,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/xjSZhzM54BvMCZTlAUmgClX2dt1LdxfaZuno8_PDdrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjQx/MTAtMTQwMzcwMTkw/NS01MjE2LmpwZWc.jpeg" alt="Cover for deSIrE (wITh saM smITh)" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,13 +1072,32 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 72</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>2</td>
       <td>
+      </td>
+      <td>2011-08-29</td>
+      <td>Dada Life</td>
+      <td>Happy Violence</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc0445a3263067b16e5e4cfc37df1f0c.png" alt="Cover for Spitfire" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-13</td>
       <td>Porter Robinson</td>
@@ -1077,7 +1116,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/9gz7T6hzeYMBoWZHCTRvqhkrkSUK0QPHUZ5eHwPiisI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTgz/MzgtMTM3NTg1OTQz/MC02NTQ4LmpwZWc.jpeg" alt="Cover for Lionheart" style="max-width:120px; height:auto;" />
       </td>
@@ -1097,6 +1136,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/595369770497442cb0ba04b43cdf6b1a.png" alt="Cover for 100% No Modern Talking" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-12</td>
       <td>Knife Party</td>
@@ -1108,12 +1148,12 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 32</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0110e5e0ff7fe9ecdbab0011cf1dde6a.png" alt="Cover for I Am Armando - Armando Reloaded" style="max-width:120px; height:auto;" />
       </td>
@@ -1128,14 +1168,14 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 65</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/oTogyqj9A88q5hoRzPdndqGxSjw_XsPVpfdl8YImBaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTI4/NzgtMTQ1ODExMTM2/Mi0xNjQ1LmpwZWc.jpeg" alt="Cover for Rage Valley EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f214e0af76904450933af1c50cbeee2c.png" alt="Cover for Rage Valley EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Knife Party</td>
@@ -1179,7 +1219,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/3bCYGLssQgYBSfbGShS7PLY8oOxLWVg9vwjX5ABdSsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzI5/ODgtMTMyNjE1ODM3/Ni5qcGVn.jpeg" alt="Cover for Wonderland" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9bd6926103b46d5bfab75c4d977b0bf.png" alt="Cover for Wonderland" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Steve Aoki</td>
@@ -1197,7 +1237,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
       </td>
       <td>2012-02-06</td>
@@ -1216,6 +1256,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce4b566e5a3a41f78ec535668a821603.png" alt="Cover for Icarus" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-26</td>
       <td>Madeon</td>
@@ -1231,6 +1272,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 6</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 47</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 93</li>
         </ul>
@@ -1239,6 +1281,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9134945465e34d33b86c34b4ef89666e.png" alt="Cover for Metropolis Pt. I" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-24</td>
       <td>The M Machine</td>
@@ -1255,7 +1298,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>10</td>
       <td>
       </td>
       <td>2012-06-11</td>
@@ -1272,7 +1315,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/uic94BPNq1RANwZU-rras5Wqj5S9oEwm8aHnGX9sX4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzkw/MDUtMTM1NDA3Mzc0/NS0xODc3LmpwZWc.jpeg" alt="Cover for Rocksteady" style="max-width:120px; height:auto;" />
       </td>
@@ -1295,6 +1338,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3982278a6adc46b3b539b5b38e7114de.png" alt="Cover for My Life Is A Party" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-27</td>
       <td>Italobrothers</td>
@@ -1332,7 +1376,8 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 80</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 6</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 88</li>
             <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 100</li>
         </ul>
       </td>
@@ -1340,6 +1385,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/086fc2abca2271e46744e6fc31b7de3f.png" alt="Cover for Clarity" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-02</td>
       <td>Zedd</td>
@@ -1359,8 +1405,9 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b21964c2ddf6111c661e41dd4051cfad.png" alt="Cover for 96 Months" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10</td>
       <td>Calvin Harris</td>
@@ -1374,14 +1421,14 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 42</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/QON2_PaakpzpzS1d6-oOvncqMbQUaSef_GiuCz9I03s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDgw/NjUtMTM1MjEzNTIw/MS0zOTczLmpwZWc.jpeg" alt="Cover for Candyman" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce32293df4d5b9e5f484469cda3060b0.png" alt="Cover for Candyman" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-05</td>
       <td>Zedd</td>
@@ -1399,7 +1446,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 20</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1419,12 +1466,12 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 65</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7103beffe47142ebc23e0675dd9cdd3f.png" alt="Cover for Wild Ones (feat. Sia)" style="max-width:120px; height:auto;" />
       </td>
@@ -1445,7 +1492,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
       </td>
       <td>2013-01-16</td>
@@ -1464,7 +1511,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/9gYAjY7MzurCKZTjIogOqiwekicHrTwWXHyrj2_hWfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDY4/NzctMTM3MzYzODU1/My0zMDA4LmpwZWc.jpeg" alt="Cover for Metropolis Pt. II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/117e658a846f45b6bd7c27cf248426b4.png" alt="Cover for Metropolis Pt. II" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-19</td>
       <td>The M Machine</td>
@@ -1482,7 +1529,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/V1rSdhd9PK7B0xxMNe2i0X_flltmi2oAhSYXV-EFPos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ5/NTU5LTE2NDc1NjM0/MzItMjAxNS5wbmc.jpeg" alt="Cover for Amygdala - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9a43f8fc4ab6ac2d06bf2af610c55e8.png" alt="Cover for Amygdala - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-04</td>
       <td>Ecco2k &amp; Bladee</td>
@@ -1500,10 +1547,10 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 16</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 20</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 25</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 40</li>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 70</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 75</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 92</li>
         </ul>
       </td>
@@ -1526,7 +1573,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a4741127240caac8177d2dd298311d8.png" alt="Cover for Animals" style="max-width:120px; height:auto;" />
       </td>
@@ -1540,7 +1587,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 9</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 8</li>
             <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 100</li>
         </ul>
       </td>
@@ -1548,7 +1595,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/Kh5zsnqWaFxRtRkmQsy12BENWPbphlt_VinjObPBpls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDYw/MzgtMTM3NDE3ODA3/OS0zODM5LmpwZWc.jpeg" alt="Cover for Stars Dance (Bonus Track Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22db5a9dd87ce3313840e23d3c666b0e.png" alt="Cover for Stars Dance (Bonus Track Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-23</td>
       <td>Selena Gomez</td>
@@ -1564,16 +1611,17 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 27</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 79</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 30</li>
             <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 82</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 83</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dcf813f5c007419ac1d006538f317dc3.png" alt="Cover for HIDE" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-16</td>
       <td>The Bloody Beetroots</td>
@@ -1591,7 +1639,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/WRsGRvXAPV-qNHHOunTVGOMgmw5hjN1h-WVq6FXu-X0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDI1/ODktMTM4MDEyMzMx/MS00NTM5LmpwZWc.jpeg" alt="Cover for Get Wet" style="max-width:120px; height:auto;" />
       </td>
@@ -1629,13 +1677,13 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 23</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 27</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/h0s4I0OW_K6W4LQ3nh58lXcLK2Cb7E4vlaZaD0vRH74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDg2/NDktMTM5MTE3Njg5/NS03NDUwLmpwZWc.jpeg" alt="Cover for Crackin (Martin Garrix Edit)" style="max-width:120px; height:auto;" />
       </td>
@@ -1653,7 +1701,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/UbjgSIgFs5O3YxJC5wgsvRir2jdprSjoLm0GHL4E7x8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Nzgz/MDctMTQwMjQwNDIw/Mi0zMjIwLmpwZWc.jpeg" alt="Cover for Scared To Be Lonely Remixes Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1670,13 +1718,14 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 4</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d9ccbf7bd97937241301e216d550a58.png" alt="Cover for Motion" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-31</td>
       <td>Calvin Harris</td>
@@ -1692,10 +1741,10 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 43</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 52</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 72</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 89</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 44</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 59</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 74</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 91</li>
             <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 98</li>
         </ul>
       </td>
@@ -1703,6 +1752,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da4b4d0e0f98e1b29e5b1665fafad1c1.png" alt="Cover for ZION" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-12-13</td>
       <td>Savant</td>
@@ -1718,9 +1768,9 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/iA0-DbC9BzGkKpkSPAIPHWARzJK2KDqm9h1T3Sgrrx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzAx/MzI4LTE1MjA4OTI3/NjEtOTQ4OS5qcGVn.jpeg" alt="Cover for KIKO" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fca63db7362d51ff8c995920e9be358f.png" alt="Cover for KIKO" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Panda Eyes</td>
@@ -1741,7 +1791,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 12</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 16</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 36</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 91</li>
             <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 97</li>
@@ -1749,9 +1799,9 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/1I0_okrcFAX31fy0Yt1TVx_VhIOM8JYkKybxOQGz-vU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDE4/NTctMTQwMzA1MTY2/MS02MzY5LmpwZWc.jpeg" alt="Cover for Friends On Mushrooms, Vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a18694259b4b414e8c17885ff260830f.png" alt="Cover for Friends On Mushrooms, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-06</td>
       <td>Infected Mushroom</td>
@@ -1767,7 +1817,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>57</td>
       <td>
       </td>
       <td>2015-01-19</td>
@@ -1783,8 +1833,8 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 30</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 48</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 55</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 72</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 90</li>
         </ul>
       </td>
@@ -1792,7 +1842,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/h45L79uiyyMnkeI3mgnZoINpS5-p_tvC227JPoHuNug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDEw/NjQtMTQzMTM4NzIy/OC04MjUzLmpwZWc.jpeg" alt="Cover for True Colors" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad2611fcc3979d9990efced4177d30e1.png" alt="Cover for True Colors" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-18</td>
       <td>Zedd</td>
@@ -1810,7 +1860,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/H7kdTnRmqwC5noTxv2IcpsX1Ff7442fQAvDsCy0idMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgx/MjA3LTE1OTM5ODA4/NTktNzc2My5qcGVn.jpeg" alt="Cover for Murder Song (5, 4, 3, 2, 1)" style="max-width:120px; height:auto;" />
       </td>
@@ -1824,15 +1874,15 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 20</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 28</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 31</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 40</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 57</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 59</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 59</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 71</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 59</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 73</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 74</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 76</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 76</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 76</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 78</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 85</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 85</li>
@@ -1842,7 +1892,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/DGj-6z6nFPHA4Erlz30aWIZuK9PGboKuHqdzJ6JwQ3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTg4/MDM1LTE2MzQyMjQz/OTktNjkzOC5qcGVn.jpeg" alt="Cover for Giving In To The Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b4c3a62fc5477f8502b1ed319d15e13.png" alt="Cover for Giving In To The Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-12-21</td>
       <td>Aurora</td>
@@ -1871,25 +1921,26 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 7</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 15</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 69</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 12</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 18</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 28</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 70</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 77</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 82</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 85</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 87</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 92</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 92</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 92</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 92</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 92</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 92</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 93</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 96</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/V1iMR9syLPwZH8EW9Z5Cgj-CnwaIsqwPh1uOMrmri6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzE2/NTMtMTQ1MTg5NzQ1/Ny0xODA2LmpwZWc.jpeg" alt="Cover for Bazaar (Official Sunburn Goa 2015 Anthem)" style="max-width:120px; height:auto;" />
       </td>
@@ -1907,7 +1958,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/bO2fKzobh7DUgYd3rF_ucBTizMlAr-_v2OQefR-JVDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjk1/NTktMTQ1NDU0MDMx/Ny00Njc5LnBuZw.jpeg" alt="Cover for Emergency - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1926,7 +1977,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/9H8pV08-bMmsKm1YhkQ2xxqkGxD0ShpwPo8bzBCA3bM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTg1/ODEtMTQ1OTI2MTI5/Mi0xMTA5LmpwZWc.jpeg" alt="Cover for Strangers" style="max-width:120px; height:auto;" />
       </td>
@@ -1942,12 +1993,12 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 9</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/ay_6NruBZFS_2dDqxg7IsDIxhcieGpIiRJ94k45j-14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MS0x/NTY4NDc5Mzg2LTQy/NjcuanBlZw.jpeg" alt="Cover for All Wet" style="max-width:120px; height:auto;" />
       </td>
@@ -1973,7 +2024,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/E5uZYYo4lz59AgmfnKd3aNKqeUH2ew3WQUkt3o92AWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjQ5/NDUtMTQ4NDQyMDQ1/NS0zMzc5LmpwZWc.jpeg" alt="Cover for Oracle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e677566770d8cc2ee97037954061f513.png" alt="Cover for Oracle" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-12-19</td>
       <td>Timmy Trumpet</td>
@@ -1996,7 +2047,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/F3-6XZn6E4sTbEHh-FeSxtTfRpbur1ScEBwPjHVSeX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Njgw/ODAtMTQ4NDQ3NzA5/NC03OTc3LmpwZWc.jpeg" alt="Cover for Paris" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f18437bb93f1bb7392f849ad9cd0bf74.png" alt="Cover for Paris" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>The Chainsmokers</td>
@@ -2013,16 +2064,16 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 32</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 83</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 87</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 36</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 84</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 88</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 97</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/nYt9fCkhXjT5SalSriz3jQlkjnwBetqAQhPBfpP-aZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE2/MTM4LTE0OTUyMDQ4/NDYtNjIxOS5qcGVn.jpeg" alt="Cover for Feed Me&#39;s Existential Crisis" style="max-width:120px; height:auto;" />
       </td>
@@ -2057,10 +2108,10 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 46</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 48</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 67</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 69</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 53</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 69</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 72</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 95</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 97</li>
         </ul>
@@ -2069,7 +2120,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/tSDizsF0MrFopBQTyj2Szz5QAtAvxMzCetVF7iZhLQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQx/MTE3LTE1MTYzODc0/OTctMjU4MS5qcGVn.jpeg" alt="Cover for Sick Boy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b36c416b2bf57cff70078b35de841bd8.png" alt="Cover for Sick Boy" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>The Chainsmokers</td>
@@ -2087,7 +2138,8 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 26</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 7</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 35</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 48</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 83</li>
         </ul>
@@ -2108,7 +2160,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 66</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 76</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 77</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 92</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 92</li>
             <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 97</li>
@@ -2119,7 +2171,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/6QGddIFqVN--MJ-kM025C2k1ERKFbG02ODh55i5xAok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDQw/NTgzLTE2NTkxNDM1/NTEtNTIyNC5qcGVn.jpeg" alt="Cover for A Potion For Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a17411a5af47e32cca1235823fa8107e.png" alt="Cover for A Potion For Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-17</td>
       <td>Aurora</td>
@@ -2148,28 +2200,46 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 1</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 27</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 41</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 48</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 56</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 79</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 80</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 89</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 89</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 89</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 93</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 94</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 94</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 94</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 94</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 97</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 100</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 94</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 94</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 98</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 100</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/q3lapEaXvRm6XyH0nEuL-b4aRj1rIvH6QeQrilVcGEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzcy/MDE3LTE1NDE2MzQ4/NDAtNTQ5MC5qcGVn.jpeg" alt="Cover for Magic" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-11-02</td>
+      <td>Kshmr</td>
+      <td>Magic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/0mCDYCrD0NJFha_CbXat5HDtMoVXWqYIU7UuXfQHask/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM1/NTIxLTE1NDQ4NzU3/NTktNjYwNC5qcGVn.jpeg" alt="Cover for Different World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ee30bddb52af8502fb2ce57af8db8cc.png" alt="Cover for Different World" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-14</td>
       <td>Alan Walker</td>
@@ -2209,7 +2279,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/OuO6OwZTd8ehDgoLztvPG0uC18Yh__y0Py2-54mZ_nE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDIw/MDc3LTE1NTM4NjQ1/NTctODQ0OS5qcGVn.jpeg" alt="Cover for Turn Off The Lights" style="max-width:120px; height:auto;" />
       </td>
@@ -2229,7 +2299,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/GDwyWOor8ffKKhiAXSNXA-dpetMC5xGkBiIwi5vIyGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDM2/NDk4LTE1NzQ1MDcw/MTktMTQ4NC5qcGVn.jpeg" alt="Cover for The Seed" style="max-width:120px; height:auto;" />
       </td>
@@ -2259,16 +2329,16 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 2</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 1</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 16</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 48</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 50</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 54</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 71</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 71</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 73</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 82</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 83</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 84</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 84</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 84</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 85</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 88</li>
@@ -2277,32 +2347,9 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>55</td>
-      <td>
-          <img src="https://i.discogs.com/pYK-Azb9MC3kw3q03_QYMxGcsTnL7wtU2u5lJBl2mlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU0/MTA2LTE1NzA4MTM3/NDItMzgyNC5qcGVn.jpeg" alt="Cover for Where U Are" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-10-11</td>
-      <td>Throttle</td>
-      <td>Where U Are</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-house" | relative_url }}">future house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 85</li>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/oP7cJKLNZ4qIk0j4VNuymtPbRSIW6EtUtIsUJXdX-9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTU0/MTAzLTE2NTUwNjY1/NTgtNzE5MC5qcGVn.jpeg" alt="Cover for Walking In The Air" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4df6b710cb3a1c28d592b943a240df56.png" alt="Cover for Walking In The Air" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-28</td>
       <td>Aurora</td>
@@ -2324,73 +2371,23 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 9</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 1</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 10</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 25</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 66</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 13</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 67</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 71</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 79</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 83</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 89</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 90</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>
-          <img src="https://i.discogs.com/fjev3l5OXSwrXNn2HeDsOFOJ2Ma-wTJ8v7dSuJW0JPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzg5/MjczLTE2MjcwMzY2/OTItNzMzOS5qcGVn.jpeg" alt="Cover for ASSA" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-09-22</td>
-      <td>Cignature</td>
-      <td>ASSA</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 9</li>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>
-          <img src="https://i.discogs.com/oLEZkDw0ngMjAahW8hb2JMFkBI7hXqtMfns2pmlxSoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTAy/MjIzLTE2MTE2MDU0/MjQtODA0MC5qcGVn.jpeg" alt="Cover for Somewhere New" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-01-25</td>
-      <td>Bad Computer</td>
-      <td>Somewhere New</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-house" | relative_url }}">future house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 14</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 54</li>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/iSulmIrkTTHZE1pqOtJHqhEQez4GVVL68GFgPFKiFeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ1/OTg2LTE2NDc4Nzc0/MjktNzE3Ni5qcGVn.jpeg" alt="Cover for Club Azur" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27164adb4ca7f88faea378377a77e612.png" alt="Cover for Club Azur" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-18</td>
       <td>Kungs</td>
@@ -2408,9 +2405,9 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 16</li>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 50</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 70</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 20</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 32</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 51</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 83</li>
         </ul>
       </td>
@@ -2418,7 +2415,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/-GJ5DHsfa3Cg71Up6Ju0VGZkqXz_xPgrSwb_olyg-c4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjg0/NjA3LTE3MTU3NzIy/NzQtNjM1NS5qcGVn.jpeg" alt="Cover for Messe de E-102" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9dcb58c8616a4f2ea87e3d67061babc.png" alt="Cover for Messe de E-102" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-23</td>
       <td>death&#39;s dynamic shroud</td>
@@ -2440,8 +2437,8 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 40</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 67</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 76</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 76</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 79</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 86</li>
         </ul>
       </td>
@@ -2449,7 +2446,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/KRMqcu9crmaJBoIH1wawrRieDJ5WXw93ePAgiH7Uocc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzA0/NDk5LTE2NzMxODg1/MTgtMjA3OC5qcGVn.jpeg" alt="Cover for Thrill Of The Chase" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb7ed037efe71e1e21fed483d3fffe5d.png" alt="Cover for Thrill Of The Chase" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-12-21</td>
       <td>Kygo</td>
@@ -2467,16 +2464,16 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 15</li>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 48</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 71</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 19</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 31</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/fKAXxvHw8U_9kLkDbZaQbeimxA4VIqesB-zjhH_vIEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjEx/NzY5LTE3MjUzOTI5/NjctNzY5Ni5qcGVn.jpeg" alt="Cover for Telos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62ded996234bd3521c9f99c955567bcd.png" alt="Cover for Telos" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-09-20</td>
       <td>Zedd</td>
@@ -2492,12 +2489,12 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 8</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/Nv5_W3Csrvoe4Q0gfWnuusHY_Xn7idXR_pNbxG-jhAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTYz/OTg1LTE3Mjg1ODMw/MjctODY3MS5wbmc.jpeg" alt="Cover for Brat and it’s completely different but also still brat" style="max-width:120px; height:auto;" />
       </td>
@@ -2512,8 +2509,8 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 21</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 58</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 27</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 64</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 90</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 90</li>
         </ul>
