@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T19:39:21.596Z
+date: 2025-11-11T13:49:18.073Z
 permalink: tags/bay-area
 title: bay area
 ---
 
 ## bay area
 
-Last updated: <time datetime="2025-11-08T19:39:21.596Z">Sat Nov 08 2025 21:39:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T13:49:18.073Z">Tue Nov 11 2025 15:49:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
   </thead>
   <tbody>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae2146aed9840b7a5dbe4364028ef761.png" alt="Cover for Kill Em All" style="max-width:120px; height:auto;" />
       </td>
@@ -82,8 +82,8 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 19</li>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 74</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 76</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -127,24 +127,6 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
     </tr>
     <tr>
-      <td>85</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d870f3091da3450fb2bde10283302387.png" alt="Cover for 93 &#39;til Infinity" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993</td>
-      <td>Souls of Mischief</td>
-      <td>93 &#39;til Infinity</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>62</td>
       <td>
       </td>
@@ -161,6 +143,25 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 4</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d870f3091da3450fb2bde10283302387.png" alt="Cover for 93 &#39;til Infinity" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Souls of Mischief</td>
+      <td>93 &#39;til Infinity</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -222,7 +223,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 30</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 41</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 86</li>
         </ul>
       </td>
@@ -242,7 +243,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 26</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 25</li>
             <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 96</li>
         </ul>
       </td>
@@ -270,9 +271,9 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 24</li>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 68</li>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 73</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 70</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 74</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 76</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 94</li>
             <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 99</li>
         </ul>
@@ -295,6 +296,25 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       <td>
         <ul>
             <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/Gm1Ivbem7j-0V3Z5BeEbLVZSyDGSCqbtmWuyfH-1dRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTkz/MS0xNjEwNzE0NTA0/LTUxNTguanBlZw.jpeg" alt="Cover for Deep N Tha Game" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-10-11</td>
+      <td>Lil Ric</td>
+      <td>Deep N Tha Game</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -354,7 +374,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 49</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -478,7 +498,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 5</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 4</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 57</li>
         </ul>
       </td>
@@ -502,8 +522,8 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 29</li>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 57</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 60</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 71</li>
             <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 97</li>
         </ul>
       </td>
@@ -620,7 +640,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/AdLVn_AP6M8183irwoZGUDDy72iNW31tvg7hCwu5pxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Mjkt/MTM1NTc0MTU3MS05/OTEzLmpwZWc.jpeg" alt="Cover for Inner Worlds &#x2F; Sun Stars" style="max-width:120px; height:auto;" />
       </td>
@@ -686,7 +706,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/OQig73MWGHVXfFmAyPOp_yJHlt1qYsdJ7kY7z5G1QGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDM3/NC0xMTM2OTg2ODEz/LmpwZWc.jpeg" alt="Cover for Kind of a Big Deal" style="max-width:120px; height:auto;" />
       </td>
@@ -742,7 +762,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/-tahSUTizFUZaozLfhMcQWXMHrLrEElYUIvRFbf0I4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjMw/OTctMTIwNDY4OTc2/NC5qcGVn.jpeg" alt="Cover for Charlie Hustle: The Blueprint of a Self-Made Millionaire" style="max-width:120px; height:auto;" />
       </td>
@@ -911,7 +931,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/8eGCEinNKfVTn8V4zz6kRyEpuafCpsrATmTshs6o24Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzky/OTEtMTYwNzA1NDI0/MS04MTU2LmpwZWc.jpeg" alt="Cover for Life Stories, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -942,7 +962,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 77</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 78</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 84</li>
         </ul>
       </td>
@@ -1066,7 +1086,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 54</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 55</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 69</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 98</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 100</li>
@@ -1101,7 +1121,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/ZsvczWNe43F-KDbIfeX__fnRg1eqFSoiJ3JDxl_BxcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzUw/NTctMTIyMjQ1NDI0/Ni5qcGVn.jpeg" alt="Cover for Pure Pressure" style="max-width:120px; height:auto;" />
       </td>
@@ -1253,13 +1273,13 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 7</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 81</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 18</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/PDgNxD8WCF-B8wN-VQMVRpJ2COi4_7FhLm8s7RuM78M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDUw/NTEtMTMyOTEwMTYw/My5qcGVn.jpeg" alt="Cover for Raven In My Eyes: Cocaine Raps Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1277,7 +1297,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2006-02-07</td>
@@ -1512,7 +1532,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/MXXJUtESVF89Q_gjln65Pkv5FYWMDTI-lA88u2VWblE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTE3/MDItMTE5MTQwNTE1/Ny5qcGVn.jpeg" alt="Cover for Da Baydestrian" style="max-width:120px; height:auto;" />
       </td>
@@ -1532,7 +1552,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/BXgP-UPt1qvFWg5LL5_QMhVHXqBR5ziBc2MPONsZX84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAw/MTktMTU5MzgwNDUw/NC01MTEwLmpwZWc.jpeg" alt="Cover for 4 Ever In a Day (LP)" style="max-width:120px; height:auto;" />
       </td>
@@ -1676,7 +1696,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/Y3b7FCUzDyGgcLeUwR8tB5mLXrsvhrGoEbESwOLbfGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzY0/MTgtMTI4MDQyMjUy/OS5qcGVn.jpeg" alt="Cover for Gas Nation" style="max-width:120px; height:auto;" />
       </td>
@@ -1697,7 +1717,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/HYS03N0xs6ASfJ1hl8o5K48LqMlwjtXT2-eWIp0y-q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODE2/MDMtMTQ0MDI3NDQ1/Ni0xNTAwLmpwZWc.jpeg" alt="Cover for Thizz Iz All N Da Doe Volume 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1717,8 +1737,9 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08ddc2d5ab604c459ca5cc4e611bf948.png" alt="Cover for More Pleasant Grey" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-07</td>
       <td>Under</td>
@@ -1779,29 +1800,6 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
     </tr>
     <tr>
-      <td>17</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/afa8339dcba94b6b9bd0433ef0d11483.png" alt="Cover for Mobb Boss" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-05-18</td>
-      <td>Keak Da Sneak</td>
-      <td>Mobb Boss</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 83</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>64</td>
       <td>
           <img src="https://i.discogs.com/pweVgNb9uME5d6_dxEhLEMghRZqbtNi4Icn-m7bi4WQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDc5/MzgyLTE2MjYxOTM2/MDctNzY4NC5qcGVn.jpeg" alt="Cover for Roachy Balboa" style="max-width:120px; height:auto;" />
@@ -1820,7 +1818,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2011</td>
@@ -1875,7 +1873,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/r4dbhwU5lxDqNapixGhYr_v1Lf_V1cr9iOq3NZpg248/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzIz/MzAtMTMzNDE1NDk3/My5qcGVn.jpeg" alt="Cover for Eternal" style="max-width:120px; height:auto;" />
       </td>
@@ -2029,10 +2027,10 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 19</li>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 31</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 31</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 32</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 34</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 43</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 44</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 54</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 60</li>
         </ul>
@@ -2077,7 +2075,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>

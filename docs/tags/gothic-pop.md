@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T19:38:57.188Z
+date: 2025-11-11T13:48:55.159Z
 permalink: tags/gothic-pop
 title: gothic pop
 ---
 
 ## gothic pop
 
-Last updated: <time datetime="2025-11-08T19:38:57.188Z">Sat Nov 08 2025 21:38:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T13:48:55.159Z">Tue Nov 11 2025 15:48:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,7 +50,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/i0rDsl0bcOMndJQ_QP1FdgI3LkV2_EkKvg2omTgypQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTY0/My0xNTkwMTAxODk3/LTYxMjkuanBlZw.jpeg" alt="Cover for Chologoth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f4081fb6a7c34f9ed14b5d46c8b53b8.png" alt="Cover for Chologoth" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Prayers</td>
@@ -114,6 +114,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6204dc3752e44271b96b9f1d4d62cb4a.png" alt="Cover for Kenka" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Jack or Jive</td>
@@ -132,7 +133,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/t5NT98eXMisj5-Q59_rt4uyOENWqoY0VcthBpHFbIIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI5/ODMzLTE2OTExNTE1/MjUtMzczMy5qcGVn.jpeg" alt="Cover for Goodnight, God Bless, I Love U, Delete." style="max-width:120px; height:auto;" />
       </td>
@@ -145,14 +146,14 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 56</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 56</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 71</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 59</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 60</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a11775d0f4d4917bb51657b604b5903.png" alt="Cover for Closed for Business" style="max-width:120px; height:auto;" />
       </td>
@@ -250,9 +251,9 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
-          <img src="https://i.discogs.com/_xoHu6MXFA1m1kEKw0w1T2PaAzTYHXF8cwUfZ11E0CQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDI3/ODUtMTMwNjQ3ODIw/Mi5qcGVn.jpeg" alt="Cover for intruder" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/785c7a4681af5525b2732931f4326a37.png" alt="Cover for intruder" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Gary Numan</td>
@@ -270,7 +271,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 31</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -298,7 +299,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/RUTWrkp06RVxy_YvWCdHlElZubBTVlVaHZZwcFBF-So/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODQz/OS0xMTQzODMyOTE3/LmpwZWc.jpeg" alt="Cover for Helium Vola" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c66b467a71987ae700675cd7b6299e4.png" alt="Cover for Helium Vola" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10-29</td>
       <td>Helium Vola</td>
@@ -379,7 +380,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
             <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 8</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 23</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 40</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 42</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 47</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 55</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 56</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 68</li>
@@ -436,7 +437,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 11</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 15</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 34</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 40</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 44</li>
@@ -479,6 +480,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95db0b0c956b7b3c684d7221c952eac4.png" alt="Cover for fire in the mist" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Scarlet Slipping</td>
@@ -670,12 +672,12 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 86</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td>2008-01-23</td>
@@ -732,8 +734,8 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 23</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 23</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -756,7 +758,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
       </td>
       <td>2010-11-11</td>
@@ -789,7 +791,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       <td>
         <ul>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 39</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 63</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 65</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 82</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 91</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 91</li>
@@ -850,6 +852,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -878,7 +881,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       <td>
         <ul>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 16</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 27</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 26</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 33</li>
         </ul>
       </td>
@@ -908,6 +911,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -948,6 +952,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5cafce5e257246769aa6f05c6f77724.png" alt="Cover for Night Time, My Time" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-29</td>
       <td>Sky Ferreira</td>
@@ -958,26 +963,23 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 35</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 36</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 41</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 37</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 40</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 47</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/379ebc92279ba5124e3430b9cd4dbdee.png" alt="Cover for Dollhouse" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-07-24</td>
       <td>Melanie Martinez</td>
       <td>Dollhouse</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
         </ul>
       </td>
       <td>
@@ -1078,6 +1080,24 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
     </tr>
     <tr>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de4a4fc7e6556639845752c7d05f7e60.png" alt="Cover for The Looking Glass Society" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-07-24</td>
+      <td>Ashbury Heights</td>
+      <td>The Looking Glass Society</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>35</td>
       <td>
           <img src="https://i.discogs.com/6FTOTTNlNPtXBzoVus0cq2DJIUzVkIATX_L0sSKjA-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjAw/MTQwLTE1MTkyMDYw/NzAtNDAxNy5qcGVn.jpeg" alt="Cover for The Magic Lullaby" style="max-width:120px; height:auto;" />
@@ -1099,7 +1119,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>2016-01-29</td>
@@ -1119,9 +1139,9 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/bzUKfdtleF9MVWgaAOwCiXBkwboDVG7Nb41dUYBNCzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTQ1/ODUtMTI0MTIxMDk4/NC5qcGVn.jpeg" alt="Cover for Everything Is Burning (Metanoia Addendum)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30df8edf5f77f3a5b8e86ad35eacd171.png" alt="Cover for Everything Is Burning (Metanoia Addendum)" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-02</td>
       <td>IAMX</td>
@@ -1145,9 +1165,9 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 52</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 64</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 69</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 55</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 65</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 71</li>
             <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 74</li>
         </ul>
       </td>
@@ -1230,14 +1250,14 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 28</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 33</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 33</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>2017-05-26</td>
@@ -1279,7 +1299,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/0yV7UWyVz2wxcX1o7rFT7h4iSNs8__pjyPpG4FOFz20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTc5/MzA3LTE1OTM5NTcy/OTktOTUxNi5qcGVn.jpeg" alt="Cover for Chapter 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ff050d3d2abe6ac9ae62ce573fbac96.png" alt="Cover for Chapter 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>SKYND</td>
@@ -1299,14 +1319,14 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 22</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
-          <img src="https://i.discogs.com/0yV7UWyVz2wxcX1o7rFT7h4iSNs8__pjyPpG4FOFz20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTc5/MzA3LTE1OTM5NTcy/OTktOTUxNi5qcGVn.jpeg" alt="Cover for Chapter I" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7292cee7344cdeacde28c0518541d0b.png" alt="Cover for Chapter I" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>SKYND</td>
@@ -1328,16 +1348,16 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
         <ul>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 48</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 61</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 63</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 83</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 89</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 65</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 84</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/-B9wvlKsfU5KGrpRpeezy9m_qqUylZWsnNm-Wop9AAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDI4/MTk5LTE1MTYxNDQ4/NzYtODY4My5qcGVn.jpeg" alt="Cover for To Deaf and Day" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/425564d241541bd2ccbb02d019b0a75e.png" alt="Cover for To Deaf and Day" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-01</td>
       <td>Glaare</td>
@@ -1358,14 +1378,14 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 29</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 43</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/9teVPhHACcIoZhWNhqpBlPQwenaFnPhiSui8grJouKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA4/ODI5LTE1MjY0Nzcz/MDMtNzU3Mi5qcGVn.jpeg" alt="Cover for You &amp; Me &amp; Infinity" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/707fd93ded9683a7b3c32ff4d04737ec.png" alt="Cover for You &amp; Me &amp; Infinity" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-27</td>
       <td>Cold Cave</td>
@@ -1387,16 +1407,16 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       <td>
         <ul>
             <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 55</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 70</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 72</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 74</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
-          <img src="https://i.discogs.com/FstbmwpewLK5CSSSZs2hcN2xISpJOLe3UN-lgDHvj-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI4/NzQ5LTE1MzUxMTI4/MDItNTY3OC5qcGVn.jpeg" alt="Cover for The Victorian Wallflowers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cdb52ef506487c6272e7e59305f5549.png" alt="Cover for The Victorian Wallflowers" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-24</td>
       <td>Ashbury Heights</td>
@@ -1413,15 +1433,15 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 45</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 68</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 48</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/nN0oqzvmpI1dGKQyfGe6HUiHwzwRMd52_Lkulj2QgOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTU2/NTQzLTE1NDUyOTY1/MzAtMzA3Mi5qcGVn.jpeg" alt="Cover for Pseudopop" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11a5a541e0329d1ba010549d4ce02f2a.png" alt="Cover for Pseudopop" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-20</td>
       <td>Black Nail Cabaret</td>
@@ -1446,15 +1466,15 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 2</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 20</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 22</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
-          <img src="https://i.discogs.com/VM98MjHWqhclQMKzDfGpIM0Lvlx1YQsuVmJ80Ns7WIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDY3/OTU3LTE1ODYyNjIw/MDUtMzI4Mi5qcGVn.jpeg" alt="Cover for Chapter II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/171ce22f1c920551b973f83e1c33fe8c.png" alt="Cover for Chapter II" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>SKYND</td>
@@ -1476,9 +1496,9 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
         <ul>
             <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 33</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 69</li>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 69</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 78</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 88</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 70</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 79</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 89</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 95</li>
         </ul>
       </td>
@@ -1486,7 +1506,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/tH-a5XEgn2P4dWCRm-Xn6FE75dKC6Sjb_b2nKGkTq_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDUw/NDcwLTE1NjY4NDk4/MjUtNDY2MC5qcGVn.jpeg" alt="Cover for Exposure Therapy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c2b60754668eee323aff261d979abc8.png" alt="Cover for Exposure Therapy" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-08</td>
       <td>Wingtips</td>
@@ -1509,16 +1529,16 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 48</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 52</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 64</li>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 67</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/MlUhV3ltUGMALBO3W8ClVqsjvtaUi1ezpTwMym3gRdQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzc0/NDk5LTE1OTQ5MDgz/NjItOTY4NS5qcGVn.jpeg" alt="Cover for Asking For It" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92007c28563aa616d69100e7921ed368.png" alt="Cover for Asking For It" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-08</td>
       <td>Patriarchy</td>
@@ -1538,14 +1558,14 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 41</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/7d_fm2PTD73ByBeE_Iy3vgftuI4xtFbmDnAJtkVZ6Vc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY2/NTczLTE1ODg5MjU2/NDctNTAxMS5qcGVn.jpeg" alt="Cover for Gods Verging On Sanity" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e24ef52dc22dd98e94a86cc48f03f0e6.png" alt="Cover for Gods Verging On Sanity" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-08</td>
       <td>Black Nail Cabaret</td>
@@ -1569,17 +1589,17 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 44</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 53</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 46</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 55</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 76</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 57</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
-          <img src="https://i.discogs.com/S7PATgqTFwKLJxo2K9uzKbOqAuXzID84p6hcOF2ONfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk3/NzA0LTE1OTk4MDgy/NDctNTI1Ny5wbmc.jpeg" alt="Cover for Vicious Pastimes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72bf490a885d9ca8e2f1711840aafd83.png" alt="Cover for Vicious Pastimes" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-09-04</td>
       <td>House of Harm</td>
@@ -1600,33 +1620,15 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 66</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 67</li>
             <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 80</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2020-11-30</td>
-      <td>B.A.</td>
-      <td>Myśli niedomyte</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/Eaiy_AxO-cjrxIpA4yGbg0DXMsYcYHPFKOzMWy-dGh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTE3/ODAxLTE2MTA1OTQ0/MjctMTcyNy5qcGVn.jpeg" alt="Cover for Beneath The Black Palms" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a6cd3e64ad9ed1c8dfb52f910e14618.png" alt="Cover for Beneath The Black Palms" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-01-08</td>
       <td>Blaqk Audio</td>
@@ -1648,7 +1650,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 45</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 49</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 57</li>
         </ul>
       </td>
@@ -1656,7 +1658,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/OAnfaWcNf_9724nYFFm8__PmimInEAc52Gws1Nei-sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTMy/NjA3LTE2MTM5OTA5/OTItNTAzMS5qcGVn.jpeg" alt="Cover for The Brides of the Black Room" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4a93f36fc393094ed68a85b264630cd.png" alt="Cover for The Brides of the Black Room" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-01-29</td>
       <td>The Brides of the Black Room</td>
@@ -1715,9 +1717,9 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
-          <img src="https://i.discogs.com/cFAFH1FieVuqHZuIzKlL9SzJxIpxxdSgA7Ud-b2l2DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDc1/MTQwLTE2NzY3MDUx/NDYtMTA1OS5qcGVn.jpeg" alt="Cover for New Earth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f566c9863e11488a0ea8bb37e08c1b67.png" alt="Cover for New Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-30</td>
       <td>Nuovo Testamento</td>
@@ -1740,7 +1742,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 4</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 5</li>
             <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 15</li>
             <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 19</li>
             <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 61</li>
@@ -1751,9 +1753,9 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>83</td>
       <td>
-          <img src="https://i.discogs.com/9fd02MNwz6riFXFOgeU4z75qaMECsvEpHhMJ3FunU54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODkx/NDk5LTE2MjU3ODg3/MjEtOTMzNy5qcGVn.jpeg" alt="Cover for Squaring the Circle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6974f20622c1d76efd826bdf947d948.png" alt="Cover for Squaring the Circle" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-07-09</td>
       <td>Sneaker Pimps</td>
@@ -1777,8 +1779,8 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 51</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 57</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 52</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 60</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 80</li>
         </ul>
       </td>
@@ -1786,7 +1788,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/5eSlTwTqcm_2oMNB8839b-sxzz5rXW7v-aOhDmfPY_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDA1/OTgxLTE2MzAwMTA3/MzktNDY4MC5qcGVn.jpeg" alt="Cover for Love Made Me Do It" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d140e55b875b3b76534d0945ecd885a5.png" alt="Cover for Love Made Me Do It" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-08-27</td>
       <td>Kat Von D</td>
@@ -1807,7 +1809,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 51</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 55</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 71</li>
         </ul>
       </td>
@@ -1815,7 +1817,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/1JW1IwmdIVF16QK9CiO485oJnQau7iTofAQOV0VIUKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzE2/NDkzLTE2MzIyNDA0/NDktMzAxOS5qcGVn.jpeg" alt="Cover for Cutting Room Floor" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bf5f81f8595e570fea0217eb9d04e2c.png" alt="Cover for Cutting Room Floor" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-09-03</td>
       <td>Wingtips</td>
@@ -1838,16 +1840,16 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 2</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 5</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 25</li>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 29</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>84</td>
       <td>
-          <img src="https://i.discogs.com/vaP7yxXhPhDjrvCKrHkzY9KOcKPHtevNX8D5p4RucE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDE1/MjY2LTE2MzA5NTE5/NzAtNTQ2MS5qcGVn.jpeg" alt="Cover for Unearthed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c92bf55f1c0dc033e6515e662a64ae1.png" alt="Cover for Unearthed" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-09-06</td>
       <td>Zanias</td>
@@ -1868,7 +1870,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 31</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 32</li>
             <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 59</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 73</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 95</li>
@@ -1878,7 +1880,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/xN9sPjinsifNKOyvck98_upHrYHwF62W0kzlIspVRKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDQ0/NTE4LTE2Mzc1NDE2/NjktNTEwMy5qcGVn.jpeg" alt="Cover for Blood and Fire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d69585543ac37c4feec857a5e23d3fb.png" alt="Cover for Blood and Fire" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-10-01</td>
       <td>The Brides of the Black Room</td>
@@ -1900,45 +1902,35 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>85</td>
       <td>
-          <img src="https://i.discogs.com/PH488k9wDZcgjRyf96EZ-zkgGRYG2Qef2XqxnaoYZA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzUw/NTA4LTE2NDYxNjUx/MDYtODQ3MC5qcGVn.jpeg" alt="Cover for Dazed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/865915bbe3528f7acfbd2aeb0721d292.png" alt="Cover for Dazed" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11-05</td>
       <td>Dlina Volny</td>
       <td>Dazed</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 26</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 36</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 43</li>
             <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 44</li>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 51</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 55</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 74</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 59</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/vh7kJuy2eaWYljskFMWBxZyiqJr8Xq_EiOf7zfbZfNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDA0/NjgzLTE2NDM4NzY2/MjYtNjkwNi5qcGVn.jpeg" alt="Cover for New Earth Remixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f193f9b9c578f36fa30a5e48005947b.png" alt="Cover for New Earth Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11-19</td>
       <td>Nuovo Testamento</td>
@@ -1958,7 +1950,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 47</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 49</li>
             <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 59</li>
             <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 80</li>
         </ul>
@@ -1967,7 +1959,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/-E8-AIehvk2mpD0mFaFg2hwKON3RjOoPsI4_N9KUREQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTAx/ODIyLTE2NDMyMjU1/NjEtNDc1NC5qcGVn.jpeg" alt="Cover for New Flesh" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/787403e4609874b86d8d161640fbf0b8.png" alt="Cover for New Flesh" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-12-03</td>
       <td>Love object</td>
@@ -2021,7 +2013,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/UY4DVDKe5YVY2Zn7Fi-LqB6B4UHQGuea6SFROIE9tCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzg3/MjU1LTE2NTM3NjMw/MzQtMTYzMi5qcGVn.jpeg" alt="Cover for The Decline of Pleasure" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8fc326a43981e96603029cfbb063646.png" alt="Cover for The Decline of Pleasure" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-05-27</td>
       <td>Sacred Skin</td>
@@ -2041,14 +2033,14 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 50</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/YrstRY8Qc5GkPAmRrCRhdT4kpmp3r9LSOHB-k7LngEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA2/MTQ1LTE2NTk2ODUx/OTgtNTQ0OC5qcGVn.jpeg" alt="Cover for This is My Battle Cry" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72188be101785750f05663d8acedccba.png" alt="Cover for This is My Battle Cry" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-08-05</td>
       <td>Ayria</td>
@@ -2068,14 +2060,14 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 8</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/nJqmE3YjWkKFbMZe3hEVg-26T3vKy-aiL5aCWa3D40s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTE1/ODE4LTE2NjY1MTQ5/ODQtNjkwMS5qcGVn.jpeg" alt="Cover for The Unself" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7085aea3b2b5fbb2c306ab469e312a49.png" alt="Cover for The Unself" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-08-26</td>
       <td>Patriarchy</td>
@@ -2095,14 +2087,14 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 50</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/seIdmpubMIeBThn4RDerk8g8X29BY2ek-ekB76QCgS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjE0/MTA3LTE2MjY3OTM4/NDAtNDg5My5qcGVn.jpeg" alt="Cover for Brennen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a86cf42efe70868d277d7d3ea4dc47fd.png" alt="Cover for Brennen" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-28</td>
       <td>Lyschko</td>
@@ -2129,7 +2121,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/wR30WeyA0qDSxklj2boKk6PlYYEo53x-UUaC-55bxQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzk4/MjQzLTE2NzcyNjM2/MjUtOTAxMS5qcGVn.jpeg" alt="Cover for Oceanflower" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53a54f059260ba43ace95da562d66678.png" alt="Cover for Oceanflower" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Kraków Loves Adana</td>
@@ -2158,7 +2150,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/puZNDHxajZHjW34yfDz3yFE9wOgG9elqElmnYLfZLQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTk1/NzIzLTE2NzcxMzYy/OTQtODU2OC5qcGVn.jpeg" alt="Cover for Midnight Proposals" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/583760283189881d782cca1afc812a07.png" alt="Cover for Midnight Proposals" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-02-17</td>
       <td>Jennifer Touch</td>
@@ -2183,7 +2175,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/woQ6DEoiYyBk9YAjzDWqxVss8hvXK5QN7ETdomDbKeA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjYw/NTItMTQ1MzcxNDYy/Mi02OTQ1LmpwZWc.jpeg" alt="Cover for Soap" style="max-width:120px; height:auto;" />
       </td>
@@ -2202,9 +2194,9 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
-          <img src="https://i.discogs.com/R_71tNTy0LKlj4dbmcnpg24nnh_g-AUIegWDfrDSt30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTgx/NDktMTQ3NTY1NzM0/My0yODkwLmpwZWc.jpeg" alt="Cover for Gingerbread Man" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89d3c5ba57240b2e4512df48a0e1298a.png" alt="Cover for Gingerbread Man" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-17</td>
       <td>Melanie Martinez</td>
@@ -2243,7 +2235,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/pq3x0w5eRACljeVFmVOLKWslXVDnJHlBbPImHQCda8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQy/NTUzLTE2ODgxNzUw/NjUtMzIyOC5qcGVn.jpeg" alt="Cover for Bitter Reflection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ce9f692e43b355cbf19842a5a2092df.png" alt="Cover for Bitter Reflection" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-06-30</td>
       <td>Body of Light</td>
@@ -2262,16 +2254,16 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 19</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 38</li>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 51</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 21</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 43</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/t5hznXeR4qg-XH_n-k_UdBW-WaupPVQKM8NUH4nZuJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzQy/Nzk0LTE2OTg2NTMz/MTQtNzI4Ni5qcGVn.jpeg" alt="Cover for Generation Maximum" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23f36ff9cb47318b6c2e7b760196d39f.png" alt="Cover for Generation Maximum" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-11-17</td>
       <td>Culk</td>
@@ -2294,7 +2286,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 9</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -2365,7 +2357,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/1C0rr7MHKhoPOeRm27DfWSamLEmHGMo8DMAMYllWr8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTE1/MjU0LTE3MjU1ODQx/OTQtMzk1OC5qcGVn.jpeg" alt="Cover for Triple Fire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b84dea55c3d518fcfd9cd0abedf9b6b2.png" alt="Cover for Triple Fire" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-08-23</td>
       <td>Geneva Jacuzzi</td>
@@ -2392,7 +2384,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a2b81acd410ca73d9fcb66b0a12e65e.png" alt="Cover for Promised Land" style="max-width:120px; height:auto;" />
       </td>
@@ -2439,6 +2431,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad052c4cde864f1b85bba4a950db1447.png" alt="Cover for SIRENS" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>歌者森</td>
@@ -2543,13 +2536,14 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 1</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37c725721f608946b748d20745b6ad57.png" alt="Cover for Klinge" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>TEMMIS</td>
@@ -2571,13 +2565,13 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 64</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 67</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/000babf5bc230ade0735c9184e93ea27.png" alt="Cover for Goodnight, God Bless, I Love U, Delete." style="max-width:120px; height:auto;" />
       </td>
@@ -2591,15 +2585,15 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 8</li>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 23</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 75</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 78</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 79</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 25</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 76</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 80</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -2619,7 +2613,7 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -2666,8 +2660,8 @@ Gothic pop merges the dark aesthetics and melancholic themes of gothic subcultur
 - [synthpop]({{ "/tags/synthpop" | relative_url }})
 - [dark pop]({{ "/tags/dark-pop" | relative_url }})
 - [gothic rock]({{ "/tags/gothic-rock" | relative_url }})
-- [dream pop]({{ "/tags/dream-pop" | relative_url }})
 - [electropop]({{ "/tags/electropop" | relative_url }})
+- [dream pop]({{ "/tags/dream-pop" | relative_url }})
 - [new wave]({{ "/tags/new-wave" | relative_url }})
 - [art pop]({{ "/tags/art-pop" | relative_url }})
 - [electro-industrial]({{ "/tags/electro-industrial" | relative_url }})
