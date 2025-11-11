@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:05:09.443Z
+date: 2025-11-11T13:50:29.438Z
 permalink: tags/alternativo
 title: alternativo
 ---
 
 ## alternativo
 
-Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,7 +49,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7687c5de2a2c562c361d133699ad71a.png" alt="Cover for Jane&#39;s Addiction" style="max-width:120px; height:auto;" />
       </td>
@@ -59,7 +59,6 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
         </ul>
       </td>
       <td>
@@ -68,9 +67,9 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/wbxGbYCppt26azm5bMD5e3jy3a7Qgz0loT9hI6XBefw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODcw/MTktMTQxMjQ1MzA1/MC00ODgzLmpwZWc.jpeg" alt="Cover for Doses Homeopáticas EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c5a7cfdaa224bf9b343190e877a0c5e.png" alt="Cover for Doses Homeopáticas EP" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Cinema Mudo</td>
@@ -161,7 +160,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/pxRU-hzZSB8ixh1W8_CQ_o9JpLy_GY_gTMYunSGLkYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkz/NTctMTM5OTM0Njgx/NS0yMzkyLmpwZWc.jpeg" alt="Cover for El Avión Ya Se Estrelló Y Yo Sigo Volando" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/577f4c1c31d0c541e6810cfe63bad874.png" alt="Cover for El Avión Ya Se Estrelló Y Yo Sigo Volando" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Jaime Sin Tierra</td>
@@ -183,7 +182,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 6</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 20</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 22</li>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 67</li>
             <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 75</li>
         </ul>
@@ -365,7 +364,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 39</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -478,8 +477,8 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 12</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 40</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 17</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -497,7 +496,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 46</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -650,7 +649,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/miaMCuiYZBNGpW1uY7UA6uxuxGYUtRpky-GLgbD7J5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Njkz/NTEtMTQ2MjIxMjYw/NC02MzU2LmpwZWc.jpeg" alt="Cover for Supernatural showdown" style="max-width:120px; height:auto;" />
       </td>
@@ -712,12 +711,12 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 22</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/e8c7bRkBGp5bvyVzZ-rQnWH7xKmfGYKa0rYJN3w4rx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjg0/MTctMTI5NzIxMzcw/OC5qcGVn.jpeg" alt="Cover for Water Cleans" style="max-width:120px; height:auto;" />
       </td>
@@ -800,7 +799,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/089caf39333047b6bb9fddbe29470b80.png" alt="Cover for Only Every Time" style="max-width:120px; height:auto;" />
       </td>
@@ -836,6 +835,25 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       <td>
         <ul>
             <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 13</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/u4Wd1ABeftGah9pFgRId3jWa9AXurTUph89rMcAIeIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjI4/NzAyLTE2NTI1NjUz/MjItNDcwNy5qcGVn.jpeg" alt="Cover for x tu amor" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Konfession</td>
+      <td>x tu amor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -905,7 +923,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/OqFONNqxwVO9TxpCRk4jlPUBEdZM1onItWUxhhhGWpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTIx/MDkxLTE1Mjg3MjY0/MjMtMzIxNC5qcGVn.jpeg" alt="Cover for Reverso" style="max-width:120px; height:auto;" />
       </td>
@@ -986,7 +1004,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/p_2vRxzB622x5ytSSgBcbfhPBt-G6mSSbPYusSnMbkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyOTY4/NDktMTQ1ODg1MjQw/NC0xNTc0LmpwZWc.jpeg" alt="Cover for Songs for Elaine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4ce13f930c744d4bb33f272c991cca7.png" alt="Cover for Songs for Elaine" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06</td>
       <td>Buffetlibre</td>
@@ -1029,7 +1047,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/TgVFmhwicfBdIVu6wlU3yDkt7XMinw7054KM81D74S4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDIy/NDAtMTQ3MTkyMjU5/MC0yODg0LmpwZWc.jpeg" alt="Cover for Daqui Pra Lá" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5136d122e3ce4f35cfe9b449d2c7bac7.png" alt="Cover for Daqui Pra Lá" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-09</td>
       <td>Plutão Já Foi Planeta</td>
@@ -1068,7 +1086,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/gjyVzazka9YBexN6dZzd-dCPkSg_rctvC9mBtcnbi0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTEz/OTMtMTQzODEzOTUy/OS00OTY3LmpwZWc.jpeg" alt="Cover for Male" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1ee4f66496add8eae862a9cb44fa9da.png" alt="Cover for Male" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-08-21</td>
       <td>Natalie Imbruglia</td>
@@ -1086,7 +1104,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/JIAJHosm_KruO_0PaYXl6z7e3_KtbGlgnYpxcyASfFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDY0/NjQ1LTE0OTc5NzY3/NDctNDA2OS5qcGVn.jpeg" alt="Cover for La Notte" style="max-width:120px; height:auto;" />
       </td>
@@ -1165,7 +1183,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46891855fd131570a039ef1408674270.png" alt="Cover for Doce Vientos" style="max-width:120px; height:auto;" />
       </td>
@@ -1223,7 +1241,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/xUPxt99vdacURqkiVKDaxN6CUgE_SZHd1524w8NrOiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODcw/MzQtMTQ3Nzk5MjQ2/OS05Nzg2LmpwZWc.jpeg" alt="Cover for jovens inseguros vivendo no futuro" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f5ef7efbda310d70f108b92d4303a58.png" alt="Cover for jovens inseguros vivendo no futuro" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12</td>
       <td>Garbo</td>
@@ -1242,7 +1260,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/WTuDu0o_uYPqlLOE4hGHDcMQHOX7-83dieUlBOyEO6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ3/NzgzLTE1NTQzOTQ4/NDEtMTMxOC5qcGVn.jpeg" alt="Cover for Camas Separadas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b2e502e0f0341e2c9dd67df4cb4539b.png" alt="Cover for Camas Separadas" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Daniela Spalla</td>
@@ -1265,7 +1283,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/vUAhemvymqxZcl1KxpIRRWOKPrGcX6qdfRLpdAD-w4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTM2/MzM3LTE2MjI5Mzgx/NjMtMjk2NS5qcGVn.jpeg" alt="Cover for Qué Va a Ser de Mí" style="max-width:120px; height:auto;" />
       </td>
@@ -1348,7 +1366,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/QGhWrF_JS2A2qQHUnKLpKNs_S30mI0BWFPLWS0fmWiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTMx/NTAyLTE1MzcwOTc0/ODctOTMxOC5qcGVn.jpeg" alt="Cover for Be Alright - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/772669b24c65fddda4533bdbd48cadfa.png" alt="Cover for Be Alright - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-29</td>
       <td>Dean Lewis</td>
@@ -1366,7 +1384,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/4aEcVj6M3Oete1peWGgpx5epr47HRZx4VrXwX4_yqfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjAy/NjAtMTUzMzg3MTEw/MS00NjU3LmpwZWc.jpeg" alt="Cover for Silencios" style="max-width:120px; height:auto;" />
       </td>
@@ -1467,7 +1485,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/4xUjB1O7pRvKH7kB54gwk4p7X_EuslOj9Y4peT9QiHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg0/MDQ5LTE2MTcxNDE2/NDQtOTQ1My5qcGVn.jpeg" alt="Cover for Esgrima" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8e6f8a6ced99e44801b03dd556542fe.png" alt="Cover for Esgrima" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Mafús</td>
@@ -1524,7 +1542,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/RMnBZKg4UO9GqCgPEQSeDHQrhQ4EItWDpQmY4lIZCYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzg5/NjU1LTE2MjE0MTU1/OTgtMjYzOC5qcGVn.jpeg" alt="Cover for Attraverso lo Specchio" style="max-width:120px; height:auto;" />
       </td>
@@ -1586,7 +1604,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -1627,8 +1645,8 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 40</li>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 68</li>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 41</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1700,7 +1718,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -1718,7 +1736,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1738,7 +1756,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -1757,7 +1775,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -1775,7 +1793,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -1794,7 +1812,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -1813,7 +1831,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -1831,7 +1849,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -1844,26 +1862,6 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Falcatrue</td>
-      <td>FalcaTrue</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -1913,6 +1911,7 @@ Last updated: <time datetime="2025-10-28T06:05:09.443Z">Tue Oct 28 2025 08:05:09
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e51e8f3d32ac56248effc2b7e5d304a.png" alt="Cover for Sol" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vítor Medeiros</td>
