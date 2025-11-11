@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T13:04:09.061Z
+date: 2025-11-10T21:33:26.910Z
 permalink: tags/ballad
 title: ballad
 ---
 
 ## ballad
 
-Last updated: <time datetime="2025-10-28T13:04:09.061Z">Tue Oct 28 2025 15:04:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-10T21:33:26.910Z">Mon Nov 10 2025 23:33:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -15,108 +15,2078 @@ Ballad music is a type of song that typically tells a story, often with a narrat
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 24 |  | 1958 | Irene Kral | The Band and I |
-| 31 | ![Cover](https://i.discogs.com/0X6hSejnkTkxTE13uiauF7bdmCxT8lXd9KJJGMkOPnk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTcz/NzUtMTI4Njc3NTMz/Ny5qcGVn.jpeg) | 1984-12-21 | Don Henley | Building The Perfect Beast |
-| 21 | ![Cover](https://i.discogs.com/84FOn4x-juajNaZ2KbveX8wMbhbDknuf4hznlX6VYrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTYx/NDYyLTE1OTM2NDI1/NzYtNDMyMi5wbmc.jpeg) | 1985 | Suzy | While You Were Sleeping, Pt. 4 (Original Television Soundtrack) |
-| 50 | ![Cover](https://i.discogs.com/K-VkW3kcNm_6800NTBpTwwxQo-_3P0lQzdCAC3_IST0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODA2/OTQtMTU2MTg3OTUz/My0zNTM0LmpwZWc.jpeg) | 1988 | Chris Norman | Midnight Lady |
-| 36 | ![Cover](https://i.discogs.com/hzF5fR-wQbYHdrEhNegqV4EuP1p6k_6V54NZitnYDzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODU1/MjItMTM4ODA5MjEw/My02MjgyLmpwZWc.jpeg) | 1990 | Suzy | Uncontrollably Fond OST Part.1 |
-| 41 | ![Cover](https://i.discogs.com/8Wj-PnPwfCGmbzzlgZykYZmj56fvgULSjUAQSoUU-6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTE0/ODAtMTMxNDc4NDgw/OC5qcGVn.jpeg) | 1994 | Luna | Even So |
-| 3 | ![Cover](https://i.discogs.com/oV8bOtNXTkNO9AljE641vP82KyQ_XbtXe7jBYT7Engk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzE1/MDYtMTQ2MDkwNDQ4/Ny0yMzU1LmpwZWc.jpeg) | 1995 | Scorpions | Gold Ballads |
-| 5 |  | 1997-09-23 | Alejandro Fernández | Me Estoy Enamorando |
-| 62 | ![Cover](https://i.discogs.com/XOEj38mIOafrNpNsdweaF8tns7OTTj4qijJ8dKqu7ag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTk3/NC0xMTQ5NDYyNTM5/LmpwZWc.jpeg) | 1999 | Loona | HyunJin |
-| 76 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/97fd1f4b615c1385a6144477db1bd532.png) | 1999 | Cher | Cher |
-| 48 | ![Cover](https://i.discogs.com/WVn7IWbPToCXziWwJ_wODOI2EnJK6xYKwqvYyud6veA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDkz/OC0xMjc5ODg4ODg4/LmpwZWc.jpeg) | 2000 | Incubus | Drive |
-| 49 | ![Cover](https://i.discogs.com/Cf1bJlot_e545iejWQMCu9sMnSRFTCbd6Rfu0VrKdho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTEx/MDU1LTE1NzYwMjQ3/NjAtNzYxOC5qcGVn.jpeg) | 2000 | B.I | Midnight Blue (LOVE STREAMING) |
-| 47 | ![Cover](https://i.discogs.com/7nn_vGxOwIUmop1-YLCP8Q27F15_m7vNzdxkanenxpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDEz/OTQtMTM4MDA5NTQw/MS0yMTYwLmpwZWc.jpeg) | 2004 | Chen | Dear my dear - The 2nd Mini Album |
-| 10 |  | 2006-06 | Kudai | Sobrevive |
-| 9 | ![Cover](https://i.discogs.com/8CzvZ4QP3YGPSNtckRA5qxLJVQ5etrqKpulPT4Ys5Ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDU4/NTgtMTM2ODY1MTY0/MC02MTAyLnBuZw.jpeg) | 2007-04-02 | P!nk | Dear Mr. President |
-| 20 |  | 2008 | Laura Pausini | Primavera Anticipada |
-| 34 | ![Cover](https://i.discogs.com/mAC37d4RSaY0cQZONKtQunpVB8E1Qyx6nPbYbVpBG78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTQ2/NTgtMTI1MDcxMzQ3/Ni5qcGVn.jpeg) | 2008 | Billy Joel | The Essential Billy Joel 3.0 |
-| 63 | ![Cover](https://i.discogs.com/dUaR3O633Khc5DxWxHwKeNY5Tln0kM9Smq8q5PfSLww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjI1/Nzg1LTE2NTU2NDUy/MzctNjMwMy5qcGVn.jpeg) | 2008 | DEAN | dayfly |
-| 69 | ![Cover](https://i.discogs.com/NQJhehNKzajC60Vwl9VHdvL8RNo68Gt4NE1yaDNf7Dk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTg3/NjQtMTQyNDAzMjM1/Mi05NzIwLmpwZWc.jpeg) | 2009 | Regina Spektor | The Call |
-| 55 | ![Cover](https://i.discogs.com/D4VntNDIO1MzBa9ziuWba6OlDWB-huPKfi-0-wSE200/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjUy/MDYtMTQ2NjUyNTc3/MS05MjM2LmpwZWc.jpeg) | 2009-05-18 | Daniel Merriweather | Red |
-| 11 | ![Cover](https://i.discogs.com/F8ye7AbhjGvWbj8A4GYRxtSIYanDUKGH34NmpM__dGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODQ3/MzY2LTE2MjE3NzQx/NjEtNjYwNS5qcGVn.jpeg) | 2011 | 10cm | 4.0 |
-| 73 | ![Cover](https://i.discogs.com/RwKWn6BEe25aNQocBQyaUVEjXmiYjhIRCKKgmbLOw5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTQ1/ODItMTQyNTkzMjQ2/MS0yNTY2LmpwZWc.jpeg) | 2011 | Tia Blake | Folksongs &amp; Ballads |
-| 46 | ![Cover](https://i.discogs.com/83jlLxOov3j4_NXD9tV1IrDEZak-VOCrvhb7TdFJMww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzUy/NjUtMTMzMTQ4NDUz/My5qcGVn.jpeg) | 2011-11-18 | The Saturdays | On Your Radar |
-| 91 | ![Cover](https://i.discogs.com/f3dD_7v2k9K_5qlcN3Xa_IwGofhbfjmu-yXkp8LNqjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTAz/ODQtMTM2ODEzNjk2/MC03NjUxLmpwZWc.jpeg) | 2013-05-10 | Demi Lovato | Sober |
-| 2 | ![Cover](https://i.discogs.com/8XEkDoD5xsPjhCUxsB7QEhUbHfRoIuB0b3gTWP2u5wU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODc2/NjQ1LTE2NzQ2MDYz/MzctODIzNS5qcGVn.jpeg) | 2014 | Ailee | BUTTERFLY |
-| 75 | ![Cover](https://i.discogs.com/zLWcMTq2zPZk_vL-3RFjTkGx4qeY2Ri8j4bpr3Hb2Ok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODgz/MjAtMTM5NzM1NjA0/NS00MTM2LmpwZWc.jpeg) | 2014-02-20 | Chen | April, and a flower - The 1st Mini Album |
-| 64 | ![Cover](https://i.discogs.com/AgjhwqWB8SvXH4ByNT9EJrsC5pVbchFwbFmgxL8IZ2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTc4/MDUtMTQzNzkyMjc3/OC03Njk4LmpwZWc.jpeg) | 2014-05-07 | EXO-K | MAMA (The 1st Mini Album) |
-| 14 |  | 2014-06-15 | Cher Lloyd | Sirens |
-| 57 |  | 2014-07-01 | Adam Levine | Lost Stars |
-| 82 | ![Cover](https://i.discogs.com/_tdb4EeN4QdGW2EJQRvl90Buo2g5CQHYMlogU4be8Dc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDY1/MTc1LTE0OTc5ODM2/NDktODI0NC5qcGVn.jpeg) | 2015 | Sam Smith | In The Lonely Hour (Drowning Shadows Edition) |
-| 52 | ![Cover](https://i.discogs.com/QZ1Kycq4uCkqb3nO5fvCvErOTzEgM9qivPJrbUU1V5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzQy/OTYtMTQzMDc2MTIx/My05ODg5LmpwZWc.jpeg) | 2015-03-18 | Red Velvet | The 1st Mini Album ‘Ice Cream Cake’ |
-| 65 | ![Cover](https://i.discogs.com/GSJ_sUzDlPdUCXD54h9O9tNM_dO9AFpylrA-3IhcDu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjI4/ODktMTQ1MzY1ODIz/My0yMzExLmpwZWc.jpeg) | 2015-09-17 | JongHyun | JONGHYUN The Collection &quot;Story Op.1&quot; |
-| 61 | ![Cover](https://i.discogs.com/TWxGIaSbCf0_5EA2d4UxgjcnwvwvP37W79u_wlRQvVg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjYy/NjYtMTQ2MDIxMjIz/My0zMzQ2LmpwZWc.jpeg) | 2015-10-01 | Lovelyz | Lovelyz8 |
-| 35 | ![Cover](https://i.discogs.com/jMW5cQgfWgORTj_qnllOVaqQX1eoIlguGu57eAUsph4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDQx/ODI1LTE2MDI0MDMx/MjEtOTg0OS5qcGVn.jpeg) | 2015-10-12 | BTOB | HOUR MOMENT |
-| 4 | ![Cover](https://i.discogs.com/lL3y6PYzYTeDRymoL7A5dy-1dUDkV53EQ0o2RuTo2hM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQ0/NjU4LTE1MzU0MDY5/NTItNTI4My5qcGVn.jpeg) | 2016 | I.O.I | Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 3 |
-| 30 | ![Cover](https://i.discogs.com/tNkcxOeSXcz0RczSdjRz9BAVTSfKKtbROq1NZIUB0C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgy/ODE4LTE2MDMxMjU3/MjUtODgyOS5qcGVn.jpeg) | 2016 | taeyeon | Naul &lt;Ballad Pop City&gt; |
-| 42 | ![Cover](https://i.discogs.com/tNkcxOeSXcz0RczSdjRz9BAVTSfKKtbROq1NZIUB0C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgy/ODE4LTE2MDMxMjU3/MjUtODgyOS5qcGVn.jpeg) | 2016 | taeyeon | VOICE |
-| 71 | ![Cover](https://i.discogs.com/tNkcxOeSXcz0RczSdjRz9BAVTSfKKtbROq1NZIUB0C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgy/ODE4LTE2MDMxMjU3/MjUtODgyOS5qcGVn.jpeg) | 2016 | taeyeon | 11:11 |
-| 74 | ![Cover](https://i.discogs.com/tNkcxOeSXcz0RczSdjRz9BAVTSfKKtbROq1NZIUB0C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgy/ODE4LTE2MDMxMjU3/MjUtODgyOS5qcGVn.jpeg) | 2016 | taeyeon | MY VOICE - THE 1ST ALBUM |
-| 77 | ![Cover](https://i.discogs.com/tNkcxOeSXcz0RczSdjRz9BAVTSfKKtbROq1NZIUB0C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgy/ODE4LTE2MDMxMjU3/MjUtODgyOS5qcGVn.jpeg) | 2016 | taeyeon | I - The 1st Mini Album |
-| 86 | ![Cover](https://i.discogs.com/tNkcxOeSXcz0RczSdjRz9BAVTSfKKtbROq1NZIUB0C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgy/ODE4LTE2MDMxMjU3/MjUtODgyOS5qcGVn.jpeg) | 2016 | taeyeon | Hotel del Luna (Original Television Soundtrack) Pt.3 |
-| 87 | ![Cover](https://i.discogs.com/tNkcxOeSXcz0RczSdjRz9BAVTSfKKtbROq1NZIUB0C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgy/ODE4LTE2MDMxMjU3/MjUtODgyOS5qcGVn.jpeg) | 2016 | taeyeon | To. X - The 5th Mini Album |
-| 81 | ![Cover](https://i.discogs.com/7XAXTiKdt8qgkoBfZ8tDwnTgX5O_vokwG8GzuRK7BOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTk0/MTctMTM1Mjk3NDMx/NS0yODMyLmpwZWc.jpeg) | 2016-01-25 | ZICO | Break Up 2 Make Up |
-| 43 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/68c69ac95b27db1845b92c374f47b53e.png) | 2016-02-03 | Winner | EXIT : E |
-| 78 | ![Cover](https://i.discogs.com/qTaH71yCyJgwKwzdRuU6Dntl170SSkMOrUtWemYhHZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjEy/MTItMTQ3NTg5NjI0/NS03NDk0LmpwZWc.jpeg) | 2016-02-23 | Taemin | Press It - The 1st Album |
-| 44 | ![Cover](https://i.discogs.com/wN9TV_GJWza9KJkz5N_dsQOPsiOC9G_wgvETPTcesrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODIz/MDItMTQ3MDczNDUx/NS0zMTMyLmpwZWc.jpeg) | 2016-02-24 | LADIES&#39; CODE | MYST3RY |
-| 22 | ![Cover](https://i.discogs.com/esTFeGH0BXqqOb0T-qDexYAcmCQGTc-pUEqhaMN7kqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzMz/NDEtMTQ2NDQ0NTAy/My05MjM0LmpwZWc.jpeg) | 2016-04-01 | Dami Im | Sound of Silence |
-| 40 | ![Cover](https://i.discogs.com/VpQDSenwNVO6FuOP6EVHKXQZ_0O0W0ZZ18XTsv8mCqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTEw/MTA1LTE1MTc2MTgx/MTMtNDg5Ny5qcGVn.jpeg) | 2016-04-10 | NCT U | 텐데...Timeless |
-| 25 | ![Cover](https://i.discogs.com/vPESIxka7pecMVIOWblJZI-kQeSP6HSp5MCppr2A5OE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjM1/ODctMTQ2NDExMzQy/NC0xMjE3LmpwZWc.jpeg) | 2016-04-18 | Jeong Eun Ji | Strong Woman Do Bong Soon, Pt. 1 (Original Soundtrack) |
-| 39 | ![Cover](https://i.discogs.com/a_9HqoMsB-hpl1GbuiBS31ui4J6NW5mMp2B2AP0SJ8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NzU0/ODktMTQ3MDU4NTgx/OC00NjMzLmpwZWc.jpeg) | 2016-08-03 | Tulus | Monokrom |
-| 80 | ![Cover](https://i.discogs.com/t2_SU9dDUodzMRSqtXEd-cYnRUIF4IseRRZFKOVTHvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTAz/NjM1LTE2MjM1MzIz/NTUtODkwNy5qcGVn.jpeg) | 2016-08-19 | Ariana Grande | Just Look Up (From Don’t Look Up) |
-| 15 | ![Cover](https://i.discogs.com/jEH4n0f5YxZd-mH6ytN6Jykjmn4CpRGaF6nQQhi0h1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzgw/MTItMTQxNzAxMTY4/OS0xOTU2LmpwZWc.jpeg) | 2016-11-10 | Astro | aUtUmn stOry |
-| 16 | ![Cover](https://i.discogs.com/eZSSx2nGTVvO70q8ygXGzRGv0EcgPqIwk3RE0qs2ZZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTc1/ODMtMTQ4MzQwMjY2/My02ODYzLmpwZWc.jpeg) | 2016-11-21 | VIXX | VIXX 2016 CONCEPTION KER Special Package |
-| 23 | ![Cover](https://i.discogs.com/z2aFH1XAfR92Nlw6v0vzbyIDcmoHpzWp34V7hI0GE4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDU1/NTQ3LTE0OTA4Mzgx/MDYtNzcwNy5qcGVn.jpeg) | 2016-12-13 | Pentagon | Five Senses |
-| 37 | ![Cover](https://i.discogs.com/Hl1MmomANVuCn-SMqaLTs8iHWtecP7JI5ebCA3baABU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzky/MzYxLTE1MDQzOTY3/MDMtNjkyMS5qcGVn.jpeg) | 2017 | Girl&#39;s Day | GIRL&#39;S DAY EVERYDAY No. 5 |
-| 90 | ![Cover](https://i.discogs.com/JmmmEv6XBofc9KD91hWcvsGtgKG5TrfVcWJT-y-QFWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzE4/NTgzLTE1MzI4Mzg1/NjItNjQ4NC5qcGVn.jpeg) | 2017-02-01 | Red Velvet | #Cookie Jar |
-| 33 | ![Cover](https://i.discogs.com/BpZnE3e0cp6uJHeo8JSSh1QxvzbEn2fTOTtNDHJ7xCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUy/MDU4LTE1ODY3MDQ3/MzYtMzI2MC5wbmc.jpeg) | 2017-04-05 | Winner | Fate Number For |
-| 97 | ![Cover](https://i.discogs.com/QcUqfjS6ISMfASgVvfN_VQroO8VKjIXLkz2AyqvBn0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA3/ODYxLTE0OTg4ODM3/MTAtNDUzNC5qcGVn.jpeg) | 2017-04-21 | IU | Palette |
-| 96 | ![Cover](https://i.discogs.com/9bwMoXok5wOlMbb_iDKGAoMbzO92Q28RZ0EeR2byT-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTM4/MzQxLTE2Mjg5NzU0/OTItODM1OC5qcGVn.jpeg) | 2017-07-07 | Sabrina Carpenter | Skin |
-| 88 | ![Cover](https://i.discogs.com/nxUpqqgGJ8P2akJoOIxsyDi9P8dTjdheynEo8KrokPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk1/NDk2LTE1Mzk4MDU0/MTUtOTAyNy5qcGVn.jpeg) | 2017-07-09 | Red Velvet | The Velvet - The 2nd Mini Album |
-| 38 | ![Cover](https://i.discogs.com/uyM1ryPwG7TOxh4VmvaTpTIUMxbt9KoZi31kYVG4Nb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ2/NjE5LTE1NTI0OTk4/MDgtNzMyOC5qcGVn.jpeg) | 2017-07-18 | Taemin | Flame of Love |
-| 56 | ![Cover](https://i.discogs.com/-B_upWKVY9WIAXGRe03x9aSkDAHUvECT5VsTUIG07dM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzU5/MzYwLTE1ODEwMzg1/ODgtMTEyNC5wbmc.jpeg) | 2017-09-27 | WANNA ONE | 1÷X&#x3D;1 (UNDIVIDED) |
-| 85 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0246c6344669af8931f9d5093e234adb.png) | 2017-12-06 | DAY6 | MOONRISE |
-| 29 | ![Cover](https://i.discogs.com/9K0p3RheAHflovR32kkMcoLy0vhc1rTQsf_EWSA_IPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE4/MjEwLTE1NTM4MTc1/NzItNTI3NC5qcGVn.jpeg) | 2017-12-26 | Exo | For Life - Winter Special Album, 2016 |
-| 32 | ![Cover](https://i.discogs.com/e4k3tWNTty2OzXFTiIMgowZnNstYtSGF9OJob7yvpKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTQw/MDU0LTE2MzA5NjE5/NjMtNTQzMC5wbmc.jpeg) | 2018-01-29 | Suzy | Faces of Love |
-| 79 | ![Cover](https://i.discogs.com/pwYS4KAWwTrk-6SHHkhcP5PHMOlltBn1sBaYkIfBQm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM5/NzEzLTE1MzExOTAx/MzctODc1NS5qcGVn.jpeg) | 2018-02-14 | Bad Bunny | Amorfoda |
-| 70 | ![Cover](https://i.discogs.com/NbZA9PU5FEvijDjXy9EkAinaebe1XEUZmc_BkhDsqMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDMz/NjkxLTE2MTY4NTU3/ODQtOTcwMC5qcGVn.jpeg) | 2018-03-09 | Heize | Wish &amp; Wind |
-| 53 | ![Cover](https://i.discogs.com/7TTPh9qkEtyUw1u8FCiCGRAbMe673UhYPRM4mJIxjNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDY3/Ny0xMTE3NzM2NDk0/LmpwZw.jpeg) | 2018-04-06 | Winner | EVERYD4Y |
-| 54 | ![Cover](https://i.discogs.com/59z0mdWCq7uQ8amB3M5fXxqO_GC-cVEeyqQi-x8LoPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzg1/ODk1LTE1ODE1Njc4/NDctMzk2OS5qcGVn.jpeg) | 2018-05-05 | EXO-CBX | Paper Cuts |
-| 27 | ![Cover](https://i.discogs.com/A2maEaizfbOqZLHxJ_Yv6xgOtEEY1io4-5gx75ZNyDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDQx/NTQxLTE2MDIzOTQy/MzctOTM5Ni5qcGVn.jpeg) | 2018-06-18 | BTOB | This Is Us |
-| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2025f9a35f71029446a2bfa9a041c5e4.png) | 2018-06-25 | DAY6 | Shoot Me : Youth Part 1 |
-| 100 | ![Cover](https://i.discogs.com/FBK7wHfB9qHwG-lWbwdO3nsoi-lfUbv5_KaDxjjyFC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjcw/NDUwLTE1Mzk3MjMz/NDItNjQwOS5qcGVn.jpeg) | 2018-10-16 | Billie Eilish | When The Party&#39;s Over |
-| 51 | ![Cover](https://i.discogs.com/KrtG1TAPtYKRyXmbRWdNZ4t91Ws4zqHBhuAFCf7r78s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjg5/NDk3LTE1NzE1Mzk3/OTMtMjQxOS5qcGVn.jpeg) | 2018-11-19 | WANNA ONE | 1¹¹&#x3D;1 (POWER OF DESTINY) |
-| 99 |  | 2019-01-22 | Lee So Ra | Song Request 신청곡 (feat. SUGA of BTS) |
-| 58 | ![Cover](https://i.discogs.com/OQyU6ae1dh4n5FkuIGpoECF0sBIfyblVXMxPjCXYpG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTIy/OTYwLTE1NTU4NjI5/MzEtMTY2OC5qcGVn.jpeg) | 2019-02-13 | GFRIEND | GFRIEND The 5th Mini Album &lt;PARALLEL&gt; |
-| 13 | ![Cover](https://i.discogs.com/bHRsBmnac_Oc8EEAPHqle1YJfKHuIRHRqznc2MHhzPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY2/NjY3LTE1NTY2NDI2/NjMtNTYxNi5qcGVn.jpeg) | 2019-03-19 | Park Bom | Spring |
-| 6 | ![Cover](https://i.discogs.com/bwUi3bg6XYTMeifBMqRYwdD8SKlT47l6UFbP0Z0jeX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzI4/MTY4LTE1ODA0MjY3/ODMtODIxMy5qcGVn.jpeg) | 2019-03-26 | Park Ji Hoon | O&#39;CLOCK |
-| 60 | ![Cover](https://i.discogs.com/kjVBVNy9fJYmJLl6zqHe4YMMgC_l6-8AyMxqIvQAbOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTIw/ODM1LTE1ODQxMTUz/MzEtNjI5My5qcGVn.jpeg) | 2019-04-25 | Chanyeol | SSFW |
-| 8 | ![Cover](https://i.discogs.com/mtAlJwhw87IHYkoX0H2k6iP6_I9xM5fpQn5RB58k_nk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODU2/NTgwLTE2MTU4Mjgz/ODQtMjc1OC5qcGVn.jpeg) | 2019-05-02 | Bae Jin Young | Hard To Say Goodbye |
-| 18 | ![Cover](https://i.discogs.com/a7blWr5HQO0-G7Zrl_sf3zx7pny_DwYzqR0xoSsJ53A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjI5/MjU3LTE1Nzg1MDA0/NjItMTkyNC5qcGVn.jpeg) | 2019-06-19 | Red Velvet | ‘The ReVe Festival’ Finale |
-| 67 |  | 2019-09-25 | AKMU | Sailing |
-| 68 |  | 2019-12-10 | Yerin Baek | Every letter I sent you. |
-| 84 | ![Cover](https://i.discogs.com/RIHImC9ykdW8oKt2z4z694AE43nnyGXhE3L4Y7xQ7zA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTE1/MzQ3LTE1ODc2Njc1/MDItMTg1MC5qcGVn.jpeg) | 2020-04-13 | Apink | LOOK |
-| 98 | ![Cover](https://i.discogs.com/aHxYpn2uti2Cl76eODK9OM7g6cuVVkLi-bP_w3YwHqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM4/MDI3LTE2MDA1NDM0/NTUtMTgzNC5qcGVn.jpeg) | 2020-09-17 | ECCO2k | Pollen |
-| 72 | ![Cover](https://i.discogs.com/sumyg_H_LjKA0kdJELauMbS8sNl0tP3ci1eO4I99Qe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjEy/NzYzLTE2ODUyNjMw/NTctNjI5OS5qcGVn.jpeg) | 2020-12-11 | Madison Beer | Spinnin |
-| 45 | ![Cover](https://i.discogs.com/D3TWoHIJJOwRL6OCYxw_tIGi5wgMjcHNZ4fZVThrWok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDI4/NDgtMTQ3NzU2NDQx/OC03ODM2LmpwZWc.jpeg) | 2021 | Nina Simone | Broadway-Blues-Ballads |
-| 95 | ![Cover](https://i.discogs.com/l3qWKcYAhB5ByBcUBiGtDspBcTzc7h7ww7cSmva-kok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjg3/NzIyLTE2MzkwNjcz/ODUtMTk3MS5qcGVn.jpeg) | 2021 | Olivia Rodrigo | The Hunger Games: The Ballad of Songbirds &amp; Snakes (Music From &amp; Inspired By) |
-| 59 | ![Cover](https://i.discogs.com/UhxOl4OfCQLogeNWjJz7xTBD0pxcNm3nyYe4p8CGhQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTY4/NDU2LTE2MjAwMjEy/MDYtMzQwNi5qcGVn.jpeg) | 2021-01-11 | Victon | VOICE : The future is now |
-| 1 | ![Cover](https://i.discogs.com/tuzGVJ49x3pfsLV76p2XWMM6uw-ChnmfJqHSQsPCZQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE4/MjgxLTE1NTM4MTk0/MzQtNzUzNy5qcGVn.jpeg) | 2021-02-22 | SHINee | &#39;The Story of Light&#39; Epilogue - The 6th Album |
-| 12 | ![Cover](https://i.discogs.com/pWqmWxGpOX16GIlkJeWYQ_iDOjzXbS004TrImfR4kqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjU1/OTY2LTE2NDE2NjMy/MDgtMTcxMS5qcGVn.jpeg) | 2021-05-21 | Olivia Rodrigo | SOUR |
-| 28 | ![Cover](https://i.discogs.com/6woVMRF91ZzyRZ4NVpCJejheltThxtdvliREMyE_pRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQ2/OTYtMTIyMTczMTEz/NC5qcGVn.jpeg) | 2022-01-21 | Christina Aguilera | La Fuerza |
-| 17 | ![Cover](https://i.discogs.com/ckedFZoNcadqTKABmWKev4R1pz6ZqmsU5WcD5DMKZ1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDc5/MDc5LTE1NTQ5OTIw/MjMtMzI3OC5qcGVn.jpeg) | 2022-06-30 | Heize | Star |
-| 19 |  |  | KangHyeWon | W |
-| 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/440a74fa3406c45615887e9f3f4abc1c.png) | 2022-01-04 | ONEWE | Planet Nine : VOYAGER |
-| 89 | ![Cover](https://i.discogs.com/aBCK54YHzOLBv9uPio2DdIvNyIbhd26TFaWPiKGCyjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDQ4/NjYwLTE2Njc1NjQw/ODUtOTI0NS5qcGVn.jpeg) | 2022-11-03 | Selena Gomez | My Mind &amp; Me |
-| 66 | ![Cover](https://i.discogs.com/zqn4VSS1QkeG69EhTzvdGrCClxU6QaLqlnmPrttbpSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODk1/NTkwLTE2ODI1NTk1/NTQtOTUyMS5qcGVn.jpeg) | 2023-04-26 | Halle | Part of Your World (From &quot;The Little Mermaid&quot;) |
-| 83 |  |  | LOONA&#x2F;yyxy | beauty&amp;thebeat |
-| 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/62b4ab6af98be46e321925486bc0f976.png) | 2023-09-23 | NCT | NCT RESONANCE Pt. 1 - The 2nd Album |
-| 93 | ![Cover](https://i.discogs.com/OAdBwtnAxi8FnmkSv4ZKLptzSTnO1k9wKkimsRgLRpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAx/NjA3LTE2NjM4OTQz/MjYtMzcyNi5wbmc.jpeg) | 2023-12-22 | NCT 127 | 2 Baddies - The 4th Album |
-| 92 | ![Cover](https://i.discogs.com/bq3xbKjI3CRvovbq_GICSD0f3HvGLoNw4mKQ5N8QEfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTIw/NTctMTQ0NTEyODg5/OC0yNDA1LmpwZWc.jpeg) | 2024-02-22 | IU | The Spring of Twenty |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td>1958</td>
+      <td>Irene Kral</td>
+      <td>The Band and I</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td>1977-03</td>
+      <td>Townes Van Zandt</td>
+      <td>Live at The Old Quarter, Houston, Texas</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 75</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/0X6hSejnkTkxTE13uiauF7bdmCxT8lXd9KJJGMkOPnk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTcz/NzUtMTI4Njc3NTMz/Ny5qcGVn.jpeg" alt="Cover for Building The Perfect Beast" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984-12-21</td>
+      <td>Don Henley</td>
+      <td>Building The Perfect Beast</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/84FOn4x-juajNaZ2KbveX8wMbhbDknuf4hznlX6VYrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTYx/NDYyLTE1OTM2NDI1/NzYtNDMyMi5wbmc.jpeg" alt="Cover for While You Were Sleeping, Pt. 4 (Original Television Soundtrack)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985</td>
+      <td>Suzy</td>
+      <td>While You Were Sleeping, Pt. 4 (Original Television Soundtrack)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/K-VkW3kcNm_6800NTBpTwwxQo-_3P0lQzdCAC3_IST0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODA2/OTQtMTU2MTg3OTUz/My0zNTM0LmpwZWc.jpeg" alt="Cover for Midnight Lady" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Chris Norman</td>
+      <td>Midnight Lady</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53cd19a498175fa59dc427ec5a78bdcc.png" alt="Cover for Uncontrollably Fond OST Part.1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Suzy</td>
+      <td>Uncontrollably Fond OST Part.1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a335cd14ca1313f2b4990e5a7c7f2d2.png" alt="Cover for Even So" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Luna</td>
+      <td>Even So</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/oV8bOtNXTkNO9AljE641vP82KyQ_XbtXe7jBYT7Engk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzE1/MDYtMTQ2MDkwNDQ4/Ny0yMzU1LmpwZWc.jpeg" alt="Cover for Gold Ballads" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Scorpions</td>
+      <td>Gold Ballads</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td>1997-09-23</td>
+      <td>Alejandro Fernández</td>
+      <td>Me Estoy Enamorando</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/XOEj38mIOafrNpNsdweaF8tns7OTTj4qijJ8dKqu7ag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTk3/NC0xMTQ5NDYyNTM5/LmpwZWc.jpeg" alt="Cover for HyunJin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Loona</td>
+      <td>HyunJin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97fd1f4b615c1385a6144477db1bd532.png" alt="Cover for Cher" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Cher</td>
+      <td>Cher</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 41</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/WVn7IWbPToCXziWwJ_wODOI2EnJK6xYKwqvYyud6veA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDkz/OC0xMjc5ODg4ODg4/LmpwZWc.jpeg" alt="Cover for Drive" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Incubus</td>
+      <td>Drive</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/Cf1bJlot_e545iejWQMCu9sMnSRFTCbd6Rfu0VrKdho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTEx/MDU1LTE1NzYwMjQ3/NjAtNzYxOC5qcGVn.jpeg" alt="Cover for Midnight Blue (LOVE STREAMING)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>B.I</td>
+      <td>Midnight Blue (LOVE STREAMING)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/7nn_vGxOwIUmop1-YLCP8Q27F15_m7vNzdxkanenxpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDEz/OTQtMTM4MDA5NTQw/MS0yMTYwLmpwZWc.jpeg" alt="Cover for Dear my dear - The 2nd Mini Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Chen</td>
+      <td>Dear my dear - The 2nd Mini Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td>2006-06</td>
+      <td>Kudai</td>
+      <td>Sobrevive</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 27</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 83</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/8CzvZ4QP3YGPSNtckRA5qxLJVQ5etrqKpulPT4Ys5Ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDU4/NTgtMTM2ODY1MTY0/MC02MTAyLnBuZw.jpeg" alt="Cover for Dear Mr. President" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-04-02</td>
+      <td>P!nk</td>
+      <td>Dear Mr. President</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f97a942099e27628050d36ac454f089.png" alt="Cover for Primavera Anticipada" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Laura Pausini</td>
+      <td>Primavera Anticipada</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 91</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/mAC37d4RSaY0cQZONKtQunpVB8E1Qyx6nPbYbVpBG78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTQ2/NTgtMTI1MDcxMzQ3/Ni5qcGVn.jpeg" alt="Cover for The Essential Billy Joel 3.0" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Billy Joel</td>
+      <td>The Essential Billy Joel 3.0</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/dUaR3O633Khc5DxWxHwKeNY5Tln0kM9Smq8q5PfSLww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjI1/Nzg1LTE2NTU2NDUy/MzctNjMwMy5qcGVn.jpeg" alt="Cover for dayfly" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>DEAN</td>
+      <td>dayfly</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/NQJhehNKzajC60Vwl9VHdvL8RNo68Gt4NE1yaDNf7Dk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTg3/NjQtMTQyNDAzMjM1/Mi05NzIwLmpwZWc.jpeg" alt="Cover for The Call" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Regina Spektor</td>
+      <td>The Call</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/D4VntNDIO1MzBa9ziuWba6OlDWB-huPKfi-0-wSE200/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjUy/MDYtMTQ2NjUyNTc3/MS05MjM2LmpwZWc.jpeg" alt="Cover for Red" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-05-18</td>
+      <td>Daniel Merriweather</td>
+      <td>Red</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/RwKWn6BEe25aNQocBQyaUVEjXmiYjhIRCKKgmbLOw5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTQ1/ODItMTQyNTkzMjQ2/MS0yNTY2LmpwZWc.jpeg" alt="Cover for Folksongs &amp; Ballads" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Tia Blake</td>
+      <td>Folksongs &amp; Ballads</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 92</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 96</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 100</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/749368e7be468287924a86785eb583d2.png" alt="Cover for 4.0" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>10cm</td>
+      <td>4.0</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53860ae444acaa3bb8331265e793feef.png" alt="Cover for On Your Radar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-11-18</td>
+      <td>The Saturdays</td>
+      <td>On Your Radar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f035cead232bad07c266f62da764aea.png" alt="Cover for Sober" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-05-10</td>
+      <td>Demi Lovato</td>
+      <td>Sober</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/8XEkDoD5xsPjhCUxsB7QEhUbHfRoIuB0b3gTWP2u5wU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODc2/NjQ1LTE2NzQ2MDYz/MzctODIzNS5qcGVn.jpeg" alt="Cover for BUTTERFLY" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Ailee</td>
+      <td>BUTTERFLY</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/zLWcMTq2zPZk_vL-3RFjTkGx4qeY2Ri8j4bpr3Hb2Ok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODgz/MjAtMTM5NzM1NjA0/NS00MTM2LmpwZWc.jpeg" alt="Cover for April, and a flower - The 1st Mini Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-02-20</td>
+      <td>Chen</td>
+      <td>April, and a flower - The 1st Mini Album</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1345954037343d6c38377cf5d220c6e.png" alt="Cover for MAMA (The 1st Mini Album)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-05-07</td>
+      <td>EXO-K</td>
+      <td>MAMA (The 1st Mini Album)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td>2014-06-15</td>
+      <td>Cher Lloyd</td>
+      <td>Sirens</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>2014-07-01</td>
+      <td>Adam Levine</td>
+      <td>Lost Stars</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/_tdb4EeN4QdGW2EJQRvl90Buo2g5CQHYMlogU4be8Dc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDY1/MTc1LTE0OTc5ODM2/NDktODI0NC5qcGVn.jpeg" alt="Cover for In The Lonely Hour (Drowning Shadows Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Sam Smith</td>
+      <td>In The Lonely Hour (Drowning Shadows Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8077c6c49e2141dfc15ad6c1ef740ab2.png" alt="Cover for The 1st Mini Album ‘Ice Cream Cake’" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-03-18</td>
+      <td>Red Velvet</td>
+      <td>The 1st Mini Album ‘Ice Cream Cake’</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/GSJ_sUzDlPdUCXD54h9O9tNM_dO9AFpylrA-3IhcDu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjI4/ODktMTQ1MzY1ODIz/My0yMzExLmpwZWc.jpeg" alt="Cover for JONGHYUN The Collection &quot;Story Op.1&quot;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-09-17</td>
+      <td>JongHyun</td>
+      <td>JONGHYUN The Collection &quot;Story Op.1&quot;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/jMW5cQgfWgORTj_qnllOVaqQX1eoIlguGu57eAUsph4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDQx/ODI1LTE2MDI0MDMx/MjEtOTg0OS5qcGVn.jpeg" alt="Cover for HOUR MOMENT" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-10-12</td>
+      <td>BTOB</td>
+      <td>HOUR MOMENT</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/tNkcxOeSXcz0RczSdjRz9BAVTSfKKtbROq1NZIUB0C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgy/ODE4LTE2MDMxMjU3/MjUtODgyOS5qcGVn.jpeg" alt="Cover for 11:11" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>taeyeon</td>
+      <td>11:11</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/tNkcxOeSXcz0RczSdjRz9BAVTSfKKtbROq1NZIUB0C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgy/ODE4LTE2MDMxMjU3/MjUtODgyOS5qcGVn.jpeg" alt="Cover for I - The 1st Mini Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>taeyeon</td>
+      <td>I - The 1st Mini Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 48</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/tNkcxOeSXcz0RczSdjRz9BAVTSfKKtbROq1NZIUB0C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgy/ODE4LTE2MDMxMjU3/MjUtODgyOS5qcGVn.jpeg" alt="Cover for Naul &lt;Ballad Pop City&gt;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>taeyeon</td>
+      <td>Naul &lt;Ballad Pop City&gt;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/tNkcxOeSXcz0RczSdjRz9BAVTSfKKtbROq1NZIUB0C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgy/ODE4LTE2MDMxMjU3/MjUtODgyOS5qcGVn.jpeg" alt="Cover for VOICE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>taeyeon</td>
+      <td>VOICE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/tNkcxOeSXcz0RczSdjRz9BAVTSfKKtbROq1NZIUB0C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgy/ODE4LTE2MDMxMjU3/MjUtODgyOS5qcGVn.jpeg" alt="Cover for MY VOICE - THE 1ST ALBUM" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>taeyeon</td>
+      <td>MY VOICE - THE 1ST ALBUM</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/tNkcxOeSXcz0RczSdjRz9BAVTSfKKtbROq1NZIUB0C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgy/ODE4LTE2MDMxMjU3/MjUtODgyOS5qcGVn.jpeg" alt="Cover for Hotel del Luna (Original Television Soundtrack) Pt.3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>taeyeon</td>
+      <td>Hotel del Luna (Original Television Soundtrack) Pt.3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/tNkcxOeSXcz0RczSdjRz9BAVTSfKKtbROq1NZIUB0C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgy/ODE4LTE2MDMxMjU3/MjUtODgyOS5qcGVn.jpeg" alt="Cover for To. X - The 5th Mini Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>taeyeon</td>
+      <td>To. X - The 5th Mini Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/lL3y6PYzYTeDRymoL7A5dy-1dUDkV53EQ0o2RuTo2hM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQ0/NjU4LTE1MzU0MDY5/NTItNTI4My5qcGVn.jpeg" alt="Cover for Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>I.O.I</td>
+      <td>Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 3</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e4fb278237a23f8827f132c894cb856.png" alt="Cover for Break Up 2 Make Up" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-01-25</td>
+      <td>ZICO</td>
+      <td>Break Up 2 Make Up</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/qTaH71yCyJgwKwzdRuU6Dntl170SSkMOrUtWemYhHZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjEy/MTItMTQ3NTg5NjI0/NS03NDk0LmpwZWc.jpeg" alt="Cover for Press It - The 1st Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-02-23</td>
+      <td>Taemin</td>
+      <td>Press It - The 1st Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c63bf05bbe2a27f9e2ccd3602b29244b.png" alt="Cover for Sound of Silence" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-04-01</td>
+      <td>Dami Im</td>
+      <td>Sound of Silence</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/VpQDSenwNVO6FuOP6EVHKXQZ_0O0W0ZZ18XTsv8mCqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTEw/MTA1LTE1MTc2MTgx/MTMtNDg5Ny5qcGVn.jpeg" alt="Cover for 텐데...Timeless" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-04-10</td>
+      <td>NCT U</td>
+      <td>텐데...Timeless</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/vPESIxka7pecMVIOWblJZI-kQeSP6HSp5MCppr2A5OE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjM1/ODctMTQ2NDExMzQy/NC0xMjE3LmpwZWc.jpeg" alt="Cover for Strong Woman Do Bong Soon, Pt. 1 (Original Soundtrack)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-04-18</td>
+      <td>Jeong Eun Ji</td>
+      <td>Strong Woman Do Bong Soon, Pt. 1 (Original Soundtrack)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/a_9HqoMsB-hpl1GbuiBS31ui4J6NW5mMp2B2AP0SJ8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NzU0/ODktMTQ3MDU4NTgx/OC00NjMzLmpwZWc.jpeg" alt="Cover for Monokrom" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-08-03</td>
+      <td>Tulus</td>
+      <td>Monokrom</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a> # 100</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/t2_SU9dDUodzMRSqtXEd-cYnRUIF4IseRRZFKOVTHvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTAz/NjM1LTE2MjM1MzIz/NTUtODkwNy5qcGVn.jpeg" alt="Cover for Just Look Up (From Don’t Look Up)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-08-19</td>
+      <td>Ariana Grande</td>
+      <td>Just Look Up (From Don’t Look Up)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/jEH4n0f5YxZd-mH6ytN6Jykjmn4CpRGaF6nQQhi0h1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzgw/MTItMTQxNzAxMTY4/OS0xOTU2LmpwZWc.jpeg" alt="Cover for aUtUmn stOry" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-11-10</td>
+      <td>Astro</td>
+      <td>aUtUmn stOry</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04f440daf98226183cd57fb51026fe35.png" alt="Cover for VIXX 2016 CONCEPTION KER Special Package" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-11-21</td>
+      <td>VIXX</td>
+      <td>VIXX 2016 CONCEPTION KER Special Package</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55e7705e17b5629ba157cc73452b71ad.png" alt="Cover for Five Senses" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-12-13</td>
+      <td>Pentagon</td>
+      <td>Five Senses</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 37</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 39</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a17b7ec5cab70d93dba4209b83e6223d.png" alt="Cover for GIRL&#x60;S DAY EVERYDAY #5" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Girl&#39;s Day</td>
+      <td>GIRL&#x60;S DAY EVERYDAY #5</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2b321a1fb05e8c1c5a4930e21132bc6.png" alt="Cover for GIRL&#39;S DAY EVERYDAY No. 5" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Girl&#39;s Day</td>
+      <td>GIRL&#39;S DAY EVERYDAY No. 5</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b507591a4b924b56340dfb66428ecc5.png" alt="Cover for #Cookie Jar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-02-01</td>
+      <td>Red Velvet</td>
+      <td>#Cookie Jar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/BpZnE3e0cp6uJHeo8JSSh1QxvzbEn2fTOTtNDHJ7xCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUy/MDU4LTE1ODY3MDQ3/MzYtMzI2MC5wbmc.jpeg" alt="Cover for Fate Number For" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-04-05</td>
+      <td>Winner</td>
+      <td>Fate Number For</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 20</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8d279f03485bc6df179d0fcf4bb08f0.png" alt="Cover for Palette" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-04-21</td>
+      <td>IU</td>
+      <td>Palette</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/9bwMoXok5wOlMbb_iDKGAoMbzO92Q28RZ0EeR2byT-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTM4/MzQxLTE2Mjg5NzU0/OTItODM1OC5qcGVn.jpeg" alt="Cover for Skin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-07-07</td>
+      <td>Sabrina Carpenter</td>
+      <td>Skin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3edcc0695a7b1f64133a196975ff6ca1.png" alt="Cover for The Velvet - The 2nd Mini Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-07-09</td>
+      <td>Red Velvet</td>
+      <td>The Velvet - The 2nd Mini Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/uyM1ryPwG7TOxh4VmvaTpTIUMxbt9KoZi31kYVG4Nb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ2/NjE5LTE1NTI0OTk4/MDgtNzMyOC5qcGVn.jpeg" alt="Cover for Flame of Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-07-18</td>
+      <td>Taemin</td>
+      <td>Flame of Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 49</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 50</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/-B_upWKVY9WIAXGRe03x9aSkDAHUvECT5VsTUIG07dM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzU5/MzYwLTE1ODEwMzg1/ODgtMTEyNC5wbmc.jpeg" alt="Cover for 1÷X&#x3D;1 (UNDIVIDED)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-09-27</td>
+      <td>WANNA ONE</td>
+      <td>1÷X&#x3D;1 (UNDIVIDED)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0246c6344669af8931f9d5093e234adb.png" alt="Cover for MOONRISE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-12-06</td>
+      <td>DAY6</td>
+      <td>MOONRISE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/9K0p3RheAHflovR32kkMcoLy0vhc1rTQsf_EWSA_IPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE4/MjEwLTE1NTM4MTc1/NzItNTI3NC5qcGVn.jpeg" alt="Cover for For Life - Winter Special Album, 2016" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-12-26</td>
+      <td>Exo</td>
+      <td>For Life - Winter Special Album, 2016</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/324d6ef0802b2b4a9117199ee658b136.png" alt="Cover for Faces of Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-01-29</td>
+      <td>Suzy</td>
+      <td>Faces of Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/pwYS4KAWwTrk-6SHHkhcP5PHMOlltBn1sBaYkIfBQm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM5/NzEzLTE1MzExOTAx/MzctODc1NS5qcGVn.jpeg" alt="Cover for Amorfoda" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-02-14</td>
+      <td>Bad Bunny</td>
+      <td>Amorfoda</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfe4ff673f166f397f35c26567cb2b5f.png" alt="Cover for Wish &amp; Wind" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-03-09</td>
+      <td>Heize</td>
+      <td>Wish &amp; Wind</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/7TTPh9qkEtyUw1u8FCiCGRAbMe673UhYPRM4mJIxjNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDY3/Ny0xMTE3NzM2NDk0/LmpwZw.jpeg" alt="Cover for EVERYD4Y" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-04-06</td>
+      <td>Winner</td>
+      <td>EVERYD4Y</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/59z0mdWCq7uQ8amB3M5fXxqO_GC-cVEeyqQi-x8LoPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzg1/ODk1LTE1ODE1Njc4/NDctMzk2OS5qcGVn.jpeg" alt="Cover for Paper Cuts" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-05-05</td>
+      <td>EXO-CBX</td>
+      <td>Paper Cuts</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/395b845047722c520456c05d27500601.png" alt="Cover for &#39;The Story of Light&#39; EP.3 - The 6th Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-06-11</td>
+      <td>SHINee</td>
+      <td>&#39;The Story of Light&#39; EP.3 - The 6th Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/A2maEaizfbOqZLHxJ_Yv6xgOtEEY1io4-5gx75ZNyDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDQx/NTQxLTE2MDIzOTQy/MzctOTM5Ni5qcGVn.jpeg" alt="Cover for This Is Us" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-06-18</td>
+      <td>BTOB</td>
+      <td>This Is Us</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2025f9a35f71029446a2bfa9a041c5e4.png" alt="Cover for Shoot Me : Youth Part 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-06-25</td>
+      <td>DAY6</td>
+      <td>Shoot Me : Youth Part 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/k-rock" | relative_url }}">k-rock</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/FBK7wHfB9qHwG-lWbwdO3nsoi-lfUbv5_KaDxjjyFC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjcw/NDUwLTE1Mzk3MjMz/NDItNjQwOS5qcGVn.jpeg" alt="Cover for When The Party&#39;s Over" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-10-16</td>
+      <td>Billie Eilish</td>
+      <td>When The Party&#39;s Over</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 45</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 91</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/019e80013dec36c5d561baaeef3510af.png" alt="Cover for UNLOCK" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-10-17</td>
+      <td>DAY6</td>
+      <td>UNLOCK</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/KrtG1TAPtYKRyXmbRWdNZ4t91Ws4zqHBhuAFCf7r78s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjg5/NDk3LTE1NzE1Mzk3/OTMtMjQxOS5qcGVn.jpeg" alt="Cover for 1¹¹&#x3D;1 (POWER OF DESTINY)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-11-19</td>
+      <td>WANNA ONE</td>
+      <td>1¹¹&#x3D;1 (POWER OF DESTINY)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>2019-01-22</td>
+      <td>Lee So Ra</td>
+      <td>Song Request 신청곡 (feat. SUGA of BTS)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/OQyU6ae1dh4n5FkuIGpoECF0sBIfyblVXMxPjCXYpG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTIy/OTYwLTE1NTU4NjI5/MzEtMTY2OC5qcGVn.jpeg" alt="Cover for GFRIEND The 5th Mini Album &lt;PARALLEL&gt;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-02-13</td>
+      <td>GFRIEND</td>
+      <td>GFRIEND The 5th Mini Album &lt;PARALLEL&gt;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b79ca81306094599dc158d2703982f8.png" alt="Cover for Spring" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-03-19</td>
+      <td>Park Bom</td>
+      <td>Spring</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3e7598c5597505db760115d2c888d4c.png" alt="Cover for O&#39;CLOCK" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-03-26</td>
+      <td>Park Ji Hoon</td>
+      <td>O&#39;CLOCK</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/kjVBVNy9fJYmJLl6zqHe4YMMgC_l6-8AyMxqIvQAbOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTIw/ODM1LTE1ODQxMTUz/MzEtNjI5My5qcGVn.jpeg" alt="Cover for SSFW" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-04-25</td>
+      <td>Chanyeol</td>
+      <td>SSFW</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37ff550a4ad90f1a3fa55cf5bd20641c.png" alt="Cover for Hard To Say Goodbye" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-05-02</td>
+      <td>Bae Jin Young</td>
+      <td>Hard To Say Goodbye</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/541b479201587185b1d10e0b1e7c2980.png" alt="Cover for ‘The ReVe Festival’ Finale" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-06-19</td>
+      <td>Red Velvet</td>
+      <td>‘The ReVe Festival’ Finale</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td>2019-09-25</td>
+      <td>AKMU</td>
+      <td>Sailing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96e5c55708a41462ef9cf9acdcfeb1f2.png" alt="Cover for Every letter I sent you." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-12-10</td>
+      <td>Yerin Baek</td>
+      <td>Every letter I sent you.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/aHxYpn2uti2Cl76eODK9OM7g6cuVVkLi-bP_w3YwHqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM4/MDI3LTE2MDA1NDM0/NTUtMTgzNC5qcGVn.jpeg" alt="Cover for Pollen" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-09-17</td>
+      <td>ECCO2k</td>
+      <td>Pollen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 78</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 91</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 93</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 99</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/sumyg_H_LjKA0kdJELauMbS8sNl0tP3ci1eO4I99Qe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjEy/NzYzLTE2ODUyNjMw/NTctNjI5OS5qcGVn.jpeg" alt="Cover for Spinnin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-12-11</td>
+      <td>Madison Beer</td>
+      <td>Spinnin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/D3TWoHIJJOwRL6OCYxw_tIGi5wgMjcHNZ4fZVThrWok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDI4/NDgtMTQ3NzU2NDQx/OC03ODM2LmpwZWc.jpeg" alt="Cover for Broadway-Blues-Ballads" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>Nina Simone</td>
+      <td>Broadway-Blues-Ballads</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 17</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 30</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/l3qWKcYAhB5ByBcUBiGtDspBcTzc7h7ww7cSmva-kok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjg3/NzIyLTE2MzkwNjcz/ODUtMTk3MS5qcGVn.jpeg" alt="Cover for The Hunger Games: The Ballad of Songbirds &amp; Snakes (Music From &amp; Inspired By)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>Olivia Rodrigo</td>
+      <td>The Hunger Games: The Ballad of Songbirds &amp; Snakes (Music From &amp; Inspired By)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 72</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 73</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/UhxOl4OfCQLogeNWjJz7xTBD0pxcNm3nyYe4p8CGhQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTY4/NDU2LTE2MjAwMjEy/MDYtMzQwNi5qcGVn.jpeg" alt="Cover for VOICE : The future is now" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-01-11</td>
+      <td>Victon</td>
+      <td>VOICE : The future is now</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45c3fa7a19c9da380a54683c3f6b89c7.png" alt="Cover for &#39;The Story of Light&#39; Epilogue - The 6th Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-02-22</td>
+      <td>SHINee</td>
+      <td>&#39;The Story of Light&#39; Epilogue - The 6th Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9da8add22ca31771a440d2a6f7615f6d.png" alt="Cover for SOUR" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-05-21</td>
+      <td>Olivia Rodrigo</td>
+      <td>SOUR</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 54</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 57</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 70</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 81</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 92</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 93</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/440a74fa3406c45615887e9f3f4abc1c.png" alt="Cover for Planet Nine : VOYAGER" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-01-04</td>
+      <td>ONEWE</td>
+      <td>Planet Nine : VOYAGER</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b00ee3904591323d0dd2078ab2836a3.png" alt="Cover for La Fuerza" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-01-21</td>
+      <td>Christina Aguilera</td>
+      <td>La Fuerza</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 11</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 50</li>
+            <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91c8ff0bafbf7d0749c523b2b72b3417.png" alt="Cover for Star" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-06-30</td>
+      <td>Heize</td>
+      <td>Star</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/aBCK54YHzOLBv9uPio2DdIvNyIbhd26TFaWPiKGCyjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDQ4/NjYwLTE2Njc1NjQw/ODUtOTI0NS5qcGVn.jpeg" alt="Cover for My Mind &amp; Me" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-11-03</td>
+      <td>Selena Gomez</td>
+      <td>My Mind &amp; Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 41</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/zqn4VSS1QkeG69EhTzvdGrCClxU6QaLqlnmPrttbpSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODk1/NTkwLTE2ODI1NTk1/NTQtOTUyMS5qcGVn.jpeg" alt="Cover for Part of Your World (From &quot;The Little Mermaid&quot;)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-04-26</td>
+      <td>Halle</td>
+      <td>Part of Your World (From &quot;The Little Mermaid&quot;)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62b4ab6af98be46e321925486bc0f976.png" alt="Cover for NCT RESONANCE Pt. 1 - The 2nd Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-09-23</td>
+      <td>NCT</td>
+      <td>NCT RESONANCE Pt. 1 - The 2nd Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/OAdBwtnAxi8FnmkSv4ZKLptzSTnO1k9wKkimsRgLRpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAx/NjA3LTE2NjM4OTQz/MjYtMzcyNi5wbmc.jpeg" alt="Cover for 2 Baddies - The 4th Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-12-22</td>
+      <td>NCT 127</td>
+      <td>2 Baddies - The 4th Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f01bebd58ff62a8bad4074df529043c.png" alt="Cover for The Spring of Twenty" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-02-22</td>
+      <td>IU</td>
+      <td>The Spring of Twenty</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td></td>
+      <td>KangHyeWon</td>
+      <td>W</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98901572d410159a73ae05ca95663c13.png" alt="Cover for beauty&amp;thebeat" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>LOONA&#x2F;yyxy</td>
+      <td>beauty&amp;thebeat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+      </td>
+      <td></td>
+      <td>I.O.I</td>
+      <td>Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
@@ -126,7 +2096,7 @@ Ballad music is a type of song that typically tells a story, often with a narrat
 - [acoustic]({{ "/tags/acoustic" | relative_url }})
 - [korean]({{ "/tags/korean" | relative_url }})
 - [rnb]({{ "/tags/rnb" | relative_url }})
-- [dance]({{ "/tags/dance" | relative_url }})
 - [folk]({{ "/tags/folk" | relative_url }})
+- [dance]({{ "/tags/dance" | relative_url }})
 - [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
 - [japanese]({{ "/tags/japanese" | relative_url }})
