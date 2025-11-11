@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-18T16:44:19.333Z
+date: 2025-11-11T13:45:32.785Z
 permalink: tags/electronic-pop
 title: electronic pop
 ---
 
 ## electronic pop
 
-Last updated: <time datetime="2025-10-18T16:44:19.333Z">Sat Oct 18 2025 19:44:19 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-11T13:45:32.785Z">Tue Nov 11 2025 15:45:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,8 +29,9 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
   </thead>
   <tbody>
     <tr>
-      <td>50</td>
+      <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28f572ac3e92bdf0999319c0fd28c008.png" alt="Cover for The Electric Lucifer" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Bruce Haack</td>
@@ -47,7 +48,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/aSBkZo2SfaBywVYJwSav0yQhsr3lX4s87todQGzkeEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTA3/NDItMTQ3NjM3NDI5/Ny04Nzg2LmpwZWc.jpeg" alt="Cover for Receipts" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +67,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/vBzC0zK-t8ulU7Fm4LFOKwkpvzrSbIf5PQEcZ4l45B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzE1/NS0xMTg0ODMzNTA1/LmpwZWc.jpeg" alt="Cover for The Poison Boyfriend" style="max-width:120px; height:auto;" />
       </td>
@@ -113,9 +114,9 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
-          <img src="https://i.discogs.com/CP32gh3yxtCNpzLAcfagrEQ3LqnmDITg4QLBj-p17-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDQ0/LTE1ODc4MjM0MDUt/MTE5NS5wbmc.jpeg" alt="Cover for Mini Calculateur" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01c6a5070c3d4e52a5345704687057d7.png" alt="Cover for Mini Calculateur" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-10</td>
       <td>Kraftwerk</td>
@@ -146,7 +147,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/2XjnHh9Lty3vOv-AFxbMx9hpeAAdO8Z_QQZU2BcVN9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njg4/Mi0xNTI3NjMwNDAz/LTE0ODIuanBlZw.jpeg" alt="Cover for Phorever People" style="max-width:120px; height:auto;" />
       </td>
@@ -167,9 +168,9 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/dG-5T_wPX4JKhu3bX2NpS8nT9q1yreOFn4sA9a59Xac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzEz/MzAtMTY5Nzk4ODA2/My0yMDEwLmpwZWc.jpeg" alt="Cover for café de flor" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0983e3b683e94097c0096ee4c560593a.png" alt="Cover for café de flor" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Bizarre</td>
@@ -195,7 +196,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       <td>
         <ul>
             <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 55</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 65</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -217,12 +218,12 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 29</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/C5s-WlM7DGcJ8tb4ufFZWUA-nhHVw7Xzntzom4TcVr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMS0x/NTQ4MDIzMDk2LTY4/NjYuanBlZw.jpeg" alt="Cover for Blue Monday [Single]" style="max-width:120px; height:auto;" />
       </td>
@@ -243,7 +244,24 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>81</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14808e8498db53716a5ec53fa772e0d4.png" alt="Cover for [12:00]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Loona</td>
+      <td>[12:00]</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/GQ0LyJS_BrfFBsxbU5l18FJZ9fDWwFEbvw-3-4l7Jh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDEw/NTQtMTM4NTY3ODUw/MS05ODc0LmpwZWc.jpeg" alt="Cover for Electric Lucifer" style="max-width:120px; height:auto;" />
       </td>
@@ -262,9 +280,9 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/U3MxnDorXrdTa7wSWurGlEh3C6f9oUGFXxEV0yVopTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDg5/NDM3LTE2MTM3NDU2/NDktNTI5Mi5qcGVn.jpeg" alt="Cover for Frida y Diego vivieron en esta casa (Home Demos)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31c4cd64de34401b85d7b4084cf00162.png" alt="Cover for Frida y Diego vivieron en esta casa (Home Demos)" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Little Toys</td>
@@ -286,22 +304,20 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c96f1225ea9407f98f18491a02b7a09.png" alt="Cover for Neon Golden" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-01-14</td>
       <td>The Notwist</td>
       <td>Neon Golden</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 38</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 41</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 84</li>
         </ul>
       </td>
@@ -309,7 +325,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/dGb3z6q3KQJttVyqDw65csP7RtIdIRxyVOGwENJ_91w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzQ2/NC0xMzkyMDE5NTgw/LTc2NTYuanBlZw.jpeg" alt="Cover for SUPER MIRACLE CIRCUIT" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/665b65883207a8c5d91797713027d546.png" alt="Cover for SUPER MIRACLE CIRCUIT" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-07-21</td>
       <td>Sonic Coaster Pop</td>
@@ -326,12 +342,12 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 84</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/lHajUqrRyYrsZin72kKGUdyYUhVOSSfzYYqAjMuuTBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDEw/OC0xMTY4NjEyNjA2/LmpwZWc.jpeg" alt="Cover for Can&#39;t Wait" style="max-width:120px; height:auto;" />
       </td>
@@ -357,7 +373,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/HV5eFoupQ4n1zkuyrb7rXtTam-SnS4MdmNLf-kYuC0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDE4/OS0xMTc3ODQwMjM0/LmpwZWc.jpeg" alt="Cover for Harmony Road" style="max-width:120px; height:auto;" />
       </td>
@@ -378,7 +394,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
       </td>
       <td>2006-11-03</td>
@@ -395,7 +411,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
       </td>
       <td>2007-01-29</td>
@@ -412,7 +428,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/EZFjQ1HtoYVnWNF7dpJBlK6WgNmNF4AsEBZPG9mYiKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzUy/MjQtMTIwMjY2OTQy/Ni5qcGVn.jpeg" alt="Cover for Make the Name" style="max-width:120px; height:auto;" />
       </td>
@@ -464,12 +480,12 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 48</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/G1aecFZdypJW17L3RAi5XFvVxLZ6SwsuDCBM8FaYF1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDk3/ODktMTQ0NDQ5NDkw/OS0xOTA3LmpwZWc.jpeg" alt="Cover for Acid Girlzzz EP" style="max-width:120px; height:auto;" />
       </td>
@@ -492,7 +508,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 12</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 14</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 34</li>
             <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 63</li>
             <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 68</li>
@@ -500,7 +516,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/dOuIeo-_YT9AClOWjUMwyWCdy5erIR0CBfSXkGr_F2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTky/NTMtMTQ0NDQ2OTc1/MC00NjE2LmpwZWc.jpeg" alt="Cover for Electrical Unity EP" style="max-width:120px; height:auto;" />
       </td>
@@ -524,7 +540,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/TKTIrPwRNQVmWyuhj5BG2GEhXCFquN2UeLLhcLIA36E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjcw/NTItMTIwMjA4NzY3/My5qcGVn.jpeg" alt="Cover for [laridae037] As The Snow Fell" style="max-width:120px; height:auto;" />
       </td>
@@ -547,7 +563,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/UaJTn8zYbxs2YRE3Rz6IKs9UWNPwEFNMA_DzuanVMyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTY0/MTY1LTE1ODc1MDk4/NzEtNTE3Ni5qcGVn.jpeg" alt="Cover for Tooth" style="max-width:120px; height:auto;" />
       </td>
@@ -571,7 +587,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/0dEVfiTYCVf1gTECE1iRo1g-lJY2NmOW8ghqbN-ViDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQw/MTQtMTIxNzY3MjM5/Ni5qcGVn.jpeg" alt="Cover for Missing monsters" style="max-width:120px; height:auto;" />
       </td>
@@ -593,9 +609,9 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/iX8lF-rpn2dcwiT_MFwhkNIKW4MztxHE7uTsJ5Eww8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzEx/NTAtMTI3NzQzNjEy/My5wbmc.jpeg" alt="Cover for Toxic Feelings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5101bf13bf0a40deaf514ec09994cc3d.png" alt="Cover for Toxic Feelings" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Tidy kid</td>
@@ -618,12 +634,12 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
         <ul>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 45</li>
             <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 65</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 67</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/-6_WV61Kw9tGCyJdLSW8MvURv4JpM9RTgd9WJaqy-wo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1ODA5/ODMtMTQ4MzEwOTMz/Ny0yNDIzLmpwZWc.jpeg" alt="Cover for Fuck Her, or the Terrorists Win" style="max-width:120px; height:auto;" />
       </td>
@@ -676,22 +692,22 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 7</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 8</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 10</li>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 40</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 42</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 47</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 48</li>
             <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 53</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 68</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 96</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 98</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 98</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 98</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/D1z7RW_qWKEfHSazI9Vh3zg3OlOuNaIxODY-tIN6Rqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM1/NzUtMTIzNjY4NzY5/My5qcGVn.jpeg" alt="Cover for My Raspberry Nights" style="max-width:120px; height:auto;" />
       </td>
@@ -712,9 +728,8 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/hftgWZ8nVKMtopniX7d5LGh6Jxk5wwXQBczjlDn5W_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDUw/NTQtMTI0NDk5Mjc3/MC5qcGVn.jpeg" alt="Cover for [iD.053] - Monokle - Tesaurus (LP)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-24</td>
       <td>Monokle</td>
@@ -736,9 +751,9 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/nraP0Ew3g1EVSossRWQF-s8KqhV21nFV1-3C_dVTCT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTcw/ODEtMTU4MDYxNjIz/OS0yNzg4LmpwZWc.jpeg" alt="Cover for beko_02" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b28e2167d67747f4a31eedf08f70df81.png" alt="Cover for beko_02" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-07</td>
       <td>Jamie Long</td>
@@ -760,7 +775,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/TfBgQap9azsMiY1zzqirFC95YovsC6udmH_vxC14beU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzI5/MjYtMTI0MjQwMDAz/Ny5qcGVn.jpeg" alt="Cover for L&#39;art pour l&#39;art" style="max-width:120px; height:auto;" />
       </td>
@@ -784,7 +799,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/NX-x5-WOHE1lQDxJAREUTm-y2_51IwDJlbKnBic9trc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjU5/NjItMTMwNzYyNjAy/OC5qcGVn.jpeg" alt="Cover for Under The Radar EP" style="max-width:120px; height:auto;" />
       </td>
@@ -818,7 +833,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/Wv6KaDC4Uj1yANoPUj5QOEkJ8PsV8GunuqVs9XJAx-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzM5/NjAtMTU4NTU2ODYy/MS0xMTQxLmpwZWc.jpeg" alt="Cover for Lord Newborn &amp; the Magic Skulls" style="max-width:120px; height:auto;" />
       </td>
@@ -834,12 +849,12 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 8</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/8bK_cgt7jhwvME1lUFQ8azTvBbcsnitinxFjT4aJFLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTkz/NTgtMTMzMzUwMDU5/Ni5qcGVn.jpeg" alt="Cover for In A Dream House EP" style="max-width:120px; height:auto;" />
       </td>
@@ -864,7 +879,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/K0g1OhyyTeXKX2hC-S6ueasjSS3zjeEIHmN28Yz4e-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDM5/MzItMTI2NjQyMzYy/OC5qcGVn.jpeg" alt="Cover for His Name Is Radar" style="max-width:120px; height:auto;" />
       </td>
@@ -889,7 +904,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/bPeI4cXts9iQJkQ40fgrxwPW-TZdT0ZozFVqXZXQfmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTQz/NTItMTI5Njg2Nzc5/My5qcGVn.jpeg" alt="Cover for Movements EP" style="max-width:120px; height:auto;" />
       </td>
@@ -919,7 +934,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
       </td>
       <td>2010-06-24</td>
@@ -950,7 +965,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>4</td>
       <td>
       </td>
       <td>2010-06-30</td>
@@ -992,7 +1007,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/dLu5B6x0Cn-a8mAxzGplPZIObc7shHU9UXoG0WRXz3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzUy/ODMyLTE1MTQ4MDE3/MjMtNTI4MC5qcGVn.jpeg" alt="Cover for Haarlem Centraal" style="max-width:120px; height:auto;" />
       </td>
@@ -1039,8 +1054,8 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 67</li>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 67</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 68</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 85</li>
             <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 85</li>
             <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 90</li>
@@ -1066,8 +1081,8 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 37</li>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 93</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 39</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 94</li>
             <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 94</li>
             <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 95</li>
         </ul>
@@ -1076,7 +1091,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/oQU52Dcf03vI0u0X1WQy2oYNOVKQKidWfqLnFU3f50k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjYx/MTctMTU1Nzk2MjY1/NS00MjE2LmpwZWc.jpeg" alt="Cover for Body Talk Pt. 3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca80cfbee9c04624a1a79d5f38ebf5d7.png" alt="Cover for Body Talk Pt. 3" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Robyn</td>
@@ -1089,29 +1104,12 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 68</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-          <img src="https://i.discogs.com/vHL9qf8ZHWOLTBG0KWG1I7Uxex6pQl5tdTtpVhrGpIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTcx/ODItMTI5NTI3NDY2/Ni5qcGVn.jpeg" alt="Cover for Du känner mig för väl, farväl" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-01-14</td>
-      <td>Tobias Borelius</td>
-      <td>Du känner mig för väl, farväl</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
+      <td>80</td>
       <td>
       </td>
       <td>2011-02-02</td>
@@ -1137,7 +1135,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/lE2Z-oGvmP_a-oSejitKcwCSOqXSyf-OtN3_e2ZEkvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzM0/NzAwLTE1OTY4MTE1/MDMtODI1Ny5qcGVn.jpeg" alt="Cover for Bioelectronica" style="max-width:120px; height:auto;" />
       </td>
@@ -1159,7 +1157,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/ZOuXUDOJzt86l_zFGuluuYJ4pzQMO4YCaqQg53wWloQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzM1/OTItMTMwMDM5ODg0/MC5qcGVn.jpeg" alt="Cover for Whiter Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1184,9 +1182,9 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/Y5N4bArb7Ibk2RnmEGZVBoJmRmM3c-qGeXHCJYoB_Ok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzcx/OTE5LTE1MjIxMDEx/MDUtODUwNi5qcGVn.jpeg" alt="Cover for See-through" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05d609c63e7ec7778159ee32ace56df0.png" alt="Cover for See-through" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-29</td>
       <td>Fuji Kureta</td>
@@ -1202,9 +1200,9 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>65</td>
       <td>
-          <img src="https://i.discogs.com/03mF8JRom7plBsXNPFtz9Z2daBK7CEbvBWhkbeXTCh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MzA2/NzktMTQ0MTM3NTMw/MC0xMTAyLmpwZWc.jpeg" alt="Cover for Photo Album" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1046928de3b047fa98528c54181917e9.png" alt="Cover for Photo Album" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-03</td>
       <td>Henrik José</td>
@@ -1229,7 +1227,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/IZWFtnEPP-5mYgpj8yu3UKuS6JRCW-FXieM72_gSVd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODc1/NTItMTQ1NDg4MjI5/NS0xMTU5LmpwZWc.jpeg" alt="Cover for Outsider" style="max-width:120px; height:auto;" />
       </td>
@@ -1262,7 +1260,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>53</td>
       <td>
       </td>
       <td>2011-07-07</td>
@@ -1293,9 +1291,9 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/0tPhFuf0unQp7BNs9DBcGVvG7EsoK08QovRdZQcstD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTgy/NjQtMTQyMTk1OTUx/My0zNzYzLmpwZWc.jpeg" alt="Cover for Reactions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43af661cb0424a0581b457c099645457.png" alt="Cover for Reactions" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-01</td>
       <td>Telepathic Teddy Bear</td>
@@ -1323,14 +1321,14 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       <td>
         <ul>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 21</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 41</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 42</li>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 54</li>
             <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/rOJrHGOGFbIr-qL6WgyROcWvInXf5HgfeRy_JYy4Sqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDIy/MDMtMTM2OTYzNzU5/MC02MDgzLmpwZWc.jpeg" alt="Cover for [BadPanda096] Bad Panda EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1359,7 +1357,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>18</td>
       <td>
       </td>
       <td>2011-09-27</td>
@@ -1385,9 +1383,9 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/suKKE33iD2MG_9egTztLT7wfcv8fgRj4EFIsOEDsbmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTI4/MzItMTQwOTg0OTQ1/NC0xNTMxLmpwZWc.jpeg" alt="Cover for Flutter EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/416a445c60f14539995aeb37809ae85c.png" alt="Cover for Flutter EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-23</td>
       <td>Valotihkuu</td>
@@ -1416,7 +1414,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       <td>
         <ul>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 7</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 30</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 31</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 71</li>
         </ul>
       </td>
@@ -1440,7 +1438,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/0yea0Mxf-TK11clebpH6BN6S66Mg-0Roiv5Qwl7EYEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDA2/OTAtMTYxMTA0OTY4/MC00OTg1LmpwZWc.jpeg" alt="Cover for Wild Foxes" style="max-width:120px; height:auto;" />
       </td>
@@ -1468,16 +1466,16 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       <td>
         <ul>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 41</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 59</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 60</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 74</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/3u58vMavvSnicn9mUNsNOwcrO2rG6ucodmppPCDxXPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mjk3/MDQtMTQwMTEwMzk0/NS0zNzc2LmpwZWc.jpeg" alt="Cover for Monthly Journal" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3eca06e9fb7409bb9e8258fa677c0bf.png" alt="Cover for Monthly Journal" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-06</td>
       <td>Thomas Truax</td>
@@ -1509,7 +1507,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/25_3lCqeHzWYlW-n5arWsvkWBWLtsjCXhsX-UfO2OWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjY3/NTktMTMzMTQ5MTkz/My5qcGVn.jpeg" alt="Cover for Futures EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1543,9 +1541,9 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/sY5iTxl8Dx0gCmJXR2YDDntDVE3tgxhFC_j4KioIPZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjQ3/NTUtMTM3NDc3ODYy/OC02NDA4LmpwZWc.jpeg" alt="Cover for Trigger.Melodies" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdd1b0ccdf18428d88189aaef64b82ad.png" alt="Cover for Trigger.Melodies" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-01</td>
       <td>Beat.Dowsing</td>
@@ -1569,7 +1567,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
       </td>
       <td>2012-06-09</td>
@@ -1586,7 +1584,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/izonXMoo7XNtumU8F8Knu-yQ1zrz5jN_KWupMHdSRbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTk4/MTItMTM5MDQ1ODE5/My0yNzkxLmpwZWc.jpeg" alt="Cover for Eyes On You EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1620,6 +1618,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b517a4082c9508a64f46e19e53b80bb.png" alt="Cover for Untogether" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-25</td>
       <td>Letting Up Despite Great Faults</td>
@@ -1642,7 +1641,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/SqbwfqjagmoGFjNyQWSFDSfFNZ2NoVQrAHR9659IWio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MjEy/MTQtMTQ4Mzc3MTcz/Mi0yODUzLmpwZWc.jpeg" alt="Cover for Ridin&#39; That (Information Highway)" style="max-width:120px; height:auto;" />
       </td>
@@ -1667,7 +1666,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/d_u-HJ5an8F8jLfhRVYDcHJsR6LnwtVHgmzxNtfyq9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzE5/NzQtMTM1NjM1NDU5/MS00NDc0LmpwZWc.jpeg" alt="Cover for Young" style="max-width:120px; height:auto;" />
       </td>
@@ -1693,9 +1692,9 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/og6ex7z2uyIzwENMZk2WfhKVYwyTo07tmfzVet0bGKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjMw/NzAtMTY2OTY3NjI0/Mi03MjUyLmdpZg.jpeg" alt="Cover for 2 Le Chip 2 Quit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c1daed21ecd4fbaa675378fabb95d5b.png" alt="Cover for 2 Le Chip 2 Quit" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-05</td>
       <td>Radlib</td>
@@ -1721,8 +1720,9 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd94f9fd32ac4e69bca1f0d34557a8b3.png" alt="Cover for Crow44" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-12</td>
       <td>Crow44</td>
@@ -1760,8 +1760,9 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5f464ace4ec44a499365b43c328c76d.png" alt="Cover for Undercover" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-21</td>
       <td>Milk Inc.</td>
@@ -1779,14 +1780,32 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 46</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 47</li>
             <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 50</li>
             <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cd647f899190816f6b1511d5b55ae4b.png" alt="Cover for Gameshow (Deluxe Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-06</td>
+      <td>Two Door Cinema Club</td>
+      <td>Gameshow (Deluxe Edition)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/OLAvgvjkkzZ1Aa_sCPeDWGrSB0uCEWaO1Dh0OZVJzQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDQ3/MjUtMTM3NzI4MDQx/OC02NTA4LmpwZWc.jpeg" alt="Cover for Alien Pop" style="max-width:120px; height:auto;" />
       </td>
@@ -1804,7 +1823,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/xe-lKyD0XeYBmK-ERn7YEB97SrQ0w-D0zn3E7q09Lxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzEw/MjktMTM4MDk3NjIx/Ni03NzQxLmpwZWc.jpeg" alt="Cover for More Songs About Animals and TV" style="max-width:120px; height:auto;" />
       </td>
@@ -1846,7 +1865,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/4PXEwud6yWyEYP9sgumG-Y0yDcmjBSWqZ2Uz_QgLOf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc0/MDQtMTI1NTkwODMw/Ni5qcGVn.jpeg" alt="Cover for i feel safe with you, Trash" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcd29d4f97861b7e2bd4ac4d22caadac.png" alt="Cover for i feel safe with you, Trash" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-02</td>
       <td>of Montreal</td>
@@ -1861,31 +1880,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/MTNLNz3E4rnaI0jqZh9tTqK4d3LM4-9PgSxwyRZUSMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODM3/Mzc3LTE1ODI1NDQ2/MjgtMjkwNC5qcGVn.jpeg" alt="Cover for What&#39;s Your Utopia?" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-11-13</td>
-      <td>perth</td>
-      <td>What&#39;s Your Utopia?</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australian" | relative_url }}">australian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/_kz-olEwh2biG-pmDcqyMe6YNCb3yknBZRHAGbzMAPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODc0/NTYtMTM4OTY0NzA0/OS0yMjIyLmpwZWc.jpeg" alt="Cover for Humanity" style="max-width:120px; height:auto;" />
       </td>
@@ -1914,7 +1909,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/bfnDSux2f1eSWeAzauPRxiwm6wuTQn56QMldBaLTZGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTU2/NTEtMTU1OTIzMDQ3/My03OTg0LmpwZWc.jpeg" alt="Cover for Throwing Stones EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1953,14 +1948,14 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 10</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/QLAhWzW5C9SGOg8MmBTmFInW51cQ7lfnEaAAqRgz6h4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDcy/MjktMTQ0NTg3Mzcy/MC0zMTgyLmpwZWc.jpeg" alt="Cover for Let Her Go" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48469fd6b9bf52a276482a3d7d6b1242.png" alt="Cover for Let Her Go" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-00</td>
       <td>Alva</td>
@@ -2000,9 +1995,9 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
-          <img src="https://i.discogs.com/XdxcExDnkoexh4uWVTwYwh-zPhklcKyPPk35bbSQWqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Mjcx/NzQtMTQ1MTgyMDQ4/NS05OTY3LnBuZw.jpeg" alt="Cover for Free" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07d7010eed396cf4dc9adbb7b3f6a33f.png" alt="Cover for Free" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-12-14</td>
       <td>Sarah P.</td>
@@ -2041,15 +2036,15 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 87</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 15</li>
             <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/GV40yKChExTiDiV-CDN2uSKCVCkqOHOLKLo4GVpGk7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDc0/ODA4LTE2NDcwMzA0/NjAtOTM2My5qcGVn.jpeg" alt="Cover for Lovetime Groove" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79f9666e1a4a114bbdbe1be34ac108d7.png" alt="Cover for Lovetime Groove" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-29</td>
       <td>Sintipon</td>
@@ -2069,13 +2064,13 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 20</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 21</li>
             <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/ilgqgkUjxAtkLTglWqHAGuvHMfoFaGxRC4gPlbLmg7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMzAw/MjAtMTQ3MzU2Mjcy/Ni0zOTM4LmpwZWc.jpeg" alt="Cover for Demons | Seeing Stars" style="max-width:120px; height:auto;" />
       </td>
@@ -2093,7 +2088,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/G1UmBL_m1W2kPtcJGf_X7KZqU4yC2H3dVPJOhOn37Y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTk1/NTQtMTM3MjY0Mjcy/Ny0xNjYxLmpwZWc.jpeg" alt="Cover for Ride" style="max-width:120px; height:auto;" />
       </td>
@@ -2112,7 +2107,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/lmVIXvm158-i_hJsj95UJnKFZZB5DkI_awwsQriWLFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTAx/MTMzLTE1MDk4NzY0/NzktODgwMy5qcGVn.jpeg" alt="Cover for LIMBO" style="max-width:120px; height:auto;" />
       </td>
@@ -2148,12 +2143,12 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 58</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/GSK8bN4zyXd-Z-pU0E71IZ9TrqvybEEicKs2v7aVzg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDY5/ODY2LTE1Mjc2ODM4/NzktMzMyNy5qcGVn.jpeg" alt="Cover for Unnamed" style="max-width:120px; height:auto;" />
       </td>
@@ -2174,7 +2169,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/xskXN71r_p8HV3iGsWQ7fgk9MxdSxrdVyCyf86fQYYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTM2/NTA0LTE2MDQwNTgz/MzYtNDQ1MC5qcGVn.jpeg" alt="Cover for The First Voyage" style="max-width:120px; height:auto;" />
       </td>
@@ -2201,9 +2196,9 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/HnRM2E5nO4ISJsKxV5fgm5YgaVxC57AZb2JENMYLHik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzIy/NzgxLTE1NTk3NjEx/MjgtNTQ5NC5qcGVn.jpeg" alt="Cover for 1000 gecs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6e7b4bdb9f7674e3364404be2f5f683.png" alt="Cover for 1000 gecs" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-05-31</td>
       <td>100 gecs</td>
@@ -2216,7 +2211,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       <td>
         <ul>
             <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 5</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 21</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 23</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 59</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 81</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 83</li>
@@ -2227,7 +2222,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/ZqhI4f-8xCb5qnLTQ8GtdJCdQFp3_uEKv8lF8iajGyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU4/OTA2LTE1ODc0NTA0/NjgtNzk1Ni5wbmc.jpeg" alt="Cover for implementation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1af54fc26e16d764414f7d34d45b2afb.png" alt="Cover for implementation" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-02-25</td>
       <td>DV-i</td>
@@ -2241,6 +2236,27 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/808af3fe06a0dbc22fa092a31833892f.png" alt="Cover for Shop: A Pop Opera" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-03-08</td>
+      <td>Jack Stauber&#39;s Micropop</td>
+      <td>Shop: A Pop Opera</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 39</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 87</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2272,7 +2288,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 6</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 5</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 72</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 92</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 93</li>
@@ -2282,7 +2298,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/v1sWJDY7sB0XEbIfJcwoBk96Te19Mf7lzut4XIkSZqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTEz/MzQ2LTE2MTA4MDIw/MzktNjAxOC5wbmc.jpeg" alt="Cover for Daisy 2.0" style="max-width:120px; height:auto;" />
       </td>
@@ -2312,7 +2328,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/byw9Tc4RIkclwIZ_ikMAszSVbodyLzpY--23e598wms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzU1/NDU4LTE2NTM1MjA2/MzctNzc2Ny5qcGVn.jpeg" alt="Cover for Don&#39;t Forget" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b556aeb136f1e3715e9a9288d23ec92a.png" alt="Cover for Don&#39;t Forget" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-05-25</td>
       <td>Sky Ferreira</td>
@@ -2327,14 +2343,14 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 29</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/cZMteBJDGkRSqYrbheOiAWyTICMli2yEj26Lc3m9AgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDg0/MTc4LTE3MTM4ODk1/MDMtNTc1Ny5wbmc.jpeg" alt="Cover for Bubblegum" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/261e968a055afb47e8d0073edc7cb7e3.png" alt="Cover for Bubblegum" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-01-20</td>
       <td>Biig Piig</td>
@@ -2355,7 +2371,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/_4lmL7HoMozH3QtWOveetNVBeoWQ_3To4ozOwV29S9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjUw/MjU1LTE3MzEyNDUw/OTAtNzY1MC5qcGVn.jpeg" alt="Cover for towards A." style="max-width:120px; height:auto;" />
       </td>
@@ -2392,8 +2408,9 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddb45dbc0a21a7ecd8881acf3e550ef4.png" alt="Cover for Algorhythm" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Baegod</td>
@@ -2418,7 +2435,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>43</td>
       <td>
       </td>
       <td></td>
@@ -2446,12 +2463,12 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       <td>
         <ul>
             <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 16</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 47</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>45</td>
       <td>
       </td>
       <td></td>
@@ -2481,38 +2498,12 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       <td>
         <ul>
             <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 19</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 48</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
-      <td>ulldull</td>
-      <td>because your money is limited</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asia" | relative_url }}">asia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japan" | relative_url }}">japan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -2530,7 +2521,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -2550,8 +2541,9 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6269d833f1baca265f100bb97fb07dce.png" alt="Cover for Olika sidor av staden" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Det mekaniska undret</td>
@@ -2571,7 +2563,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>60</td>
       <td>
       </td>
       <td></td>

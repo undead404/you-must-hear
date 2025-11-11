@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-30T06:04:39.027Z
+date: 2025-11-11T13:12:07.214Z
 permalink: tags/space-ambient
 title: space ambient
 ---
 
 ## space ambient
 
-Last updated: <time datetime="2025-10-30T06:04:39.027Z">Thu Oct 30 2025 08:04:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T13:12:07.214Z">Tue Nov 11 2025 15:12:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/575fee41fc263b521afc7a271a1a39bf.png" alt="Cover for Zeit" style="max-width:120px; height:auto;" />
       </td>
       <td>1972-08</td>
       <td>Tangerine Dream</td>
@@ -44,7 +45,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 34</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -64,35 +65,15 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 48</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 52</li>
             <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
-      <td>
-      </td>
-      <td>1976</td>
-      <td>Mort Garson</td>
-      <td>Mother Earth&#39;s Plantasia</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 83</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/usRmk-tpELbwwFqcWA0gnXBXdrz-ekQWvi0rVQN7-Fk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjA1/MzAtMTMxNTEyNTQw/NC5qcGVn.jpeg" alt="Cover for Body Love Original Soundtrack" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/278c15e5841d2c8944ad3bd1229930ca.png" alt="Cover for Body Love Original Soundtrack" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Klaus Schulze</td>
@@ -113,7 +94,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
       </td>
       <td>1978</td>
@@ -132,7 +113,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/K7W3YKeJyzYTbpWUNF5NsJmyudjpGo6FMAY42NMNA6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTEx/My0xMzA3NTgwODEx/LmpwZWc.jpeg" alt="Cover for Synthesist" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65053efed6494724b0bed93327284c15.png" alt="Cover for Synthesist" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Harald Grosskopf</td>
@@ -147,7 +128,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 65</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -172,6 +153,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/733ab1a0862a39eea4f5d67e18607aaf.png" alt="Cover for Pinnacles" style="max-width:120px; height:auto;" />
       </td>
       <td>1983-08</td>
       <td>Edgar Froese</td>
@@ -190,7 +172,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 70</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 75</li>
             <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 93</li>
         </ul>
       </td>
@@ -198,7 +180,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/BAM-gPO3vUkuKlOhvxLFhzH23YxJPISUmD8KEgNzIbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzg5/MS0xMjM5NTc4MTMy/LmpwZWc.jpeg" alt="Cover for Planetary Unfolding (2022 Remaster)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7565ad21034480741095c5581c818384.png" alt="Cover for Planetary Unfolding (2022 Remaster)" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Michael Stearns</td>
@@ -216,13 +198,13 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 5</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 9</li>
             <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
       </td>
       <td>1987</td>
@@ -239,9 +221,8 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/WH9OjAZYgjY6RHwl4kxoBIOAzuV9fbJJ1yMffzNbcrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDEz/My0xMTM0OTM3MjE0/LmpwZWc.jpeg" alt="Cover for Art Works" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Art of Noise</td>
@@ -261,7 +242,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/ww43ioBD7HKKC8b3NIcjXuTuzeOi3ZZijEK8w3iz52E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzMw/MjQtMTQyMjU1NTk0/NC02MzE2LmpwZWc.jpeg" alt="Cover for Black Dance" style="max-width:120px; height:auto;" />
       </td>
@@ -284,7 +265,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/Tuapu1kMaCOHprPxRnNlTOcow9clY70N79hT1GJxW3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTIy/LTExMzI0MjQ0MjMu/anBlZw.jpeg" alt="Cover for Crosstalk" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d02e3cb1757c4166878d813e072d75b0.png" alt="Cover for Crosstalk" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Elektric Music</td>
@@ -305,8 +286,9 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60d8ff1968294867bd9004fc73c4d373.png" alt="Cover for El Costumbre" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Jorge Reyes</td>
@@ -330,7 +312,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/5MOfPMyLxx7qTK1OJdet-NWYVxRcIUgrhr4i5iUpfG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTMw/LTE2ODIwMzM3MDAt/MTk2MS5qcGVn.jpeg" alt="Cover for TV" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d51eda33106c4197932c0e097a50aa24.png" alt="Cover for TV" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Elektric Music</td>
@@ -350,7 +332,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/AOzSXGDCdxhm2gvLjPehcyq-11UZVczj0vx0TZJBmgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzc5/NzktMTIyMTk5NDg1/OC5qcGVn.jpeg" alt="Cover for Huronic Minor" style="max-width:120px; height:auto;" />
       </td>
@@ -371,8 +353,9 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1b75f0f01ae25f644c322f8ed407d49.png" alt="Cover for Spheres" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-02-13</td>
       <td>Delerium</td>
@@ -409,7 +392,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>1995</td>
@@ -446,9 +429,9 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/jM4HpcRJGcpAYK5_2QNHjgx9y69nQ4wTMyobpqEF-BA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDY2/MjEtMTQ5MjA3NDc5/Ny03MjQ5LmpwZWc.jpeg" alt="Cover for Shoshone Dream" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d887f6e3cb6827b58664023ee61c953.png" alt="Cover for Shoshone Dream" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Medwyn Goodall</td>
@@ -469,7 +452,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/iR3_JLVHM2d5Mik2q1rkMfHmj1e7r4Fe8fWTnakhdxc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDcy/NC0xMTU4NzYxOTI4/LmpwZWc.jpeg" alt="Cover for Blue Cosmos" style="max-width:120px; height:auto;" />
       </td>
@@ -490,7 +473,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/Xr6e8FYzqN-3AVvl8eo6I_RUEuzdnOh9SZG0e9tJBDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzkz/LTE1NTU2OTYwMTEt/MzMyMS5qcGVn.jpeg" alt="Cover for Electronic (Special Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4090a27a707f31710b95406e209dca9.png" alt="Cover for Electronic (Special Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Electronic</td>
@@ -498,10 +481,10 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a></li>
+            <li style="font-size: calc(1rem * 74 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
       <td>
@@ -510,7 +493,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
       </td>
       <td>1997</td>
@@ -528,9 +511,9 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/pNLlouTFS7PwohNfbO6vgmtZquqZVsSlBE7_OrUTsbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjYz/MDYtMTQ5MzkyNjUx/Mi03NTAwLmpwZWc.jpeg" alt="Cover for Live At The Isle Of Wight Festival 1970" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3de8b5f5992141298e124702cad8cce8.png" alt="Cover for Live At The Isle Of Wight Festival 1970" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Emerson, Lake &amp; Palmer</td>
@@ -545,7 +528,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
       </td>
       <td>1999</td>
@@ -562,9 +545,9 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/oPXWzyZQXzz2YIgOQS7v5JSqEkjhr6jJTKwT32R-51Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDc4/My0xMzk0MzUxODkz/LTYxNzEuanBlZw.jpeg" alt="Cover for Battered and Bruised" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/929c666bce632fbb0b32e880c4a7c3c4.png" alt="Cover for Battered and Bruised" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Statemachine</td>
@@ -584,7 +567,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>2001</td>
@@ -602,7 +585,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2001-04</td>
@@ -619,7 +602,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/jwXBkP5e56FIxHwd7-TK2GkxgeZvUxRNIfpNpEOz65w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQ4/OTExLTE1MzU0OTE3/MzAtNjAyNi5qcGVn.jpeg" alt="Cover for Planetary Chronicles Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -639,6 +622,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5351151a05de487ea649cb59a22085c1.png" alt="Cover for A Distant Signal" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Alpha Wave Movement</td>
@@ -655,7 +639,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/zbFpMHCBwh_RgK2syiFmCZ0G8vWOkfzxinUT6E1gkno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTc2/My0xNDkzNTYzNzQx/LTMwNjYuanBlZw.jpeg" alt="Cover for The Resonant Memory of Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -673,7 +657,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/D9Iej-Nz3ujDhNGO3Rj0BJzvrUqXNAgSxi7MrCslfK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjMx/OC0xMzEwOTM0NDY5/LmpwZWc.jpeg" alt="Cover for Sonic Immersion" style="max-width:120px; height:auto;" />
       </td>
@@ -693,29 +677,9 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>31</td>
-      <td>
-          <img src="https://i.discogs.com/5xxxvxeOjvJW18yW4gF-WlH4-K0Hzd06_7PS23tyEew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDQ2/MjAtMTQwMDQyMDE4/Ny03Nzk2LmpwZWc.jpeg" alt="Cover for Apollo" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Brian Eno</td>
-      <td>Apollo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 86</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/2whC_cS4_VIGLjwwsCpFVnNC121Wz0bGIxMuuWeCNNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDY2/Ni0xMTgzMjg1MjIx/LmpwZWc.jpeg" alt="Cover for Desert Triptych" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/392587961117425cb97fcfe0cb136a47.png" alt="Cover for Desert Triptych" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Tom Heasley</td>
@@ -790,7 +754,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/Axr_XkjN4MVtMonzOQ2dgdOHF3oLsOf-_qjR72FG8VE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDQ5/MC0xMTYzNjgzMjUy/LmpwZWc.jpeg" alt="Cover for SERENE LIFE OF MICROBES" style="max-width:120px; height:auto;" />
       </td>
@@ -835,15 +799,15 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 55</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 60</li>
             <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/W8YWgtdzy-VfR4uummBrdxIPjMd2v9f7ENFqya_ZFEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg3/NTYtMTQ5MTg1NzU3/OS05NDE2LmpwZWc.jpeg" alt="Cover for Live at Mt. Fuji" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fcd3a22f83944cf919af6ba75548952.png" alt="Cover for Live at Mt. Fuji" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Manuel Göttsching</td>
@@ -883,8 +847,9 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7db8f8fe78f3b2bdb391e6326b65c813.png" alt="Cover for Synthetik" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06-25</td>
       <td>Komputer</td>
@@ -904,7 +869,29 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8e45588eefd4b189c0e387a3bfaee80.png" alt="Cover for Infinite Plastic Creation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-09-10</td>
+      <td>Richard Bone</td>
+      <td>Infinite Plastic Creation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/9Hqy5xD9cZXlkFp-Vx78CYHFROsb05tK77qEOQc5Akc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODky/NTEtMTI3NDcwMzI3/MS5qcGVn.jpeg" alt="Cover for Orbit" style="max-width:120px; height:auto;" />
       </td>
@@ -922,7 +909,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/U_L079i_2RlG5NjKF8s-Oirh6_G3_vEfOUTIaGA14iU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIz/ODktMTI4ODE5Mzk0/NS5qcGVn.jpeg" alt="Cover for Surya" style="max-width:120px; height:auto;" />
       </td>
@@ -942,7 +929,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/AYbaVNWC6BVcDStcGDYU86yPXsYH7SvZSb84C2ZmSqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzE0/MTYtMTI1MTU2MTkz/MS5qcGVn.jpeg" alt="Cover for Planetarium" style="max-width:120px; height:auto;" />
       </td>
@@ -965,6 +952,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cdef729047c4b8db310f1aa6941a460.png" alt="Cover for Rainshadow Sky" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Jeff Pearce</td>
@@ -984,7 +972,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/8OkCUlkrdgO8U_qSOo9nI1vxhsbqMHcXSzeApefYgJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg0/OTY3LTE1MzYyMjA0/NDYtNDg0Mi5qcGVn.jpeg" alt="Cover for 00&#x2F;346+00&#x2F;380 : Mixes 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1006,7 +994,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
       </td>
       <td>2008-06-23</td>
@@ -1051,7 +1039,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/LPt-bxSDmmWjkhYpte1yhcslB-SfNnuRZtpKAMK-GPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTY2/MDQtMTIxNzg2ODQz/MS5qcGVn.jpeg" alt="Cover for Oblivion Cages" style="max-width:120px; height:auto;" />
       </td>
@@ -1070,7 +1058,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/y40Rtzzp_MTGJqIf3HL7azv8MO_M2HY3qlz3E08_xxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDU3/MzUtMTIyMDk5NDQ4/NS5qcGVn.jpeg" alt="Cover for Pale Blue Dot: A Tribute to Carl Sagan" style="max-width:120px; height:auto;" />
       </td>
@@ -1089,7 +1077,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/PFhHbO2jnvSPuMEDVYdqIoRyNlz9pwN71S0rzJg0KSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTU4/MDUtMTU5OTY3NDE4/My02MjcxLnBuZw.jpeg" alt="Cover for Pixarni" style="max-width:120px; height:auto;" />
       </td>
@@ -1111,7 +1099,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>2009-01-30</td>
@@ -1131,7 +1119,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>2009-08-13</td>
@@ -1167,7 +1155,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/hC30e2qKZNMtmfvoqzagMc2MC56OmWblPN21lXFVQAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzcz/NzQtMTMwNzYxNzQ5/NC5qcGVn.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1189,7 +1177,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/-piM4D41w40U6ux9v2RPCslx4_BaGb22K2XJJkHd-5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzAy/OTQtMTY5MzM2NzU1/Ni02MjIwLmpwZWc.jpeg" alt="Cover for Blotch" style="max-width:120px; height:auto;" />
       </td>
@@ -1231,9 +1219,9 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/wYSlFjCRc6ymbOSr7yIedcP3sHEgrXmPDkitrfx_O_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjU5/NjYtMTMzNTgzMjUy/MC5qcGVn.jpeg" alt="Cover for Pan" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e4af2eac7ee4889af2f83db3fed6bd6.png" alt="Cover for Pan" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-21</td>
       <td>Jonas Munk</td>
@@ -1253,7 +1241,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
       </td>
       <td>2012-06-06</td>
@@ -1273,7 +1261,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/FbF-HeJdiuZQKWwmTmRZocGg_MrNau4AHIq7frLyEFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjE4/MzktMTM2ODQzNDU3/Ny00ODA2LmpwZWc.jpeg" alt="Cover for Drawn and Quartered" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77f40cb669a74e7889eee64b7eda94d6.png" alt="Cover for Drawn and Quartered" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-23</td>
       <td>Oneohtrix Point Never</td>
@@ -1289,7 +1277,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 81</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 85</li>
             <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 100</li>
         </ul>
       </td>
@@ -1297,6 +1285,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d284c241c5974931a7806924483397c7.png" alt="Cover for Light Years" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-22</td>
       <td>Stellardrone</td>
@@ -1352,7 +1341,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/hftpv0wi--aU4zEcGFm9QBcDjBsYxGGfEP1FOoxScbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTU5/MTI4LTE2NjAxNDcx/MzMtMzIwMi5qcGVn.jpeg" alt="Cover for Through the Ocean to the Stars (Split)" style="max-width:120px; height:auto;" />
       </td>
@@ -1371,7 +1360,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>2014-05-13</td>
@@ -1390,7 +1379,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2014-05-24</td>
@@ -1407,7 +1396,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/bngKMjxc8fgsTUin-f-DRvUoInE9fzEuhqZPVMifaNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjU2/NDAtMTQ0MDAzMzEw/NC0yMjAzLnBuZw.jpeg" alt="Cover for ルートバックホーム" style="max-width:120px; height:auto;" />
       </td>
@@ -1427,13 +1416,30 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/XKjhNLX300q73VFxAbt1WFkT_uMbELlgFLLuyV35xTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTYx/MzgtMTQ0MTA2MzU2/NS03NzM2LmpwZWc.jpeg" alt="Cover for V.A. - Pop Ambient 2008" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-09-01</td>
       <td>Klimek</td>
       <td>V.A. - Pop Ambient 2008</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2015-10-21</td>
+      <td>Grimrik</td>
+      <td>Die Mauern der Nacht</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a></li>
@@ -1468,7 +1474,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/XFAbuOSs7OTwRQlSjnOZ-tkfZElBGRrhYw15igpmyA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTky/MzktMTQ2NjA4MzQ0/Mi0xMTg3LmpwZWc.jpeg" alt="Cover for Unreleases" style="max-width:120px; height:auto;" />
       </td>
@@ -1488,7 +1494,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/zdNgtYHuekvfoMzA7dcnGOjidkA4-pUAiXn4TKUWLyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjU2/NzQtMTQ3MDM5MTky/MC02MTMxLmpwZWc.jpeg" alt="Cover for Rosetta" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/266d2c8cd2c3fac23edb0ef42d4e686e.png" alt="Cover for Rosetta" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-14</td>
       <td>Vangelis</td>
@@ -1505,7 +1511,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/LMsbgCXlhPfI929ZE6sLpc1pbC966IpZtvUgnjwinCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTAx/MzM5LTE1MDYyMTcz/MzgtNTYwMS5qcGVn.jpeg" alt="Cover for Breathing (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1531,9 +1537,9 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/LMsbgCXlhPfI929ZE6sLpc1pbC966IpZtvUgnjwinCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTAx/MzM5LTE1MDYyMTcz/MzgtNTYwMS5qcGVn.jpeg" alt="Cover for Breathing (Original Motion Picture Soundtrack From A Lost Film)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4b85f06ebcb9354dbf1bbe59811a530.png" alt="Cover for Breathing (Original Motion Picture Soundtrack From A Lost Film)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-22</td>
       <td>Electric Youth</td>
@@ -1552,7 +1558,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 47</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1573,12 +1579,12 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 59</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/Cbx62XAXuExKzRq-DmckNzPXnDQ7r7e9hOdTnJmvoE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjYx/MDYwLTE1MjAyMDI3/NzItODE4OS5qcGVn.jpeg" alt="Cover for 1992" style="max-width:120px; height:auto;" />
       </td>
@@ -1598,7 +1604,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/ttSdpFGK7J4VR8U1pmV4hlPgQLYZAgSzHbbh_Ab1FfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDM0/NTk2LTE1MTYyNzEw/MzItMjI4NC5qcGVn.jpeg" alt="Cover for The Infinity Coordinates" style="max-width:120px; height:auto;" />
       </td>
@@ -1619,7 +1625,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/RtUVAgj_n2JHspG6VsAWH9H8iYM3BKgzTA3AsuvyKnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDYy/ODEwLTE1Njc4MjEy/MzItNDg5Ny5qcGVn.jpeg" alt="Cover for Digital Rain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c08d048d8024545dce84a1ae947c88b6.png" alt="Cover for Digital Rain" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-01-26</td>
       <td>Johnny Jewel</td>
@@ -1641,7 +1647,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/G9ImREyjIgchjgr2iCT98ODU_GKmYnDtdrzcepPW5Ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTAz/MjI5LTE1MjQ0Mjk1/NzctMjM1OS5qcGVn.jpeg" alt="Cover for Particle Void" style="max-width:120px; height:auto;" />
       </td>
@@ -1680,9 +1686,9 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/le2j_-F24ud0nm079tF8tFL7dvxd6oXa-5dmge3o5Gg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTMz/NDE2LTE1NjQzNjky/MDUtOTEyMC5qcGVn.jpeg" alt="Cover for Human Again" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ad84397414f9bc2345d3bc284ce4412.png" alt="Cover for Human Again" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-07-28</td>
       <td>Jorja Chalmers</td>
@@ -1709,7 +1715,6 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/TbmjGCtXQbaOjJt85HWDhvcjkuyhfoXMkJBHhCOoNus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODgy/OTQwLTE1ODM0MTQ1/NDktMjk0Mi5qcGVn.jpeg" alt="Cover for Haut" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03</td>
       <td>Die Wilde Jagd</td>
@@ -1728,15 +1733,15 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       <td>
         <ul>
             <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 2</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 31</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 35</li>
             <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/C3aXIWn6nPYlfFyfylKClzHsEI-5bIXwnqd90vcTAYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjc3/NjA3LTE2MTI1NzMw/MTAtNDA0OS5qcGVn.jpeg" alt="Cover for Mystic Chords &amp; Sacred Spaces (complete edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/488513f5cce946e5c6995b1beaf750da.png" alt="Cover for Mystic Chords &amp; Sacred Spaces (complete edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-25</td>
       <td>Steve Roach</td>
@@ -1755,9 +1760,9 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/0wISXtzPvpSuMOkcvNPsvm-slhkevFIjDKNU8Af374A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODM5/NzktMTQ1NDgyNzg1/My03NDMxLmpwZWc.jpeg" alt="Cover for Structures From Silence (30th Anniversary remaster)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e1e8340f6ecf12320c5355f2188e800.png" alt="Cover for Structures From Silence (30th Anniversary remaster)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-25</td>
       <td>Steve Roach</td>
@@ -1778,7 +1783,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/p9E41qTKiSoYXvOvWEf0A8mBeGhBFbdU_HGrCNg8aWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI1/NjM4LTE1OTMzNTc4/ODQtNjgzOC5qcGVn.jpeg" alt="Cover for ISS006" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cb2ab53664bb48561f10f4fa18864d1.png" alt="Cover for ISS006" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-22</td>
       <td>Skee Mask</td>
@@ -1819,7 +1824,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/6LmoEpkXy0Ap5l2GLK-aRHVu3EQddb7Znh-5u8ZH-Jo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njc3/ODEzLTE1OTU3NTM0/NDMtMjY2My5qcGVn.jpeg" alt="Cover for Exo" style="max-width:120px; height:auto;" />
       </td>
@@ -1914,7 +1919,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/2vfhAofMEjVeOrBDskPwfioyQV3gmd1kBTN_BaXG7LQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODgz/OTExLTE2MjkxNDE1/MTgtOTEzMy5qcGVn.jpeg" alt="Cover for Stasis Sounds For Long-Distance Space Travel II" style="max-width:120px; height:auto;" />
       </td>
@@ -1935,7 +1940,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/FU6mskN7smCo9l2F1MPrpJ0zL8V57os8mZb099eaoeY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTIw/MjI4LTE2NDczNTk1/OTgtNDc2NS5qcGVn.jpeg" alt="Cover for Light From Orion" style="max-width:120px; height:auto;" />
       </td>
@@ -1955,9 +1960,9 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/pVmc3FLv2i6HwREtv2s9VRAgA_5b2-ASQLXvrivn2Gw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjcz/MjcwLTE3Mjg3NDk3/NzEtNTI5Ny5qcGVn.jpeg" alt="Cover for Timewave Zero" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2638ff6343f580a231487c232e730a2b.png" alt="Cover for Timewave Zero" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-02-25</td>
       <td>Blood Incantation</td>
@@ -1973,7 +1978,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/-nj8iDaPil4sIA4QYd0XcRyeRRRNvv6VkmjOfwXB5Jo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjY0/NjI3LTE2Nzc2NTg5/MjctMTgzOS5qcGVn.jpeg" alt="Cover for ophio" style="max-width:120px; height:auto;" />
       </td>
@@ -1997,16 +2002,16 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 21</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 29</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 31</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 60</li>
             <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/ELHWNfeK1IO7SuhxDG0c20JWdKijIMm07kNaztezHCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTQ4/MjkxLTE2ODI5OTc1/ODAtNDkwMC5qcGVn.jpeg" alt="Cover for dq" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e36edcf6b673070c7d33599f9cf6663d.png" alt="Cover for dq" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-31</td>
       <td>argo nuff</td>
@@ -2023,7 +2028,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 9</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -2048,15 +2053,16 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 54</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 62</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 68</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 81</li>
             <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3df38a105d174de2bae1d6fd04344f5c.png" alt="Cover for The Death Penalty Awaits, So Join The Party" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Milesaaway</td>
@@ -2072,8 +2078,9 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1318831d1a810feaacf963ef5f513abe.png" alt="Cover for Every Star Dies" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>inquietus</td>

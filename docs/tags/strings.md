@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:02:07.326Z
+date: 2025-11-11T13:45:05.557Z
 permalink: tags/strings
 title: strings
 ---
 
 ## strings
 
-Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T13:45:05.557Z">Tue Nov 11 2025 15:45:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -65,12 +65,12 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 96</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/OR5wUT1ANM5jAWjamBV1k6aR7Bp58jCr3Tm2v-fwU0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ0/ODUzLTE1MzMxNzQ1/MzktNDYxMC5qcGVn.jpeg" alt="Cover for Classic &amp; New" style="max-width:120px; height:auto;" />
       </td>
@@ -91,7 +91,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/oa3g8SF9wI2l1GuWF4kGho-gI5vO-IxDxUnogD5DFkY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODk2/MjQtMTQxMDc5NTY1/My03NDUwLmpwZWc.jpeg" alt="Cover for Bach, J.S.: Concertos for 1, 2, and 3 Violins" style="max-width:120px; height:auto;" />
       </td>
@@ -108,7 +108,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/8-SFDGLvP46pYwmWAed_AXK7BUPRHBYdHh6prFSU5RI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/MDE5LTE2NDMzOTYz/MTQtMjIyMy5qcGVn.jpeg" alt="Cover for Violin Recital: Simone Lamsma" style="max-width:120px; height:auto;" />
       </td>
@@ -189,7 +189,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/BjuumDg9xLcX4Ro1nJIFoDP7clKPRX-26PdunHtfR4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA3/NjU1LTE1NDA0NTI3/NDItMzU3OC5qcGVn.jpeg" alt="Cover for TELEMANN: Viola Concerto &#x2F; Recorder Suite in A minor &#x2F; Tafelmusik" style="max-width:120px; height:auto;" />
       </td>
@@ -238,7 +238,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/U6OVrUYEuGr4yFwYQgjP4GM1KqV8w8J3w6zorU0mApM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTU5/NjMyLTE2MjY3ODM3/NTQtNTk2MC5qcGVn.jpeg" alt="Cover for MENDELSSOHN: Violin Concerto &#x2F; WAGNER: Parsifal (Toscanini)" style="max-width:120px; height:auto;" />
       </td>
@@ -308,7 +308,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/vnF4q9ktlRnkqW-m9R7fiJ-Xvu2n3qFhtzAhVTLUgU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODIx/NDQtMTM1Nzg0NTUw/MS02NTI2LmpwZWc.jpeg" alt="Cover for Tribute To The Smiths" style="max-width:120px; height:auto;" />
       </td>
@@ -346,7 +346,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/q8yGl5pkANkkAxW9x4eX8UhtsXPprtimwC-QUAMW0Mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjA0/NzAtMTYwODQ1Mjk3/Ni04ODcxLmpwZWc.jpeg" alt="Cover for CORIGLIANO: String Quartets Nos. 1 and 2 &#x2F; Black November Turkey" style="max-width:120px; height:auto;" />
       </td>
@@ -382,7 +382,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/wXQJXIFXOvhcG0UjaQQTqGmOdL1oGinOv7AX7zTf2N4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDk3/MDAtMTUzODg0NzI3/Ni02NDE0LmpwZWc.jpeg" alt="Cover for Storm" style="max-width:120px; height:auto;" />
       </td>
@@ -429,7 +429,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td>1998</td>
@@ -463,9 +463,9 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 2</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 5</li>
             <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 91</li>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 94</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -488,7 +488,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/bZompA05zqf2HD-JLmi6b4gRw3JTDy_0NR4L-fjlC-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDIz/NTEtMTQxMjk5OTY3/OS05ODcyLmpwZWc.jpeg" alt="Cover for BARBER: Cello Concerto &#x2F; Medea Suite &#x2F; Adagio for Strings" style="max-width:120px; height:auto;" />
       </td>
@@ -506,7 +506,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/zijmCd6ycnEWvhxCC-Hs0FhbSRnaU_CliQUbOVCNRqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTc3/OTktMTM1OTkxNzQ2/NS00OTY1LmpwZWc.jpeg" alt="Cover for Dim Movies on Galaxy Train" style="max-width:120px; height:auto;" />
       </td>
@@ -527,7 +527,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
       </td>
       <td>2001</td>
@@ -549,7 +549,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/AiyOba9Gr9FpdbuwZ9et1uCeJGLpXFwq4ER3pQEF0ZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzM2/Mi0xNDkxMTI3MDI1/LTg5OTYuanBlZw.jpeg" alt="Cover for Quelqu’un M’a Dit" style="max-width:120px; height:auto;" />
       </td>
@@ -564,7 +564,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 14</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -631,7 +631,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/wM6iMbMf9P8_k2ggy0UlJfAR0i_Zc7DTU48mli_C4hc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTM1/MjQyLTE1ODQzNTcy/ODgtOTAwMS5qcGVn.jpeg" alt="Cover for Cucchi, Flavio: American Portraits" style="max-width:120px; height:auto;" />
       </td>
@@ -664,12 +664,12 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 71</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/PRkOdBQ-T3X80PR6EWwP_R00MQCxcJkCplzqQrGzHXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTk2/MDctMTI1MjQ1NzU4/NC5qcGVn.jpeg" alt="Cover for The String Quartet Tribute to Arcade Fire&#39;s Funereal" style="max-width:120px; height:auto;" />
       </td>
@@ -687,7 +687,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/4Q1Q01ZMjyCXwKgNh_teRsboPCyeu8waBV-z4B1js0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTE2/NDc5LTE2MDg0MTE3/MTYtNzQxOS5qcGVn.jpeg" alt="Cover for The String Quartet Tribute To Elton John" style="max-width:120px; height:auto;" />
       </td>
@@ -706,7 +706,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td>2004-01-06</td>
@@ -723,7 +723,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td>2004-03-09</td>
@@ -802,7 +802,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/PRkOdBQ-T3X80PR6EWwP_R00MQCxcJkCplzqQrGzHXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTk2/MDctMTI1MjQ1NzU4/NC5qcGVn.jpeg" alt="Cover for The String Quartet Tribute to 30 Seconds to Mars" style="max-width:120px; height:auto;" />
       </td>
@@ -820,7 +820,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/PRkOdBQ-T3X80PR6EWwP_R00MQCxcJkCplzqQrGzHXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTk2/MDctMTI1MjQ1NzU4/NC5qcGVn.jpeg" alt="Cover for String Quartet Tribute to The Arcade Fire&#39;s Funeral" style="max-width:120px; height:auto;" />
       </td>
@@ -840,7 +840,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/-bnnFhuUrsZUtxGaQ7botHezI8uUddorzoUrx2r10AM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Njg2/NC0xMjUxNjUwMjIx/LmpwZWc.jpeg" alt="Cover for Wind in the Wires" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6550ba259337d73982d89bc93e5de2b.png" alt="Cover for Wind in the Wires" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-13</td>
       <td>Patrick Wolf</td>
@@ -853,8 +853,9 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 5</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 22</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 1</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 9</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -878,7 +879,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/IiRjWAb8Ph7WtC2Bonc8Z8nLKzO1iz7pE3pWFs2ah30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTM1/Mzc3LTE2NTAzNzU1/NjYtMjYwOS5qcGVn.jpeg" alt="Cover for String Quartet Tribute to Relient K" style="max-width:120px; height:auto;" />
       </td>
@@ -915,7 +916,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/8l2f-afGzFo1LGQx6_D5IggULIca_rXhZfakxLAzLWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDg0/MTYtMTQ5MjUxNDkx/Mi03OTE4LmpwZWc.jpeg" alt="Cover for Death Cab For Cutie, Ghost: The String Quartet Tribute to" style="max-width:120px; height:auto;" />
       </td>
@@ -956,7 +957,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       <td>
         <ul>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 15</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 43</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 44</li>
             <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 70</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 89</li>
             <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 100</li>
@@ -964,7 +965,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/XVdiqUiqpl4IF-G3507EQOQhyFlj4d9fS2goQO-4RFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjgz/ODctMTQzNTI0NTE0/My05MTA5LmpwZWc.jpeg" alt="Cover for Crumble" style="max-width:120px; height:auto;" />
       </td>
@@ -991,12 +992,12 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 47</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td>2006-06-26</td>
@@ -1013,7 +1014,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/snSlU_M66HeuKv82zHQMH0SiRncvkSFa3zSED_izlN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTE0/MTktMTQzODE0MTMx/Ny0zOTA5LmpwZWc.jpeg" alt="Cover for Stung Out On Taking Back Sunday: The String Quartet" style="max-width:120px; height:auto;" />
       </td>
@@ -1031,7 +1032,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/iqa8NCeBAi5TY85gh_rUQxWK3IXXHaAwqQsoXTLL-e0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTc3/NTQtMTQzNjQwMzIx/NS00OTMwLmpwZWc.jpeg" alt="Cover for Subherban Underdoggin in the WaHi" style="max-width:120px; height:auto;" />
       </td>
@@ -1053,7 +1054,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/lTPR0o75pWt9pCMhpmAxtljeoW7T3EMLTDnWQkOCxLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzgw/NDU5LTE3MTY2NzI0/ODQtNTgxNi5wbmc.jpeg" alt="Cover for All Over The Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -1096,12 +1097,12 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 27</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 86</li>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 99</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/bsfmQV9VW7PKytq2VV-ihjyuTPjkQ72fyvxqtWxXZO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjEx/NDMtMTI0MTYzNDYx/OC5qcGVn.jpeg" alt="Cover for The Strange Parade" style="max-width:120px; height:auto;" />
       </td>
@@ -1120,7 +1121,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/cKddnO4HYm1-hyZtiBOnDe6h_2zGFWybSYQfjgQiaeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODgy/NS0xMTgyNDQ1MTIx/LmpwZWc.jpeg" alt="Cover for A Long And Ugly Road (European edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1143,9 +1144,9 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 18</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 19</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 25</li>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 28</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 30</li>
             <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 51</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 64</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 74</li>
@@ -1155,8 +1156,9 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee9c759891ec93606f79b6a8056e8f1b.png" alt="Cover for My Downfall (Original Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-08</td>
       <td>Venetian Snares</td>
@@ -1174,7 +1176,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/qW_9TUueGCKSAn7zrHHoje-7fyFd4Ojf0GWlogU4_LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjM3/ODQ1LTE2ODA1MzI2/MDktOTI1Ny5qcGVn.jpeg" alt="Cover for The Winged Life (European edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1211,13 +1213,13 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 15</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 29</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 45</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 48</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 49</li>
             <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/fT0u5rIT0jtIwWWeM8T6GCUHV2Qe4_e_B76JlnxxEWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjY5/OTctMTIwMjA4MzU4/NC5qcGVn.jpeg" alt="Cover for Poem About My Broken Violin" style="max-width:120px; height:auto;" />
       </td>
@@ -1242,12 +1244,12 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 86</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/MBkaLUvV9EoaevmLNIPSkHpAtmcHtZX92GKDUpdAPrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NzU1/MDQtMTQyMDY1ODIy/OS02Njk5LmpwZWc.jpeg" alt="Cover for 12 Ways To Count" style="max-width:120px; height:auto;" />
       </td>
@@ -1265,7 +1267,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
       </td>
       <td>2008-06-10</td>
@@ -1283,14 +1285,15 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 16</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 15</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f2215b8f5da47b88388ec67d621b495.png" alt="Cover for Stadtaffe" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-26</td>
       <td>Peter Fox</td>
@@ -1305,12 +1308,12 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
         <ul>
             <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 12</li>
             <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 78</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 96</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
       </td>
       <td>2009</td>
@@ -1345,7 +1348,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/LUzzMkgz73dddCqNjt1Hfo5Bj2B6vCnN7QUGsquZtyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDI4/ODEtMTI1Mzk5NzY0/NC5qcGVn.jpeg" alt="Cover for Sorry Monsters, I Have To Grow" style="max-width:120px; height:auto;" />
       </td>
@@ -1366,6 +1369,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/281e077cffea6e50a0e9fc0a699082aa.png" alt="Cover for Indra&#39;s Web" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-07-07</td>
       <td>Rena Jones</td>
@@ -1384,7 +1388,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/__ZsugApLx5AF5_rfZy1AydCFWZEAAoSUb8gPldpU6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTM1/NC0xMjM4OTYyNTgz/LmpwZWc.jpeg" alt="Cover for FallPast EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1438,7 +1442,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       <td>
         <ul>
             <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 9</li>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 32</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1462,7 +1466,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
       </td>
       <td>2011-11-14</td>
@@ -1479,12 +1483,12 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       <td>
         <ul>
             <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 32</li>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 87</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/G6InE0TKps4ibLSHglLtT4Qm9vM5jNepNl_oeWI5Ozw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTkw/MzY3LTE1MzAxMTU4/MjQtOTI3MS5qcGVn.jpeg" alt="Cover for Maestro&#39;s Choice - Vishwa Mohan Bhatt" style="max-width:120px; height:auto;" />
       </td>
@@ -1505,7 +1509,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/eg2rgOwed9XYe0U5edKfx0yuV3ZA_PQ8tvxNGn-mxDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1ODY3/ODMtMTQ4MzIwNDU1/My03MTQ1LmpwZWc.jpeg" alt="Cover for Tribute to Evanescence" style="max-width:120px; height:auto;" />
       </td>
@@ -1524,7 +1528,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/LMcbl7tq8v7T8_VjDWBN3PMCNvGH2rwhTUjEQ0aubp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA0/NDM0LTE1NDgxMTky/NDEtNzA0NC5qcGVn.jpeg" alt="Cover for Before the Beginning (Instrumentals)" style="max-width:120px; height:auto;" />
       </td>
@@ -1563,7 +1567,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
       </td>
       <td>2013-05-19</td>
@@ -1605,7 +1609,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 72</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 73</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 92</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 92</li>
             <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 98</li>
@@ -1614,7 +1618,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/8-SFDGLvP46pYwmWAed_AXK7BUPRHBYdHh6prFSU5RI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/MDE5LTE2NDMzOTYz/MTQtMjIyMy5qcGVn.jpeg" alt="Cover for Greensleeves" style="max-width:120px; height:auto;" />
       </td>
@@ -1634,7 +1638,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/DlMbx_UFUzyU9NNzbqjSx29-H_6EekjB3oaRgP5zPjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDg4/NzQwLTE2MDMyMjAw/MjItNTc0Ni5qcGVn.jpeg" alt="Cover for Heaven And Earth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2591e81c71eda3d246d3e5188267103d.png" alt="Cover for Heaven And Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-15</td>
       <td>Simon Wester</td>
@@ -1696,7 +1700,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       <td>
         <ul>
             <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 49</li>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 97</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1724,7 +1728,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/fKF-qcpAbC9FmbCmFFBxubG56KyDSRJR78oOUJdh1cc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMDUz/MDktMTQ3ODI5NDE1/NC01OTQ4LmpwZWc.jpeg" alt="Cover for Bourne Vivaldi" style="max-width:120px; height:auto;" />
       </td>
@@ -1746,9 +1750,9 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/JHeQiwCd2t1-ngrvaV7s4K0wzb5dzT9oEPnsIjAIm8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjAw/NDc4LTE0OTMyOTQ5/MjItMTc2MC5qcGVn.jpeg" alt="Cover for Metaphysics" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50f380f4f023a0361bdcde89728f5d34.png" alt="Cover for Metaphysics" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-07</td>
       <td>Sarah Slean</td>
@@ -1806,27 +1810,6 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/XkgRCpjWWOcngu1UIP2DfcXWXF34laUsYyX0ksJU0CE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQ5/ODY1LTE1NTYzMzYw/MjItOTkzNS5qcGVn.jpeg" alt="Cover for Stvff !n My Mnd (Deluxe Edition)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-03-16</td>
-      <td>Prosodi J.</td>
-      <td>Stvff !n My Mnd (Deluxe Edition)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>80</td>
       <td>
           <img src="https://i.discogs.com/JKqdM4mJX7OzIkUEjb_d9i-1_B3P5wKkaUA-I-O07Gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkw/MzM5LTE2MDM2NzQ2/NjgtMjAyMy5qcGVn.jpeg" alt="Cover for Vitamin String Quartet Performs Arcade Fire" style="max-width:120px; height:auto;" />
@@ -1846,9 +1829,9 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/GYyv1i90AWLzmNAoULdloWZa1TV5Rhczqk89ayirpLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQ0/MzAwLTE1NzI2MzIx/NDQtNjQ0NC5qcGVn.jpeg" alt="Cover for One Life - EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56c689fe05f9fb41610fc82af4df8b9e.png" alt="Cover for One Life - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-01</td>
       <td>Malibu</td>
@@ -1873,7 +1856,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/SdIfGYPhWLXnCYVJ3IkWeT3X4ZSCGjeVsRwVhrN1k6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDc1/MzUxLTE1OTIxNDg4/NTItMjc4Ni5qcGVn.jpeg" alt="Cover for Feather Hammer" style="max-width:120px; height:auto;" />
       </td>
@@ -1925,7 +1908,25 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>57</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbe4e0d570d6b2ba9347e9fffc9410a2.png" alt="Cover for Build A Problem" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-05-04</td>
+      <td>dodie</td>
+      <td>Build A Problem</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/idi-C8UEx-qAkEOjWnUwzPaiDmPEHuPpMBDAfSuzO0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTg3/NDM3LTE2NTIyNjAx/MzAtODU4My5qcGVn.jpeg" alt="Cover for ER-1035 on Elefant Records" style="max-width:120px; height:auto;" />
       </td>
@@ -1948,7 +1949,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/ZRXHDu9BxSUco33RxEZys_-wWzvg-Bhvv0T25PcCGSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTQ0/ODM1LTE2NzUxNjc0/NDgtNDMwMS5qcGVn.jpeg" alt="Cover for North and South" style="max-width:120px; height:auto;" />
       </td>
@@ -2008,7 +2009,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -2025,12 +2026,12 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 43</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -2058,7 +2059,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -2089,7 +2090,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
       </td>
       <td></td>
@@ -2114,7 +2115,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -2135,7 +2136,7 @@ Last updated: <time datetime="2025-10-28T06:02:07.326Z">Tue Oct 28 2025 08:02:07
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
