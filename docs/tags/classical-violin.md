@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-05T12:38:51.339Z
+date: 2025-11-11T04:41:45.797Z
 permalink: tags/classical-violin
 title: classical violin
 ---
 
 ## classical violin
 
-Last updated: <time datetime="2025-11-05T12:38:51.339Z">Wed Nov 05 2025 14:38:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T04:41:45.797Z">Tue Nov 11 2025 06:41:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -220,6 +220,23 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/3gxz_teqaiaW-aevZKbSmkil34m2dHfaikyKTZJ-Plk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzU1/ODQtMTMzNTg5MDQ3/NS5qcGVn.jpeg" alt="Cover for Violin Recital of Smetana, Dvořák, Janáček, Martinů, Ševčík" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982</td>
+      <td>Bohuslav Martinů</td>
+      <td>Violin Recital of Smetana, Dvořák, Janáček, Martinů, Ševčík</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -550,24 +567,6 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>
         <ul>
             <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 29</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/U6OVrUYEuGr4yFwYQgjP4GM1KqV8w8J3w6zorU0mApM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTU5/NjMyLTE2MjY3ODM3/NTQtNTk2MC5qcGVn.jpeg" alt="Cover for Mendelssohn: Violin Concerto in D Minor - Tchaikovsky: Serenade in C Major" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Felix Mendelssohn</td>
-      <td>Mendelssohn: Violin Concerto in D Minor - Tchaikovsky: Serenade in C Major</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -1187,7 +1186,7 @@ Classical violin music refers to music composed for and played on the violin in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 91</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1478,7 +1477,7 @@ Classical violin music refers to music composed for and played on the violin in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 35</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 36</li>
             <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 40</li>
             <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 90</li>
             <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 91</li>
