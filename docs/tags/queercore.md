@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T23:45:01.969Z
+date: 2025-11-11T04:56:11.799Z
 permalink: tags/queercore
 title: queercore
 ---
 
 ## queercore
 
-Last updated: <time datetime="2025-10-22T23:45:01.969Z">Thu Oct 23 2025 02:45:01 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-11T04:56:11.799Z">Tue Nov 11 2025 06:56:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/Wriu9AOtVRVqkCJBAzJSadzDvQhuDgEdU47vXdhxOcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMDY0/My0xMzcxNDE1ODMw/LTI0MjguanBlZw.jpeg" alt="Cover for I Was Born This Way" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01a0fad3110b9a773139dd933f338cc5.png" alt="Cover for I Was Born This Way" style="max-width:120px; height:auto;" />
       </td>
       <td>1977-12-15</td>
       <td>Carl Bean</td>
@@ -173,7 +173,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -184,7 +183,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 14</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 15</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 28</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 43</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 56</li>
@@ -204,7 +202,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -215,7 +212,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 5</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 7</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 21</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 48</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 49</li>
@@ -224,7 +220,7 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/aNitsC67-Oyt0TEhDBT1u2RUtipcca2xJUHfYV9zJZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Mzc4/MS0xMTc1NzA3NTk0/LmpwZWc.jpeg" alt="Cover for No Stranger To Shame (Explicit)" style="max-width:120px; height:auto;" />
       </td>
@@ -235,7 +231,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -253,7 +248,7 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/aNitsC67-Oyt0TEhDBT1u2RUtipcca2xJUHfYV9zJZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Mzc4/MS0xMTc1NzA3NTk0/LmpwZWc.jpeg" alt="Cover for No Stranger To Shame (Modified)" style="max-width:120px; height:auto;" />
       </td>
@@ -264,7 +259,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -274,7 +268,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 1</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 16</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 45</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 46</li>
@@ -294,7 +287,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -305,7 +297,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 11</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 12</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 26</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 46</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 54</li>
@@ -314,7 +305,7 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td>2004-06-29</td>
@@ -324,7 +315,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -353,7 +343,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -364,7 +353,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 19</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 20</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 33</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 40</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 59</li>
@@ -408,7 +396,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 24</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 25</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 28</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 37</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 38</li>
@@ -421,7 +408,7 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>2008-09-12</td>
@@ -464,7 +451,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 4</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 6</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 13</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 18</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 20</li>
@@ -490,7 +476,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -501,7 +486,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 22</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 22</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 26</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 35</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 38</li>
@@ -523,7 +507,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -534,7 +517,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 16</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 17</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 30</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 42</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 57</li>
@@ -554,7 +536,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -565,7 +546,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 17</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 18</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 31</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 41</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 58</li>
@@ -585,7 +565,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -597,7 +576,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 16</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 48</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 52</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 52</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 66</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 66</li>
@@ -618,7 +596,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -630,7 +607,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 18</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 50</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 50</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 64</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 82</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 83</li>
@@ -650,7 +626,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -661,7 +636,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 25</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 26</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 29</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 37</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 38</li>
@@ -684,7 +658,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -697,7 +670,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 11</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 52</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 58</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 60</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 70</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 72</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 89</li>
@@ -718,7 +690,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -731,7 +702,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 6</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 59</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 67</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 70</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 77</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 83</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 94</li>
@@ -751,7 +721,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -763,7 +732,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 20</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 45</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 47</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 47</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 62</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 62</li>
@@ -785,7 +753,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -798,7 +765,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 8</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 58</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 62</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 65</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 75</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 81</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 92</li>
@@ -818,7 +784,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -830,7 +795,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 19</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 46</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 49</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 49</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 63</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 63</li>
@@ -852,7 +816,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -863,7 +826,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 27</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 29</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 30</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 35</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 40</li>
@@ -905,13 +867,13 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 71</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 80</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 86</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 88</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 89</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 89</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 89</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 91</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 93</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 94</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 96</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1009,31 +971,32 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 3</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 9</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 16</li>
             <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 28</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 30</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 44</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 47</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 48</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 49</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 53</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 58</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 62</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 62</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 62</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 63</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 65</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 66</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 67</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 72</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 75</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 81</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 81</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 82</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 85</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 85</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 85</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 87</li>
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 89</li>
@@ -1053,7 +1016,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -1065,7 +1027,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 23</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 44</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 44</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 59</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 77</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 78</li>
@@ -1085,7 +1046,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -1097,7 +1057,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 21</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 44</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 46</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 46</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 61</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 61</li>
@@ -1119,7 +1078,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -1132,7 +1090,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 12</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 51</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 57</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 59</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 69</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 71</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 88</li>
@@ -1152,7 +1109,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -1164,7 +1120,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 24</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 42</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 43</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 43</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 58</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 59</li>
@@ -1184,7 +1139,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -1196,7 +1150,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 13</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 56</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 57</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 69</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 87</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 88</li>
@@ -1204,7 +1157,7 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d55899ac6f73e5bf009c604c63a6f14.png" alt="Cover for We Stitch These Wounds" style="max-width:120px; height:auto;" />
       </td>
@@ -1219,11 +1172,11 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 34</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 46</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 61</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 48</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 67</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 75</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 82</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 85</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 91</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 93</li>
         </ul>
@@ -1241,7 +1194,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -1253,7 +1205,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 22</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 43</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 45</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 45</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 60</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 60</li>
@@ -1263,33 +1214,7 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd543756837847bfa0e99c8c615ab14b.png" alt="Cover for Epic" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-10-05</td>
-      <td>Blood on the Dance Floor</td>
-      <td>Epic</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 7</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 8</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 17</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 41</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 46</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 48</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 74</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 80</li>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 82</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/OI5Ocd0GGyua8033EEfgmD0f5eTm_6z8eOpBn-b78oU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDQ0/NjEtMTM0MjYyMDM1/Mi0xNjgyLmpwZWc.jpeg" alt="Cover for Creatures" style="max-width:120px; height:auto;" />
       </td>
@@ -1304,9 +1229,10 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 1</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 23</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 27</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 69</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 26</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1359,12 +1285,13 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 8</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 16</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 19</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 34</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 49</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 58</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 71</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 80</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 83</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1380,7 +1307,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -1393,7 +1319,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 25</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 40</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 41</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 42</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 57</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 58</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 75</li>
@@ -1418,12 +1343,12 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 49</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 50</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 59</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 64</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 73</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 81</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 83</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 83</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 87</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 86</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 88</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 91</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 91</li>
@@ -1441,7 +1366,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
@@ -1450,7 +1374,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 49</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 51</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 52</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 71</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 73</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 76</li>
         </ul>
@@ -1459,6 +1382,7 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0973610d4ef36b301aeba9f87604757.png" alt="Cover for Hot Problems" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-18</td>
       <td>Double Take</td>
@@ -1556,9 +1480,9 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 27</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 29</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 32</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 37</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 43</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 40</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 43</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 43</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 44</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 47</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 48</li>
@@ -1566,8 +1490,8 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 57</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 61</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 70</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 72</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 73</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 73</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 75</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 75</li>
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 76</li>
@@ -1580,6 +1504,7 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc1d2aaa23fb4f1fadf94bb4b64a8a9c.png" alt="Cover for Goldie" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-27</td>
       <td>A$AP Rocky</td>
@@ -1608,18 +1533,18 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 91</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 96</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 97</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 97</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 97</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 97</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 97</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 98</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 99</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 100</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 100</li>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 100</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 100</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 100</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 100</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 100</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 100</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 100</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 100</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1636,7 +1561,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -1649,7 +1573,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 27</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 36</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 37</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 39</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 54</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 55</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 73</li>
@@ -1667,7 +1590,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
@@ -1677,7 +1599,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 45</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 56</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 71</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 72</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 75</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 78</li>
         </ul>
@@ -1695,7 +1616,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -1706,7 +1626,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 8</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 9</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 21</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 24</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 31</li>
@@ -1727,7 +1646,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -1739,7 +1657,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 31</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 32</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 33</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 47</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 67</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 69</li>
@@ -1762,10 +1679,10 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 15</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 44</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 59</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 41</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 63</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 66</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 67</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 78</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 87</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 88</li>
@@ -1804,7 +1721,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -1817,7 +1733,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 28</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 35</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 36</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 38</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 53</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 54</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 72</li>
@@ -1867,7 +1782,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -1880,7 +1794,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 9</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 56</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 61</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 64</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 73</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 79</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 91</li>
@@ -1898,7 +1811,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
@@ -1907,7 +1819,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 44</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 55</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 57</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 73</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 76</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 80</li>
         </ul>
@@ -1939,9 +1850,9 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 38</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 47</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 51</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 57</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 70</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1971,18 +1882,18 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 8</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 78</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 27</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 79</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 85</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 88</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 92</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 93</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 98</li>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 99</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 99</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 99</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 99</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2035,8 +1946,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
@@ -2050,9 +1959,7 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 3</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 52</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 77</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 81</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 87</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 91</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 97</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 98</li>
         </ul>
@@ -2108,7 +2015,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -2120,7 +2026,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 10</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 11</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 23</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 25</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 32</li>
@@ -2131,7 +2036,7 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/641p9XP-9g0PtKZlt9ICp7lQaVKgopctIWYngJyuln0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODYw/ODAtMTQ2ODc0NTE2/Mi00MTY1LmpwZWc.jpeg" alt="Cover for Sweatshirt" style="max-width:120px; height:auto;" />
       </td>
@@ -2148,7 +2053,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 1</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 82</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 86</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 87</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 89</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 91</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 91</li>
@@ -2170,7 +2074,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -2182,7 +2085,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 2</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 4</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 16</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 18</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 26</li>
@@ -2208,7 +2110,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 6</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 8</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 20</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 23</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 29</li>
@@ -2232,7 +2133,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -2243,7 +2143,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 28</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 30</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 31</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 34</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 41</li>
@@ -2267,7 +2166,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -2279,7 +2177,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 17</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 47</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 51</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 51</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 65</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 65</li>
@@ -2324,7 +2221,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
@@ -2333,7 +2229,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 49</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 50</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 51</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 58</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 68</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 70</li>
         </ul>
@@ -2353,7 +2248,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -2366,7 +2260,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 29</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 34</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 35</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 37</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 51</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 53</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 70</li>
@@ -2388,7 +2281,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -2401,7 +2293,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 10</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 53</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 59</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 61</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 71</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 74</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 90</li>
@@ -2422,7 +2313,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -2435,7 +2325,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 5</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 64</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 74</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 79</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 82</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 85</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 95</li>
@@ -2454,14 +2343,12 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 15</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 75</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 83</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 84</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 85</li>
@@ -2482,7 +2369,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -2493,7 +2379,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 30</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 32</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 33</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 44</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 46</li>
@@ -2516,7 +2401,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -2530,7 +2414,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 30</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 33</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 34</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 36</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 49</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 50</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 69</li>
@@ -2569,8 +2452,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
@@ -2584,9 +2465,7 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 7</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 37</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 64</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 67</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 82</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 90</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 93</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 94</li>
         </ul>
@@ -2628,7 +2507,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -2642,7 +2520,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 45</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 67</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 82</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 84</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 85</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 88</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 99</li>
@@ -2662,7 +2539,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -2675,7 +2551,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 4</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 15</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 75</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 80</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 86</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 96</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 97</li>
@@ -2683,7 +2558,7 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/1xvLEYMGQrMUpKaAEnPXZ7yqQf2rokFDU46Bd-U5KZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjg5/NzU1LTE2NDE4NzY0/MDYtMjI3OS5qcGVn.jpeg" alt="Cover for Only Getting Better" style="max-width:120px; height:auto;" />
       </td>
@@ -2696,7 +2571,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -2729,7 +2603,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -2742,7 +2615,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 31</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 32</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 32</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 34</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 48</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 49</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 68</li>
@@ -2764,7 +2636,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -2777,7 +2648,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 26</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 37</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 39</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 41</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 55</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 56</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 74</li>
@@ -2799,7 +2669,6 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
@@ -2811,10 +2680,9 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 14</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 49</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 54</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 54</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 67</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 67</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 67</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 86</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 87</li>
         </ul>
@@ -2894,9 +2762,9 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 20</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 23</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 38</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 48</li>
         </ul>
       </td>
@@ -2993,7 +2861,7 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/o9tJpzq0roSpeRFnxuHL7CBs99_MXkuurl69YvrmeLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQz/NzA4LTE2NjUxMDU2/MzgtMjUwNi5qcGVn.jpeg" alt="Cover for Sugar Coat (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -3011,7 +2879,7 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 88</li>
+            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -3044,14 +2912,12 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 36</li>
-            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 55</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 63</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 65</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 68</li>
@@ -3096,6 +2962,24 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf6a09ba74d8a3a2b16087e37cdd63a6.png" alt="Cover for Hello Kitty Scrapbook" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Milk In The Microwave</td>
+      <td>Hello Kitty Scrapbook</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -3104,10 +2988,10 @@ Queercore is a punk rock subgenre that emerged in the 1980s as an explicitly LGB
 - [queer metal]({{ "/tags/queer-metal" | relative_url }})
 - [sjw]({{ "/tags/sjw" | relative_url }})
 - [racist country]({{ "/tags/racist-country" | relative_url }})
-- [kkk country]({{ "/tags/kkk-country" | relative_url }})
 - [non-binary]({{ "/tags/non-binary" | relative_url }})
 - [genderqueer]({{ "/tags/genderqueer" | relative_url }})
 - [country rap]({{ "/tags/country-rap" | relative_url }})
 - [brutal death metal]({{ "/tags/brutal-death-metal" | relative_url }})
 - [bro-country]({{ "/tags/bro-country" | relative_url }})
 - [nsbm]({{ "/tags/nsbm" | relative_url }})
+- [goregrind]({{ "/tags/goregrind" | relative_url }})
