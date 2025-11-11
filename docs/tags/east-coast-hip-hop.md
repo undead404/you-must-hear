@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T13:20:31.026Z
+date: 2025-11-10T22:45:22.232Z
 permalink: tags/east-coast-hip-hop
 title: east coast hip hop
 ---
 
 ## east coast hip hop
 
-Last updated: <time datetime="2025-10-28T13:20:31.026Z">Tue Oct 28 2025 15:20:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-10T22:45:22.232Z">Tue Nov 11 2025 00:45:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -15,108 +15,2228 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 27 |  | 1990 | Gang Starr | Step In The Arena |
-| 17 |  | 1991-09-24 | A Tribe Called Quest | The Low End Theory |
-| 25 |  | 1991-10-22 | Black Sheep | A Wolf In Sheep&#39;s Clothing |
-| 28 |  |  | RXKNephew | Till I&#39;m Dead |
-| 30 |  | 1994-04-15 | Nas | Illmatic |
-| 29 |  | 1994-05-24 | Jeru the Damaja | The Sun Rises In The East |
-| 41 |  | 1996-04-02 | Bahamadia | Kollage |
-| 4 | ![Cover](https://i.discogs.com/sZueU4qnsX6BzrHWXl94mcNtepcIL9cdBDRKyMjyxls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ0/NTQtMTU3MjU1MzU2/My0yMjQ2LmpwZWc.jpeg) | 1997 | Elcamino | ElCamino 2 |
-| 12 | ![Cover](https://i.discogs.com/sZueU4qnsX6BzrHWXl94mcNtepcIL9cdBDRKyMjyxls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ0/NTQtMTU3MjU1MzU2/My0yMjQ2LmpwZWc.jpeg) | 1997 | Elcamino | Don&#39;t Eat the Fruit |
-| 1 | ![Cover](https://i.discogs.com/woB6F3fFTPF5oX8aecb1AHp63TdnkPcanYTPdhqG6wA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUz/Ni0xMzkxODA3MjU3/LTQ3NTguanBlZw.jpeg) | 1997-11-04 | Jedi Mind Tricks | The Psycho-social, Chemical, Biological, And Electro-magnetic Manipulation Of Human Consiousness |
-| 21 |  | 1999 | MF DOOM | Operation: Doomsday |
-| 48 |  | 1999-02-22 | The Roots | Things Fall Apart |
-| 13 |  | 2001-02-16 | Sage Francis | Sick of Waiting Tables |
-| 3 |  | 2014-11-28 | A$AP Ferg | Ferg Forever |
-| 5 | ![Cover](https://i.discogs.com/ZkGwUXCCi7t6tsibboi8JvNLn4d_5toQg5oCMo3scx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDcw/MjctMTQ1NzE0Mzc5/MC02MjM2LmpwZWc.jpeg) | 2016-03-01 | Pete Rock | Petestrumentals 2 |
-| 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/303559464c066ba31a7a82068be0644a.png) |  | RXKNephew | Shawty RXK Too 3 |
-| 47 | ![Cover](https://i.discogs.com/iERbK3hhV03J5bdMsA2g809X5pKJLiqkAy9yle0Hufw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDUx/OS0xNDI3NzU3Njc2/LTU2NjUuanBlZw.jpeg) | 2004 | Quinn | Interstate185 |
-| 24 | ![Cover](https://i.discogs.com/noeaax4s4fxMlZB60NrlUAzlTAvVNssdXqnlZBg3AbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzE0/MTgzLTE2MDcwMTAx/OTYtNDIzOC5qcGVn.jpeg) | 2011 | The Notorious B.I.G. | Life After Death (2014 Remaster) |
-| 26 | ![Cover](https://i.discogs.com/5a3qspevHGqnqXjxOU7x-PakW3VoI6N0mr6RRNlpSBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjU0/MzYtMTM5MTgxMTM5/NS02NTk0LmpwZWc.jpeg) | 2012-11-13 | Roc Marciano | MARCIOLOGY |
-| 22 | ![Cover](https://i.discogs.com/TbOR5jyuON_M01q5SqTadoitqqRtpN8hYZbbfW5xxKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU5/MzctMTQ5NjQ1OTA4/Ni02Njg4LmpwZWc.jpeg) | 2013 | MF DOOM | Operation: Doomsday. |
-| 19 |  | 2013-01-11 | A$AP Rocky | Long.Live.A$AP |
-| 36 | ![Cover](https://i.discogs.com/TbOR5jyuON_M01q5SqTadoitqqRtpN8hYZbbfW5xxKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU5/MzctMTQ5NjQ1OTA4/Ni02Njg4LmpwZWc.jpeg) | 2014 | MF DOOM | Operation Doomsday |
-| 32 |  | 2014-09-02 | Homeboy Sandman | Hallways |
-| 23 | ![Cover](https://i.discogs.com/NPSYoZISk6v6YsMpT_t6SJcOKM4UsBrAmbx-eeLcxlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjcw/MTItMTY0NjA2ODA2/OS01OTg3LmpwZWc.jpeg) | 2015-05-16 | Dr. Yen Lo | Days With Dr. Yen Lo |
-| 49 |  | 2016-01-29 | A$AP Mob | Yamborghini High (feat. Juicy J) - Single |
-| 7 | ![Cover](https://i.discogs.com/W4ugSEZhHjLTRY-QUBUCypfgYjgIObgPEa4bBYWR5QY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkw/NjQ0LTE1MzYzMjg4/MTMtNzA1NS5qcGVn.jpeg) | 2017 | Medslaus | Poorboy |
-| 35 | ![Cover](https://i.discogs.com/c2781jveoLiH7SQUQ-0zpwL3-gQWmPJ-vn0m-8BvTSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA0/MTkwLTE1MDYyNjg5/OTMtNTA1MS5qcGVn.jpeg) | 2017 | wiki | No Mountains in Manhattan |
-| 45 | ![Cover](https://i.discogs.com/rr5JZKSQaOvNuArAjMzvlY6tSxW90xaIDgtv1I9721Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTAx/Njg1LTE2NDA2MTEw/NTgtMzAwOS5qcGVn.jpeg) | 2017-10-23 | Westside Gunn | Hitler Wears Hermes 4 |
-| 31 | ![Cover](https://i.discogs.com/S7aA9_68fNvBTzjbAVC5vcbg8PMedd9bYTzKzUHlBYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjY2/NTY3LTE1Mzk2NDc2/NTctNjIxNy5qcGVn.jpeg) | 2018 | Roc Marciano | Behold a Dark Horse |
-| 50 | ![Cover](https://i.discogs.com/ZWKEbn8XxrLgIQS17W6Dkhtg5O2q2VhKQSTr9Oh6mpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTkz/MTc3LTE1MzAxODE3/NjQtMjQzMS5qcGVn.jpeg) | 2018-06-22 | Westside Gunn | SUPREME BLIENTELE |
-| 20 | ![Cover](https://i.discogs.com/LmA30CroWiGduUdPxoCCOZj4-C1CPckPFnqhYYSzw5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY4/NDk0LTE1NDM1MDY4/ODAtMzcwOS5qcGVn.jpeg) | 2018-07-24 | MEDHANE | Ba Suba, Ak Jamm |
-| 15 | ![Cover](https://i.discogs.com/LF3F3qYtzCdw16oRnHWrohT4d4zWpPokDOv-MHPtUQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ0/OTk4LTE1NTQzMzY2/NTctMzA1Ny5qcGVn.jpeg) | 2019-03-29 | Billy Woods &amp; Kenny Segal | Hiding Places |
-| 42 | ![Cover](https://i.discogs.com/o-C-LHvRxGKf6xEKDmDBRKcvzInbL5KZrrHOlClAREk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE0/OTI1LTE1NTU2NjUw/NjItNzE5My5qcGVn.jpeg) | 2019-04-19 | Your Old Droog | It Wasn&#39;t Even Close |
-| 40 | ![Cover](https://i.discogs.com/1WKHvWsSX5nqxkI-L0qyM7_XVV3-Dn3VUTz5RlA0JEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTcy/NDc4LTE1OTM4NDYy/MjUtNjYxNC5qcGVn.jpeg) | 2019-11-12 | MEDHANE | Own Pace |
-| 33 | ![Cover](https://i.discogs.com/J0og1BX-c7UTQBnP28Rn_0onnQOrYGl4rwCNFfVeSmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTE4/NjUtMTM2MzY2ODcw/NS03NDYwLmpwZWc.jpeg) | 2020-02-28 | Roc Marciano | Marcielago |
-| 43 | ![Cover](https://i.discogs.com/IpwMIN1JI9J5WNMJavF__MgF2xK99d0yE3LDQQfq50I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTM3/ODI1LTE1OTMyMzg5/MzAtNjE5NC5qcGVn.jpeg) | 2020-06-26 | Stove God Cooks | Reasonable Drought |
-| 6 | ![Cover](https://i.discogs.com/XDgHTRUbg_Z_cvQUW-bkbKClsx3q6miLA2FN94QzahQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcx/NTQ2LTE2MDYzNDEy/MzgtOTE3Mi5qcGVn.jpeg) | 2020-07-06 | Akai Solo | True Sky |
-| 10 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8dd374b985a13be971caf32a2a5f174f.png) | 2021 | ZillaKami | Dog Boy |
-| 34 | ![Cover](https://i.discogs.com/xsb_cskc82Yfzaf2W37m4JB6nURrsvSJcNDgwmh-1gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODMz/MDYzLTE2OTIzNzEz/NDctNDYwNy5qcGVn.jpeg) | 2021-02-19 | Rx Papi | 100 Miles &amp; Walk&#39;in |
-| 37 |  | 2021-05-28 | RXKNephew | Slitherman Activated |
-| 46 | ![Cover](https://i.discogs.com/5v8f-KLCScQsMgeOOhUlRCcrmZnVOXeWnx9KAgXL5cM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI0/MTY4LTE2Mjk4NjQ4/NTYtMzY4NS5wbmc.jpeg) | 2021-08 | xaviersobased | and when |
-| 2 |  | 2021-08-12 | Papo2oo4 | Continuous Improvement |
-| 16 | ![Cover](https://i.discogs.com/cmXdfG1_dnVZyxAuiEM363dxQBTqjL85Nrz767lKbsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU4/ODY4LTE2OTIzNzk3/ODMtNTIxOC5qcGVn.jpeg) | 2021-11-19 | Rx Papi &amp; Gud | Foreign Exchange |
-| 8 | ![Cover](https://i.discogs.com/L6VusPjOSz4qjcQU5fsRorvi913oUreoPVyS4TysbhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTkw/MTAxLTE2NDUwODMy/NjAtMzg2MC5qcGVn.jpeg) | 2022 | Rx Nephew | Make Drunk Cool Again |
-| 44 | ![Cover](https://i.discogs.com/HApYKJT_Q09Q8C1PkEIyYI-AreQzL_Hl0pezMGQqnpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTEw/NzEtMTQ1Njg0NTEw/OC03ODU3LmpwZWc.jpeg) | 2022 | Westside Gunn | FlyGod |
-| 11 | ![Cover](https://i.discogs.com/wWbRA_QAuEyGqTVN3aLgMOuvyrAMpmZ7PtqqUtowItY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMy/NTM0LTE2NjgxOTQw/MzQtNjQzNC5qcGVn.jpeg) | 2022-11-11 | Akai Solo | Spirit Roaming |
-| 18 | ![Cover](https://i.discogs.com/jhN-3Kts28ExnZUfjraC8Goyr2ID3nP2h4lXM4aFupc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDkz/OTExLTE2NzEyOTk4/ODItNzkxMy5qcGVn.jpeg) | 2022-12-16 | Bandmanrill | Club Godfather |
-| 38 | ![Cover](https://i.discogs.com/mlhjHrLPb0h1ixRThI-WE0nJPrmOaTZycF_oz2j9fl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODMx/Mjk3LTE2NzQyNTAx/NDgtODM3Ni5qcGVn.jpeg) | 2023-01-20 | ICE SPICE | Like..? - EP |
-| 9 | ![Cover](https://i.discogs.com/-gzeLpOqdHuUgPIR11RGEMNvWyfIKgKXt4lzSJfwKpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTgx/NTMxLTE2ODQwMDgy/MTktNjY1My5qcGVn.jpeg) | 2023-05 | Billy Woods &amp; Kenny Segal | Maps |
-| 39 |  |  | A$AP Rocky | LONG.LIVE.A$AP (Deluxe Edition) |
-| 79 |  | 1991-08-30 | Naughty By Nature | Naughty By Nature |
-| 58 | ![Cover](https://i.discogs.com/6KgfTAozfFwj9kSDCqT13oBVMkqJ2WtJdLz-EDUFG2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzc5/MC0xNTc3MDYxOTM5/LTIyMzEuanBlZw.jpeg) | 1993-02-23 | Naughty By Nature | 19 Naughty III |
-| 64 |  | 1995-04-18 | Mobb Deep | The Infamous |
-| 71 |  | 1997-11-24 | Will Smith | Big Willie Style |
-| 69 | ![Cover](https://i.discogs.com/ELIwpDr5YBMpAfAPcRZF8BQreelJcPfqdS90spCdC4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzgx/NjktMTY1NzkwOTg1/Ny0yMDA1LmpwZWc.jpeg) | 1998 | A Tribe Called Quest | We got it from Here... Thank You 4 Your service |
-| 75 | ![Cover](https://i.discogs.com/gdNij_O4o1lKim6E71F8pPj2aSsKIqXrJ4-18fRvpLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTMz/MTItMTQ1NTM5MDQ4/Mi0xNDA2LmpwZWc.jpeg) | 1999 | Stellar | El Dorado |
-| 68 |  | 1999-11-16 | Will Smith | Willennium |
-| 92 | ![Cover](https://i.discogs.com/oxGQMmM5LfY9Iz1bPqz1f79z0Z7tv4Z0yDqDMG2ECJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTMz/My0xMzc5ODQ3MDg5/LTk2MDAuanBlZw.jpeg) | 2001-09-11 | JAY Z | The Blueprint |
-| 82 |  | 2003-06-16 | King Geedorah | Take Me to Your Leader |
-| 51 |  | 2003-09-15 | Viktor Vaughn | Vaudeville Villain |
-| 55 | ![Cover](https://i.discogs.com/23JW3o4qkBEPFzmYoyIbZ-ZhlRWl1u41O4SV7G8nFfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzM3/Mi0xNTIxMzk0ODI0/LTkwMTguanBlZw.jpeg) | 2004-08-10 | Immortal Technique | Revolutionary Vol. 1 |
-| 62 |  | 2004-08-24 | Jedi Mind Tricks | Legacy of Blood |
-| 52 | ![Cover](https://i.discogs.com/h-zwe7KMKGz8HdAHe4qKIMPthxNmOoUjcUXYBspXacc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTIz/Mi0xMjY2NDcyMjI3/LmpwZWc.jpeg) | 2004-11-16 | MF DOOM | MM..Food |
-| 60 | ![Cover](https://i.discogs.com/noeaax4s4fxMlZB60NrlUAzlTAvVNssdXqnlZBg3AbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzE0/MTgzLTE2MDcwMTAx/OTYtNDIzOC5qcGVn.jpeg) | 2011 | The Notorious B.I.G. | Ready to Die - The Remaster |
-| 89 |  | 2013-01-15 | A$AP Rocky | LONG.LIVE.A$AP (Deluxe Version) |
-| 93 | ![Cover](https://i.discogs.com/E1pk1iw2mWyvK9o6_OKMw_5SGNTD3eVNG3Ce3inwzHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Njc5/NDItMTM3MTY0MzU5/OC0xMDAwLmpwZWc.jpeg) | 2013-06-14 | J. Cole | Born Sinner (Deluxe Version) |
-| 53 |  | 2013-08-19 | A$AP Ferg | Trap Lord |
-| 87 |  | 2013-12-04 | A$AP Mob | Trillmatic (feat. A$AP Nast &amp; Method Man) |
-| 91 |  | 2015-01-19 | Joey Bada$$ | B4.DA.$$ |
-| 54 | ![Cover](https://i.discogs.com/MNKisaXJ58EHmiiQanMHoXSUJBY0QQJtf1dNjcBjayA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDk5/ODctMTcxODg3Mzg5/OS0xMTc3LmpwZWc.jpeg) | 2015-09-25 | Fetty Wap | Fetty Wap |
-| 73 | ![Cover](https://i.discogs.com/sPDPaeM2f1mgldpkqf8wv1vPUvAEdduQ-7M-ftndHIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDc3/NDctMTY0NjA2ODEw/NC04MjU4LmpwZWc.jpeg) | 2016-08-13 | Ka | Honor Killed the Samurai |
-| 100 | ![Cover](https://i.discogs.com/YMF8OpcsDnor3Xn8woxYrU_0vxI5xyLt3ELcdAf6SdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc2/MTc2LTE1MTUyMDIz/NTEtMTczOC5qcGVn.jpeg) | 2017-01-10 | LIL PEEP | star shopping |
-| 99 |  | 2017-05-15 | A$AP Mob | Raf (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert &amp; Frank Ocean) |
-| 77 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8b9be49bca472705cc3a91e8a9062482.png) | 2017-07-14 | French Montana | Jungle Rules |
-| 86 | ![Cover](https://i.discogs.com/L8yKYOOMU1eAPoXaHMZgJuavIP1t-AjAXfABqpQ7Gwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTky/MTQ2LTE2MjA3NTI3/MTktMjQ0NS5qcGVn.jpeg) | 2017-10-23 | Westside Gunn | Hitler Wears Hermes 7 |
-| 84 |  | 2018-05-25 | A$AP Rocky | TESTING |
-| 56 | ![Cover](https://i.discogs.com/vsXoBy1QXPd4vrT6ClYFpzPcFwXTsvPwFu7Mw5yqIuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzIz/NDY1LTE0OTUzMTk0/MDAtNDUzOS5qcGVn.jpeg) | 2018-11-04 | Westside Gunn | Hitler Wears Hermes 6 |
-| 76 | ![Cover](https://i.discogs.com/sV0rVIG_EotY6pTRlYuA7XIGf6L-0D0ia04xbqFByjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODM5/NzM1LTE1NjIzMDQ5/NzktNTI4OS5qcGVn.jpeg) | 2019-07-20 | Westside Gunn | Flygod Is An Awesome God |
-| 98 | ![Cover](https://i.discogs.com/odAlu3rJIoxTYw2bW5aoWECUv-EveZbn2zaKRy7I3sE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODI2/MTQwLTE2NjI5ODY2/NjYtNTU3Mi5qcGVn.jpeg) | 2019-07-26 | Pop Smoke | Meet the Woo |
-| 95 | ![Cover](https://i.discogs.com/VO2xdVc_A-jkb2KTPED_Q05i_1y7yEdoI5P_rqY7vj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI1/ODQ4LTE2MDIxMDIz/MDYtNTkzMC5qcGVn.jpeg) | 2020-02-09 | Pop Smoke | Meet The Woo 2 |
-| 83 | ![Cover](https://i.discogs.com/8QheY_w8eZE7_29FeJ7Tcj17rZqKEGQcIHIh0US1bXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQ0/OTgxLTE1ODcyNTM3/OTMtODkyNi5qcGVn.jpeg) | 2020-06-01 | Westside Gunn | Pray For Paris |
-| 72 | ![Cover](https://i.discogs.com/s8IOUWIchpBnGfIHzMAikZGNKDwyy9NbobMSihmUjE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTgx/MjIyLTE2MDEzMTQx/MDItODY0OC5qcGVn.jpeg) | 2020-09-07 | Westside Gunn | Flygod Is An Awesome God 2 |
-| 61 | ![Cover](https://i.discogs.com/xsb_cskc82Yfzaf2W37m4JB6nURrsvSJcNDgwmh-1gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODMz/MDYzLTE2OTIzNzEz/NDctNDYwNy5qcGVn.jpeg) | 2021-02-19 | Rx Papi | The Root Of All Evil |
-| 66 | ![Cover](https://i.discogs.com/5v8f-KLCScQsMgeOOhUlRCcrmZnVOXeWnx9KAgXL5cM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI0/MTY4LTE2Mjk4NjQ4/NTYtMzY4NS5wbmc.jpeg) | 2021-08 | xaviersobased | install |
-| 70 |  |  | RXKNephew | Crack Therapy 3 |
-| 80 |  |  | A$AP Mob | Yamborghini High (feat. Juicy J) |
-| 90 | ![Cover](https://i.discogs.com/1HKv_W4g4WB6GSq8bib6jKKqQdTLc7YcNlsyIYKgxAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTEw/NTEwLTE2MjY0MTYy/MzUtNjY4OS5wbmc.jpeg) | 2021-07-16 | Pop Smoke | Faith |
-| 85 | ![Cover](https://i.discogs.com/sy2IrcBwCxWdF87FxSUdtPFTe0dQwYvdlGTBnaMqtiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODI0/NjUzLTE2NTE2MDIw/NDktOTk3MS5qcGVn.jpeg) | 2021-09-24 | Westside Gunn | Hitler Wears Hermes 8: Sincerely Adolf |
-| 88 | ![Cover](https://i.discogs.com/0zJAqQXy4Ir1fmMzShNcpq8hJJk9zlngNeCFjQa8w28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ4/NDIxLTE2NTI3MTUw/MjktNzQxMy5qcGVn.jpeg) | 2021-09-24 | Westside Gunn | Hitler Wears Hermes 8: Side B |
-| 81 | ![Cover](https://i.discogs.com/cmXdfG1_dnVZyxAuiEM363dxQBTqjL85Nrz767lKbsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU4/ODY4LTE2OTIzNzk3/ODMtNTIxOC5qcGVn.jpeg) | 2021-11-19 | Rx Papi | Foreign Exchange |
-| 59 | ![Cover](https://i.discogs.com/hOUQ3LpDFA0gXDNFzNCK66lVlvuf26YEnlLQwqu_1ro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjIx/MjQxLTE2ODQzMjM2/MjItMjcwMC5qcGVn.jpeg) | 2022 | Billy Woods | Maps |
-| 78 | ![Cover](https://i.discogs.com/af6NSXJwWj_fSS00A1uqqxsrwKKnCj74xIcSH1qpgN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODcy/MDUzLTE2NDk4OTU2/OTQtMzk0Mi5qcGVn.jpeg) | 2022-04-08 | Billy Woods | Aethiopes |
-| 94 | ![Cover](https://i.discogs.com/LT7-LCK-AnB3m10wdH4EYVd6tdkuOxUejiRTT16bI0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTg2/MTA3LTE2NjAzNzA3/NzMtOTY1MS5qcGVn.jpeg) | 2022-04-15 | Joey Valence &amp; Brae | Punk Tactics |
-| 74 | ![Cover](https://i.discogs.com/pOj-OKPgtA4DuKTH6Q0mkeYIjn2vPwbpJWLM5fKUrtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODE0/MTA3LTE2NjYyMTAx/MTctOTA0OC5wbmc.jpeg) | 2022-07-08 | Westside Gunn | PEACE &quot;FLY&quot; GOD |
-| 97 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5e6d3480d2dea6a0d317ea8abbb8e9db.png) |  | Ice Spice | Like..? |
-| 63 | ![Cover](https://i.discogs.com/PFO970ybmBBCiZz0VhyAD9bZOcZz4ZV8ramTEsgAGcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzU2/Mjk2LTE2MDk2MzYz/MDctODc3Ni5qcGVn.jpeg) | 2023 | MF DOOM | BORN LIKE THIS (Redux) |
-| 96 | ![Cover](https://i.discogs.com/mlhjHrLPb0h1ixRThI-WE0nJPrmOaTZycF_oz2j9fl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODMx/Mjk3LTE2NzQyNTAx/NDgtODM3Ni5qcGVn.jpeg) | 2023-01-20 | ICE SPICE | Like..? |
-| 65 | ![Cover](https://i.discogs.com/dT23u6zDEQQJVmwJI8WIKlDu-DSIJsjtCMDjksKzgeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjY0/NTQwLTE2OTQ3MjY3/ODAtNDk1Ny5qcGVn.jpeg) | 2023-06-02 | RealYungPhil | Ain&#39;t Bout Nun |
-| 57 | ![Cover](https://i.discogs.com/iQzrmYkwD-Q8Y_cGNXQIp3CnBwU2VMdlbP6IEYJ9ne0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTEz/OTMyLTE2OTE1MDEx/NzMtMTgzNS5qcGVn.jpeg) | 2023-08-04 | Navy Blue | Ways of Knowing |
-| 67 | ![Cover](https://i.discogs.com/BINKfB9IUdenRlfnBT-7I2BkBg_DVLGfFtJf6Ni51aA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzEz/MDQ1LTE3MTYwNDQ1/OTMtNjk2NS5qcGVn.jpeg) | 2024-05-17 | Mach-Hommy | #RICHAXXHAITIAN |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>Gang Starr</td>
+      <td>Step In The Arena</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4df1eca298baabcaef980a689f8f146e.png" alt="Cover for Naughty By Nature" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991-08-30</td>
+      <td>Naughty By Nature</td>
+      <td>Naughty By Nature</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 66</li>
+            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ab8ee8d7a7ff8bfb0c00afb89a38c16.png" alt="Cover for The Low End Theory" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991-09-24</td>
+      <td>A Tribe Called Quest</td>
+      <td>The Low End Theory</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 24</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 34</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 38</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fc0be8a14ede285ec63e8c9368ae04b.png" alt="Cover for A Wolf In Sheep&#39;s Clothing" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991-10-22</td>
+      <td>Black Sheep</td>
+      <td>A Wolf In Sheep&#39;s Clothing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa77a27956dfc60c2ca4d877072c77f7.png" alt="Cover for 19 Naughty III" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-02-23</td>
+      <td>Naughty By Nature</td>
+      <td>19 Naughty III</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dce63c224a643b78b39caeb27aadf8b.png" alt="Cover for Illmatic" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-04-15</td>
+      <td>Nas</td>
+      <td>Illmatic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 34</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 44</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 69</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bf84fda4fbe2421aa9f8604721171ca.png" alt="Cover for The Sun Rises In The East" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-05-24</td>
+      <td>Jeru the Damaja</td>
+      <td>The Sun Rises In The East</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22cd48a13d1b4609c6d9dabc22186ef4.png" alt="Cover for Tical" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-11-15</td>
+      <td>Method Man</td>
+      <td>Tical</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 3</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25c92211a1744a4d8a2d7854dd1d5fae.png" alt="Cover for The Infamous" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-04-18</td>
+      <td>Mobb Deep</td>
+      <td>The Infamous</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 6</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 34</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 40</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 56</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td>1996-04-02</td>
+      <td>Bahamadia</td>
+      <td>Kollage</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 11</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/sZueU4qnsX6BzrHWXl94mcNtepcIL9cdBDRKyMjyxls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ0/NTQtMTU3MjU1MzU2/My0yMjQ2LmpwZWc.jpeg" alt="Cover for ElCamino 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Elcamino</td>
+      <td>ElCamino 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 7</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 12</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/sZueU4qnsX6BzrHWXl94mcNtepcIL9cdBDRKyMjyxls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ0/NTQtMTU3MjU1MzU2/My0yMjQ2LmpwZWc.jpeg" alt="Cover for Don&#39;t Eat the Fruit" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Elcamino</td>
+      <td>Don&#39;t Eat the Fruit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 12</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 16</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 23</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/woB6F3fFTPF5oX8aecb1AHp63TdnkPcanYTPdhqG6wA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUz/Ni0xMzkxODA3MjU3/LTQ3NTguanBlZw.jpeg" alt="Cover for The Psycho-social, Chemical, Biological, And Electro-magnetic Manipulation Of Human Consiousness" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-11-04</td>
+      <td>Jedi Mind Tricks</td>
+      <td>The Psycho-social, Chemical, Biological, And Electro-magnetic Manipulation Of Human Consiousness</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c68ed1c137f04259c2e0ceab76e6218f.png" alt="Cover for Big Willie Style" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-11-24</td>
+      <td>Will Smith</td>
+      <td>Big Willie Style</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/ELIwpDr5YBMpAfAPcRZF8BQreelJcPfqdS90spCdC4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzgx/NjktMTY1NzkwOTg1/Ny0yMDA1LmpwZWc.jpeg" alt="Cover for We got it from Here... Thank You 4 Your service" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>A Tribe Called Quest</td>
+      <td>We got it from Here... Thank You 4 Your service</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 44</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 78</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5520cd4c7fff46bbe8baaa1fd31a9867.png" alt="Cover for Operation: Doomsday" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>MF DOOM</td>
+      <td>Operation: Doomsday</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 10</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 25</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5be5cb7b4bf18571f8485d729c6ca365.png" alt="Cover for El Dorado" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Stellar</td>
+      <td>El Dorado</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 67</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 75</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13ebf4676b07c751ba2fef75f853df6b.png" alt="Cover for Things Fall Apart" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-02-22</td>
+      <td>The Roots</td>
+      <td>Things Fall Apart</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 15</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 26</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aebedce2388134b65744ab78d58d9e45.png" alt="Cover for Willennium" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-11-16</td>
+      <td>Will Smith</td>
+      <td>Willennium</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td>2001-02-16</td>
+      <td>Sage Francis</td>
+      <td>Sick of Waiting Tables</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 21</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/oxGQMmM5LfY9Iz1bPqz1f79z0Z7tv4Z0yDqDMG2ECJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTMz/My0xMzc5ODQ3MDg5/LTk2MDAuanBlZw.jpeg" alt="Cover for The Blueprint" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-09-11</td>
+      <td>JAY Z</td>
+      <td>The Blueprint</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ba3f305787248a3c88e96fdfd33892a.png" alt="Cover for Take Me to Your Leader" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-06-16</td>
+      <td>King Geedorah</td>
+      <td>Take Me to Your Leader</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 11</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+      </td>
+      <td>2003-09-15</td>
+      <td>Viktor Vaughn</td>
+      <td>Vaudeville Villain</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 21</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 53</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/iERbK3hhV03J5bdMsA2g809X5pKJLiqkAy9yle0Hufw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDUx/OS0xNDI3NzU3Njc2/LTU2NjUuanBlZw.jpeg" alt="Cover for Interstate185" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Quinn</td>
+      <td>Interstate185</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 49</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/913d8eabb4a5294f3f5526ef5fba7ed9.png" alt="Cover for Revolutionary Vol. 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-08-10</td>
+      <td>Immortal Technique</td>
+      <td>Revolutionary Vol. 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td>2004-08-24</td>
+      <td>Jedi Mind Tricks</td>
+      <td>Legacy of Blood</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/h-zwe7KMKGz8HdAHe4qKIMPthxNmOoUjcUXYBspXacc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTIz/Mi0xMjY2NDcyMjI3/LmpwZWc.jpeg" alt="Cover for MM..Food" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-11-16</td>
+      <td>MF DOOM</td>
+      <td>MM..Food</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 12</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 54</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/noeaax4s4fxMlZB60NrlUAzlTAvVNssdXqnlZBg3AbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzE0/MTgzLTE2MDcwMTAx/OTYtNDIzOC5qcGVn.jpeg" alt="Cover for Life After Death (2014 Remaster)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>The Notorious B.I.G.</td>
+      <td>Life After Death (2014 Remaster)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 18</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 21</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 22</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e98c06cae376b818635ccc94e0338e7a.png" alt="Cover for Ready to Die - The Remaster" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>The Notorious B.I.G.</td>
+      <td>Ready to Die - The Remaster</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 61</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 70</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/5a3qspevHGqnqXjxOU7x-PakW3VoI6N0mr6RRNlpSBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjU0/MzYtMTM5MTgxMTM5/NS02NTk0LmpwZWc.jpeg" alt="Cover for MARCIOLOGY" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-11-13</td>
+      <td>Roc Marciano</td>
+      <td>MARCIOLOGY</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 15</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/TbOR5jyuON_M01q5SqTadoitqqRtpN8hYZbbfW5xxKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU5/MzctMTQ5NjQ1OTA4/Ni02Njg4LmpwZWc.jpeg" alt="Cover for Operation: Doomsday." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>MF DOOM</td>
+      <td>Operation: Doomsday.</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 11</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td>2013-01-11</td>
+      <td>A$AP Rocky</td>
+      <td>Long.Live.A$AP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0df72153bd60cdacd73263dd65de2041.png" alt="Cover for LONG.LIVE.A$AP (Deluxe Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-01-15</td>
+      <td>A$AP Rocky</td>
+      <td>LONG.LIVE.A$AP (Deluxe Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 25</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/E1pk1iw2mWyvK9o6_OKMw_5SGNTD3eVNG3Ce3inwzHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Njc5/NDItMTM3MTY0MzU5/OC0xMDAwLmpwZWc.jpeg" alt="Cover for Born Sinner (Deluxe Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-06-14</td>
+      <td>J. Cole</td>
+      <td>Born Sinner (Deluxe Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 58</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af71b4bfdb68bce6fd5a060499f36982.png" alt="Cover for Trap Lord" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-08-19</td>
+      <td>A$AP Ferg</td>
+      <td>Trap Lord</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>2013-12-04</td>
+      <td>A$AP Mob</td>
+      <td>Trillmatic (feat. A$AP Nast &amp; Method Man)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c09b4220d3d24bc585be4bc093de4199.png" alt="Cover for Operation Doomsday" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>MF DOOM</td>
+      <td>Operation Doomsday</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 14</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 31</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+      </td>
+      <td>2014-09-02</td>
+      <td>Homeboy Sandman</td>
+      <td>Hallways</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 41</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td>2014-11-28</td>
+      <td>A$AP Ferg</td>
+      <td>Ferg Forever</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f37e6bd19001468ac65cd867568cfb32.png" alt="Cover for B4.DA.$$" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-01-19</td>
+      <td>Joey Bada$$</td>
+      <td>B4.DA.$$</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 85</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/NPSYoZISk6v6YsMpT_t6SJcOKM4UsBrAmbx-eeLcxlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjcw/MTItMTY0NjA2ODA2/OS01OTg3LmpwZWc.jpeg" alt="Cover for Days With Dr. Yen Lo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-05-16</td>
+      <td>Dr. Yen Lo</td>
+      <td>Days With Dr. Yen Lo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 12</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/446b47b207bac1d1d1afadec086e4f4f.png" alt="Cover for Fetty Wap" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-09-25</td>
+      <td>Fetty Wap</td>
+      <td>Fetty Wap</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+      </td>
+      <td>2016-01-29</td>
+      <td>A$AP Mob</td>
+      <td>Yamborghini High (feat. Juicy J) - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 4</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8037643d59078129104a7f43c47a0e6.png" alt="Cover for Petestrumentals 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-03-01</td>
+      <td>Pete Rock</td>
+      <td>Petestrumentals 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b3f826eb7bcf8e6d7557415b38c0075.png" alt="Cover for Honor Killed the Samurai" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-08-13</td>
+      <td>Ka</td>
+      <td>Honor Killed the Samurai</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/W4ugSEZhHjLTRY-QUBUCypfgYjgIObgPEa4bBYWR5QY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkw/NjQ0LTE1MzYzMjg4/MTMtNzA1NS5qcGVn.jpeg" alt="Cover for Poorboy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Medslaus</td>
+      <td>Poorboy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 14</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/c2781jveoLiH7SQUQ-0zpwL3-gQWmPJ-vn0m-8BvTSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA0/MTkwLTE1MDYyNjg5/OTMtNTA1MS5qcGVn.jpeg" alt="Cover for No Mountains in Manhattan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>wiki</td>
+      <td>No Mountains in Manhattan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/YMF8OpcsDnor3Xn8woxYrU_0vxI5xyLt3ELcdAf6SdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc2/MTc2LTE1MTUyMDIz/NTEtMTczOC5qcGVn.jpeg" alt="Cover for star shopping" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-01-10</td>
+      <td>LIL PEEP</td>
+      <td>star shopping</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 98</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 100</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 100</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>2017-05-15</td>
+      <td>A$AP Mob</td>
+      <td>Raf (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert &amp; Frank Ocean)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 73</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 88</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b9be49bca472705cc3a91e8a9062482.png" alt="Cover for Jungle Rules" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-07-14</td>
+      <td>French Montana</td>
+      <td>Jungle Rules</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/rr5JZKSQaOvNuArAjMzvlY6tSxW90xaIDgtv1I9721Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTAx/Njg1LTE2NDA2MTEw/NTgtMzAwOS5qcGVn.jpeg" alt="Cover for Hitler Wears Hermes 4" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-10-23</td>
+      <td>Westside Gunn</td>
+      <td>Hitler Wears Hermes 4</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 45</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/654a28ac1ae841ab2cb67410927680cb.png" alt="Cover for Hitler Wears Hermes 7" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-10-23</td>
+      <td>Westside Gunn</td>
+      <td>Hitler Wears Hermes 7</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 63</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/S7aA9_68fNvBTzjbAVC5vcbg8PMedd9bYTzKzUHlBYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjY2/NTY3LTE1Mzk2NDc2/NTctNjIxNy5qcGVn.jpeg" alt="Cover for Behold a Dark Horse" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Roc Marciano</td>
+      <td>Behold a Dark Horse</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 25</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fead178e9a987d1bb3814047344f52d0.png" alt="Cover for TESTING" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-05-25</td>
+      <td>A$AP Rocky</td>
+      <td>TESTING</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 31</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 44</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 66</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 71</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/ZWKEbn8XxrLgIQS17W6Dkhtg5O2q2VhKQSTr9Oh6mpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTkz/MTc3LTE1MzAxODE3/NjQtMjQzMS5qcGVn.jpeg" alt="Cover for SUPREME BLIENTELE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-06-22</td>
+      <td>Westside Gunn</td>
+      <td>SUPREME BLIENTELE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 19</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 48</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 78</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/LmA30CroWiGduUdPxoCCOZj4-C1CPckPFnqhYYSzw5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY4/NDk0LTE1NDM1MDY4/ODAtMzcwOS5qcGVn.jpeg" alt="Cover for Ba Suba, Ak Jamm" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-07-24</td>
+      <td>MEDHANE</td>
+      <td>Ba Suba, Ak Jamm</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 9</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/vsXoBy1QXPd4vrT6ClYFpzPcFwXTsvPwFu7Mw5yqIuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzIz/NDY1LTE0OTUzMTk0/MDAtNDUzOS5qcGVn.jpeg" alt="Cover for Hitler Wears Hermes 6" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-11-04</td>
+      <td>Westside Gunn</td>
+      <td>Hitler Wears Hermes 6</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 51</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 55</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 68</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/LF3F3qYtzCdw16oRnHWrohT4d4zWpPokDOv-MHPtUQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ0/OTk4LTE1NTQzMzY2/NTctMzA1Ny5qcGVn.jpeg" alt="Cover for Hiding Places" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-03-29</td>
+      <td>Billy Woods &amp; Kenny Segal</td>
+      <td>Hiding Places</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/o-C-LHvRxGKf6xEKDmDBRKcvzInbL5KZrrHOlClAREk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE0/OTI1LTE1NTU2NjUw/NjItNzE5My5qcGVn.jpeg" alt="Cover for It Wasn&#39;t Even Close" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-04-19</td>
+      <td>Your Old Droog</td>
+      <td>It Wasn&#39;t Even Close</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 10</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 39</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 40</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 49</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/sV0rVIG_EotY6pTRlYuA7XIGf6L-0D0ia04xbqFByjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODM5/NzM1LTE1NjIzMDQ5/NzktNTI4OS5qcGVn.jpeg" alt="Cover for Flygod Is An Awesome God" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-07-20</td>
+      <td>Westside Gunn</td>
+      <td>Flygod Is An Awesome God</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 16</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 31</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 83</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/odAlu3rJIoxTYw2bW5aoWECUv-EveZbn2zaKRy7I3sE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODI2/MTQwLTE2NjI5ODY2/NjYtNTU3Mi5qcGVn.jpeg" alt="Cover for Meet the Woo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-07-26</td>
+      <td>Pop Smoke</td>
+      <td>Meet the Woo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/1WKHvWsSX5nqxkI-L0qyM7_XVV3-Dn3VUTz5RlA0JEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTcy/NDc4LTE1OTM4NDYy/MjUtNjYxNC5qcGVn.jpeg" alt="Cover for Own Pace" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-11-12</td>
+      <td>MEDHANE</td>
+      <td>Own Pace</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/VO2xdVc_A-jkb2KTPED_Q05i_1y7yEdoI5P_rqY7vj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI1/ODQ4LTE2MDIxMDIz/MDYtNTkzMC5qcGVn.jpeg" alt="Cover for Meet The Woo 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-02-09</td>
+      <td>Pop Smoke</td>
+      <td>Meet The Woo 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/J0og1BX-c7UTQBnP28Rn_0onnQOrYGl4rwCNFfVeSmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTE4/NjUtMTM2MzY2ODcw/NS03NDYwLmpwZWc.jpeg" alt="Cover for Marcielago" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-02-28</td>
+      <td>Roc Marciano</td>
+      <td>Marcielago</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 26</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 27</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/8QheY_w8eZE7_29FeJ7Tcj17rZqKEGQcIHIh0US1bXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQ0/OTgxLTE1ODcyNTM3/OTMtODkyNi5qcGVn.jpeg" alt="Cover for Pray For Paris" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-06-01</td>
+      <td>Westside Gunn</td>
+      <td>Pray For Paris</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 52</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 77</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 96</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/IpwMIN1JI9J5WNMJavF__MgF2xK99d0yE3LDQQfq50I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTM3/ODI1LTE1OTMyMzg5/MzAtNjE5NC5qcGVn.jpeg" alt="Cover for Reasonable Drought" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-06-26</td>
+      <td>Stove God Cooks</td>
+      <td>Reasonable Drought</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 13</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 42</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 54</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/XDgHTRUbg_Z_cvQUW-bkbKClsx3q6miLA2FN94QzahQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcx/NTQ2LTE2MDYzNDEy/MzgtOTE3Mi5qcGVn.jpeg" alt="Cover for True Sky" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-07-06</td>
+      <td>Akai Solo</td>
+      <td>True Sky</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 13</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/s8IOUWIchpBnGfIHzMAikZGNKDwyy9NbobMSihmUjE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTgx/MjIyLTE2MDEzMTQx/MDItODY0OC5qcGVn.jpeg" alt="Cover for Flygod Is An Awesome God 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-09-07</td>
+      <td>Westside Gunn</td>
+      <td>Flygod Is An Awesome God 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 21</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dd374b985a13be971caf32a2a5f174f.png" alt="Cover for Dog Boy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>ZillaKami</td>
+      <td>Dog Boy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 28</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 42</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 64</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/xsb_cskc82Yfzaf2W37m4JB6nURrsvSJcNDgwmh-1gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODMz/MDYzLTE2OTIzNzEz/NDctNDYwNy5qcGVn.jpeg" alt="Cover for 100 Miles &amp; Walk&#39;in" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-02-19</td>
+      <td>Rx Papi</td>
+      <td>100 Miles &amp; Walk&#39;in</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 2</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/xsb_cskc82Yfzaf2W37m4JB6nURrsvSJcNDgwmh-1gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODMz/MDYzLTE2OTIzNzEz/NDctNDYwNy5qcGVn.jpeg" alt="Cover for The Root Of All Evil" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-02-19</td>
+      <td>Rx Papi</td>
+      <td>The Root Of All Evil</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td>2021-05-28</td>
+      <td>RXKNephew</td>
+      <td>Slitherman Activated</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ff5e416d02568181c719bcd0e8f4677.png" alt="Cover for Faith" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-07-16</td>
+      <td>Pop Smoke</td>
+      <td>Faith</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 31</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td>2021-08-12</td>
+      <td>Papo2oo4</td>
+      <td>Continuous Improvement</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 9</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/5v8f-KLCScQsMgeOOhUlRCcrmZnVOXeWnx9KAgXL5cM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI0/MTY4LTE2Mjk4NjQ4/NTYtMzY4NS5wbmc.jpeg" alt="Cover for and when" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-08</td>
+      <td>xaviersobased</td>
+      <td>and when</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/5v8f-KLCScQsMgeOOhUlRCcrmZnVOXeWnx9KAgXL5cM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI0/MTY4LTE2Mjk4NjQ4/NTYtMzY4NS5wbmc.jpeg" alt="Cover for install" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-08</td>
+      <td>xaviersobased</td>
+      <td>install</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/sy2IrcBwCxWdF87FxSUdtPFTe0dQwYvdlGTBnaMqtiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODI0/NjUzLTE2NTE2MDIw/NDktOTk3MS5qcGVn.jpeg" alt="Cover for Hitler Wears Hermes 8: Sincerely Adolf" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-09-24</td>
+      <td>Westside Gunn</td>
+      <td>Hitler Wears Hermes 8: Sincerely Adolf</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 59</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 71</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 91</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/0zJAqQXy4Ir1fmMzShNcpq8hJJk9zlngNeCFjQa8w28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ4/NDIxLTE2NTI3MTUw/MjktNzQxMy5qcGVn.jpeg" alt="Cover for Hitler Wears Hermes 8: Side B" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-09-24</td>
+      <td>Westside Gunn</td>
+      <td>Hitler Wears Hermes 8: Side B</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 70</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 76</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 93</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/cmXdfG1_dnVZyxAuiEM363dxQBTqjL85Nrz767lKbsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU4/ODY4LTE2OTIzNzk3/ODMtNTIxOC5qcGVn.jpeg" alt="Cover for Foreign Exchange" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-11-19</td>
+      <td>Rx Papi &amp; Gud</td>
+      <td>Foreign Exchange</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 18</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/cmXdfG1_dnVZyxAuiEM363dxQBTqjL85Nrz767lKbsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU4/ODY4LTE2OTIzNzk3/ODMtNTIxOC5qcGVn.jpeg" alt="Cover for Foreign Exchange" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-11-19</td>
+      <td>Rx Papi</td>
+      <td>Foreign Exchange</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 21</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 63</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 81</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/L6VusPjOSz4qjcQU5fsRorvi913oUreoPVyS4TysbhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTkw/MTAxLTE2NDUwODMy/NjAtMzg2MC5qcGVn.jpeg" alt="Cover for Make Drunk Cool Again" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>Rx Nephew</td>
+      <td>Make Drunk Cool Again</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/HApYKJT_Q09Q8C1PkEIyYI-AreQzL_Hl0pezMGQqnpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTEw/NzEtMTQ1Njg0NTEw/OC03ODU3LmpwZWc.jpeg" alt="Cover for FlyGod" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>Westside Gunn</td>
+      <td>FlyGod</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 43</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 80</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/hOUQ3LpDFA0gXDNFzNCK66lVlvuf26YEnlLQwqu_1ro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjIx/MjQxLTE2ODQzMjM2/MjItMjcwMC5qcGVn.jpeg" alt="Cover for Maps" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>Billy Woods</td>
+      <td>Maps</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 51</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 63</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/af6NSXJwWj_fSS00A1uqqxsrwKKnCj74xIcSH1qpgN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODcy/MDUzLTE2NDk4OTU2/OTQtMzk0Mi5qcGVn.jpeg" alt="Cover for Aethiopes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-04-08</td>
+      <td>Billy Woods</td>
+      <td>Aethiopes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 26</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 55</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 85</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 87</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2191034bb72b953cf42246728c99902e.png" alt="Cover for PEACE &quot;FLY&quot; GOD" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-07-08</td>
+      <td>Westside Gunn</td>
+      <td>PEACE &quot;FLY&quot; GOD</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 28</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 49</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/wWbRA_QAuEyGqTVN3aLgMOuvyrAMpmZ7PtqqUtowItY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMy/NTM0LTE2NjgxOTQw/MzQtNjQzNC5qcGVn.jpeg" alt="Cover for Spirit Roaming" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-11-11</td>
+      <td>Akai Solo</td>
+      <td>Spirit Roaming</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/jhN-3Kts28ExnZUfjraC8Goyr2ID3nP2h4lXM4aFupc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDkz/OTExLTE2NzEyOTk4/ODItNzkxMy5qcGVn.jpeg" alt="Cover for Club Godfather" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-12-16</td>
+      <td>Bandmanrill</td>
+      <td>Club Godfather</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/PFO970ybmBBCiZz0VhyAD9bZOcZz4ZV8ramTEsgAGcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzU2/Mjk2LTE2MDk2MzYz/MDctODc3Ni5qcGVn.jpeg" alt="Cover for BORN LIKE THIS (Redux)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>MF DOOM</td>
+      <td>BORN LIKE THIS (Redux)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 30</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 64</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/mlhjHrLPb0h1ixRThI-WE0nJPrmOaTZycF_oz2j9fl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODMx/Mjk3LTE2NzQyNTAx/NDgtODM3Ni5qcGVn.jpeg" alt="Cover for Like..? - EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-01-20</td>
+      <td>ICE SPICE</td>
+      <td>Like..? - EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/mlhjHrLPb0h1ixRThI-WE0nJPrmOaTZycF_oz2j9fl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODMx/Mjk3LTE2NzQyNTAx/NDgtODM3Ni5qcGVn.jpeg" alt="Cover for Like..?" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-01-20</td>
+      <td>ICE SPICE</td>
+      <td>Like..?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/-gzeLpOqdHuUgPIR11RGEMNvWyfIKgKXt4lzSJfwKpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTgx/NTMxLTE2ODQwMDgy/MTktNjY1My5qcGVn.jpeg" alt="Cover for Maps" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-05</td>
+      <td>Billy Woods &amp; Kenny Segal</td>
+      <td>Maps</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/dT23u6zDEQQJVmwJI8WIKlDu-DSIJsjtCMDjksKzgeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjY0/NTQwLTE2OTQ3MjY3/ODAtNDk1Ny5qcGVn.jpeg" alt="Cover for Ain&#39;t Bout Nun" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-06-02</td>
+      <td>RealYungPhil</td>
+      <td>Ain&#39;t Bout Nun</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/iQzrmYkwD-Q8Y_cGNXQIp3CnBwU2VMdlbP6IEYJ9ne0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTEz/OTMyLTE2OTE1MDEx/NzMtMTgzNS5qcGVn.jpeg" alt="Cover for Ways of Knowing" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-08-04</td>
+      <td>Navy Blue</td>
+      <td>Ways of Knowing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 28</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 58</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/BINKfB9IUdenRlfnBT-7I2BkBg_DVLGfFtJf6Ni51aA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzEz/MDQ1LTE3MTYwNDQ1/OTMtNjk2NS5qcGVn.jpeg" alt="Cover for #RICHAXXHAITIAN" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-05-17</td>
+      <td>Mach-Hommy</td>
+      <td>#RICHAXXHAITIAN</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 38</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 74</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 74</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 75</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td></td>
+      <td>RXKNephew</td>
+      <td>Till I&#39;m Dead</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td></td>
+      <td>RXKNephew</td>
+      <td>Crack Therapy 3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td></td>
+      <td>A$AP Mob</td>
+      <td>Yamborghini High (feat. Juicy J)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 69</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/303559464c066ba31a7a82068be0644a.png" alt="Cover for Shawty RXK Too 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>RXKNephew</td>
+      <td>Shawty RXK Too 3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/637d5401c03c57abc11a7202175f5b70.png" alt="Cover for LONG.LIVE.A$AP (Deluxe Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>A$AP Rocky</td>
+      <td>LONG.LIVE.A$AP (Deluxe Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e6d3480d2dea6a0d317ea8abbb8e9db.png" alt="Cover for Like..?" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Ice Spice</td>
+      <td>Like..?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
