@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T05:55:48.911Z
+date: 2025-11-11T10:22:30.869Z
 permalink: tags/glasgow
 title: glasgow
 ---
 
 ## glasgow
 
-Last updated: <time datetime="2025-10-28T05:55:48.911Z">Tue Oct 28 2025 07:55:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T10:22:30.869Z">Tue Nov 11 2025 12:22:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
   </thead>
   <tbody>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/nBW4Go6Wz1SZD-OnjtO85O1VLHRz30iqslJJJux3SkA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY4/NTAzLTE1NzUxNDgw/MjMtMzU4NC5qcGVn.jpeg" alt="Cover for Sulphur Springs" style="max-width:120px; height:auto;" />
       </td>
@@ -76,7 +76,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/G6NeJuJJVKy6rN8OhJ6xm7BOuli0WdwugNBUj0O4t4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTIz/ODctMTI5NzY0MDIw/My5qcGVn.jpeg" alt="Cover for Mercerism" style="max-width:120px; height:auto;" />
       </td>
@@ -96,7 +96,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/vq_OWrwtK-pOX8AImJ_dKXey92o2tYFmIANRP_US-jA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjkx/Ni0xNDA4MzEzMTY4/LTc5MjIuanBlZw.jpeg" alt="Cover for Strawberry Switchblade (Expanded Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72ac1ad2d7c4f4686b3b939238c8e9fe.png" alt="Cover for Strawberry Switchblade (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Strawberry Switchblade</td>
@@ -113,14 +113,14 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       <td>
         <ul>
             <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 15</li>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 34</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/v2RBhaxaRrkOMJqdQjpWKSRzf8iHgbFRiSq_V-h6XdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjA1/NS0xMjQzMjg5NzI2/LmpwZWc.jpeg" alt="Cover for The 12&#39; Album" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b39aa9f9cf69e499028416d88314ecbe.png" alt="Cover for The 12&#39; Album" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-03-10</td>
       <td>Strawberry Switchblade</td>
@@ -136,7 +136,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 13</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -166,7 +166,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>1988</td>
@@ -208,9 +208,9 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/TId0k5-WXNncteMNp4DmAoTaJ_eYN49A3w_Ke2NT5Zs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDA5/MzIwLTE1NDY2MDg0/OTctMzQyMi5qcGVn.jpeg" alt="Cover for Do Or Die (Album)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfab908f0c3daa3611e9b1b69945edd6.png" alt="Cover for Do Or Die (Album)" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Russell Nash</td>
@@ -356,6 +356,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b51068da846421091b4d3686ae12c93.png" alt="Cover for Philophobia" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-04-20</td>
       <td>Arab Strap</td>
@@ -415,7 +416,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/kxRFAWqpezIn2G-0jsII_7GJfdBzmyiL1vWHmq3IL9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjMy/NTY3LTE1Nzg5MjYy/ODEtMjExMS5qcGVn.jpeg" alt="Cover for 24-7 EP" style="max-width:120px; height:auto;" />
       </td>
@@ -456,7 +457,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/O3QzA7nJS-A06cOc1kc-awMXpQp7FU796ZSknKXSnQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc0/NTQ4LTE2NjM1Mjg0/MjMtNDczNi5qcGVn.jpeg" alt="Cover for Where&#39;s the Magic Gone? Demo" style="max-width:120px; height:auto;" />
       </td>
@@ -478,7 +479,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/f__YDDBYl2pZnyQjBO0Z3lt_XLfTLCNUahcKZVQVV9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjU2/MDktMTY2MjU4MTQy/Mi01MDMwLmpwZWc.jpeg" alt="Cover for Mechanical Slaves E.P." style="max-width:120px; height:auto;" />
       </td>
@@ -535,7 +536,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 11</li>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -567,7 +568,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/vI4649LE4f9atQFLtE0oFoozdDtuBsjHYl-7_PKaEVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjA2/MjI1LTE2NTk4OTk3/ODMtNTY4OS5qcGVn.jpeg" alt="Cover for Cold and Beautiful EP" style="max-width:120px; height:auto;" />
       </td>
@@ -577,6 +578,24 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e82e1b066515986331587163d01a74b.png" alt="Cover for Cut with the Cake Knife" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Rose McDowall</td>
+      <td>Cut with the Cake Knife</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
       <td>
@@ -603,8 +622,9 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46a26030d34a457ac5c5f3cb07715360.png" alt="Cover for Franz Ferdinand - B-Sides, Unreleased and Covers" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-04-12</td>
       <td>Franz Ferdinand</td>
@@ -619,7 +639,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/D9DfcbYCxGcK9DAAAm3c0dbsf5N56cAnZEuEHNXuEtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzc0/MzMtMTI2ODE3MzAz/My5qcGVn.jpeg" alt="Cover for The Retosexuals Presents..." style="max-width:120px; height:auto;" />
       </td>
@@ -768,7 +788,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/Ek4NEAUkOWmBMtHaueK2LP2gzoyGIk1nkCgljaMuPFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDYy/MDEtMTIyMDM0OTE3/NS5qcGVn.jpeg" alt="Cover for egg" style="max-width:120px; height:auto;" />
       </td>
@@ -841,7 +861,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/9tzXUo4Y_BJuIohPPwpGaOW5v5pgX0XDQAvFI9dVI5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMy/MjEtMTM5MzMyNTY0/MC0xNjMwLmpwZWc.jpeg" alt="Cover for Too Many People (From &#39;Blood in Your Eyes&#39; single)" style="max-width:120px; height:auto;" />
       </td>
@@ -900,7 +920,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/Ek4NEAUkOWmBMtHaueK2LP2gzoyGIk1nkCgljaMuPFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDYy/MDEtMTIyMDM0OTE3/NS5qcGVn.jpeg" alt="Cover for theatre" style="max-width:120px; height:auto;" />
       </td>
@@ -965,7 +985,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/pf-AKDuY7V81Nb-Z97oqO3pc9EhyLQzQiu_3rZ8C8EQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjk4/OTMwLTE2MTg0MzM0/NzUtMTAxMC5qcGVn.jpeg" alt="Cover for Peel" style="max-width:120px; height:auto;" />
       </td>
@@ -1007,6 +1027,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f67280ca98af9a596862af2c4bb377c3.png" alt="Cover for Private Rockstar" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Emma Forman</td>
@@ -1047,7 +1068,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 7</li>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1126,7 +1147,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/ZfLGLmevDfaCGgjwYBtUR3wxSrd-Uubm2KoFuPLsB_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjQ2/OTQtMTM0MzQ4NjU3/NS05MjgyLmpwZWc.jpeg" alt="Cover for Not Quite Bohemian" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35249caa60dc457f966bba44124997d4.png" alt="Cover for Not Quite Bohemian" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-27</td>
       <td>Tibursky</td>
@@ -1189,7 +1210,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/Ftf4jM_jMIReVwsbj8o0eF7awzyHA9JrRGl7Bxgn_VI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjU5/MjEtMTMwMDA0ODQ4/OS5qcGVn.jpeg" alt="Cover for The Butterfly Kiss EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1244,6 +1265,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4848a894cb144938ace389b39f9dfb02.png" alt="Cover for It Looked So Good On Me..." style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-30</td>
       <td>VUKOVI</td>
@@ -1263,7 +1285,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td>2012</td>
@@ -1285,7 +1307,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/k9aLygYEmi-YpURmeyS3QYJlO_Dux7Uc7woUmquUHEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDAw/ODMtMTQ0OTkyMzE5/Ni03Mjk4LmpwZWc.jpeg" alt="Cover for ...But I Won&#39;t Wear You Again" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1517c160a8da4307984bd84e8bb13c46.png" alt="Cover for ...But I Won&#39;t Wear You Again" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-09</td>
       <td>VUKOVI</td>
@@ -1305,7 +1327,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/CwtviD1BWeH-RxmSswnBXMFl9kmEIdry3e06ugG3mfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjUz/OTQtMTYwMzY1OTQ5/NS05NTY4LmpwZWc.jpeg" alt="Cover for Love Hz (LVHz001)" style="max-width:120px; height:auto;" />
       </td>
@@ -1344,7 +1366,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/DHnwNKeA65QAvl5Ff02IORgIBVFqCZAdyT1uViO8Bm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDE3/NDYtMTQ0OTk0ODcw/NC0yNjkzLmpwZWc.jpeg" alt="Cover for He Loves Me Not (Acoustic Alternative)" style="max-width:120px; height:auto;" />
       </td>
@@ -1367,6 +1389,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab2f1413fd654d3d82da03efef30d388.png" alt="Cover for Sweet Swears" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-22</td>
       <td>VUKOVI</td>
@@ -1386,7 +1409,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/OmXAyr9sfjZGAlNM1RubALMbX_VlooGX6iORWo5Cs8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM5/MTQ3LTE1NDI5NTU4/MTQtMjA4My5qcGVn.jpeg" alt="Cover for ASTROMETRICKs" style="max-width:120px; height:auto;" />
       </td>
@@ -1423,7 +1446,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/PUOmlaS8DgoudnBZomAg6IC1ccGVglGEonAWfxYzqmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTAw/MzQtMTM3MTk5NjA3/Ny05Njc3LmpwZWc.jpeg" alt="Cover for Chronoillogical (Glasgow Recordings 1982 - 1987)" style="max-width:120px; height:auto;" />
       </td>
@@ -1464,7 +1487,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/CupZwcGMlBHopmZXEYvwyzbZ-hCV_yA_LgoCzvpZXqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Nzky/OTYtMTM5NzA4NjQ2/Ni04ODU5LmpwZWc.jpeg" alt="Cover for Elaine" style="max-width:120px; height:auto;" />
       </td>
@@ -1521,7 +1544,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/qVhybX_6h8y4OhQP7zg3mmP_hOhupx087g-2FbK0EPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODU5/MDczLTE2NDEyMjk5/ODctODY1My5qcGVn.jpeg" alt="Cover for Not Tonight EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1543,6 +1566,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb5a6a704c97beddbab25eaa2e043d16.png" alt="Cover for Black Frames" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-16</td>
       <td>Dave Aju</td>
@@ -1572,9 +1596,9 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/uwpBosjk-CFP2ttuMv8kUzg-y7bQC1PUjb4kwrnGM2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTQx/OTYtMTQxMzQwMzA1/Mi03MDA5LmpwZWc.jpeg" alt="Cover for Sympathetic Detonations" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ecd4b56fb054e55cee30fecb20e8b5b.png" alt="Cover for Sympathetic Detonations" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-15</td>
       <td>diss1</td>
@@ -1595,7 +1619,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
       </td>
       <td>2016-07-08</td>
@@ -1635,7 +1659,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/KwPSw4WHBGrv64-uWXNI9jJdtlZ9_J42mq-BAbTZC_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI2/OTE2LTE1OTMwMjg5/NTctNzYxNy5qcGVn.jpeg" alt="Cover for Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -1723,27 +1747,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>The Hybrid Vine</td>
-      <td>No Side Effects</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1761,7 +1765,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1783,7 +1787,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -1803,7 +1807,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -1827,7 +1831,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -1847,7 +1851,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>
@@ -1874,7 +1878,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
       </td>
       <td></td>
@@ -1893,7 +1897,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
       </td>
       <td></td>
@@ -2165,7 +2169,7 @@ The Glasgow tag captures the distinctive indie and alternative music scene emerg
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>

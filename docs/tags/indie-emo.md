@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-27T01:58:48.774Z
+date: 2025-11-11T11:52:49.372Z
 permalink: tags/indie-emo
 title: indie emo
 ---
 
 ## indie emo
 
-Last updated: <time datetime="2025-10-27T01:58:48.774Z">Mon Oct 27 2025 03:58:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T11:52:49.372Z">Tue Nov 11 2025 13:52:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/kRZs2LMf6F2emQpk86wxeoLCPYceRiQBJEU7eFknsUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjYy/ODItMTMwOTAwMzEz/MC5qcGVn.jpeg" alt="Cover for AUTOTUNE MAL" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ad3ad364bd3da463b3042b657c98c81.png" alt="Cover for AUTOTUNE MAL" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>NOTA</td>
@@ -50,7 +50,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>1985</td>
@@ -89,7 +89,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/C8L9sCf7OD8A5UBNKAoUgEbQJtx1uO8PyjHiC9dL_cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Mzgz/MDEtMTM3OTk5NzUz/MC05NDQ2LmpwZWc.jpeg" alt="Cover for End Session" style="max-width:120px; height:auto;" />
       </td>
@@ -107,7 +107,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
       </td>
       <td>1994</td>
@@ -124,7 +124,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/O6ncYUhg1cKr7KAZFnmSq3HvBcLccMspfCWN3jI2SbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjg5/ODMtMTMwMjg5Nzc2/OS5qcGVn.jpeg" alt="Cover for In Circles EP (Promo)" style="max-width:120px; height:auto;" />
       </td>
@@ -160,7 +160,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08def99bb98445a2a9377e316a2eba72.png" alt="Cover for Sevens" style="max-width:120px; height:auto;" />
       </td>
@@ -199,7 +199,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/x-m6l2RmB2KQ7LYN3QY3WpYg5zO8as0gDJMF5EDnd6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzEy/MDMtMTI2NDA5Njk2/MS5qcGVn.jpeg" alt="Cover for Stereo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc7ca3751beff63db5d8a643a3f1c22a.png" alt="Cover for Stereo" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Christie Front Drive</td>
@@ -217,7 +217,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/NLF0leO8ngUHuHJUBMGCd-_o6iWuTl_erDJKMjuznno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzIx/ODEtMTQxMjQ2MTQ3/My0zMjYzLmpwZWc.jpeg" alt="Cover for End Session" style="max-width:120px; height:auto;" />
       </td>
@@ -256,7 +256,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/601d5a74fe81295703c91ae1ac0d04f6.png" alt="Cover for Eight Hours Away From Being A Man" style="max-width:120px; height:auto;" />
       </td>
@@ -292,8 +292,9 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40dcdeebb07940ab90bd03d19c4eeb09.png" alt="Cover for The Industry Of Natural Occurence" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Tomorrow</td>
@@ -315,6 +316,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fb8491fc15c5ed430c4b11af3838711.png" alt="Cover for Gabardine" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Gabardine</td>
@@ -370,7 +372,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/J1LwwUxfW7G2jnMn2nHnxED1BFLE5nxCMLvalbEwvXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDkx/NjctMTYyNTMxNzA0/MC02MDIxLmpwZWc.jpeg" alt="Cover for Amateurs and Professionals" style="max-width:120px; height:auto;" />
       </td>
@@ -408,7 +410,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be6733058d12447d9124f545cf753b2d.png" alt="Cover for The Moon My Saddle" style="max-width:120px; height:auto;" />
       </td>
@@ -448,7 +450,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td>1999</td>
@@ -468,7 +470,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/E7Of0TokTdGZ6u2jGQ3EdbONOTeGpyxQ5IEXDiAjcVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzIx/MTEtMTU0NzA0NTU2/OS03OTk1LnBuZw.jpeg" alt="Cover for A Pacific Puzzle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b62b4d341df79ddb86a14ce928e4dd6.png" alt="Cover for A Pacific Puzzle" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Maggat</td>
@@ -486,7 +488,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/9qTG4CD9GwEjU_eoEC-XQUCw0-YFXIft-jrr4fMjcJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODE0/NDUtMTQ1NTYzOTUx/MS0yNDMxLnBuZw.jpeg" alt="Cover for Amateurs &amp; Professionals" style="max-width:120px; height:auto;" />
       </td>
@@ -505,7 +507,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/518b80f7ca2e0e2cdcc273f7e5e16b49.png" alt="Cover for the essential thing" style="max-width:120px; height:auto;" />
       </td>
@@ -597,7 +599,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td>2000-01</td>
@@ -637,7 +639,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/c-Rz__CHLyPKzwGwTPPKA_3erU3iNSTDEDpKuBd-WS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODI3/NTktMTMwMDk4OTY0/Ni5qcGVn.jpeg" alt="Cover for R.I.P" style="max-width:120px; height:auto;" />
       </td>
@@ -676,6 +678,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2234ad99b66c45b780eee3a638594ea3.png" alt="Cover for Little Eyes" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Hundred Hands</td>
@@ -697,7 +700,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/2lVt6xtenfHd_-z__HVg2ugmUXVvy1VKCRpXblRdNyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODE0/NTAtMTYwMTg4ODU4/Mi01NjY5LmpwZWc.jpeg" alt="Cover for Our First Taste of Escape" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb07bf3a2b21dcd05d2481bb5b11d9e6.png" alt="Cover for Our First Taste of Escape" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Penfold</td>
@@ -737,7 +740,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/293f4e695ea64c26a80d3404040df2c4.png" alt="Cover for At the Speed of Light or Day" style="max-width:120px; height:auto;" />
       </td>
@@ -755,7 +758,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
       </td>
       <td>2001-10</td>
@@ -775,7 +778,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
       </td>
       <td>2001-11-06</td>
@@ -793,7 +796,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/474b7d0cc6530f6d3e0041b527841cd1.png" alt="Cover for Something Loud" style="max-width:120px; height:auto;" />
       </td>
@@ -847,7 +850,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
       </td>
       <td>2002-12-28</td>
@@ -865,7 +868,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/xgiHCCzCXmY2GcQAVWumae5_H_0sRaqLPf_bmVoLl8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODE1/NzItMTM1MDAzODI4/Ny04OTg1LmpwZWc.jpeg" alt="Cover for Don´t Try to Forget . . . That´s Why People Take Pictures" style="max-width:120px; height:auto;" />
       </td>
@@ -941,7 +944,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/vrHSo9z5DWOBEa33OEB8Uh0cxar-n0JA2qexZFvIAYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjI0/OTctMTI3OTU4NjI1/NC5qcGVn.jpeg" alt="Cover for In Loving Memory - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1085,7 +1088,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/rz_qg1HrN9qX2JZMuWeBCj7uvi9Fyh5WtJEQI_yd-XI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzAy/MjQtMTI0MjY1NjE1/My5qcGVn.jpeg" alt="Cover for One Hundred Dollar Room" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6da01d9031c54b583641200019f3979b.png" alt="Cover for One Hundred Dollar Room" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-02</td>
       <td>Kind of Like Spitting</td>
@@ -1102,7 +1105,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef946af5497c4bc78734e8503c137200.png" alt="Cover for In The Shadow of Two Gunmen" style="max-width:120px; height:auto;" />
       </td>
@@ -1148,10 +1151,10 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
         <ul>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 1</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 34</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 42</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 42</li>
             <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 42</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 65</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 42</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 43</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 63</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 68</li>
         </ul>
       </td>
@@ -1174,7 +1177,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
       </td>
       <td>2007-07-05</td>
@@ -1204,13 +1207,13 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 35</li>
             <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 39</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 59</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 64</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 62</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11f0008069867c3aabb3c8dd38bd0433.png" alt="Cover for Black Earth Tiger" style="max-width:120px; height:auto;" />
       </td>
@@ -1261,8 +1264,8 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 39</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 45</li>
             <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 45</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 51</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 66</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 52</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 65</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 74</li>
         </ul>
       </td>
@@ -1270,6 +1273,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1c20ed34ad6418eacb629f314776d92.png" alt="Cover for Bis zum Ende" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Mikroboy</td>
@@ -1290,7 +1294,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43146cfe76e54f1fa7176edae1aaa1cc.png" alt="Cover for Illuminate" style="max-width:120px; height:auto;" />
       </td>
@@ -1300,7 +1304,6 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 57.99999999999999 / 100)"> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a></li>
         </ul>
       </td>
       <td>
@@ -1309,7 +1312,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td>2009</td>
@@ -1348,7 +1351,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b65e185026fc46aeb827200452926bb1.png" alt="Cover for Alive for the First Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1365,7 +1368,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/9UCp1ddfrze7c__yuKqAxY7V7WNIQT-YmIqlp91GhfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODU2/MzMtMTIzNjg0NDY3/My5qcGVn.jpeg" alt="Cover for hearts and minds" style="max-width:120px; height:auto;" />
       </td>
@@ -1408,7 +1411,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 38</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1430,7 +1433,25 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>42</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/190c7cbee9aa5fdc977e3f018028beac.png" alt="Cover for What It Takes to Move Forward" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-09-29</td>
+      <td>Empire! Empire! (I Was a Lonely Estate)</td>
+      <td>What It Takes to Move Forward</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/QBrxGCGaGbC40H6HMRUFoN1Cw-Is0VOsOxeF3fDzEC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTYz/NDYtMTM1NTA5MTU2/MS00MDE5LmdpZg.jpeg" alt="Cover for Sidekicks&#x2F;Tigers Jaw Split EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1453,7 +1474,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/oojoQRhf20YVqmun1WppfPDjYwDAj0dnpQ0zSO14leg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc2/NTI1LTE1NTY4MTkw/MjAtMTc1Ni5qcGVn.jpeg" alt="Cover for the unconscious" style="max-width:120px; height:auto;" />
       </td>
@@ -1494,12 +1515,12 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 27</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/mp-Tm_6yQdU8b9g4Yo9VV9xpPupnkjEMhS9gf8_S6f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI0/OTI3LTE1NDI2NjIw/OTUtMzI0Mi5qcGVn.jpeg" alt="Cover for Best Friends Fourever Split" style="max-width:120px; height:auto;" />
       </td>
@@ -1555,7 +1576,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/mp-Tm_6yQdU8b9g4Yo9VV9xpPupnkjEMhS9gf8_S6f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI0/OTI3LTE1NDI2NjIw/OTUtMzI0Mi5qcGVn.jpeg" alt="Cover for Emo Side Project &#x2F; Mane Horse Split" style="max-width:120px; height:auto;" />
       </td>
@@ -1611,7 +1632,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/mp-Tm_6yQdU8b9g4Yo9VV9xpPupnkjEMhS9gf8_S6f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI0/OTI3LTE1NDI2NjIw/OTUtMzI0Mi5qcGVn.jpeg" alt="Cover for Di Bravura&#x2F;Mane Horse Split" style="max-width:120px; height:auto;" />
       </td>
@@ -1776,7 +1797,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 3</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 4</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 7</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 17</li>
             <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 44</li>
@@ -1805,7 +1826,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/S_MOQSc5ZCkyoACteDD7C2KzBIil1mn8Kwv702lo3OE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTky/MzEtMTQ3NDc1MjAx/Mi03MDQxLmpwZWc.jpeg" alt="Cover for The Optimist" style="max-width:120px; height:auto;" />
       </td>
@@ -1825,28 +1846,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2013-04-19</td>
-      <td>I Kill Giants</td>
-      <td>ST</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/379c38f4af7c35276b180ebc71b84c13.png" alt="Cover for Dead Formats, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1922,8 +1922,9 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d8922eeeda10b9404a457cc29c2b646.png" alt="Cover for Sometimes You&#39;re A Radio" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-07</td>
       <td>Karate</td>
@@ -1942,7 +1943,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td>2024</td>
@@ -1982,8 +1983,9 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a767520b900bc107910dcebcfb09b41.png" alt="Cover for Demo without the D" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>A Few Hours Later</td>
@@ -2007,7 +2009,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -2027,7 +2029,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a238c10b278d85dd03d6d29950ce640b.png" alt="Cover for Cherry Blossom Season" style="max-width:120px; height:auto;" />
       </td>
@@ -2111,8 +2113,9 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a108eedeb5831880de541faffbcf5c42.png" alt="Cover for Two Emos (And Some Checkered Vans) - Single" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Fox Teeth</td>
@@ -2129,8 +2132,9 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d672f2fb2bf4f3dfd9c73278ea8fbe43.png" alt="Cover for Maybe Someday We&#39;ll Bloom - EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sounds &amp; Scenarios</td>
@@ -2150,7 +2154,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86529cb72d911a50d84200018bb00749.png" alt="Cover for Things I Need to Leave Behind" style="max-width:120px; height:auto;" />
       </td>
@@ -2172,7 +2176,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -2190,7 +2194,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>

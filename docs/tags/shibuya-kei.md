@@ -1,118 +1,2004 @@
 ---
 category: genre
-date: 2025-10-18T12:05:41.287Z
+date: 2025-11-11T10:57:54.126Z
 permalink: tags/shibuya-kei
 title: shibuya-kei
 ---
 
 ## shibuya-kei
 
-Last updated: <time datetime="2025-10-18T12:05:41.287Z">Sat Oct 18 2025 15:05:41 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-11T10:57:54.126Z">Tue Nov 11 2025 12:57:54 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district during the 1990s, blending retro influences from French pop, bossa nova, and lounge music with electronic production. The sound is characterized by sophisticated arrangements, playful sampling, and a cosmopolitan aesthetic that celebrates vintage Western pop culture. It represents a distinctly urban, fashion-conscious approach to pop music that bridges indie sensibilities with accessible melodies.
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 5 |  | 1972 | Various Artists | BEAUTIFUL TECHNO |
-| 22 | ![Cover](https://i.discogs.com/j1-aXLyvdDDN2GMEi3HzHOsJNBgNEGCMp9wHupr2D6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTI2/ODQtMTI5Mjk4MjQ4/NS5qcGVn.jpeg) | 1987-04-01 | Pizzicato Five | Couples |
-| 35 |  | 1989-08-25 | Flipper&#39;s Guitar | THREE CHEERS FOR OUR SIDE |
-| 53 | ![Cover](https://i.discogs.com/Uw3OI5hGSDbv7XC68Lzk9-5G37ECWMAPFXxOdD_Djvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU0/NTIwLTE1NDEzMjYw/NzgtMzQ0OS5qcGVn.jpeg) | 1990-06-06 | Flipper&#39;s Guitar | CAMERA TALK |
-| 51 | ![Cover](https://i.discogs.com/s61cjXQ6U1F-1YJ9JTJbHAkd4y4CWAnL59Qm9fsRcks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzA1/NDEtMTM5MDcyODQ2/My0xNjIwLmpwZWc.jpeg) | 1991-03-20 | Flipper&#39;s Guitar | Groove Tube |
-| 45 |  | 1991-09-01 | Pizzicato Five | This Year&#39;s Girl |
-| 13 | ![Cover](https://i.discogs.com/rMh5WvLS7gVD7KgZx3utz3Scr0vkaXrvZxCfYiviAS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc5/Ny0xMjY0MjQ4Nzc2/LmpwZWc.jpeg) | 1992-09-02 | Pizzicato Five | Sweet Pizzicato Five |
-| 79 |  | 1992-09-26 | Flipper&#39;s Guitar | Singles |
-| 55 |  | 1993-06-01 | Pizzicato Five | Bossa Nova 2001 |
-| 16 | ![Cover](https://i.discogs.com/hFPbhe7kUa2wh8fgnOLhQ782v4q2aZNDbGzlv5cH2xk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQ2/MTctMTI5MTI0NTAw/OS5qcGVn.jpeg) | 1993-06-16 | ORIGINAL LOVE | EYES |
-| 1 |  | 1994 | Hi-Posi | 身体と歌だけの関係 |
-| 57 |  | 1994-02-25 | Cornelius | The First Question Award |
-| 19 | ![Cover](https://i.discogs.com/kmUAGrLvMu4qHSQtJnnAVXRjC_r6CHs-D-XRU2fxrfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQ2/MTktMTI3MjkwNDY3/NS5qcGVn.jpeg) | 1994-06-27 | ORIGINAL LOVE | 風の歌を聴け |
-| 37 |  | 1994-07-20 | Pizzicato Five | Five by Five |
-| 42 | ![Cover](https://i.discogs.com/xu3N6MTmlKAqHoT1VjuVPN-ynwN3IDejhRWqFnD7w1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTE2/Mi0xNjk2MDUxMTAy/LTQyMzguanBlZw.jpeg) | 1994-10-01 | Pizzicato Five | Overdose |
-| 81 |  | 1994-10-13 | Pizzicato Five | Made in USA |
-| 66 |  | 1994-10-21 | Towa Tei | Future Listening! |
-| 4 | ![Cover](https://i.discogs.com/osXkxgYQujiZkDH7Xw_mccFgOG3P9p7N2RO-uhZ16w8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTc3/MTctMTM4OTkwNjI3/NC02MjU2LmpwZWc.jpeg) | 1994-12-01 | Venus Peter | SPACE DRIVER |
-| 34 | ![Cover](https://i.discogs.com/Uw0qiqfj67ZEc3kL5kv1GADYOF4vD1yF9IsdmZcJ9Sk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjMx/OTcwLTE2Mzg2NjIz/MzItODUyNy5qcGVn.jpeg) | 1995-05-25 | Flipper&#39;s Guitar | ヘッド博士の世界塔 |
-| 44 | ![Cover](https://i.discogs.com/O_6Y-DPI3uszadK2i66XLSWNzYkQHn7hZR83TDmPh7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODc0/NTQtMTM2MzUzNjYy/NS01NTU4LmpwZWc.jpeg) | 1995-05-25 | Flipper&#39;s Guitar | カメラ・トーク |
-| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ac434ea1dc25f363f2d91ea487354558.png) | 1995-09-06 | Cornelius | 69&#x2F;96 |
-| 27 |  | 1995-09-30 | Pizzicato Five | Romantique 96 |
-| 33 |  | 1996-01-16 | Cibo Matto | VIVA! La Woman |
-| 26 | ![Cover](https://i.discogs.com/6oziW7ckBtFI68ipz3mP-x27LrwExhGJrCEdnQOwoEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Nzc3/LTEzOTEyNDY4NDEt/NDI3MS5qcGVn.jpeg) | 1996-01-26 | Cibo Matto | Viva La Woman |
-| 14 |  | 1996-06-21 | Pizzicato Five | Sister Freedom Tapes |
-| 43 |  | 1996-06-26 | カヒミ・カリィ | Le Roi Soleil |
-| 49 | ![Cover](https://i.discogs.com/RILbb57BJuqGGJiASXy7YooXKVDji0wdalxgkYSWVIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTAz/ODctMTQyMzA0Nzcx/MS0yODA3LmpwZWc.jpeg) | 1996-08-25 | Hi-Posi | かなしいことなんかじゃない |
-| 71 |  | 1997-06-21 | Pizzicato Five | Happy End of the World |
-| 78 |  | 1997-08-06 | Cornelius | Fantasma |
-| 76 |  | 1997-10-10 | Fantastic Plastic Machine | The Fantastic Plastic Machine |
-| 90 | ![Cover](https://i.discogs.com/iAUy_gCCQZ0sKpJggq5FHB9eOzB059pSBgyUAAqOGKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzgy/MTg3LTE1MzQxMjY0/NjctNTA5NS5qcGVn.jpeg) | 1998 | Cornelius | Fantasma (remastered) |
-| 86 | ![Cover](https://i.discogs.com/4qhov_w-5KPPyltZvGFHexMiMLMy4K-oPwDoYWhjPH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzI2/NDg2LTE2ODk4MTg0/MTItNzkyOC5qcGVn.jpeg) | 1998-01-01 | Sugar Plant | HAPPY |
-| 39 | ![Cover](https://i.discogs.com/T0z9i9fEbxBkkY3IV_8B5jxwNK-pl64HUlcw4bErviE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODMy/NTgtMTUzNTg5MDc1/OC0yMjE4LmpwZWc.jpeg) | 1998-02-18 | Fishmans | Chappie, Don&#39;t Cry |
-| 32 | ![Cover](https://i.discogs.com/wCIsaXCStxGXweP6KmwfT3C9eqx_K7PrE8l40b2QaW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODU5/MDMtMTUzMzM3NDg2/Ni01NDU4LnBuZw.jpeg) | 1998-03-21 | Hal | ブルー |
-| 30 |  | 1998-06-20 | Hi-Posi | GLUON |
-| 73 |  | 1998-09-10 | Fantastic Plastic Machine | Luxury |
-| 56 | ![Cover](https://i.discogs.com/btHA0FxWXxsWzHRPWLo_mRPbWDe0iymaN3RtOBHXZDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUx/MzY3LTE1MjAwNjEy/OTctOTE5Ny5wbmc.jpeg) | 1998-09-23 | ORIGINAL LOVE | SUNNY SIDE OF ORIGINAL LOVE |
-| 29 | ![Cover](https://i.discogs.com/ZvN-_ha636W3XrL-2kVWfxXx29vlPTHjoo0inUVM7PA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODgy/ODMtMTMyODQ1Nzkx/MS5qcGVn.jpeg) | 1998-09-24 | Lucy van Pelt | Advantage Lucy |
-| 2 |  | 1998-12-15 | Cymbals | Missile &amp; Chocolate |
-| 70 |  | 2000-01-21 | Cymbals | That&#39;s Entertainment |
-| 58 | ![Cover](https://i.discogs.com/HhGthCj0vY-nOe25NwAg_UuhVqrYC18xMGhVIpY8XwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDM3/NDItMTMwMzYxMjY4/NC5qcGVn.jpeg) | 2000-10-12 | Nona Reeves | Destiny |
-| 62 | ![Cover](https://i.discogs.com/1Z4rKAcqpiqNDLB5pAZ2tTBsPDw27Xvt3KQxl-w-MWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODE5/LTEwOTc0ODMyNDEu/anBn.jpeg) | 2001-04 | Fantastic Plastic Machine | Beautiful |
-| 61 |  | 2001-10-24 | Cornelius | Point |
-| 74 | ![Cover](https://i.discogs.com/wp3qMUaarFAXj23pKO5oArJRaEpARseOfCwqFKycyGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTc3/LTE1MzU0NTExODYt/MjY0NS5qcGVn.jpeg) | 2001-11-21 | Buffalo Daughter | I |
-| 18 |  | 2002-07-03 | キンモクセイ | 音楽は素晴らしいものだ |
-| 52 |  | 2002-07-03 | Cymbals | sine |
-| 97 |  | 2002-11-21 | Serani Poji | ワンルームサバイバル |
-| 83 | ![Cover](https://i.discogs.com/wp9Qg1RhFPp74IEo-7GgiPfC8aUyZbK8-nfnbK4o01M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTYx/MzAtMTE5MTcyNDMx/OS5qcGVn.jpeg) | 2003-03-19 | Capsule | CUTIE CINEMA REPLAY |
-| 23 |  | 2003-04-23 | Round Table featuring Nino | April |
-| 60 |  | 2003-11-19 | Capsule | phony phonic |
-| 11 |  | 2004-12-20 | Eel | Little Prince |
-| 95 |  | 2005-05-25 | Lamp | 木洩陽通りにて |
-| 72 |  | 2006-08-30 | Round Table featuring Nino | Nino |
-| 54 | ![Cover](https://i.discogs.com/Tt86IyhYgYxh0h7w-GR3pKc81zb9UmKdv6pK_T0Z3Es/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzMy/NTEtMTI4OTE2NjM2/NS5qcGVn.jpeg) | 2006-12-13 | HALCALI | Look |
-| 7 | ![Cover](https://i.discogs.com/qT8x6KjTnuRC1gEgYpRljX4geDCiCRgFvFt-l51CpBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjc4/MTMyLTE1MjA1MTgw/NDItNDAxOS5qcGVn.jpeg) | 2007-10-24 | ORIGINAL LOVE | ラヴァーマン |
-| 8 |  |  | 南波志帆 | 乙女失格。 |
-| 12 |  |  | 空気公団 | 空気公団作品集 |
-| 17 |  |  | リョウときりん(佐藤利奈と大亀あすか) | 笑顔になる |
-| 21 |  |  | Yu Miyake | Katamari Fortissimo Damacy |
-| 38 | ![Cover](https://i.discogs.com/8wlYqqOnFZazI27gzaA_9WsAKd0Zg3mfVl5huL-OZD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Nzc1/LTEzOTEyODUwOTIt/NzAzNC5qcGVn.jpeg) | 1999-06-08 | Cibo Matto | Stereo Type A |
-| 59 |  |  | mmm with エマーソン北村 | Chasing Giants |
-| 75 |  |  | pomodorosa | Pomodorosa |
-| 10 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e1329ba815724c48b4eba44713762636.png) | 2000 | Hi-Posi | 性善説 |
-| 47 | ![Cover](https://i.discogs.com/HjrGMtytwb2Tut3s4tTSa4KlJVRMgqF2fs9r6whdVxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc5/NzAtMTI3MzMwNjk1/OS5qcGVn.jpeg) | 2002-11-21 | Serani Poji | One-Room Survival |
-| 48 | ![Cover](https://i.discogs.com/XL9jXvDyGgD2czzj1LK0PN3fRFjy4TGzfdo4hppPMZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDI2/NjctMTQ0MTU4ODg3/NS01MjMxLmpwZWc.jpeg) | 2002-12-10 | Qypthone | Montuno no.5 |
-| 9 |  | 2003-09-03 | Cymbals | requests! |
-| 69 | ![Cover](https://i.discogs.com/VdBubt9Rtwk2d-xxpa7hXB6vx8mwas4pTvCUbG2AAD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDU2/OC0xNTk5Njc4MTA3/LTM4OTkuanBlZw.jpeg) | 2004 | Gutevolk | Twinkle |
-| 85 |  | 2004-02-11 | Lamp | 恋人へ |
-| 80 | ![Cover](https://i.discogs.com/uK5dHvk2pwVRbwLOOfpIH5Bn2mefXHju9GoGFTpW2sU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODY3/NTY2LTE1ODMxMDAz/MDEtMzM3OS5qcGVn.jpeg) | 2004-06-30 | Serani Poji | Ochamekan |
-| 84 | ![Cover](https://i.discogs.com/dGb3z6q3KQJttVyqDw65csP7RtIdIRxyVOGwENJ_91w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzQ2/NC0xMzkyMDE5NTgw/LTc2NTYuanBlZw.jpeg) | 2004-07-21 | Sonic Coaster Pop | SUPER MIRACLE CIRCUIT |
-| 98 | ![Cover](https://i.discogs.com/cfHByK0ayhARVLfM2nYWO5fXvGv-Vf-IbZLJTb0w3us/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQw/MzMtMTMzMTQwODk3/MC5qcGVn.jpeg) | 2005-09-21 | Capsule | L.D.K. Lounge Designers Killer |
-| 20 | ![Cover](https://i.discogs.com/sMqexlGoK_38qCfy3oepiSVtzG3pAP-LYQWuylnWvFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTg1/NTEtMTQ2NDAxOTA4/Mi0xMDAxLmpwZWc.jpeg) | 2006-03-24 | Paris Match | after six |
-| 96 | ![Cover](https://i.discogs.com/8gMduwQpz5oQw2LKBrrBlrdDLbq4fdp8isqqFt9K7j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzAw/OTk1LTE1NTE2NjQz/MDEtNTE4OC5qcGVn.jpeg) | 2007-03-07 | Lamp | Yume |
-| 15 |  | 2007-12-07 | 4 bonjour&#39;s parties | Pigments Drift Down To The Brook |
-| 24 |  |  | 空気公団 | 春愁秋思 |
-| 31 |  |  | ROUND TABLE Feat. Nino | Nino |
-| 40 | ![Cover](https://i.discogs.com/5TJh_OJDb2Pv4fzvPCI3R3xRd0JdvFDGu9N22cDdMDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDcx/Ny0xMzY1Nzg5NDc0/LTY3MzQuanBlZw.jpeg) | 2000-09-15 | Plus-Tech Squeeze Box | FAKEVOX |
-| 36 |  | 2005-09-14 | Hazel Nuts Chocolate | CUTE |
-| 28 | ![Cover](https://i.discogs.com/MBJwGqa_4qLZTO52u4aiLyOxSbIFdzJwVVYG3jq7nQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDUw/MTE3LTE2NzA5MTc2/OTYtMTI2OC5qcGVn.jpeg) | 2008 | Capsule | ハイカラ・ガール |
-| 92 |  | 2008-09-05 | Nastyona | Another Secret |
-| 77 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0f8e46e38decdaf02088b967c64361b3.png) | 2009 | Fishmans | Orange |
-| 65 |  | 2009-01-14 | 土岐麻子 | TOUCH |
-| 91 |  | 2009-06-03 | フレネシ | キュプラ |
-| 63 |  | 2010-03-03 | Capsule | PLAYER |
-| 89 |  | 2010-03-03 | Serani Poji | Merry Go Round Jailhouse |
-| 88 |  | 2010-09-01 | OGRE YOU ASSHOLE | 浮かれている人 |
-| 93 | ![Cover](https://i.discogs.com/i8AFGVivATwy9OIHT8oPLORy0U_HJOWkOrsZ1siFlD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODY3/OTgtMTMyODM5MTYy/OC5qcGVn.jpeg) | 2011 | TANUKI | Kanji Title |
-| 94 |  | 2011-02-09 | Lamp | 東京ユウトピア通信 |
-| 68 |  | 2011-04-13 | salyu × salyu | s(o)un(d)beams |
-| 82 |  | 2013-11-06 | フレネシ | ドルフィノ |
-| 64 | ![Cover](https://i.discogs.com/mFHr87JpW-9yD6mYiCwYPPdnFPdTNTRHsGtKzBUJ6AY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc4/MDcxLTE1NTEyMzcw/NTctNTY4MS5qcGVn.jpeg) | 2017-10-25 | Chai | PUNK |
-| 25 | ![Cover](https://i.discogs.com/xiLOPBsHFwBhJpSa3Us1UNBBMJ0UEwl_a3fWhEn8ZuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjYx/MjkwLTE2MzE4NTMw/MzEtNTE3NS5qcGVn.jpeg) | 2021-09-17 | Buffalo Daughter | We Are The Times |
-| 41 |  |  | ROUND TABLE Feat. Nino | Distance |
-| 46 | ![Cover](https://i.discogs.com/4CkYxrdhBR4ZrS4vsnl_jbd-A2iRYjElRG3CN-v6j_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODMy/NjctMTYzNzQ5NDE1/NC01OTExLmpwZWc.jpeg) | 2006-03-22 | Fishmans | 1991-1994 ―singles &amp; More― |
-| 50 | ![Cover](https://i.discogs.com/sK-KHcndrGDEe9DHEi6L4rHfUS84QWKLIzpY3fj6YNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzk2/NTExLTE2MzU2ODI1/OTYtMzI5My5qcGVn.jpeg) | 2011-08-17 | Tomato n&#39; Pine | なないろ☆ナミダ |
-| 67 |  |  | 塊魂 シリーズ SOUND TEAM | Katamari Damacy (Original Soundtrack) -Katamari Fortissimo Damacy |
-| 87 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/68338384c97611d3801a00a3b36b8d4c.png) |  | アトラスサウンドチーム | ペルソナ4 オリジナル・サウンドトラック |
-| 99 | ![Cover](https://i.discogs.com/Oufxk08gTUDBeoE4xpQJtV0kt-Rzm46R-rEcEqy7Qic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU3/MTY2LTE1NTY0NjE0/NjktMjk0Ny5qcGVn.jpeg) | 2019-04-23 | Kaede | 秋の惑星、ハートはナイトブルー。 |
-| 3 | ![Cover](https://i.discogs.com/lwWsw6uRNlCwX-p83O5iT9pAx4uOWee83ACwmnTmsVg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDYx/Njc1LTE3Mjk0NzUw/NjYtNzk1MS5qcGVn.jpeg) | 2024 | Katamari Damacy | Katamari Damacy Soundtrack &quot;Katamari Fortissimo Damacy&quot; |
-| 100 | ![Cover](https://i.discogs.com/lKb7YHRsMCMO0x4eU2IeX7L91nTWCtvDtPD2-8pjVvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTky/OTA4LTE1MzAxNzYy/MzEtMzMyMi5qcGVn.jpeg) | 2024-08-27 | Lamp | For Lovers |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td>1972</td>
+      <td>Various Artists</td>
+      <td>BEAUTIFUL TECHNO</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/j1-aXLyvdDDN2GMEi3HzHOsJNBgNEGCMp9wHupr2D6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTI2/ODQtMTI5Mjk4MjQ4/NS5qcGVn.jpeg" alt="Cover for Couples" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987-04-01</td>
+      <td>Pizzicato Five</td>
+      <td>Couples</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>1989-08-25</td>
+      <td>Flipper&#39;s Guitar</td>
+      <td>THREE CHEERS FOR OUR SIDE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9518e4bc0822ca4747e99f453c5f2b3d.png" alt="Cover for CAMERA TALK" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990-06-06</td>
+      <td>Flipper&#39;s Guitar</td>
+      <td>CAMERA TALK</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/s61cjXQ6U1F-1YJ9JTJbHAkd4y4CWAnL59Qm9fsRcks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzA1/NDEtMTM5MDcyODQ2/My0xNjIwLmpwZWc.jpeg" alt="Cover for Groove Tube" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991-03-20</td>
+      <td>Flipper&#39;s Guitar</td>
+      <td>Groove Tube</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 8</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 51</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td>1991-09-01</td>
+      <td>Pizzicato Five</td>
+      <td>This Year&#39;s Girl</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/rMh5WvLS7gVD7KgZx3utz3Scr0vkaXrvZxCfYiviAS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc5/Ny0xMjY0MjQ4Nzc2/LmpwZWc.jpeg" alt="Cover for Sweet Pizzicato Five" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992-09-02</td>
+      <td>Pizzicato Five</td>
+      <td>Sweet Pizzicato Five</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>1992-09-26</td>
+      <td>Flipper&#39;s Guitar</td>
+      <td>Singles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td>1993-06-01</td>
+      <td>Pizzicato Five</td>
+      <td>Bossa Nova 2001</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/hFPbhe7kUa2wh8fgnOLhQ782v4q2aZNDbGzlv5cH2xk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQ2/MTctMTI5MTI0NTAw/OS5qcGVn.jpeg" alt="Cover for EYES" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-06-16</td>
+      <td>ORIGINAL LOVE</td>
+      <td>EYES</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Hi-Posi</td>
+      <td>身体と歌だけの関係</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td>1994-02-25</td>
+      <td>Cornelius</td>
+      <td>The First Question Award</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15f84aa300e59c3ad0d5119f85f0d3c3.png" alt="Cover for 風の歌を聴け" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-06-27</td>
+      <td>ORIGINAL LOVE</td>
+      <td>風の歌を聴け</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td>1994-07-20</td>
+      <td>Pizzicato Five</td>
+      <td>Five by Five</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/xu3N6MTmlKAqHoT1VjuVPN-ynwN3IDejhRWqFnD7w1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTE2/Mi0xNjk2MDUxMTAy/LTQyMzguanBlZw.jpeg" alt="Cover for Overdose" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-10-01</td>
+      <td>Pizzicato Five</td>
+      <td>Overdose</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>1994-10-13</td>
+      <td>Pizzicato Five</td>
+      <td>Made in USA</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90a09fd3f36503e3c406051da000e8bc.png" alt="Cover for Future Listening!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-10-21</td>
+      <td>Towa Tei</td>
+      <td>Future Listening!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/osXkxgYQujiZkDH7Xw_mccFgOG3P9p7N2RO-uhZ16w8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTc3/MTctMTM4OTkwNjI3/NC02MjU2LmpwZWc.jpeg" alt="Cover for SPACE DRIVER" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-12-01</td>
+      <td>Venus Peter</td>
+      <td>SPACE DRIVER</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/Uw0qiqfj67ZEc3kL5kv1GADYOF4vD1yF9IsdmZcJ9Sk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjMx/OTcwLTE2Mzg2NjIz/MzItODUyNy5qcGVn.jpeg" alt="Cover for ヘッド博士の世界塔" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-05-25</td>
+      <td>Flipper&#39;s Guitar</td>
+      <td>ヘッド博士の世界塔</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/O_6Y-DPI3uszadK2i66XLSWNzYkQHn7hZR83TDmPh7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODc0/NTQtMTM2MzUzNjYy/NS01NTU4LmpwZWc.jpeg" alt="Cover for カメラ・トーク" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-05-25</td>
+      <td>Flipper&#39;s Guitar</td>
+      <td>カメラ・トーク</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac434ea1dc25f363f2d91ea487354558.png" alt="Cover for 69&#x2F;96" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-09-06</td>
+      <td>Cornelius</td>
+      <td>69&#x2F;96</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td>1995-09-30</td>
+      <td>Pizzicato Five</td>
+      <td>Romantique 96</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td>1996-01-16</td>
+      <td>Cibo Matto</td>
+      <td>VIVA! La Woman</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/6oziW7ckBtFI68ipz3mP-x27LrwExhGJrCEdnQOwoEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Nzc3/LTEzOTEyNDY4NDEt/NDI3MS5qcGVn.jpeg" alt="Cover for Viva La Woman" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-01-26</td>
+      <td>Cibo Matto</td>
+      <td>Viva La Woman</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td>1996-06-21</td>
+      <td>Pizzicato Five</td>
+      <td>Sister Freedom Tapes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td>1996-06-26</td>
+      <td>カヒミ・カリィ</td>
+      <td>Le Roi Soleil</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a483d699912493db5575e3b7b7bc735.png" alt="Cover for かなしいことなんかじゃない" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-08-25</td>
+      <td>Hi-Posi</td>
+      <td>かなしいことなんかじゃない</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td>1997-06-21</td>
+      <td>Pizzicato Five</td>
+      <td>Happy End of the World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94fcc3767f9ff09648c1cf0e3f464800.png" alt="Cover for Fantasma" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-08-06</td>
+      <td>Cornelius</td>
+      <td>Fantasma</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7b31088167ce9f2df7ed44217a3286e.png" alt="Cover for The Fantastic Plastic Machine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-10-10</td>
+      <td>Fantastic Plastic Machine</td>
+      <td>The Fantastic Plastic Machine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/iAUy_gCCQZ0sKpJggq5FHB9eOzB059pSBgyUAAqOGKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzgy/MTg3LTE1MzQxMjY0/NjctNTA5NS5qcGVn.jpeg" alt="Cover for Fantasma (remastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Cornelius</td>
+      <td>Fantasma (remastered)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e06ee7ca59298cbce1fdf084aa7b1ab.png" alt="Cover for HAPPY" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-01-01</td>
+      <td>Sugar Plant</td>
+      <td>HAPPY</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 1</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 42</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dde2f641d19cda081ed43b96ee89b21.png" alt="Cover for Chappie, Don&#39;t Cry" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-02-18</td>
+      <td>Fishmans</td>
+      <td>Chappie, Don&#39;t Cry</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/wCIsaXCStxGXweP6KmwfT3C9eqx_K7PrE8l40b2QaW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODU5/MDMtMTUzMzM3NDg2/Ni01NDU4LnBuZw.jpeg" alt="Cover for ブルー" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-03-21</td>
+      <td>Hal</td>
+      <td>ブルー</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/692f013f20471d2cd5c085dcf2d1cd4b.png" alt="Cover for GLUON" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-06-20</td>
+      <td>Hi-Posi</td>
+      <td>GLUON</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td>1998-09-10</td>
+      <td>Fantastic Plastic Machine</td>
+      <td>Luxury</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7d61b4f120c50faab8112204ee233b0.png" alt="Cover for SUNNY SIDE OF ORIGINAL LOVE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-09-23</td>
+      <td>ORIGINAL LOVE</td>
+      <td>SUNNY SIDE OF ORIGINAL LOVE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/ZvN-_ha636W3XrL-2kVWfxXx29vlPTHjoo0inUVM7PA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODgy/ODMtMTMyODQ1Nzkx/MS5qcGVn.jpeg" alt="Cover for Advantage Lucy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-09-24</td>
+      <td>Lucy van Pelt</td>
+      <td>Advantage Lucy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td>1998-12-15</td>
+      <td>Cymbals</td>
+      <td>Missile &amp; Chocolate</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/089be02c0f364e0dcea41314cd2d8dd9.png" alt="Cover for Stereo Type A" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-06-08</td>
+      <td>Cibo Matto</td>
+      <td>Stereo Type A</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1329ba815724c48b4eba44713762636.png" alt="Cover for 性善説" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Hi-Posi</td>
+      <td>性善説</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9d05515f1d65f6590874c9c666f624e.png" alt="Cover for That&#39;s Entertainment" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-01-21</td>
+      <td>Cymbals</td>
+      <td>That&#39;s Entertainment</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2000-07-20</td>
+      <td>野宮真貴</td>
+      <td>Miss Maki Nomiya Sings</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/HhGthCj0vY-nOe25NwAg_UuhVqrYC18xMGhVIpY8XwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDM3/NDItMTMwMzYxMjY4/NC5qcGVn.jpeg" alt="Cover for Destiny" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-10-12</td>
+      <td>Nona Reeves</td>
+      <td>Destiny</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/1Z4rKAcqpiqNDLB5pAZ2tTBsPDw27Xvt3KQxl-w-MWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODE5/LTEwOTc0ODMyNDEu/anBn.jpeg" alt="Cover for Beautiful" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-04</td>
+      <td>Fantastic Plastic Machine</td>
+      <td>Beautiful</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c172f067999d4f3d8ed999b0fff4644e.png" alt="Cover for Point" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-10-24</td>
+      <td>Cornelius</td>
+      <td>Point</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/wp3qMUaarFAXj23pKO5oArJRaEpARseOfCwqFKycyGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTc3/LTE1MzU0NTExODYt/MjY0NS5qcGVn.jpeg" alt="Cover for I" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-11-21</td>
+      <td>Buffalo Daughter</td>
+      <td>I</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td>2002-07-03</td>
+      <td>キンモクセイ</td>
+      <td>音楽は素晴らしいものだ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+      </td>
+      <td>2002-07-03</td>
+      <td>Cymbals</td>
+      <td>sine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>2002-11-21</td>
+      <td>Serani Poji</td>
+      <td>ワンルームサバイバル</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-pop-rock" | relative_url }}">japanese female pop-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 61</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 87</li>
+            <li> <a href="{{ "/tags/japanese-female-pop-rock" | relative_url }}">japanese female pop-rock</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae348586280c3d2fbb4bac60aa97ad09.png" alt="Cover for One-Room Survival" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-11-21</td>
+      <td>Serani Poji</td>
+      <td>One-Room Survival</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/XL9jXvDyGgD2czzj1LK0PN3fRFjy4TGzfdo4hppPMZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDI2/NjctMTQ0MTU4ODg3/NS01MjMxLmpwZWc.jpeg" alt="Cover for Montuno no.5" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-12-10</td>
+      <td>Qypthone</td>
+      <td>Montuno no.5</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/wp9Qg1RhFPp74IEo-7GgiPfC8aUyZbK8-nfnbK4o01M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTYx/MzAtMTE5MTcyNDMx/OS5qcGVn.jpeg" alt="Cover for CUTIE CINEMA REPLAY" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-03-19</td>
+      <td>Capsule</td>
+      <td>CUTIE CINEMA REPLAY</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td>2003-04-23</td>
+      <td>Round Table featuring Nino</td>
+      <td>April</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 22</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 51</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+      </td>
+      <td>2003-09-03</td>
+      <td>Cymbals</td>
+      <td>requests!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d59dc423d40214d0afdae0a6c430fb6c.png" alt="Cover for phony phonic" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-11-19</td>
+      <td>Capsule</td>
+      <td>phony phonic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 6</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/VdBubt9Rtwk2d-xxpa7hXB6vx8mwas4pTvCUbG2AAD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDU2/OC0xNTk5Njc4MTA3/LTM4OTkuanBlZw.jpeg" alt="Cover for Twinkle" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Gutevolk</td>
+      <td>Twinkle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f08a5cccec4cc9c9eea14682e7de1d2.png" alt="Cover for 恋人へ" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-02-11</td>
+      <td>Lamp</td>
+      <td>恋人へ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/uK5dHvk2pwVRbwLOOfpIH5Bn2mefXHju9GoGFTpW2sU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODY3/NTY2LTE1ODMxMDAz/MDEtMzM3OS5qcGVn.jpeg" alt="Cover for Ochamekan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-06-30</td>
+      <td>Serani Poji</td>
+      <td>Ochamekan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/665b65883207a8c5d91797713027d546.png" alt="Cover for SUPER MIRACLE CIRCUIT" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-07-21</td>
+      <td>Sonic Coaster Pop</td>
+      <td>SUPER MIRACLE CIRCUIT</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+      </td>
+      <td>2004-12-20</td>
+      <td>Eel</td>
+      <td>Little Prince</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 3</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d99a1f4604ed18a8ed8bfaad96c7fa02.png" alt="Cover for 木洩陽通りにて" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-05-25</td>
+      <td>Lamp</td>
+      <td>木洩陽通りにて</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td>2005-09-14</td>
+      <td>Hazel Nuts Chocolate</td>
+      <td>CUTE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e083275b743ee727922728a09c45a053.png" alt="Cover for L.D.K. Lounge Designers Killer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-09-21</td>
+      <td>Capsule</td>
+      <td>L.D.K. Lounge Designers Killer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/4CkYxrdhBR4ZrS4vsnl_jbd-A2iRYjElRG3CN-v6j_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODMy/NjctMTYzNzQ5NDE1/NC01OTExLmpwZWc.jpeg" alt="Cover for 1991-1994 ―singles &amp; More―" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-03-22</td>
+      <td>Fishmans</td>
+      <td>1991-1994 ―singles &amp; More―</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/sMqexlGoK_38qCfy3oepiSVtzG3pAP-LYQWuylnWvFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTg1/NTEtMTQ2NDAxOTA4/Mi0xMDAxLmpwZWc.jpeg" alt="Cover for after six" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-03-24</td>
+      <td>Paris Match</td>
+      <td>after six</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>2006-08-30</td>
+      <td>Round Table featuring Nino</td>
+      <td>Nino</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 36</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c91eb27e11e7492eacf4c7cfba64622a.png" alt="Cover for Look" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-12-13</td>
+      <td>HALCALI</td>
+      <td>Look</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 23</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/8gMduwQpz5oQw2LKBrrBlrdDLbq4fdp8isqqFt9K7j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzAw/OTk1LTE1NTE2NjQz/MDEtNTE4OC5qcGVn.jpeg" alt="Cover for Yume" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-03-07</td>
+      <td>Lamp</td>
+      <td>Yume</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 6</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/qT8x6KjTnuRC1gEgYpRljX4geDCiCRgFvFt-l51CpBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjc4/MTMyLTE1MjA1MTgw/NDItNDAxOS5qcGVn.jpeg" alt="Cover for ラヴァーマン" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-10-24</td>
+      <td>ORIGINAL LOVE</td>
+      <td>ラヴァーマン</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e20866a155a1481faa62654a9f0fdf8c.png" alt="Cover for Pigments Drift Down To The Brook" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-12-07</td>
+      <td>4 bonjour&#39;s parties</td>
+      <td>Pigments Drift Down To The Brook</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/MBJwGqa_4qLZTO52u4aiLyOxSbIFdzJwVVYG3jq7nQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDUw/MTE3LTE2NzA5MTc2/OTYtMTI2OC5qcGVn.jpeg" alt="Cover for ハイカラ・ガール" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Capsule</td>
+      <td>ハイカラ・ガール</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td>2008-09-05</td>
+      <td>Nastyona</td>
+      <td>Another Secret</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f8e46e38decdaf02088b967c64361b3.png" alt="Cover for Orange" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Fishmans</td>
+      <td>Orange</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td>2009-01-14</td>
+      <td>土岐麻子</td>
+      <td>TOUCH</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td>2009-06-03</td>
+      <td>フレネシ</td>
+      <td>キュプラ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>2010-03-03</td>
+      <td>Serani Poji</td>
+      <td>Merry Go Round Jailhouse</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c15765b1d370defb26d8a308435c7ef.png" alt="Cover for PLAYER" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-03-03</td>
+      <td>Capsule</td>
+      <td>PLAYER</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>2010-09-01</td>
+      <td>OGRE YOU ASSHOLE</td>
+      <td>浮かれている人</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/i8AFGVivATwy9OIHT8oPLORy0U_HJOWkOrsZ1siFlD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODY3/OTgtMTMyODM5MTYy/OC5qcGVn.jpeg" alt="Cover for Kanji Title" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>TANUKI</td>
+      <td>Kanji Title</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 39</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 94</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 95</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>2011-02-09</td>
+      <td>Lamp</td>
+      <td>東京ユウトピア通信</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td>2011-04-13</td>
+      <td>salyu × salyu</td>
+      <td>s(o)un(d)beams</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3587f461f39b426ba14c863a35215a6c.png" alt="Cover for なないろ☆ナミダ" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-08-17</td>
+      <td>Tomato n&#39; Pine</td>
+      <td>なないろ☆ナミダ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 14</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 35</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td>2013-11-06</td>
+      <td>フレネシ</td>
+      <td>ドルフィノ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/mFHr87JpW-9yD6mYiCwYPPdnFPdTNTRHsGtKzBUJ6AY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc4/MDcxLTE1NTEyMzcw/NTctNTY4MS5qcGVn.jpeg" alt="Cover for PUNK" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-10-25</td>
+      <td>Chai</td>
+      <td>PUNK</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 41</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/Oufxk08gTUDBeoE4xpQJtV0kt-Rzm46R-rEcEqy7Qic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU3/MTY2LTE1NTY0NjE0/NjktMjk0Ny5qcGVn.jpeg" alt="Cover for 秋の惑星、ハートはナイトブルー。" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-04-23</td>
+      <td>Kaede</td>
+      <td>秋の惑星、ハートはナイトブルー。</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff3e0f03639021bbe9f93f9f5aed7571.png" alt="Cover for We Are The Times" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-09-17</td>
+      <td>Buffalo Daughter</td>
+      <td>We Are The Times</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/lwWsw6uRNlCwX-p83O5iT9pAx4uOWee83ACwmnTmsVg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDYx/Njc1LTE3Mjk0NzUw/NjYtNzk1MS5qcGVn.jpeg" alt="Cover for Katamari Damacy Soundtrack &quot;Katamari Fortissimo Damacy&quot;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024</td>
+      <td>Katamari Damacy</td>
+      <td>Katamari Damacy Soundtrack &quot;Katamari Fortissimo Damacy&quot;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/lKb7YHRsMCMO0x4eU2IeX7L91nTWCtvDtPD2-8pjVvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTky/OTA4LTE1MzAxNzYy/MzEtMzMyMi5qcGVn.jpeg" alt="Cover for For Lovers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-08-27</td>
+      <td>Lamp</td>
+      <td>For Lovers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+      </td>
+      <td></td>
+      <td>ROUND TABLE Feat. Nino</td>
+      <td>Nino</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 34</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68338384c97611d3801a00a3b36b8d4c.png" alt="Cover for ペルソナ4 オリジナル・サウンドトラック" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>アトラスサウンドチーム</td>
+      <td>ペルソナ4 オリジナル・サウンドトラック</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 25</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 29</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd270d420ba043b8aeef5143f5f890d2.png" alt="Cover for 乙女失格。" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>南波志帆</td>
+      <td>乙女失格。</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+      </td>
+      <td></td>
+      <td>空気公団</td>
+      <td>空気公団作品集</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td></td>
+      <td>リョウときりん(佐藤利奈と大亀あすか)</td>
+      <td>笑顔になる</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Yu Miyake</td>
+      <td>Katamari Fortissimo Damacy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+      </td>
+      <td></td>
+      <td>空気公団</td>
+      <td>春愁秋思</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td></td>
+      <td>ROUND TABLE Feat. Nino</td>
+      <td>Distance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38c9350a8538789e646cdbac8db1d554.png" alt="Cover for Chasing Giants" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>mmm with エマーソン北村</td>
+      <td>Chasing Giants</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td></td>
+      <td>塊魂 シリーズ SOUND TEAM</td>
+      <td>Katamari Damacy (Original Soundtrack) -Katamari Fortissimo Damacy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68f7d9151f6f5914fb4357769b3edb81.png" alt="Cover for Pomodorosa" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>pomodorosa</td>
+      <td>Pomodorosa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

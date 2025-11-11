@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T14:31:31.026Z
+date: 2025-11-11T10:21:54.537Z
 permalink: tags/london
 title: london
 ---
 
 ## london
 
-Last updated: <time datetime="2025-11-08T14:31:31.026Z">Sat Nov 08 2025 16:31:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T10:21:54.537Z">Tue Nov 11 2025 12:21:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -345,7 +345,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/2dPlilT6IRqM00TgJGAn3odaRogvGmBUhuTM51ADOvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTk1/OC0xNTgwMDQxMjE0/LTIxNjEuanBlZw.jpeg" alt="Cover for The Eighteenth Day of May" style="max-width:120px; height:auto;" />
       </td>
@@ -482,7 +482,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 7</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 9</li>
             <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 89</li>
         </ul>
       </td>
@@ -590,7 +590,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/c7wVSWlGT0aW6QKArXn3mcYNNdrWvjBpM6z5Lv4qDlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/ODQtMTUwNTMxMjA0/My0xMzI4LmpwZWc.jpeg" alt="Cover for Singles 90-98 (Disc 7) [Box Set]" style="max-width:120px; height:auto;" />
       </td>
@@ -627,7 +627,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/jAR_Qgd_4d4ixhHmdFd2cWdikjTH-moXCbbxHNBYpJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTA3/OTAtMTIyNzczNzc4/Ny5qcGVn.jpeg" alt="Cover for Die Young : Stay Pretty" style="max-width:120px; height:auto;" />
       </td>
@@ -722,16 +722,16 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 7</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 8</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 10</li>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 40</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 42</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 47</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 48</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 68</li>
             <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 83</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 96</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 98</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 98</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 98</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 100</li>
         </ul>
       </td>
@@ -739,6 +739,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b133d06b63b943679ee3689a0ab56ac8.png" alt="Cover for Radio Ladio" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-06</td>
       <td>Metronomy</td>
@@ -746,6 +747,24 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6a20cd652d4aa3da1d1c8a7f9947aba.png" alt="Cover for WHB" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-04-03</td>
+      <td>We Have Band</td>
+      <td>WHB</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
         </ul>
       </td>
       <td>
@@ -823,7 +842,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/OSVDkM8bayr1G8Q3leJPBMx-FjAVkTrjTpcIHfQ5KuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Njc1/MjAtMTM0MzU5MTA4/MC02MzE1LmpwZWc.jpeg" alt="Cover for Codeine EP" style="max-width:120px; height:auto;" />
       </td>
@@ -931,7 +950,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 87</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 89</li>
             <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 93</li>
         </ul>
       </td>
@@ -1020,7 +1039,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/Mi74YwZLN_dv4ZWoZmfkP_93NeWnbTGHHchvozYkCsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzEy/ODEtMTQ2MTQ4MzIx/Ny0yMzk1LnBuZw.jpeg" alt="Cover for iTunes Festival: London 2013" style="max-width:120px; height:auto;" />
       </td>
@@ -1038,28 +1057,9 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/SnouMZLh9kikW99gHgwaTogQUXVpIhpGqfIBDo_AXjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjQz/MDUtMTQ3OTA3MDA2/My05NzEyLmpwZWc.jpeg" alt="Cover for Remixes" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012</td>
-      <td>Theme Park</td>
-      <td>Remixes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/london" | relative_url }}">london</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/smyyKqhQn1Uisyv_MA9hGaz8EOSfXFB8Bl_LCrE3y4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzY4/MjMtMTQ1NjU4NTc4/MC0xMzczLnBuZw.jpeg" alt="Cover for Yes&#x2F;Natalie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a04ca9a037994cc58ca025e8e269fed2.png" alt="Cover for Yes&#x2F;Natalie" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-19</td>
       <td>Casablanca</td>
@@ -1149,7 +1149,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/jh1dOWUFjH1wlpORZhQqjxo-1AZynGvTpc6CFgPev44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Njc2/NjUtMTQyNjIwMzA4/NC05MTQxLmpwZWc.jpeg" alt="Cover for British Nights" style="max-width:120px; height:auto;" />
       </td>
@@ -1187,7 +1187,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 51</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1305,7 +1305,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 5</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1386,7 +1386,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/EN1LMdVN_uhGrPmjVJUWmVmmg8VOU2yyMhCa4GumJ2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUx/OTMyLTE0OTA3ODI3/NjctOTY5NS5wbmc.jpeg" alt="Cover for Leuchtkraft" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9eee1bfdc3825c1fa90b448000b5b7a1.png" alt="Cover for Leuchtkraft" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-10</td>
       <td>Flug 8</td>
@@ -1420,7 +1420,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 83</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1447,7 +1447,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/5d1gJ5SBAAl8vpicA6Zxj5BAyblYetiimDuGnEWqg2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg5/MDE2LTE0OTY0OTY3/MDUtMjYzOS5qcGVn.jpeg" alt="Cover for All The Troubled Hearts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab41d9f1240ba0863fda92d105e2d1f7.png" alt="Cover for All The Troubled Hearts" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-02</td>
       <td>Hiatus</td>
@@ -1527,7 +1527,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 55</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1551,7 +1551,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 77</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1579,7 +1579,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/uCuxPak6zDHzIswSyDb-oqnfVMjsg8kGXD2yfHtMtd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY3/NDk4LTE1NDM0OTAy/MjEtODAxMy5qcGVn.jpeg" alt="Cover for Whities 019" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6ff6add1e732b34e32d0112827cdb4e.png" alt="Cover for Whities 019" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-07</td>
       <td>Overmono</td>
@@ -1596,8 +1596,8 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 25</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 26</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 27</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 77</li>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 96</li>
         </ul>
       </td>
@@ -1616,7 +1616,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 84</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1642,9 +1642,9 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 5</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 44</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 76</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 6</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 45</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 79</li>
             <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 96</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 100</li>
         </ul>
@@ -1666,7 +1666,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1713,7 +1713,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/zI5qE5rmb5wdI4wngEjP1L3eY74qdHz7B1tY-kZYkWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjA1/MTIwLTE2MDUyNDY2/NjEtNDIzMC5qcGVn.jpeg" alt="Cover for Pillowland" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe8c5ae69462abc69b068bd1acc21728.png" alt="Cover for Pillowland" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11-13</td>
       <td>Jam City</td>
@@ -1731,8 +1731,8 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 11</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 34</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 10</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 35</li>
             <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 79</li>
         </ul>
       </td>
@@ -1756,7 +1756,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 44</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1876,7 +1876,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 12</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1919,7 +1919,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/o4wnpre8lXAs34W0DYKN3y9t34dV3gqOKIg7xS1dUFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODM2/ODk4LTE2NzQzMDY0/NzUtMzExMi5qcGVn.jpeg" alt="Cover for FLORAL SHOPPE 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9e39de49624c3c0abf91d1b26d9b08d.png" alt="Cover for FLORAL SHOPPE 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>THE DARKEST FUTURE</td>
@@ -1937,7 +1937,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       <td>
         <ul>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 16</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 24</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 27</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 71</li>
         </ul>
       </td>
@@ -2052,7 +2052,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 59</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -2080,7 +2080,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/z2ek8KtuhO73MCQdpaz2FfOGYCMCvvvWK_zLBGUOupw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODkz/MTAzLTE3MTc3MjUz/NTYtNTc4My5qcGVn.jpeg" alt="Cover for Statik" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92875223a3e5dffdd1fd0b3294d1425d.png" alt="Cover for Statik" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-06-07</td>
       <td>Actress</td>
@@ -2118,7 +2118,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
