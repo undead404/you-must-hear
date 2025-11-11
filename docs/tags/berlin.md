@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T00:27:51.057Z
+date: 2025-11-11T10:20:15.330Z
 permalink: tags/berlin
 title: berlin
 ---
 
 ## berlin
 
-Last updated: <time datetime="2025-11-03T00:27:51.057Z">Mon Nov 03 2025 02:27:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T10:20:15.330Z">Tue Nov 11 2025 12:20:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
   </thead>
   <tbody>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/lh3rPGBsq9WNINw58esjqd4A7Edl0vXc8cHE2_5_QJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjUy/NjE4LTE1NTgzMTE4/NDItMTU5Ny5qcGVn.jpeg" alt="Cover for Great Danes" style="max-width:120px; height:auto;" />
       </td>
@@ -50,7 +50,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/xCXWBfLTpWh2Y8jJMcu9h5h3o22lyejBL2cz2Dt1kIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODAz/NjE5LTE3MTY5MTA1/NTktNTQxNC5qcGVn.jpeg" alt="Cover for Classic Electro" style="max-width:120px; height:auto;" />
       </td>
@@ -92,7 +92,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/95aae05a48e848be8ce3b4896ea9bfe4.png" alt="Cover for Berlin" style="max-width:120px; height:auto;" />
       </td>
@@ -107,12 +107,12 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 62</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>1976</td>
@@ -128,12 +128,12 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 96</li>
+            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Herr Lehmann" style="max-width:120px; height:auto;" />
       </td>
@@ -193,7 +193,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/1uX-u5SDJsaLDI2mq3VQ6UFPN6gcbMrMtp52SOuhsOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mjg2/ODEtMTUyMTc4Mzc4/MS03MTA4LmpwZWc.jpeg" alt="Cover for Live in Berlin Soundtrack" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/def549732cde4468c42e58e2148826f2.png" alt="Cover for Live in Berlin Soundtrack" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Depeche Mode</td>
@@ -207,13 +207,14 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 68</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44d8fecbd4b6eb2d9ec0dbe7b2ae4edc.png" alt="Cover for Best Of Berlin 1979-1988" style="max-width:120px; height:auto;" />
       </td>
       <td>1988-11-03</td>
       <td>Berlin</td>
@@ -231,7 +232,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>1992</td>
@@ -250,7 +251,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/V5qid58dEfXcpkfj5y__ypN0qh19qrn15R6SECPd6_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzYx/LTEzNjI5MTUwMzMt/NTgzNS5qcGVn.jpeg" alt="Cover for LiVE SPiRiTS SOUNDTRACK" style="max-width:120px; height:auto;" />
       </td>
@@ -268,7 +269,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
       </td>
       <td>1993</td>
@@ -287,7 +288,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td>1997</td>
@@ -307,7 +308,39 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>2</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Lex Barker Experience</td>
+      <td>Roter Mohn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum" | relative_url }}">drum</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 74</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 79</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/V9n1Azx02a3pEMx2dn65OxemIX_uITNXbYoY51HdSxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTc0/LTAwMS5qcGc.jpeg" alt="Cover for Are you really satisfied now" style="max-width:120px; height:auto;" />
       </td>
@@ -326,7 +359,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/qgt24x35fKWayWK4QW8jcmVqx9OqpQwi0epR2S-yGn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjA2/NS0xMDc0NzY4NDk1/LmpwZw.jpeg" alt="Cover for Compiled" style="max-width:120px; height:auto;" />
       </td>
@@ -347,7 +380,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/Kk8dnbqdArcCAVybHe0SZiBtmIe8_JUZASg8Bhhn39E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODA3/Mi0xNjAyNjA2NzYw/LTY2MDMuanBlZw.jpeg" alt="Cover for Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -366,7 +399,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/zkUUZLtK2IfbUMofYdHxOeYvK86U2ppe1sJe4dCEC4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzY2/NTgtMTM3MTkxOTU1/Ni0yNzc2LmpwZWc.jpeg" alt="Cover for The Entertainist" style="max-width:120px; height:auto;" />
       </td>
@@ -388,15 +421,16 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       <td>
         <ul>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 9</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 25</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 30</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 68</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47fcba87cf074d1f920ae6e48e6431be.png" alt="Cover for Holt Boerge!" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Delbo</td>
@@ -415,7 +449,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/fTqLJoGmb5-DO5aCxVy5gsOdGpnmJWWWTG43nOfDCzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU0/OTAtMTI1NjIzNzYx/Mi5qcGVn.jpeg" alt="Cover for Kollektion Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -433,7 +467,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/X7TxosM7sjhgo2K_I4dlfztqYhTLt4UJBJSmWkHLqQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODkx/LTAwMS5qcGc.jpeg" alt="Cover for Statdkind" style="max-width:120px; height:auto;" />
       </td>
@@ -453,7 +487,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/zXNw3nUOwoxEnUrlKAydI5viHqa7FGp33FJHFGcb8B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDc2/NTctMTU4ODQyOTQz/NS0xMjI3LmpwZWc.jpeg" alt="Cover for New Dubbie Conquerors" style="max-width:120px; height:auto;" />
       </td>
@@ -473,8 +507,9 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c0bd7bc12114f4baf442ed21c9be042.png" alt="Cover for Stadtkind" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-09-17</td>
       <td>Ellen Allien</td>
@@ -492,7 +527,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2002-04-02</td>
@@ -512,9 +547,9 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
-          <img src="https://i.discogs.com/RDgmqgA9nJ0ne6UZYDqVXzrtOZwv6h0zWCRJZ4zdmZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDU1/NS0xNjk1MTA3Njky/LTY3NTEuanBlZw.jpeg" alt="Cover for Macht Liebe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4327188f8e313474f037c8eb2f8f6502.png" alt="Cover for Macht Liebe" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-09-09</td>
       <td>Rosenstolz</td>
@@ -531,7 +566,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/4OX5MZkR-qcjdCZkEVk0Kix32njUwLQ7TACmB9CEgeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODM1/LTExNzE5OTMwODgu/anBlZw.jpeg" alt="Cover for The Floor" style="max-width:120px; height:auto;" />
       </td>
@@ -551,7 +586,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
       </td>
       <td>2002-12-21</td>
@@ -567,7 +602,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/tnAjg9gZYhQ4pNTboGPzrNQWQdQj5vG607QbOd2Ehmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk4/MjcxLTE0OTY2NjQ3/ODgtMzQ3Mi5qcGVn.jpeg" alt="Cover for Warregae" style="max-width:120px; height:auto;" />
       </td>
@@ -616,7 +651,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
       </td>
       <td>2003</td>
@@ -664,7 +699,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/J52mx1V-ql7Xuzco0uXuCrOEZAklUknCvkn8ARjyLTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTgz/OTEtMTQ0MjcxODk5/MS01MTg0LmpwZWc.jpeg" alt="Cover for Killing Absorption" style="max-width:120px; height:auto;" />
       </td>
@@ -681,12 +716,12 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 8</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/iIT73II9WeaoydlyQAtJkfmxqKg07oyuFKhrWgfj9vE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzcw/MjEtMTI1NjI0NTM2/Ny5qcGVn.jpeg" alt="Cover for Lichtjahre voraus" style="max-width:120px; height:auto;" />
       </td>
@@ -708,7 +743,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/Q5pYo8ESVOcPMf5J-dOTAXlRFv0-_jV9BU0VY14ou64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTA2/MTYtMTQ0MzgyMzIz/NS0zNDU4LmpwZWc.jpeg" alt="Cover for Endorphin" style="max-width:120px; height:auto;" />
       </td>
@@ -726,7 +761,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
       </td>
       <td>2005</td>
@@ -740,14 +775,14 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 1</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 3</li>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 15</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 2</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 5</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/SgFNzPvOPuUc_xZxrKcopgKL8EhhzuezRriATdF7cOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/Ny0xMzQ5NjE0MjM2/LTk5NzcuanBlZw.jpeg" alt="Cover for Next !" style="max-width:120px; height:auto;" />
       </td>
@@ -767,7 +802,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2005-01-17</td>
@@ -780,13 +815,13 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 10</li>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 12</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 11</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/Xqu_NT9zBfrqwaeZcjoHFhtLQst3QbWDks8nE6DM47I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzM0/MDItMTMxMjYyOTkz/Ni5qcGVn.jpeg" alt="Cover for Bock Auf Aphorismen" style="max-width:120px; height:auto;" />
       </td>
@@ -823,13 +858,14 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 24</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58ab7a31fac0ad53a1376cbda8a2656c.png" alt="Cover for Dein Lieblingsalbum" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-07</td>
       <td>Deine Lieblingsrapper</td>
@@ -845,7 +881,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/k0LbUWrjOsErhVmr5a2_gkMgnb52DUyg6fkmjoSDBiI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjIz/NzUtMTQ1Mjg3MzA0/MC0yMDMxLmpwZWc.jpeg" alt="Cover for Schall und Schatten" style="max-width:120px; height:auto;" />
       </td>
@@ -868,7 +904,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/pGJZ0g4HN8oMRR4QUTH26yh6P0v96uKfo-8navM1sHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzEx/MC0xMTUzMTQ0ODIy/LmpwZWc.jpeg" alt="Cover for Berlin, Montreal, Tel Aviv" style="max-width:120px; height:auto;" />
       </td>
@@ -906,7 +942,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>2006-04-24</td>
@@ -928,6 +964,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82bae0fbcc1c43eda1a4261502887fff.png" alt="Cover for Dreams" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-27</td>
       <td>The Whitest Boy Alive</td>
@@ -939,12 +976,12 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 27</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/7nJrvG9bFrtKvp1GS_NYSCSaLdqQRWPOm1uf5IiCATI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDI5/NjYtMTMxNzIyMTky/OS5qcGVn.jpeg" alt="Cover for Live 11-29-97 Cologne, E-Werk" style="max-width:120px; height:auto;" />
       </td>
@@ -961,7 +998,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2006-06-06</td>
@@ -979,7 +1016,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>2006-06-16</td>
@@ -996,7 +1033,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/aPITUdE4nF-HTs-exQOyeMETgzLfHUWYkpuJFQkYwnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTU3/MS0xMTYwMzA3ODA4/LmpwZWc.jpeg" alt="Cover for Dynamite" style="max-width:120px; height:auto;" />
       </td>
@@ -1014,12 +1051,12 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 72</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/FX_qASwFNVwkUQX1icc5H1RTDhb_cCtpvIlwfg_e4iI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MDU3/My0xMTY0OTA1MzI3/LmpwZWc.jpeg" alt="Cover for Airport Lounge" style="max-width:120px; height:auto;" />
       </td>
@@ -1039,12 +1076,12 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       <td>
         <ul>
             <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 43</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 74</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>2007</td>
@@ -1065,7 +1102,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/bNyP5DvGDM5qOJXQZajilVWlp9NILAaDGyC5fZ0LPk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzc1/MzAtMTQ3OTk0NzM0/NS02NzkyLmpwZWc.jpeg" alt="Cover for Team Avantgarde-Absolut" style="max-width:120px; height:auto;" />
       </td>
@@ -1086,7 +1123,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
       </td>
       <td>2007</td>
@@ -1103,7 +1140,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/qK7mEZ4nOT0_JBn-eShBAOLi_bBOfSy8CiYabdhPadQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTU4/NzEtMTIxNjA2MTMw/Ni5qcGVn.jpeg" alt="Cover for Monster E.P." style="max-width:120px; height:auto;" />
       </td>
@@ -1144,27 +1181,9 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/o-FmR4Y8a8d7oKkwmg7aDNlL4Rz1-uhUff11g081OUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMx/MzctMTIxMjQ1OTk3/MS5qcGVn.jpeg" alt="Cover for The Sun &amp; The Neon Light" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-05-26</td>
-      <td>Booka Shade</td>
-      <td>The Sun &amp; The Neon Light</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 55</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b2ed5635a0a41af9666d4601a4235ba.png" alt="Cover for Berlin Calling" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-02</td>
       <td>Paul Kalkbrenner</td>
@@ -1179,13 +1198,13 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 46</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 47</li>
             <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2009</td>
@@ -1203,7 +1222,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2009-07-03</td>
@@ -1219,9 +1238,9 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/xbNGM40jfl3jnldPb7vD2e26CVkyrqcUa4QbGd4QdEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTM4/MTEtMTI5Njg1MjM1/Ni5qcGVn.jpeg" alt="Cover for QUEENDOM COME" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b6535efa4d3431198bc54e6e92604e9.png" alt="Cover for QUEENDOM COME" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11-30</td>
       <td>ZOE.LEELA</td>
@@ -1239,7 +1258,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/6jPJFUp_LRf5GR4dOO1FgsyofNr5dS_4S0ocy21uYSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTg3/MzgtMTI2NzIyNjky/Ny5qcGVn.jpeg" alt="Cover for A Turnaround" style="max-width:120px; height:auto;" />
       </td>
@@ -1257,7 +1276,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>2010-03-17</td>
@@ -1286,8 +1305,9 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ae5d40b3bb548b0a72376e8a4be1025.png" alt="Cover for Baby ouh!" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-26</td>
       <td>Stereo Total</td>
@@ -1302,12 +1322,12 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 46</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/zdaRN5UL8kC-mXFCmaBfng0rxTVmi7vZT9UzCuDq7GA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjc1/NjQtMTQ1Mjg3MzI0/MS0yNzY3LmpwZWc.jpeg" alt="Cover for Bis auf den Grund" style="max-width:120px; height:auto;" />
       </td>
@@ -1351,7 +1371,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
       </td>
       <td>2010-08-13</td>
@@ -1370,6 +1390,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 1</li>
             <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 25</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 81</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 85</li>
@@ -1378,7 +1399,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/qNL7twVL-QK4OKWJq2rvLNNWXAobL-ioz586BzqtgEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTgx/NjctMTI4ODQzMjk5/MC5qcGVn.jpeg" alt="Cover for Songs Of L. And Hate" style="max-width:120px; height:auto;" />
       </td>
@@ -1396,7 +1417,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/3c1noMmizkSxy34i3woXJhWeLJrRH1EzJEQrhLtvWvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDYx/MzctMTI5NDc2OTUw/NS5qcGVn.jpeg" alt="Cover for Today" style="max-width:120px; height:auto;" />
       </td>
@@ -1423,7 +1444,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ff6419c8e6843b3858c2657e7f9d876.png" alt="Cover for Was kostet die Welt" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,9 +1476,9 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/ZkZ0JIbKoIluo6zj2u68VW5bju5QunNcfqJ-TiPoERA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzI5/MzAyLTE3MDkzNzMw/NTItOTQzNS5qcGVn.jpeg" alt="Cover for Ratatat im Bataclan" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f4857fb9af3a0fe4337ca759ee77769.png" alt="Cover for Ratatat im Bataclan" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-05</td>
       <td>Zugezogen Maskulin</td>
@@ -1477,7 +1498,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/45fe7bb64aac4a92b86489af47e70942.png" alt="Cover for Jupiter Jones" style="max-width:120px; height:auto;" />
       </td>
@@ -1495,7 +1516,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/wb98I-1IH9PA36etqRlOl8_Yfg8w8XWdH0dKgsUoL0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzMx/NDYtMTY1OTcxMzU4/MS00MjM0LmpwZWc.jpeg" alt="Cover for Soundtrack für dieses Jahr" style="max-width:120px; height:auto;" />
       </td>
@@ -1517,7 +1538,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
         <ul>
             <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 16</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 22</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 37</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 39</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 87</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 89</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 92</li>
@@ -1525,9 +1546,9 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/OC7A8b_5WmUxEUzY32hg7b0HUs6Ix1mgQxOAI2GyRS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTI1/MjYtMTMxMTY4MjQw/Ni5qcGVn.jpeg" alt="Cover for Weightless" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa66eae8a32e4032a3f9ac09c1ef2bd8.png" alt="Cover for Weightless" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-22</td>
       <td>Laserkraft 3D</td>
@@ -1575,7 +1596,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 40</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 41</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 64</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 66</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 86</li>
@@ -1584,7 +1605,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>2011-11-27</td>
@@ -1604,7 +1625,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/a9kEus_YWgnAAfw2sjBAcf_9h6zYnwxE1XPH_9u_DVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTYz/MDItMTMzMzIwNjcw/NC5qcGVn.jpeg" alt="Cover for Florian Meindl - Take the train EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1624,7 +1645,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>2012-06-08</td>
@@ -1661,7 +1682,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/JpmRpSV63PceuIYMy7bslNdGKuN7zQy4k7z39jcE_SI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjMw/OTctMTM0NTgxNTUw/Mi0yMDk0LmpwZWc.jpeg" alt="Cover for Heart To Find EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1683,6 +1704,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a8fd01f2c92405293414b9eafa96c9e.png" alt="Cover for Die bekannteste unbekannte Band der Welt" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-19</td>
       <td>SDP</td>
@@ -1700,7 +1722,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td>2013-02-22</td>
@@ -1720,6 +1742,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/751fc61d9566405f82843c647f1fea39.png" alt="Cover for Meine Soldaten" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-03</td>
       <td>Maxim</td>
@@ -1768,11 +1791,11 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 2</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 35</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 10</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 36</li>
             <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 71</li>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 75</li>
             <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 75</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 76</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 90</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 96</li>
             <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 97</li>
@@ -1782,7 +1805,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>2013-05-31</td>
@@ -1824,8 +1847,8 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 26</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 67</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 29</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 68</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 79</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 84</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 92</li>
@@ -1833,28 +1856,9 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>79</td>
       <td>
-      </td>
-      <td>2013-08-02</td>
-      <td>Moderat</td>
-      <td>II</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 27</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 35</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 88</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7543a5c99894caaab6210144e485bf5.png" alt="Cover for Idle No More" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-03</td>
       <td>King Khan &amp; The Shrines</td>
@@ -1873,7 +1877,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
       </td>
       <td>2013-09-21</td>
@@ -1890,7 +1894,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/nc9sMe0tEo15Tzw9aM6Xp-_2JONA1sq47aWIn97HGns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDcy/ODgtMTQwMzIxODI2/NC04MzgzLmpwZWc.jpeg" alt="Cover for Bunte Rapublik Deutschpunk (Premium Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1910,8 +1914,9 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28908d4576e06a4cb7d546e5e23f3200.png" alt="Cover for Decay" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-31</td>
       <td>Efdemin</td>
@@ -1928,9 +1933,27 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49f6ace8fa3e49f7c90df64c17b6abe6.png" alt="Cover for Don&#39;t Wait Up" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-05-13</td>
+      <td>Bane</td>
+      <td>Don&#39;t Wait Up</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/SUjXBqMiUQGYDHBb_o3-FsEEJX7tSR-g2DxwfS8qApQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDc2/OTQtMTY1Mjc2OTY0/Ni02NzQwLmpwZWc.jpeg" alt="Cover for Alles brennt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d84fe7ae6ac54c87cca718f4390af559.png" alt="Cover for Alles brennt" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-31</td>
       <td>Zugezogen Maskulin</td>
@@ -1946,13 +1969,13 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 15</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 16</li>
             <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/yvlGiyAxD338wM8ZfTvkolGsrBIHcbn_5Azfn5Hk1Ac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTYz/Njg1LTE2ODgzODUx/NzQtMTYxNi5qcGVn.jpeg" alt="Cover for Zurück in die Zukunst" style="max-width:120px; height:auto;" />
       </td>
@@ -1972,7 +1995,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/RLYP96cSrrwzO9NPH7mNl19bZgH6h-7P9-QoiCqUPF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDA4/MjgtMTQ1Nzc4NjU5/OS02MDY2LmpwZWc.jpeg" alt="Cover for Rausch" style="max-width:120px; height:auto;" />
       </td>
@@ -1990,7 +2013,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/9hSIoD-tRHy_LWAHWuMRkODw9HE7A83KJ1stMkox9Js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDk1/ODk4LTE2NDQ0NTIx/MDctNjE3NC5qcGVn.jpeg" alt="Cover for Timeless Hours" style="max-width:120px; height:auto;" />
       </td>
@@ -2013,9 +2036,9 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/3Jb9YXvsLg-zNirCMJYH8mP_jeoLVgm55m6xe2Q0nRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDMz/ODU5LTE0OTA0NjQ0/NjEtMTMyOC5qcGVn.jpeg" alt="Cover for So schön kaputt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a5220497fe0cf94efb888d9213c7cae.png" alt="Cover for So schön kaputt" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>SDP</td>
@@ -2033,7 +2056,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/oDfDyR0hteo_YBBWrWrp1AXrBY109Ps1RM06vFOViU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjYw/MDctMTU3NDQ1Njcz/MS04OTA0LmpwZWc.jpeg" alt="Cover for BLD" style="max-width:120px; height:auto;" />
       </td>
@@ -2052,7 +2075,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/561d3fce17647a9485c60074eb5f99fe.png" alt="Cover for Quiet Pass" style="max-width:120px; height:auto;" />
       </td>
@@ -2073,7 +2096,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/OMPw6Gne5cNRDOFkbaqP1QWr9b8ojLI_wADlfx7W1aE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI2/NDE1LTE1MDg1ODU0/NDAtMjk3Ni5qcGVn.jpeg" alt="Cover for Alle Gegen Alle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c3f80db800161dc8da7bdfc52fe59a6.png" alt="Cover for Alle Gegen Alle" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-20</td>
       <td>Zugezogen Maskulin</td>
@@ -2089,7 +2112,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 65</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -2114,7 +2137,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/LQiU_oYH_b0c2CIij2WL5TU2Qt3uvyaDAY8s3k7i2kM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTg1/OTI4LTE2MzY5NjQ2/ODAtNTc4My5qcGVn.jpeg" alt="Cover for $oho Bani Vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -2129,12 +2152,12 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 55</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
       </td>
       <td>2021-01-29</td>
@@ -2167,12 +2190,12 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 13</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/K1H46Mat3vAGrqTsCPeIY8XZU7D_9kknqVn_91tIT7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTA1/MjkxLTE2Njc5ODgw/MjctODIzMS5qcGVn.jpeg" alt="Cover for Lo Fi (REMIXES)" style="max-width:120px; height:auto;" />
       </td>
@@ -2192,7 +2215,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/JIfAWQXe-PEIx9GYH_RH2AnGIaEQa7tBPSdz3VmgZ9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTgz/OTY4LTE2ODAxMDQy/NDktNzU3Mi5qcGVn.jpeg" alt="Cover for Motor Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -2211,8 +2234,9 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/586e4f7aa9dada995a24d4695e485422.png" alt="Cover for Unplugged @ Fritz Studios 31.08.2009" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Virginia Jetzt!</td>

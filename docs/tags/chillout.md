@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T14:27:15.408Z
+date: 2025-11-11T10:17:49.154Z
 permalink: tags/chillout
 title: chillout
 ---
 
 ## chillout
 
-Last updated: <time datetime="2025-11-08T14:27:15.408Z">Sat Nov 08 2025 16:27:15 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T10:17:49.154Z">Tue Nov 11 2025 12:17:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
   </thead>
   <tbody>
     <tr>
-      <td>76</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/-PHWHQvlBRTumQ59NE_KvDdKPZeX8AjzJi2aQ-mKwxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODEt/MTU2ODE4NzQ5Mi05/NTU5LmpwZWc.jpeg" alt="Cover for G-Stoned" style="max-width:120px; height:auto;" />
       </td>
@@ -47,31 +47,9 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/5SEThWFEJ11d-0_nWYdba9CCmbvJnjotA0jXvPoUO6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MzY0/MS0xMjA2MDY5Nzkx/LmpwZWc.jpeg" alt="Cover for Amplified Heart" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994-06-13</td>
-      <td>Everything But the Girl</td>
-      <td>Amplified Heart</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 22</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 56</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9517f546465554f33c287606bec04e77.png" alt="Cover for Children" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Robert Miles</td>
@@ -85,12 +63,12 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 76</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>11</td>
       <td>
       </td>
       <td>1997</td>
@@ -104,12 +82,12 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 3</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4639319afa4ea978a596b76a21224982.png" alt="Cover for Flying Away" style="max-width:120px; height:auto;" />
       </td>
@@ -125,14 +103,15 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 53</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 62</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 54</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e36ae9b48e382e4b91e851ebb217535f.png" alt="Cover for A Grand Love Story" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-11-25</td>
       <td>Kid Loco</td>
@@ -146,14 +125,15 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 3</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 73</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 17</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/466f8fd2eaf94f5a92d44c63ffc8b33a.png" alt="Cover for Moon Safari" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-01-16</td>
       <td>Air</td>
@@ -166,14 +146,14 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 70</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 76</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 71</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 78</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>39</td>
       <td>
       </td>
       <td>1998-03-16</td>
@@ -186,14 +166,33 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 88</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/NSwfSD7PvO9Ds6DCjuuAgWR2KOnI-ViqAwIKMoYkZIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTUz/NC0xMzI3MDg5OTEw/LmpwZWc.jpeg" alt="Cover for Premiers Symptomes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1b2eab14337cbe47cc473b422625788.png" alt="Cover for Mezzanine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-04-17</td>
+      <td>Massive Attack</td>
+      <td>Mezzanine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae78843e0e686265e689046082d86da5.png" alt="Cover for Premiers Symptomes" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Air</td>
@@ -209,27 +208,9 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>68</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9b464e917604d3acd50803d6d140a3d.png" alt="Cover for Carboot Soul" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999-04-12</td>
-      <td>Nightmares on Wax</td>
-      <td>Carboot Soul</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/645ef9545c4ac26bc61563ca7a2c0bf3.png" alt="Cover for Play" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-05-17</td>
       <td>Moby</td>
@@ -241,14 +222,15 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 26</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 27</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 29</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b20906d270a74f289af85ddfed522e84.png" alt="Cover for Vertigo" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-05-24</td>
       <td>Groove Armada</td>
@@ -265,8 +247,9 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/beb2b19929c440a3a7631f6e18eaafce.png" alt="Cover for Peace Orchestra" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-09-01</td>
       <td>Peace Orchestra</td>
@@ -281,12 +264,12 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 29</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/xcj3YWy8BehHvefJXDggNrgN9-gfcsEfQkFs36SXnDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTYt/MTIxNDA3NjQ2My5q/cGVn.jpeg" alt="Cover for Beyond Skin" style="max-width:120px; height:auto;" />
       </td>
@@ -305,7 +288,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>64</td>
       <td>
       </td>
       <td>1999-10-11</td>
@@ -322,7 +305,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/QfNKyXk1wNNH9dK9ihJZsSCNOxEtka_X2M5uDRzybXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTM1/LTE0NzYyNjQxOTAt/Mjc2Ny5qcGVn.jpeg" alt="Cover for Magnificent Tree" style="max-width:120px; height:auto;" />
       </td>
@@ -336,13 +319,14 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 77</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bacd6a4657345628723f206201413ea.png" alt="Cover for Suzuki" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-03-06</td>
       <td>Tosca</td>
@@ -354,14 +338,15 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 29</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 74</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 30</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f8b9dd5c23640c0c06604485e80838f.png" alt="Cover for Freaks &amp; Icons" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-05-08</td>
       <td>Dzihan &amp; Kamien</td>
@@ -376,14 +361,15 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       <td>
         <ul>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 24</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 85</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 86</li>
             <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08050631aee745578de5dca51732f134.png" alt="Cover for Animal Magic" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-07-24</td>
       <td>Bonobo</td>
@@ -396,15 +382,15 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 55</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 64</li>
             <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
-          <img src="https://i.discogs.com/G2M-tB70EZo0Hm6H-OJ0G908mSuPDKfOuSnFC3uEkvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzct/MTQ0ODE1MjQzMC0y/OTgwLmpwZWc.jpeg" alt="Cover for The Mirror Conspiracy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/091e602cc4c947f3c739237c4b1ce67d.png" alt="Cover for The Mirror Conspiracy" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-08-21</td>
       <td>Thievery Corporation</td>
@@ -418,15 +404,34 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 10</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 33</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 1</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 23</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/28Xi2umxaMYBubTVnlOH5rAbGK0jWzIhhbgU6g2ptA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NjMt/MTQ5OTEwNDg4MS0x/OTM5LmpwZWc.jpeg" alt="Cover for lemonjelly.ky" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecdfa526d2b27698d8773c26664e1b78.png" alt="Cover for The Magnificent Tree" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-08-23</td>
+      <td>Hooverphonic</td>
+      <td>The Magnificent Tree</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 8</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c86144d7748a6f47a002f74d220892c.png" alt="Cover for lemonjelly.ky" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-10-23</td>
       <td>Lemon Jelly</td>
@@ -442,28 +447,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-      </td>
-      <td>2000-11-27</td>
-      <td>Boards of Canada</td>
-      <td>In a Beautiful Place Out in the Country</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 84</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 95</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/JrTxBNIqMbXs32scYsKH8haJouCrHShyI_HV7W3_AlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDU3/LTEzNDA4OTk3Njkt/NzI5Mi5qcGVn.jpeg" alt="Cover for La Revacha del Tango" style="max-width:120px; height:auto;" />
       </td>
@@ -483,7 +467,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b58eed969944a9ecaa5c99bc5eaefee.png" alt="Cover for Citizen Cope" style="max-width:120px; height:auto;" />
       </td>
@@ -501,8 +485,9 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2071513bc23073a84bbfe3a7b28f36d9.png" alt="Cover for Genetic World" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-01-01</td>
       <td>Télépopmusik</td>
@@ -517,14 +502,15 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 35</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 67</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 47</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef82e012c04802d6870cb2d4d6118071.png" alt="Cover for Simple Things" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-04-23</td>
       <td>Zero 7</td>
@@ -542,7 +528,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>25</td>
       <td>
       </td>
       <td>2001-05-22</td>
@@ -556,13 +542,15 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 1</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92e65e49da854b1b9176c724b4be3e6c.png" alt="Cover for Satta" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-06</td>
       <td>Boozoo Bajou</td>
@@ -576,54 +564,50 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 9</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 50</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 91</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 11</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 52</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee96e6a12a7f454998d3b320aeb2ecc3.png" alt="Cover for Goodbye Country (Hello Nightclub)" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-09-10</td>
       <td>Groove Armada</td>
       <td>Goodbye Country (Hello Nightclub)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/K012_U8YQeUJTHZHYT7eo2gxDr-_cE0GOSI_eNViJwQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTUw/LTE1OTI0NTk4NzEt/NzE0NC5qcGVn.jpeg" alt="Cover for Melody A.M." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b31a471c37ec8aadc79d435cf9cbe39.png" alt="Cover for Melody A.M." style="max-width:120px; height:auto;" />
       </td>
       <td>2001-09-13</td>
       <td>Röyksopp</td>
       <td>Melody A.M.</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 52</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 69</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 54</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>30</td>
       <td>
       </td>
       <td>2001-10-22</td>
@@ -642,7 +626,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>55</td>
       <td>
       </td>
       <td>2001-10</td>
@@ -660,8 +644,9 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5292296a9f7049cf8f4b639f19660234.png" alt="Cover for Waltz for Koop" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Koop</td>
@@ -675,16 +660,17 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 33</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 35</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 45</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 55</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 58</li>
             <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3d3301425b649e29cd22ba99c07aa38.png" alt="Cover for 18" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-05-02</td>
       <td>Moby</td>
@@ -702,6 +688,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94e099a778a7446b8051807ec61765c2.png" alt="Cover for The Richest Man in Babylon" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-09-17</td>
       <td>Thievery Corporation</td>
@@ -715,13 +702,13 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 89</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 93</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 90</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>28</td>
       <td>
       </td>
       <td>2002-10-07</td>
@@ -734,12 +721,30 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 73</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>4</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Bliss</td>
+      <td>Quiet Letters</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
       <td>
       </td>
       <td>2003-03-03</td>
@@ -756,7 +761,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c30ea05e23d841dbc12e6cb71d7c25f2.png" alt="Cover for Parts of the Process" style="max-width:120px; height:auto;" />
       </td>
@@ -775,7 +780,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0923aa8b7a3fbb2d9b456306750c083.png" alt="Cover for Metaphorical Music" style="max-width:120px; height:auto;" />
       </td>
@@ -792,17 +797,17 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 73</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 80</li>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 82</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 85</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 75</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 81</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 83</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/dyhcp2BzDoM8NmDyU2_9_jX5-G8a3LQ_ut7fyhjo-po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTUx/OC0xNDk1MzcyNjgz/LTIzNDAuanBlZw.jpeg" alt="Cover for Laughter Through Tears" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8de84ff3524e2c14fdd6b2e45196457.png" alt="Cover for Laughter Through Tears" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-29</td>
       <td>Oi Va Voi</td>
@@ -822,7 +827,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8f5f338ef2943909d5d9c63ee272c95.png" alt="Cover for Maps From The Wilderness" style="max-width:120px; height:auto;" />
       </td>
@@ -843,6 +848,24 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       <td>6</td>
       <td>
       </td>
+      <td>2003-11-03</td>
+      <td>Lamb</td>
+      <td>Between Darkness And Wonder</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
       <td>2004</td>
       <td>Animal Liberation Orchestra</td>
       <td>Fly Between Falls</td>
@@ -857,7 +880,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f285ac8444da4d3db99a944893eeadc1.png" alt="Cover for Colour the Small One" style="max-width:120px; height:auto;" />
       </td>
@@ -870,31 +893,11 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 8</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
-      <td>
-      </td>
-      <td>2004-01-21</td>
-      <td>Air</td>
-      <td>Talkie Walkie</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 44</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>53</td>
+      <td>59</td>
       <td>
       </td>
       <td>2004-02-02</td>
@@ -911,7 +914,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/xA4qDQkzU3uPkKF-nJR9eBaGvzC1wQl2NV0XeqqXLdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjUz/OC0xMzMxMTE3NDM4/LmpwZWc.jpeg" alt="Cover for When It Falls" style="max-width:120px; height:auto;" />
       </td>
@@ -925,12 +928,12 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 1</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>23</td>
       <td>
       </td>
       <td>2004-02-27</td>
@@ -949,7 +952,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>18</td>
       <td>
       </td>
       <td>2004-06-28</td>
@@ -967,7 +970,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f490f4d2db054b97941762dfcda62b5a.png" alt="Cover for The Clarence Greenwood Recordings" style="max-width:120px; height:auto;" />
       </td>
@@ -987,7 +990,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/084e513ac52a4396be1771e143a3bdec.png" alt="Cover for Country Falls" style="max-width:120px; height:auto;" />
       </td>
@@ -1007,7 +1010,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08f5dcfbb8b8438b8dcd4800cf1d360b.png" alt="Cover for Morning Star" style="max-width:120px; height:auto;" />
       </td>
@@ -1025,7 +1028,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e669c298553a107826fd15120352f91.png" alt="Cover for Brazilian Girls" style="max-width:120px; height:auto;" />
       </td>
@@ -1044,8 +1047,9 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58f5241c425749f0b8c1d1db87a600f0.png" alt="Cover for The Cosmic Game" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-22</td>
       <td>Thievery Corporation</td>
@@ -1057,14 +1061,15 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 23</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 80</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 24</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/307c076c87577c1c5a149229f831bd61.png" alt="Cover for Angel Milk" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-22</td>
       <td>Télépopmusik</td>
@@ -1079,12 +1084,12 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 49</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>73</td>
       <td>
       </td>
       <td>2005-02-28</td>
@@ -1097,14 +1102,15 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 1</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 5</li>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad20b83e1fc417298b199bfc1b573cbb.png" alt="Cover for The Understanding" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-22</td>
       <td>Röyksopp</td>
@@ -1116,13 +1122,13 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 1</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 60</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 8</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/03M_c79-6_PqQrKLqhsc9D9bT7PRP-e8Y4IAL0pMoEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODU5/NzA1LTE1ODYxMDM0/MDYtOTMxNi5qcGVn.jpeg" alt="Cover for Versions - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1144,7 +1150,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>15</td>
       <td>
       </td>
       <td>2005-08-22</td>
@@ -1162,7 +1168,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12f82ac30c304f99add3830a3d2451c6.png" alt="Cover for Their Law The Singles 1990 - 2005" style="max-width:120px; height:auto;" />
       </td>
@@ -1178,9 +1184,9 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 14</li>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 25</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 59</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 16</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 28</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1201,10 +1207,10 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 44</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 61</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 69</li>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 70</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 41</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 45</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 71</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 73</li>
             <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 77</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 94</li>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 97</li>
@@ -1212,7 +1218,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/IPG9T0SNqxmtYeT3ZgHh4qE1JAv9Lwv5Ge1feXXQsmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzE5/OTgtMTY3NDEyMjIx/Ni03NDY5LmpwZWc.jpeg" alt="Cover for One Chance" style="max-width:120px; height:auto;" />
       </td>
@@ -1230,8 +1236,9 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3498a73a6623402dc00e805a49cec3de.png" alt="Cover for In A Space Outta Sound" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01</td>
       <td>Nightmares on Wax</td>
@@ -1245,13 +1252,15 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 88</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 11</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a13312b6637b94bd56cf45073ea5f255.png" alt="Cover for Collected" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-23</td>
       <td>Massive Attack</td>
@@ -1263,13 +1272,14 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 81</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34aef673923644e1ad7fa57ad67d16c2.png" alt="Cover for Lunatico" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-10</td>
       <td>Gotan Project</td>
@@ -1283,15 +1293,15 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 44</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 46</li>
             <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
-          <img src="https://i.discogs.com/224qUqY6qbmXvp9K9-RSfuWEe2LXnh_0v54HyZDW9uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTA0/Ny0xMTQ5ODYzOTg0/LmpwZWc.jpeg" alt="Cover for The Garden" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd468bc9474dbeaa9f5d179397ddf4b7.png" alt="Cover for The Garden" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-05-22</td>
       <td>Zero 7</td>
@@ -1303,34 +1313,12 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 26</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
-      <td>
-      </td>
-      <td>2006-10-02</td>
-      <td>Bonobo</td>
-      <td>Days to Come</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 74</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f47d54218144861c8303a43aaac993a.png" alt="Cover for Taking Up Your Precious Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1345,12 +1333,12 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 62</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09a6edefe91a447fbb70814cc534bb89.png" alt="Cover for To All New Arrivals" style="max-width:120px; height:auto;" />
       </td>
@@ -1367,13 +1355,14 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 12</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d82c8d1313774931b97cafe78a2c819f.png" alt="Cover for On Trade Winds" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-12-13</td>
       <td>Air France</td>
@@ -1390,8 +1379,9 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64e0560320b2471b8de12233c7ae0bdf.png" alt="Cover for Pocket Symphony" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-12</td>
       <td>Air</td>
@@ -1403,7 +1393,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 27</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1426,15 +1416,15 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 48</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 50</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 50</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 56</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 84</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc6d49075f4e4e469da33174a33c2e2a.png" alt="Cover for Lady Croissant" style="max-width:120px; height:auto;" />
       </td>
@@ -1454,6 +1444,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70f62a49998b436a911eaa297b6da21a.png" alt="Cover for Ma Fleur" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-07</td>
       <td>The Cinematic Orchestra</td>
@@ -1466,13 +1457,13 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 17</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 22</li>
             <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a972480211ad85cfa6f1cba7c79ce7b.png" alt="Cover for Life of a Ghost" style="max-width:120px; height:auto;" />
       </td>
@@ -1489,8 +1480,9 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d50a88c82d51e67206bafd191f62d56.png" alt="Cover for The Last Days Of Gravity" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-15</td>
       <td>Younger Brother</td>
@@ -1508,7 +1500,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/ILL2q1R4Dfn1BHmR_Ndqtwj9adH22NC7MyAm6EIxmnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njgx/MzktMTIzMzkzNzEz/NS5qcGVn.jpeg" alt="Cover for Me And Armini" style="max-width:120px; height:auto;" />
       </td>
@@ -1525,14 +1517,14 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 6</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 25</li>
             <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 64</li>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df5c2ce2f60e2a4d633b545c717126dc.png" alt="Cover for Some People Have Real Problems" style="max-width:120px; height:auto;" />
       </td>
@@ -1549,7 +1541,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad21ed6ff3724be7cb9812d4638eec8a.png" alt="Cover for Decode" style="max-width:120px; height:auto;" />
       </td>
@@ -1563,6 +1555,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 9</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 36</li>
             <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 62</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 80</li>
@@ -1571,7 +1564,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/23094c8aa2b54516a6e9ecb2668866a3.png" alt="Cover for So sehr dabei" style="max-width:120px; height:auto;" />
       </td>
@@ -1593,8 +1586,9 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53758dfdd56b4591b232bacaaa6fca58.png" alt="Cover for Blood Like Lemonade" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-07</td>
       <td>Morcheeba</td>
@@ -1610,7 +1604,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>27</td>
       <td>
       </td>
       <td>2010-06-22</td>
@@ -1625,37 +1619,16 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 39</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 39</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 66</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 79</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 86</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 41</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 42</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 73</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 80</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
-      <td>
-      </td>
-      <td>2010-09-08</td>
-      <td>Röyksopp</td>
-      <td>Senior</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 14</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 57</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/Qy_WZvfHmFr6hkhN-l8RORFatyKQiCjghV7c9nnQq3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTk0/NDMtMTQyNDA0Mzg2/NS00ODg5LmpwZWc.jpeg" alt="Cover for Monsters (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1672,13 +1645,15 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 13</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 4</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/85a8615eeed2cca3fe6f05869e42950e.png" alt="Cover for Making Mirrors" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-19</td>
       <td>Gotye</td>
@@ -1690,13 +1665,30 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 1</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 73</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9db69181b08d46dda320dff03afe95c1.png" alt="Cover for King Krule" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-11-07</td>
+      <td>King Krule</td>
+      <td>King Krule</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/0O2dgeyvI-LbtejPbZgpvBAdoKgaB5SvkwYRCkiyvA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/MjU3LTE1NDIxNDUx/NzktNTUzMi5qcGVn.jpeg" alt="Cover for Spectrum (Say My Name) EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1714,13 +1706,13 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 85</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 86</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>32</td>
       <td>
       </td>
       <td>2012-03-20</td>
@@ -1737,7 +1729,32 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/154d9e826ca643b9c3a0b1503d1c1b8a.png" alt="Cover for One Day (Vandaag)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-08-27</td>
+      <td>Bakermat</td>
+      <td>One Day (Vandaag)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 62</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
       <td>
       </td>
       <td>2012-09-06</td>
@@ -1755,7 +1772,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>9</td>
       <td>
       </td>
       <td>2012-09-09</td>
@@ -1775,7 +1792,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>83</td>
       <td>
       </td>
       <td>2012-10-15</td>
@@ -1792,7 +1809,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 57</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 59</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 86</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 93</li>
         </ul>
@@ -1814,13 +1831,13 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 63</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 65</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/d7Qg0MtodKzAsM6C-QT8LjhbhyF8N4GEYh9whqoQrNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTQ4/MjQtMTM2NDI1MzY5/My01NDMwLmpwZWc.jpeg" alt="Cover for À tout à l&#39;heure" style="max-width:120px; height:auto;" />
       </td>
@@ -1838,7 +1855,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>19</td>
       <td>
       </td>
       <td>2013-06-28</td>
@@ -1855,8 +1872,9 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/69a2581c0e894b4a9842c7b5866b7017.png" alt="Cover for Fiction" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-12</td>
       <td>The xx</td>
@@ -1877,10 +1895,10 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 10</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 22</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 37</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 52</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 23</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 40</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 53</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 91</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 99</li>
         </ul>
       </td>
@@ -1904,7 +1922,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/dNJUCMFZ97rh8vOlx-wbXrggB5DWP-c2i8Wqy-qo_j4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzU1/MjctMTQzNjgwODEx/NS0zNjc5LmpwZWc.jpeg" alt="Cover for Sunday" style="max-width:120px; height:auto;" />
       </td>
@@ -1919,12 +1937,12 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 14</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/8P6420xvJFK3F8kuD8kHDCQbPSLdI5PiqTpH6EunJp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mjgw/NjgtMTQ4ODcwNTg1/MC03MzkwLmpwZWc.jpeg" alt="Cover for healing" style="max-width:120px; height:auto;" />
       </td>
@@ -1940,15 +1958,15 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 19</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 21</li>
             <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/YhG4GoJ-pW5iPTfwQxhBYEt5YUF9jBn5A2k5AsSXuko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODE4/NDUtMTMzNjE1NTI5/MC5qcGVn.jpeg" alt="Cover for Triangle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/214e6d73cc724d15cdcdbd0870bf9721.png" alt="Cover for Triangle" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-06</td>
       <td>Slow Magic</td>
@@ -1966,7 +1984,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/gv3un6DJoD2XcwEs12Gpu_CfVSGulMFtIBaqFQEwOdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDgw/MTEzLTE1NTUwMDQz/ODMtNjM0OS5qcGVn.jpeg" alt="Cover for The Last Dance" style="max-width:120px; height:auto;" />
       </td>
@@ -1987,9 +2005,9 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/uaogVklB9wIpus9nKzJ635Hqkle6LAvfQnpN4tnl2qk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MjE2/MzUtMTQ4Njg1MzI5/OC03MTI1LmpwZWc.jpeg" alt="Cover for 3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/760d2520d81049c6c917cc3f26dc2b12.png" alt="Cover for 3" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-10-14</td>
       <td>Smolik</td>
@@ -2005,7 +2023,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/V5LPiXqw1OQSVCaPWw3ogmalSD6JK8jZlKzKfN6uXZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjU5/MS0xNTg2MzI0NTYx/LTQ5NjEuanBlZw.jpeg" alt="Cover for samurai champloo music record departure" style="max-width:120px; height:auto;" />
       </td>
@@ -2030,15 +2048,15 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 6</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 21</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 56</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 7</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 23</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 58</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 61</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 85</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 87</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 58</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 62</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 86</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 87</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 87</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 88</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 90</li>
         </ul>
       </td>

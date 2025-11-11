@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T14:29:01.951Z
+date: 2025-11-11T10:19:21.060Z
 permalink: tags/shoegaze
 title: shoegaze
 ---
 
 ## shoegaze
 
-Last updated: <time datetime="2025-11-08T14:29:01.951Z">Sat Nov 08 2025 16:29:01 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T10:19:21.060Z">Tue Nov 11 2025 12:19:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
   </thead>
   <tbody>
     <tr>
-      <td>78</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/tryat2cpONHCNndsxvDze-VFt9nYzV58HwVmNvzSkyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTU3/NTctMTQzMzA4MDMy/MC05NjExLmpwZWc.jpeg" alt="Cover for flutter" style="max-width:120px; height:auto;" />
       </td>
@@ -51,17 +51,17 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 63</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 68</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 69</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 77</li>
             <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 79</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 94</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 98</li>
             <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 98</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/Wx6AMYq7BEgcd11LZISj72CznA5xRQCXy8UosVilp_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTg4/My0xNTk0NzUwNTUx/LTQ3ODYuanBlZw.jpeg" alt="Cover for Psychocandy" style="max-width:120px; height:auto;" />
       </td>
@@ -77,13 +77,13 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 64</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 65</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/ViHt8-qnSMdg48v1tKUZblw45Tp6bpsONsHNw48Ki58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NjM3/LTEzMjQzOTkwOTYu/anBlZw.jpeg" alt="Cover for Love&#39;s Easy Tears" style="max-width:120px; height:auto;" />
       </td>
@@ -99,12 +99,12 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 34</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 35</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>56</td>
       <td>
       </td>
       <td>1987-11</td>
@@ -121,7 +121,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
       </td>
       <td>1988-11-21</td>
@@ -138,7 +138,25 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/DUu2-vmtSRjwIiVy05v5_eNKzoM8vp8la-xiGuTKGaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzg5/NC0xMTQ5NTE4MDM3/LmpwZWc.jpeg" alt="Cover for The Comforts of Madness" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990-02-12</td>
+      <td>Pale Saints</td>
+      <td>The Comforts of Madness</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/11rb1EOgfc3ga3wyPklW2r6GbD1px7aw8z90IfJqBwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Njgw/LTE1MjMxNjQxMjYt/MjA5Ni5qcGVn.jpeg" alt="Cover for Glider" style="max-width:120px; height:auto;" />
       </td>
@@ -156,7 +174,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b67823431f79d6383476db1499278623.png" alt="Cover for Nowhere (Expanded)" style="max-width:120px; height:auto;" />
       </td>
@@ -174,7 +192,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fa3704f8a01668d07930823e6577b83.png" alt="Cover for Nowhere" style="max-width:120px; height:auto;" />
       </td>
@@ -206,12 +224,12 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 31</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>43</td>
       <td>
       </td>
       <td>1991-02-04</td>
@@ -228,7 +246,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>89</td>
       <td>
       </td>
       <td>1991-09-02</td>
@@ -262,7 +280,26 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a414f453271424485021e7c96e9b743.png" alt="Cover for Blonder Tongue Audio Baton" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Swirlies</td>
+      <td>Blonder Tongue Audio Baton</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 11</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e58dd8880da4f09b3676ba5a4b64aa7.png" alt="Cover for Delaware" style="max-width:120px; height:auto;" />
       </td>
@@ -280,7 +317,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/VblQ_TwokdrWkBUv6iH0mZkaVX4v6YkFa70_GSq8cko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDUw/My0xMTUwODA3OTAy/LmpwZWc.jpeg" alt="Cover for Spooky" style="max-width:120px; height:auto;" />
       </td>
@@ -298,7 +335,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/18df8d254c584c6d8abd14fda527073d.png" alt="Cover for Siamese Dream (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -319,7 +356,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d56592ca7b754d8b0160774fb603eaa1.png" alt="Cover for Siamese Dream (2011 - Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -352,12 +389,12 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 58</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>29</td>
       <td>
       </td>
       <td>1993-06-15</td>
@@ -374,7 +411,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c6ecc7298a011487d364a14abdfc55f.png" alt="Cover for Painful" style="max-width:120px; height:auto;" />
       </td>
@@ -393,7 +430,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2208daedab2a4be7cb99bd8180634f95.png" alt="Cover for Split" style="max-width:120px; height:auto;" />
       </td>
@@ -412,7 +449,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/oaGZxEAWHqAfxA6-TgK6H6s4vKFQHLSxWXg0gPa1voY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTc5/My0xMjY0NTMxMzgy/LmpwZWc.jpeg" alt="Cover for Pygmalion" style="max-width:120px; height:auto;" />
       </td>
@@ -428,14 +465,14 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 36</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 39</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 37</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 40</li>
             <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14a3858233884d439a2c5e9750268822.png" alt="Cover for You&#39;d Prefer an Astronaut" style="max-width:120px; height:auto;" />
       </td>
@@ -456,7 +493,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/1My7omoCBvMaqru1QuuD9HaKHe0E9C8LC5nhsX_U2Ac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDU4/OC0xMzQ0NzAwMzE3/LTczODguanBlZw.jpeg" alt="Cover for Starflyer 59" style="max-width:120px; height:auto;" />
       </td>
@@ -474,7 +511,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/gTSlSkX3f0GG4W9cLbkvrYDirvPCAvCZnLqr8M15GWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzQt/MTQ5OTQ5ODkwMC0y/NDg4LmpwZWc.jpeg" alt="Cover for Beat" style="max-width:120px; height:auto;" />
       </td>
@@ -494,7 +531,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/nwq-I87RyK4BN9b-rOVB_ExtpVSd_wJrY9x6XuL3c-A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTY2/Ny0xMTc4NDE3NDA2/LmpwZWc.jpeg" alt="Cover for Velocity: design: comfort." style="max-width:120px; height:auto;" />
       </td>
@@ -511,53 +548,16 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 38</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 47</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 68</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 79</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 39</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 50</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 69</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 82</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c23d584664e4767b35d50375e5eff47.png" alt="Cover for Lesser Matters" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003-02-24</td>
-      <td>The Radio Dept.</td>
-      <td>Lesser Matters</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 32</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
-      <td>
-      </td>
-      <td>2003-04</td>
-      <td>M83</td>
-      <td>Dead Cities, Red Seas &amp; Lost Ghosts</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab214148a22b2ea307c4eaf7f35a0aa9.png" alt="Cover for Future Perfect" style="max-width:120px; height:auto;" />
       </td>
@@ -576,9 +576,9 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>71</td>
       <td>
-          <img src="https://i.discogs.com/OJk4Xws4wP37TSuGEfQ5yPhbGFRW1RvDjFkGGBHQ1j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDE1/MC0xMTQzMTIzNjky/LmpwZWc.jpeg" alt="Cover for Before the Dawn Heals Us" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc311f106df9463fb196555449b711ea.png" alt="Cover for Before the Dawn Heals Us" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-01-24</td>
       <td>M83</td>
@@ -595,7 +595,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>10</td>
       <td>
       </td>
       <td>2005-12-21</td>
@@ -609,12 +609,29 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 63</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>3</td>
+      <td>
+      </td>
+      <td>2006-01-01</td>
+      <td>Fleeting Joys</td>
+      <td>Despondent Transponder</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
       <td>
       </td>
       <td>2006-04-11</td>
@@ -632,8 +649,9 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64137bed8f7d4b519d8c51a1eb5f440f.png" alt="Cover for Pet Grief" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-12</td>
       <td>The Radio Dept.</td>
@@ -649,8 +667,9 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8917c36b29bc543c7d821abc24209a3.png" alt="Cover for Citrus" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-05-30</td>
       <td>Asobi Seksu</td>
@@ -686,7 +705,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/26318874212d488eb726d362c18ecc6a.png" alt="Cover for Carnavas" style="max-width:120px; height:auto;" />
       </td>
@@ -695,8 +714,6 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       <td>Carnavas</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-            <li style="font-size: calc(1rem * 93 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
       <td>
@@ -705,7 +722,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee2a3ca4bbb25f3c9ea0e36a82d0afa3.png" alt="Cover for LSD and the Search For God" style="max-width:120px; height:auto;" />
       </td>
@@ -723,26 +740,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>21</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2357ab46c0cd490fc94ab3d0f12cc277.png" alt="Cover for 23" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007-04-03</td>
-      <td>Blonde Redhead</td>
-      <td>23</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 61 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>62</td>
+      <td>66</td>
       <td>
       </td>
       <td>2007-07-03</td>
@@ -761,7 +759,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/ZnI3yONZZbOUj4Z36iVb1dosiLofAscJz797bwo3sBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk4/NjYtMTI2NzkyMDUz/MS5qcGVn.jpeg" alt="Cover for A Place To Bury Strangers" style="max-width:120px; height:auto;" />
       </td>
@@ -780,7 +778,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98d865541a1247acadcd4635275fe96c.png" alt="Cover for Lust Lust Lust" style="max-width:120px; height:auto;" />
       </td>
@@ -811,7 +809,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 34</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 36</li>
             <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 95</li>
         </ul>
       </td>
@@ -819,6 +817,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a937187046234b3eabd47ec08181490a.png" alt="Cover for Saturdays &#x3D; Youth" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04-14</td>
       <td>M83</td>
@@ -831,13 +830,14 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 21</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd543e8f9c0c40668da43e415afbcd26.png" alt="Cover for Microcastle" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-27</td>
       <td>Deerhunter</td>
@@ -845,7 +845,6 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
         </ul>
       </td>
       <td>
@@ -854,8 +853,9 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/068b0a59f93142e6c2dcbb4eb8f74dc6.png" alt="Cover for The Pains of Being Pure at Heart" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-26</td>
       <td>The Pains of Being Pure at Heart</td>
@@ -867,32 +867,14 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 25</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e3af673da6b9844ec4dfb01a5c260b8.png" alt="Cover for Swoon" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-04-14</td>
-      <td>Silversun Pickups</td>
-      <td>Swoon</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f492573478814e8c82d1302bfcda3138.png" alt="Cover for Primary Colours" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-04</td>
       <td>The Horrors</td>
@@ -905,12 +887,12 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 30</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>42</td>
       <td>
       </td>
       <td>2009-06-06</td>
@@ -927,7 +909,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/aTsxGKng_4ZRyW5UVVKOoiL2HVVVgLuNmxhBXO4sMT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjI4/MjUtMTI1NjU0MjE4/Mi5qcGVn.jpeg" alt="Cover for A Brief History of Love" style="max-width:120px; height:auto;" />
       </td>
@@ -945,8 +927,9 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ecfccaefe3b4b21b9ef0c685837edd7.png" alt="Cover for Exploding Head" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-05</td>
       <td>A Place to Bury Strangers</td>
@@ -958,12 +941,12 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 29</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>59</td>
       <td>
       </td>
       <td>2010-03-26</td>
@@ -985,26 +968,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>30</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d34d210973f443a6ac99e982c078b57a.png" alt="Cover for Clinging to a Scheme" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-04-19</td>
-      <td>The Radio Dept.</td>
-      <td>Clinging to a Scheme</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
+      <td>13</td>
       <td>
       </td>
       <td>2010-07-07</td>
@@ -1021,7 +985,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>19</td>
       <td>
       </td>
       <td>2011-02-09</td>
@@ -1038,26 +1002,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>32</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9780975ccd247b188b4661783d260fc.png" alt="Cover for Belong" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-03-16</td>
-      <td>The Pains of Being Pure at Heart</td>
-      <td>Belong</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3270c90b5f5548dfc85ae98f9c5c467c.png" alt="Cover for Distressor" style="max-width:120px; height:auto;" />
       </td>
@@ -1075,8 +1020,26 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>1</td>
       <td>
+      </td>
+      <td>2011-07-06</td>
+      <td>The Horrors</td>
+      <td>Skying</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7255eaa5b9274d08a5127b386f2424a6.png" alt="Cover for Widowspeak" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-09</td>
       <td>Widowspeak</td>
@@ -1093,8 +1056,9 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16fdad2898a167de51428b9ccbd2317a.png" alt="Cover for Hurry Up, We&#39;re Dreaming" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-14</td>
       <td>M83</td>
@@ -1105,14 +1069,14 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 17</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 49</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 82</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 22</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 55</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>52</td>
       <td>
       </td>
       <td>2012-01-06</td>
@@ -1131,8 +1095,9 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98dbe4a8d3fc4ae58925c0e51dafa39b.png" alt="Cover for Oshin" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-30</td>
       <td>DIIV</td>
@@ -1145,13 +1110,14 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 30</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f0bb87cc9c3c2bb6a4ae6818024ee50.png" alt="Cover for Midnight City" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-27</td>
       <td>M83</td>
@@ -1164,13 +1130,14 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 57</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9873bb9e777f4791a50ff4b4df76e744.png" alt="Cover for A Different Arrangement" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-09</td>
       <td>Black Marble</td>
@@ -1186,7 +1153,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b50c4a0285750fe1159849f2bbccc08d.png" alt="Cover for Koi No Yokan" style="max-width:120px; height:auto;" />
       </td>
@@ -1206,7 +1173,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
       </td>
       <td>2013-02-02</td>
@@ -1223,7 +1190,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98ee8f307004ac47f938929a37755492.png" alt="Cover for Whirr &amp; Nothing (Split Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1240,7 +1207,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       <td>
         <ul>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 12</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 56</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 57</li>
             <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 90</li>
         </ul>
       </td>
@@ -1268,7 +1235,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
       </td>
       <td>2013-06-25</td>
@@ -1283,15 +1250,15 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 42</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 60</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 44</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/2PYed0DsS2ypGKd12X5y9OiEH9aZSd4bD-_VmQ-P0mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjE3/NjAtMTM3NDY4MTY1/Mi03NTQ0LmpwZWc.jpeg" alt="Cover for Am" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e991b92e0f23582555fdc21f172eac9.png" alt="Cover for Am" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-02</td>
       <td>Ovlov</td>
@@ -1308,7 +1275,33 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64a2b18a981d4932c90db96276fdf922.png" alt="Cover for Warpaint" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-01-17</td>
+      <td>Warpaint</td>
+      <td>Warpaint</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 26</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 30</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 45</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
       <td>
       </td>
       <td>2014-01-27</td>
@@ -1323,15 +1316,15 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 26</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 28</li>
             <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/WsGvW2MY1RNAWdbawd3kvv7QJgHXy5i7l45S33q64X0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTg2/OTItMTQwMDc4NzUy/OS00NTYyLmpwZWc.jpeg" alt="Cover for Grow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a457d8ab81347e3c7439ae4ce23639c.png" alt="Cover for Grow" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-20</td>
       <td>Bedroom</td>
@@ -1352,7 +1345,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       <td>
         <ul>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 26</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 45</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 47</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 69</li>
             <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 90</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 100</li>
@@ -1360,8 +1353,9 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8640919267cd41c6c1820aacfb916978.png" alt="Cover for Sway" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-23</td>
       <td>Whirr</td>
@@ -1377,9 +1371,9 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>85</td>
       <td>
-          <img src="https://i.discogs.com/d7nyJnDsSZwPJYjnuw269-NSNf0nsZhNrhmvLd1twd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjY5/OTctMTQ1OTMzMTQ4/NC0yNTc2LmpwZWc.jpeg" alt="Cover for Hyperview" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/971950d882a34d96cd4dc03aed223884.png" alt="Cover for Hyperview" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-02-03</td>
       <td>Title Fight</td>
@@ -1395,7 +1389,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/jASvqmaJLrsPPm6UGELq8Pcv3nQs9k5OAUPB1MO1Fag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjMy/MjMtMTQzMDUxMTk0/MC01MzEzLmpwZWc.jpeg" alt="Cover for Ours Is Chrome" style="max-width:120px; height:auto;" />
       </td>
@@ -1411,15 +1405,15 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 31</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 33</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>68</td>
       <td>
-          <img src="https://i.discogs.com/bAjVZOux3QVNkeD1WGMmHJOP-8FAswatlerhwyHONgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDgw/MTEtMTQzOTg4OTI3/Ni0yOTQ0LmpwZWc.jpeg" alt="Cover for Depression Cherry" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92ee7e4f3afdbe6a9a8c13a4a790baf1.png" alt="Cover for Depression Cherry" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-08-28</td>
       <td>Beach House</td>
@@ -1437,9 +1431,29 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/VjBHp7yhyHYtMNoii5PNWe6dRuJuZCBrkzwj3T-RbEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDA3/NjUtMTUyMTgzOTA5/Ni0zODIwLmpwZWc.jpeg" alt="Cover for Is the Is Are" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d5c724d13cef5838af320dc84d48972.png" alt="Cover for repertório infindável de dolorosas piadas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-09-27</td>
+      <td>gorduratrans</td>
+      <td>repertório infindável de dolorosas piadas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bfb7edae7408cc3649bedd22ea2dbb6.png" alt="Cover for Is the Is Are" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-05</td>
       <td>DIIV</td>
@@ -1456,7 +1470,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/YDYIPqE13Qsc9pISJUST0o3r1fNae68ycRQh2BqQCXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjU0/MTUxLTE1OTUzMDkz/NjEtNDk0OC5qcGVn.jpeg" alt="Cover for return" style="max-width:120px; height:auto;" />
       </td>
@@ -1473,14 +1487,14 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 87</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 88</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 90</li>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/FDD6DX23wW47PduwipKPXGYQKDkvkPRslVl4Wm3GYrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODky/MjMtMTQ4NDgwODEw/My04OTAyLmpwZWc.jpeg" alt="Cover for Radiolove" style="max-width:120px; height:auto;" />
       </td>
@@ -1500,7 +1514,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/9OBe79HtvXf9UXjaSfsmEx2Xv3s1X2kcn3dVhWCiATY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjA2/NDEtMTQ3NTEzNTE3/NC0xMTc4LmpwZWc.jpeg" alt="Cover for Kodama" style="max-width:120px; height:auto;" />
       </td>
@@ -1521,7 +1535,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a718ca0f6989ae4697979fcda67b3de7.png" alt="Cover for Nightlife" style="max-width:120px; height:auto;" />
       </td>
@@ -1539,7 +1553,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/lb9IJiEsoiu9lN3fMZWUgNjgpUIC_EXtBpiKVzQkF4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODk0/NTcyLTE1MDYwOTkx/OTEtMzkzMy5qcGVn.jpeg" alt="Cover for Visions Of A Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1559,7 +1573,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/2UR6z8ULO-5KPowAwhiwp2VYoiME_FZ3aweW6OK2pQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTAz/NDUtMTQ4OTA5MTQ4/MC05NjY0LmpwZWc.jpeg" alt="Cover for Below The House" style="max-width:120px; height:auto;" />
       </td>
@@ -1581,7 +1595,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/Kp23eIdw16eO36E1WJYGRpvGb_Zg4qA0pVboOh6F91w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzU2/MjMtMTQ4ODgyNDk1/My00MjI2LmpwZWc.jpeg" alt="Cover for Everybody Works" style="max-width:120px; height:auto;" />
       </td>
@@ -1601,7 +1615,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/L-EbXdvMnu9FmNtstuiPcBbOd0sZNerNGwRcaLWZ74k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTQ5/NjYwLTE0OTI0Nzcz/MTYtMTE3OS5qcGVn.jpeg" alt="Cover for Apocalypse" style="max-width:120px; height:auto;" />
       </td>
@@ -1633,12 +1647,12 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 26</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/14QXmOVTi9gis4oG8vhe7g09riIN-lgh_QwarkMM8w8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzU2/NTA4LTE0OTU5MDc1/NzItNzk2MS5qcGVn.jpeg" alt="Cover for Cigarettes After Sex" style="max-width:120px; height:auto;" />
       </td>
@@ -1662,28 +1676,6 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/JkNHWNBtaBBDNz-RkJ7QKlwhymKqAjkUhQEsxOhNFDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDE3/Njc5LTE1MzQ4NzQ3/MTUtODEyMS5qcGVn.jpeg" alt="Cover for Slide" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-08-17</td>
-      <td>George Clanton</td>
-      <td>Slide</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 45</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 56</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 73</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
-      <td>
           <img src="https://i.discogs.com/yqgvYKNaQ7SaG6Umv9DGe5ZY83j5za6L0gnakaZQBBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjE2/MDU0LTE1NTAwOTg5/MDAtNzk0My5qcGVn.jpeg" alt="Cover for [trauma ray]" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-21</td>
@@ -1700,7 +1692,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/553f816c348d3080a17cd5f93d575f07.png" alt="Cover for Deceiver" style="max-width:120px; height:auto;" />
       </td>
@@ -1718,7 +1710,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4367c977948faed2125572b58e298e1b.png" alt="Cover for Feels Like You" style="max-width:120px; height:auto;" />
       </td>
@@ -1736,9 +1728,9 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/1AkIdIh82UQAJYVfehCxgvsY6wvnhpL2UoM2jyP3qm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDkx/NjExLTE2ODczODgw/NTAtMjE4Ny5wbmc.jpeg" alt="Cover for Computerwife" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09bb8e5060836b209dd8350041fe0807.png" alt="Cover for Computerwife" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-01</td>
       <td>Computerwife</td>
@@ -1757,16 +1749,16 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 32</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 56</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 34</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 58</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 73</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 81</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 82</li>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ee08bda639c3df913e1a4a37508a841.png" alt="Cover for To See the Next Part of the Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1806,7 +1798,25 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f8258cdca8879915ccf7fd0043863de.png" alt="Cover for Infinite Granite" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-08-20</td>
+      <td>Deafheaven</td>
+      <td>Infinite Granite</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/viumvjk_AiVOK1Y9itd86ewQJAR64DPM85qcT8qzfgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTU3/ODIxLTE2NTIwMzAy/OTUtNDQ2NS5qcGVn.jpeg" alt="Cover for kenopsia" style="max-width:120px; height:auto;" />
       </td>
@@ -1824,7 +1834,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/9C5Y4uv0RLRMt_Fpse-qwHjvovqrBCpweJJUtbL2-_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTA2/NDUyLTE2Njc5OTU3/NjEtMjg4Ni5qcGVn.jpeg" alt="Cover for Synfuels" style="max-width:120px; height:auto;" />
       </td>
@@ -1843,37 +1853,13 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 84</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 87</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 88</li>
             <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
-      <td>
-          <img src="https://i.discogs.com/7h9ltbKqEaQmf3_kzKmrmCbSGzuT5ReqyJ6BZCDROv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzI4/MjUyLTE2NjQ5ODU2/MTMtMzUwMy5qcGVn.jpeg" alt="Cover for Blue Rev" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-10-07</td>
-      <td>Alvvays</td>
-      <td>Blue Rev</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 35</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 57</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/HDQWpoSBwhEkLOp-IK9ojG1Vihb9-V656Y_MCciniUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDUz/MDU4LTE2Njc1ODY2/MDQtNDk4MS5qcGVn.jpeg" alt="Cover for We&#39;re Not Here to Be Loved" style="max-width:120px; height:auto;" />
       </td>
@@ -1892,7 +1878,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/GeOsekGgmlXvzNbuwFF2LjV3l1-G3k5vUa-h3-2IAkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTcw/MTUzLTE2NjAyMzU1/NjgtMTY1NS5qcGVn.jpeg" alt="Cover for pg.4 a picture of three hedges&#x2F;through your window" style="max-width:120px; height:auto;" />
       </td>
@@ -1914,7 +1900,29 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f7fae21fbc1227b264f84a3ff02a21a.png" alt="Cover for John Krasinski" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-08-04</td>
+      <td>Summer 2000</td>
+      <td>John Krasinski</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/AIFPtI5pQpifMKAcBYfoPExYqVa3uF5KMCjAYf_XqpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/OTIwLTE2OTMwNzgz/OTctNjI1OS5qcGVn.jpeg" alt="Cover for Everything Is Alive" style="max-width:120px; height:auto;" />
       </td>
@@ -1929,12 +1937,12 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 23</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/949a8095a04a3d2dda42de2af57cd18a.png" alt="Cover for I Wish You Roses" style="max-width:120px; height:auto;" />
       </td>
@@ -1951,13 +1959,13 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 1</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 18</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 19</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00e00de8eeac2004839c87384be90f20.png" alt="Cover for Nineteen In Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1975,12 +1983,12 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       <td>
         <ul>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 60</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 64</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f21e1571f83b48f2c8fbb3a6e495e365.png" alt="Cover for Souvenirs d&#39;un autre monde" style="max-width:120px; height:auto;" />
       </td>

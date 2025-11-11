@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T14:27:24.834Z
+date: 2025-11-11T10:17:58.700Z
 permalink: tags/slow-jams
 title: slow jams
 ---
 
 ## slow jams
 
-Last updated: <time datetime="2025-11-08T14:27:24.834Z">Sat Nov 08 2025 16:27:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T10:17:58.700Z">Tue Nov 11 2025 12:17:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
   </thead>
   <tbody>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56063622bc6cdeedbe4c472697e267ec.png" alt="Cover for Killing Me Softly" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Body &amp; Soul - Love &amp; Tenderness" style="max-width:120px; height:auto;" />
       </td>
@@ -65,7 +65,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/521e652f8709e02adf9f49c00c949408.png" alt="Cover for The Manhattans" style="max-width:120px; height:auto;" />
       </td>
@@ -83,7 +83,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/M6Caci2nK9R57wChY5sOLGVUW7eOHqlJOokA302krcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzQ5/OS0xMjk3NDYyMzg1/LmpwZWc.jpeg" alt="Cover for Peaches &amp; Herb&#39;s Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -103,7 +103,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
       </td>
       <td>1977</td>
@@ -123,7 +123,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>1977</td>
@@ -141,7 +141,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48c0e9f981e8410bc1e6cabe789e732d.png" alt="Cover for Ghetto Classics" style="max-width:120px; height:auto;" />
       </td>
@@ -180,7 +180,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/618ba0d2e7a24f72a481123c7225467f.png" alt="Cover for The Very Best of Peabo Bryson" style="max-width:120px; height:auto;" />
       </td>
@@ -199,7 +199,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/v4RjGWQHyfTHHb5X76y06bMRv8iywad9MNXocnBeGx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDYz/MzEtMTIyNjczMTUz/NC5qcGVn.jpeg" alt="Cover for Something For The Weekend" style="max-width:120px; height:auto;" />
       </td>
@@ -218,7 +218,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
       </td>
       <td>1986</td>
@@ -252,7 +252,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/961073ee0833441eb961717bc55dfc53.png" alt="Cover for The Best Of Glenn Jones" style="max-width:120px; height:auto;" />
       </td>
@@ -271,7 +271,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/30zhHlpe3-wvtYVBv7JBvK2UwkPPFstUVDhqtK43bwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDE1/Ni0xMTg4Mzg5Njky/LmpwZWc.jpeg" alt="Cover for Best of After 7" style="max-width:120px; height:auto;" />
       </td>
@@ -289,7 +289,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/tnpjWog-c28Scjbu7PqVs48Z3jaIUFXIJqGrrFc8ApM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODU2/NzktMTU2ODA1MDk4/MS04NjEzLmpwZWc.jpeg" alt="Cover for Top 10 - Wedding Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -307,7 +307,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfa9e58cd66d47d6856c74bf1577a307.png" alt="Cover for Johnny Gill" style="max-width:120px; height:auto;" />
       </td>
@@ -325,7 +325,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
       </td>
       <td>1990-11-14</td>
@@ -344,7 +344,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/hLPDxfVzsU4VIo0q3SI2qfVR306bpb_kfQCd7Q9OKcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMTgw/My0xMjk0NzA5NDYy/LmpwZWc.jpeg" alt="Cover for Midnight Soul ( # 1 Love Songs )" style="max-width:120px; height:auto;" />
       </td>
@@ -381,7 +381,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/GgKZUupj_qmFyqCM8U9oaW2vg4ilp9-mx67FU849zCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjQ1/ODEtMTQ2NTcxMzM1/MC05ODA4LmpwZWc.jpeg" alt="Cover for Sweat Hotel - Live" style="max-width:120px; height:auto;" />
       </td>
@@ -399,7 +399,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/6NyeaAYVPZ0-797_U-_PKs-60GO_0BViR0hZgSPnWHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzY3/NDgtMTM1OTU3NDcw/My01OTI5LmpwZWc.jpeg" alt="Cover for You Turn My Life Around" style="max-width:120px; height:auto;" />
       </td>
@@ -417,7 +417,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/RiZbgsU_0nrOQyDCBymXnhqXdTBYQbXRU0XZeo-arco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc2/NS0xNTQ4MjcxNDI1/LTE1NTguanBlZw.jpeg" alt="Cover for Nubia Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -441,7 +441,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/478b53ab401a435dc34374df629708f3.png" alt="Cover for Funky Party 2Nite" style="max-width:120px; height:auto;" />
       </td>
@@ -460,7 +460,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/6hYxs8F6oCnYO1dkx2Q4YSWqlr68aQN2d0bKxwnXQOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTg1/MTYtMTY2MTY4ODk3/MS0zMjE4LmpwZWc.jpeg" alt="Cover for Freaky Man" style="max-width:120px; height:auto;" />
       </td>
@@ -499,7 +499,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/8To8ghVu6iwL0oo-RS0HkzrIWNkIACPYn8lSnfAOVEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Nzc1/OTItMTMyMTQ4OTQ5/My5qcGVn.jpeg" alt="Cover for The Compilation: Greatest Hits II &amp; More" style="max-width:120px; height:auto;" />
       </td>
@@ -519,7 +519,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd5f2c8bc01eeacfc6f0d6c4970f149a.png" alt="Cover for The Show, The After Party, The Hotel" style="max-width:120px; height:auto;" />
       </td>
@@ -536,7 +536,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
       </td>
       <td>1995-05-19</td>
@@ -553,7 +553,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/6aENwn24HOUJlny4Dkas9Guo4JNJR63gYB11f-Q07HI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ1/ODQtMTQzOTcyNDkz/My01Mjg5LmpwZWc.jpeg" alt="Cover for Love Jones The Music" style="max-width:120px; height:auto;" />
       </td>
@@ -589,7 +589,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf30b9ca689a4f2e802652af9936d882.png" alt="Cover for Let&#39;s Get The Mood Right" style="max-width:120px; height:auto;" />
       </td>
@@ -626,7 +626,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/I1C8Rey9Yaq2KQUJnlRbPGxAqXVSdq_ez7q19iLNF9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMTc0/LTE0OTIyNTMwODMt/OTg2NC5qcGVn.jpeg" alt="Cover for Sweat Hotel" style="max-width:120px; height:auto;" />
       </td>
@@ -661,7 +661,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/23b09c4cfb3c4f1e9205469c37ae6aa3.png" alt="Cover for The Very Best Of After 7" style="max-width:120px; height:auto;" />
       </td>
@@ -679,7 +679,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96572a0167965e6ed7f754f4f033254c.png" alt="Cover for Welcome to Fantasy Island" style="max-width:120px; height:auto;" />
       </td>
@@ -719,7 +719,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/HCrK4xfaJwhfVhjsv-e6B3GO510O6-bsL3NB2FYBPMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODA1/NTgtMTQ0MDI1MzUz/Ny01MzMwLmpwZWc.jpeg" alt="Cover for Ol Skool" style="max-width:120px; height:auto;" />
       </td>
@@ -773,7 +773,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/827d369948d5d1b1a642978fb0062b78.png" alt="Cover for Keep the Faith" style="max-width:120px; height:auto;" />
       </td>
@@ -791,7 +791,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebb8c1b81b0a49f79b77db758c86a4ce.png" alt="Cover for Enter The Dru" style="max-width:120px; height:auto;" />
       </td>
@@ -809,7 +809,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5afa13463435925138d64336c5422392.png" alt="Cover for 100% Ginuwine" style="max-width:120px; height:auto;" />
       </td>
@@ -846,7 +846,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ece2aaa31735415d97d00a01a0621877.png" alt="Cover for Beauty &amp; The Streets Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -885,7 +885,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73167f03ed5d4e989fecc8ea95ad26a9.png" alt="Cover for Welcome II Nextasy" style="max-width:120px; height:auto;" />
       </td>
@@ -940,7 +940,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/YaxmcDVc5gAkr_AO4w-YEAzetZMe2dSiDdeEviIg7t8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI1/NDktMTI2NjA4ODEx/NC5qcGVn.jpeg" alt="Cover for The Very Best of Howard Hewett" style="max-width:120px; height:auto;" />
       </td>
@@ -958,7 +958,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/_5vKcUNQMqRgyKimo4HOQDpwNTuTQMrWIN8j_yyxkSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTM4/OTkxLTE2ODI5MjUw/MDAtNjExNy5qcGVn.jpeg" alt="Cover for 20th Century Masters: The Millennium Collection: Best of Switch" style="max-width:120px; height:auto;" />
       </td>
@@ -976,7 +976,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1123fc6581e54604a6a5f24d5c0f4785.png" alt="Cover for K.I.S.S." style="max-width:120px; height:auto;" />
       </td>
@@ -1015,7 +1015,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6aeabcb4ff349cec9dd7abc207da15c.png" alt="Cover for The Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -1033,7 +1033,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
       </td>
       <td>2002</td>
@@ -1068,7 +1068,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
       </td>
       <td>2002-10-29</td>
@@ -1102,7 +1102,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/433ac144d5580c8e3890bbe568ed93f5.png" alt="Cover for Private Room" style="max-width:120px; height:auto;" />
       </td>
@@ -1120,7 +1120,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbbec0f99e794a091e507b26f86e6545.png" alt="Cover for The Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1160,7 +1160,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
       </td>
       <td>2004-11-24</td>
@@ -1180,7 +1180,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10fc4d287d3301203dea8433f8bb3a60.png" alt="Cover for No Doubt" style="max-width:120px; height:auto;" />
       </td>
@@ -1198,7 +1198,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/MbyCOroob4J3nHQXioGTsXqWEM2Qye_N0eXumceX460/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjYy/MzgtMTQwNzYwMzQ1/OC01OTEzLmpwZWc.jpeg" alt="Cover for I Know It&#39;s Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1218,7 +1218,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/BBRemE1DVgWsxVV2iDDydv2vfeaAzmO-G9FWmQWuTAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTIy/OTI4LTE1NDIwNTg0/ODUtMjc2MS5qcGVn.jpeg" alt="Cover for Long Time Coming" style="max-width:120px; height:auto;" />
       </td>
@@ -1237,7 +1237,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/Gap6AzVbzyfXTuLnkb1h4wK__2lYoADZmgWCpYgAdqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjA0/MjItMTM4MDc1NjE5/NC04Nzg1LmpwZWc.jpeg" alt="Cover for Absolute Music 57" style="max-width:120px; height:auto;" />
       </td>
@@ -1255,7 +1255,24 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>25</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Jaheim</td>
+      <td>The Best Of ( New York City Edition )</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d42390f31090f1ef7a6e1648332b55e8.png" alt="Cover for The Evolution of Robin Thicke" style="max-width:120px; height:auto;" />
       </td>
@@ -1273,7 +1290,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/018086ec11df6b6ded634914adbf18e7.png" alt="Cover for Director" style="max-width:120px; height:auto;" />
       </td>
@@ -1309,7 +1326,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/iuuaW08tP6l1H4dIDj8C4cL-XOOw0Wwel81I4SC3M_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg2/MDAxLTE1NDE5MTky/MTQtMTQ5Mi5qcGVn.jpeg" alt="Cover for Wasted Dreams - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1332,7 +1349,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/iuuaW08tP6l1H4dIDj8C4cL-XOOw0Wwel81I4SC3M_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg2/MDAxLTE1NDE5MTky/MTQtMTQ5Mi5qcGVn.jpeg" alt="Cover for Untouchables Mixtape" style="max-width:120px; height:auto;" />
       </td>
@@ -1355,7 +1372,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64a00a86cfa0b29e87bd8ec4ef506ca2.png" alt="Cover for Konvicted (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1374,7 +1391,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/3nmQBx4Glw0Q2-HzQ1r_p97Az2RefVG78rcNWclxrFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTYw/OTctMTU5NDE0MzMz/MC0zNzkyLmpwZWc.jpeg" alt="Cover for So Much Better" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdec242db9d74394a9cc248a006a2d13.png" alt="Cover for So Much Better" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06-05</td>
       <td>Carl Thomas</td>
@@ -1387,11 +1404,12 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
       </td>
       <td>2007-06-12</td>
@@ -1442,7 +1460,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
       </td>
       <td>2008-02-19</td>
@@ -1461,7 +1479,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/69c55e1b700043a7816ed4d0322c067e.png" alt="Cover for Just Between Us" style="max-width:120px; height:auto;" />
       </td>
@@ -1474,23 +1492,6 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slow-jams" | relative_url }}">slow jams</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2009</td>
-      <td>Miles Jaye</td>
-      <td>The Truth About Love</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slow-jams" | relative_url }}">slow jams</a></li>
         </ul>
       </td>
       <td>
@@ -1552,7 +1553,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed69db675a684f4cb37d7dd59ed944bc.png" alt="Cover for Walking With The Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1574,7 +1575,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7c26c1bf3f8488da50ebe681d6d2934.png" alt="Cover for Ridin&#39; Solo" style="max-width:120px; height:auto;" />
       </td>
@@ -1592,7 +1593,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
       </td>
       <td>2011-01-25</td>
@@ -1609,7 +1610,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/i1-gkV8W4OyEMkzP_uHsovgTMjft0ChFvTylbhL6Cws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Mjc2/NzgtMTQ0MzM0MzU5/OC0zMjc2LmpwZWc.jpeg" alt="Cover for Let&#39;s Move In Together" style="max-width:120px; height:auto;" />
       </td>
@@ -1646,8 +1647,30 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 7</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 14</li>
             <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/553678d27570452839aec0fd0cdadd63.png" alt="Cover for channel ORANGE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-07-10</td>
+      <td>Frank Ocean</td>
+      <td>channel ORANGE</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 1</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 1</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 13</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 52</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1670,7 +1693,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/kZHP2U04emgxZuDKC8HOUxj7xbaFy_D196VXxnwLbbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQy/Nzc5LTE2ODcxMjc1/MDMtNTc5Ni5qcGVn.jpeg" alt="Cover for The Best Of Lionel Richie - Green Series" style="max-width:120px; height:auto;" />
       </td>
@@ -1708,7 +1731,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for My First Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1726,7 +1749,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
       </td>
       <td>2023</td>
@@ -1742,24 +1765,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Onyx1 Featuring Terrence Forsythe</td>
-      <td>Right Now</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slow-jams" | relative_url }}">slow jams</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -1777,7 +1783,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -1798,7 +1804,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
@@ -1817,26 +1823,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>26</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88effff701c54c9f861b97d7bcd8eb37.png" alt="Cover for Only You" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Kerboo</td>
-      <td>Only You</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slow-jams" | relative_url }}">slow jams</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/098c573e707f4697a138a0bd36c2a9fb.png" alt="Cover for You" style="max-width:120px; height:auto;" />
       </td>
@@ -1875,7 +1862,24 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88effff701c54c9f861b97d7bcd8eb37.png" alt="Cover for Only You" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Kerboo</td>
+      <td>Only You</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -1904,4 +1908,4 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
 - [male vocalists]({{ "/tags/male-vocalists" | relative_url }})
 - [singer-songwriter]({{ "/tags/singer-songwriter" | relative_url }})
 - [smooth jazz]({{ "/tags/smooth-jazz" | relative_url }})
-- [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
+- [hip-hop]({{ "/tags/hip-hop" | relative_url }})
