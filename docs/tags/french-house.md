@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T20:50:22.978Z
+date: 2025-11-11T04:48:25.932Z
 permalink: tags/french-house
 title: french house
 ---
 
 ## french house
 
-Last updated: <time datetime="2025-10-22T20:50:22.978Z">Wed Oct 22 2025 23:50:22 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-11T04:48:25.932Z">Tue Nov 11 2025 06:48:25 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
   </thead>
   <tbody>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>1972</td>
@@ -66,28 +66,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>56</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0952a31123144f48ae31ef1875aa460.png" alt="Cover for Q: Best of 2001" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1987</td>
-      <td>Various Artists</td>
-      <td>Q: Best of 2001</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 13</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td>1989</td>
@@ -106,7 +85,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/nTOGy-9QxorMxNnvG10N91NGWYPHi65c1HoDYmG1Ncc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzU5/Ni0xNjAxNTg4Nzk3/LTEwMzEuanBlZw.jpeg" alt="Cover for Thirst" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36ff39d0d888e918fbd7019c19acad61.png" alt="Cover for Thirst" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Sebastian</td>
@@ -126,7 +105,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>16</td>
       <td>
       </td>
       <td>1993</td>
@@ -172,7 +151,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/pPA3ZMIVC1kp_oC7TJLWkYTdGO4QYfXNkdOprnmh-OQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNDA1/LTEzNDEwNDEyMDkt/MzA5MC5qcGVn.jpeg" alt="Cover for A Refreshing Breeze" style="max-width:120px; height:auto;" />
       </td>
@@ -193,29 +172,28 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38d4bac63b904e789e96e48e2c66098a.png" alt="Cover for Homework" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-01-20</td>
       <td>Daft Punk</td>
       <td>Homework</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 50</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 52</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/TV1kZaQkVHuXICCfajG-g2z9dJmpEV9eYIr4QdxZZks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njgz/ODEtMTMwNDgwMTI5/OS5qcGVn.jpeg" alt="Cover for NIVAN RUNDER SOUNDRUGS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32d43d8316deb89f22f2fe59de57201f.png" alt="Cover for NIVAN RUNDER SOUNDRUGS" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Fact</td>
@@ -238,7 +216,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/f9GbButMzLkz6_t6FmBLu00mONzWF_6KuAwRxfX9r4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTg2/LTExODgxMDQ0MTgu/anBlZw.jpeg" alt="Cover for Wuz" style="max-width:120px; height:auto;" />
       </td>
@@ -259,6 +237,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc24fe34df654eb6a539a9b01d5660c6.png" alt="Cover for 1999" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-01-25</td>
       <td>Cassius</td>
@@ -276,6 +255,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1340e9e1082cf0dc748583b7eefce6d5.png" alt="Cover for Discovery" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Daft Punk</td>
@@ -288,15 +268,15 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 37</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 66</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 43</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 67</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 89</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/HH9UHPpTi8U3GukiwcGecg7Zlm3jDR4XTKddcXwz-0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzY4/LTE0NzY3MDY0NjYt/NjQ0MS5qcGVn.jpeg" alt="Cover for Tempovision" style="max-width:120px; height:auto;" />
       </td>
@@ -314,7 +294,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>2000-08</td>
@@ -332,7 +312,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
       </td>
       <td>2001</td>
@@ -353,7 +333,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/Ik4khT6qxCVq3iEx4odITsamcCQ8IuI-OVhKpvZA9cw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzQx/LTE1MjQ0ODIzMjMt/MjQ1NS5wbmc.jpeg" alt="Cover for Diver" style="max-width:120px; height:auto;" />
       </td>
@@ -373,7 +353,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/8vdO7qGldzEPUzlvXslvoXxg4E5XPVz4WDRJ37NZR-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzE2/OC0xMjIyNjExNTg4/LmpwZWc.jpeg" alt="Cover for Ernest Saint Laurent" style="max-width:120px; height:auto;" />
       </td>
@@ -393,9 +373,9 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/G0qyon-P7g5LdHd9DfzSST0ANpPCM2fxcAFxBbCJCdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg2/MzU3LTE2NjIwODk1/MDgtNzkyNi5qcGVn.jpeg" alt="Cover for The House of J. Monkey" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c4ec8a813b24fb6ac16eebb44251cec.png" alt="Cover for The House of J. Monkey" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Monkeyman</td>
@@ -418,7 +398,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/PR72ZX4i_xZqv7P6XEdcl775f_vz499zK4NHZvUb_y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk1/OC0xNDA0MDYzMTI0/LTg1NjIuanBlZw.jpeg" alt="Cover for The Upper Cuts" style="max-width:120px; height:auto;" />
       </td>
@@ -436,7 +416,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/s2-T2fbXxPvsqD2Pbr5aokJc54ll-20rR5s0QgutyPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTcy/Ny0xMTQxNzQ3MTUw/LmpwZWc.jpeg" alt="Cover for Waves" style="max-width:120px; height:auto;" />
       </td>
@@ -454,7 +434,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/2oJExEK43qjMhy5OrnyfHq8EVvU1rZF4xgWiPz5prO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzc2/OTItMTMzNDM3MzUw/MS5qcGVn.jpeg" alt="Cover for DiFunkstruction" style="max-width:120px; height:auto;" />
       </td>
@@ -472,8 +452,9 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1df40a76f68b4d0a8410a0bae2127359.png" alt="Cover for Human After All" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03-01</td>
       <td>Daft Punk</td>
@@ -485,14 +466,14 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 37</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 38</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 46</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 62</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>2006-09-26</td>
@@ -511,7 +492,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>91</td>
       <td>
       </td>
       <td>2006-12-04</td>
@@ -546,8 +527,9 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcd9da1dd8caf8413c73077605478a57.png" alt="Cover for Justice" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06-06</td>
       <td>Justice</td>
@@ -563,7 +545,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/h_y4medO3qy6bzvqPpqejtTvXjeixIYhyak636JzkdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDU4/OTUtMTM0NTEzNTkz/NS0yMTY2LmpwZWc.jpeg" alt="Cover for Bel Esteem Sampler" style="max-width:120px; height:auto;" />
       </td>
@@ -601,7 +583,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/WOufzTPlJ5RD0edQJWz0Zcfk5ScGz4Ou2Rnia7LW380/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc1/NDk1LTE1MTEyNTg5/MjYtODY1MC5qcGVn.jpeg" alt="Cover for Alive 2007 (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -622,7 +604,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/hsK1-CNEv0Pgfyw3J9L-1G_Vut-lklxWGfMmk8OdVj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTk5/MDItMTIxMjcwMzQy/Ni5qcGVn.jpeg" alt="Cover for The Peach EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f25ecac5a6b35624435e3f7cc4a2e607.png" alt="Cover for The Peach EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Louis La Roche</td>
@@ -642,6 +624,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84bc8fcb1ca4404b928223e5d2bd8724.png" alt="Cover for Planisphère" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-08</td>
       <td>Justice</td>
@@ -657,8 +640,8 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 38</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 50</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 43</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -677,7 +660,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 55</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -701,7 +684,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for Roche Musique Presents: .wave" style="max-width:120px; height:auto;" />
       </td>
@@ -719,9 +702,9 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/UDSg15GyhllSbJDRt1WWrW37LbMzxo8R2fLOOIg3Rxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDc3/MTUtMTQwODY2NDA5/OC05MTA2LmpwZWc.jpeg" alt="Cover for Off" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99a6b0f6020342ddc2bad7111dbb168a.png" alt="Cover for Off" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Classic Brothers</td>
@@ -743,7 +726,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/938AgQCqlLnxBr9MqjKiE9Fq478v2v8eoy94To6ZaY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzQ0/ODEtMTMzOTg2MjEx/Ny00MzQ0LmpwZWc.jpeg" alt="Cover for プリズムスカイライン" style="max-width:120px; height:auto;" />
       </td>
@@ -761,9 +744,9 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
-          <img src="https://i.discogs.com/kd_eblGPX_ROr0JCNY4J5GdX-13W9LSzEzgb0x7FtjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODA2/MDUtMTMyODEzMjI3/OS5qcGVn.jpeg" alt="Cover for Computer Malfunction [EP]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6dfa25e14a1243c3a4728c041dbe5667.png" alt="Cover for Computer Malfunction [EP]" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-26</td>
       <td>Kamei</td>
@@ -785,7 +768,25 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>57</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1cc19f8787c4af2ae25fffaf1cd0790.png" alt="Cover for Smash" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-06-17</td>
+      <td>Martin Solveig</td>
+      <td>Smash</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/z2p0_i_frcKdRFLt0JYMm_W-seJmqO4sxqQk-_F9FM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzQ1/NTE3LTE2MDk1OTMx/MDItNjE5NC5wbmc.jpeg" alt="Cover for Turbo Town" style="max-width:120px; height:auto;" />
       </td>
@@ -803,12 +804,12 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 13</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/5FqTVxoTHQn-_m4oVjGb8uy3Kou--FFuFfObrpTrL9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTYy/MjMtMTIwNDE4NzMy/Mi5naWY.jpeg" alt="Cover for A Bunch Of Daft Punk (20 years tribute album)" style="max-width:120px; height:auto;" />
       </td>
@@ -826,7 +827,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/8bf7ySAtREVR0Yr-DLnvkr1ZOaH8aqiSXxqfJTBpjV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjY5/MC0xMzIzMTc2Njg5/LmpwZWc.jpeg" alt="Cover for Around The World (Ricanstructed By Masters At Work) (2 Vinyl 12 Limited Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -844,7 +845,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/3gyGEsSFO7QOejTqpEgI1fHgl3qaR9nfzlIYinzaajA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODk0/NzU3LTE2MjIwNTM2/OTEtNzIzNS5wbmc.jpeg" alt="Cover for Rainbow★Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -869,7 +870,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad6c5902ce78125ab359be874c663996.png" alt="Cover for Control" style="max-width:120px; height:auto;" />
       </td>
@@ -890,7 +891,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
     <tr>
       <td>83</td>
       <td>
-          <img src="http://coverartarchive.org/release/44217cae-f225-4d3c-919b-cd6d70fe392c/3452445494-250.jpg" alt="Cover for OutRun" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b10a86f04ef646a7b13716ea2304b786.png" alt="Cover for OutRun" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-25</td>
       <td>Kavinsky</td>
@@ -903,7 +904,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 89</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -916,27 +917,6 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       <td>Revolution</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-house" | relative_url }}">french house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/Y9lm95JNwpHM1kOy4Q9FiBIJIq77nU1-5Gio38TseBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NDU5/ODktMTQ1MjE5MTcz/NC00MjQ3LmpwZWc.jpeg" alt="Cover for Apollo Sol EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-07-26</td>
-      <td>Origami</td>
-      <td>Apollo Sol EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-house" | relative_url }}">french house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
         </ul>
@@ -966,7 +946,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/WQQMnjvpMiyL2A6ASP4bs22gtPmTS0YtZGUpNhlSyfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjM5/ODc0LTE2MjA0NzA5/OTYtODYwNC5qcGVn.jpeg" alt="Cover for Renegade" style="max-width:120px; height:auto;" />
       </td>
@@ -993,7 +973,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/kjeEJGUm42PaiAWrpZCmvhX8M7Gg_tHnrl06Y_Tu6t4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzA0/NzAtMTQ1NjQ2Njk0/Ni05MDY0LmpwZWc.jpeg" alt="Cover for Franco American EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1012,7 +992,27 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>43</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0c1914b6840db8f0bdeb105944e7933.png" alt="Cover for Trilogy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Carpenter Brut</td>
+      <td>Trilogy</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 22</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 79</li>
+            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/afztd8ZuDU5Lo9QCIEkVg_JHPyWZcr5IYrI84eqTHzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjU1/OTg4LTE2MDYwNzIx/NjYtNzY5Mi5wbmc.jpeg" alt="Cover for Discothèque" style="max-width:120px; height:auto;" />
       </td>
@@ -1031,9 +1031,9 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
-          <img src="https://i.discogs.com/oj8av78WT09v__zrkhQ0SVOAdxJI8wR5Rqo4ra2oKx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NjE5/MjktMTQ2ODIxMzE3/MS00OTc3LmpwZWc.jpeg" alt="Cover for Neon Graffiti" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e9f0027f65df6aa5cfbc0de8a9f008d.png" alt="Cover for Neon Graffiti" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-07-08</td>
       <td>Raydar</td>
@@ -1054,7 +1054,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/xzZcVWvZ-MULRWIVuAraFMvJbfNMXLZpdMcvHe7ImAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTc5/NDYtMTQ3OTg0ODk0/Mi00MDcwLnBuZw.jpeg" alt="Cover for Vaporwave" style="max-width:120px; height:auto;" />
       </td>
@@ -1072,7 +1072,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       <td>
         <ul>
             <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 2</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 8</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1096,14 +1096,14 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 12</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/X3tYi1SzPgY5PR0-8FATVzKpOKltkEmIE4jBz7HaaTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTc4/NDYtMTQ3NDczMzcy/NC00NzMzLnBuZw.jpeg" alt="Cover for Woman" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/900212dee9c790772c41fab5c18c6eb2.png" alt="Cover for Woman" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-18</td>
       <td>Justice</td>
@@ -1115,12 +1115,12 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 68</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/3XfxpP1PGA2DRrG-aHj--ehD2lDrtdr-metDZfhZgLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDYz/NTkxLTE2NDQyNDY1/OTYtOTU5OS5qcGVn.jpeg" alt="Cover for Revival" style="max-width:120px; height:auto;" />
       </td>
@@ -1142,7 +1142,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/6YFz6GWd2HMMpT5ZA5gbrepBjEFz73wnrHxUumICA48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTE1/NzY2LTE1MTc3MTE5/NjMtNDcwMi5qcGVn.jpeg" alt="Cover for Raw" style="max-width:120px; height:auto;" />
       </td>
@@ -1163,7 +1163,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/jC6HOgbCvLmuy70T2Kv4ZrKDsfmervw7Nhj-enddxd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTM2/ODY4LTE1MTgwOTkw/MjktMjI0Ni5qcGVn.jpeg" alt="Cover for Honeybun" style="max-width:120px; height:auto;" />
       </td>
@@ -1185,7 +1185,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/FyxXyDBvMuGcbMUPQkMieQ445ajr6KIbhhvrhnrVHV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkx/MjM3LTE1MjUzNDA4/MjQtMjYzOS5qcGVn.jpeg" alt="Cover for Se Vuoi Ballare" style="max-width:120px; height:auto;" />
       </td>
@@ -1206,7 +1206,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/99mPP74ZOYf4WBwvly9MbPNvBJeIB_DWGDazVXVmbuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTUx/MjU1LTE1MjkzMzgw/MjktODQ0MC5qcGVn.jpeg" alt="Cover for All Inclusive Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1245,9 +1245,26 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
+      <td>34</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c3daee0839bdb9ae8a0ce1dad86d275.png" alt="Cover for Woman Worldwide" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-08-24</td>
+      <td>Justice</td>
+      <td>Woman Worldwide</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/ljda6Rhh73cy-4823gEdvAjZaHTVHefAFlCqYU2d0pA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc4/Njc4LTE1ODU1ODYy/OTMtNTI2NS5qcGVn.jpeg" alt="Cover for #3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7dbab6bad93af2dfb39fb1a3c781da3.png" alt="Cover for #3" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-16</td>
       <td>Handbraekes</td>
@@ -1268,7 +1285,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/II35T8bwu749soyhI_hq-1QqAtQ4S7dvEpeP_vTYbM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTAw/MTg4LTE1NDQxMzAw/ODEtNjI3Mi5qcGVn.jpeg" alt="Cover for Got 2 Be There - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1291,7 +1308,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/II35T8bwu749soyhI_hq-1QqAtQ4S7dvEpeP_vTYbM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTAw/MTg4LTE1NDQxMzAw/ODEtNjI3Mi5qcGVn.jpeg" alt="Cover for Got 2 Be There" style="max-width:120px; height:auto;" />
       </td>
@@ -1315,7 +1332,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/1DTcjuOA8Jr3cGCd8Mz1ri2iuw-jd5upebiUPB9q4sk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzI4/ODUyLTE1MjEzODMx/NDUtNDQzMi5qcGVn.jpeg" alt="Cover for FUNK!" style="max-width:120px; height:auto;" />
       </td>
@@ -1337,9 +1354,9 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/qr3OwmfRZfUVtjNnkWjdCyZnMVpvorWy82wDNRdQ8w0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODE2/MTMwLTE1NjE3NTE5/OTEtNTM1My5qcGVn.jpeg" alt="Cover for No Time 2 Lose" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dacdc49a16f32a33647e739fe1645be6.png" alt="Cover for No Time 2 Lose" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-21</td>
       <td>Mr. Hoosteen</td>
@@ -1379,7 +1396,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/kKtAskDBzZO_0t8D0jK9oUvee6e7kn68PdcsU33GOm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDMy/NzUzLTE1ODU3Njg4/NTEtOTIyOC5qcGVn.jpeg" alt="Cover for Sample Heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -1399,7 +1416,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/kbG46pl8UbOfAiHLsXJJm58RW8Zyk5QsKiBtdmEIwOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk2/NDYzLTE1ODUyNjk2/NTYtMzQxNC5qcGVn.jpeg" alt="Cover for Carrie&#39;s Groove" style="max-width:120px; height:auto;" />
       </td>
@@ -1422,7 +1439,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/Qshec94UUtGbaZVDpKcESTiWOB1X5nJny1OemdGIm8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY0/MzI1LTE1OTAzNDA4/MTMtMjQ2Ny5qcGVn.jpeg" alt="Cover for Get It Up - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,7 +1486,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/N8iRMHQyajYAJjlddu64G4j3W_6qEt2p-GQ24tdtkd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDY3/MjczLTE1OTIwMDUw/NDItNTY0MS5qcGVn.jpeg" alt="Cover for It&#39;s Gonna Be, What I Feel" style="max-width:120px; height:auto;" />
       </td>
@@ -1488,30 +1505,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/sqdsnqbWflAWPEu2bBnI5GZdfqd-c0sfjOjcilAv2GA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzM2/ODU0LTE1OTY4NDI4/NjYtMjQ2My5qcGVn.jpeg" alt="Cover for Don&#39;t You Know - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-08-07</td>
-      <td>Midnight City</td>
-      <td>Don&#39;t You Know - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-house" | relative_url }}">french house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 6</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/sqdsnqbWflAWPEu2bBnI5GZdfqd-c0sfjOjcilAv2GA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzM2/ODU0LTE1OTY4NDI4/NjYtMjQ2My5qcGVn.jpeg" alt="Cover for Don&#39;t You Know" style="max-width:120px; height:auto;" />
       </td>
@@ -1534,7 +1528,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/UHaqkfo6Xol0sxxsby2spDwGPr102i7_T4xuw4zV7JQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTA5/MTkyLTE2MDM1NzA1/NzItNDg2NC5qcGVn.jpeg" alt="Cover for Here to stay" style="max-width:120px; height:auto;" />
       </td>
@@ -1581,7 +1575,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/u5qNsQK3_8Y2YGclwZ5kqu89HWOifHpbxvxcfDStKkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzg3/MDU3LTE2NTM4MTI5/NTgtOTc2Mi5qcGVn.jpeg" alt="Cover for Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -1602,7 +1596,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/HPs8OtQCj_hBxGpwe_c1NvePQE3TKsdvQNJ-e0mHXOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjUw/MjM1LTE2NTQzOTk2/MzQtMTgwMS5qcGVn.jpeg" alt="Cover for Escapades" style="max-width:120px; height:auto;" />
       </td>
@@ -1622,7 +1616,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/GuQCrNFqrawPCRZsCIEMEc1RdCCNOMt-Tiu2qo6X9Zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDA2/ODQxLTE3MTMyMDEw/NjQtNDk2MC5qcGVn.jpeg" alt="Cover for Residence 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1667,7 +1661,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/Ckhoz7uOjUZVozyPUgdoS1oYzUCkOhti9wozbPzT9gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDI0/MzUtMTMyMjk5ODUw/OC5qcGVn.jpeg" alt="Cover for ポリゴンウェイヴ EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc15fcc0397ebc8f62531df31817c4a3.png" alt="Cover for ポリゴンウェイヴ EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-09-22</td>
       <td>Perfume</td>
@@ -1684,14 +1678,14 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 67</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/fTIgdku1Vo1kEIcKNJvZLsG-4VV4tON4gKCQJOBa1IU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ1/NzkxLTE2MDU5MDcy/MTctNTk4My5qcGVn.jpeg" alt="Cover for Musique Vol. 1 (1993-2005)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb8bb868a833c9bb03e54dcebae57fa9.png" alt="Cover for Musique Vol. 1 (1993-2005)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-02-11</td>
       <td>Ian Pooley</td>
@@ -1711,7 +1705,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/oOb4fxFmP1FlGJt4N4S34bWApn0iKNeyCuhQcZvOjRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA4/MDA4LTE2NTk3MDA5/OTAtMzgzNS5qcGVn.jpeg" alt="Cover for Good Feelings EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1735,7 +1729,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>2023</td>
@@ -1751,7 +1745,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/8ZK-a1TAf0Rccs1ESe9t2SMGwxQD_EzT4lcJ90u6zC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTEy/Nzc3LTE2ODI3MDM1/NTMtMzUyNi5qcGVn.jpeg" alt="Cover for A Love That You Can Keep" style="max-width:120px; height:auto;" />
       </td>
@@ -1775,9 +1769,9 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/pzdBW1Nu8SOLsYDAa21-NcnWJIN3bZEhCOOldyoM6fM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTE0/MTE1LTE2OTE1MDE5/MjgtNTk0Ni5qcGVn.jpeg" alt="Cover for SEX IS DEAD 999" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/921ec6c3cc77d93685f0c6d86ca39185.png" alt="Cover for SEX IS DEAD 999" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-07-28</td>
       <td>bukkake baka</td>
@@ -1800,7 +1794,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/cCyay_xvQdSDE5OWCD3y5UATwJPgScgal2cxnQ9oitU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMw/NTE0LTE1NTk5MjQ3/NTgtNDU0Ny5qcGVn.jpeg" alt="Cover for Problématique" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d89d88aab24a0ee73907306e4e86e8b.png" alt="Cover for Problématique" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-09-18</td>
       <td>Kim Petras</td>
@@ -1812,12 +1806,12 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 79</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>
@@ -1863,7 +1857,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td></td>
@@ -1893,13 +1887,13 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 1</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 2</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td></td>
@@ -1928,13 +1922,13 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 27</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 28</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -1956,7 +1950,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -1973,7 +1967,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>21</td>
       <td>
       </td>
       <td></td>
@@ -1990,7 +1984,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>27</td>
       <td>
       </td>
       <td></td>
@@ -2013,7 +2007,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
       </td>
       <td></td>
@@ -2032,7 +2026,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -2051,7 +2045,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
       </td>
       <td></td>
@@ -2108,7 +2102,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td></td>

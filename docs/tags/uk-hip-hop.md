@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T05:23:51.388Z
+date: 2025-11-11T04:50:26.088Z
 permalink: tags/uk-hip-hop
 title: uk hip hop
 ---
 
 ## uk hip hop
 
-Last updated: <time datetime="2025-11-01T05:23:51.388Z">Sat Nov 01 2025 07:23:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T04:50:26.088Z">Tue Nov 11 2025 06:50:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,7 +50,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/LirGtS8NJkrQGcfqvLj3ZOl7meEARupQQaauijyPyQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDY1/NjQtMTM1MzQ0NTc3/OS0zNDM3LmpwZWc.jpeg" alt="Cover for Blue Lines (2012 Mix&#x2F;Master)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71cbc7d78e7e146077ff2cfd3898e261.png" alt="Cover for Blue Lines (2012 Mix&#x2F;Master)" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Massive Attack</td>
@@ -62,7 +62,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 70</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -86,7 +86,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for Big Funk Productions Presents...The Future" style="max-width:120px; height:auto;" />
       </td>
@@ -106,7 +106,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/X5TQht0w_zXFqjgXuV6gsNCmnMIC0m74kIOVZrgq25M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTE0/Mi0xMTA2MDM5Njcw/LmpwZw.jpeg" alt="Cover for Padlocked Tonic" style="max-width:120px; height:auto;" />
       </td>
@@ -124,7 +124,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/NzKQzOZbp3Jwd19XpsQV6unpdY-w2U5iuqCuSYpFIdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTMx/MS0xMTYxODEwOTM4/LmpwZWc.jpeg" alt="Cover for New Mic Order" style="max-width:120px; height:auto;" />
       </td>
@@ -160,28 +160,26 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95ec108587524b32bb0bfa59c6015488.png" alt="Cover for Original Pirate Material" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-03-25</td>
       <td>The Streets</td>
       <td>Original Pirate Material</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 67</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 72</li>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 81</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/LQlDITkSg1Yi49tHm4t7OBxBU6mAqbfBaO2JFoWwR4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDEy/My0xMDc3MDUxMTkw/LmpwZw.jpeg" alt="Cover for Blackmarket Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -199,8 +197,9 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96cd874e4bc24e08b7b0862cb95a3b27.png" alt="Cover for Boy in da Corner" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-07-21</td>
       <td>Dizzee Rascal</td>
@@ -212,7 +211,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 94</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -261,7 +260,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/gJXfYo2TLTBbGJmdKIMsdM62151He2iP1mIXRf2t5OQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzg3/OS0xMjYwOTcxMzk4/LmpwZWc.jpeg" alt="Cover for Champions Of Nature" style="max-width:120px; height:auto;" />
       </td>
@@ -280,7 +279,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/ekDhTQO85D3m4UiFsAtzNGTMBRs_HUa2RkpFtEmqVr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTk0/MS0xMTY4MTE0MTg2/LmpwZWc.jpeg" alt="Cover for Music Mystro" style="max-width:120px; height:auto;" />
       </td>
@@ -298,7 +297,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/g_a9eaWvlBUIvZZ-_mETWUvVncM3f7ZCVwRl0CNQ1sU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzAw/MS0xMTM4NDczMDg4/LmpwZWc.jpeg" alt="Cover for The Edge Featuring Niara" style="max-width:120px; height:auto;" />
       </td>
@@ -336,7 +335,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/7YMByvQYnji7xfZsazLEHVuKiaCryxlW7fKNqEikikc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDg5/NS0xMjA0OTk2NjIy/LmpwZWc.jpeg" alt="Cover for God Complex" style="max-width:120px; height:auto;" />
       </td>
@@ -373,9 +372,9 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/QzBL1AdtI238L7H-gYQiRo6kWcmrzXIyaZu3pci4pkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTEw/MTgtMTI4ODAwMzA4/MC5qcGVn.jpeg" alt="Cover for Deh Pon Road" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7747c14fa62e4c61aefd743f35125e54.png" alt="Cover for Deh Pon Road" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Genesis Elijah</td>
@@ -393,7 +392,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/jQy3TGD2JDDddTImJ854hOM5IsLl8TpIsktfeuiUFEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIy/ODctMTIxNjA4NjI4/Mi5qcGVn.jpeg" alt="Cover for Construction Skillz" style="max-width:120px; height:auto;" />
       </td>
@@ -412,23 +411,21 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f5092a408b5db4a889311894cca9c6d.png" alt="Cover for Arular" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-22</td>
       <td>M.I.A.</td>
       <td>Arular</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/grime" | relative_url }}">grime</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 63</li>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 78</li>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 96</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 72</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -452,7 +449,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/NPXGqQ-NN5eXCMukEfaGQfaHLOBJJMJ-NRAGbKm_f_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODA1/Ny0xNTAyNzA2ODkz/LTY4ODAuanBlZw.jpeg" alt="Cover for Excuse My Brother" style="max-width:120px; height:auto;" />
       </td>
@@ -471,7 +468,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/YT4vLzS62MUugaf-kmXv3bkVcmgnILYorBdRGaiZo28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTk2/MS0xMTMwMTI2ODk5/LmpwZWc.jpeg" alt="Cover for Bulls#!t" style="max-width:120px; height:auto;" />
       </td>
@@ -509,7 +506,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 86</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 90</li>
             <li> <a href="{{ "/tags/british-hip-hop" | relative_url }}">british hip hop</a> # 91</li>
             <li> <a href="{{ "/tags/english-hip-hop" | relative_url }}">english hip hop</a> # 93</li>
         </ul>
@@ -535,7 +532,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/NEi-TILzPTsIxqeUtqkNN7gEtFQI9-h_XPnVaQZfCeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjIy/MDktMTI5MzAzODk5/Ny5qcGVn.jpeg" alt="Cover for Lets Go Steady" style="max-width:120px; height:auto;" />
       </td>
@@ -553,9 +550,9 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/NK2Lgj_NMr8suuqThgU6V1mUAyvp-wfCQ2WPqiFN3rs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDgz/NDAtMTE4Nzk5MTc0/NC5qcGVn.jpeg" alt="Cover for Kala" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/358f51a69ad8c8221088bcba59d2be1f.png" alt="Cover for Kala" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-08</td>
       <td>M.I.A.</td>
@@ -567,12 +564,12 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 65</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/0-bhibTP_a5Ax3Gi35sVONApd1HqPErGYl-am7xkMHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTMx/MjQtMTI0MTExMDEw/Mi5qcGVn.jpeg" alt="Cover for It&#39;ll Never Catch On" style="max-width:120px; height:auto;" />
       </td>
@@ -586,6 +583,28 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90c2e06b066c214dd63346752e10f8b8.png" alt="Cover for Safe" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Dan Bull</td>
+      <td>Safe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -611,30 +630,9 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>71</td>
-      <td>
-          <img src="https://i.discogs.com/sUFLGMn0PfytMPVbebG_JoA7i9yXOOwRfZlhBmdL9Fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTUy/MjktMTI1ODY1NDA0/NS5qcGVn.jpeg" alt="Cover for Safe" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Dan Bull</td>
-      <td>Safe</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/e4NEs03BIHxVishKHlbJbVvnTS_NYehY6soVP-IFMj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDg3/MjAtMTQzMDE3NTYy/MC02MTk5LmpwZWc.jpeg" alt="Cover for 30,000 Leagues Under the Scene" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/086c9c620e1d15b548c01393aac711ed.png" alt="Cover for 30,000 Leagues Under the Scene" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-26</td>
       <td>30KB</td>
@@ -694,7 +692,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 36</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -744,7 +742,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 21</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -861,8 +859,9 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffb2bf193a990a02570532e535f013cf.png" alt="Cover for Scribbled Thoughts" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-03</td>
       <td>Split Prophets</td>
@@ -902,6 +901,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c54be9b163264f139009557e811727c2.png" alt="Cover for Take Me Down" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-02</td>
       <td>Lacey</td>
@@ -918,7 +918,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/8omnY4CFzsE5KAg5CaLYWCEws9WC9Xmcc6HpXnvJs58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY0/NjI0LTE0OTYwNDk5/NTYtNzQwNy5qcGVn.jpeg" alt="Cover for A to Z" style="max-width:120px; height:auto;" />
       </td>
@@ -944,8 +944,9 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fdaf6fcfc096936cf783b89e56b3d16.png" alt="Cover for Matangi" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-04</td>
       <td>M.I.A.</td>
@@ -978,13 +979,14 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       <td>
         <ul>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 42</li>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 43</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/198524e75685494fc997f29e3f56649b.png" alt="Cover for Cave In" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-03</td>
       <td>Lacey</td>
@@ -1019,7 +1021,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>50</td>
       <td>
       </td>
       <td>2014-03-26</td>
@@ -1036,7 +1038,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
       </td>
       <td>2014-04-20</td>
@@ -1056,7 +1058,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/uwpBosjk-CFP2ttuMv8kUzg-y7bQC1PUjb4kwrnGM2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTQx/OTYtMTQxMzQwMzA1/Mi03MDA5LmpwZWc.jpeg" alt="Cover for Sympathetic Detonations" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ecd4b56fb054e55cee30fecb20e8b5b.png" alt="Cover for Sympathetic Detonations" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-15</td>
       <td>diss1</td>
@@ -1079,7 +1081,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/RXSTUIsXsp-ttXKhmMSMxBz9XdhIpRRE75vRYO6mvxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzQ4/ODktMTQ0OTc4NzMx/MS0zMzI5LmpwZWc.jpeg" alt="Cover for A New Place 2 Drown" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b38162412a60cc8197db61d8e4497859.png" alt="Cover for A New Place 2 Drown" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-12-10</td>
       <td>Archy Marshall</td>
@@ -1119,7 +1121,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 15</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 14</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 72</li>
         </ul>
       </td>
@@ -1127,7 +1129,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/tdgQX09QJsfsfyjFAFAEWQpDepPIirdsaOxbiMj2PL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDcx/NTA1LTE1MDkzMDkz/ODctOTQzNC5qcGVn.jpeg" alt="Cover for All Talk" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c406004f683b614396a0aad5e92043d.png" alt="Cover for All Talk" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-04</td>
       <td>Standard</td>
@@ -1165,7 +1167,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 4</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1191,7 +1193,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/iu_cQ0ONpFI6jR2dNbLJsz6sIZ5ZWlwD3XqDp0X8sNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTMz/MjQ0LTE1MDY3NjUw/MjctOTIyMy5qcGVn.jpeg" alt="Cover for that is america" style="max-width:120px; height:auto;" />
       </td>
@@ -1233,7 +1235,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/dNyUcNv8YlZUdjpPyLKYNYQTKvMVoCG2wM1fpPN_YnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODk3/MTExLTE1ODM2NzMx/MzgtMjAxNS5qcGVn.jpeg" alt="Cover for Eh?" style="max-width:120px; height:auto;" />
       </td>
@@ -1275,7 +1277,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/lT0Cvidd7rJais6fBUOUiJyZ8rH0krgWk0kPdJdn9kY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDY3/MjA3LTE2MDc5MDgz/MjctMjMwNS5qcGVn.jpeg" alt="Cover for Be Runway" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/305ffa05d30ae76633ed121f24f0dbb7.png" alt="Cover for Be Runway" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-30</td>
       <td>Bree Runway</td>
@@ -1294,16 +1296,16 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 2</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 44</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 76</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 5</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 45</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 79</li>
             <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 99</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/Ycra6_BxieQRxmukn3Xu0l_TnsIpAhj5h-4koutdBck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njk4/OTMyLTE2MjA4NDE3/ODYtOTIzNC5qcGVn.jpeg" alt="Cover for Armour" style="max-width:120px; height:auto;" />
       </td>
@@ -1325,9 +1327,9 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/0qrSbwLFlJZzcUVAuoLnabLIrEnmLREJrLwvNMaqdLw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzk0/MzQ2LTE2MTMyMjIw/NjEtODQwNi5qcGVn.jpeg" alt="Cover for Forward Ever" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea10e0779bd46d7f31efce6422c2164d.png" alt="Cover for Forward Ever" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-12-04</td>
       <td>LEX AMOR</td>
@@ -1395,7 +1397,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/lKVy-bqlg1kxeE4wSUws444Jnon8bVwSuYSYwc1jGOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjY4/NTE0LTE2MzE4OTc2/ODQtNzUwOS5qcGVn.jpeg" alt="Cover for Queer + Black" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,15 +1457,15 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 37</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 50</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 52</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/vvUlQG4x3IOwenVYZ4ZZowIIa8TvlLN439qOsBl98cY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDY0/OTA3LTE2MzA0MjU1/NTQtNjg3OS5qcGVn.jpeg" alt="Cover for Sometimes I Might Be Introvert" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/592ce13b8d7cfee26e13692b3c6985e8.png" alt="Cover for Sometimes I Might Be Introvert" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-09-03</td>
       <td>Little Simz</td>
@@ -1483,7 +1485,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/orfBTheiZ92sIgpbe2YSuAZCPw4EZ4gbK4pM-I_JjsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDU2/NzAtMTM1MTEwNDk3/NC0xMjUwLmpwZWc.jpeg" alt="Cover for Blue Lines (2012 Mix &#x2F; Master)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6b45892084cc5376d40699739075ca6.png" alt="Cover for Blue Lines (2012 Mix &#x2F; Master)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Massive Attack</td>
@@ -1517,8 +1519,8 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       <td>
         <ul>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 34</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 51</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 70</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 52</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1538,7 +1540,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 19</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1562,11 +1564,11 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 18</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 22</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 36</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 53</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 43</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 56</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 74</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1588,9 +1590,9 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 86</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 88</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 91</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 99</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1611,14 +1613,14 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 61</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/OJ_IRBSgvQ2O6Ylq1bEOpRsNRJFp7A_Getubt8VQasc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODYz/ODI5LTE2NzQ1MDM5/NTMtNTk2Ni5qcGVn.jpeg" alt="Cover for BLOOD, SWEAT &amp; FEARS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de0b45b4b31d23e483b726cae28aa45d.png" alt="Cover for BLOOD, SWEAT &amp; FEARS" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-01-13</td>
       <td>L E M F R E C K</td>
@@ -1648,7 +1650,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 8</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 9</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 58</li>
         </ul>
       </td>
@@ -1678,7 +1680,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 9</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 14</li>
             <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 65</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 71</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 78</li>
@@ -1686,9 +1688,9 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/pjQa9AqOG8zRJTIgyP8VdtZv6wosXencUMtMteQKHOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTAx/MDc5LTE2OTMyMjQ5/OTUtMjAwOS5qcGVn.jpeg" alt="Cover for december" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3967e347195d3b4a2c895542abe9d1ab.png" alt="Cover for december" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-05-05</td>
       <td>Obijuan</td>
@@ -1705,7 +1707,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/AGaAe1JyT3S-k8MSOGp2gJ5bn3jezRAtvHOjqES4OQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzYw/NDY0LTE1OTcyODcx/MTktMjgxMi5qcGVn.jpeg" alt="Cover for Skyhooks" style="max-width:120px; height:auto;" />
       </td>
@@ -1740,8 +1742,8 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 25</li>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 26</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 27</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1785,7 +1787,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 23</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1830,6 +1832,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
     <tr>
       <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8595c2eb6d884c9e80850c7b6caaa0ce.png" alt="Cover for YOUphoria &amp; I EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Str8face</td>
@@ -1952,6 +1955,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f84ae613b65e808ba6895e70d0d90705.png" alt="Cover for False Flags &amp; Patsies" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Brent Lee Regan</td>
@@ -1993,6 +1997,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1585f86b12647a53af9a282fd33a7236.png" alt="Cover for Sage Mode" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sage Todz</td>
@@ -2010,7 +2015,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
       </td>
       <td></td>
@@ -2028,7 +2033,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td></td>
@@ -2046,26 +2051,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>40</td>
-      <td>
-      </td>
-      <td></td>
-      <td>D.I.T.D</td>
-      <td>The Orapa Mine Vol:1</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
+      <td>46</td>
       <td>
       </td>
       <td></td>
@@ -2084,7 +2070,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>54</td>
       <td>
       </td>
       <td></td>
@@ -2101,7 +2087,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
       </td>
       <td></td>
@@ -2111,6 +2097,24 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65f4fe960a64b9cd2910492175b5b12a.png" alt="Cover for GREY Area" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Little Simz</td>
+      <td>GREY Area</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
       <td>

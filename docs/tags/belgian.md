@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-25T03:35:33.440Z
+date: 2025-11-11T04:50:58.660Z
 permalink: tags/belgian
 title: belgian
 ---
 
 ## belgian
 
-Last updated: <time datetime="2025-10-25T03:35:33.440Z">Sat Oct 25 2025 06:35:33 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-11T04:50:58.660Z">Tue Nov 11 2025 06:50:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
   </thead>
   <tbody>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/1aD0kYeMjFYD5yiWgdMhCverjw1KGrvPMOO9LZU95qA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc4/NzUtMTUzOTcwMTk0/My0zNzYzLnBuZw.jpeg" alt="Cover for Dichterbij" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/369d5b5b8685dcaaad31cbd40eca44af.png" alt="Cover for Dichterbij" style="max-width:120px; height:auto;" />
       </td>
       <td>1963</td>
       <td>Gene Thomas</td>
@@ -49,9 +49,9 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/iPH3f29FfOOzHGSLJ8Oy6dFCNFn8M0us9hu_hESNhkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTIw/MTktMTMxODE2NTY4/MS5qcGVn.jpeg" alt="Cover for Machiavel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7809d8a361f0497d9eabc8b8f763bbcf.png" alt="Cover for Machiavel" style="max-width:120px; height:auto;" />
       </td>
       <td>1976</td>
       <td>Machiavel</td>
@@ -66,12 +66,12 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 12</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/XKCoq8pjoxUTwOGYhUR0J5j7CmBMtdZCbaQO5WV2si4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA3/MjktMTI3MDc1ODkw/OC5qcGVn.jpeg" alt="Cover for For Amusement Only" style="max-width:120px; height:auto;" />
       </td>
@@ -87,12 +87,12 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 20</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/QZann9EGIfrlzU_H3smS7WIjFKs7XeENAwhIsXl3nXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTAy/NjQtMTYxNjI3MjY0/MC0zNzYwLmpwZWc.jpeg" alt="Cover for Plezantste liedjes" style="max-width:120px; height:auto;" />
       </td>
@@ -128,7 +128,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 59</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -151,6 +151,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6975360e57b465896a04ab0540f41a2.png" alt="Cover for Pump Up the Jam" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-11-07</td>
       <td>Technotronic</td>
@@ -163,7 +164,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 8</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 16</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 92</li>
         </ul>
       </td>
@@ -210,7 +211,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/HwsIcPzJEwr0Vws0216ICA-MeH6-zUCl4XbQ-2kVoew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTEx/LTExOTE3NzM3NDQu/anBlZw.jpeg" alt="Cover for No Comment (Remastered)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ee2dd2f2970d0b1cecc9b3a4dd52c65.png" alt="Cover for No Comment (Remastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Front 242</td>
@@ -227,7 +228,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>1993-09-21</td>
@@ -244,7 +245,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
       </td>
       <td>1994</td>
@@ -282,7 +283,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
       </td>
       <td>1996</td>
@@ -305,7 +306,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/JGPm0yy7RVSLP8CW8GuMUM3dsPzrvNWtNSmBrD3XQYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzcx/Ny0xNTEzNjQzMjY1/LTkxMDEuanBlZw.jpeg" alt="Cover for A New Stereophonic Sound Spectacular" style="max-width:120px; height:auto;" />
       </td>
@@ -344,6 +345,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b0d865912b94d139116dc45e817547f.png" alt="Cover for Liefde Voor Muziek" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-11-11</td>
       <td>Raymond van het Groenewoud</td>
@@ -363,7 +365,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/v_KRieQuy1wqTQ8J6UGQCBrZxOnTwQ7uejx_-EDdiLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzI1/ODktMTMxNzcxNzU5/Mi5qcGVn.jpeg" alt="Cover for L&#39;Un Pour L&#39;Autre" style="max-width:120px; height:auto;" />
       </td>
@@ -381,8 +383,9 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7014be84635752d8fbe4d77b4cfc5515.png" alt="Cover for Laïs" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-11-17</td>
       <td>Laïs</td>
@@ -398,7 +401,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/A0OrqWYpP2eJHTsR3R0qI-e1ll4hQ7EbFjanTaSCYhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTkz/OS0xMjkzOTkwMDMz/LmpwZWc.jpeg" alt="Cover for My Sister Is My Clock" style="max-width:120px; height:auto;" />
       </td>
@@ -455,7 +458,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/kr3zO3F-SA8yUKLAh0sP2CNtBsNqd1YkwZOnMtyzt9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjk3/MS0xNDY2MTQ2MTY1/LTI3NjkuanBlZw.jpeg" alt="Cover for At Home - Not At Home" style="max-width:120px; height:auto;" />
       </td>
@@ -471,29 +474,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 1</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/5RQy4cu5DK-uVhgO-dSd8pcJ2cI_WkO9irsyDpl1DtQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQw/MzQtMTU3NDAwNjg1/Ny0yMjg2LmpwZWc.jpeg" alt="Cover for The Banana Queen Remixes" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Zita Swoon</td>
-      <td>The Banana Queen Remixes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -520,7 +501,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
       </td>
       <td>2002</td>
@@ -543,7 +524,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td>2002-05-21</td>
@@ -560,7 +541,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/u7qjDOiFCue9RYG8rC07OJApYzAQuTLkouBTVzarMYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDcz/MzQtMTQ1Nzg5NzUy/NS02OTQyLmpwZWc.jpeg" alt="Cover for Remixology 2002 - 2006" style="max-width:120px; height:auto;" />
       </td>
@@ -576,7 +557,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 25</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -601,7 +582,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/cKZMZBy4a-HbU7Oqk1zIp8yLD-s1J6W3ywDV8s1Yeh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzE1/My0xNTU2MzAyODI5/LTIzMjcuanBlZw.jpeg" alt="Cover for Bob" style="max-width:120px; height:auto;" />
       </td>
@@ -621,7 +602,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/9MmQtfRewNEaHzLvkGF1kLByPQFrmmlYPixglRN7ZAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTg3/NTgtMTM4ODk0OTQ2/NC05OTc2LmpwZWc.jpeg" alt="Cover for Hope You Die by Overdose" style="max-width:120px; height:auto;" />
       </td>
@@ -640,7 +621,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a0bdf76d48949048ac99a79d32b9dd3.png" alt="Cover for A life on standby" style="max-width:120px; height:auto;" />
       </td>
@@ -697,6 +678,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e58755b7455f451fc5fff0093ea8fab4.png" alt="Cover for Ghostboy" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-05-03</td>
       <td>Gabriel Rios</td>
@@ -713,7 +695,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/U44QniwsW7kF-XOtWbp6kLBkwW-ZUFtISpOERWL96pU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTEy/NDctMTU5ODUyMjU0/Ni02NjU1LmpwZWc.jpeg" alt="Cover for That&#39;s Me" style="max-width:120px; height:auto;" />
       </td>
@@ -731,7 +713,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/dNO62PxNZxW9-n0fR1GzulbG4o6NOMPq8yXC5Tl4THw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDc3/MDktMTQxODc5ODUx/MC00MzUzLmpwZWc.jpeg" alt="Cover for De Andere Kust &#x3D; The Other Shore" style="max-width:120px; height:auto;" />
       </td>
@@ -750,7 +732,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d177ba7f7f156da4bdfc55c6e6dfef66.png" alt="Cover for Scream" style="max-width:120px; height:auto;" />
       </td>
@@ -827,12 +809,12 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 58</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
       </td>
       <td>2005-10-07</td>
@@ -868,7 +850,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/B05i4vhwKB58jwhBACotztZmqr5XiZBUCjR0YQchMXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTg0/ODUtMTQ1NzM1OTM4/Ni00NjgzLmpwZWc.jpeg" alt="Cover for Sex &amp; Honey" style="max-width:120px; height:auto;" />
       </td>
@@ -891,13 +873,13 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 20</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 25</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/B05i4vhwKB58jwhBACotztZmqr5XiZBUCjR0YQchMXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTg0/ODUtMTQ1NzM1OTM4/Ni00NjgzLmpwZWc.jpeg" alt="Cover for 7LOW Live" style="max-width:120px; height:auto;" />
       </td>
@@ -956,8 +938,9 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a97faea9df33f29455bd7edfbb126301.png" alt="Cover for Jardin secret" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-02</td>
       <td>Axelle Red</td>
@@ -977,7 +960,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td>2007</td>
@@ -994,7 +977,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/pTavMB07er68SK1ATUsRtozE2UM0piDjIkeFtZW0cvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTUy/NDYtMTE5OTkwNTg3/NS5qcGVn.jpeg" alt="Cover for Registrated" style="max-width:120px; height:auto;" />
       </td>
@@ -1014,7 +997,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/8CFoSjS1n7hLZsU9--ZQjIYlJKN7Ch5rXQZJpMLDlss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTg3/MTUtMTQ1NzM2MDkx/Mi03NDg5LmpwZWc.jpeg" alt="Cover for Sex &amp; Honey (2008)" style="max-width:120px; height:auto;" />
       </td>
@@ -1038,14 +1021,14 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 36</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/4dFl7FxskvzkZIW-Td5Lf0wSY3xKN5YQ2FWYb_1HMJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTQ1/OTYtMTI5Nzc1NzE2/Ny5qcGVn.jpeg" alt="Cover for Unlocked" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a65013c5d6bae571c9a0bed84c40dbd3.png" alt="Cover for Unlocked" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Danzel</td>
@@ -1081,7 +1064,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/et0I6EyDHWKuJvnyiFp5nmKDc9HMvazTZ4qU2Uc_P3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTg2/MzItMTIzNTA2OTE5/OC5qcGVn.jpeg" alt="Cover for Mon-O-Phone" style="max-width:120px; height:auto;" />
       </td>
@@ -1100,7 +1083,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/rRhBBn3nsWHbzbgmShhEUoucbHGI9PqyguanXifZHeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzMx/MzYtMTM0NzgyNTQx/MS02OTExLmpwZWc.jpeg" alt="Cover for Elf Shot Lame Witch" style="max-width:120px; height:auto;" />
       </td>
@@ -1117,7 +1100,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 3</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1160,7 +1143,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/4GC_FiAca9gevZ9xeRAOmbjjCWv5_25GTW76L_UMuaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDMx/NTAtMTMxMTI0NjQz/MS5qcGVn.jpeg" alt="Cover for As Heard on Radio Soulwax, Part 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1173,12 +1156,12 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 40</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td>2009-04-17</td>
@@ -1198,6 +1181,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01e0975bed4a4f5f911e712bcc80fff0.png" alt="Cover for Smile" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-07</td>
       <td>Lasgo</td>
@@ -1217,7 +1201,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/b3p9BRIIi002hEb-3Go71clFOLFbfNMqvQSAhAXEi0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTg5/MTItMTI4MzAyMzQ5/OC5qcGVn.jpeg" alt="Cover for Exoskeleton" style="max-width:120px; height:auto;" />
       </td>
@@ -1254,7 +1238,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/q_oANrq6_C3rTQDzaSrHMC1AwLopd0_4P9Ub6akXVkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzQ3/MzgtMTI2OTcwMjM1/Mi5qcGVn.jpeg" alt="Cover for Eclectricism" style="max-width:120px; height:auto;" />
       </td>
@@ -1294,8 +1278,27 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
+      <td>41</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bef304374b9974ff701c92df6ae0d0b9.png" alt="Cover for Cheese" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-06-21</td>
+      <td>Stromae</td>
+      <td>Cheese</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cc789db1d4d418f92ca90333303a606.png" alt="Cover for Ready to Dare" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-28</td>
       <td>AnnaGrace</td>
@@ -1334,8 +1337,9 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5899c63e28e48c8ddf5068047ee87dfc.png" alt="Cover for Wild Eyes" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-04</td>
       <td>Flying Horseman</td>
@@ -1355,7 +1359,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/c5ilIsAe_tNUZaP-D82yFWP_56O4oNbLWySmKi5Ybts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTA1/MDQzLTE2MzM2MTcx/MjUtNDM0NS5qcGVn.jpeg" alt="Cover for v&#x2F;a Rotten Fake!" style="max-width:120px; height:auto;" />
       </td>
@@ -1383,6 +1387,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67f2380402074d4cb58f9f3cdb8f8094.png" alt="Cover for 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-25</td>
       <td>Netsky</td>
@@ -1400,7 +1405,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/Hk6vf4U90qg2WflDmAcNbXN7DBW7PjyT4OsViSFjwpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjYy/NzAtMTM4MDgyMjQ2/MC03MjM5LmpwZWc.jpeg" alt="Cover for Sonder" style="max-width:120px; height:auto;" />
       </td>
@@ -1421,6 +1426,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d1ab292f3a645c3964be30fbaa69098.png" alt="Cover for Mess With Us" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-11</td>
       <td>Compact Disk Dummies</td>
@@ -1438,7 +1444,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td>2013-03-29</td>
@@ -1474,8 +1480,8 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 3</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 90</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 18</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 91</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 96</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 96</li>
         </ul>
@@ -1598,9 +1604,9 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/ol84mR4oryGaBfA8-YI0sFxcKGnBFv1ARfYI43maxRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MjE4/MDktMTQ2MzMxMjc5/NC00NzM3LmpwZWc.jpeg" alt="Cover for Silver Souls" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cdcc266a48448e2e331eeebb022b65b.png" alt="Cover for Silver Souls" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-05-06</td>
       <td>Compact Disk Dummies</td>
@@ -1622,7 +1628,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/FeFgHUHQXol1zI4ltLawNFdfBJBAo61VjqtX6P4-AKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgy/MzUyLTE1NDc2NTE2/MDAtNjM1Ny5wbmc.jpeg" alt="Cover for Speeltijd (Niels &amp; Wiels Editie)" style="max-width:120px; height:auto;" />
       </td>
@@ -1660,7 +1666,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 52</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1704,7 +1710,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ac0e6a3d3323d875efcfb99d6d9051d.png" alt="Cover for RKTKN #3" style="max-width:120px; height:auto;" />
       </td>
@@ -1746,12 +1752,12 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 57</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 61</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 71</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 71</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 80</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 94</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 95</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 95</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 98</li>
         </ul>
       </td>
@@ -1775,12 +1781,12 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 45</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/onEBtgmy4v44LpJntprauCn5FLA478sZssxPD2UDx0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgw/MDc3LTE1OTA1OTQ1/MzYtMzE4OS5qcGVn.jpeg" alt="Cover for Empire" style="max-width:120px; height:auto;" />
       </td>
@@ -1831,12 +1837,12 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 40</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/U87810jRsLXtoJ7SucMTr3m-uoWJHOezpJZkHqfazuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzM2/NzQtMTIwMTEwNzc2/OS5qcGVn.jpeg" alt="Cover for Lockdown Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -1852,14 +1858,14 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 6</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/lhcBHC1gtFgJ0Nei7zzpOWRLTTPcY6t2Oom7PBSepuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTI1/MjU2LTE2MTYyMzE3/MzUtNzkxNS5qcGVn.jpeg" alt="Cover for Crazy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e818f2c2a94438a86499fac3b6725bb2.png" alt="Cover for Crazy" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-19</td>
       <td>Lost Frequencies</td>
@@ -1876,12 +1882,12 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 33</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/Pe2oAbFEYZyiVJH92Utv_jZBUHxbWmQ84NEgI6gzvaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTQ0/MzY2LTE2MTk4Nzg5/NzEtNTYzNC5qcGVn.jpeg" alt="Cover for SEMPRE &#x2F; JAMAIS" style="max-width:120px; height:auto;" />
       </td>
@@ -1902,11 +1908,11 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 2</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 3</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 3</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 19</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 21</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 30</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 32</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 82</li>
         </ul>
       </td>
@@ -1914,7 +1920,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/XJG51nSdaKQ-Uh_A7_IgXk5IcbvIBGvHGKZjIluhO68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDI1/Mjk5LTE1MjY3OTk5/OTEtOTMxMi5qcGVn.jpeg" alt="Cover for Afterglow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13f2d13886c4ab4d30ff219bbd6b622d.png" alt="Cover for Afterglow" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-06-10</td>
       <td>Oscar and the Wolf</td>
@@ -1936,7 +1942,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/-JG0NpBvC8MB8LxhIgDxm3BdAxT8kRGsgZJFlhAmLIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk2/NzU1LTE2Njg3MTY2/OTAtNjA4MS5qcGVn.jpeg" alt="Cover for Nonante-cinq la suite" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc9aa2db64afc1b7de6bc9d36f29fbb5.png" alt="Cover for Nonante-cinq la suite" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11-18</td>
       <td>Angèle</td>
@@ -1956,11 +1962,11 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 51</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 52</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 52</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 62</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 85</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 86</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 88</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 90</li>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 100</li>
         </ul>
@@ -1988,7 +1994,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 74</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 77</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 80</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 80</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 88</li>
@@ -1999,8 +2005,9 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c2655fe1718ce7b52b260a18a2c677f.png" alt="Cover for 2006" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>joiejoiejoie</td>
@@ -2015,12 +2022,12 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 29</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -2045,7 +2052,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -2062,7 +2069,7 @@ Belgian music represents a diverse cross-section of popular music from Belgium, 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
       </td>
       <td></td>

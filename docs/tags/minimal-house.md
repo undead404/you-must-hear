@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T00:09:09.057Z
+date: 2025-11-11T04:47:43.707Z
 permalink: tags/minimal-house
 title: minimal house
 ---
 
 ## minimal house
 
-Last updated: <time datetime="2025-11-08T00:09:09.057Z">Sat Nov 08 2025 02:09:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T04:47:43.707Z">Tue Nov 11 2025 06:47:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
   </thead>
   <tbody>
     <tr>
-      <td>50</td>
+      <td>42</td>
       <td>
       </td>
       <td>1977</td>
@@ -47,7 +47,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/Ns--dNtcdBFZcsmEmYQbbFowHqLgHTulEMXS7k088Hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUw/OTE5LTE3MzAzMTAy/NjYtNDQ3My5qcGVn.jpeg" alt="Cover for Green &amp; Blue (disc 2: Ricardo Villalobos in the mix)" style="max-width:120px; height:auto;" />
       </td>
@@ -65,9 +65,9 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>86</td>
       <td>
-          <img src="https://i.discogs.com/Xt9d7ad8yuSTEr6Qy5Fp0VYTM9JstJdgUsWAGt8pwwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODEt/MTUxMjQzMDU5MC00/MTAwLnBuZw.jpeg" alt="Cover for Basic Blaze" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9e49b847c3d49abbcd0ef2ebe27173a.png" alt="Cover for Basic Blaze" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Blaze</td>
@@ -84,26 +84,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>
-          <img src="https://i.discogs.com/5N9FOjlBUH1qbcNEkqU9aJEX1s7UL8B-qQUqlWJtv3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTEx/NC0xMjM0MTM3MTc3/LmpwZWc.jpeg" alt="Cover for Peng Peng Baby" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Antonelli</td>
-      <td>Peng Peng Baby</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/GWtb5gHONMnk5hLVIh1A6Xv5E5jeoPN_jBkrapTVRpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMDc2/LTEwOTg3MzY2MTIu/anBn.jpeg" alt="Cover for Shape-Space" style="max-width:120px; height:auto;" />
       </td>
@@ -118,12 +99,30 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 52</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>37</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e070013f4d7d9478fb93ff18010e0b0.png" alt="Cover for Himawari" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-07-11</td>
+      <td>Swayzak</td>
+      <td>Himawari</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
       <td>
       </td>
       <td>2000-09-01</td>
@@ -139,12 +138,12 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 61</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/UL6pVdk5uUsjhjkikG9z9HS5xzAuTOfm-TPWbOgFBKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTYw/LTAwMS5qcGc.jpeg" alt="Cover for Finally" style="max-width:120px; height:auto;" />
       </td>
@@ -168,7 +167,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/2XHv8zaZUDaX-x39JNv2oJu8x54VVieaFyRFYGXN4Gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDU5/LTE1NzI3NjUxMjgt/NTYxMC5qcGVn.jpeg" alt="Cover for Remix Tomorrow Goodbye" style="max-width:120px; height:auto;" />
       </td>
@@ -191,6 +190,25 @@ Minimal house strips electronic dance music down to its essential elements, emph
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/831ff93540c6923c8863d8bb5194e3da.png" alt="Cover for DE9: Closer to the Edit" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-09-17</td>
+      <td>Richie Hawtin</td>
+      <td>DE9: Closer to the Edit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
           <img src="https://i.discogs.com/VfeGCDLBs99ZVHiH1kYqUoFv_AMeNaobH5Fs4URmEZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyODA2/LTEwOTU5MzM0OTgu/anBn.jpeg" alt="Cover for Musik, Ok!" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
@@ -208,7 +226,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/wNILfuapiEZkJD8ZVAIJIGh0vOVpnpFdqDPENAUmHz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTE5/LTExMzI4NjU0MjQu/anBlZw.jpeg" alt="Cover for Pony Slaystation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c38718a652e4516c5ff5f1bc99ecc85.png" alt="Cover for Pony Slaystation" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-05-10</td>
       <td>Pantytec</td>
@@ -224,7 +242,24 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>41</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/222da358c4e14c728dc883bbaf73bb72.png" alt="Cover for Sensual" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-09-23</td>
+      <td>Steve Bug</td>
+      <td>Sensual</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/Tf0UR1d1DSooYM4FH9xkcr1TXsDEceWqh733NIT84TM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI5/MC0xNjQzODIyMzg3/LTY3NTguanBlZw.jpeg" alt="Cover for Yes Sir, I Can Hardcore" style="max-width:120px; height:auto;" />
       </td>
@@ -241,9 +276,8 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/pdSC_IT9gbis_q6Jawxs_z6L5SZe01QAdDJymEsFjKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Nzk4/LTEyODc1MTY2NTAu/anBlZw.jpeg" alt="Cover for Kontor House of House Vol.7" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-11</td>
       <td>Sono</td>
@@ -259,7 +293,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>23</td>
       <td>
       </td>
       <td>2003</td>
@@ -295,7 +329,24 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>74</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42d93b1ccac3559dc126ef6666496039.png" alt="Cover for Tessio" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-04-07</td>
+      <td>Luomo</td>
+      <td>Tessio</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
       <td>
       </td>
       <td>2003-04-21</td>
@@ -329,13 +380,14 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 69</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/143ff1d5600e4cf1cc10abd91c56bb0b.png" alt="Cover for Sketches for the Next Season" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-10-24</td>
       <td>Jonas Bering</td>
@@ -351,26 +403,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>52</td>
-      <td>
-          <img src="https://i.discogs.com/WvtewhBwgRaOCRLUB9aF1d0XxQdXDBoTgOyzZBwWoo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTk0/My0xNDc3OTUzNzQ1/LTU4MzMuanBlZw.jpeg" alt="Cover for Thé Au Harem D&#39;Archimède" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004-05-11</td>
-      <td>Ricardo Villalobos</td>
-      <td>Thé Au Harem D&#39;Archimède</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 69</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>82</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/vSzWP1HaZJ5CoG_LBqjdHUGkDFXJ10qWToPgfxShqiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzMw/MC0xMzcxNTgwNjU1/LTg3MDEuanBlZw.jpeg" alt="Cover for Just Ride" style="max-width:120px; height:auto;" />
       </td>
@@ -389,7 +422,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
       </td>
       <td>2004-06-14</td>
@@ -404,12 +437,29 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 70</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>64</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b78fb6b8e924dc5cda65ffdd3427ed6.png" alt="Cover for Loops From The Bergerie" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-09-13</td>
+      <td>Swayzak</td>
+      <td>Loops From The Bergerie</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/5T9EZpN1m429BuVnIE23mNpVZdvPyl17dT3ANpdaRBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mjc0/My0xMjc5ODM5ODU5/LmpwZWc.jpeg" alt="Cover for the Nectar of my Love" style="max-width:120px; height:auto;" />
       </td>
@@ -425,21 +475,20 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 39</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/Kjk6sMqKFm1cQmtRBS8dEXY1Q7q4h0BrbqETwu_xrQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODYz/Mi0xMTQxMTM3NzQx/LmpwZWc.jpeg" alt="Cover for Love For A Strange World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5777a89dd3e38afb13cf36f0038e9d5.png" alt="Cover for Love For A Strange World" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Jay Haze</td>
       <td>Love For A Strange World</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
         </ul>
       </td>
       <td>
@@ -448,59 +497,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>10</td>
-      <td>
-          <img src="https://i.discogs.com/4cEnbgcQ7KD9M6E4O-jqFpSDiIS3BykTU6To5--a1AU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTQ0/NS0xMTQ2ODI0NDY0/LmpwZWc.jpeg" alt="Cover for March Of The Dirty Robots" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-02-23</td>
-      <td>Sergej Auto</td>
-      <td>March Of The Dirty Robots</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>
-          <img src="https://i.discogs.com/MhzrzJZphB61NKjV7R91WcKTlQqnoLEzeNmCQBe4fu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODY2/Ni0xMTE5NjE0OTI0/LmpwZw.jpeg" alt="Cover for Mixotic 005 - Q-Man - Speed Merchant" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-06-18</td>
-      <td>Q-Man</td>
-      <td>Mixotic 005 - Q-Man - Speed Merchant</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-set" | relative_url }}">live set</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/live-set" | relative_url }}">live set</a> # 66</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>38</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/1DmqbwVDoFse_-k4mmuaq0kRXJBhfH9GeD3ujye8wgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjc1/NS0xMTI2NTM5MTA4/LmpwZWc.jpeg" alt="Cover for Mixotic 006 - Digitalverein - Deep Fragments Mix" style="max-width:120px; height:auto;" />
       </td>
@@ -531,7 +528,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/Q020d413dEiAd247npAXrkh__0Z5MnerAPVqQcvhicw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTg1/Mi0xMTQwOTYyMTEw/LmpwZWc.jpeg" alt="Cover for Mixotic 008 - DJ L&#39;embrouille - Mélénik Session Vol.2" style="max-width:120px; height:auto;" />
       </td>
@@ -562,7 +559,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/3IAOJufHNN-pEqHQhJsUxU2xMpzDgj_9QivRydaO2IA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDkz/MC0xMTI5Mjk4NjQ0/LmpwZWc.jpeg" alt="Cover for Mixotic 009 - Martin Donath - Le Son D&#39;air Chaud" style="max-width:120px; height:auto;" />
       </td>
@@ -593,7 +590,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Subvaritrax" style="max-width:120px; height:auto;" />
       </td>
@@ -616,7 +613,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/Dkm036a3CFecuQN51UJSPAPsq5pMMaTM5OXGV8BqnCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDcy/Ny0xMzgxMzIyNzg2/LTEzNDIuanBlZw.jpeg" alt="Cover for Stop" style="max-width:120px; height:auto;" />
       </td>
@@ -634,12 +631,12 @@ Minimal house strips electronic dance music down to its essential elements, emph
       <td>
         <ul>
             <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 77</li>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 87</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/GP51oHT11D-mzPKmo7iYYhKQyWVY4xkKDPitNhDrCe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Mzg0/OS0xMTM0NTg2MTAy/LmpwZWc.jpeg" alt="Cover for Mixotic 021 - Cotumo - Unfoundsound Labelmix" style="max-width:120px; height:auto;" />
       </td>
@@ -670,38 +667,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://i.discogs.com/1h_JdwwExenAFW7fBBkIOQW2koZhU1nnsD1jPGtC4_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA3/ODQtMTIwMDI5MTg0/OC5qcGVn.jpeg" alt="Cover for Mixotic 116 - Cryo - Cut The Underground" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Cryo</td>
-      <td>Mixotic 116 - Cryo - Cut The Underground</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-set" | relative_url }}">live set</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/live-set" | relative_url }}">live set</a> # 69</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/5o9PCMITyvYsewU7ZPXZAJXn6WLA8qeLVTAX8B-Aah4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDUz/OS0xNTI4NjE2MjQ1/LTMxOTkuanBlZw.jpeg" alt="Cover for Silk &amp; Shmoove EP" style="max-width:120px; height:auto;" />
       </td>
@@ -722,7 +688,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>38</td>
       <td>
       </td>
       <td>2006</td>
@@ -739,7 +705,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/JY4xwaa46nRb_lnplV6wxsGIL8Hym9fGfsJKMEEseT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjAw/NS0xMTQwOTc0MzUy/LmpwZWc.jpeg" alt="Cover for Mixotic 024 - Baldo - Southern Sounds" style="max-width:120px; height:auto;" />
       </td>
@@ -770,38 +736,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/-tnoNaTf0SqKJoq4n0muQ3e1OmdFLHpn2gDx5IiM86U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDgy/Mi0xMTUzMzAzMDg2/LmpwZWc.jpeg" alt="Cover for Mixotic 036 - KarPe - From Website 2 Website" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-04-16</td>
-      <td>KarPe</td>
-      <td>Mixotic 036 - KarPe - From Website 2 Website</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-set" | relative_url }}">live set</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/live-set" | relative_url }}">live set</a> # 62</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/kE0OLOA0kpqirjeA8EHXv0_AtDo5zx5_Ijf8FEG7080/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzE4/MS0xMTUzMTQ5MzE0/LmdpZg.jpeg" alt="Cover for Mixotic 041 - Cotumo - Freak By Night" style="max-width:120px; height:auto;" />
       </td>
@@ -832,7 +767,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>61</td>
       <td>
       </td>
       <td>2006-06-11</td>
@@ -849,7 +784,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/aPITUdE4nF-HTs-exQOyeMETgzLfHUWYkpuJFQkYwnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTU3/MS0xMTYwMzA3ODA4/LmpwZWc.jpeg" alt="Cover for Dynamite" style="max-width:120px; height:auto;" />
       </td>
@@ -872,7 +807,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/08zQgzlp76gXSBzdS2_fiNRrmAfMipt2gmqzZ4ylKnI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDI4/Ni0xMTU4MDAzMzA5/LmpwZWc.jpeg" alt="Cover for Mixotic 048 - Tom Larson - Deep Emotions" style="max-width:120px; height:auto;" />
       </td>
@@ -903,7 +838,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/9lFZdC2WZYKi2qf1OvLhk2m2osBbPHUri9ZMeA6mw4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTY4/OS0xMTYxMjM5MDkz/LmpwZWc.jpeg" alt="Cover for Mixotic 049 - Stimulux - Southern Sounds Vol.2" style="max-width:120px; height:auto;" />
       </td>
@@ -936,7 +871,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/5fK7yG7BaRX0CClSL5Fm1XRe6h9jF_EzM4bdOXKYhnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTQw/Ny0xMTYwNjAwMjAw/LmpwZWc.jpeg" alt="Cover for Mixotic 051 - Matthias Heiderich - Nine Hundred" style="max-width:120px; height:auto;" />
       </td>
@@ -967,27 +902,26 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>59</td>
       <td>
-          <img src="https://i.discogs.com/Ns7gOJTLQSl1RaXBsPbZPM1aeb_U-4C6pMYcvsUMcvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzY3/NC0xMTYyMjQyMzcx/LmpwZWc.jpeg" alt="Cover for The Last Resort" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/69aee5a1b4654511a846872379ad7094.png" alt="Cover for The Last Resort" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-06</td>
       <td>Trentemøller</td>
       <td>The Last Resort</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 43</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 44</li>
             <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/M6HfHaT5aNB-Y1WXlmrTE2_eEyvDxoB6CpXBb3Smp1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTQ2/NC0xMTY1NzE1MjA5/LmpwZWc.jpeg" alt="Cover for Mixotic 053 - Tom Larson - Night Drive Music Labelmix" style="max-width:120px; height:auto;" />
       </td>
@@ -1020,6 +954,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebfddd5fc04144b3ad46e83ba1ffa9cd.png" alt="Cover for Paper Tigers" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-16</td>
       <td>Luomo</td>
@@ -1034,7 +969,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/TVK7MtdN5oY1or9Ip_G7On-vIZrd9LrAec5vy5la7Ko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjk5/MC0xMTYxODAyMDMx/LmdpZg.jpeg" alt="Cover for Mixotic 054 - Oliver Günsel - Die langen Schatten meiner Ängste" style="max-width:120px; height:auto;" />
       </td>
@@ -1065,7 +1000,25 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>88</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/168dd8304791441098667b54b64242d4.png" alt="Cover for Midnight Black Indulgence" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-02-02</td>
+      <td>Frivolous</td>
+      <td>Midnight Black Indulgence</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/_COFxndYuG8B-jQFzN7S6W3WWKRY0wc6t8GflhxO-Ok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTI1/MC0xMTc2MDMzMjg2/LmpwZWc.jpeg" alt="Cover for Mixotic 069 - Tooltech - Aciendo Labelmix" style="max-width:120px; height:auto;" />
       </td>
@@ -1098,7 +1051,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/y612NHuZ9qsWbieDthyrsoQT5pPBIXZoVAwFp1JEd5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTAy/Ni0xMTgwMzY1NzMx/LmpwZWc.jpeg" alt="Cover for Mixotic 073 - Kudu - Microdistrict" style="max-width:120px; height:auto;" />
       </td>
@@ -1131,41 +1084,6 @@ Minimal house strips electronic dance music down to its essential elements, emph
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/ssebq4g6EnZtT9QufLuOZofQSwWoipU4H4UsA8_91yM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTA3/OC0xMTgwMzY4MDY4/LmpwZWc.jpeg" alt="Cover for Mixotic 075 - Auton - Metapop" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007-03-18</td>
-      <td>Auton</td>
-      <td>Mixotic 075 - Auton - Metapop</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-set" | relative_url }}">live set</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/live-set" | relative_url }}">live set</a> # 68</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>
           <img src="https://i.discogs.com/deOR0Hf__Q7IGREAK9fP3vbnOj0D2b_3gUmhaqdc0uc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDk5/OC0xMTgwMzY0MzM0/LmpwZWc.jpeg" alt="Cover for Mixotic 079 - Donor - Miniscule Label Mix Part 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-16</td>
@@ -1195,25 +1113,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>62</td>
-      <td>
-          <img src="https://i.discogs.com/HgFTf6dYAbOwppZWlLcVedzeSDAzzAEvVmYAMyUmx10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Mzk5/NS0xMjYwOTEyNzYw/LmpwZWc.jpeg" alt="Cover for Aliens Made My Voice Pitched Up" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007-05-30</td>
-      <td>Keinzweiter</td>
-      <td>Aliens Made My Voice Pitched Up</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/vn6avnRtAduvl9wrdww2-LqMQz5pj014dq8Jic3uq6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjAw/MjEtMTE4ODk0MzI1/Ni5qcGVn.jpeg" alt="Cover for Mixotic 099 - In Vitro - Caminando por el Cerro" style="max-width:120px; height:auto;" />
       </td>
@@ -1244,7 +1144,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/kmxZ1Uly_ZuG0U2Dpn-v1Mbd5HgjMH2SPJNsijhncvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODUx/MzEtMTE5MDkxMDI1/Ni5qcGVn.jpeg" alt="Cover for lone fiesta e.p." style="max-width:120px; height:auto;" />
       </td>
@@ -1262,16 +1162,15 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/Yxiy7UjImNgUQAPXm2BETa-WsCVuX6ZE5leAj6wpdBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDk0/NDAtMTQwNDE0Mzc3/My04NDIxLmpwZWc.jpeg" alt="Cover for Sound of Light - Nordic Light Hotel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a46a68f4c1c57fbef9dd1d9cdafe98aa.png" alt="Cover for Sound of Light - Nordic Light Hotel" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-12</td>
       <td>The Field</td>
       <td>Sound of Light - Nordic Light Hotel</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
         </ul>
       </td>
@@ -1282,38 +1181,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-          <img src="https://i.discogs.com/xAhLuMNwyyo4GTFcJEQ3Jr0uicUDn_4TQcokLk3wINg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTc2/OTktMTIxNjIzMDA0/NC5qcGVn.jpeg" alt="Cover for Mixotic 108 - Liquid Level - Live" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-01-18</td>
-      <td>Liquid Level</td>
-      <td>Mixotic 108 - Liquid Level - Live</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-set" | relative_url }}">live set</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/live-set" | relative_url }}">live set</a> # 64</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/hjblpI1rI5G3Yo5Kfv2RMQLAGHawpyvb99bEa4IolGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ5/MDEtMTIxMTQwNTM5/My5qcGVn.jpeg" alt="Cover for Frappe EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1334,9 +1202,9 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/o-FmR4Y8a8d7oKkwmg7aDNlL4Rz1-uhUff11g081OUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMx/MzctMTIxMjQ1OTk3/MS5qcGVn.jpeg" alt="Cover for The Sun &amp; The Neon Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b86f209ce11b4270c2114086ae87a654.png" alt="Cover for The Sun &amp; The Neon Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-26</td>
       <td>Booka Shade</td>
@@ -1353,7 +1221,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/03whd80PsnbHdES9FbjK7IKHvYXpozkccjpWurQLZzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MjI4/ODYtMTUwMDc5NTM5/Ny0zMzA0LmpwZWc.jpeg" alt="Cover for Black Label #14" style="max-width:120px; height:auto;" />
       </td>
@@ -1374,15 +1242,15 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/632accee1e084b26a51fbc4ede666d80.png" alt="Cover for Where You Go I Go Too" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-18</td>
       <td>Lindstrøm</td>
       <td>Where You Go I Go Too</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
         </ul>
       </td>
       <td>
@@ -1391,7 +1259,26 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1729220b7068422b81a43842fb9327a1.png" alt="Cover for Random Album Title" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-09-16</td>
+      <td>deadmau5</td>
+      <td>Random Album Title</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/QiYa-YKxN_A4_uJI7Ld5whHnfz-AVW_C4xqMAOqIVEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODAy/ODUtMTMzODc0OTY0/My0yMTIyLmpwZWc.jpeg" alt="Cover for Spaceflake EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1412,7 +1299,26 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ceb2f05583a3b5ed4d2dbb3cce423ab5.png" alt="Cover for mau5ville: Level 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>deadmau5</td>
+      <td>mau5ville: Level 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Kompakt: Total 18" style="max-width:120px; height:auto;" />
       </td>
@@ -1431,7 +1337,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/5UN7vEORt7rCkh4RpkCQt8IieAq1Sd8O0nHdZf3x2hc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjEz/MzItMTMxMDU2MTAy/My5qcGVn.jpeg" alt="Cover for Volviendo Loco" style="max-width:120px; height:auto;" />
       </td>
@@ -1449,7 +1355,44 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cee53e22dc854ce082a55d037a11aed8.png" alt="Cover for Not Trying To" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-06-03</td>
+      <td>Ekkohaus</td>
+      <td>Not Trying To</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8aefc5606df3460dc6f5e131398a93f3.png" alt="Cover for For Lack of a Better Name" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-09-22</td>
+      <td>deadmau5</td>
+      <td>For Lack of a Better Name</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 50</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 71</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/zrWViq4_YB2epkWv1Iw6QlFBDy9AJcy6OdvYGLxkTgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODUz/MTMtMTMyMzMzNTk2/NC5qcGVn.jpeg" alt="Cover for The Garden Of Eden" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,9 +1412,26 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8e89c113f173cb33d538277ee37c11a.png" alt="Cover for Ufo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Ellen Allien</td>
+      <td>Ufo</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/JDqj5E6OIdQdgJhrWxiqWLJWtVeD2NImJ1mVEE944zQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDMx/MjYtMTMwODQxOTIz/NC5qcGVn.jpeg" alt="Cover for Time for Us EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4560e46366141308a5bb57286fdff01.png" alt="Cover for Time for Us EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01</td>
       <td>Nicolas Jaar</td>
@@ -1488,7 +1448,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/5Ii_nCQbRAS8nATioBuPEb3HO-wfzvIaYJ8Fp_nnpgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTIw/My0xNTc0MDI1NTEw/LTM4NjEuanBlZw.jpeg" alt="Cover for For The Time Being" style="max-width:120px; height:auto;" />
       </td>
@@ -1511,7 +1471,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/s_zHkU6xbgAUnhwK46KuuCnmB0kYd2MUJ8s1MUej5P0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTM2/MjQtMTI2NDc3MjQ4/OC5qcGVn.jpeg" alt="Cover for Azzurra" style="max-width:120px; height:auto;" />
       </td>
@@ -1540,9 +1500,9 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>98</td>
       <td>
-          <img src="https://i.discogs.com/UKxK9XGZo5vKBK_4ZtzFJ7oAqswiv3tSLCzEyBPKn-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjQ1/MDMtMTMzNjQ1OTUz/Mi5qcGVn.jpeg" alt="Cover for Kompilation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/896a477e4d8946cd8cd48336cf459cdc.png" alt="Cover for Kompilation" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-28</td>
       <td>Jürgen Paape</td>
@@ -1561,9 +1521,8 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/gm0fCvlI0lXaB6EOtvEjUeANXibHaLQfZgMCYfSm-MY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTg3/MTY3LTE1ODc4MzM0/MzItNjQ3Ni5qcGVn.jpeg" alt="Cover for Bedrock 11 Compiled &amp; Mixed John Digweed" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-26</td>
       <td>Mutant Clan</td>
@@ -1579,9 +1538,9 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/b2E8iZIIcmTvJQBUoQ-brIK3H-GBuOasAIQg5o_DJrI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjA3/NjQtMTM0MDYyNTI3/MC0zMDMzLmpwZWc.jpeg" alt="Cover for Luna" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62b84f505f3039709017feee4118e4bc.png" alt="Cover for Luna" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03</td>
       <td>Stephan Bodzin vs Marc Romboy</td>
@@ -1589,7 +1548,6 @@ Minimal house strips electronic dance music down to its essential elements, emph
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
         </ul>
       </td>
       <td>
@@ -1599,16 +1557,15 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/59f1c9630617431bbf28e1c6c471ed40.png" alt="Cover for Noir" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-28</td>
       <td>Steve Bug</td>
       <td>Noir</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
       </td>
       <td>
@@ -1617,7 +1574,25 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf125d30ad5c4428507b52b031077021.png" alt="Cover for Where Dancefloors Stand Still" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-02-17</td>
+      <td>DJ Sprinkles</td>
+      <td>Where Dancefloors Stand Still</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/KU5DDFCwfpgq3WMpmeDb-oWda7gFmh2q5nilJwDzs0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzMx/MDUtMTM5MzIzNzk1/Mi03NzMzLmpwZWc.jpeg" alt="Cover for Smokey Reasonable Grooves" style="max-width:120px; height:auto;" />
       </td>
@@ -1642,36 +1617,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/KU5DDFCwfpgq3WMpmeDb-oWda7gFmh2q5nilJwDzs0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzMx/MDUtMTM5MzIzNzk1/Mi03NzMzLmpwZWc.jpeg" alt="Cover for Laracid Experience" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-04-19</td>
-      <td>A Flipping Budjunky</td>
-      <td>Laracid Experience</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 66</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>48</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/6jFFqvewhRHpuE1KjdxZbvQkASpjKTW-CK8RiB9xOOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjQx/MDQtMTM5NzQ4Mzc2/OS00NDUzLmpwZWc.jpeg" alt="Cover for Maybeso" style="max-width:120px; height:auto;" />
       </td>
@@ -1700,7 +1646,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 5</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 6</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 32</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 40</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 52</li>
@@ -1709,9 +1655,9 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>93</td>
       <td>
-          <img src="https://i.discogs.com/MYQC4wkwXIchhkNy6V_yYxj-FK2buudQNOTvIqv3vG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDA0/NzUtMTU1MzQzMDU3/NS01MDQ1LmpwZWc.jpeg" alt="Cover for While (1&lt;2)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25a4086a60844a98ca348c68622f9223.png" alt="Cover for While (1&lt;2)" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>deadmau5</td>
@@ -1727,7 +1673,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/0G-BI7aXeJh8rZJu8qBPdEz6PgqKhaSpY_2q1LaCqo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTg1/NzAtMTQyOTA0MDEw/Ni04NTIyLmpwZWc.jpeg" alt="Cover for Fake" style="max-width:120px; height:auto;" />
       </td>
@@ -1755,24 +1701,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>75</td>
-      <td>
-          <img src="https://i.discogs.com/CWbfIw8e_ZQIwdQ12FGYWRjT7yaMmlN0jaxgWPhB3HQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MzMx/NjQtMTQwMTk2MDAz/Mi00MjU5LmpwZWc.jpeg" alt="Cover for Amygdala (Remixes, Pt. 1)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014-03-28</td>
-      <td>DJ Koze</td>
-      <td>Amygdala (Remixes, Pt. 1)</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/3JdQhmyRFzeSg6JfdB-Slx9ZMTNysyQCte-eT6QEwhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MzA2/MDUtMTQwMzg5MDQ0/NC00MDA3LmpwZWc.jpeg" alt="Cover for OVO EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1804,7 +1733,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/6WV1tmBQBDFyGHsqnOsFQ1TRutnhBVHR879ctGxIJh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDU5/MzMtMTQ3MTE5NTQz/MS0yMzA3LmpwZWc.jpeg" alt="Cover for fabric 82: Art Department" style="max-width:120px; height:auto;" />
       </td>
@@ -1838,7 +1767,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 4</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 5</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 24</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 33</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 43</li>
@@ -1870,17 +1799,16 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/7hUMLLmBHEvoTCDE3kHLUC5s-nPLtQcPhCKQE0hc4YU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTk2/ODcxLTE1NDk3NTY0/MzMtNDUzMC5qcGVn.jpeg" alt="Cover for my alter ego..." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35d9fb7cab654a5bb68f562a1559dcf9.png" alt="Cover for &amp;" style="max-width:120px; height:auto;" />
       </td>
-      <td>2016</td>
-      <td>7DD9</td>
-      <td>my alter ego...</td>
+      <td>2016-10-28</td>
+      <td>Michael Mayer</td>
+      <td>&amp;</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
         </ul>
       </td>
       <td>
@@ -1889,34 +1817,27 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>90</td>
       <td>
-          <img src="https://i.discogs.com/I8-UVDY5r3nu_fy2_np3W9sLhwsFLLDt6KLKGkUajuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU0/ODU1LTE1Mzk0MzM4/NzEtNjM0Mi5qcGVn.jpeg" alt="Cover for Anima Mundi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecf7efcf6332b0aa1f676399a32c60cc.png" alt="Cover for W:&#x2F;2016ALBUM&#x2F;" style="max-width:120px; height:auto;" />
       </td>
-      <td>2017-02-03</td>
-      <td>Vril</td>
-      <td>Anima Mundi</td>
+      <td>2017-02-16</td>
+      <td>deadmau5</td>
+      <td>W:&#x2F;2016ALBUM&#x2F;</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 74</li>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 93</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/OLIGN3xDL7mfBc6HdSfr-0_cudYuct69HZrteooZTWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQw/ODc4LTE1NjIzMzM0/MjUtNzIxNS5qcGVn.jpeg" alt="Cover for Metronomes for Pulsars (Monstergetdown Remix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91a505996676623caed2eedd99b70223.png" alt="Cover for Metronomes for Pulsars (Monstergetdown Remix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-28</td>
       <td>No Mana</td>
@@ -1932,40 +1853,15 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/mw5BJlKiZ26uD0P5ygU8pCfoRb89yMsN1mJ7NwD-6Eg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDUx/MzYwLTE1MDg5NDE4/NDAtMjY2MC5qcGVn.jpeg" alt="Cover for Broken Mirror" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-10-25</td>
-      <td>Sebastian Mullaert</td>
-      <td>Broken Mirror</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 26</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
-      <td>
-          <img src="https://i.discogs.com/qZUblDS3h6bfPXcnaA77uXyu5NrsJBkcqdq2qKa4Y3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU1/MDQ4LTE1MTA4Njkx/MTgtMjEyMS5qcGVn.jpeg" alt="Cover for Остров свободы" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72575dd36052d953575e049e7b406393.png" alt="Cover for Остров свободы" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-17</td>
       <td>Луна</td>
       <td>Остров свободы</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
         </ul>
       </td>
       <td>
@@ -1974,31 +1870,26 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>31</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7a5fef8230562927043fc82be225167.png" alt="Cover for Island Time" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7575236c51c87fd7c3ac0be3823e6c49.png" alt="Cover for Creature" style="max-width:120px; height:auto;" />
       </td>
-      <td>2018-04</td>
-      <td>LoSoul</td>
-      <td>Island Time</td>
+      <td>2018-03-23</td>
+      <td>Monstergetdown</td>
+      <td>Creature</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/UhApFRP2b8HiaaSntUL0-hzi82lLlekmsyWBPYsCnYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDY0/MzQwLTE1NDc0MDk1/MTgtOTE5OC5qcGVn.jpeg" alt="Cover for blakmajik" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c83cd7c71c3f31c398acf79e91be9a1e.png" alt="Cover for blakmajik" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-04</td>
       <td>Monstergetdown</td>
@@ -2014,16 +1905,16 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/GxEJ267bp19gJIk2pnHyKeraPxAAmOzsxlJfgnEB7aI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg1/NTExLTE1Njk0NTg2/MTEtMzg0NS5qcGVn.jpeg" alt="Cover for Skin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e67b5f3e2487c515dc960a8b5aa2eba.png" alt="Cover for Skin" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-30</td>
       <td>Electrocado</td>
       <td>Skin</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
         </ul>
       </td>
       <td>
@@ -2032,9 +1923,9 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/RMKlFU5QSvWT5x2Y9tOcegYvUy8SHEniHibyAQo9HQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM5/NzY4LTE1NzA1MTUx/OTUtNTkwMi5qcGVn.jpeg" alt="Cover for Транс" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/187ec4a9406413d2eb927d8b7bdf664e.png" alt="Cover for Транс" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-04</td>
       <td>Луна</td>
@@ -2042,7 +1933,6 @@ Minimal house strips electronic dance music down to its essential elements, emph
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
         </ul>
       </td>
       <td>
@@ -2051,16 +1941,15 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/M33iQtvmX6Mv73uWZISi-3-74zRYYMvKRILLl2gIGvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgx/MTY2LTE2OTcyMTI3/ODEtNTM3OC5qcGVn.jpeg" alt="Cover for Murmurs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff5ae8d209bd510aa32c19cac42252f8.png" alt="Cover for Murmurs" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-25</td>
       <td>Mord Fustang</td>
       <td>Murmurs</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
         </ul>
       </td>
       <td>
@@ -2069,29 +1958,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>68</td>
-      <td>
-          <img src="https://i.discogs.com/6j66cDgDJdkAJU6xUJvdpqC4eq5skWfIi1kVXHco80E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDcw/NDk0LTE2MjMxOTUz/MDYtOTgyMS5qcGVn.jpeg" alt="Cover for Space Techno" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-11-29</td>
-      <td>Flug 8</td>
-      <td>Space Techno</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 60</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/l04-gxGp9nRKU6l08g61cavOfCkHNijU5R75C3lgOwQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTE5/MTE1LTE1ODQwODkx/ODEtNjQ5OS5qcGVn.jpeg" alt="Cover for Genex 2" style="max-width:120px; height:auto;" />
       </td>
@@ -2112,38 +1979,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>
-          <img src="https://i.discogs.com/A-EaUT0CvZ17uvCZM_-8LDkDrOJA9rmOAG4wY4A9q4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDgx/NzY0LTE1ODY0NTA3/MTEtMTI4NS5qcGVn.jpeg" alt="Cover for Mixotic 109 - Klartraum - Live In Berlin" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-03-30</td>
-      <td>Klartraum</td>
-      <td>Mixotic 109 - Klartraum - Live In Berlin</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-set" | relative_url }}">live set</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/live-set" | relative_url }}">live set</a> # 65</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
+      <td>94</td>
       <td>
       </td>
       <td>2023</td>
@@ -2160,7 +1996,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -2190,7 +2026,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>
@@ -2207,14 +2043,15 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 30</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 31</li>
             <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b9826374b704ed4a5c0725226cfe651.png" alt="Cover for wax" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>oozee</td>
@@ -2243,69 +2080,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>
-      </td>
-      <td></td>
-      <td>#Raccune</td>
-      <td>International View</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>
-      </td>
-      <td></td>
-      <td>digihouse</td>
-      <td>DarkSoundsInMyHeadz</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Rlplyr</td>
-      <td>Shit &amp; Bass (adt011)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -2327,17 +2102,51 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/759dbf01145f4097b9e5666691e5df13.png" alt="Cover for U &amp; I &#x2F; The Jam" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Enhues</td>
-      <td>On Top Of The Roof</td>
+      <td>Prosumer &amp; Murat Tepeli</td>
+      <td>U &amp; I &#x2F; The Jam</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c2a7989ad664acdb1e631249b504cd2.png" alt="Cover for Serenity" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Prosumer &amp; Murat Tepeli</td>
+      <td>Serenity</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/568e3202ee1a49be964b7fa259155e05.png" alt="Cover for Fabric 11 : Swayzak" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Various Artists</td>
+      <td>Fabric 11 : Swayzak</td>
+      <td>
+        <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
         </ul>
       </td>
@@ -2363,6 +2172,57 @@ Minimal house strips electronic dance music down to its essential elements, emph
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87309fe431cf4ce9a2f943fd1d993d5a.png" alt="Cover for A Thousand Nights Part 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Gregor Tresher</td>
+      <td>A Thousand Nights Part 3</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f260c1c0e44f9ec4f989b9b49f36ba7.png" alt="Cover for GPMLP002 - Memento" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Booka Shade</td>
+      <td>GPMLP002 - Memento</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/264e26c9d2c98e5b34b41a85dd55ec54.png" alt="Cover for It!" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Coco Steel &amp; Lovebomb</td>
+      <td>It!</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -2375,6 +2235,6 @@ Minimal house strips electronic dance music down to its essential elements, emph
 - [electronica]({{ "/tags/electronica" | relative_url }})
 - [dance]({{ "/tags/dance" | relative_url }})
 - [electro]({{ "/tags/electro" | relative_url }})
-- [dub]({{ "/tags/dub" | relative_url }})
 - [trance]({{ "/tags/trance" | relative_url }})
 - [rave]({{ "/tags/rave" | relative_url }})
+- [dub]({{ "/tags/dub" | relative_url }})
