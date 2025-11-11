@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-07T18:52:04.953Z
+date: 2025-11-11T04:24:43.326Z
 permalink: tags/italian-opera
 title: italian opera
 ---
 
 ## italian opera
 
-Last updated: <time datetime="2025-11-07T18:52:04.953Z">Fri Nov 07 2025 20:52:04 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T04:24:43.326Z">Tue Nov 11 2025 06:24:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -341,23 +341,6 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td>1971</td>
-      <td>Birgit Nilsson</td>
-      <td>Puccini:Turandot</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>73</td>
       <td>
           <img src="https://i.discogs.com/b9oSTuquttx9tXCBUWoNcr_mlmWd48Kf19_wf8VTEww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTkx/ODEtMTY3Njc0OTk2/NS02Nzg2LmpwZWc.jpeg" alt="Cover for VERDI: Aida (Caniglia, Gigli) (1946)" style="max-width:120px; height:auto;" />
@@ -657,23 +640,6 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>
-      </td>
-      <td>1985</td>
-      <td>Renata Scotto</td>
-      <td>Bellini-Zaira</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>30</td>
       <td>
           <img src="https://i.discogs.com/vAfQq4s60pNbM55BbD-PRRaaWDKOQwNuxrnYhHTW3MI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjkz/MTg3LTE1NTM0MjMx/NDEtOTcxNy5qcGVn.jpeg" alt="Cover for Plácido Domingo - The Opera Collection" style="max-width:120px; height:auto;" />
@@ -865,6 +831,23 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>Arturo Toscanini</td>
+      <td>Verdi:Otello</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>17</td>
       <td>
           <img src="https://i.discogs.com/Lo74nCambUOMBRE4HrsNqTkJTkU0wQswADDsF0HU2eE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjE0/ODczLTE2Mzg1NTM1/MjMtNDM4Mi5qcGVn.jpeg" alt="Cover for Puccini: Le Villi" style="max-width:120px; height:auto;" />
@@ -975,7 +958,7 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>5</td>
       <td>
       </td>
       <td>1995</td>
@@ -1041,6 +1024,22 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Orchestra Internazionale d&#39;Italia, Coro da Camera di Bratislava, Giuliano Carella</td>
+      <td>Verdi: Ernani</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -1558,29 +1557,12 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
-      <td>Orchestra e Coro del Teatro Regio di Torino</td>
-      <td>Verdi: I Due Foscari</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Orchestra &amp; Coro della RTSI</td>
-      <td>Rossini: La Gazzetta</td>
+      <td>Orchestra e Coro dell&#39; E.A.R.  Teatro Bellini</td>
+      <td>Bellini: Adelson &amp; Salvini</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
@@ -1596,8 +1578,8 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
       </td>
       <td></td>
-      <td>Orchestra e Coro dell&#39; E.A.R.  Teatro Bellini</td>
-      <td>Bellini: Adelson &amp; Salvini</td>
+      <td>Orchestra &amp; Coro della RTSI</td>
+      <td>Rossini: La Gazzetta</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
@@ -1734,12 +1716,28 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Orchestra &amp; Coro del Teatro La Fenice di Venezia, Jan Latham Koenig, Lucia Mazzaria, Jonathan Summers, Martha Senn, Mario Malagnini, Bruno Praticò, Silvano Pagliuca , Pietro Spagnoli, Romano Emili, Giampaolo Grazioli, Cinzia De Mola</td>
+      <td>La Bohème</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>4</td>
       <td>
       </td>
       <td></td>
-      <td>Ferdinando Fontana</td>
-      <td>Puccini, G.: Villi (Le) [Opera]</td>
+      <td>Young Ok Shin, Gregory Kunde, Aurio Tomicich, Haijing Fu, Armando Caforio, Sonia Nigoghossian, Walter Coppola, Emily Manhart, Orchestra del Teatro Massimo Bellini Di Catania, Coro del Teatro Massimo Bellini Di Catania, Marcello Seminara, Andrea Licata</td>
+      <td>Bellini: Bianca &amp; Fernando</td>
       <td>
         <ul>
         </ul>

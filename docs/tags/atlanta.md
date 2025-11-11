@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T21:28:27.590Z
+date: 2025-11-11T04:19:15.623Z
 permalink: tags/atlanta
 title: atlanta
 ---
 
 ## atlanta
 
-Last updated: <time datetime="2025-11-03T21:28:27.590Z">Mon Nov 03 2025 23:28:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T04:19:15.623Z">Tue Nov 11 2025 06:19:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -153,7 +153,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/uywibWFFuSBSMN8uz-5Z5SEMH0fkOLLF-ZiTlqTEfxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTg4/MzAtMTQyNDAzMzY2/My04NDE2LmpwZWc.jpeg" alt="Cover for More Than I" style="max-width:120px; height:auto;" />
       </td>
@@ -173,7 +173,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/h2jxI8Ac5yHf0GzERDksFVQFj0lKR8tHk_KxFq8cECc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDEy/NjktMTIwMzExMjM2/NS5qcGVn.jpeg" alt="Cover for Every Dog Has Its Day" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7ac03f4187a5677cb2f9015faa42472.png" alt="Cover for Every Dog Has Its Day" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Germ</td>
@@ -192,12 +192,12 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       <td>
         <ul>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 15</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 64</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td>1995</td>
@@ -257,7 +257,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/T1CeRKJyPOY5-oSU06BJqf8firUU_lLJWFK8jf9Qw4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTY2/ODMtMTI2MTM0MDIw/Ny5qcGVn.jpeg" alt="Cover for Anorak Twat" style="max-width:120px; height:auto;" />
       </td>
@@ -427,7 +427,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/q1D078Rxhzn7Gt8gObBIxTvrzg8htFE5F8TvuDrD7wo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Mjkw/NjQtMTY2MzE4ODMz/My0yODIxLmpwZWc.jpeg" alt="Cover for That&#39;s Right" style="max-width:120px; height:auto;" />
       </td>
@@ -584,7 +584,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/xEDNCb4teBZkbChPYLDa7PhAbSXR2qBi9taHZZ2FF68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODg3/NC0xMTYxOTg5Njk4/LmpwZWc.jpeg" alt="Cover for Let It Ride" style="max-width:120px; height:auto;" />
       </td>
@@ -605,7 +605,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/wIrB2glMhkuAbQj6FmCV60HnkFD0F9_iq_FEDRwXUjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzU5/NzQtMTQ1OTYxMDMw/MS01Nzg0LmpwZWc.jpeg" alt="Cover for Roach Spray" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/884c6f4e70a8463e8e99317c75fecf34.png" alt="Cover for Roach Spray" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>King David</td>
@@ -625,6 +625,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e158db4c0e51f046aa68f753ae369c00.png" alt="Cover for Back For The First Time" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-10-17</td>
       <td>Ludacris</td>
@@ -636,7 +637,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 59</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 61</li>
             <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 78</li>
         </ul>
       </td>
@@ -644,7 +645,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/H2bUY4mwkSHPDGNhfDWoSjXU4PTsPpiBc9xavmQWmXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDE3/LTI3MjMuanBlZw.jpeg" alt="Cover for Stankonia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28229f48f77f2c5f648055c3b6273099.png" alt="Cover for Stankonia" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-10-23</td>
       <td>OutKast</td>
@@ -657,8 +658,8 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 10</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 42</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 11</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -701,7 +702,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/j-YK-YeI9CfpC-FXGjqwKqjE6HmXqFQzKPDLDGaF-t0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDU0/MzIyLTE2MTY5NjE2/NzQtMzk3MC5qcGVn.jpeg" alt="Cover for Carried Away" style="max-width:120px; height:auto;" />
       </td>
@@ -722,7 +723,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/j-YK-YeI9CfpC-FXGjqwKqjE6HmXqFQzKPDLDGaF-t0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDU0/MzIyLTE2MTY5NjE2/NzQtMzk3MC5qcGVn.jpeg" alt="Cover for Damn Good Dawg" style="max-width:120px; height:auto;" />
       </td>
@@ -746,7 +747,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/j-YK-YeI9CfpC-FXGjqwKqjE6HmXqFQzKPDLDGaF-t0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDU0/MzIyLTE2MTY5NjE2/NzQtMzk3MC5qcGVn.jpeg" alt="Cover for Global Forecast" style="max-width:120px; height:auto;" />
       </td>
@@ -791,7 +792,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/nthL4ox9C2WB9z-gp7mlUTaxb6VF2-oVPICQ7im3GDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzE0/NjEtMTI4NjQxMDg3/OS5qcGVn.jpeg" alt="Cover for So, you want to be a bullfighter..." style="max-width:120px; height:auto;" />
       </td>
@@ -948,8 +949,8 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 16</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 25</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 17</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1013,7 +1014,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/siKMsbkSuU2lAOEYkYSz83d-GZS20N4Jo0JADZBj8qs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjQz/MTEtMTQ2MjEyMjY4/OS0xOTA5LmpwZWc.jpeg" alt="Cover for Prize-Fight-Lover-Soul-Auctioneer" style="max-width:120px; height:auto;" />
       </td>
@@ -1036,7 +1037,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/jmHSrOO_u0AGFluFAY1S2FeOZGwU_kg1kW0GvTSCnVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzkx/ODUtMTM2MzMxNzIy/Ny00NTM5LmpwZWc.jpeg" alt="Cover for Daytrotter Session - 7&#x2F;8&#x2F;2008" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2343264dcec4c9a99ed3144ac6c4873.png" alt="Cover for Daytrotter Session - 7&#x2F;8&#x2F;2008" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-08</td>
       <td>Kaki King</td>
@@ -1061,7 +1062,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/-PpAkuj6RcE4tRtlmInnmQXELGEDgw0waOWoRX-qW64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDYx/MDYtMTQ5NDk0Mjky/OS0zMDcwLmpwZWc.jpeg" alt="Cover for Eiliyas &#x2F; Neg-Fi split 7&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -1128,9 +1129,9 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/AYVsXmUoy27ccQ06Qveda5_q-l6GN5GzBZSA3TpSyAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODEz/NDctMTMyMzc3MjYy/MC5qcGVn.jpeg" alt="Cover for Untitled" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e91484d41dea5dafdc3d6bdeba460886.png" alt="Cover for Untitled" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Childish Gambino</td>
@@ -1149,6 +1150,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d8124103f7a4100c175d6a5716ae24b.png" alt="Cover for Pl3dge" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-17</td>
       <td>Killer Mike</td>
@@ -1212,7 +1214,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/MCwPHC4RNsNTi63vUNu63Lnb4p47IY5JBVrgQsDVU9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODc4/NTItMTQ3MjgyNjU3/MC0yODU2LmpwZWc.jpeg" alt="Cover for Ours, and Fairly Won" style="max-width:120px; height:auto;" />
       </td>
@@ -1231,6 +1233,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06e11357b1e14804a981ec763ba8f253.png" alt="Cover for Vicious Lies and Dangerous Rumors" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-11</td>
       <td>Big Boi</td>
@@ -1304,7 +1307,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba46ce1c88edec785ca3acd01b6b13db.png" alt="Cover for No Label II" style="max-width:120px; height:auto;" />
       </td>
@@ -1412,7 +1415,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e619946ec9c9452dc50a9816b0ca3c32.png" alt="Cover for Discreet Enemy" style="max-width:120px; height:auto;" />
       </td>
@@ -1487,28 +1490,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>100</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f230dc794738b869ac8d713a7c2f6168.png" alt="Cover for HNDRXX" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017</td>
-      <td>Future</td>
-      <td>HNDRXX</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 21</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/F07xiCZ_bGVNzZYnGukoCZTZUEPugatU-fMNAb1nCtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTQ3/NzQwLTE3MDM5NDA1/NDctMjc4NS5qcGVn.jpeg" alt="Cover for Bentley Coupe" style="max-width:120px; height:auto;" />
       </td>
@@ -1527,9 +1509,26 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>98</td>
       <td>
-          <img src="https://i.discogs.com/UUgK4t-JmWUQRzEVMYVQCiwrniAb5CPYTMhEsxUMg8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzU2/NDM5LTE2ODg5MTA4/NjktNDkxMi5qcGVn.jpeg" alt="Cover for Edgewood (41E Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f230dc794738b869ac8d713a7c2f6168.png" alt="Cover for HNDRXX" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Future</td>
+      <td>HNDRXX</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5442c0a5a7b4265caeaa4e80f7aa013.png" alt="Cover for Edgewood (41E Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Trouble</td>
@@ -1547,7 +1546,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/XKjPpQA3k5D46y7RRedCBGcxnqN_vY8hiEGrlyB_eZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MzU1/NC0xMTMxNTQ1Mjcx/LmpwZWc.jpeg" alt="Cover for Greatest Hits Vol.2" style="max-width:120px; height:auto;" />
       </td>
@@ -1568,7 +1567,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/eh4VcJ42CplYrTE0raU-JW1i1OyksEwAVwc369auDt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTI4/NzU5LTE1MjQ5Mjcx/NDQtNTA1NC5qcGVn.jpeg" alt="Cover for Greatest Hits Vol.3" style="max-width:120px; height:auto;" />
       </td>
@@ -1629,7 +1628,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/FQs4fflBbC3Fn6EVRk5AqIO__6y9MDp1Gh219qgU06A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTc2/MTAwLTE2MDEyMjAx/MTktNjcxMS5qcGVn.jpeg" alt="Cover for I&#39;m Fine" style="max-width:120px; height:auto;" />
       </td>
@@ -1649,7 +1648,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/J5EO75T98Fd7riodLm6jtJ_H6Rdca0r7nYG64fDrXDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTI4/NjAtMTM1NDI0NzA1/Ni00NDUwLmpwZWc.jpeg" alt="Cover for Richard Devine EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1706,7 +1705,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
       </td>
       <td>2022-04-14</td>
@@ -1797,6 +1796,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47dbb71297666791362565a24aa08e47.png" alt="Cover for Rich Homie Cartel Vol 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1816,7 +1816,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/Wj6JPP9ypzrs3gA4IAZIB9Wx0LprT2qOsIwojoSWqWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQy/ODI5LTE2ODgxNzc1/MjAtMTU2NS5qcGVn.jpeg" alt="Cover for SLI&#39;MERRE" style="max-width:120px; height:auto;" />
       </td>
@@ -1854,7 +1854,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1890,7 +1890,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -1928,31 +1928,13 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 22</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 38</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 23</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Fleacoo</td>
-      <td>TopShelfFleacoo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -1972,7 +1954,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1999,7 +1981,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -2019,7 +2001,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -2038,7 +2020,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -2055,7 +2037,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -2076,7 +2058,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -2095,7 +2077,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
       </td>
       <td></td>
@@ -2117,7 +2099,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
@@ -2137,7 +2119,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>
@@ -2182,6 +2164,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5ce2c224843efa945ed1b8de8d1dca8.png" alt="Cover for Do I Have To Tell You" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Theodora Hobson</td>
@@ -2221,6 +2204,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5f2662c4dadbfb9efe2636e8eaca7c0.png" alt="Cover for Red" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>pissboicarti</td>
@@ -2266,12 +2250,29 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
       <td>The Johnson Party</td>
       <td>Greenwoodstock, Frederica Hall, Atlanta, GA 6&#x2F;3&#x2F;06</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80b23c9285f83ff2abaab4a3a7fae265.png" alt="Cover for Snake Eyes" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Trouble</td>
+      <td>Snake Eyes</td>
       <td>
         <ul>
         </ul>

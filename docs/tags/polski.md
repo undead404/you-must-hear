@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T23:55:22.681Z
+date: 2025-11-11T04:21:13.299Z
 permalink: tags/polski
 title: polski
 ---
 
 ## polski
 
-Last updated: <time datetime="2025-11-03T23:55:22.681Z">Tue Nov 04 2025 01:55:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T04:21:13.299Z">Tue Nov 11 2025 06:21:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,7 +49,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/rhl3gd8qKDJ1n5a8I1Wv85sVeCaAyivtQpUMK7N_A-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTY3/MTMzLTE0OTI3ODM1/MzUtODEwNy5qcGVn.jpeg" alt="Cover for Dances of Poland: A Treasury of Harpsichord Music" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/H0uhc1fcjtCRA14KeBnadbvD2IK40nPX8Nd1xvQyOUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjA4/NzUtMTQ3MjMwNjY1/MC03MTQwLmpwZWc.jpeg" alt="Cover for GODOWSKY: Piano Sonata in E Minor" style="max-width:120px; height:auto;" />
       </td>
@@ -89,7 +89,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/H0uhc1fcjtCRA14KeBnadbvD2IK40nPX8Nd1xvQyOUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjA4/NzUtMTQ3MjMwNjY1/MC03MTQwLmpwZWc.jpeg" alt="Cover for GODOWSKY: Piano Music, Vol. 8" style="max-width:120px; height:auto;" />
       </td>
@@ -106,7 +106,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>1990</td>
@@ -125,7 +125,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/Q0EKYehU6LcBDhEB06Z6xA2OCmE6G1xzs6Al9mdPurU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzU2/ODEtMTQ3MjU4Njg0/Ny0zOTA3LmpwZWc.jpeg" alt="Cover for Prima Esplorazione" style="max-width:120px; height:auto;" />
       </td>
@@ -163,6 +163,24 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
         <ul>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 28</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f24d384a0fe0c8fdc9c756b998c5888.png" alt="Cover for ΚΕΦΑΛΗΞΘ" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992-07-10</td>
+      <td>Ministry</td>
+      <td>ΚΕΦΑΛΗΞΘ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -230,7 +248,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/ev0zt4kZLiAx1oXnMNe5O-Y6qE_NXO9QooLIYi4PrhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjEx/OTM5LTE2MzQ0MDA2/ODktNDI5My5qcGVn.jpeg" alt="Cover for Polish Piano Trios" style="max-width:120px; height:auto;" />
       </td>
@@ -296,25 +314,6 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/WTmVr0F4wooke4-kC7x6GG3oEidU7jUn0eu1InFpGg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzg2/MC0xMTExNTc4Mjc2/LmpwZw.jpeg" alt="Cover for Slides" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-02</td>
-      <td>Ch. District</td>
-      <td>Slides</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7d312b1ff144a6b877c7c887b234cf4.png" alt="Cover for Osmy Marca" style="max-width:120px; height:auto;" />
@@ -354,7 +353,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td>2006-12-23</td>
@@ -373,7 +372,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/5pyhrJrnsi97VQIen_64YRBMdnlPyP-lERmqAAFN304/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDI1/MDUtMTM4NDU0NzAz/Ni0xMTIyLmpwZWc.jpeg" alt="Cover for HARDCORE DISS" style="max-width:120px; height:auto;" />
       </td>
@@ -396,7 +395,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/pelpibvVU6Wk2fj5zJy0DooD2pcNU31y0wfw98d7GmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MzQw/NzMtMTQyOTg1NjMz/My02MjEzLmpwZWc.jpeg" alt="Cover for Halfway From Nowhere" style="max-width:120px; height:auto;" />
       </td>
@@ -419,7 +418,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td>2007-12-06</td>
@@ -458,7 +457,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
       </td>
       <td>2008-11-17</td>
@@ -476,7 +475,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
       </td>
       <td>2009-11-27</td>
@@ -526,7 +525,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/kzhJYS5d7s9V4Wp8KEkRB_izw_5cWht8PN42SuBguKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjM3/ODgtMTI4ODcyOTQ2/Ni5qcGVn.jpeg" alt="Cover for Dowód Rzeczowy Nr 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/002485c479a6e4ba2dda15c9f4cd8921.png" alt="Cover for Dowód Rzeczowy Nr 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-03</td>
       <td>Pih</td>
@@ -582,7 +581,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/MQf0Bovo12nW7e5DNt-2_2YrTe-4IZr5UpEnFFvYdOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzUw/MDItMTM1NjQ2NjUx/Ny0yNDM1LmpwZWc.jpeg" alt="Cover for Czas Przychodzi Sam" style="max-width:120px; height:auto;" />
       </td>
@@ -608,7 +607,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/RJC9IkmTH2KVThxOLvLcoOQEA-VKe08Wvv5PfR1yiKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDI1/NDYtMTM1ODQyOTY3/Mi05MzcwLmpwZWc.jpeg" alt="Cover for AWKWARD ACHES EP" style="max-width:120px; height:auto;" />
       </td>
@@ -668,7 +667,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/1N4sCPFUAzC6WabsWvSfDC7cK3uayp6NvFqnJHB40Mk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODI2/MDItMTQxODQ3MDIx/OS0yNjU3LmpwZWc.jpeg" alt="Cover for Stygian Concrete Works" style="max-width:120px; height:auto;" />
       </td>
@@ -689,7 +688,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/kr8tleZvQiNfKjrDEHX-qHtsAr7FmHz3okl3ftYwouo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzI5/NDU0LTE2NzgxNDI1/ODEtNDQ4Ni5qcGVn.jpeg" alt="Cover for xxxxx​.​.​.​." style="max-width:120px; height:auto;" />
       </td>
@@ -710,7 +709,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/zWkBxMlpNVKPTKWY9yKXn4mWCC1LvKvPcboF3ulONwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTY2/NzEtMTUxOTA0NDM1/My0xNTg3LmpwZWc.jpeg" alt="Cover for BLACK MARKET GOODS" style="max-width:120px; height:auto;" />
       </td>
@@ -774,7 +773,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/wzFNk-5ztXHjxEYvFphpndnYsq9JaJ7sPQeUEaGSHos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTk4/NzAtMTM2MTExNTM2/My0xODM3LmpwZWc.jpeg" alt="Cover for Nie Tylko Kasa..." style="max-width:120px; height:auto;" />
       </td>
@@ -794,7 +793,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/yaNJGTCD70kkGzcum29bWCAxHa0nnlfnDvC77-b1DiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTE4/MjAtMTQ3MjkwMDky/MS00NDc4LmpwZWc.jpeg" alt="Cover for Odio y Desprecio" style="max-width:120px; height:auto;" />
       </td>
@@ -851,7 +850,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/b0GPdJDByeoU5guIXGaWVw2o-3gwdmnzBUjbK5l7Plw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDAw/MTM5LTE1NDYxOTI2/NTktNzAwMi5qcGVn.jpeg" alt="Cover for Zwiastun" style="max-width:120px; height:auto;" />
       </td>
@@ -892,7 +891,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
       </td>
       <td>2018-07-09</td>
@@ -911,7 +910,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/-Afwpp-T17V2GkapxXZ4DUkLMe4qi-v4oON-AJ91eXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjI5/MjY0LTE2Mzg2NDcx/MzctNzAzOS5qcGVn.jpeg" alt="Cover for Verbum Nobile" style="max-width:120px; height:auto;" />
       </td>
@@ -968,7 +967,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/rwJZPvJYID_3RjUyaN345Jar646a8osZkajGXYb_6YU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk2/MTQyLTE1NjEzMTM4/MDAtNTc0My5qcGVn.jpeg" alt="Cover for Dumpster Diving Know-How" style="max-width:120px; height:auto;" />
       </td>
@@ -989,7 +988,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/UUq7TU17iCRwh9D4ybQbiETe42JYROQQ7deGRiL1MSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTgy/OTIwLTE2NTg2NjA5/MTktMjkyMi5qcGVn.jpeg" alt="Cover for Organic Compounds" style="max-width:120px; height:auto;" />
       </td>
@@ -1010,7 +1009,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/ZQk37L2rys7Js4qj8-JxHvNEwAPqe05nw7YEmTdzS6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkx/NzQ1LTE2OTA0MTIw/OTMtNzcwNy5qcGVn.jpeg" alt="Cover for Infatuation" style="max-width:120px; height:auto;" />
       </td>
@@ -1029,7 +1028,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/rIY-dQBfN_VMLBx31ySC0hczN5jzc1n6PkOrwliyOhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjMx/ODM5LTE2ODA0NzA1/MjUtNTU2Mi5qcGVn.jpeg" alt="Cover for Strafbare Activiteiten" style="max-width:120px; height:auto;" />
       </td>
@@ -1048,7 +1047,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/C37vRcejHRtzU7B6zeyTJMHJfHqALsNBoG6RS0zn1tQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg3/Mjc4LTE2NzM1NDM4/NDEtMzYyNi5qcGVn.jpeg" alt="Cover for Acid Works" style="max-width:120px; height:auto;" />
       </td>
@@ -1101,7 +1100,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
       </td>
       <td>2023-03-09</td>
@@ -1120,7 +1119,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
       </td>
       <td>2023-05-05</td>
@@ -1139,7 +1138,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/gFcSjoX9zpNfaiFgsvCL6le5WzdX4MCt0_qY_0EKlNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODY4/MDI5LTE2ODIzNTEx/MzQtMTUzOS5qcGVn.jpeg" alt="Cover for Are You Ready?" style="max-width:120px; height:auto;" />
       </td>
@@ -1159,7 +1158,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
       </td>
       <td>2023-05-12</td>
@@ -1178,7 +1177,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/bYWEKv2hhE-VF0Bz7H7LGkLEPg4PpJe2AvFhQdzxw9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzQz/NTkzLTE2ODY0MDc3/NDctNzkwOC5wbmc.jpeg" alt="Cover for Mas Appeal" style="max-width:120px; height:auto;" />
       </td>
@@ -1198,7 +1197,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/N0KBLeIns-v1y6pnvY8F8ZoB0aKSlJp229rrdpYC_ro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjQ2/MTU1LTE2ODkwOTI4/NDUtNjAzMC5qcGVn.jpeg" alt="Cover for Medicinal Madness" style="max-width:120px; height:auto;" />
       </td>
@@ -1218,7 +1217,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/ds2X6twSG8VFmnpDzMcHqPXOGb2m5ik0gpqmQCnC3t8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTAx/MTMwLTE2OTMyMjQ5/MzEtNzk4NC5qcGVn.jpeg" alt="Cover for Fingers Crawl" style="max-width:120px; height:auto;" />
       </td>
@@ -1238,7 +1237,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/sbfw1QCbOm5kRIISqdJ7QCZTwFc8_foaTRd1aQGh9lQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTQ4/NTkwLTE2OTM2NTEx/NTAtNjgzOS5qcGVn.jpeg" alt="Cover for Not As We Know" style="max-width:120px; height:auto;" />
       </td>
@@ -1258,7 +1257,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/vdlbLJxB5PGOA6BD0hsGIFboX9Q-xoJ9-4PwLZgIXIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzUz/MjU2LTE2OTUzMTcx/ODEtMjgyNy5qcGVn.jpeg" alt="Cover for New Horizon" style="max-width:120px; height:auto;" />
       </td>
@@ -1278,7 +1277,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/RVQdpTPPOKGZ_MCvekp2VpGffhyPsccyTSKUVvx8wgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDE3/MDA5LTE2OTU4NDA3/MDQtMzU0My5qcGVn.jpeg" alt="Cover for Take Off" style="max-width:120px; height:auto;" />
       </td>
@@ -1298,7 +1297,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/JSOPszoJtQ-l9RwZ7rkJghR3re4qSVT3P5d6YIIv2cE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTM0/ODY0LTE2OTY3ODA2/MTMtNDk3MC5qcGVn.jpeg" alt="Cover for Step To the Beat" style="max-width:120px; height:auto;" />
       </td>
@@ -1318,7 +1317,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/7gW3_c9pIymUM4nLiCFNACJEZ83uvSp7xzJouJKg8HE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQ4/ODA0LTE2OTc4MDM0/ODQtNDg0NC5qcGVn.jpeg" alt="Cover for 3am" style="max-width:120px; height:auto;" />
       </td>
@@ -1338,7 +1337,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/kBJcU2sloxAYTTQ3I8rivbOQsTnAmHOBCtaWEqhYql4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzI2/OTk5LTE2OTg0OTEz/NTgtODAyNC5qcGVn.jpeg" alt="Cover for Bilateral Tones" style="max-width:120px; height:auto;" />
       </td>
@@ -1358,7 +1357,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/0voA2BfuJF_lm_hi2pu6NK3vlUxLZssRkRgb-SIsJUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mjgy/NjY4LTE3MDMzMDMz/MDMtNTIzMC5qcGVn.jpeg" alt="Cover for Raindrops" style="max-width:120px; height:auto;" />
       </td>
@@ -1378,7 +1377,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/KNfs_2YWM9XB0n-0aXn8ICYNbEfkTmNGBeq-M04uKUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzU0/OTk1LTE3MDQwMTEz/MDktMjQ5OC5qcGVn.jpeg" alt="Cover for Move Your Feet" style="max-width:120px; height:auto;" />
       </td>
@@ -1398,7 +1397,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
       </td>
       <td>2024-02-02</td>
@@ -1417,7 +1416,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
       </td>
       <td>2024-02-14</td>
@@ -1436,7 +1435,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
       </td>
       <td>2024-03-06</td>
@@ -1455,7 +1454,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
       </td>
       <td>2024-03-27</td>
@@ -1474,7 +1473,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td>2024-03-29</td>
@@ -1493,7 +1492,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
       </td>
       <td>2024-04-05</td>
@@ -1512,7 +1511,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
       </td>
       <td>2024-04-12</td>
@@ -1531,7 +1530,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
       </td>
       <td>2024-05-03</td>
@@ -1550,7 +1549,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td>2024-05-08</td>
@@ -1569,7 +1568,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
       </td>
       <td>2024-05-10</td>
@@ -1588,7 +1587,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td>2024-05-31</td>
@@ -1607,7 +1606,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
       </td>
       <td>2024-06-28</td>
@@ -1626,7 +1625,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td>2024-07-05</td>
@@ -1645,7 +1644,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
       </td>
       <td>2024-07-10</td>
@@ -1664,7 +1663,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td>2024-08-09</td>
@@ -1683,7 +1682,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td>2024-08-14</td>
@@ -1702,7 +1701,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td>2024-08-23</td>
@@ -1721,7 +1720,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td>2024-09-06</td>
@@ -1740,7 +1739,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
       </td>
       <td>2024-09-25</td>
@@ -1759,7 +1758,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td>2024-09-27</td>
@@ -1778,7 +1777,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
       </td>
       <td>2024-10-10</td>
@@ -1797,7 +1796,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
       </td>
       <td>2024-11-22</td>
@@ -1816,7 +1815,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
       </td>
       <td>2024-11-29</td>
@@ -1835,7 +1834,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
       </td>
       <td>2024-12-06</td>
@@ -1937,7 +1936,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 20</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 19</li>
             <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 36</li>
             <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 65</li>
         </ul>
@@ -1966,7 +1965,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1983,7 +1982,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -2002,8 +2001,9 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ada9c5f9e7b4efea41c236e61929fb4.png" alt="Cover for Z dedykacją dla foruma" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Grandtheftautowiec</td>
@@ -2065,7 +2065,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
       </td>
       <td></td>
