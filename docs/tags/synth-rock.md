@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T16:08:15.876Z
+date: 2025-11-11T03:59:31.188Z
 permalink: tags/synth-rock
 title: synth rock
 ---
 
 ## synth rock
 
-Last updated: <time datetime="2025-10-28T16:08:15.876Z">Tue Oct 28 2025 18:08:15 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T03:59:31.188Z">Tue Nov 11 2025 05:59:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40eaa96d6f7ea460b0752338c337eacb.png" alt="Cover for Plasteroid" style="max-width:120px; height:auto;" />
       </td>
       <td>1979</td>
       <td>Rockets</td>
@@ -56,7 +57,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/oULykOEHk_C4XG7CUeNcIxyLCl1ndGvmd0k-4smvtIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQ1/NC0xNDY4NTkxNTI1/LTkxMjYuanBlZw.jpeg" alt="Cover for Deeper Zone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4c6fb67a38bdc6c41db99cd20aabb9b.png" alt="Cover for Deeper Zone" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Space</td>
@@ -85,6 +86,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37836bc6253f7fa15ca08a6bc4a4d0f3.png" alt="Cover for Disco Alliance" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Zodiac</td>
@@ -117,6 +119,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/371f81b118f153cea26deadb0af51a0b.png" alt="Cover for Music in the Universe" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Zodiac</td>
@@ -147,6 +150,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7221cbc689224c5dcc83a3387122828e.png" alt="Cover for Atomic" style="max-width:120px; height:auto;" />
       </td>
       <td>1982-09-15</td>
       <td>Rockets</td>
@@ -182,13 +186,13 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 14</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 62</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 15</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/vR0tvNQSvMk4hSIDpdBhTuigKg_XskyOjH1JkFpHwJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1ODE1/NjctMTQ4ODczNzcx/OC04ODQ1LmpwZWc.jpeg" alt="Cover for antenna vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -248,7 +252,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cec4ab60830d4ac3ca52a884af59e028.png" alt="Cover for Dangerous Games" style="max-width:120px; height:auto;" />
       </td>
@@ -258,9 +262,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
         </ul>
       </td>
       <td>
@@ -290,9 +292,9 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/inu0sDMEuIwQnYg4yRHt08w2nvuEFSLuCpQCAUVJeKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODc4/Ny0xMjk0MzUxNjkz/LmpwZWc.jpeg" alt="Cover for Time Machine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/587fa10a12cc17e0fc1b84f7d6e021d8.png" alt="Cover for Time Machine" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Silicon Dream</td>
@@ -319,7 +321,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/ydbPL50m5Ear6xVd9bqY3j0iUjvnFC9jTwq83DST4dM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI1/NDMtMTY3MzgyMDA5/NC05NjE1LmpwZWc.jpeg" alt="Cover for First Love: Last Rites" style="max-width:120px; height:auto;" />
       </td>
@@ -339,7 +341,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>1989</td>
@@ -375,9 +377,9 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/dfReYprm-Lh2VUNKUSRNhSTGtbqDrPuAMMXrr3PE7Wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjIy/NjQtMTM3NDkxMjE1/OS0xNDcwLmpwZWc.jpeg" alt="Cover for Позорная Звезда" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5192cd4a8361c4f5cda6b24ac1762acf.png" alt="Cover for Позорная Звезда" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Агата Кристи</td>
@@ -391,12 +393,12 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 28</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 31</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/BvKau9R2qNocd0AlhbGw3ZgFcQpyc1yEnWgR1pYOoHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDkw/OTk0LTE2MTM3NTEw/OTQtNTk0OS5qcGVn.jpeg" alt="Cover for Eugene" style="max-width:120px; height:auto;" />
       </td>
@@ -435,9 +437,9 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/wFN-pRmHlueGmhint0U2kXV_VrVn42s_XYbw4R_QI8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDI4/ODYtMTM2MTMzMzE3/MS03MTA1LmpwZWc.jpeg" alt="Cover for Back To Woad" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80544e966f1347aebda0253e28ef9dac.png" alt="Cover for Back To Woad" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Rockets</td>
@@ -460,7 +462,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/SluwnBfjuVBgWjdtczf53RcAZzMMhzAvuQw7p7D9hig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY5/MDctMTI4MjI5NDE3/MC5qcGVn.jpeg" alt="Cover for Discipline EP" style="max-width:120px; height:auto;" />
       </td>
@@ -492,7 +494,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/IkOpdSngzCZZmu1TMeUaQ1D3nAKtEUtwUkj7K_68b4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njcx/OTItMTIzNjY5MTQ5/MS5qcGVn.jpeg" alt="Cover for Sinus" style="max-width:120px; height:auto;" />
       </td>
@@ -558,7 +560,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de224b14afca86b7f21a40a46da58854.png" alt="Cover for Perversion" style="max-width:120px; height:auto;" />
       </td>
@@ -576,26 +578,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-          <img src="https://i.discogs.com/cgG-66Ixedii8FVtOccu5pOIl7pU2S-nsICxhYBdej8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTYy/Mi0xNDEwMjE1MzA1/LTkzNjQuanBlZw.jpeg" alt="Cover for Host" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999-04-28</td>
-      <td>Paradise Lost</td>
-      <td>Host</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 28</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/184fb59b18664121c11939b81c25d865.png" alt="Cover for Believe in Nothing" style="max-width:120px; height:auto;" />
       </td>
@@ -632,7 +615,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/116c11434a234be0bda05a09b5c75242.png" alt="Cover for Go Out Dancing" style="max-width:120px; height:auto;" />
       </td>
@@ -641,14 +624,10 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       <td>Go Out Dancing</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
         </ul>
       </td>
       <td>
@@ -658,7 +637,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/rMiAYIz-KaWiQ1hHCug4cbTMAsUABO0wN1ICeaQOAew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjY5/MDM0LTE1MDIwNTI3/NzktMTY4Ny5qcGVn.jpeg" alt="Cover for On Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -683,7 +662,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2002</td>
@@ -701,7 +680,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ace22240081446dea0efbd5aa0913bb5.png" alt="Cover for Tabamata Ime" style="max-width:120px; height:auto;" />
       </td>
@@ -766,9 +745,9 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/btgdiibMfGYWqv3T0ORtR6ow75n2bAHB7pCXPWhvA5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjIz/Mi0xNDU4MDI5MzMx/LTgzNjAuanBlZw.jpeg" alt="Cover for Violet" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bedeb16d5794dc8cdd2c2fcaa388526.png" alt="Cover for Violet" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-07</td>
       <td>The Birthday Massacre</td>
@@ -780,7 +759,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 84</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -801,7 +780,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 67</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 68</li>
             <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 96</li>
         </ul>
       </td>
@@ -821,7 +800,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 49</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -863,7 +842,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>2005-11-07</td>
@@ -880,7 +859,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/dtGUhy0QaZAj7RuFKGUu3v23oUDYd5GIqmVxW6aWKw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjM1/OS0xMjI4MjcxNTk0/LmdpZg.jpeg" alt="Cover for Self Titled" style="max-width:120px; height:auto;" />
       </td>
@@ -900,7 +879,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/wBYZOUm6L83tx4llgRmxkAGGh7TWHuGl7cyvfESNg5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjA4/NjktMTIwMDA4NDc0/Ni5qcGVn.jpeg" alt="Cover for On Fire EP" style="max-width:120px; height:auto;" />
       </td>
@@ -922,7 +901,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2007-01-01</td>
@@ -959,7 +938,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/x8e8iWYRqHo3mzDRLod8yLnxf_v1fongCSu8LIsSu-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTQ0/MS0xMTgzOTQyOTAz/LmpwZWc.jpeg" alt="Cover for Robot L.O.V.E." style="max-width:120px; height:auto;" />
       </td>
@@ -982,7 +961,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d919e84533d4d62b4aa234f0d5a23ca.png" alt="Cover for SINFONY 23" style="max-width:120px; height:auto;" />
       </td>
@@ -996,27 +975,25 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 41</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d7e6c6ba0c345c1adac6c90eb50893a.png" alt="Cover for Walking With Strangers" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-10</td>
       <td>The Birthday Massacre</td>
       <td>Walking With Strangers</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 81</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 82</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 87</li>
         </ul>
       </td>
@@ -1024,6 +1001,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58ae7c107aae0bbde6ada8508265b56e.png" alt="Cover for New York City" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-15</td>
       <td>Emigrate</td>
@@ -1042,7 +1020,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>2007-10-19</td>
@@ -1072,8 +1050,8 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
             <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 5</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 38</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 39</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 45</li>
             <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 45</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 45</li>
             <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 48</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 66</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 74</li>
@@ -1083,6 +1061,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66c074acfd2ede3e85633b7e0eb0e0d7.png" alt="Cover for The Golden Foretaste Of Heaven" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-28</td>
       <td>Alec Empire</td>
@@ -1105,7 +1084,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
         <ul>
             <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 43</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 68</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 68</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 69</li>
             <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 87</li>
         </ul>
       </td>
@@ -1152,6 +1131,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55549f4b2c1e4aaaca922fcb38d92e0c.png" alt="Cover for Rocket Science" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-23</td>
       <td>Apoptygma Berzerk</td>
@@ -1169,7 +1149,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/UA9GYl2winZWSqI03wuQdodrZS79391S2_brSOkTQIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDcw/MzQtMTIzNDM1ODcy/My5qcGVn.jpeg" alt="Cover for Art And Accidents" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da2ca4de7ba14b639b712a4f239cb6d1.png" alt="Cover for Art And Accidents" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-09</td>
       <td>Magenta</td>
@@ -1235,7 +1215,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 35</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 34</li>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 36</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 60</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 64</li>
@@ -1281,12 +1261,12 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 50</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/iBuThgkTYIsFtBGDEpCO0YZPbrehVghx9CfW2hpU6bU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODEz/ODItMTI1ODc0Nzg1/NS5qcGVn.jpeg" alt="Cover for Watch Out EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1307,6 +1287,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3632505020107debb71299d17b0da679.png" alt="Cover for Shivers" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-01</td>
       <td>Alec Empire</td>
@@ -1319,13 +1300,13 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       <td>
         <ul>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 22</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 23</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 26</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d5ecb72fee94a6392942f1edfbf5f90.png" alt="Cover for Wildes Herz" style="max-width:120px; height:auto;" />
       </td>
@@ -1339,14 +1320,14 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 26</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/MwdcZqD6sXA8JwJCvSTUw6nd3OpYYZ1jzMcE0r8hJZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzAz/NDc2LTE1MjA5NDUw/MzQtMTIxOC5qcGVn.jpeg" alt="Cover for Host Remastered" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15d3836508b1fd3f932c2f5e2af2a540.png" alt="Cover for Host Remastered" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Paradise Lost</td>
@@ -1365,7 +1346,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/RvM3_9QgPkc7zD9bw_G_tYnQsUcuADQ72ObpW7CjpXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMx/NDEtMTI2NDcyOTc2/MS5qcGVn.jpeg" alt="Cover for Screamworks: Love in Theory and Practice, Chapters 1–13" style="max-width:120px; height:auto;" />
       </td>
@@ -1409,8 +1390,8 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       <td>
         <ul>
             <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 53</li>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 73</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 74</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 74</li>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 95</li>
         </ul>
       </td>
@@ -1436,7 +1417,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/BHjI1becDl703-ar79942-KHn8Oq7q_D4jR_hWwLvxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDgx/NTAzLTE2ODI4ODQz/OTUtODcwMy5qcGVn.jpeg" alt="Cover for Other party of time" style="max-width:120px; height:auto;" />
       </td>
@@ -1467,13 +1448,13 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
         <ul>
             <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 34</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 35</li>
-            <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 46</li>
+            <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 44</li>
             <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/74b620b9589c481db23c7e718ddd847e.png" alt="Cover for Trypt0fanatic" style="max-width:120px; height:auto;" />
       </td>
@@ -1509,7 +1490,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/p4H3PqXoOBsZR7j6o0sBL3YnA3g-WoFDFybWjrgVLLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTc0/MzQtMTMyNzYwOTA5/My5qcGVn.jpeg" alt="Cover for EP One" style="max-width:120px; height:auto;" />
       </td>
@@ -1538,7 +1519,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/TpKH6UrSPM-XBhcf25Dq2tSNifDfGs9CIQJLSn6cZY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NjU3/NzgtMTQ2ODMwNTcy/MC02ODQ4LmpwZWc.jpeg" alt="Cover for さかなの目" style="max-width:120px; height:auto;" />
       </td>
@@ -1578,7 +1559,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/lHSCXldn_UR9pIdZYkiXBs8wUZAJAVvLPJgvgRCbmdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU3/NTYzLTE1MzM2MTg3/MTctMzUwNy5qcGVn.jpeg" alt="Cover for Fake Hero" style="max-width:120px; height:auto;" />
       </td>
@@ -1634,14 +1615,14 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 42</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 60</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 50</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 62</li>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/887421fccac8457bb41cff7a02cce48b.png" alt="Cover for Avant Gardens" style="max-width:120px; height:auto;" />
       </td>
@@ -1658,7 +1639,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 80</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1681,7 +1662,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae2a43a6168a40f3960831655c708465.png" alt="Cover for Love Lust Faith + Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -1701,6 +1682,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bf9314152f640bbc0c54e812795adba.png" alt="Cover for Dark Season" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-27</td>
       <td>Cold in May</td>
@@ -1723,9 +1705,9 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/yi5ZObTmegQZ34_jwDHJ3UPgcMRimK5syQOu0uBETCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzUy/MTY3LTE0OTU4MzAy/MzMtODc0Ny5qcGVn.jpeg" alt="Cover for Heart Waves" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/025e8fd1189b4ad8a16d09763c8c8a43.png" alt="Cover for Heart Waves" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Sleep Thieves</td>
@@ -1747,7 +1729,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2014-04-15</td>
@@ -1773,7 +1755,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2014-05-13</td>
@@ -1845,6 +1827,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5cd3833a3344f0acfd7078c3d20fbc3.png" alt="Cover for Superstition" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-11</td>
       <td>The Birthday Massacre</td>
@@ -1857,12 +1840,12 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 42</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/AWJYabeCSLw1zUhX9G6u4ABfrRyCmYfJfPcSTgcf5RI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODQ1/MTgtMTQ1ODYxNzA5/MC05NTU0LmpwZWc.jpeg" alt="Cover for Haunted House - And Other Stories" style="max-width:120px; height:auto;" />
       </td>
@@ -1926,7 +1909,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/YWBP-MNQU8-SYgLlPwSrPEuB1_gSzKmqSP11JRIA2uU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzM4/MzctMTQ1MDY0MzU3/MC02OTg0LmpwZWc.jpeg" alt="Cover for Michael esta vivo" style="max-width:120px; height:auto;" />
       </td>
@@ -1961,7 +1944,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/JdyCH0xeeqhDAt6AzejptpIwOLqdf3vaMk-nI8IkLEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTEz/MjQtMTU2ODEzNTYx/MS04Nzc1LmpwZWc.jpeg" alt="Cover for Pleased To Meet You" style="max-width:120px; height:auto;" />
       </td>
@@ -1985,7 +1968,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/fNEwrFHnzgTUG1EI5UpGGHqZMkOd8jQbzZYadq-C89Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDY3/NjQtMTQ4MjQ3ODI2/My01ODg0LmpwZWc.jpeg" alt="Cover for The Legacy Collection, Vol I" style="max-width:120px; height:auto;" />
       </td>
@@ -2002,7 +1985,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/adfYLERZMFfOYxk7EyX-QiXCZWlJfKPR-9BJ_QD2PbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTc4/NTA3LTE1OTM5NDY1/NjEtNzM5MC5qcGVn.jpeg" alt="Cover for The Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -2022,9 +2005,9 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/-6t7KGKQp2SyPk9uY6v84h6vM61mMMUD9HorKK0fz3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzIz/NDkzLTE1NDA5NTEw/MTItNDM1Ni5qcGVn.jpeg" alt="Cover for Foggy Lullaby" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4ed5da6d2945f5cc6036bd20323c3af.png" alt="Cover for Foggy Lullaby" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09</td>
       <td>Arc Iris</td>
@@ -2064,7 +2047,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/cSkuh4_EYhWI6mudLlgft_TQVY4rW03zWz321KN-sbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mzc2/NjMtMTM2NzcyMTA4/My05ODA5LmpwZWc.jpeg" alt="Cover for Others" style="max-width:120px; height:auto;" />
       </td>
@@ -2107,7 +2090,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/fdFw-Dt_PqafYy6g1zorg-oLHnyz1Pqg2xGJ52m4_es/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTUw/MTY5LTE2Mjk2MTg2/NzYtNzEyNi5qcGVn.jpeg" alt="Cover for Sounds + Haptics" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b6037cf8af5ae56a10ee24f82e15dcf.png" alt="Cover for Sounds + Haptics" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>BANTAMWEIGHT</td>
@@ -2142,7 +2125,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -2170,12 +2153,12 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 18</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td></td>
@@ -2202,7 +2185,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td></td>
@@ -2278,14 +2261,14 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
         <ul>
             <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 20</li>
             <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 27</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 45</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 48</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 48</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td></td>
@@ -2318,7 +2301,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td></td>
@@ -2357,6 +2340,25 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       <td>
       </td>
       <td></td>
+      <td>おるたねーと</td>
+      <td>prima</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td></td>
       <td>Grigoriy Kolokutin</td>
       <td>Velvet</td>
       <td>
@@ -2372,8 +2374,9 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84469cbcd38947dea0caf11084fda934.png" alt="Cover for Mas Trouble Arising" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Diemonz</td>

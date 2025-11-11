@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-07T11:08:35.019Z
+date: 2025-11-11T03:59:14.582Z
 permalink: tags/westcoast
 title: westcoast
 ---
 
 ## westcoast
 
-Last updated: <time datetime="2025-11-07T11:08:35.019Z">Fri Nov 07 2025 13:08:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T03:59:14.582Z">Tue Nov 11 2025 05:59:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/zNygem0k0zbFOiw3_Fl7pyYo4LZuo5FfFAArELZnTZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzkz/OTUtMTY0MjE4ODAx/OC0zNTk0LmpwZWc.jpeg" alt="Cover for Jaye P.Morgan" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/957c1c7a66364f90955977e43fc824db.png" alt="Cover for Jaye P.Morgan" style="max-width:120px; height:auto;" />
       </td>
       <td>1956</td>
       <td>Jaye P. Morgan</td>
@@ -93,7 +93,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dabbc8c769d74df8893f3fc746bb5ec8.png" alt="Cover for On the Waters" style="max-width:120px; height:auto;" />
       </td>
@@ -224,7 +224,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6f80ca977bb17ed09dc64a3a552eaa6.png" alt="Cover for Let There Be Music" style="max-width:120px; height:auto;" />
       </td>
@@ -270,7 +270,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/Lb4zE8YiT7ArCAoiAJFkK_61-j7VR5yd1ENg8NMzUZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjM2/NjctMTI3NzQyOTMw/OC5qcGVn.jpeg" alt="Cover for Hard Candy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fdbe2f86e0b46fcc61dffd079794b1e.png" alt="Cover for Hard Candy" style="max-width:120px; height:auto;" />
       </td>
       <td>1976</td>
       <td>Ned Doheny</td>
@@ -316,7 +316,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/s1nXoYrK3IKIsVZGgQCFyG17tvPNfrx7JRZ-EFjmpKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM2/MjMtMTMwMjExMTcy/MC5qcGVn.jpeg" alt="Cover for Sudan Village" style="max-width:120px; height:auto;" />
       </td>
@@ -407,7 +407,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/FGrRCf3HgySRvKdNJLNBr_Q9RcOaAevBXRstxkB8dcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTQ5/OTAtMTMzMTQwMjk5/OC5qcGVn.jpeg" alt="Cover for Jerry Corbetta" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9577c49c8a96c41dbc682be9fc04c829.png" alt="Cover for Jerry Corbetta" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Jerry Corbetta</td>
@@ -423,7 +423,6 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 1</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 32</li>
         </ul>
       </td>
@@ -431,7 +430,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/AYSKV60Wp7aZ57ekm6sB-ATVa5jwKw_SZcs7CbYdZUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODUz/NTItMTY4MzEwMDQ2/OC03NjY1LmpwZWc.jpeg" alt="Cover for Mannequin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/227f3a3fc2654e10a3681c3e5bf71aea.png" alt="Cover for Mannequin" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Marc Jordan</td>
@@ -457,6 +456,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7ef9ae7f9620226576c2fb6a3eab839.png" alt="Cover for Bobby Caldwell" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Bobby Caldwell</td>
@@ -592,7 +592,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/VZKCuRK6XL2U2f0NsF8QHis7jp5ci6EaTTqV8eWEIdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjI5/NjMtMTMyODA2MDI4/OS5qcGVn.jpeg" alt="Cover for Robbie Dupree" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bba4fd10daf7e97618aa39387c6c5ff.png" alt="Cover for Robbie Dupree" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Robbie Dupree</td>
@@ -726,7 +726,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/MS7v3Ww3sGyWSSSTYU-Xkndjl-QN0pEu9ufMxiK3bRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODgw/MDAtMTQwMjA5NDg2/Ni0zNjY2LmpwZWc.jpeg" alt="Cover for Bill LaBounty" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9211a917d3eeb738480075ce4f97102.png" alt="Cover for Bill LaBounty" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Bill LaBounty</td>
@@ -837,7 +837,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/yK0pVCHz7X5GpIX4zW5bgHxUFFjqxVF83OuGlcSbyvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODYy/MTAtMTIzMDM3Njg4/MS5qcGVn.jpeg" alt="Cover for Walk A Fine Line" style="max-width:120px; height:auto;" />
       </td>
@@ -922,6 +922,26 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       <td>
         <ul>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for Constant Drama" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Various Artists</td>
+      <td>Constant Drama</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1017,7 +1037,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/PL2NOrFbUvKCYBI_kyy-lGVlIz2WvU24_osP4A17lU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDI1/NDYtMTQ3NDgwNzAz/Ny05NTE0LmpwZWc.jpeg" alt="Cover for Summer Breeze (Remix) - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1042,7 +1062,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/-nYHg0qIF33nHytxrY3bKzw8E8UIPhR03G08pupWVNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDYx/ODEtMTY5Mzk0Mzg4/OC0yOTI5LmpwZWc.jpeg" alt="Cover for Southbound" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d7c1aa0eccef366a3bef28d48c6ab1d.png" alt="Cover for Southbound" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>First Degree The D.E.</td>
@@ -1076,13 +1096,14 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/RZw1DaSNCtvdxc-MupwIJBLinmJIqe0rJWlghW3I-Ts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDE4/MDctMTI0NTA0ODY2/NS5qcGVn.jpeg" alt="Cover for Parcels" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27c4b7185853035310a0a9b0b45d25a1.png" alt="Cover for Parcels" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>The Parcels</td>
@@ -1127,7 +1148,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/VkI0mRvf9ukmm0VkrEzeQeGchy7hWZ2xD83Jpp_9IfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTUx/MjctMTU2NjcyNzQ1/MS04OTMxLmpwZWc.jpeg" alt="Cover for Heat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6af153e5449d388202acb35d58b55af.png" alt="Cover for Heat" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-07-20</td>
       <td>Heat</td>
@@ -1145,7 +1166,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/RtWLL8qBMFJYoqGHdGItJKeIwaNIhF8W_ntMb9NeR8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Mjk4/MzItMTQyNTQ2ODgw/NC02MTcwLmpwZWc.jpeg" alt="Cover for Dreamtown" style="max-width:120px; height:auto;" />
       </td>
@@ -1165,7 +1186,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/RtWLL8qBMFJYoqGHdGItJKeIwaNIhF8W_ntMb9NeR8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Mjk4/MzItMTQyNTQ2ODgw/NC02MTcwLmpwZWc.jpeg" alt="Cover for Red Ray Dawn" style="max-width:120px; height:auto;" />
       </td>
@@ -1209,7 +1230,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/xKOsAS5bBBW7D3g5Gf6iUoTTHK8uZ5wBCjWCEumtuuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM0/NzMzLTE1NzA0MDM1/NjMtMTgyMC5qcGVn.jpeg" alt="Cover for SPEAK OF THE DEVIL (The Unreleased Verses)" style="max-width:120px; height:auto;" />
       </td>
@@ -1293,7 +1314,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/eIkTYN0WjECgsz-8zdJqyHBDBLjwbbHIjZnBlIZg-hc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjE2/MDMtMTM4NTA3NzEz/OS04MDA3LmpwZWc.jpeg" alt="Cover for K.B. &amp; Lil&#39; Flea of Street Military Chopped &amp; Skrewed" style="max-width:120px; height:auto;" />
       </td>
@@ -1361,6 +1382,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ed633c674d6627a877fa19b3e651649.png" alt="Cover for Ghost Unit" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>The Game</td>
@@ -1376,7 +1398,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2873fbdf16e3a8a2c12e8a579a9894bf.png" alt="Cover for eine kleine stadtmusik" style="max-width:120px; height:auto;" />
       </td>
@@ -1472,9 +1494,9 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/UMhkKt1hZKBod7SCZHQT_6XCvTqQe1pERPPXr3rTaK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTA5/OTUtMTMyNTE5NjA3/OC5qcGVn.jpeg" alt="Cover for Full Moon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/263c82473d7443cb9bdf64f67d3c5cdb.png" alt="Cover for Full Moon" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-16</td>
       <td>Nightshift</td>
@@ -1495,9 +1517,9 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/CQv1AVLN7EOtNg3JETIam6O5MkqJhN6oZGj1qbmiPl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDU0/NDctMTQyNzAwNzEw/Ni03NzI0LmpwZWc.jpeg" alt="Cover for Cleaning Up The Business" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f9198ada2e8432d8feedd9a4b446faa.png" alt="Cover for Cleaning Up The Business" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Smooth Reunion</td>
@@ -1537,7 +1559,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/NYu9UfPPZ6CkJPccwlrWeadqbOhfAJXYjtAvRmG0u6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzQ0/MDctMTM4ODMyMTk4/MS00MDEwLmpwZWc.jpeg" alt="Cover for Days in L.A." style="max-width:120px; height:auto;" />
       </td>
@@ -1557,7 +1579,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/RsbNWRmyF5W7xrODb3JtcWc9yBHRw2Rz2OJIvq9sNFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjE4/NTAtMTQzODM1Njg4/NC0xMjU0LmpwZWc.jpeg" alt="Cover for No Kiddin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -1582,7 +1604,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/qa2Im7wQ7nSincvqDuw5D4nleZxy7z8hEptA_HgSLoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTQ1/NDMtMTI5Njg4NjEx/OS5qcGVn.jpeg" alt="Cover for Musically Adrift" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c2846d2b0f74529838e27570aa87387.png" alt="Cover for Musically Adrift" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-21</td>
       <td>Samuel Purdey</td>
@@ -1625,7 +1647,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/z2Qc6wLDhGxoeQgafRzlLIGk1caKWvrm0465uOfd-bE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTMz/NDItMTM4MDQ0MjU4/OS0yMzE3LmpwZWc.jpeg" alt="Cover for State Cows" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9adf4babd33f4f178638bab30f4e6182.png" alt="Cover for State Cows" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>State Cows</td>
@@ -1647,7 +1669,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/AhPc8jWixv61YioWk8RnDHweGBmpWvFA1fIcPP1Cjjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzAx/ODUtMTMyNjA0MjQ3/Mi5qcGVn.jpeg" alt="Cover for The EP - Volume 2: Lovers Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -1665,9 +1687,9 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/2iyDWH3X71rP_oWPKlZN4g97S9iLp-dearV-7IiCrwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIz/NjI1LTE1NzYzMTI0/OTQtODY0MS5qcGVn.jpeg" alt="Cover for Georgy Porgy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fed65eed830be13dcb4fff36a7666c19.png" alt="Cover for Georgy Porgy" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-05</td>
       <td>State Cows</td>
@@ -1689,7 +1711,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/hhV7bVUgbkx2tNfF1b_onHuOOHrEqsuBhmitTopA8l4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTc4/NTgtMTQyNjAwMzcz/Mi01NjMzLmpwZWc.jpeg" alt="Cover for Somewhere Down The Road You&#39;ll Listen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcde6e40e7f3435f8f69741890eee338.png" alt="Cover for Somewhere Down The Road You&#39;ll Listen" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>The Norwegian Fords</td>
@@ -1736,9 +1758,9 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/o9Av3BQP-473pivFNmVsX_1WZHdfvIuGszkQrgLm8zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTcw/ODc3LTE2MTA5MDMy/MzUtOTg4MC5qcGVn.jpeg" alt="Cover for Summertime" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36b4ed625566632f0959627904a5305a.png" alt="Cover for Summertime" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Geyster</td>
@@ -1758,30 +1780,9 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>26</td>
-      <td>
-          <img src="https://i.discogs.com/zvbxb54zvYMs8Mqw3MkUlcSPpLXKVBndKPvsDmQGkBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTU3/NjAtMTYzNDM1OTMz/NS0xMjk4LmpwZWc.jpeg" alt="Cover for Eyes Ep" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-10-04</td>
-      <td>G Jones</td>
-      <td>Eyes Ep</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/VZKCuRK6XL2U2f0NsF8QHis7jp5ci6EaTTqV8eWEIdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjI5/NjMtMTMyODA2MDI4/OS5qcGVn.jpeg" alt="Cover for Rhino Hi-Five: Robbie Dupree" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5586d6d55124493a8e5167ffc178515e.png" alt="Cover for Rhino Hi-Five: Robbie Dupree" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Robbie Dupree</td>
@@ -1825,6 +1826,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b495c32b15000414a6871d1a6d27d5e.png" alt="Cover for AOR" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-23</td>
       <td>Ed Motta</td>
@@ -1848,7 +1850,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/sYnPs3DlyIs4r_ez8P8oT-YB_vw1zp607xrs1w0BrVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Mzk0/NjMtMTU0NTA0MDg0/OS0zNDI3LmpwZWc.jpeg" alt="Cover for Stepping Up" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/85503870447b42cec298a5951c46f393.png" alt="Cover for Stepping Up" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Ole Børud</td>
@@ -1864,7 +1866,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/fx6U-zeQpQWy50baTPGQF2SARCg3InkBAV2vGk7teOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIz/NTg0LTE1NzYzMTEz/MzItMjI5Ny5qcGVn.jpeg" alt="Cover for The Second Seconds" style="max-width:120px; height:auto;" />
       </td>
@@ -1886,7 +1888,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/6mtkk18Wkyk_CQeq_mRht6v3EvCralYW2WuohvxAta4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MTY4/ODItMTQ0NzMzODE1/MS02Mzg2LmpwZWc.jpeg" alt="Cover for West End Coast" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01449314bbb5d8e57ed9d6533ac43a80.png" alt="Cover for West End Coast" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-11-13</td>
       <td>Young Gun Silver Fox</td>
@@ -1910,7 +1912,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/iHEv60l_dIj47HbPxmdokxg62o0qlFrHSG6tJPVd3AU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjQw/OTktMTQ1NDQ0MzY4/MS03NzkxLmpwZWc.jpeg" alt="Cover for Perpetual Gateways" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdc51aedc6ac8799f6fb0dc3ccff00af.png" alt="Cover for Perpetual Gateways" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Ed Motta</td>
@@ -1932,7 +1934,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/8oNJ-j8jgXxLlwM8O09zdNSJhRgJDTir-IevDWEh3jY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIz/NTcwLTE1NzYzMTA2/MjQtODQ2NC5qcGVn.jpeg" alt="Cover for Stealing the Show" style="max-width:120px; height:auto;" />
       </td>
@@ -1952,9 +1954,9 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/yIISfdceHTMhvq_0XOM0yF04Fchl-6L2T5bksAMuLR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDA0/NzQtMTQ1NzAyMTQw/My03NzExLmpwZWc.jpeg" alt="Cover for So Close" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c95e199e017231fae9ee97b57f6ccad2.png" alt="Cover for So Close" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-03-25</td>
       <td>Thierry Condor</td>
@@ -1974,9 +1976,9 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/C8DEupeapNjLsH9WLYValb8Mf50joQ-9jZiK7pvOFQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDI4/MjUtMTQ2OTA5MDc0/MS00MTAxLmpwZWc.jpeg" alt="Cover for Left" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/275824c991bfe5c1b8458daa48440884.png" alt="Cover for Left" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-03</td>
       <td>Monkey House</td>
@@ -2018,7 +2020,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/illHLcXUjF3RlKZY5hG8n1eYwXPlr0YSpV7oL2KvvjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTAw/Nzg2LTE1MjkxNzM2/MTEtMjYxMy5qcGVn.jpeg" alt="Cover for AM Waves" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f638b38c2e3ebeef2faa4ba2d43dab7d.png" alt="Cover for AM Waves" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-20</td>
       <td>Young Gun Silver Fox</td>
@@ -2042,7 +2044,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/dstpHjjYQSPh2G1o2rxWLyyvyr5OU-IsDtN-uHQz2_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY2/OTUxLTE1Mzc3NDEw/NzMtNDIyOC5qcGVn.jpeg" alt="Cover for Criterion of the Senses" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1816e5b0e9a71009a98aa5bcb8c0aa13.png" alt="Cover for Criterion of the Senses" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-21</td>
       <td>Ed Motta</td>
@@ -2063,7 +2065,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/L8BdEX_Az2tuUm8fwx9Jzan5vaRCJj2-FdzWCLa-fgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgx/NDA1LTE1NzEzODI5/NTMtNDU4MC5qcGVn.jpeg" alt="Cover for Three Little Words" style="max-width:120px; height:auto;" />
       </td>
@@ -2084,7 +2086,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/y1amHk9xiKFYWkTLQ6-yUSy4yK2B3eQytEMhUr1xwG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODYw/NjIzLTE1NjI3NjQ4/NzAtNDk0OC5qcGVn.jpeg" alt="Cover for Time to Decide" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d3e972f776759525ee9fe3fe391b21e.png" alt="Cover for Time to Decide" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-05-15</td>
       <td>Al Sunny</td>
@@ -2106,7 +2108,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -2132,7 +2134,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -2150,7 +2152,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>
@@ -2219,6 +2221,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ed9c320d47a47c5363957cdb692c373.png" alt="Cover for GODLY GANGSTARISM" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>LGUNS</td>

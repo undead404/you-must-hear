@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T06:38:50.990Z
+date: 2025-11-11T03:55:44.540Z
 permalink: tags/dark-industrial
 title: dark industrial
 ---
 
 ## dark industrial
 
-Last updated: <time datetime="2025-10-22T06:38:50.990Z">Wed Oct 22 2025 09:38:50 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-11T03:55:44.540Z">Tue Nov 11 2025 05:55:44 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
   </thead>
   <tbody>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Litanies of Desire" style="max-width:120px; height:auto;" />
       </td>
@@ -50,7 +50,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Field Mass (version 1)" style="max-width:120px; height:auto;" />
       </td>
@@ -303,7 +303,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/KwxwNoTMr8sw_JYVnMTjx7f08HBdvFleATqLTFyuLtw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTM0/NS0xMTQzNjQ2OTE4/LmpwZWc.jpeg" alt="Cover for 2nd Vactor" style="max-width:120px; height:auto;" />
       </td>
@@ -362,7 +362,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/AayviwORMxCQ1msly1l9IbRcfXFfGi_bJSC97M1ZDmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjIx/NTY0LTE1MzA4MDI0/MDMtNTk3NS5qcGVn.jpeg" alt="Cover for Numerik (2000)" style="max-width:120px; height:auto;" />
       </td>
@@ -380,8 +380,9 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7e102be005c4c31a230411ac3856037.png" alt="Cover for Geometrie nevědomí" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Zygote (CZ)</td>
@@ -400,7 +401,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/89rhjHC18xAGhUB8eKDc_-Lh6WYZhzh1pIwQ1xLu71c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDE1/MC0xMzAwMTAyMDM2/LmpwZWc.jpeg" alt="Cover for Insomnia Dei" style="max-width:120px; height:auto;" />
       </td>
@@ -519,7 +520,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/TVGbqs78dq71U015XKmeFwCKD0ysVrS78N7hdhkBei0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDMw/NTQtMTI3MTg5ODk1/OC5qcGVn.jpeg" alt="Cover for Alloskren" style="max-width:120px; height:auto;" />
       </td>
@@ -538,7 +539,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td>2002</td>
@@ -703,7 +704,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/x4ugtryOafuX5Enosu-35dxN4Ht2XASgGfm9EjJrtwY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTk4/NS0xMTM4MDkxMzMz/LmpwZWc.jpeg" alt="Cover for De regionibus liminis" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e609f4aa69b39acd12f57b417ba401a4.png" alt="Cover for De regionibus liminis" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-27</td>
       <td>Vladimír Hirsch</td>
@@ -740,7 +741,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2004</td>
@@ -757,7 +758,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2004</td>
@@ -829,7 +830,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2005</td>
@@ -954,7 +955,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2006</td>
@@ -972,7 +973,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/_0yRIR-ewGb4fXBuMcUfMqwS9cyqUgAv0PQvCG4Y3x8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MzE0/MC0xMzk1MzIwMjEy/LTU0NTguanBlZw.jpeg" alt="Cover for Die My Illusion" style="max-width:120px; height:auto;" />
       </td>
@@ -1032,7 +1033,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/_0yRIR-ewGb4fXBuMcUfMqwS9cyqUgAv0PQvCG4Y3x8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MzE0/MC0xMzk1MzIwMjEy/LTU0NTguanBlZw.jpeg" alt="Cover for A Voyage of Imagination" style="max-width:120px; height:auto;" />
       </td>
@@ -1155,7 +1156,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/JtUsjONXEfgs4tGtHTx47oZofJsu7IQUZNQ-Byd34PY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY2/MzUtMTE4ODY1NTg3/My5qcGVn.jpeg" alt="Cover for [rz016] Ego Ex Nihil - Zero exp 2007" style="max-width:120px; height:auto;" />
       </td>
@@ -1199,7 +1200,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/HnZ3L6s57z-MS7X6Rzk0PEZnotXRN1xqk0jyWGttdqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTcx/OTEtMTE4ODcxNDE0/Ni5qcGVn.jpeg" alt="Cover for [rz024] Ego Ex Nihil - Space dust 2007" style="max-width:120px; height:auto;" />
       </td>
@@ -1283,7 +1284,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2007-12-13</td>
@@ -1304,7 +1305,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/QZEXW1nyBZQ2GaJMOKuZk7O13o43SUdCGGDVwsXYEcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ0/NTAtMTMwNjU1MzUw/Ny5qcGVn.jpeg" alt="Cover for The Unknown Forces" style="max-width:120px; height:auto;" />
       </td>
@@ -1346,7 +1347,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/efnzpjE1HWp5X9vZI_Xfvi-SOXGAjRzOe_ZJFV80jA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ0/NzQtMTMwNjU1NTc4/NC5qcGVn.jpeg" alt="Cover for Venture Fantastique" style="max-width:120px; height:auto;" />
       </td>
@@ -1388,7 +1389,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/uBhao0ee3m7b5dQExLH6wDpN3Ibw-IWbsEjVLMZ6vtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ0/ODAtMTMwNjU1NjQy/My5qcGVn.jpeg" alt="Cover for Submersion" style="max-width:120px; height:auto;" />
       </td>
@@ -1430,7 +1431,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/pllro5Sdad2STs_4ai93n8OJTPfGyMn3-Nn1zoJzI4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ0/ODMtMTMwNjU1Njc3/MC5qcGVn.jpeg" alt="Cover for Slime Quanta" style="max-width:120px; height:auto;" />
       </td>
@@ -1472,7 +1473,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/8PW2HrMkMxZGJa0sVVd438mEdiMH06pGIQTZoSlB0qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ0/ODYtMTMwNjU1NzA5/My5qcGVn.jpeg" alt="Cover for Junk Running" style="max-width:120px; height:auto;" />
       </td>
@@ -1514,7 +1515,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/3gY91kO5rOajzjiLxMRL16ssqy7US0rOa2SZqzqcE0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ0/ODktMTMwNjU1NzM5/MS5qcGVn.jpeg" alt="Cover for Mahahakala" style="max-width:120px; height:auto;" />
       </td>
@@ -1558,7 +1559,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/MzQnqhsHJXdcFTBTeyWOcolGSNRN_oTujZ3TfS-gR3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ0/OTQtMTMwNjU1NzY5/OC5qcGVn.jpeg" alt="Cover for Graviton Jungle" style="max-width:120px; height:auto;" />
       </td>
@@ -1646,7 +1647,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2008-10</td>
@@ -1688,7 +1689,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>2008-11-12</td>
@@ -1725,7 +1726,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/6OYKXpPYgMNW2Ze1cArksGJkqxUNx8kbKnaLMzqPDGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzU2/NTctMTIyOTU4Njcw/NS5qcGVn.jpeg" alt="Cover for KaYA" style="max-width:120px; height:auto;" />
       </td>
@@ -1773,7 +1774,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/VSR0e-HuGwW5zEr980kyKG8QEZGmuzOzoyQ4_zIPG2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ1/MDEtMTMwNjU1ODgy/My5qcGVn.jpeg" alt="Cover for Static Approach" style="max-width:120px; height:auto;" />
       </td>
@@ -1799,7 +1800,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/8Hb1o2Avo-s3uYjYEARmIoox6Q7YiJoYcfypVNh3C6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ1/MDUtMTMwNjU1OTE1/OS5qcGVn.jpeg" alt="Cover for Corrapture" style="max-width:120px; height:auto;" />
       </td>
@@ -1823,7 +1824,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/NBSXE_ZGwQWifehRYws68WQPhFt2MhvvfeawQsuxddI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ1/MTMtMTMwNjU2MDM0/NC5qcGVn.jpeg" alt="Cover for Cephalotropolis" style="max-width:120px; height:auto;" />
       </td>
@@ -1849,7 +1850,32 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/u0eFqaCY84OO_gdmL4bTKVlxIZN826I3JxmH0On8xG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTA1/NzQtMTI0MDk0NzI5/NC5qcGVn.jpeg" alt="Cover for [rz096] AAGSF - Sector D 2009" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-01-12</td>
+      <td>AAGSF</td>
+      <td>[rz096] AAGSF - Sector D 2009</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/XWeE4tmKhDzcLOWnKKkJ7j82Iu05RFdoy6zhALhhUsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ1/MTUtMTMwNjU2MDY4/Ny5qcGVn.jpeg" alt="Cover for Alloy Mines" style="max-width:120px; height:auto;" />
       </td>
@@ -1905,7 +1931,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/Pdtp-1rmL77RU30LiSjVRcnMUOPTukvndJbOFGAC_4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ1/MjQtMTMwNjU2MTYz/Ni5qcGVn.jpeg" alt="Cover for Mod Doc" style="max-width:120px; height:auto;" />
       </td>
@@ -1932,7 +1958,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/cJ4oVUn7ZxYUqrqcu4i4Zl4GU9aHZVwb_TU2XVAHg0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ1/MjYtMTMwNjU2MTkz/NS5qcGVn.jpeg" alt="Cover for Shee" style="max-width:120px; height:auto;" />
       </td>
@@ -1954,13 +1980,13 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 10</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 9</li>
             <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/0udvyYRs8Qjq7DP_mRorCkt1wK2KfxksxYOmdJxb_SQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDE1/MjUtMTMwMDk2OTg2/OS5qcGVn.jpeg" alt="Cover for Integrated Music Archives, Vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1977,7 +2003,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2009-12-15</td>
@@ -1997,7 +2023,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>2010-02-07</td>
@@ -2028,7 +2054,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/Fqhr57x12zhl_pO2_9SqBR0FYqinRrpzGGek45F1LPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzQw/OTgtMTI0NjY0NjA3/Ni5qcGVn.jpeg" alt="Cover for [rz047] AAGSF - EGP 2008" style="max-width:120px; height:auto;" />
       </td>
@@ -2052,7 +2078,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2010-06-07</td>
@@ -2096,7 +2122,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/A-1B3txheNiNipahiAg3RGXEcvs21fJYFIwgVvIUY-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzg5/MjUtMTMwMzM4MDU0/My5qcGVn.jpeg" alt="Cover for Cold floors to embrace, wet soils to dig in" style="max-width:120px; height:auto;" />
       </td>
@@ -2113,7 +2139,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/eWXPaBWh2QPBpcW6jOAqoEsq7ZJhkgEwjOw21Iyknes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzc1/OTYtMTMwMzMxNzY5/NC5qcGVn.jpeg" alt="Cover for Jazl Mnstr" style="max-width:120px; height:auto;" />
       </td>
@@ -2139,27 +2165,6 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
-      <td>
-      </td>
-      <td>2012-03-30</td>
-      <td>Neon Zoo</td>
-      <td>O</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
         </ul>
       </td>
       <td>
@@ -2209,7 +2214,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/CtUU-yFWOPUeQVAr0BOY59b0iPlAm3O_9WI97Z0k4po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODY5/NDQtMTM2NjI4Njk4/Ny00MTU4LmpwZWc.jpeg" alt="Cover for Les crises labyrinthiques (2000)" style="max-width:120px; height:auto;" />
       </td>
@@ -2305,7 +2310,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/fIAbvw0Z6iEVFhdOFWn45M3vSY1VDQOZVipZnzQvX4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIz/Nzk5LTE1MzUwMTAw/ODItNzY2My5qcGVn.jpeg" alt="Cover for Sang et corne" style="max-width:120px; height:auto;" />
       </td>
@@ -2376,7 +2381,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T19:53:51.614Z
+date: 2025-11-11T03:55:24.103Z
 permalink: tags/deep-techno
 title: deep techno
 ---
 
 ## deep techno
 
-Last updated: <time datetime="2025-10-31T19:53:51.614Z">Fri Oct 31 2025 21:53:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T03:55:24.103Z">Tue Nov 11 2025 05:55:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -94,7 +94,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>1997</td>
@@ -155,7 +155,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>2000-10-17</td>
@@ -172,7 +172,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>2002-04-08</td>
@@ -199,7 +199,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/ZLmTP0mS7g0DyXckN1lq8F7afL-u-zr9sM1pwMSxo68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTA4/Mi0xMTM0Nzc0ODEy/LmpwZWc.jpeg" alt="Cover for Box Moving EP" style="max-width:120px; height:auto;" />
       </td>
@@ -225,7 +225,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/C5lkARo2v1hb3cQmagK4RAciGQIWrfXtYCznXT-TJQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA3/OS0wMDEuanBn.jpeg" alt="Cover for Der Vampir von Düsseldorf" style="max-width:120px; height:auto;" />
       </td>
@@ -240,12 +240,12 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 73</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/sQmc--soeMtdpD00K687tPhhDdXhOYuzQOrvCzQQpC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjY3/NTktMTQ3NzAwMjcz/NS05OTcwLmpwZWc.jpeg" alt="Cover for [brq 049] hakan lidbo - snaella doktorn e.p." style="max-width:120px; height:auto;" />
       </td>
@@ -268,7 +268,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/sQmc--soeMtdpD00K687tPhhDdXhOYuzQOrvCzQQpC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjY3/NTktMTQ3NzAwMjcz/NS05OTcwLmpwZWc.jpeg" alt="Cover for [brq 049] hakan lidbo - snaella doktorn e.p." style="max-width:120px; height:auto;" />
       </td>
@@ -291,7 +291,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td>2004-06-14</td>
@@ -306,7 +306,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 75</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -349,7 +349,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/BFuj6f_SWNQ_EWfJNqeRn4xjEa6EU2RkwmjCSjZPBjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTUz/NS0xMjU3MzAzNTA1/LmpwZWc.jpeg" alt="Cover for Kalte Tage In Warmen Farben" style="max-width:120px; height:auto;" />
       </td>
@@ -367,7 +367,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/GE3XSYgDn-Y6vT3a33fXcYnMAFrU0uDkNRREuEqmjVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTg2/NS0xMTA0MjE3ODY3/LmpwZw.jpeg" alt="Cover for Warsaw Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -410,7 +410,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/p5uuZPWvBBplPVq1V5ON1ot0nGSno2XjF0_PAelhfwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTM1/My0xMTU0MzUxNjc3/LmpwZWc.jpeg" alt="Cover for FIRST ASSAULT E.P" style="max-width:120px; height:auto;" />
       </td>
@@ -438,7 +438,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/ThtptWthHZkbthcQs5kdZbm0uM1uAS88VxwtkBh1Bwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NDU5/Ni0xMTQ2MzEyMjEx/LmpwZWc.jpeg" alt="Cover for Will I Dream During the Process" style="max-width:120px; height:auto;" />
       </td>
@@ -457,7 +457,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/FX_qASwFNVwkUQX1icc5H1RTDhb_cCtpvIlwfg_e4iI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MDU3/My0xMTY0OTA1MzI3/LmpwZWc.jpeg" alt="Cover for Airport Lounge" style="max-width:120px; height:auto;" />
       </td>
@@ -561,7 +561,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 49</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 51</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 83</li>
         </ul>
       </td>
@@ -667,7 +667,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/8pFMUkRFEBgZRQRaTqhs0vwxUZ80ZIAfyCGdxYqvXcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzQ4/OTAtMTIzMzU4MzY5/NS5qcGVn.jpeg" alt="Cover for [brq 049] hakan lidbo - snaella doktorn e.p." style="max-width:120px; height:auto;" />
       </td>
@@ -712,7 +712,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/LflWDs4Wr3hfNeJDTbgxihUtihob0VIq1-KNnRQm00Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTQx/MzUtMTI0NDUwMzgz/OC5qcGVn.jpeg" alt="Cover for Arrivals" style="max-width:120px; height:auto;" />
       </td>
@@ -742,7 +742,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/w3oIpld0QiGK6EsD4LqyzUdlIDx8sGyS1Na063jQ_vY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDIx/MjEtMTU1OTY5NTY4/My00MDcxLmpwZWc.jpeg" alt="Cover for Recall" style="max-width:120px; height:auto;" />
       </td>
@@ -763,7 +763,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td>2009-08-17</td>
@@ -791,7 +791,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/HLFR4ridi6ikyZnUfurRlj5zwdcbFz4_uJxeX2AF8RE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTc0/NTUtMTI1MjMzNDU3/Ny5qcGVn.jpeg" alt="Cover for [brq 055] granlab - industrial romance" style="max-width:120px; height:auto;" />
       </td>
@@ -829,12 +829,12 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 68</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
       </td>
       <td>2009-11</td>
@@ -852,7 +852,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 22</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 23</li>
             <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 90</li>
             <li> <a href="{{ "/tags/deep-dubstep" | relative_url }}">deep dubstep</a> # 95</li>
         </ul>
@@ -902,7 +902,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/ec53wqIJ2dMLMGqNf9MXsFravJDiXnpW6YwJ5vthq54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzcx/MTMtMTI3NzkwNjk5/NC5qcGVn.jpeg" alt="Cover for Orange Mountains" style="max-width:120px; height:auto;" />
       </td>
@@ -924,7 +924,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
       </td>
       <td>2010-07</td>
@@ -983,7 +983,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/ZHy5SfNLl9GEgCwcBuZ2CTUBIdIufDy30cRfShk1Lys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjY1/NDYtMTI4ODgxMjA5/NS5qcGVn.jpeg" alt="Cover for Nocturnal Transitions" style="max-width:120px; height:auto;" />
       </td>
@@ -1008,7 +1008,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2010-12-20</td>
@@ -1050,7 +1050,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>2010-12-22</td>
@@ -1110,6 +1110,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49892d1c9270479c8bb0e8f73c0011c3.png" alt="Cover for Meine zarten Pfoten" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-10</td>
       <td>Ada</td>
@@ -1128,7 +1129,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/T48br3YgpUY6yFDxjzv8O6lduJ1ghClAjDCirToiJkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDU0/NzctMTMwODUxNzQ2/My5qcGVn.jpeg" alt="Cover for demo tracks" style="max-width:120px; height:auto;" />
       </td>
@@ -1170,9 +1171,9 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/FcU0FjIzIOaVZYQ6w2udl5Q708jxFn2n0fApLZ77jfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTc3/NTQtMTM1NTE0OTI5/Ni01MTYyLmpwZWc.jpeg" alt="Cover for Lunar Escape" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48f1d2a42c754400c4ae687355ff2e4a.png" alt="Cover for Lunar Escape" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-10</td>
       <td>Psychemagik</td>
@@ -1212,7 +1213,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/FcU0FjIzIOaVZYQ6w2udl5Q708jxFn2n0fApLZ77jfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTc3/NTQtMTM1NTE0OTI5/Ni01MTYyLmpwZWc.jpeg" alt="Cover for Lunar Escape EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1249,7 +1250,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 44</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 45</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 75</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 78</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 86</li>
@@ -1258,9 +1259,9 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/Pr6dM9TrLmCpDUkPI7RdPNmAdvBorg6jsDhd8jM4ik8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzU4/MzAtMTMzODI3ODU4/NS0yMDY4LmpwZWc.jpeg" alt="Cover for Sleepless night birds &amp; birds waking up early morning" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9a56ecc2284851fd347e743dc88d4cf.png" alt="Cover for Sleepless night birds &amp; birds waking up early morning" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-20</td>
       <td>Space Holiday Rocks</td>
@@ -1301,6 +1302,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3672e5e781324be8afe7f1760d7bb088.png" alt="Cover for Hi Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-07</td>
       <td>Monkey Safari</td>
@@ -1328,14 +1330,14 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 66</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 67</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 92</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>2013-09-10</td>
@@ -1382,9 +1384,9 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 5</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 6</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 40</li>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 49</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 48</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 52</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 66</li>
         </ul>
@@ -1427,13 +1429,14 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 53</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 83</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 3</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 12</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 54</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 84</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 84</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 90</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 96</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 97</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 97</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 97</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 98</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 99</li>
         </ul>
@@ -1483,7 +1486,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/S3wF5M5tvHRvXUFFWuTNncLnr8z54dvzgkItlyseYVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDEz/NDQtMTM5MDAwNTcy/OS0xNjUwLmpwZWc.jpeg" alt="Cover for The Aquaplano Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -1502,7 +1505,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2014-03-10</td>
@@ -1519,7 +1522,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/6WV1tmBQBDFyGHsqnOsFQ1TRutnhBVHR879ctGxIJh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDU5/MzMtMTQ3MTE5NTQz/MS0yMzA3LmpwZWc.jpeg" alt="Cover for fabric 82: Art Department" style="max-width:120px; height:auto;" />
       </td>
@@ -1554,7 +1557,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       <td>
         <ul>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 24</li>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 27</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 26</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 33</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 43</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 47</li>
@@ -1581,7 +1584,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/Fbc_SfN7N0fMY6RWAL5dsTZ08sHal77IWjbKBdajVQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzI0/NTQtMTU2NjM5NDAz/NC0yNjE4LmpwZWc.jpeg" alt="Cover for Ratu" style="max-width:120px; height:auto;" />
       </td>
@@ -1621,7 +1624,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/AdIuvHG7b94X4Ab7QLLlEuEDY8wo9yyehOa6jGyGtQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDc0/OTAxLTE1MzYwMTEz/NzgtODU4MC5qcGVn.jpeg" alt="Cover for Dysphoria I Euphoria (Chapter 1)" style="max-width:120px; height:auto;" />
       </td>
@@ -1642,7 +1645,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/pyRddQRICKFDuqK9uqXWaqq_DlccDxayQlJ_aYD94jY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NTI5/NTAtMTQ3MDEzNjA4/NS01MDg5LmpwZWc.jpeg" alt="Cover for North" style="max-width:120px; height:auto;" />
       </td>
@@ -1656,6 +1659,27 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b03d0332fcec81425e363b5a5374bb4.png" alt="Cover for Pruridades" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-03-20</td>
+      <td>Ângela Polícia</td>
+      <td>Pruridades</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
         </ul>
       </td>
       <td>
@@ -1683,7 +1707,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/TkpWfelP3W_bQuYOYLI7QnzHYGvMfCJasBkJokhvUj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI3/MDc1LTE1MDEyMzEx/NjYtNzk2Mi5qcGVn.jpeg" alt="Cover for Lost in a Sea of Trees" style="max-width:120px; height:auto;" />
       </td>
@@ -1727,28 +1751,6 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>
-          <img src="https://i.discogs.com/N_XBxR8gIb71d4EkXCU36WAHBrfX0tA7mQCHuwHttI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk4/NzI1LTE1MjQzNTA3/MzMtNzM3My5qcGVn.jpeg" alt="Cover for Island Time" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-04</td>
-      <td>LoSoul</td>
-      <td>Island Time</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 34</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>18</td>
       <td>
           <img src="https://i.discogs.com/3LYYIKsW_WWEx_ylxk0RltgG9FNznMSm8u9v5e809KE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzYw/NjI1LTE1NDE0Mjk3/NTItNTAzMi5qcGVn.jpeg" alt="Cover for Hell On Earth - Single" style="max-width:120px; height:auto;" />
@@ -1768,7 +1770,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/3LYYIKsW_WWEx_ylxk0RltgG9FNznMSm8u9v5e809KE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzYw/NjI1LTE1NDE0Mjk3/NTItNTAzMi5qcGVn.jpeg" alt="Cover for Hell On Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -1787,7 +1789,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/BE1TuNA01M579guqZ70GNzAmVskBKT51H82enf47mV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODkz/NjE1LTE1NDQwMDY5/MzgtNjQzOC5qcGVn.jpeg" alt="Cover for Insomnia" style="max-width:120px; height:auto;" />
       </td>
@@ -1921,18 +1923,15 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/JnUbCPUFaKP9X14yiAVEa4_13I09TR0pWLCzWXwojZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQw/NDgyLTE1NjIzMjUy/MzMtMTI1Mi5qcGVn.jpeg" alt="Cover for Mannigfaltig" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0685b7ca6e385ead11a70c10ae17734.png" alt="Cover for Mannigfaltig" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-06</td>
       <td>Dominik Eulberg</td>
       <td>Mannigfaltig</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a></li>
         </ul>
       </td>
       <td>
@@ -1956,12 +1955,12 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 73</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/4XekhwPJkqzNr4FsL20fP0Cmt4PLBi4zYqi1HaRwNV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTE2/Njg1LTE1NzYxNTkw/ODgtNzk5MC5qcGVn.jpeg" alt="Cover for Inks" style="max-width:120px; height:auto;" />
       </td>
@@ -2017,7 +2016,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/uc1OS-QT-7m0fFAOy6VjAxK3UYmVXg7mZkRYupqC6hQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTY0/ODA1LTE1ODQ4MTU2/MDktNTM4Mi5qcGVn.jpeg" alt="Cover for Nolove" style="max-width:120px; height:auto;" />
       </td>
@@ -2034,7 +2033,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 88</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2163,7 +2162,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/XYOBPIVBS7mqUiqoBWWxOXuTGTUVX6h6PYg49xBX-qs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzA4/NDAtMTMwNDkzNTI4/MS5qcGVn.jpeg" alt="Cover for Avichrom" style="max-width:120px; height:auto;" />
       </td>
@@ -2218,7 +2217,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/dDA5oMYk4TKyECwTGrdWSq8_iAbRqt47ExdwvheR_Bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzI3/MDI2LTE2NjE1NjQz/MzgtNzM2Ny5qcGVn.jpeg" alt="Cover for Garden Gaia" style="max-width:120px; height:auto;" />
       </td>
@@ -2282,6 +2281,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5c27884476f4b229d4fc1943bd68e8a.png" alt="Cover for Tunes 05-XX" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Junner</td>
@@ -2305,7 +2305,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
