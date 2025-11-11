@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-04T02:44:51.016Z
+date: 2025-11-11T04:54:30.945Z
 permalink: tags/progressive-electronic
 title: progressive electronic
 ---
 
 ## progressive electronic
 
-Last updated: <time datetime="2025-11-04T02:44:51.016Z">Tue Nov 04 2025 04:44:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T04:54:30.945Z">Tue Nov 11 2025 06:54:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,8 +29,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
   </thead>
   <tbody>
     <tr>
-      <td>34</td>
+      <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/575fee41fc263b521afc7a271a1a39bf.png" alt="Cover for Zeit" style="max-width:120px; height:auto;" />
       </td>
       <td>1972-08</td>
       <td>Tangerine Dream</td>
@@ -49,9 +50,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>83</td>
       <td>
-          <img src="https://i.discogs.com/ilRGk4i_HDajO15bzLnSa1Dwg-7wDP1q597PI5Ia850/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTgz/Ny0xNDkzNTQ1OTE2/LTcyNzYuanBlZw.jpeg" alt="Cover for Irrlicht" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cd5083b535366cab63847e34cc06add.png" alt="Cover for Irrlicht" style="max-width:120px; height:auto;" />
       </td>
       <td>1972-08</td>
       <td>Klaus Schulze</td>
@@ -67,7 +68,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>43</td>
       <td>
       </td>
       <td>1973-10</td>
@@ -84,8 +85,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56a30d11efa3c4204cbff890d9fca170.png" alt="Cover for Phaedra" style="max-width:120px; height:auto;" />
       </td>
       <td>1974-02-20</td>
       <td>Tangerine Dream</td>
@@ -103,7 +105,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>52</td>
       <td>
       </td>
       <td>1975-01</td>
@@ -124,8 +126,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d88379eb206fa2f5abef8351aff188a0.png" alt="Cover for Mother Earth&#39;s Plantasia" style="max-width:120px; height:auto;" />
       </td>
       <td>1976</td>
       <td>Mort Garson</td>
@@ -133,7 +136,6 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
@@ -144,7 +146,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>97</td>
       <td>
       </td>
       <td>1976</td>
@@ -160,14 +162,15 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 71</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 78</li>
             <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ead96f28ca7f991c37abee8900757ace.png" alt="Cover for Sky Girl" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -188,7 +191,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/9xr7vZYy2hVVeAi-h7gEVQE8USQw_pArlLyFLPDbA34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzQy/Mi0xMzQ2NDAxNzYw/LTc5NjAuanBlZw.jpeg" alt="Cover for Heaven &amp; Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -209,9 +212,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/hISPTaHjgdwr8lSQYT9oHYyblfalwiIYLoM3_OZTlGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjI4/Ny0xNDI0MDE5Mzc1/LTEzMDIuanBlZw.jpeg" alt="Cover for Grosses Wasser" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f5e93489e5289934978daa5ee560c2e.png" alt="Cover for Grosses Wasser" style="max-width:120px; height:auto;" />
       </td>
       <td>1979</td>
       <td>Cluster</td>
@@ -226,14 +229,14 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 33</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/K7W3YKeJyzYTbpWUNF5NsJmyudjpGo6FMAY42NMNA6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTEx/My0xMzA3NTgwODEx/LmpwZWc.jpeg" alt="Cover for Synthesist" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65053efed6494724b0bed93327284c15.png" alt="Cover for Synthesist" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Harald Grosskopf</td>
@@ -253,7 +256,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>11</td>
       <td>
       </td>
       <td>1981-10-01</td>
@@ -274,7 +277,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>27</td>
       <td>
       </td>
       <td>1983</td>
@@ -291,8 +294,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/733ab1a0862a39eea4f5d67e18607aaf.png" alt="Cover for Pinnacles" style="max-width:120px; height:auto;" />
       </td>
       <td>1983-08</td>
       <td>Edgar Froese</td>
@@ -317,9 +321,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/BAM-gPO3vUkuKlOhvxLFhzH23YxJPISUmD8KEgNzIbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzg5/MS0xMjM5NTc4MTMy/LmpwZWc.jpeg" alt="Cover for Planetary Unfolding (2022 Remaster)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7565ad21034480741095c5581c818384.png" alt="Cover for Planetary Unfolding (2022 Remaster)" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Michael Stearns</td>
@@ -343,7 +347,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>10</td>
       <td>
       </td>
       <td>1986</td>
@@ -361,9 +365,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/fxBuLZ60Mn4wGF99laA1XGtOU8ytkvxmm83a_QIFrys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODU0/Ny0xMzA5OTAxODY2/LmpwZWc.jpeg" alt="Cover for Oxygene" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/274c6ab9d8981bf29cdd7ffbff348d72.png" alt="Cover for Oxygene" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Jean Michel Jarre</td>
@@ -379,7 +383,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/R4Jg9L019kcF_QbgYzvouYl-OiRMi5_LDqprfz6uv9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjA0/MS0xNTk2NTQwODA4/LTI1NDYuanBlZw.jpeg" alt="Cover for After the Heat" style="max-width:120px; height:auto;" />
       </td>
@@ -398,7 +402,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/NNPfc1akraCJtmUGLDcABbaUohnB8k_tzHYayYZaEhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mjgw/My0xMjEwNTc2OTQw/LmpwZWc.jpeg" alt="Cover for The Cosmic Jokers" style="max-width:120px; height:auto;" />
       </td>
@@ -420,9 +424,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/Zo8sSndeCyrAHNaykPbVqSgb7-JAn5EAvQtJ-QM89jA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODU3/LTEyMDY4MzYzNDcu/anBlZw.jpeg" alt="Cover for Erasure" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23bdcd8b6d20abbd8a98926f2771db7c.png" alt="Cover for Erasure" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-10-24</td>
       <td>Erasure</td>
@@ -450,9 +454,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>93</td>
       <td>
-          <img src="https://i.discogs.com/kUmneehAkiKglXIyy8kv-xHta3ESh_CS4LWg_5_K6BY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTg5/MC0xNjY4MDAzNzIx/LTUwMDkuanBlZw.jpeg" alt="Cover for Oxygene 7-13" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ec84535667b4a45ca9931b58f293405.png" alt="Cover for Oxygene 7-13" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Jean Michel Jarre</td>
@@ -469,7 +473,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/rsYOgbxAIa2RdLdAYtNRc4A0gQBxP__nqIQsEuUCmD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDQ0/LTExOTc0NTQ5ODMu/anBlZw.jpeg" alt="Cover for Reprise 1990 - 1999" style="max-width:120px; height:auto;" />
       </td>
@@ -488,7 +492,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>25</td>
       <td>
       </td>
       <td>1999-11-16</td>
@@ -506,7 +510,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>67</td>
       <td>
       </td>
       <td>2000</td>
@@ -523,9 +527,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/5CpGWFOYiSWqYikH4JKhJb3PJcAo-PtzY5ND0cP8B9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzEy/MDYtMTMxNzIxMjk5/Mi5qcGVn.jpeg" alt="Cover for E2-E4 (Mixed)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d86714c00a33a5c301dd9ccf37010d53.png" alt="Cover for E2-E4 (Mixed)" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Manuel Göttsching</td>
@@ -551,8 +555,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d16616c66f342f67e8584f0785c22ee0.png" alt="Cover for Cosmos" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-08-03</td>
       <td>Zombi</td>
@@ -569,9 +574,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/5xxxvxeOjvJW18yW4gF-WlH4-K0Hzd06_7PS23tyEew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDQ2/MjAtMTQwMDQyMDE4/Ny03Nzk2LmpwZWc.jpeg" alt="Cover for Apollo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/436df760748b41cbc1c76abf18398b30.png" alt="Cover for Apollo" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Brian Eno</td>
@@ -589,8 +594,26 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>1</td>
       <td>
+      </td>
+      <td>2006</td>
+      <td>Zombi</td>
+      <td>Digitalis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc8ed20636611f278f6745d0ac68dca6.png" alt="Cover for Surface To Air" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-18</td>
       <td>Zombi</td>
@@ -609,7 +632,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/SBYqslcclayS35Yqy6UYMK_P3wNcYvKPukG821JDThc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI5/NDEtMTE4OTIzNDY1/My5qcGVn.jpeg" alt="Cover for Emeralds" style="max-width:120px; height:auto;" />
       </td>
@@ -634,7 +657,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>21</td>
       <td>
       </td>
       <td>2008-07-04</td>
@@ -651,7 +674,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/k0EYNTSfPkuZT9a5YpLIwInJUTS22OAUnUhlLu6AMWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDc2/NTk1LTE2MzA1MTIw/NTktODY5OC5qcGVn.jpeg" alt="Cover for Cookie Clicker" style="max-width:120px; height:auto;" />
       </td>
@@ -671,8 +694,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b66b07b8b73ddd5f0b4520679472d02f.png" alt="Cover for Does It Look Like I&#39;m Here?" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-24</td>
       <td>Emeralds</td>
@@ -690,7 +714,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>71</td>
       <td>
       </td>
       <td>2010-06-28</td>
@@ -707,8 +731,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04724e238acf497ab5fd7b0252cfa615.png" alt="Cover for Amateur Doubles" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Graham Lambkin</td>
@@ -734,8 +759,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9f87564f51e402c843e109a7021dc83.png" alt="Cover for Minecraft - Volume Alpha" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-04</td>
       <td>C418</td>
@@ -754,9 +780,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/5T_omiD1RxvQBz7-KNJr7-HFXOSLEVNwBftxOfSNi6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzEy/MTMtMTMwOTY3NzMw/MS5qcGVn.jpeg" alt="Cover for Magda" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e2c08505d55150d573876654ab3fffc.png" alt="Cover for Magda" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-27</td>
       <td>Donato Dozzy</td>
@@ -774,7 +800,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
       </td>
       <td>2011-05-11</td>
@@ -791,9 +817,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/mUWnqLr4EG6KnZHTOsFR1AfXTnqV3y-W4SheeRCElZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjA0/OTgtMTMyMTA0NTE5/OC5qcGVn.jpeg" alt="Cover for Tragedy &amp; Geometry" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0814adbce46b460a942a9169d6d5465b.png" alt="Cover for Tragedy &amp; Geometry" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-14</td>
       <td>Steve Hauschildt</td>
@@ -811,7 +837,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/bequYX4Q29WjXZ84wWYeUsNpoM8e8iAaeh8HJnEjwXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODgx/OTAtMTQ3MDg0MzI5/Mi01MDIyLmpwZWc.jpeg" alt="Cover for Tr0jans" style="max-width:120px; height:auto;" />
       </td>
@@ -829,7 +855,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/-99kH2NL5P6GrKIxnQtSGFMPRhBiNyEjZumv9AXv4Qw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDgy/NjMtMTUyNDczOTY5/Mi04MjcxLmpwZWc.jpeg" alt="Cover for The Belbury Tales" style="max-width:120px; height:auto;" />
       </td>
@@ -847,8 +873,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba8bcacf808d46259b29e3acd02f223b.png" alt="Cover for Numbers: 1-13" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-12</td>
       <td>Three Trapped Tigers</td>
@@ -868,9 +895,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>85</td>
       <td>
-          <img src="https://i.discogs.com/FbF-HeJdiuZQKWwmTmRZocGg_MrNau4AHIq7frLyEFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjE4/MzktMTM2ODQzNDU3/Ny00ODA2LmpwZWc.jpeg" alt="Cover for Drawn and Quartered" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77f40cb669a74e7889eee64b7eda94d6.png" alt="Cover for Drawn and Quartered" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-23</td>
       <td>Oneohtrix Point Never</td>
@@ -892,7 +919,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/DoYtP2_yLZdVs_78-_cDP56woI0pZ2Pk5J8O1VBKbvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDI5/NzMtMTM4Mjk1NDMz/OC0yMTk3LmpwZWc.jpeg" alt="Cover for Unearth" style="max-width:120px; height:auto;" />
       </td>
@@ -910,28 +937,26 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/fz3mNZ0drt6S6KdYFHpLP9Vc8M0aRDrKEkUKwhFQ7lg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDU4/MTQtMTQyODUwMjg2/NS04NzMxLmpwZWc.jpeg" alt="Cover for R Plus Seven" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fcc2c76045ca9c26cb02d849c7867db.png" alt="Cover for R Plus Seven" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-21</td>
       <td>Oneohtrix Point Never</td>
       <td>R Plus Seven</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 42</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 98</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 13</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/K7jh8Pcb2bmK7VRkZk4Fx73KqcPE4UZtj7XpHb1GSno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjY0/MjI2LTE2MDY0OTY3/MDEtMTg4OS5qcGVn.jpeg" alt="Cover for The Talos Principle (Video Game Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -953,31 +978,26 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de7d7c51db35c41f1bfa479de73b08a8.png" alt="Cover for Garden of Delete" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-20</td>
       <td>Oneohtrix Point Never</td>
       <td>Garden of Delete</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 72</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/JtKgm2vXCDrOsD_YsHgYTLZrdYOcwdVM6n0MUUJ-GYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjk3/NDg2LTE1NDAyNDE0/NzUtNzAwNC5qcGVn.jpeg" alt="Cover for Beyond The Black Rainbow - Original Soundtrack" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/068fdb07fc2140cec0a2fc19d5fc10f2.png" alt="Cover for Beyond The Black Rainbow - Original Soundtrack" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-02</td>
       <td>Sinoia Caves</td>
@@ -997,7 +1017,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/heRucRMvtwUjbcTg0GU3oJFZlnLHMvZqdlEUQ0c1694/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTE0/MDk0LTE2MDQ1Njk1/ODAtNzQ3NS5qcGVn.jpeg" alt="Cover for God Turn Me Into A Flower" style="max-width:120px; height:auto;" />
       </td>
@@ -1014,14 +1034,14 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 25</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/sEgwiZdt2MlUD_LKlC8ujLxc21xAqN4pki74Na9CXJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjYx/ODQtMTQzMjkxODYz/MS03NDg2LmpwZWc.jpeg" alt="Cover for Die Wilde Jagd" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a2603cddccd9b90d901a763f4e6940a.png" alt="Cover for Die Wilde Jagd" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-01</td>
       <td>Die Wilde Jagd</td>
@@ -1041,7 +1061,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/AZEA3YQswV9ateYCaMcF1NzTbdKmvmGa-dVYpkOcVXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDY1/OTgtMTU5NjgwMDc3/OS01MjgwLmpwZWc.jpeg" alt="Cover for American Drift" style="max-width:120px; height:auto;" />
       </td>
@@ -1065,9 +1085,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/SGLO6o4JU-EPkN_xeQDGo-ssmOQp0tGFpsJVm9ENZwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDYz/MTktMTQ2MTA4NDYw/Mi05MjYyLmpwZWc.jpeg" alt="Cover for Void Beats&#x2F;Invocation Trex" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b0b810db1847d8430c67bb78cfad378.png" alt="Cover for Void Beats&#x2F;Invocation Trex" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Cavern of Anti-Matter</td>
@@ -1085,9 +1105,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>94</td>
       <td>
-          <img src="https://i.discogs.com/lpXl3AXHMmZ9X8gVu2Ss1H5P3uqHQiBCvZZEnsTSNmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjEx/MTEtMTY2OTI0MDA3/OS04NTk4LmpwZWc.jpeg" alt="Cover for EARS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a05726091663e1457cdba9ec4b6d07cc.png" alt="Cover for EARS" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-01</td>
       <td>Kaitlyn Aurelia Smith</td>
@@ -1106,7 +1126,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/fOjEh1Mr818RTiBmwd3hKcI23SLeEklMmhYMVWs9Wq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NzAy/NDEtMTM5NDc3OTAy/MS03ODkwLmpwZWc.jpeg" alt="Cover for Promises" style="max-width:120px; height:auto;" />
       </td>
@@ -1127,7 +1147,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/6F7KXBJZ4t8osYDsHD9uyP2Zyfz18xXv8F5fQ1bwNSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTAz/MDctMTQ3Mjg2ODcx/NC0zMDAzLmpwZWc.jpeg" alt="Cover for FRKWYS Vol. 13: Sunergy" style="max-width:120px; height:auto;" />
       </td>
@@ -1149,7 +1169,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/kDQRMcSXMdnknjCGYxxY05gyN53NL2tDfvnFdsU-CHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mzc0/NTktMTQ4ODg1NTA3/Ni00NzIwLmpwZWc.jpeg" alt="Cover for The Key" style="max-width:120px; height:auto;" />
       </td>
@@ -1172,9 +1192,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/XIvUmcyCIgoPrK2FeZBPRzXyNmP8GUqJnX9zivibTD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTI1/ODAzLTE2MzM3Nzc4/NTItMzEzNi5qcGVn.jpeg" alt="Cover for Theia &#x2F; The Silver Cord &#x2F; Set" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbe5b8099d9beeaa5a26bf08c8e7aed5.png" alt="Cover for Theia &#x2F; The Silver Cord &#x2F; Set" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-12-02</td>
       <td>King Gizzard &amp; The Lizard Wizard</td>
@@ -1195,36 +1215,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/c0iluuXlDzbYParfD5otyeHehh_5Qs-XmUxin7VQBZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njk4/NTktMTQ4OTQyNTYy/MS01MDkwLmpwZWc.jpeg" alt="Cover for Men I Trust" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-04-22</td>
-      <td>Men I Trust</td>
-      <td>Men I Trust</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 48</li>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 52</li>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 80</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/OYipPq0twOH9sn0YyQKXJpCZZgIwuWiGwAFLcbvPMOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjk1/MzI5LTE0OTQ4MzI3/OTktOTkzOS5qcGVn.jpeg" alt="Cover for Buy Corals Online" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6606719fd988d9837e57c6ff1a9ad377.png" alt="Cover for Buy Corals Online" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-19</td>
       <td>Loke Rahbek</td>
@@ -1244,7 +1237,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/0uFlWOxWMDK_0QrKvVG9HOWWB7N0RuyynIUng65BS00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMw/Mzc5LTE1MTc5NzEx/NzItNzc3My5qcGVn.jpeg" alt="Cover for XPETAL" style="max-width:120px; height:auto;" />
       </td>
@@ -1267,30 +1260,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>64</td>
-      <td>
-          <img src="https://i.discogs.com/E1bfoVbhFgzIJOzq42wEdaVUdIEwqWeVgQB3iIf84yE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/MjUzLTE1MTkwMjQ1/NDgtODAyOC5wbmc.jpeg" alt="Cover for Celeste (Original Soundtrack)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-01-25</td>
-      <td>Lena Raine</td>
-      <td>Celeste (Original Soundtrack)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 28</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 45</li>
-            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 89</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/ljBWXefiXuDeonbjKPLcoUbaDPi3VskaRdbF7gb1uso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjE4/MTU3LTE1MTk1MDU0/MTktMjE2OC5qcGVn.jpeg" alt="Cover for Hormone Lemonade" style="max-width:120px; height:auto;" />
       </td>
@@ -1309,9 +1279,8 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/tv8NJoEcjTlIirtP7naWwJfG7xvvFhXnbdP8joPF8v0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI0/NDUzLTE1MjMwMjE1/NDUtMzUxMS5qcGVn.jpeg" alt="Cover for Uhrwald Orange" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-06</td>
       <td>Die Wilde Jagd</td>
@@ -1327,13 +1296,13 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 14</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 20</li>
             <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/pX0u98s08BL2OEKTLFkcuQTY5uhOn-TkpQtwRO7kFmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY5/MzAwLTE1Mjk2ODk3/ODAtNTM1OC5qcGVn.jpeg" alt="Cover for No Hate Is A Cold Star" style="max-width:120px; height:auto;" />
       </td>
@@ -1358,9 +1327,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/AZ3fUnyT7fV88Vygx4ZAKmwG9yA1Oty-EjEoBXXxVdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTI2/NjItMTM0ODU2NTU3/MS0yNjAzLmpwZWc.jpeg" alt="Cover for Four Pieces For Mirai" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82196ab446c1cdbb291a4af8ad178143.png" alt="Cover for Four Pieces For Mirai" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-18</td>
       <td>James Ferraro</td>
@@ -1376,7 +1345,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c175fff1b74c34cc0973f2d93c29bf07.png" alt="Cover for Age Of" style="max-width:120px; height:auto;" />
       </td>
@@ -1394,7 +1363,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/RDctyKJS_CAeaKIBrwuM0p_hVfSPfzaBYcsSrSPSpgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/MDgxLTE1MzA2MjU5/ODMtNjkxOS5qcGVn.jpeg" alt="Cover for Blinks" style="max-width:120px; height:auto;" />
       </td>
@@ -1410,12 +1379,12 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 16</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/GtZk-XF9GIZeEQz7_X-XduIoahUPMNYxb3FVkawIsms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk5/NDc5LTE1MzQ1MDIy/ODAtNjk2Mi5qcGVn.jpeg" alt="Cover for Uzun Havalar" style="max-width:120px; height:auto;" />
       </td>
@@ -1430,12 +1399,12 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 31</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/WScE5EonhlLhlWNTh3sti7-HUdhaVJVkIblYsvK3wRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NDg3LTE2ODc5ODM4/MTctMzMxNC5qcGVn.jpeg" alt="Cover for Skinless X-1" style="max-width:120px; height:auto;" />
       </td>
@@ -1456,14 +1425,14 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 17</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 58</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 19</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 59</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/Ym5MK_G9dHPVYdZUinQHtEKOFD73CmoawwzIuCQQMYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgy/MzUwLTE1Mzk5NzA5/NDQtMTg2My5qcGVn.jpeg" alt="Cover for SPLIT &#x2F;&#x2F; PERSONALITY PT. 02" style="max-width:120px; height:auto;" />
       </td>
@@ -1504,9 +1473,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/jeSuHMG7WdwNo8wKIYA8DvgvDZg7i6aWDrnxoDoXHRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTAw/MS0xMTI1MTYwNTMw/LmpwZw.jpeg" alt="Cover for Forever" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/608ec4b482c5002a95aac4bd518e9089.png" alt="Cover for Forever" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-03</td>
       <td>ESP</td>
@@ -1531,7 +1500,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/YVrKlMoCT3cFXAX6pmciSA6VcwWWzLE6nh6TosyQjuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjYw/Njc5LTE1NzIyNjY3/NDQtNzgxNS5qcGVn.jpeg" alt="Cover for Crush" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56777d5a43b897e8dd7552b5698fbeb1.png" alt="Cover for Crush" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-18</td>
       <td>Floating Points</td>
@@ -1545,14 +1514,14 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 54</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/zA4b6mIW85DFD22vTjFw6wu48ZUKF3b0WsX_BDCH148/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDY1/NjgzLTE2MTcwMzU0/NTUtOTgxMy5qcGVn.jpeg" alt="Cover for The Angel, The Demon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2e359e429b17fb7204d2aea4ec18c54.png" alt="Cover for The Angel, The Demon" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-18</td>
       <td>Cacola</td>
@@ -1567,7 +1536,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/f2LIwRAfjgPFB4BrQegPJQzAsxPyuqWXJiovwBoa41g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ1/MjA0LTE1ODQ1Mjg1/MTgtOTIzNC5qcGVn.jpeg" alt="Cover for THE BLUE STALLION" style="max-width:120px; height:auto;" />
       </td>
@@ -1589,9 +1558,8 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/TbmjGCtXQbaOjJt85HWDhvcjkuyhfoXMkJBHhCOoNus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODgy/OTQwLTE1ODM0MTQ1/NDktMjk0Mi5qcGVn.jpeg" alt="Cover for Haut" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03</td>
       <td>Die Wilde Jagd</td>
@@ -1616,7 +1584,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/LPw8WY18kRoN7M5vWaj7f1I-JJsJtctJA0ptvVeGA6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjE3/NDkwLTE2NzgwNjA0/NDAtNzY0OC5qcGVn.jpeg" alt="Cover for Swing (In A Dream)" style="max-width:120px; height:auto;" />
       </td>
@@ -1637,15 +1605,15 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 25</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 34</li>
             <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/H2HMpraQUcdlLRjuEz2xRpCxNEp7HISHUJdHLbLU8uY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODk2/Mjc0LTE2OTk4MjAw/MjctOTE5My5qcGVn.jpeg" alt="Cover for Sludge &#x2F; Broadcaster" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9358f80646120fe714c6e02bad65f042.png" alt="Cover for Sludge &#x2F; Broadcaster" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-26</td>
       <td>Squid</td>
@@ -1663,15 +1631,15 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 1</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 54</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 6</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/mU2pm2pGEvPNCMOlmN_SJ4FgbTL9gomTHNyKlNFYM0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMz/MDQ4LTE1OTY4MDM0/MDYtMTc2OC5qcGVn.jpeg" alt="Cover for Green (SFX Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c22f185b5724c7d2e477edddaba12773.png" alt="Cover for Green (SFX Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-31</td>
       <td>Hiroshi Yoshimura</td>
@@ -1692,9 +1660,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/37h3ysk6CDN_hJp-GXsHC_b5Q2Y17iErSFLb-bP1EhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk3/NjA4LTE1OTc5Njk3/NTQtMjgzMi5wbmc.jpeg" alt="Cover for Drop Shadow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aecf9703e8e53531ae8ebdde5b846e25.png" alt="Cover for Drop Shadow" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-08-14</td>
       <td>Eyeliner</td>
@@ -1714,7 +1682,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/isU-gQyRls1b3_2IJmy4CGDnSi6mijvXr6qYBvaVNTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODM1/MzYtMTM2MDYzNzQ4/NS04ODQwLmpwZWc.jpeg" alt="Cover for The Consuming Flame: Open Exercises in Group Form" style="max-width:120px; height:auto;" />
       </td>
@@ -1735,8 +1703,8 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 59</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 85</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 60</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 86</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 91</li>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 95</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 99</li>
@@ -1744,7 +1712,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/qE5uJFXl0_KAVg-xDeWw7vWDvW4-v2A2nykfDVtFn2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDAz/Nzc5LTE2MDU4OTA3/ODktODA1Mi5qcGVn.jpeg" alt="Cover for The Flash" style="max-width:120px; height:auto;" />
       </td>
@@ -1770,7 +1738,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/HGshh5NYqVzhwBH2_7Xdwd4Pl2FpBS7qkfKfhIj8Qds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk4/ODgyLTE2MDE2MzU5/MjItOTc1NS5qcGVn.jpeg" alt="Cover for End of Summer" style="max-width:120px; height:auto;" />
       </td>
@@ -1788,9 +1756,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>96</td>
       <td>
-          <img src="https://i.discogs.com/P9CYXlAwsjmAd_3gA1JU32Wscx7r7aoZ-SYnyNe0vfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTYz/MTAyLTE2MDA5ODgw/MDQtMTkzMC5qcGVn.jpeg" alt="Cover for Magic Oneohtrix Point Never" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9456797e3f95f64548b4a5eaf493fce3.png" alt="Cover for Magic Oneohtrix Point Never" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-30</td>
       <td>Oneohtrix Point Never</td>
@@ -1809,13 +1777,13 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 47</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 49</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/bmMuc1J4axU6UDQHKcnVJw_Um4-Spb1emw7hAJee1j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDk1/MDExLTE2MTM3Njky/ODEtMzE1Mi5qcGVn.jpeg" alt="Cover for In Ferneaux" style="max-width:120px; height:auto;" />
       </td>
@@ -1836,7 +1804,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       <td>
         <ul>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 2</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 72</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 73</li>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 87</li>
         </ul>
       </td>
@@ -1844,15 +1812,13 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/5Y758DPRsx0lWsq1lTRRR--JdVXx4RLQgzZHsfywAEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ3/NDE4LTE1MjI0MzMz/NzktNDMwMi5qcGVn.jpeg" alt="Cover for The Silver Cord" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/346d5d8aced241dfc1237ea1ede2cf67.png" alt="Cover for The Silver Cord" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03</td>
       <td>King Gizzard &amp; The Lizard Wizard</td>
       <td>The Silver Cord</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
       <td>
@@ -1862,7 +1828,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/l5VNkBcdfF9T-QI0RVOBeZJc_seW2JhyQdhg9wADVhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjQ1/ODE3LTE2MjA0OTky/NzEtOTA1My5qcGVn.jpeg" alt="Cover for West Coast Love Stories" style="max-width:120px; height:auto;" />
       </td>
@@ -1880,9 +1846,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/OApAivk3floKRSge78MznrPINtOlxvssXLD_x74lgOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTYz/MDU2LTE2NTIwNzc4/MjItMzMwNC5qcGVn.jpeg" alt="Cover for Under the Lilac Sky" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf0201778342c7472b3597b493f0fd04.png" alt="Cover for Under the Lilac Sky" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-07-09</td>
       <td>Arushi Jain</td>
@@ -1903,9 +1869,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/VBi5Eup6Phu5ECfMmg_hm5-CPI-Z8T9efOmuVzZ0VPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM5/ODI0LTE2NDY5MzQ5/MDEtMTcwMy5qcGVn.jpeg" alt="Cover for Recordings from the Åland Islands" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c29074e66c6331423842b37d34e32a84.png" alt="Cover for Recordings from the Åland Islands" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-11</td>
       <td>Jeremiah Chiu</td>
@@ -1946,14 +1912,14 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 8</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 47</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 10</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 48</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/VU0NYMp89i37XHzXrEymYR4d4mD7aVKj324tnn3dWJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTIz/NjkyLTE2NTkyODc2/MjMtMTM5OC5qcGVn.jpeg" alt="Cover for I Can&#39;t Die As Well" style="max-width:120px; height:auto;" />
       </td>
@@ -1973,14 +1939,36 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 37</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/-GJ5DHsfa3Cg71Up6Ju0VGZkqXz_xPgrSwb_olyg-c4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjg0/NjA3LTE3MTU3NzIy/NzQtNjM1NS5qcGVn.jpeg" alt="Cover for Darklife" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/_oZ_P2BmA__NPlvkw_SuyhWpDMoF7HVOHhFGoPFPkbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTYw/ODE1LTE2NTIwNDk5/MjktNDk3OS5qcGVn.jpeg" alt="Cover for Opal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-04-29</td>
+      <td>Batu</td>
+      <td>Opal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42080c2f251c98ed9360acaa41766a0e.png" alt="Cover for Darklife" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-23</td>
       <td>death&#39;s dynamic shroud</td>
@@ -1999,16 +1987,16 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 40</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 54</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 41</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 56</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 71</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 80</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 81</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/xxQR2xomkkNCEwq9RkIS5-d4lqL-zDCAHPr05fu9lgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NzE2/MC0xMjYwNjI0ODQz/LmpwZWc.jpeg" alt="Cover for kiCK iiiii" style="max-width:120px; height:auto;" />
       </td>
@@ -2026,7 +2014,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/fKG5aq9UAk2fIvFhPbxbuAkRiyJIjFbFD1wk0zLFz5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODI0/ODAtMTM1MTM0NjUx/OS05MDIxLmpwZWc.jpeg" alt="Cover for PATHS" style="max-width:120px; height:auto;" />
       </td>
@@ -2044,14 +2032,14 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 4</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/XuCX-FEjFoRmiT9jJnwMeX6rJHSfcs8CJBXB90SwqqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzI3/ODgxLTE2OTg0OTgx/NTktOTYxNC5qcGVn.jpeg" alt="Cover for Revanchist" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f540a2cd8288deba654a0de7ed04182b.png" alt="Cover for Revanchist" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-10-20</td>
       <td>Evian Christ</td>
@@ -2077,7 +2065,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/xdMoQNh-1m7RtiMBLt87IkhoRwbudpb4kRpigiau_6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTMy/NzU5LTE2NjY2Mzkw/MjEtMzQ1My5qcGVn.jpeg" alt="Cover for I will not use the body&#39;s eyes today." style="max-width:120px; height:auto;" />
       </td>
@@ -2094,12 +2082,12 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 7</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/jCR8wmn3M9TUjDPOw5AUx-_2iuM11U5KQ09BJVpfYKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MzQwLTE2OTU5OTg1/NzItOTU2Ny5qcGVn.jpeg" alt="Cover for Again" style="max-width:120px; height:auto;" />
       </td>
@@ -2116,13 +2104,13 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 47</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 48</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/sQtAyWW_Fh05hW65X9MuGotWdX5dynLrg7ZzLZGsVs0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTIz/MTY5LTE3MTgwMTcw/OTItNDE1OS5qcGVn.jpeg" alt="Cover for Soft Power" style="max-width:120px; height:auto;" />
       </td>
@@ -2147,7 +2135,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/kLLzFS_mSx1K776sgG4myxf-3Pxcoxmc5Ne1JHrLmMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjUx/ODk4LTE3MjU0NjQw/NTctNDgxNy5qcGVn.jpeg" alt="Cover for Endlessness" style="max-width:120px; height:auto;" />
       </td>
@@ -2174,8 +2162,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/535a6f2019690e8e0e5269269c5a7279.png" alt="Cover for Flood Format" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Bird&#39;s Eye Batang</td>
@@ -2194,14 +2183,14 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 18</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 19</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 84</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>73</td>
       <td>
       </td>
       <td></td>

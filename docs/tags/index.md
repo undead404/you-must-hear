@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-11T04:53:53.241Z
+date: 2025-11-11T04:54:30.945Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-11T04:53:53.241Z">Tue Nov 11 2025 06:53:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T04:54:30.945Z">Tue Nov 11 2025 06:54:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [progressive electronic]({{ "tags/progressive-electronic" | relative_url }}) | <time datetime="2025-11-11T04:54:30.945Z">Tue Nov 11 2025 06:54:30 GMT+0200 (Eastern European Standard Time)</time> |
+| [rappeuse]({{ "tags/rappeuse" | relative_url }}) | <time datetime="2025-11-11T04:54:13.981Z">Tue Nov 11 2025 06:54:13 GMT+0200 (Eastern European Standard Time)</time> |
 | [acid house]({{ "tags/acid-house" | relative_url }}) | <time datetime="2025-11-11T04:53:53.241Z">Tue Nov 11 2025 06:53:53 GMT+0200 (Eastern European Standard Time)</time> |
 | [electro-industrial]({{ "tags/electro-industrial" | relative_url }}) | <time datetime="2025-11-11T04:53:16.695Z">Tue Nov 11 2025 06:53:16 GMT+0200 (Eastern European Standard Time)</time> |
 | [post-industrial]({{ "tags/post-industrial" | relative_url }}) | <time datetime="2025-11-11T04:51:40.921Z">Tue Nov 11 2025 06:51:40 GMT+0200 (Eastern European Standard Time)</time> |
@@ -339,7 +341,6 @@ Last updated: <time datetime="2025-11-11T04:53:53.241Z">Tue Nov 11 2025 06:53:53
 | [industrial hip hop]({{ "tags/industrial-hip-hop" | relative_url }}) | <time datetime="2025-11-08T00:32:54.557Z">Sat Nov 08 2025 02:32:54 GMT+0200 (Eastern European Standard Time)</time> |
 | [psycore]({{ "tags/psycore" | relative_url }}) | <time datetime="2025-11-08T00:32:33.226Z">Sat Nov 08 2025 02:32:33 GMT+0200 (Eastern European Standard Time)</time> |
 | [arena rock]({{ "tags/arena-rock" | relative_url }}) | <time datetime="2025-11-08T00:32:24.310Z">Sat Nov 08 2025 02:32:24 GMT+0200 (Eastern European Standard Time)</time> |
-| [rappeuse]({{ "tags/rappeuse" | relative_url }}) | <time datetime="2025-11-08T00:13:19.561Z">Sat Nov 08 2025 02:13:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [live set]({{ "tags/live-set" | relative_url }}) | <time datetime="2025-11-08T00:12:53.496Z">Sat Nov 08 2025 02:12:53 GMT+0200 (Eastern European Standard Time)</time> |
 | [new jack swing]({{ "tags/new-jack-swing" | relative_url }}) | <time datetime="2025-11-08T00:10:17.409Z">Sat Nov 08 2025 02:10:17 GMT+0200 (Eastern European Standard Time)</time> |
 | [sweden]({{ "tags/sweden" | relative_url }}) | <time datetime="2025-11-07T19:07:45.399Z">Fri Nov 07 2025 21:07:45 GMT+0200 (Eastern European Standard Time)</time> |
@@ -420,7 +421,6 @@ Last updated: <time datetime="2025-11-11T04:53:53.241Z">Tue Nov 11 2025 06:53:53
 | [alternative rock]({{ "tags/alternative-rock" | relative_url }}) | <time datetime="2025-11-04T03:32:51.237Z">Tue Nov 04 2025 05:32:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [british rock]({{ "tags/british-rock" | relative_url }}) | <time datetime="2025-11-04T03:31:51.036Z">Tue Nov 04 2025 05:31:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [fastcore]({{ "tags/fastcore" | relative_url }}) | <time datetime="2025-11-04T03:16:51.008Z">Tue Nov 04 2025 05:16:51 GMT+0200 (Eastern European Standard Time)</time> |
-| [progressive electronic]({{ "tags/progressive-electronic" | relative_url }}) | <time datetime="2025-11-04T02:44:51.016Z">Tue Nov 04 2025 04:44:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [instrumental rock]({{ "tags/instrumental-rock" | relative_url }}) | <time datetime="2025-11-04T02:33:55.490Z">Tue Nov 04 2025 04:33:55 GMT+0200 (Eastern European Standard Time)</time> |
 | [minimal techno]({{ "tags/minimal-techno" | relative_url }}) | <time datetime="2025-11-04T02:31:56.605Z">Tue Nov 04 2025 04:31:56 GMT+0200 (Eastern European Standard Time)</time> |
 | [english]({{ "tags/english" | relative_url }}) | <time datetime="2025-11-04T01:11:50.980Z">Tue Nov 04 2025 03:11:50 GMT+0200 (Eastern European Standard Time)</time> |
