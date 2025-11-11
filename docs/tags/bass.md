@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T23:59:58.431Z
+date: 2025-11-11T04:25:41.592Z
 permalink: tags/bass
 title: bass
 ---
 
 ## bass
 
-Last updated: <time datetime="2025-11-03T23:59:58.431Z">Tue Nov 04 2025 01:59:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T04:25:41.592Z">Tue Nov 11 2025 06:25:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,7 +50,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>1975</td>
@@ -109,7 +109,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>1977</td>
@@ -165,7 +165,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>1981</td>
@@ -202,9 +202,9 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/V0sU9LLIl1p9cM4q14EqDh4xaAg_vyPeEAO_PbD0N6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODIy/OS0xMTMzNzc2MzU2/LmpwZWc.jpeg" alt="Cover for The Pursuit Of Accidents" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6236a0816bb74c43cca8c40c521ca587.png" alt="Cover for The Pursuit Of Accidents" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Level 42</td>
@@ -245,7 +245,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>1988</td>
@@ -299,7 +299,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 48</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 47</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 85</li>
         </ul>
       </td>
@@ -324,8 +324,9 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/448dba77f006ecbb595e32d3ba1c23f1.png" alt="Cover for World Diary" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Tony Levin</td>
@@ -341,7 +342,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/jFCEGlO28J58mXJf4-QPAoZwIg3hzwEV9tRmZPBjRJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTEw/NzAtMTQ2OTUzMTQ5/MC01NDgyLmpwZWc.jpeg" alt="Cover for Best Of Keziah Jones" style="max-width:120px; height:auto;" />
       </td>
@@ -356,24 +357,6 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5197f49f3fce539f711c3acd6df1358a.png" alt="Cover for Yes" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995-03-15</td>
-      <td>Morphine</td>
-      <td>Yes</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -399,7 +382,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/rqI2Q6fsefsB80bX8E8hChFEayEkuAq7DR5z_8zdFRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODg2/MzQtMTMxMDYwNzQz/OS5qcGVn.jpeg" alt="Cover for Rhythm&#39;n Jazz" style="max-width:120px; height:auto;" />
       </td>
@@ -418,7 +401,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>1996</td>
@@ -431,8 +414,8 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 28</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 53</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 34</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -457,7 +440,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/IuTM9eQPlSFRLv3xHdbCEINgZUihiCOK1Hs_Sg1_frw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Mzg3/NTEtMTM3MDcxNjkx/NS05MjUxLmpwZWc.jpeg" alt="Cover for Turn It On" style="max-width:120px; height:auto;" />
       </td>
@@ -478,7 +461,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 17</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 34</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -559,14 +542,14 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 32</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 35</li>
             <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 92</li>
             <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/AL77Z4JtDkrcf23UQyYB5i5n3nYhBpLm0A4demlzrz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTky/NS0xNTcyMzM2MjY0/LTE0MjEuanBlZw.jpeg" alt="Cover for Bent" style="max-width:120px; height:auto;" />
       </td>
@@ -585,7 +568,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td>1998-09-22</td>
@@ -606,7 +589,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/pXs_B2TT3WGo50Y5khwozkC1XjmOm4IgojBbCMwHa9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzY0/NDgtMTUwMTI3MTE3/My00NDA2LmpwZWc.jpeg" alt="Cover for Low Blow" style="max-width:120px; height:auto;" />
       </td>
@@ -647,7 +630,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/Zd0ggXk27aZIfy1DSoYEGE-p0s62ongXDTk-uGNwVMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTIy/NzAtMTU5NDY3Mjk3/MS0yOTkzLmpwZWc.jpeg" alt="Cover for Sci-Fi" style="max-width:120px; height:auto;" />
       </td>
@@ -666,7 +649,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2000-01-29</td>
@@ -683,7 +666,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/qJqzvh_T8bSVHfH0LvPyt6ewALE2mqEsj8yJlBk5hJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTk1/NDMtMTI2MTUxOTM0/Ny5qcGVn.jpeg" alt="Cover for Thunderthief" style="max-width:120px; height:auto;" />
       </td>
@@ -701,7 +684,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>2001</td>
@@ -719,7 +702,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/qQbJl3PLH56MLG0SOTKgjpZ0Gw-q8is_oRDuPKmhCoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQw/OTkxLTE1NTA1NTQ5/NTQtMzUwMi5qcGVn.jpeg" alt="Cover for M2" style="max-width:120px; height:auto;" />
       </td>
@@ -742,7 +725,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/qJqzvh_T8bSVHfH0LvPyt6ewALE2mqEsj8yJlBk5hJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTk1/NDMtMTI2MTUxOTM0/Ny5qcGVn.jpeg" alt="Cover for The Thunderthief" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ed43828ade2489e813e8a47fdb9ea35.png" alt="Cover for The Thunderthief" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10-12</td>
       <td>John Paul Jones</td>
@@ -758,7 +741,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/utiaKqtiJs660fiV66wxNlOKo7Y1lPgSeJL-CtdcxVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDg0/OTgtMTUyMjQ3OTk5/Mi0yNDA3LmpwZWc.jpeg" alt="Cover for Jaco" style="max-width:120px; height:auto;" />
       </td>
@@ -777,7 +760,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7f48ebc00694774b9d44df3e6000aab.png" alt="Cover for Sunlight Makes Me Paranoid" style="max-width:120px; height:auto;" />
       </td>
@@ -796,7 +779,24 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Michael Manring</td>
+      <td>Soliloquy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>
       </td>
       <td>2005</td>
@@ -836,6 +836,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd4a34e7bbb742549bad80d5ac358ced.png" alt="Cover for Soul Circus" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-04-12</td>
       <td>Victor Wooten</td>
@@ -853,7 +854,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2006</td>
@@ -874,9 +875,9 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/hr3T0WAmHovS2Y7DnnWn5igXXzmrCUewhqljYcxnQ0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODU3/OS0xNTQ3ODg5NDgy/LTQzOTcuanBlZw.jpeg" alt="Cover for Resonator" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebc5a7417323dd9d84508f6c1facffdb.png" alt="Cover for Resonator" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Tony Levin</td>
@@ -893,7 +894,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>2006-02-27</td>
@@ -914,6 +915,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12cce89ff76944c899fb51a66cd1b3f3.png" alt="Cover for Junjo" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-18</td>
       <td>Esperanza Spalding</td>
@@ -930,7 +932,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2006-08-29</td>
@@ -970,7 +972,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>2007</td>
@@ -991,7 +993,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>2007-06-15</td>
@@ -1047,7 +1049,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/rMYP3dDDmoPbt7Gru778Gn8XTlwMnKh86rBDbBULFSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE3/MDMtMTYwMTUwNDM3/Ni0zNTM0LmpwZWc.jpeg" alt="Cover for Greasin The Wheels" style="max-width:120px; height:auto;" />
       </td>
@@ -1065,7 +1067,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/k92YmYhAo21GLjnms4nzb1CloPT7wwgDb-YWe_s9rMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTQ5/Mjk2LTE2MzM5NDQ1/NzYtMzI3Ni5qcGVn.jpeg" alt="Cover for Gorestep Vol. 1.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1086,6 +1088,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fa229d2294625a85485211268b1f9b9.png" alt="Cover for The Takeover EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-09</td>
       <td>Avery Watts</td>
@@ -1142,7 +1145,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/8kO3hAoAp_6dibyg1IPSg7xxRgjWelO-rUOr0R00fZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjk1/NDMtMTI3MTExNzc0/NC5qcGVn.jpeg" alt="Cover for Dog Day EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1160,7 +1163,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2010-07-26</td>
@@ -1181,6 +1184,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d2be757768a4b5cb078f69c423ff655.png" alt="Cover for Chamber Music Society" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-17</td>
       <td>Esperanza Spalding</td>
@@ -1218,7 +1222,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>2010-10-25</td>
@@ -1240,7 +1244,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/2DCCzXrLSMhaeNxyo5jZjxObMJfS9_qSJe_ZbpDgV1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTI1/MDQtMTMwNTk5Nzkx/MC5qcGVn.jpeg" alt="Cover for The Patience EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1279,12 +1283,12 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       <td>
         <ul>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 21</li>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 71</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/w1uMKhVALqeFpUsAdhdPv_Uai8p0wbaLcQC7jrKBrJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjIz/MTQtMTMwNzQ0ODMy/MC5qcGVn.jpeg" alt="Cover for Skream" style="max-width:120px; height:auto;" />
       </td>
@@ -1305,6 +1309,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5263d08487bb4e21a44ae481162ecd12.png" alt="Cover for Monkeytown" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-30</td>
       <td>Modeselektor</td>
@@ -1317,8 +1322,8 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 33</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 57</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 34</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1378,7 +1383,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2012-06-25</td>
@@ -1413,8 +1418,9 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/abd996c52c3245cab04c342d2874bee0.png" alt="Cover for Strange Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-22</td>
       <td>Liar</td>
@@ -1428,12 +1434,12 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 82</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/MiNlSc2SnhPkUvZQCm7Wx_Gf1la2oG0_xTtH39drf4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTQ3/NjMtMTM1MTcxODM5/OS0yMzI2LmpwZWc.jpeg" alt="Cover for Jets EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1452,13 +1458,13 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 23</li>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 63</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>2013-01-11</td>
@@ -1481,6 +1487,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/751fc61d9566405f82843c647f1fea39.png" alt="Cover for Meine Soldaten" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-03</td>
       <td>Maxim</td>
@@ -1529,21 +1536,21 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 2</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 35</li>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 75</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 10</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 36</li>
             <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 75</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 76</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 88</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 90</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 96</li>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 97</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 97</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 97</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2013-06-24</td>
@@ -1598,12 +1605,12 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 38</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>2014-03-09</td>
@@ -1627,7 +1634,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/jk5BkXYpnaZXrdwpcIORcOhv7lAl0m6437f_Rei8SSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjE0/NjItMTQxMjkzMzM3/MS04MTgxLmpwZWc.jpeg" alt="Cover for My Love (feat. Jess Glynne)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5368a68e7a904f8dcfb6a5a21a729e1c.png" alt="Cover for My Love (feat. Jess Glynne)" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10</td>
       <td>Route 94</td>
@@ -1643,14 +1650,15 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 7</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 47</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 3</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 52</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 69</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/rJnl7AU3bmo0ugFHWTFe4n5_fNd2wqRo4zlKSOTXlls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODk4/NDUtMTQ2MDY3MzIx/NS02Mzk5LmpwZWc.jpeg" alt="Cover for Reflection Spaces" style="max-width:120px; height:auto;" />
       </td>
@@ -1669,7 +1677,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/trAWaNAxt79alXH7tDqk88WS7P7eicIJX-P0ljJkDks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODYz/MzctMTQ3MjgwMDc1/NS0xMjQxLmpwZWc.jpeg" alt="Cover for Diamonds" style="max-width:120px; height:auto;" />
       </td>
@@ -1686,7 +1694,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 65</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1711,9 +1719,9 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/ihMzIghNw8saJX6_t3eC_HUktC--3pDA4XEdSdWFd7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODA3/OTEtMTQ4NDkwODcy/OC04NTUzLmpwZWc.jpeg" alt="Cover for Fjaak" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/805b8315983742167049c92cd75ad3f1.png" alt="Cover for Fjaak" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Fjaak</td>
@@ -1728,14 +1736,14 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 38</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/Z8XFmI9lDGDwd2RGMOZslziRPy7q5NJsvkDDm6Y1HxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODM4/ODgtMTQ4NzkzMzU1/MC05NTkzLmpwZWc.jpeg" alt="Cover for Memories (2008-2011)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd8efa9ddd4ebfbcb003c38e59d9b028.png" alt="Cover for Memories (2008-2011)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-24</td>
       <td>Synkro</td>
@@ -1791,7 +1799,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/XVXU-NycA53MaNW04vcpuLSRjhcp_t6CvhQHUf0pwZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTk2/NzA0LTE1NTgxMjM2/NDEtODc2Ny5qcGVn.jpeg" alt="Cover for ALPAKA" style="max-width:120px; height:auto;" />
       </td>
@@ -1811,7 +1819,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/RcRyU8KvKDZNCVppRb57xOoK9nkoAKxNcRFOdYMrPlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTgy/Mjc4LTE2MDMzNTM5/NDQtNjAxOS5qcGVn.jpeg" alt="Cover for Nikolai Reptile" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3710079948f62ef1e22a822eb5c679b7.png" alt="Cover for Nikolai Reptile" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09</td>
       <td>Shadowax</td>
@@ -1855,7 +1863,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/zI5qE5rmb5wdI4wngEjP1L3eY74qdHz7B1tY-kZYkWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjA1/MTIwLTE2MDUyNDY2/NjEtNDIzMC5qcGVn.jpeg" alt="Cover for Pillowland" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe8c5ae69462abc69b068bd1acc21728.png" alt="Cover for Pillowland" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11-13</td>
       <td>Jam City</td>
@@ -1873,8 +1881,8 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 11</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 34</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 10</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 35</li>
             <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 74</li>
         </ul>
       </td>
@@ -1882,7 +1890,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/n2Xbsv9ym8U8ExDLPlTCgpwHu_9wUvnU6mjjRwllGjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTIz/MzU1LTE2MDgyNzY3/MjYtODg4Mi5qcGVn.jpeg" alt="Cover for Clowntown 2017" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/297053d59abaf129b6e59d005a38d22d.png" alt="Cover for Clowntown 2017" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-12-16</td>
       <td>Behmer</td>
@@ -1963,9 +1971,9 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/Z-OJqxzNM3ftKE8IPW_VPl_7oVPoY2kE5vEVlfhUPsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzkz/NzMzLTE3MDAzNDM5/OTctNjQzOC5qcGVn.jpeg" alt="Cover for Ballady i protesty" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d77318f4c2e14361d2027892b961a935.png" alt="Cover for Ballady i protesty" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-10-29</td>
       <td>Fisz Emade Tworzywo</td>
@@ -1986,14 +1994,14 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 41</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/Emqyv_DoA1cFjugxh22U_pZZKmNywAwA4mNnbNfDQ_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODM0/ODkxLTE3MTcxNzY5/OTktMzM0Ni5qcGVn.jpeg" alt="Cover for Tsuki (Lunatic)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fa5fb5df5c5ef4d9a8303881f5648c6.png" alt="Cover for Tsuki (Lunatic)" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-08</td>
       <td>xikers</td>
@@ -2013,7 +2021,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
@@ -2035,7 +2043,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td></td>
@@ -2060,6 +2068,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d31abee683414e1d929f73a6380aec57.png" alt="Cover for Live Frogs: Set 2" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Les Claypool&#39;s Frog Brigade</td>
@@ -2067,11 +2076,12 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 81</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T16:13:19.751Z
+date: 2025-11-11T04:27:32.958Z
 permalink: tags/euro-house
 title: euro house
 ---
 
 ## euro house
 
-Last updated: <time datetime="2025-10-22T16:13:19.751Z">Wed Oct 22 2025 19:13:19 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-11T04:27:32.958Z">Tue Nov 11 2025 06:27:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
       </td>
       <td>1977</td>
@@ -66,7 +66,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/gRU9-MQPrL_ztoAUt6YS48-xFvjnZpW6XDomHzrDLZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA5/ODAtMTIzMjI2MTQz/My5qcGVn.jpeg" alt="Cover for Liquid (progressive)" style="max-width:120px; height:auto;" />
       </td>
@@ -88,7 +88,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/BcVLcg_TK_vRiehJDPCGEDJ_AiBhta3JyzK9CP_ADlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjM3/LTExODEwMzMzMjEu/anBlZw.jpeg" alt="Cover for Capricorn - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -156,7 +156,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/vBtdI_8q5hUW2akJs0PxchNoeZUzbAZY9gIMiROMeaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NjU2/LTE2MTE2ODMwMTEt/MjA0Ni5qcGVn.jpeg" alt="Cover for Introspective" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9adc7f58de87808926e3baec7f5c8ce9.png" alt="Cover for Introspective" style="max-width:120px; height:auto;" />
       </td>
       <td>1988-04</td>
       <td>Pet Shop Boys</td>
@@ -174,7 +174,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/0_GxDdQnPnH7Tpi2NdMlqw4ow7PJKKg6YKiVFrAfdko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODQ5/LTExNzQwODQ5OTMu/anBlZw.jpeg" alt="Cover for Virtual Attack" style="max-width:120px; height:auto;" />
       </td>
@@ -213,25 +213,6 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/xP1aMYJnFIBRQqhp_om8mZtvwjSG-SyoDgBDEhkel8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTUw/OS0xNjUzMzM3NzEy/LTYxMDUuanBlZw.jpeg" alt="Cover for Let&#39;s Get Down" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>Mechanix Enterprise</td>
-      <td>Let&#39;s Get Down</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>61</td>
       <td>
           <img src="https://i.discogs.com/2R7FUa153v4f61HDZykDAMxtzx4XPNQqiv4J8fGJPhE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MDQz/My0xMTk0NTU3ODUw/LmpwZWc.jpeg" alt="Cover for Hello Afrika (The Album)" style="max-width:120px; height:auto;" />
@@ -251,27 +232,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/rfK7hFvhejJ_INuWREIs6OrAy3DLAIaxalhMoBtekiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzQw/My0xNjQwNjEyODc0/LTI3NTcuanBlZw.jpeg" alt="Cover for La Ola" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992</td>
-      <td>Mystic</td>
-      <td>La Ola</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/WuNoRzazX923eTkD4JZRxZg8ZmFiYccnCAmxu3BOgEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjE5/My0xNjA5ODQwNTg0/LTIwOTIuanBlZw.jpeg" alt="Cover for Galaxy" style="max-width:120px; height:auto;" />
       </td>
@@ -336,7 +297,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/Vnbnp5Ef8Z9vebfR5GrSLOVUJPDtDWFiUXKxE1Nsi_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDk5/Ny0xMzA5NTAwMzY1/LmpwZWc.jpeg" alt="Cover for Workaholic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff28a5fbad03485d8b09b63752999d53.png" alt="Cover for Workaholic" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-04-16</td>
       <td>2 Unlimited</td>
@@ -372,13 +333,13 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 37</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 38</li>
             <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/-JvG7GeU3j0h9nICHtNFC3eVvMSue2zrQ4ivdVusA9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzYw/LTExMDUyODIxNDMu/anBn.jpeg" alt="Cover for i&#39;ll be there for you (doya do do do doya)" style="max-width:120px; height:auto;" />
       </td>
@@ -397,7 +358,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/1lGwE1Q0clEDAyKqWQqPZJZONjBZ_2snVIOZZkxW4lQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTI2/LTE1Mzc0MzU0MDUt/MTY2Ni5qcGVn.jpeg" alt="Cover for Live At The Love Parade" style="max-width:120px; height:auto;" />
       </td>
@@ -412,6 +373,24 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1e7d6fad15b8b0f378323717b7c0691.png" alt="Cover for No Limits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-05-10</td>
+      <td>2 Unlimited</td>
+      <td>No Limits</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -442,6 +421,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1efb95cb066bef656e97cdc033b2828.png" alt="Cover for Cosmic Chaos" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Herbert Grönemeyer</td>
@@ -461,7 +441,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/JqPUCJ5DZB9IcXLaryipH8F5gL3Zi3vvNfBxFXfu61c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTk0/My0xMzA1NzMxNjk0/LmpwZWc.jpeg" alt="Cover for Go-Deh-Yaka" style="max-width:120px; height:auto;" />
       </td>
@@ -481,7 +461,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/XfCqUTC-6MLmTXchawsDhnYp0upNZr-ODi6itrELBmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njc2/ODUtMTIyOTAxMzE5/MC5qcGVn.jpeg" alt="Cover for Tak malo ciebie mam" style="max-width:120px; height:auto;" />
       </td>
@@ -502,7 +482,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/w3k6hM1UbcszxP4WTakjvPxKSl689IjmSmQC5avzchQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MTE2/Ny0xMTU3NDU4ODY5/LmpwZWc.jpeg" alt="Cover for Shout" style="max-width:120px; height:auto;" />
       </td>
@@ -576,9 +556,9 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/ki05OxdOqDfUZww1JBRJNUBEP7nxa-f6crfYKevJzgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ0/MTAtMTU4ODg1MjIw/Ny04Mjg1LmpwZWc.jpeg" alt="Cover for U Don&#39;t Know What I Want" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dff4f4209a964c3c8d7cfb7a58f7889f.png" alt="Cover for U Don&#39;t Know What I Want" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Hype</td>
@@ -598,7 +578,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/sOj5lSyFvMOAOzy6fKaDpKa6-jJ5erMXCr-bB5ZD_n0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njcz/ODAtMTIyODk5MDk5/Ni5qcGVn.jpeg" alt="Cover for Hands Up" style="max-width:120px; height:auto;" />
       </td>
@@ -618,7 +598,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/KnszuKmRZM5lPdzZtYfjmN6XTwTyZtOGD2Z_yW6oQRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTM3/MjMtMTMwMDA1MTI4/OS5qcGVn.jpeg" alt="Cover for Provocative" style="max-width:120px; height:auto;" />
       </td>
@@ -664,7 +644,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/TIUBn3S3jIpt5MovmWwU_nz4eV0c8dYZIF2048nupik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzE4/NC0xNjMxNjk5OTgy/LTMzNDQuanBlZw.jpeg" alt="Cover for Always And Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -682,7 +662,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/KyXbWRiISL2crL6XsEaO9i81GLMjHYFVQuIO6qebtfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTU5/OC0xNTM2NTMxNTE5/LTgzNTQuanBlZw.jpeg" alt="Cover for Think Twice" style="max-width:120px; height:auto;" />
       </td>
@@ -702,7 +682,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/hQ800Zb0l_2v6HHqDY-e2RLpFWHXLuoHQZGl9FZT3Hc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI2/MTItMTU4MzY4NjUx/NC02NTI5LmpwZWc.jpeg" alt="Cover for Enkeli" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b85f6fdbfaeb4d23af63f4f24fa6cfa1.png" alt="Cover for Enkeli" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>CatCat</td>
@@ -722,7 +702,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/DbO8xp5djoizCagfEqf05J4oSBta0cElgINGbJnsWoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI5/NjgtMTIwMTEzMTk2/MS5qcGVn.jpeg" alt="Cover for 1.000.000,- Dollars" style="max-width:120px; height:auto;" />
       </td>
@@ -754,12 +734,12 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 12</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/zfbHZA9QEtGmImZTXaxnjXO4CAPuChApD5zHCFPF2Ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY4/NjYtMTM2MzcyMzcz/Ny03ODc5LmpwZWc.jpeg" alt="Cover for Hey Hoh" style="max-width:120px; height:auto;" />
       </td>
@@ -778,7 +758,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/eZDxkhRnkhiHSO1FvqmRimfJ6FRKViAipCpfnk6FFgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTUz/NTctMTQ4ODExNzE1/NC03MDMyLmpwZWc.jpeg" alt="Cover for The Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -799,7 +779,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/zlTXhx8DfzW3GK9x-bljmMgZzBI9lIi3y0dCN3jk0mk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDI1/OS0xMDc2OTIwMTM1/LmpwZw.jpeg" alt="Cover for Mixmag Live! Volume 2: Sven Väth &amp; Moby" style="max-width:120px; height:auto;" />
       </td>
@@ -888,7 +868,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for Dance &amp; Electronic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c10790ec80aefc9c3d14f5541457129.png" alt="Cover for Dance &amp; Electronic" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Various Artists</td>
@@ -907,9 +887,9 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/3Z4RlMNrT1Z99kXSklNlzPLEfAufJ8wiGho2hbB0aGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzE1/OS0xNjQ2ODQ2NTYy/LTU3NTUuanBlZw.jpeg" alt="Cover for The Greatest Hits &#39;94 Volume 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae5aa1f167cd43d379d89d035a0da954.png" alt="Cover for The Greatest Hits &#39;94 Volume 1" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Various Artists</td>
@@ -929,7 +909,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/xqToAP9xR4grsdeJjvuvTmTK0YAwVek3tCtgF6Elcng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDAx/MC0xNjU3ODYzNjg0/LTgyMDkuanBlZw.jpeg" alt="Cover for Future Trance Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -947,7 +927,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>19</td>
       <td>
       </td>
       <td>1997</td>
@@ -987,7 +967,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 50</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 49</li>
             <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 85</li>
         </ul>
       </td>
@@ -1078,13 +1058,13 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 56</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 55</li>
             <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/GPW2I1B0Dgc9ig8Y6cxRW3C_DVRT1wJNVMnCZrhRTzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjcw/MDEtMTIwMjUzNjM2/NS5qcGVn.jpeg" alt="Cover for Be My Lover" style="max-width:120px; height:auto;" />
       </td>
@@ -1143,7 +1123,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 64</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1215,7 +1195,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/uLUfX3PnadLwRbudvqsITnFwVoYoQoUM6WbkOmWALtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTE0/LTE2MzcwMjkyMzct/NDQyMS5qcGVn.jpeg" alt="Cover for Gimme More" style="max-width:120px; height:auto;" />
       </td>
@@ -1238,9 +1218,9 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/MnYtwKFYm9RYNuRj7LWVhhMMmaF6QhwWzmHofkyCXq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjc2/OTQtMTM1NDExNzIz/Ny0yMzcwLmpwZWc.jpeg" alt="Cover for Come To Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c40b5d86865415ec14d3d3cf1421557.png" alt="Cover for Come To Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Betty</td>
@@ -1280,7 +1260,25 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40288020f72f415686955e08581014ae.png" alt="Cover for The Stadium Techno Experience" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-03-31</td>
+      <td>Scooter</td>
+      <td>The Stadium Techno Experience</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 33</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
       <td>
       </td>
       <td>2004</td>
@@ -1345,7 +1343,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 53</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 56</li>
             <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 100</li>
         </ul>
       </td>
@@ -1370,7 +1368,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 17</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 14</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 59</li>
             <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 78</li>
         </ul>
@@ -1423,6 +1421,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb2823b230226bc653e7b4b4ba1a007c.png" alt="Cover for I Can&#39;t Dance" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-12</td>
       <td>Basslovers United</td>
@@ -1443,7 +1442,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/BOLR_7kc_NkC94QkcJMeVGEVR9AeKpNn6ewETiB67VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTU1/NjEyLTE0OTI1OTAx/NjgtNTQwNS5qcGVn.jpeg" alt="Cover for PCD (Bonus Track Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05e9b45e77620851f414bd059c73463a.png" alt="Cover for PCD (Bonus Track Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>The Pussycat Dolls</td>
@@ -1463,7 +1462,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>32</td>
       <td>
       </td>
       <td>2008-04-07</td>
@@ -1527,7 +1526,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/2JwIP3eYvELBK0FoG9Wyy4iwUbCY_ThOer_AymMOKw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTIy/MjctMTIzNDY5NTE3/My5qcGVn.jpeg" alt="Cover for Future Trance Vol. 42" style="max-width:120px; height:auto;" />
       </td>
@@ -1546,7 +1545,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>23</td>
       <td>
       </td>
       <td>2009</td>
@@ -1581,7 +1580,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 51</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 50</li>
             <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 86</li>
         </ul>
       </td>
@@ -1634,7 +1633,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/8QnIJKUuvEQUpsQAehYXq-2CysUM985PUHc3KLjNOAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjYw/NzE0LTE1ODg4Mzgx/MzEtNjU2Mi5wbmc.jpeg" alt="Cover for Chromatica" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8504f8b6a728694e9985169e97c82990.png" alt="Cover for Chromatica" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Lady Gaga</td>
@@ -1649,11 +1648,11 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 17</li>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 25</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 62</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 78</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 83</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 23</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 28</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 65</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 82</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 87</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 90</li>
         </ul>
       </td>
@@ -1722,7 +1721,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/91ZFevSkiP5XMZxkdYcOK6yen_7k8U3jOGP3p6FRK8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzcz/NTItMTI3NzkxNzAy/MC5qcGVn.jpeg" alt="Cover for Summer Dance Mania 2007" style="max-width:120px; height:auto;" />
       </td>
@@ -1864,7 +1863,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/RaxK4mMgVVeC8Orns8wdCDk9IwtaxqkbjjR7cAwgbXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDc4/ODItMTM3NDUwMzM2/Ni0zODkwLmpwZWc.jpeg" alt="Cover for Gunther D Presenteert De Ultieme Botsautomix" style="max-width:120px; height:auto;" />
       </td>
@@ -1889,6 +1888,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5f464ace4ec44a499365b43c328c76d.png" alt="Cover for Undercover" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-21</td>
       <td>Milk Inc.</td>
@@ -1906,7 +1906,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 46</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 45</li>
             <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 50</li>
             <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 74</li>
         </ul>
@@ -1982,7 +1982,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/22u8b1bA-jZaRtvMRtPqp9_K0hKPjrBaMMXrByxTcqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTA1/NjQ1LTE1OTQzMjI1/MDEtNTU5My5qcGVn.jpeg" alt="Cover for Rather Be" style="max-width:120px; height:auto;" />
       </td>
@@ -2005,7 +2005,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/lfHpsMvpGAwKXmVma0WDLrRrX42L48MFfRcmfsfzbaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyODYz/MzctMTQxNTYxMTQ5/NS05MDMyLmpwZWc.jpeg" alt="Cover for Up &#39;n Away" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c3f8604404b479fc7a36b20dfe11d3c.png" alt="Cover for Up &#39;n Away" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-28</td>
       <td>Italobrothers</td>
@@ -2023,7 +2023,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
       </td>
       <td>2022-04-14</td>
@@ -2041,7 +2041,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/cUdoK3WX2IXWlosHYPLyjINGGwF9jgeQMVphqEGxMyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODY4/MzI5LTE2NzQ1NDc2/OTAtODMyNi5qcGVn.jpeg" alt="Cover for Diamonds &amp; Dancefloors" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca85d3f90d082056adfcf56b82056bd6.png" alt="Cover for Diamonds &amp; Dancefloors" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-01-27</td>
       <td>Ava Max</td>
@@ -2053,13 +2053,13 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 73</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 80</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 76</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/T2Q9lD4U63sI5BfXGVhIF1HKBJKdF8vOQ6fHA0OyxGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDE3/MjgtMTMyNjYyODUw/OC5qcGVn.jpeg" alt="Cover for Close Your Eyes (Original Radio Edit)" style="max-width:120px; height:auto;" />
       </td>
@@ -2080,7 +2080,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -2100,7 +2100,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -2120,7 +2120,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>29</td>
       <td>
       </td>
       <td></td>
@@ -2137,7 +2137,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>34</td>
       <td>
       </td>
       <td></td>
