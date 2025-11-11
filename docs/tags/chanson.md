@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-04T02:30:05.469Z
+date: 2025-11-11T04:46:11.552Z
 permalink: tags/chanson
 title: chanson
 ---
 
 ## chanson
 
-Last updated: <time datetime="2025-11-04T02:30:05.469Z">Tue Nov 04 2025 04:30:05 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T04:46:11.552Z">Tue Nov 11 2025 06:46:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
     <tr>
       <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a739f15a37b3f26ceb440fc3a6bfb0e.png" alt="Cover for La vie en rose" style="max-width:120px; height:auto;" />
       </td>
       <td>1956</td>
       <td>Édith Piaf</td>
@@ -42,7 +43,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 14</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -66,6 +67,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b89033fbaea1584196849547baacbffd.png" alt="Cover for Il cielo in una stanza" style="max-width:120px; height:auto;" />
       </td>
       <td>1960-06</td>
       <td>Mina</td>
@@ -157,7 +159,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/VxemXdGCMmdAI0KCZzFnR0i-MrYIcxN71FOBy0y1CSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTkz/NjItMTI1MjQ0NDI0/NS5qcGVn.jpeg" alt="Cover for Les Vieux" style="max-width:120px; height:auto;" />
       </td>
@@ -284,12 +286,12 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 46</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f98967850adeaae9c2bc5888347b5a27.png" alt="Cover for Histoire de Melody Nelson" style="max-width:120px; height:auto;" />
       </td>
@@ -308,7 +310,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
       </td>
       <td>1972</td>
@@ -328,6 +330,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ace0fb0da6d27601a62483ae2207a74.png" alt="Cover for And I Love You So" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Shirley Bassey</td>
@@ -417,7 +420,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/Ny2EiDxhS8q4FAyQ3Gv9SLwYmFNYtU_vB2gvtRziZmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTUy/MjgtMTQzNjE0MTAw/MS00Mjc4LmpwZWc.jpeg" alt="Cover for Lolita Go Home" style="max-width:120px; height:auto;" />
       </td>
@@ -449,7 +452,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 45</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -512,13 +515,13 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 14</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 23</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 16</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td>1986</td>
@@ -554,7 +557,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/KkAFU7kpRH8GmGj2kdxSiYD3_P2FJqtfToPYkoF8H_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTgx/OC0xNTk0NjQyNTE2/LTEzMzMuanBlZw.jpeg" alt="Cover for The Very Best Of Edith Piaf" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9895279b89e644c3b15925114a4e800f.png" alt="Cover for The Very Best Of Edith Piaf" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Édith Piaf</td>
@@ -566,7 +569,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 50</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -586,7 +589,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 12</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -636,7 +639,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/PYtHDA6J_hyC6COTVkbfRqmpDqbV4L1dZTwXgx4uayU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjc0/NDI5LTE1NzEyMzY1/ODYtMzg5My5qcGVn.jpeg" alt="Cover for C&#39;est Ma Chanson" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de3cb992445746ffbb851b89bf3792f5.png" alt="Cover for C&#39;est Ma Chanson" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Petula Clark</td>
@@ -673,7 +676,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>1991-07-30</td>
@@ -847,7 +850,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>1999</td>
@@ -948,6 +951,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c298718ce9064688aaf2835845b4ba5c.png" alt="Cover for Attraction" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Paris Combo</td>
@@ -965,6 +969,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cde5044693c74192bcc7a39c56ef3075.png" alt="Cover for Quelqu&#39;un m&#39;a dit" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-11-05</td>
       <td>Carla Bruni</td>
@@ -978,12 +983,12 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
         <ul>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 87</li>
             <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 93</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 97</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td>2003</td>
@@ -1030,7 +1035,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/DTv4judyY7Fx0sUvhMiutjjTYwWYZhdv7kw6XzubrKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDIz/NDMtMTM3ODkyOTU1/NC04MTYyLmpwZWc.jpeg" alt="Cover for Untold" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90aefb0b59c32ef2a9b555f6911cb075.png" alt="Cover for Untold" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-06-17</td>
       <td>Pete Francis</td>
@@ -1150,6 +1155,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d820f06565def9c75c4ddf23504ea1bd.png" alt="Cover for RENDEZ-VOUS" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-03-29</td>
       <td>Jane Birkin</td>
@@ -1182,26 +1188,9 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2004-10-18</td>
-      <td>Aldebert</td>
-      <td>L&#39;année du singe</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/lsGHhgzupoZiI0EH6cgH0WZBsCH327kyK_mku4tTxGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjY2/NC0xMTgyNzAyMjAw/LmpwZWc.jpeg" alt="Cover for Bohème" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a264b0ce622f4d91aeaa931ffbccc14b.png" alt="Cover for Bohème" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-25</td>
       <td>Annett Louisan</td>
@@ -1232,7 +1221,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 17</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1310,7 +1299,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/939dbe51943d4da4ba41136958997be1.png" alt="Cover for No Promises" style="max-width:120px; height:auto;" />
       </td>
@@ -1328,7 +1317,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td>2006-03-06</td>
@@ -1522,21 +1511,21 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05d51699213d067cd8458f44e7927b2d.png" alt="Cover for Zaz" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-10</td>
       <td>Zaz</td>
       <td>Zaz</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 63</li>
+            <li> <a href="{{ "/tags/gypsy-jazz" | relative_url }}">gypsy jazz</a> # 39</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1558,7 +1547,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td>2011-05-12</td>
@@ -1578,6 +1567,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1033467c4eb04c1ab26cd071f0d114d2.png" alt="Cover for Curses from past times" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-20</td>
       <td>ProleteR</td>
@@ -1593,8 +1583,47 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 26</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 29</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/392fe16480e84f3985bdd636c491a837.png" alt="Cover for Wish I Was Here" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-03-02</td>
+      <td>Micatone</td>
+      <td>Wish I Was Here</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 14</li>
+            <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 14</li>
+            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 41</li>
+            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 42</li>
+            <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 43</li>
+            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 44</li>
+            <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 46</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 47</li>
+            <li> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a> # 49</li>
+            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 53</li>
+            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1621,6 +1650,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57fd3e98cb2ded0e55f71fd14589efdd.png" alt="Cover for Chansons" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Jill Barber</td>
@@ -1641,6 +1671,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27c9eb1bb170449db4bf42ee41e5d449.png" alt="Cover for Little French Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-29</td>
       <td>Carla Bruni</td>
@@ -1681,9 +1712,8 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/tUoOukJFV7qg0x8glRGXJCjv0lDRUm05LHID1JoX8-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjIz/ODItMTQ1NTU2MzMw/Mi0zNDUzLmpwZWc.jpeg" alt="Cover for Love for the Dead" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-31</td>
       <td>Invictus</td>
@@ -1701,7 +1731,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td>2014-04-07</td>
@@ -1756,7 +1786,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/EU3uachCQ55KmcWGNnsamTHccBEtJCQKt9uGVgQaAG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDYz/NTktMTMxMTQwNzk2/NC5qcGVn.jpeg" alt="Cover for Mauvaises Nouvelles Des Etoiles" style="max-width:120px; height:auto;" />
       </td>
@@ -1835,7 +1865,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/l_bkCpNVwM5Q776DeMrt960o6qqaadn7VUD9UBnpVh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODkw/MzkxLTE1NDM5Mzgz/ODktOTkwNC5qcGVn.jpeg" alt="Cover for Hit Sale Xtra Cheese" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc6d89a1b2bc0e1d0e42b096d719478c.png" alt="Cover for Hit Sale Xtra Cheese" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-16</td>
       <td>Therapie TAXI</td>
@@ -1874,7 +1904,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       <td>
         <ul>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 59</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 75</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1894,14 +1924,14 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 23</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/25plklQzBnOLYWB9-VNctIvSUWJ9jY9iGmrRPOdJyrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjUz/MjMwLTE2NjY3MTcy/MTEtMzc1MS5qcGVn.jpeg" alt="Cover for Dimanche" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56212e459f24e7dadefa29e1e20f86ec.png" alt="Cover for Dimanche" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Emma Peters</td>
@@ -1918,9 +1948,9 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 21</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 22</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 27</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 40</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 42</li>
         </ul>
       </td>
     </tr>
