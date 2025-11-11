@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-06T22:42:59.571Z
+date: 2025-11-11T03:15:34.579Z
 permalink: tags/psydub
 title: psydub
 ---
 
 ## psydub
 
-Last updated: <time datetime="2025-11-06T22:42:59.571Z">Fri Nov 07 2025 00:42:59 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T03:15:34.579Z">Tue Nov 11 2025 05:15:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
   </thead>
   <tbody>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td>1972</td>
@@ -72,7 +72,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Inner Gathering" style="max-width:120px; height:auto;" />
       </td>
@@ -92,7 +92,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/cve9xtqp145H7WbZRmxIK7Pr9dGTd-kfSrowOIvD2Ag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzQ5/NDQwLTE2NzAwMDE5/NTMtNjAzMS5qcGVn.jpeg" alt="Cover for Space Forming Vol.2" style="max-width:120px; height:auto;" />
       </td>
@@ -113,7 +113,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Space Forming" style="max-width:120px; height:auto;" />
       </td>
@@ -170,7 +170,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>1995</td>
@@ -188,7 +188,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>1996-05-10</td>
@@ -208,9 +208,9 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/Hay_PT1hSRunUAMod4OkalWZKaFKfamEg8iCdqULMcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTA4/LTEzMjg0NzcxNDUu/anBlZw.jpeg" alt="Cover for Trust In Trance vol 3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ad7c2a27bac488d9fa7840290791375.png" alt="Cover for Trust In Trance vol 3" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-09-02</td>
       <td>Astral Projection</td>
@@ -286,7 +286,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>2001-11-12</td>
@@ -304,7 +304,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/VHE5gsij5Q1ZAt9BWsKUwqq7i47CK6jTGxlUsPVmV3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDg2/Mi0xNjIyOTg4Mzcx/LTk2OTYuanBlZw.jpeg" alt="Cover for Wider Horizons" style="max-width:120px; height:auto;" />
       </td>
@@ -360,12 +360,12 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 42</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/dBCboO7N469gmQMcoAl7BCOQNACyYlZUnCEGqwzSAKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTAz/NC0xMTI2Njc5MjE2/LmpwZWc.jpeg" alt="Cover for Spontaneous Ilumination" style="max-width:120px; height:auto;" />
       </td>
@@ -383,7 +383,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/59uvyV9xS6Bdjy4rbBUiJRAFaibklwBvZJdI9SeZXk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODA4/NS0xMzc0MTcyNzg2/LTI0MjIuanBlZw.jpeg" alt="Cover for In Dubland" style="max-width:120px; height:auto;" />
       </td>
@@ -521,6 +521,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/332c2db3673fb58e9dd5edf050f1741f.png" alt="Cover for And The Beat Goes Om" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Slackbaba</td>
@@ -596,8 +597,9 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/609d908afb23294b455c161bc9a0ecc7.png" alt="Cover for Exploring The Tributaries" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06-01</td>
       <td>Vibrasphere</td>
@@ -689,7 +691,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 80</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 92</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -714,7 +716,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/71-nrShl9ACS1eIH6aRSQrpbqWPkUB5gDt08YHlLBrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTQ5/OTgtMTI0MTI5MDE3/My5qcGVn.jpeg" alt="Cover for Waveform Transmissions Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -759,7 +761,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Everlasting - selected and mixed by Gaudi" style="max-width:120px; height:auto;" />
       </td>
@@ -779,7 +781,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2009-02-23</td>
@@ -846,6 +848,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de51edf693174e10541dee423cd80b48.png" alt="Cover for Ineffable Mysteries From Shpongleland" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11-02</td>
       <td>Shpongle</td>
@@ -867,7 +870,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2009-11-06</td>
@@ -913,9 +916,9 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/ZNbq8-UUkE88-MKW3tkpDWaSsatQiRd9n_nY2R-lhZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE3/MjktMTI2ODQyMDY4/NC5qcGVn.jpeg" alt="Cover for Hidden Sense [EP]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e968aa81c653924468e97b1bad48643.png" alt="Cover for Hidden Sense [EP]" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-15</td>
       <td>Tara Putra</td>
@@ -956,7 +959,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2010-05-11</td>
@@ -1013,7 +1016,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/RMnM1YLNXYjQRWxuy34CgFV6O6gQvsQvXwUyjlXbZOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MjY1/MTctMTM3NjcyMTkz/Mi00MTg0LmpwZWc.jpeg" alt="Cover for Tracks from Compilations (2008-2010)" style="max-width:120px; height:auto;" />
       </td>
@@ -1044,7 +1047,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/UI8EQyWiddeN8gfridAgvWZ-C795KE2g1E_GN8qRsYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTEx/NzAtMTM4Njg5NzQz/My01NTk2LmpwZWc.jpeg" alt="Cover for Crystal Forest" style="max-width:120px; height:auto;" />
       </td>
@@ -1064,7 +1067,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>2011-06-29</td>
@@ -1074,29 +1077,6 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/6bXFslJ3dD9Ky8V7-Sp1KX7BMb-MdqLbRChCl0n074Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjE2/MjgwLTE1OTQ1OTU2/MDctNTIyMy5qcGVn.jpeg" alt="Cover for Rockabilly Dub Mineral" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-07-06</td>
-      <td>Fortes</td>
-      <td>Rockabilly Dub Mineral</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
         </ul>
       </td>
       <td>
@@ -1177,7 +1157,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/IUalJT_NUOUXlbtf_slZb53ybZb6PDUVaMEiFUQkbJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTE4/NTItMTM0ODk3MjEz/Mi05NTc0LmpwZWc.jpeg" alt="Cover for Illusions Blooming Softly" style="max-width:120px; height:auto;" />
       </td>
@@ -1220,7 +1200,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/KU5DDFCwfpgq3WMpmeDb-oWda7gFmh2q5nilJwDzs0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzMx/MDUtMTM5MzIzNzk1/Mi03NzMzLmpwZWc.jpeg" alt="Cover for Psychedelic Bassmeditation" style="max-width:120px; height:auto;" />
       </td>
@@ -1257,7 +1237,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/KU5DDFCwfpgq3WMpmeDb-oWda7gFmh2q5nilJwDzs0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzMx/MDUtMTM5MzIzNzk1/Mi03NzMzLmpwZWc.jpeg" alt="Cover for Analog Mystic" style="max-width:120px; height:auto;" />
       </td>
@@ -1294,7 +1274,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/KU5DDFCwfpgq3WMpmeDb-oWda7gFmh2q5nilJwDzs0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzMx/MDUtMTM5MzIzNzk1/Mi03NzMzLmpwZWc.jpeg" alt="Cover for Eidolon" style="max-width:120px; height:auto;" />
       </td>
@@ -1335,7 +1315,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/KU5DDFCwfpgq3WMpmeDb-oWda7gFmh2q5nilJwDzs0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzMx/MDUtMTM5MzIzNzk1/Mi03NzMzLmpwZWc.jpeg" alt="Cover for The Wonderfull World of Frogs" style="max-width:120px; height:auto;" />
       </td>
@@ -1360,7 +1340,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/VTCAGWxnX7jSkCykhnb393c6AJD59-_xLsOhDE2iTBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTIy/NDYtMTM3OTIzMzIx/OS0xMjkzLmpwZWc.jpeg" alt="Cover for Angel Dust" style="max-width:120px; height:auto;" />
       </td>
@@ -1379,7 +1359,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/6e8U1GUCvQi2Vr5jrW58zXemXCjkbtubJTWE8zJB2do/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzY0/MDE0LTE2Nzg0MDM0/NjItNzYxNC5qcGVn.jpeg" alt="Cover for Deschloroflux" style="max-width:120px; height:auto;" />
       </td>
@@ -1405,7 +1385,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/AhGu5SQmPzldRREoHCKkwHfD0WiIsbwS3u0DYvPza7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTg1/NjItMTM4NjA4Nzgx/Ni02NDk3LmpwZWc.jpeg" alt="Cover for Encoder" style="max-width:120px; height:auto;" />
       </td>
@@ -1466,7 +1446,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/cpzL8ovysmthkvGCeIccMwbfW2BWuFaRtwAi7JYjTbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTcy/NDgtMTM5MzM0MzEy/My0zMjc2LmpwZWc.jpeg" alt="Cover for Dub Mates Meeting - Gliese 581C" style="max-width:120px; height:auto;" />
       </td>
@@ -1519,7 +1499,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/2Y5KAtLic-1n9dOxEb5GuW-cHRzTD-9-weKi8qgSlvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDY0/MzUtMTM5NjE4NTE1/My0zNjcwLmpwZWc.jpeg" alt="Cover for Shikoon EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1550,7 +1530,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/KmZAeucYPj-KDMUnfdIVrB29jDEOz-6OT3vo8L2m9xE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjYx/NDUtMTQwMjA1OTMw/NS0xMzk0LmpwZWc.jpeg" alt="Cover for Cirrus Sapiens" style="max-width:120px; height:auto;" />
       </td>
@@ -1570,7 +1550,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/gb-kyNEnavMBFNhe1dqqM7mP71wt-Y1IOsi2RhrFRxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2OTQz/MDQtMTQyNDc4MTA3/My05ODI5LmpwZWc.jpeg" alt="Cover for Textura et Caelum" style="max-width:120px; height:auto;" />
       </td>
@@ -1592,7 +1572,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2014-09-19</td>
@@ -1610,7 +1590,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/utSQV3CzchjnDnmwgQvBBjY8vuaIaFsB3XlX8MjtwTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Njgx/NzUtMTQ2MjE5ODIz/My01MTE0LmpwZWc.jpeg" alt="Cover for Human Nature" style="max-width:120px; height:auto;" />
       </td>
@@ -1630,7 +1610,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/NX2IsJH7oYrH5nThywRMN84xuBdjHSDqCAmbj0D6np0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MjM5/NzQtMTQ0MzI2Nzkw/NC0xNzk3LmpwZWc.jpeg" alt="Cover for Step My Dub" style="max-width:120px; height:auto;" />
       </td>
@@ -1741,22 +1721,16 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/swP17kbuKdgUXtqYYEMNRUIQntU8C3Tzs0gdPQvntXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDcz/NzMtMTQ2MTc4MTgx/Mi0yOTcwLmpwZWc.jpeg" alt="Cover for Celtic Vedic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26a3b6f65644a90b8798b34408b1b688.png" alt="Cover for Celtic Vedic" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-10</td>
       <td>Dub Trees</td>
       <td>Celtic Vedic</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/london" | relative_url }}">london</a></li>
         </ul>
       </td>
       <td>
@@ -1765,7 +1739,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/swP17kbuKdgUXtqYYEMNRUIQntU8C3Tzs0gdPQvntXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDcz/NzMtMTQ2MTc4MTgx/Mi0yOTcwLmpwZWc.jpeg" alt="Cover for Liquid Dub, Volume Seven" style="max-width:120px; height:auto;" />
       </td>
@@ -1782,7 +1756,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/oAUZ8ab4-c_xU1E89GYw62mg_4M76EZuBPBDffbXVqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMDM4/MTEtMTQ3NjYwODYy/Ni04MTI1LmpwZWc.jpeg" alt="Cover for The Simplest Way to Nothing" style="max-width:120px; height:auto;" />
       </td>
@@ -1948,7 +1922,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/aIJsaKtx4kMhpWPaE9UaxVsSP6v6Z-jW_n6c3fGTBMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODAy/MDUtMTQzMTEwNDUx/MC01Mjc0LmpwZWc.jpeg" alt="Cover for Gateway" style="max-width:120px; height:auto;" />
       </td>
@@ -1967,7 +1941,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/cve9xtqp145H7WbZRmxIK7Pr9dGTd-kfSrowOIvD2Ag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzQ5/NDQwLTE2NzAwMDE5/NTMtNjAzMS5qcGVn.jpeg" alt="Cover for Space Forming Vol.3" style="max-width:120px; height:auto;" />
       </td>
@@ -1988,7 +1962,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for Dubbed on Planet Skunk" style="max-width:120px; height:auto;" />
       </td>
@@ -2006,7 +1980,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>2024-05-17</td>
@@ -2034,6 +2008,30 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d92ce3b2b584af2a4c8cd1abe2e8441.png" alt="Cover for I don&#39;t move" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Double 6 project</td>
+      <td>I don&#39;t move</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
         </ul>
       </td>
@@ -2090,7 +2088,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -2113,7 +2111,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -2133,7 +2131,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>
@@ -2151,7 +2149,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td></td>

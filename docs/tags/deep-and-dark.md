@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T00:45:02.309Z
+date: 2025-11-11T03:32:16.329Z
 permalink: tags/deep-and-dark
 title: deep and dark
 ---
 
 ## deep and dark
 
-Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
   </thead>
   <tbody>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Clicks &amp; Cuts 3" style="max-width:120px; height:auto;" />
       </td>
@@ -52,7 +52,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/LQhKZX4hWwWXltDtCYS-QV1SYW_opEYITMEGdXL4PbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTgy/Mi0xMzQxNzcyOTg4/LTYzMzIuanBlZw.jpeg" alt="Cover for Oltre La Morte, Birth And Death" style="max-width:120px; height:auto;" />
       </td>
@@ -69,8 +69,9 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f28cb7a577376f87ec1785083acd901.png" alt="Cover for Nightclubbing" style="max-width:120px; height:auto;" />
       </td>
       <td>1981-05-04</td>
       <td>Grace Jones</td>
@@ -84,13 +85,13 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 23</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 29</li>
             <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/LMRwQc3IeGqxegBX5STjWZ7dNEG8zQMUXMbSfv3AkHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTky/NjgtMTM2OTEzNzE4/MC0zNzcxLmpwZWc.jpeg" alt="Cover for Scribble" style="max-width:120px; height:auto;" />
       </td>
@@ -111,7 +112,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/xJqQX8kOaqcu_sDs5tf1EDiX19xxNFV3cy7hhBE7StQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzg4/Ny0xNDA0NzY5ODQ5/LTIwMDcuanBlZw.jpeg" alt="Cover for Live in Berlin" style="max-width:120px; height:auto;" />
       </td>
@@ -129,7 +130,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/tUt-faLzQVL9zcvBKr2HXEII0FsdEqsT_R86DB2fPUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjU0/MC0xNTcyOTA3OTE5/LTk2ODUuanBlZw.jpeg" alt="Cover for Camouflage Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -174,7 +175,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/ofS1VqBrE85Y6DEZQ8pw0h9YmyuWIgF1TrJi9icBCb0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI3/LTEyMDE1NDI2MTYu/anBlZw.jpeg" alt="Cover for Aftermath #2" style="max-width:120px; height:auto;" />
       </td>
@@ -192,7 +193,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c89cdd763d94c5dbc53ed7c607cac42.png" alt="Cover for Blood and Thunder" style="max-width:120px; height:auto;" />
       </td>
@@ -212,7 +213,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
       </td>
       <td>1993</td>
@@ -231,7 +232,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
       </td>
       <td>1994-07</td>
@@ -251,7 +252,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/dUGFZ78QyBQSdDeWTSyIrG9U-zNWjv3z49qeU36VB8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDYx/LTAwMi5qcGc.jpeg" alt="Cover for Phonogam" style="max-width:120px; height:auto;" />
       </td>
@@ -269,7 +270,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/o6acrS91fSpvB0v9s83WuLJHz2BX8uuiDg_76gZkbaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODcw/LTExODU0NjYzMDMu/anBlZw.jpeg" alt="Cover for B50 Lab Experiment" style="max-width:120px; height:auto;" />
       </td>
@@ -287,7 +288,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/Z2SpjZCCIezVIe3BrylXvN6zg-eKJCYQDTVLDLiIJJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjA5/LTExMDk0NjkzMDku/anBn.jpeg" alt="Cover for Talent" style="max-width:120px; height:auto;" />
       </td>
@@ -305,7 +306,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/__8lSGhCXfPNX6SQEasYxICxRvHCnWkXrNFs3XZTdtQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTIz/LTExOTA5ODUwOTIu/anBlZw.jpeg" alt="Cover for Intoleratio" style="max-width:120px; height:auto;" />
       </td>
@@ -323,7 +324,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/pZbuqxudz6mnEblQABXWuw_luibmK9wC14YmC3AK6JQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Njcz/LTEyMTEzODgzNDAu/anBlZw.jpeg" alt="Cover for TRIO DE JANEIRO" style="max-width:120px; height:auto;" />
       </td>
@@ -343,7 +344,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
       </td>
       <td>1999-06-11</td>
@@ -360,7 +361,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
       </td>
       <td>1999-11-29</td>
@@ -377,7 +378,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/GWtb5gHONMnk5hLVIh1A6Xv5E5jeoPN_jBkrapTVRpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMDc2/LTEwOTg3MzY2MTIu/anBn.jpeg" alt="Cover for Shape-Space" style="max-width:120px; height:auto;" />
       </td>
@@ -392,12 +393,12 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 57</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/r0YEX9Z6iyLSKpTV_989UDf4q6v9aTqJHNUWplBSKik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDkt/MDAxLmdpZg.jpeg" alt="Cover for Premiere World" style="max-width:120px; height:auto;" />
       </td>
@@ -419,7 +420,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td>2000-09-01</td>
@@ -435,12 +436,12 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 70</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/XSDm6xOzO08WeFypNzhyWB-bjaqiGpJlOIKz55Hlf_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzODg1/LTEyNzAzMTcxNjYu/anBlZw.jpeg" alt="Cover for Speicher 4" style="max-width:120px; height:auto;" />
       </td>
@@ -458,7 +459,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/dgWVt92khuYjq7nxUo7hcK4YvWVj1iBVc_EI-W2m9bM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTIz/MC0wMDEuanBn.jpeg" alt="Cover for Overnight" style="max-width:120px; height:auto;" />
       </td>
@@ -476,7 +477,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/3kz72hKqnCTq7_uOqZtkPz_Dtf7gJSHxvXOkodKZQsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM0/OC0xMTU2MTc4MzY4/LmpwZWc.jpeg" alt="Cover for Here and Elsewhere" style="max-width:120px; height:auto;" />
       </td>
@@ -495,7 +496,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/ObD4JJ_sj3Qo1FqPQ4ucT4kQ5Cz0wbrnJQXgv5_VYPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTMy/MC0xMzA3NDQzNzkx/LmpwZWc.jpeg" alt="Cover for Stop The World" style="max-width:120px; height:auto;" />
       </td>
@@ -514,7 +515,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/5T9EZpN1m429BuVnIE23mNpVZdvPyl17dT3ANpdaRBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mjc0/My0xMjc5ODM5ODU5/LmpwZWc.jpeg" alt="Cover for the Nectar of my Love" style="max-width:120px; height:auto;" />
       </td>
@@ -530,12 +531,12 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 50</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/3vt2wTV_WV_xlJ4GQfNaKTNd5NBvQV5SxS0Y3na0T8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzEw/NC0xMjA3NzE0MTY2/LmpwZWc.jpeg" alt="Cover for Just Ask the Lonely" style="max-width:120px; height:auto;" />
       </td>
@@ -553,7 +554,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/FyM1tKoiDn2Afp7pwEJBzrPfCK36PlFlvGsd3DeyndQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDMw/Mi0xMTI5Mzc2ODE3/LmpwZWc.jpeg" alt="Cover for Im Dubraum Teil 2" style="max-width:120px; height:auto;" />
       </td>
@@ -572,7 +573,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/Dkm036a3CFecuQN51UJSPAPsq5pMMaTM5OXGV8BqnCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDcy/Ny0xMzgxMzIyNzg2/LTEzNDIuanBlZw.jpeg" alt="Cover for Stop" style="max-width:120px; height:auto;" />
       </td>
@@ -595,7 +596,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/-qmIe1W47B1F4RJiow1bbqCcfqw08RbTMaW4faeN5GM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTEw/NjktMTQyNTg2MTYy/MC0zNjQ2LmpwZWc.jpeg" alt="Cover for Manhattan" style="max-width:120px; height:auto;" />
       </td>
@@ -614,7 +615,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/xMg3HIm9pDGWRWvjwOpWHRPFBNgXWnF0RoXIlFrzs1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIw/ODczLTE1NzkzODgz/MzAtMTI5Ni5qcGVn.jpeg" alt="Cover for Part Two - The Endless Not" style="max-width:120px; height:auto;" />
       </td>
@@ -637,7 +638,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/xMg3HIm9pDGWRWvjwOpWHRPFBNgXWnF0RoXIlFrzs1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIw/ODczLTE1NzkzODgz/MzAtMTI5Ni5qcGVn.jpeg" alt="Cover for Part Two - The Endless Not (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -655,7 +656,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/i9K-6qK3iV1oIsVcKGPqVLc-l8Og1ABXtvcvVWYfdvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDU3/Ni0xMzk2MDMwMTk1/LTYwMjYuanBlZw.jpeg" alt="Cover for Speicher 49" style="max-width:120px; height:auto;" />
       </td>
@@ -675,7 +676,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/o_z6Juk-wQ4UEqUfnj0A4OE-JlZhHhQC7xAQTkm3yRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTg4/Ni0xMTc5NjUzNDgw/LmpwZWc.jpeg" alt="Cover for Techno Playtime EP" style="max-width:120px; height:auto;" />
       </td>
@@ -693,7 +694,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/DoXTctriTcTlOS2u_AVeiRRyrizMp9O56UUKvNssH2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODU4/NDQ2LTE1NDMzMTIz/ODEtNTA5MS5qcGVn.jpeg" alt="Cover for GAS" style="max-width:120px; height:auto;" />
       </td>
@@ -713,7 +714,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/cAWYthg2yOqokloZlu6wP3OE0Vn4hzPY41C5OLHxZ1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjEy/MTYtMTIyMTQ1NTUy/Ni5qcGVn.jpeg" alt="Cover for Memory Tree" style="max-width:120px; height:auto;" />
       </td>
@@ -733,7 +734,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/98Xs_7js1JGnxHcZJ7wZd5ZXV_Pb-XL8DCtWzFqG-gI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA4/MDEtMTMwMjUzMjMx/NC5qcGVn.jpeg" alt="Cover for Shoedrift" style="max-width:120px; height:auto;" />
       </td>
@@ -753,7 +754,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/uLvauhPuPANugKn87s1VC84eFHWRoHK1Ioohjwh1CFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTEw/ODUtMTI0MTIzMjUw/Mi5qcGVn.jpeg" alt="Cover for Grand Glam" style="max-width:120px; height:auto;" />
       </td>
@@ -774,7 +775,25 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>34</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45870574d6be4425b020031618799e77.png" alt="Cover for Ay Ay Ay" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-10-26</td>
+      <td>Matias Aguayo</td>
+      <td>Ay Ay Ay</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/joLgyC8SmSqyVenfer8hAl8ctn1jgPredsvczvtP5Q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MTMtMTI4MDY3Mjgw/MS5qcGVn.jpeg" alt="Cover for Bandjo" style="max-width:120px; height:auto;" />
       </td>
@@ -796,7 +815,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/ptJ5-eOosG3jQeOhiqe6UgnjhTXWWiKX4rw7FVrgs5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjU3/MzgtMTUxNzkzNzAy/Ny0zNjM2LmpwZWc.jpeg" alt="Cover for Up Here In The Clouds" style="max-width:120px; height:auto;" />
       </td>
@@ -816,7 +835,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/oLzdYiW7Oqw3b_A3DH3NOMQTYeua6WFdiZg5g2Q_JqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTYy/LTEzODI1Njc5NTIt/ODQyMi5qcGVn.jpeg" alt="Cover for Nairobi" style="max-width:120px; height:auto;" />
       </td>
@@ -878,7 +897,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/pCFiw_NxATPyAGuAIX3cEA88NfaI_l43F-fbbN37I1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzU0/NjItMTMyMTcxMzQ3/Mi5qcGVn.jpeg" alt="Cover for Momentform" style="max-width:120px; height:auto;" />
       </td>
@@ -898,7 +917,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/O38_A114iDHabdpr64uXghUwV-TkudvYiYneQW---f4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDIz/NzgtMTMyMjg2Mzgy/OS5qcGVn.jpeg" alt="Cover for Liebeslied" style="max-width:120px; height:auto;" />
       </td>
@@ -916,7 +935,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/KY9tl5jluzXeVZsqyqmrnk92sTTYkpR0YlM_E0Wey48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTM2/ODItMTM1MTY5MDQ2/MS04NTQ1LmpwZWc.jpeg" alt="Cover for Blurry &#x2F; Spearhead" style="max-width:120px; height:auto;" />
       </td>
@@ -934,7 +953,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/G1CXaSIMZxW8rztu9VIxZoHnVMhN5FwjbP6kBbTmJ2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTEy/MzYtMTM0Njg2NjY3/Ni00OTE4LmpwZWc.jpeg" alt="Cover for Teenage Tapes" style="max-width:120px; height:auto;" />
       </td>
@@ -955,7 +974,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/NsOlFcDUOoqITIDy1s6-AxtgaF0bIXp3hJkyTOh7Qh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjU2/NzktMTM3MTU2MzAx/Ni01MjE2LmpwZWc.jpeg" alt="Cover for L Synthesis" style="max-width:120px; height:auto;" />
       </td>
@@ -974,7 +993,25 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/fa6JOEHai2lwdceIcGJqh-BtQRfCrT3wMrcr8vlvlTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NzAx/NzktMTM3NDk1NzMy/OS05NTA3LmpwZWc.jpeg" alt="Cover for Secret Thirteen Mix 078" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-07-17</td>
+      <td>Quinoline Yellow</td>
+      <td>Secret Thirteen Mix 078</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/D8NV1mfK4Gtgug7mqtFJidbq0V9BalXoAjRGVZOXjno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDQx/MzctMTQ2MDExNzgw/OC05ODIwLmpwZWc.jpeg" alt="Cover for Subconscio" style="max-width:120px; height:auto;" />
       </td>
@@ -1013,7 +1050,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/g3OEPt0B0gnKLwnnfr_NQJ6wKXzccVl_8CoD5OlDCSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Mjk2/MzQtMTQxMDg2NTk5/OS01MzcyLmpwZWc.jpeg" alt="Cover for Brudis" style="max-width:120px; height:auto;" />
       </td>
@@ -1031,7 +1068,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/RbRUeWsgr50gDDzplfNnddnwMX9y2DnKuDH8bOYcpQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Nzkz/MDctMTQwMjQyMjUw/Ny00MTA4LmpwZWc.jpeg" alt="Cover for Jiwa" style="max-width:120px; height:auto;" />
       </td>
@@ -1051,7 +1088,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/qDc2yaRyfSHrZ8LvDqE5z5rht0koSSqTFSOw0hw4jos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTg0/ODEtMTQxMzk5NTQ3/MC05ODE0LmpwZWc.jpeg" alt="Cover for Total" style="max-width:120px; height:auto;" />
       </td>
@@ -1071,6 +1108,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04326b51b9d14c1eccd685b0509e0f64.png" alt="Cover for Michael" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-04</td>
       <td>Les Sins</td>
@@ -1086,7 +1124,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/8mvr7jR0fdglnZ6TsIVtFxZ2n5gSC6NKxmCEZ3Mctew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTAx/ODEtMTQzMDIyNDkz/OC04NDgwLmpwZWc.jpeg" alt="Cover for Tundra" style="max-width:120px; height:auto;" />
       </td>
@@ -1108,7 +1146,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/mkHrwBDMJpcbcCtJLaDCC7aDf6OWYTNduBHHwnxcFB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Mzgy/NDUtMTQyOTk1NzQ4/NS04MzIwLmpwZWc.jpeg" alt="Cover for El Rudo del House Round Two" style="max-width:120px; height:auto;" />
       </td>
@@ -1126,7 +1164,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/mJBV1t4qlLXKLGPl_OB3ezgkKKo-J9Qv9M1LMjo3svc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg1/MjktMTY3NzYyMzA3/OS00NTc4LmpwZWc.jpeg" alt="Cover for Live At MAXXI" style="max-width:120px; height:auto;" />
       </td>
@@ -1146,7 +1184,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/s2U4xq2bDH1qdii6rG_dg-31wbVDMT5Vj1Xbbl7lgQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODA0/NTYtMTQ0MjMzODkw/My05MDEzLmpwZWc.jpeg" alt="Cover for Edition 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1166,7 +1204,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/k57DXLlE2a3bRpPaeuhYlk9y-REufOmWEGupaeGsu8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTc3/MzItMTQ2ODk3MzIz/NC04MjUwLmpwZWc.jpeg" alt="Cover for Cosmosis Vol 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1184,7 +1222,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/UXaVW3hLgZR79gxVlNgmnLoNhp2FdjTzTlhQoBv3OTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjY0/MzYtMTQ1NjU3MzQ0/MS03NzA5LmpwZWc.jpeg" alt="Cover for You Exist" style="max-width:120px; height:auto;" />
       </td>
@@ -1203,7 +1241,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/h1B_wAjgIwPNF7DM4eyd8ETBBLmiUbGT6ftsfNkhMMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NzAx/MDgtMTQ2NjI4MDQy/Ni0zMjQ2LmpwZWc.jpeg" alt="Cover for Groove DJ Mix" style="max-width:120px; height:auto;" />
       </td>
@@ -1223,7 +1261,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/Wvv6H89yc7vjx5JL9fDYO6Mq354RUOQ8Zv4KfCgmvxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzU5/NTktMTQ3NDMzNjQx/MC04NzY2LmpwZWc.jpeg" alt="Cover for W.I.R. Schiessen" style="max-width:120px; height:auto;" />
       </td>
@@ -1241,7 +1279,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/ziBP8a95D9jgtEED4xxIhExlk67pTApJFyRlwC2GSxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMDEw/NTEtMTQ3NjU1MzA4/OS0yNzExLmpwZWc.jpeg" alt="Cover for Beyond Sight" style="max-width:120px; height:auto;" />
       </td>
@@ -1259,7 +1297,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/W8a7jPzM6hdAXqk-waq5qTWFPqlLv-Fwau1rnPazyfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODQ0/NjktMTQ5ODg0NjE0/OS00MTEwLmpwZWc.jpeg" alt="Cover for The Spoils - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1277,7 +1315,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/TL9_PQyaG14vaCeG94spuuhFQqpjRjAa7lPNSsojgZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTQ3/NTgtMTQ3NzYwNDM5/Ny02MjUxLmpwZWc.jpeg" alt="Cover for MindBender" style="max-width:120px; height:auto;" />
       </td>
@@ -1299,21 +1337,16 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/I8-UVDY5r3nu_fy2_np3W9sLhwsFLLDt6KLKGkUajuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU0/ODU1LTE1Mzk0MzM4/NzEtNjM0Mi5qcGVn.jpeg" alt="Cover for Anima Mundi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2882f1fb49c2477dcf1398f51c1d5ebd.png" alt="Cover for Anima Mundi" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-03</td>
       <td>Vril</td>
       <td>Anima Mundi</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
       </td>
       <td>
@@ -1324,7 +1357,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/ShfndwREGsxy853LYxsPTX8oZge7NgzHDpItNzg9VjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODI3/LTEyMjEzOTUwOTku/anBlZw.jpeg" alt="Cover for Oktember - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1360,30 +1393,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>26</td>
-      <td>
-          <img src="https://i.discogs.com/mw5BJlKiZ26uD0P5ygU8pCfoRb89yMsN1mJ7NwD-6Eg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDUx/MzYwLTE1MDg5NDE4/NDAtMjY2MC5qcGVn.jpeg" alt="Cover for Broken Mirror" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-10-25</td>
-      <td>Sebastian Mullaert</td>
-      <td>Broken Mirror</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 29</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/kU2GN_70hJQPv-C-7jVBR-TCk7aSr-2Not1306hh0A8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEy/MzUzLTE1MTAwNzEy/MjgtNjg5Ni5qcGVn.jpeg" alt="Cover for Irradiance" style="max-width:120px; height:auto;" />
       </td>
@@ -1401,7 +1411,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/zje7F3cmEaQ9flXFpvtE6EJi9-qRl0d9hyrTqx8BCu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjE5/ODI2LTE1MTIxMzM0/MzEtMTA5OS5qcGVn.jpeg" alt="Cover for Urgence" style="max-width:120px; height:auto;" />
       </td>
@@ -1419,7 +1429,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/bXt9_QFMGtgQv6LHGgoCXUyQZJRe3AcfM73ICaEXHQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTk4/NjI0LTE1MjYyODQz/NTAtNjQ3MC5qcGVn.jpeg" alt="Cover for Slicing" style="max-width:120px; height:auto;" />
       </td>
@@ -1439,7 +1449,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/yggkZYGBj7goFiebNChIvP6yX9EucOwqAuXljElRtx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTAz/MjAzLTE1MzY1Njg5/OTQtODkwNy5qcGVn.jpeg" alt="Cover for Burn Slow" style="max-width:120px; height:auto;" />
       </td>
@@ -1458,7 +1468,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/2qoaGcUUkZPXz8MDjnHKmfLuWK7q-nF9CpmiOEndD64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE1/NzY3LTE1NTYyNjI1/OTQtODM1Mi5qcGVn.jpeg" alt="Cover for Sol Laude: Mercury Rising 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1479,7 +1489,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/uCUeYYkkm0lQA2hPwJCayQurH8z6vG9Qmmx_rqKZKzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjEw/NDM1LTE1NTgyNjY4/OTctNDc0OS5qcGVn.jpeg" alt="Cover for Noctilucent" style="max-width:120px; height:auto;" />
       </td>
@@ -1497,7 +1507,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/bIaHawZb0JE4hNp-21wbU1zk1vw-8nBngSPwgNPnGeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU4/MDg4LTE1NjcwNzYz/NTctNDk5MS5qcGVn.jpeg" alt="Cover for Triumvirate" style="max-width:120px; height:auto;" />
       </td>
@@ -1516,29 +1526,25 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>10</td>
       <td>
-          <img src="https://i.discogs.com/6j66cDgDJdkAJU6xUJvdpqC4eq5skWfIi1kVXHco80E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDcw/NDk0LTE2MjMxOTUz/MDYtOTgyMS5qcGVn.jpeg" alt="Cover for Space Techno" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72d0b3e1eaea900b6d528698d16f2b73.png" alt="Cover for Space Techno" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-29</td>
       <td>Flug 8</td>
       <td>Space Techno</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 69</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/wvjXEY6BfRWhLPpRnI8bNmZQZrbp6joLW4D4I7RTSp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTQ0/Mjc3LTE2MDgzOTkw/MDUtODM3MS5qcGVn.jpeg" alt="Cover for Replica Material" style="max-width:120px; height:auto;" />
       </td>
@@ -1556,7 +1562,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/FdMcLoj-1PB-3Zc4wd2f5WTIEpCVPG_DmTvnrJq86nA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzU1/NTkxLTE1ODA5NzEz/OTAtNjgwNS5qcGVn.jpeg" alt="Cover for Motus" style="max-width:120px; height:auto;" />
       </td>
@@ -1574,28 +1580,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://i.discogs.com/h7ry3T0u_oOpgX59_s_wLdElDLl5ZORrByR2xZGcvi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDY0/NTIyLTE1ODYyMDM0/MDktNDkyMi5qcGVn.jpeg" alt="Cover for Space Techno Remixed" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-03-13</td>
-      <td>Flug 8</td>
-      <td>Space Techno Remixed</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/uc1OS-QT-7m0fFAOy6VjAxK3UYmVXg7mZkRYupqC6hQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTY0/ODA1LTE1ODQ4MTU2/MDktNTM4Mi5qcGVn.jpeg" alt="Cover for Nolove" style="max-width:120px; height:auto;" />
       </td>
@@ -1617,7 +1602,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/hnQv9MnWVx5rj-rdsDVlMdO5zgeC0ZlJizpf84WGtO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjc3/MzAwLTE1ODkwNjM0/ODItMTYwMC5qcGVn.jpeg" alt="Cover for MOOD" style="max-width:120px; height:auto;" />
       </td>
@@ -1638,7 +1623,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/cuKLvziASNaVnb5e3xVtkeG50yuIg4d4-nH0m2fuod4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY0/NDU1LTE1OTM4NTk5/ODUtNzAzMi5qcGVn.jpeg" alt="Cover for Echoes From Beyond" style="max-width:120px; height:auto;" />
       </td>
@@ -1664,7 +1649,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/8th4zbcT3pX7CH_A-ET3zDAHvoh1l1qM1EhR8u6I2Tc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTc0/NTAtMTM0ODQ4MzM2/MS04NjM5LmpwZWc.jpeg" alt="Cover for Dream Boundary - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1682,7 +1667,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
       </td>
       <td>2020-09-04</td>
@@ -1699,7 +1684,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/IlcIPwBuHV-tF9slPx1qkDd72SWlv1Nwbs9ZX6TwBm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTUy/MTEzLTE2MTYyNTQ4/MzEtNTE2Ny5qcGVn.jpeg" alt="Cover for Pink Dolphins - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1717,7 +1702,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/YJFEaEF1gNu5tZvl9NAhOMmKZHw0NQ_8ClQMzKtdQpk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDU1/OTAwLTE2MTM1NjIz/MjUtMzgwMy5qcGVn.jpeg" alt="Cover for Rückverzauberung Exhibition" style="max-width:120px; height:auto;" />
       </td>
@@ -1735,7 +1720,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/E95YJNL8QjiZ8QIQ3b-TtGoParqv7RllHExpYfmbOXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQz/Mzg1LTE2MDU4ODg2/NzktNzg3NC5qcGVn.jpeg" alt="Cover for Shadow of Fear" style="max-width:120px; height:auto;" />
       </td>
@@ -1753,7 +1738,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/3K_sSXPrsyf6CT92ZMkv4kgyTsYw-3r7zAkjhaMi8TY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDE3/Nzc3LTE2NzA2MjQz/MjMtNDUzNS5qcGVn.jpeg" alt="Cover for Nor Lighter" style="max-width:120px; height:auto;" />
       </td>
@@ -1774,7 +1759,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/3K_sSXPrsyf6CT92ZMkv4kgyTsYw-3r7zAkjhaMi8TY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDE3/Nzc3LTE2NzA2MjQz/MjMtNDUzNS5qcGVn.jpeg" alt="Cover for To Voltaire" style="max-width:120px; height:auto;" />
       </td>
@@ -1796,7 +1781,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/3K_sSXPrsyf6CT92ZMkv4kgyTsYw-3r7zAkjhaMi8TY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDE3/Nzc3LTE2NzA2MjQz/MjMtNDUzNS5qcGVn.jpeg" alt="Cover for Bedouin Monk Bike - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1816,7 +1801,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/3K_sSXPrsyf6CT92ZMkv4kgyTsYw-3r7zAkjhaMi8TY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDE3/Nzc3LTE2NzA2MjQz/MjMtNDUzNS5qcGVn.jpeg" alt="Cover for Rest To See You Soon" style="max-width:120px; height:auto;" />
       </td>
@@ -1839,7 +1824,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/B4QI2WpCvz6JtmRlCLoBNKrbvS_Fx81NXvF-DIsw_xc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzI5/MzI1LTE1OTY3MTQz/NDgtMTczMy5qcGVn.jpeg" alt="Cover for Rough For Radio (Peel Session)" style="max-width:120px; height:auto;" />
       </td>
@@ -1857,7 +1842,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/wOavZNBo_SuvW2_nkaXDF3UjQZRcPBiRnA2v7k6Bg5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDI4/OTU0LTE2MTY4MzQy/MTAtOTA1OC5qcGVn.jpeg" alt="Cover for Birds On The Playground" style="max-width:120px; height:auto;" />
       </td>
@@ -1875,7 +1860,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/YS4-WtM_nmXAynFlvZWmPGmdTFRS9cEfkWN9z0lFbQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEw/MjY4LTE2MTk2OTA2/MDItMjQ5NC5qcGVn.jpeg" alt="Cover for Primordial Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -1920,7 +1905,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/C14rAqoEF1zMsf3jgpUGVQJZ1V0uGprImUuukT2RD8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTM5/OC0xMTU4NTIwMTE5/LmpwZWc.jpeg" alt="Cover for A Walk In The Park" style="max-width:120px; height:auto;" />
       </td>
@@ -1938,7 +1923,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/r00h5U0_HfkkRXBb2g4F9LWrrlmX_hy6nnLlUIF3khU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjA1/NTg5LTE2NzIzNDA2/MzItNjc5OS5qcGVn.jpeg" alt="Cover for Fearless" style="max-width:120px; height:auto;" />
       </td>
@@ -1957,7 +1942,7 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td></td>
@@ -1974,13 +1959,13 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 38</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 37</li>
             <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td></td>
@@ -2007,10 +1992,10 @@ Last updated: <time datetime="2025-10-22T00:45:02.309Z">Wed Oct 22 2025 03:45:02
 - [minimal techno]({{ "/tags/minimal-techno" | relative_url }})
 - [idm]({{ "/tags/idm" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
-- [minimal house]({{ "/tags/minimal-house" | relative_url }})
 - [electro]({{ "/tags/electro" | relative_url }})
-- [techno]({{ "/tags/techno" | relative_url }})
 - [electronica]({{ "/tags/electronica" | relative_url }})
-- [drone]({{ "/tags/drone" | relative_url }})
+- [techno]({{ "/tags/techno" | relative_url }})
+- [minimal house]({{ "/tags/minimal-house" | relative_url }})
 - [glitch]({{ "/tags/glitch" | relative_url }})
 - [ambient]({{ "/tags/ambient" | relative_url }})
+- [experimental techno]({{ "/tags/experimental-techno" | relative_url }})

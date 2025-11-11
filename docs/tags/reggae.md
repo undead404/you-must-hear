@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-06T19:11:42.970Z
+date: 2025-11-11T01:44:32.795Z
 permalink: tags/reggae
 title: reggae
 ---
 
 ## reggae
 
-Last updated: <time datetime="2025-11-06T19:11:42.970Z">Thu Nov 06 2025 21:11:42 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T01:44:32.795Z">Tue Nov 11 2025 03:44:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,8 +29,9 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
   </thead>
   <tbody>
     <tr>
-      <td>20</td>
+      <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8b4d798fbe44a25cae710759aa012cd.png" alt="Cover for I Can See Clearly Now" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Johnny Nash</td>
@@ -43,12 +44,12 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 35</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>1973-04-13</td>
@@ -66,7 +67,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>1974-10-25</td>
@@ -85,7 +86,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>15</td>
       <td>
       </td>
       <td>1975</td>
@@ -105,7 +106,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>1975-11</td>
@@ -124,7 +125,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/XvIenOU5Rk4VN1tbyH86CWpi89pDIz0g4Ubhpr9scsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMTg2/MS0xNDYxMjE3MTEw/LTE0NjUuanBlZw.jpeg" alt="Cover for Legalize It" style="max-width:120px; height:auto;" />
       </td>
@@ -143,7 +144,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
       </td>
       <td>1976-04-30</td>
@@ -157,12 +158,12 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       <td>
         <ul>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 64</li>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 80</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/eJck93fc30p-yNR_aSlhSzv2Uy6mLJaLSMlSVaY60jg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDcz/MS0xNDQ3MDEwNTgw/LTQwNzAuanBlZw.jpeg" alt="Cover for Blackheart Man" style="max-width:120px; height:auto;" />
       </td>
@@ -181,7 +182,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
       </td>
       <td>1977</td>
@@ -240,7 +241,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/57QWxvyEaqLLpl9JCAHOd4YQma0FcfGCOe_ka9iVKUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjY4/Ny0xNTQ5MjEyNzEy/LTI1OTMuanBlZw.jpeg" alt="Cover for Equal Rights" style="max-width:120px; height:auto;" />
       </td>
@@ -258,7 +259,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>1977-04</td>
@@ -310,12 +311,12 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       <td>
         <ul>
             <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 76</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 89</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td>1979-10-02</td>
@@ -334,7 +335,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/BQTeIiWGZOo3q9mcfL7C0CyGDcOTX-pAPoeqEaxwOQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Nzc5/Ny0xNTU1MjMzNjU3/LTYwODQuanBlZw.jpeg" alt="Cover for Sinsemilla" style="max-width:120px; height:auto;" />
       </td>
@@ -372,7 +373,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
       </td>
       <td>1981</td>
@@ -389,7 +390,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/UVlZR99D9pdDCdA3Zu0kn3KgM0LePLDOUDFwxmvzdJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUw/NDMwLTE3MTY4MTE4/MzctODcwNC5qcGVn.jpeg" alt="Cover for One Two" style="max-width:120px; height:auto;" />
       </td>
@@ -413,7 +414,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/WbMoEjJxVZsK6NAYKgVwWFAJdAmLsCcbkCx11kAiHIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODI5/Ny0xNTkwMjEwMzcx/LTQ0NDkuanBlZw.jpeg" alt="Cover for Night Nurse" style="max-width:120px; height:auto;" />
       </td>
@@ -431,7 +432,25 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90f7e7ac2cd746f98afecf681a637ded.png" alt="Cover for Labour Of Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>UB40</td>
+      <td>Labour Of Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/V-xPTlUYWiII79-smHlfA6z63u1vJtFNwH9zcdmNYNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU5/MTktMTIyNTQwNjYy/OS5qcGVn.jpeg" alt="Cover for Mama Africa" style="max-width:120px; height:auto;" />
       </td>
@@ -449,7 +468,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e96c73c21ef07b0f0af0965f2024a3c4.png" alt="Cover for Confrontation" style="max-width:120px; height:auto;" />
       </td>
@@ -470,7 +489,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>17</td>
       <td>
       </td>
       <td>1984</td>
@@ -483,7 +502,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 27</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 28</li>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 59</li>
         </ul>
       </td>
@@ -507,7 +526,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/u29g2PVxTatqnCC5rcst_QF2A_XcSOfTS6NMUoPcdpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjEx/MS0xMzUwOTg0NjU4/LTQ4OTIuanBlZw.jpeg" alt="Cover for Simple Pleasures" style="max-width:120px; height:auto;" />
       </td>
@@ -527,7 +546,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/FCGqEv8ach4cLWwyu2_muVDoKdwd3dS3tUQUMJ6KmtY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDE4/OS0xNDAyODc3OTg3/LTk4OTUuanBlZw.jpeg" alt="Cover for Bad Boys" style="max-width:120px; height:auto;" />
       </td>
@@ -545,7 +564,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a902c4ec78e346d2c632954a4471dab3.png" alt="Cover for Labour of Love II" style="max-width:120px; height:auto;" />
       </td>
@@ -563,7 +582,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>1991</td>
@@ -582,9 +601,9 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/LSXFxifSMip5zuz6wb7UFCxZET0GAqsGHngLiP3hxV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQ3/MDQtMTI3OTQxNDU1/OC5qcGVn.jpeg" alt="Cover for 40oz. To Freedom" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41035efdd80afecde40410c7c5e0e739.png" alt="Cover for 40oz. To Freedom" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Sublime</td>
@@ -643,7 +662,25 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bef310f86949ae981955f383b1e8554.png" alt="Cover for 12 Inches of Snow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-01-19</td>
+      <td>Snow</td>
+      <td>12 Inches of Snow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>
       </td>
       <td>1994</td>
@@ -661,7 +698,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
       </td>
       <td>1994</td>
@@ -678,7 +715,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>24</td>
       <td>
       </td>
       <td>1994-02-08</td>
@@ -692,12 +729,12 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 71</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e9c12d7f8a7319ec103b73a87f889d7.png" alt="Cover for Sublime" style="max-width:120px; height:auto;" />
       </td>
@@ -717,7 +754,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td>1995</td>
@@ -734,7 +771,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>20</td>
       <td>
       </td>
       <td>1997-10-21</td>
@@ -751,8 +788,9 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/508e7d8cb9f93a14624d5d6027256fa9.png" alt="Cover for Clandestino" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-04-30</td>
       <td>Manu Chao</td>
@@ -765,12 +803,12 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 94</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c2fad864c2f40158575d664ab7c4333.png" alt="Cover for Chant Down Babylon" style="max-width:120px; height:auto;" />
       </td>
@@ -789,7 +827,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>1999-12-01</td>
@@ -806,7 +844,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
       </td>
       <td>2000</td>
@@ -823,7 +861,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       <td>
         <ul>
             <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 87</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 94</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 95</li>
             <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 100</li>
         </ul>
       </td>
@@ -850,6 +888,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6566fea472f81ee09445a99f80c12182.png" alt="Cover for New Dubby Conquerors" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-05-21</td>
       <td>Seeed</td>
@@ -861,32 +900,12 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 68</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5610f23da054105875b98c2b2bea1c4.png" alt="Cover for From Chaos" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001-06-19</td>
-      <td>311</td>
-      <td>From Chaos</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 52 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
+      <td>14</td>
       <td>
       </td>
       <td>2001-09-11</td>
@@ -903,9 +922,9 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/TQMTHQQGVXiGSIrwNZUcpjYGSlvJ5uQXM1yEsj5K-wU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTkz/OTYtMTQ2ODE1OTUx/My0zNTk1LmpwZWc.jpeg" alt="Cover for Shakira. (Expanded Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d4cc80e30c8c331fefa6827b6c5b1bb.png" alt="Cover for Shakira. (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Shakira</td>
@@ -948,7 +967,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
       </td>
       <td>2002-03-25</td>
@@ -965,7 +984,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>11</td>
       <td>
       </td>
       <td>2002-09-17</td>
@@ -982,29 +1001,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>78</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c6dd2e82c8a4613bc08d2eae74f7f9f.png" alt="Cover for Dutty Rock" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002-11-12</td>
-      <td>Sean Paul</td>
-      <td>Dutty Rock</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 32</li>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 38</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/878ca1ecb45e4f08aa139feab10a7e2f.png" alt="Cover for Cosmotron" style="max-width:120px; height:auto;" />
       </td>
@@ -1019,12 +1016,12 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 43</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
       </td>
       <td>2003-01-21</td>
@@ -1042,7 +1039,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
       </td>
       <td>2003-03-18</td>
@@ -1062,7 +1059,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2003-04-15</td>
@@ -1097,7 +1094,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/Go2ASYPVflLU97BQxqjNgoRXo9BtX47KTxyPWgxNQGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjgw/OTMtMTU5ODU1OTIy/Mi05NTM0LmpwZWc.jpeg" alt="Cover for Shake Off the Dust" style="max-width:120px; height:auto;" />
       </td>
@@ -1133,7 +1130,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61d195979abe680d30c5ad00d2a2f087.png" alt="Cover for Greatest Hits &#39;93 - &#39;03" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,7 +1149,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
       </td>
       <td>2004-08-30</td>
@@ -1169,7 +1166,27 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb2341e8ade34fe0a1b3b659b34ec5e8.png" alt="Cover for Sounding A Mosaic" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-09-07</td>
+      <td>Bedouin Soundclash</td>
+      <td>Sounding A Mosaic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
       <td>
       </td>
       <td>2005</td>
@@ -1184,13 +1201,13 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       <td>
         <ul>
             <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 2</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 3</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 5</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
       </td>
       <td>2005-04-06</td>
@@ -1209,7 +1226,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
       </td>
       <td>2005-04-19</td>
@@ -1228,7 +1245,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/aPLMYkJEXVk_tOp6e9vv1PgJV73A1o9R6XiexYxINMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzQ3/MDQtMTMxMjY3Njg1/MC5qcGVn.jpeg" alt="Cover for Closer To The Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -1246,8 +1263,9 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91e30abef02840d6babff35d012dab32.png" alt="Cover for Based on a True Story" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05</td>
       <td>Fat Freddy&#39;s Drop</td>
@@ -1261,12 +1279,12 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 30</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 98</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
       </td>
       <td>2005-06-18</td>
@@ -1281,7 +1299,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 69</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 68</li>
             <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 100</li>
         </ul>
       </td>
@@ -1289,6 +1307,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0064d12db8ff4332a351585332ae2cd5.png" alt="Cover for Music of the Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-08-29</td>
       <td>Rihanna</td>
@@ -1301,7 +1320,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 28</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 40</li>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 91</li>
         </ul>
       </td>
@@ -1309,6 +1328,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8304d21a03b44ba82ad258f3d85a3bf.png" alt="Cover for Welcome to Jamrock" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-12</td>
       <td>Damian Marley</td>
@@ -1348,7 +1368,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/SgFNzPvOPuUc_xZxrKcopgKL8EhhzuezRriATdF7cOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/Ny0xMzQ5NjE0MjM2/LTk5NzcuanBlZw.jpeg" alt="Cover for Next!" style="max-width:120px; height:auto;" />
       </td>
@@ -1387,7 +1407,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/q1qKONRHIdwJOKnKF0A-MJ9G5HyapFvu7i8xCRfIl4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzI4/My0xNjAzMTE5MTE5/LTEyNjQuanBlZw.jpeg" alt="Cover for Beautiful" style="max-width:120px; height:auto;" />
       </td>
@@ -1406,7 +1426,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/qE3zm8SLdPxSu7QtLs2vJtvmS04zQ2P39jIt5V2ktjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzMy/MTUtMTM1NTUyNTc0/NC03NjEwLmpwZWc.jpeg" alt="Cover for Love Is My Religion" style="max-width:120px; height:auto;" />
       </td>
@@ -1424,8 +1444,9 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cfb951b2e544907be391f887d1132b3.png" alt="Cover for A Girl Like Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-10</td>
       <td>Rihanna</td>
@@ -1438,13 +1459,13 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 9</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 48</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 11</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
       </td>
       <td>2006-08-22</td>
@@ -1457,7 +1478,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 13</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1482,7 +1503,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>2007-03-19</td>
@@ -1499,7 +1520,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
       </td>
       <td>2007-06-29</td>
@@ -1518,7 +1539,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
       </td>
       <td>2007-08-31</td>
@@ -1535,7 +1556,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e226840b0bbb664cdfdf61263727494a.png" alt="Cover for Not 4 Sale" style="max-width:120px; height:auto;" />
       </td>
@@ -1555,7 +1576,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed32c4686db246d2baca1cd2d97129b6.png" alt="Cover for Sample This" style="max-width:120px; height:auto;" />
       </td>
@@ -1576,25 +1597,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-      </td>
-      <td>2008-11-17</td>
-      <td>Shontelle</td>
-      <td>Shontelligence</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
       </td>
       <td>2009-08-24</td>
@@ -1612,7 +1615,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/1KYLiokhYJZmO3lRSWCg9w1gr2iNDJF7vXih-wW8DvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA3/MjQyLTE2Nzc5Nzcz/MjktMjU3Ny5wbmc.jpeg" alt="Cover for Born In Babylon" style="max-width:120px; height:auto;" />
       </td>
@@ -1630,9 +1633,9 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
-          <img src="https://i.discogs.com/UxBc15-VrCsE1X19OOcS-ard-BTkqUwAk7UOoUsqoQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDA5/MjctMTI2MDI5MzA4/OS5qcGVn.jpeg" alt="Cover for Tomorrow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e84cb9d468a40f1a1cbef5a668a2da08.png" alt="Cover for Tomorrow" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-07</td>
       <td>Sean Kingston</td>
@@ -1649,8 +1652,9 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d5944291f80a4cbb2857e362f615b0c.png" alt="Cover for Distant Relatives" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-14</td>
       <td>Nas &amp; Damian Marley</td>
@@ -1668,7 +1672,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/WvmGRgl7-x8kchNhyfctskP3eGthlCoy0PBEC4gClbo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTcx/ODAtMTMwNzE5NzQ3/My5qcGVn.jpeg" alt="Cover for Can&#39;t Remember to Forget You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19ae8b097bdc4962c99a1877e8ff5eff.png" alt="Cover for Can&#39;t Remember to Forget You" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Shakira</td>
@@ -1683,8 +1687,8 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 26</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 52</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 33</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1707,8 +1711,9 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/701f76819806401993e5b471c3cd91c2.png" alt="Cover for Isles" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-12</td>
       <td>Wild Belle</td>
@@ -1725,7 +1730,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8975d1b1a9b1a8043971c004b505ae4a.png" alt="Cover for Nunca Tem Fim (Standard)" style="max-width:120px; height:auto;" />
       </td>
@@ -1742,15 +1747,15 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 76</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 83</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 77</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/KKLAEaqq2ou96VHPiPG52b_xuEMYXZjCRozoLe_sruY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjA3/NTYtMTQ0NTMwNzIz/Mi00MjI5LmpwZWc.jpeg" alt="Cover for Me 4 U" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2192b49665cafa28330248ddcd30594.png" alt="Cover for Me 4 U" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-16</td>
       <td>Omi</td>
@@ -1772,9 +1777,9 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/rZyeaAJfApnknUK3ANHdnCGa-h0l6b6JyVOTVy_UpMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDY5/NzEzLTE2NjEyMDI2/NjYtMTA1OS5qcGVn.jpeg" alt="Cover for Bubblebath" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c590d0e195c2e6a610d6dba7bb65d0b7.png" alt="Cover for Bubblebath" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-12</td>
       <td>Poppy</td>
@@ -1796,7 +1801,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/F_RF2Y1CmaX1aLiWs3i_uUMWszOyzS1yGJaa7SxPwcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzAx/NDMtMTQ3NTI5MTEy/Ny0xMDE4LmpwZWc.jpeg" alt="Cover for Why So Lonely" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a354a664839f1b26423da118711dd4d.png" alt="Cover for Why So Lonely" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-07-05</td>
       <td>Wonder Girls</td>
@@ -1814,7 +1819,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/AGDn7eBjjZrmu0HHv4F_U-G8VY3VdqmBPgVbswk7u3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NzYz/OTItMTQ4OTUyOTU3/Mi0yMzYwLmpwZWc.jpeg" alt="Cover for Blossom (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1836,9 +1841,9 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/LJTxVJ_m5--kcXAKv-6ZtEyos3VMlurELxKY1drNIhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDM2/MzQ1LTE2NDAxMTA1/NjItODQzOC5qcGVn.jpeg" alt="Cover for Simulacre" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c696056b94ba1d79d0b21dc37d9fe56.png" alt="Cover for Simulacre" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-09</td>
       <td>Potyguara Bardo</td>
@@ -1852,12 +1857,12 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 46</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/KymoZcYAvV8PiXX3Mpd7U8XK1IEzQr2DEXBYW3uEVaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTQz/NTAtMTQ1OTE4MDQ4/MS05MTYxLmpwZWc.jpeg" alt="Cover for Legend" style="max-width:120px; height:auto;" />
       </td>
@@ -1877,7 +1882,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/e-HAUBNnTlYudGrfdNkTVpn-Mf65O0G3uoOgT7YbAM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njc2/NzAzLTE2MTQ4MDYx/MDEtMzc0OC5wbmc.jpeg" alt="Cover for Don&#39;t Call Me - The 7th Album" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/772679518c4dfec998766a8106d5c20a.png" alt="Cover for Don&#39;t Call Me - The 7th Album" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-02-22</td>
       <td>SHINee</td>
@@ -1892,12 +1897,12 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 81</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/aDYIMuhAvG0jYsp9SSIGrfaZHYD4AzVVA5gsn9FD8BI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjEy/Nzc1LTE2OTQyNTky/ODktOTkxNS5qcGVn.jpeg" alt="Cover for exodus the north star" style="max-width:120px; height:auto;" />
       </td>
@@ -1915,16 +1920,16 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 49</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 61</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 51</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 71</li>
             <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/LDOh0tneyIea2iNHsuLB1LiDOD_rZVeVgAOvpIx2NBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTc2/OTcxLTE2OTIwNjc2/MTAtMzA3My5qcGVn.jpeg" alt="Cover for Coisas da Geração" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86a2c17cb73035df1fd8ac1b3325877e.png" alt="Cover for Coisas da Geração" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-02</td>
       <td>Lagum</td>
@@ -1941,7 +1946,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9845ac0e02158f4a08835877ebb08c15.png" alt="Cover for Look for the Good" style="max-width:120px; height:auto;" />
       </td>
@@ -1971,5 +1976,5 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
 - [pop]({{ "/tags/pop" | relative_url }})
 - [roots]({{ "/tags/roots" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
-- [hip-hop]({{ "/tags/hip-hop" | relative_url }})
 - [alternative]({{ "/tags/alternative" | relative_url }})
+- [hip-hop]({{ "/tags/hip-hop" | relative_url }})
