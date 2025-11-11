@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-10T18:20:26.179Z
+date: 2025-11-10T18:25:44.100Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-10T18:20:26.179Z">Mon Nov 10 2025 20:20:26 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-10T18:25:44.100Z">Mon Nov 10 2025 20:25:44 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [duet]({{ "tags/duet" | relative_url }}) | <time datetime="2025-11-10T18:25:44.100Z">Mon Nov 10 2025 20:25:44 GMT+0200 (Eastern European Standard Time)</time> |
+| [romantica]({{ "tags/romantica" | relative_url }}) | <time datetime="2025-11-10T18:21:07.728Z">Mon Nov 10 2025 20:21:07 GMT+0200 (Eastern European Standard Time)</time> |
 | [eurodance]({{ "tags/eurodance" | relative_url }}) | <time datetime="2025-11-10T18:20:26.179Z">Mon Nov 10 2025 20:20:26 GMT+0200 (Eastern European Standard Time)</time> |
 | [bass house]({{ "tags/bass-house" | relative_url }}) | <time datetime="2025-11-10T18:18:42.363Z">Mon Nov 10 2025 20:18:42 GMT+0200 (Eastern European Standard Time)</time> |
 | [nu jazz]({{ "tags/nu-jazz" | relative_url }}) | <time datetime="2025-11-10T18:18:28.960Z">Mon Nov 10 2025 20:18:28 GMT+0200 (Eastern European Standard Time)</time> |
@@ -645,7 +647,6 @@ Last updated: <time datetime="2025-11-10T18:20:26.179Z">Mon Nov 10 2025 20:20:26
 | [tropical house]({{ "tags/tropical-house" | relative_url }}) | <time datetime="2025-10-28T13:04:19.685Z">Tue Oct 28 2025 15:04:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [ballad]({{ "tags/ballad" | relative_url }}) | <time datetime="2025-10-28T13:04:09.061Z">Tue Oct 28 2025 15:04:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [neo-classical metal]({{ "tags/neo-classical-metal" | relative_url }}) | <time datetime="2025-10-28T13:03:57.080Z">Tue Oct 28 2025 15:03:57 GMT+0200 (Eastern European Standard Time)</time> |
-| [duet]({{ "tags/duet" | relative_url }}) | <time datetime="2025-10-28T12:47:25.311Z">Tue Oct 28 2025 14:47:25 GMT+0200 (Eastern European Standard Time)</time> |
 | [rocksteady]({{ "tags/rocksteady" | relative_url }}) | <time datetime="2025-10-28T12:47:17.760Z">Tue Oct 28 2025 14:47:17 GMT+0200 (Eastern European Standard Time)</time> |
 | [suomirock]({{ "tags/suomirock" | relative_url }}) | <time datetime="2025-10-28T12:47:12.746Z">Tue Oct 28 2025 14:47:12 GMT+0200 (Eastern European Standard Time)</time> |
 | [thrashcore]({{ "tags/thrashcore" | relative_url }}) | <time datetime="2025-10-28T12:47:00.182Z">Tue Oct 28 2025 14:47:00 GMT+0200 (Eastern European Standard Time)</time> |
@@ -819,7 +820,6 @@ Last updated: <time datetime="2025-11-10T18:20:26.179Z">Mon Nov 10 2025 20:20:26
 | [technical metal]({{ "tags/technical-metal" | relative_url }}) | <time datetime="2025-10-27T15:43:38.702Z">Mon Oct 27 2025 17:43:38 GMT+0200 (Eastern European Standard Time)</time> |
 | [progressive black metal]({{ "tags/progressive-black-metal" | relative_url }}) | <time datetime="2025-10-27T15:36:55.001Z">Mon Oct 27 2025 17:36:55 GMT+0200 (Eastern European Standard Time)</time> |
 | [slide guitar]({{ "tags/slide-guitar" | relative_url }}) | <time datetime="2025-10-27T15:22:37.312Z">Mon Oct 27 2025 17:22:37 GMT+0200 (Eastern European Standard Time)</time> |
-| [romantica]({{ "tags/romantica" | relative_url }}) | <time datetime="2025-10-27T14:56:33.734Z">Mon Oct 27 2025 16:56:33 GMT+0200 (Eastern European Standard Time)</time> |
 | [nerdcore]({{ "tags/nerdcore" | relative_url }}) | <time datetime="2025-10-27T03:05:20.962Z">Mon Oct 27 2025 05:05:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [indie emo]({{ "tags/indie-emo" | relative_url }}) | <time datetime="2025-10-27T01:58:48.774Z">Mon Oct 27 2025 03:58:48 GMT+0200 (Eastern European Standard Time)</time> |
 | [glitch pop]({{ "tags/glitch-pop" | relative_url }}) | <time datetime="2025-10-26T13:09:14.905Z">Sun Oct 26 2025 15:09:14 GMT+0200 (Eastern European Standard Time)</time> |

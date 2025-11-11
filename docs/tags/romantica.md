@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-27T14:56:33.734Z
+date: 2025-11-10T18:21:07.728Z
 permalink: tags/romantica
 title: romantica
 ---
 
 ## romantica
 
-Last updated: <time datetime="2025-10-27T14:56:33.734Z">Mon Oct 27 2025 16:56:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-10T18:21:07.728Z">Mon Nov 10 2025 20:21:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -180,7 +180,7 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/EAyBVMRQdGpkfjHxUaKgVI0836SO1UVEzgVh8on1HRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODE2/NDQwLTE2NjU3MTcz/ODgtNDExMC5wbmc.jpeg" alt="Cover for Coleccion Mi Historia" style="max-width:120px; height:auto;" />
       </td>
@@ -326,7 +326,7 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 59</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -352,7 +352,7 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 12</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -412,7 +412,7 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/Gj_aEOR6Izmh4mRbq7eo3TkeRncW19dOdFdnTB8pC_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODQy/NDQ3LTE2NjY3MDg5/MDctODEwMS5qcGVn.jpeg" alt="Cover for Yo Necesito mas De Ti...Lo Mejor De Mi" style="max-width:120px; height:auto;" />
       </td>
@@ -523,7 +523,7 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/ft-A7k7zkWJRYyE1aVqDCGDxDmLvFNL-ZHPgSBPaPc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTUy/MDM3LTE1MjUzNTgw/MzctODY4Mi5qcGVn.jpeg" alt="Cover for Coleccion Suprema" style="max-width:120px; height:auto;" />
       </td>
@@ -543,7 +543,7 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/OKTPPhSr_mtsdLOnM2N82rYodxNRHMY2J4920tPauiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjg1/NTUtMTM5MDMzMjIw/NC05NjYzLmpwZWc.jpeg" alt="Cover for Enamorándome" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c5c95b4fa22496f8ff48a1f991b6fac.png" alt="Cover for Enamorándome" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Myriam Hernández</td>
@@ -729,7 +729,7 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/BiDf6fExkAN6qnY9Ak7_JqC-uHEWn7fb75ArjxNRmWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTY2/MjA4LTE0OTk2MDc4/MjctMzc2OS5qcGVn.jpeg" alt="Cover for Nuestras 30 Mejores Canciones" style="max-width:120px; height:auto;" />
       </td>
@@ -1183,6 +1183,7 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88755da85bc743e39b8d449e0c63e32f.png" alt="Cover for Belinda" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-05</td>
       <td>Belinda</td>
@@ -1198,7 +1199,7 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 26</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 27</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 59</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 76</li>
         </ul>
@@ -1222,13 +1223,13 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 66</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 67</li>
             <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/RGWosY9ki09GybnFU2FpFpph2uNUZA5EPD8HABAb2J8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI0/MTY1LTE0OTcxNDY3/NzEtNTM5Ni5qcGVn.jpeg" alt="Cover for Confesiones" style="max-width:120px; height:auto;" />
       </td>
@@ -1248,7 +1249,7 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/_xe-C6SkXziG4aVBTi0F2h_kprOeWJxNqVv7lCoTW04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDgw/OTctMTQ1OTU0MjM0/NS02MzkyLmpwZWc.jpeg" alt="Cover for Viva La Diva" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fd4c5ccb6164615857b75423b3f372f.png" alt="Cover for Viva La Diva" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Angela Carrasco</td>
@@ -1438,20 +1439,20 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/rfvGP4L0ZFcj4jchVoLtYdpLzlHm4etrhdmkFr_NwRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ0/MzY5LTE1MjE2NDQ0/NTUtNjUxOS5qcGVn.jpeg" alt="Cover for Soy Yo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28a8382740278813b04d2819c371bd82.png" alt="Cover for K.O.B. Live" style="max-width:120px; height:auto;" />
       </td>
-      <td>2007</td>
-      <td>Laura Flores</td>
-      <td>Soy Yo</td>
+      <td>2006-12-19</td>
+      <td>Aventura</td>
+      <td>K.O.B. Live</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1778,7 +1779,7 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 24</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1842,7 +1843,7 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
