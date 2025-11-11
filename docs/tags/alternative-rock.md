@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-04T03:32:51.237Z
+date: 2025-11-11T04:59:58.252Z
 permalink: tags/alternative-rock
 title: alternative rock
 ---
 
 ## alternative rock
 
-Last updated: <time datetime="2025-11-04T03:32:51.237Z">Tue Nov 04 2025 05:32:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T04:59:58.252Z">Tue Nov 11 2025 06:59:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/b_zNpYG7Pd0B96VL6cbcv0fnQwwBzkGAurTfxvtPdDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzQ1/NC0xNTA3Njg3Mzc0/LTgyODkuanBlZw.jpeg" alt="Cover for The Queen Is Dead" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/827fbd1bac1d3ed232ec6c95a2526139.png" alt="Cover for The Queen Is Dead" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-06-16</td>
       <td>The Smiths</td>
@@ -48,7 +48,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 66</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 67</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 82</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 90</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 94</li>
@@ -60,7 +60,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e71f906ebc55c456519218452733569.png" alt="Cover for Surfer Rosa" style="max-width:120px; height:auto;" />
       </td>
@@ -96,7 +96,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dce45912d7401e62d0e9298fd731e667.png" alt="Cover for Goo" style="max-width:120px; height:auto;" />
       </td>
@@ -117,7 +117,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20600d23aa00025d2097f4e46bbf959d.png" alt="Cover for Out of Time" style="max-width:120px; height:auto;" />
       </td>
@@ -137,7 +137,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e1f7cafa97e32a9fc549f5cf13061ae.png" alt="Cover for Wish" style="max-width:120px; height:auto;" />
       </td>
@@ -175,7 +175,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f25a0a061254740c74a40a4e16337d6.png" alt="Cover for Rage Against the Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -191,10 +191,10 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 48</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 61</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 64</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 69</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 49</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 64</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 65</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 70</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 100</li>
         </ul>
       </td>
@@ -219,7 +219,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53131f63cde3d29e26930209b91fce57.png" alt="Cover for Siamese Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -238,7 +238,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91a4ba354ee6db609b68222e7149a32e.png" alt="Cover for Mellow Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -272,13 +272,13 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 23</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 59</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 27</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99204b78d3f05c05f5da506ea1c7ec5c.png" alt="Cover for Fake Plastic Trees" style="max-width:120px; height:auto;" />
       </td>
@@ -296,27 +296,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>24</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d6e35eaf31f4e1db42b2ea247d90bb7.png" alt="Cover for Jagged Little Pill" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995-06-09</td>
-      <td>Alanis Morissette</td>
-      <td>Jagged Little Pill</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 89 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 24</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/58728f4f34d684d7032ef407c80e1ae5.png" alt="Cover for Street Spirit (Fade Out)" style="max-width:120px; height:auto;" />
       </td>
@@ -331,12 +311,12 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 98</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cef1f1d0756184860c3c8f60d91aba64.png" alt="Cover for Pinkerton" style="max-width:120px; height:auto;" />
       </td>
@@ -350,13 +330,13 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 73</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 75</li>
             <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cc94288ee91f2bf085204ea693f8607.png" alt="Cover for Blur" style="max-width:120px; height:auto;" />
       </td>
@@ -370,13 +350,13 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 17</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 21</li>
             <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1993e45b36772b764495786820152ab.png" alt="Cover for Third Eye Blind" style="max-width:120px; height:auto;" />
       </td>
@@ -395,7 +375,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2ecd547171fc923b5b32718a8e8780a.png" alt="Cover for The Colour and the Shape" style="max-width:120px; height:auto;" />
       </td>
@@ -428,14 +408,14 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 21</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 67</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 27</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 70</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5aec74977ff48cd9e92259504a85fbc.png" alt="Cover for Death to the Pixies" style="max-width:120px; height:auto;" />
       </td>
@@ -453,7 +433,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1661e873d3eb5eb09cdc76b9b90a850.png" alt="Cover for Without You I&#39;m Nothing" style="max-width:120px; height:auto;" />
       </td>
@@ -488,8 +468,8 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 38</li>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 65</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 41</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 66</li>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 85</li>
         </ul>
       </td>
@@ -516,9 +496,30 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>1</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3155ff2e04252a98d8f6d0847c60c464.png" alt="Cover for Showbiz" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3db4107a5144e5bcb69b40206808c72f.png" alt="Cover for Astro Lounge" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-06-08</td>
+      <td>Smash Mouth</td>
+      <td>Astro Lounge</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 18</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 23</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e369de0aedcc33bd4cf70ebb44225e79.png" alt="Cover for Showbiz" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-09-06</td>
       <td>Muse</td>
@@ -551,16 +552,16 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 70</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 71</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 71</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 72</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 72</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 73</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 85</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/293afd8c6f224780a31332a7d364d1a3.png" alt="Cover for Hooray for Boobies" style="max-width:120px; height:auto;" />
       </td>
@@ -595,12 +596,12 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 25</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>2000-05-23</td>
@@ -613,11 +614,12 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/794ce35cbe2f5d3372650aab4e4f3ad1.png" alt="Cover for Black Market Music" style="max-width:120px; height:auto;" />
       </td>
@@ -635,7 +637,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/17921ec65047e55febc547aed844d094.png" alt="Cover for No Name Face" style="max-width:120px; height:auto;" />
       </td>
@@ -653,7 +655,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2eaca0cd6684941c97b8e9c354a2840.png" alt="Cover for Renegades" style="max-width:120px; height:auto;" />
       </td>
@@ -669,9 +671,9 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 45</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 51</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 58</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 48</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 53</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 59</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 87</li>
         </ul>
       </td>
@@ -692,13 +694,13 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 43</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 44</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40564dd1a58f969fc3ee3c49bddffd23.png" alt="Cover for Twilight" style="max-width:120px; height:auto;" />
       </td>
@@ -750,12 +752,12 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 64</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55f7ca70a9644479fa9dace6590094c8.png" alt="Cover for Weezer (Green Album)" style="max-width:120px; height:auto;" />
       </td>
@@ -790,8 +792,8 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 6</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 92</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 11</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 93</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 96</li>
         </ul>
       </td>
@@ -812,8 +814,8 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 35</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 69</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 40</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -853,13 +855,13 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 40</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 45</li>
             <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8a319c1765e46ec8d79aec6e3088727.png" alt="Cover for Elephant" style="max-width:120px; height:auto;" />
       </td>
@@ -874,13 +876,13 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       <td>
         <ul>
             <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 59</li>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 61</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 63</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fee069a98672ac3719f6c766ff6f0f9c.png" alt="Cover for Meteora" style="max-width:120px; height:auto;" />
       </td>
@@ -895,8 +897,8 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 48</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 70</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 50</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 71</li>
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 100</li>
         </ul>
       </td>
@@ -917,12 +919,12 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 91</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6c46db61212e9e9e57f3633cf588eae.png" alt="Cover for Final Straw" style="max-width:120px; height:auto;" />
       </td>
@@ -937,12 +939,12 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 21</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24d89562266bf9a622c628b0f2ca9ee1.png" alt="Cover for Thirteenth Step" style="max-width:120px; height:auto;" />
       </td>
@@ -957,12 +959,12 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 91</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c095d73521e18dfdef3538e83dd37cda.png" alt="Cover for Futures" style="max-width:120px; height:auto;" />
       </td>
@@ -980,7 +982,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf7643da47ec5c9a2cee618a06bba7bf.png" alt="Cover for eMOTIVe" style="max-width:120px; height:auto;" />
       </td>
@@ -995,7 +997,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 69</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1015,13 +1017,13 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 43</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 44</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c8439b16ed4ca4e0bac727e7b325581.png" alt="Cover for Make Believe" style="max-width:120px; height:auto;" />
       </td>
@@ -1040,7 +1042,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/v55K9bbAqo4zdiPAH-pbdXvnDqFbfFp1w7_M0CFmm_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTMy/NC0xNDgwMzM3NDM2/LTk4NDAuanBlZw.jpeg" alt="Cover for Who The F*** Are Arctic Monkeys?" style="max-width:120px; height:auto;" />
       </td>
@@ -1059,8 +1061,8 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 18</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 67</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 22</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 72</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 87</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 98</li>
         </ul>
@@ -1083,10 +1085,10 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 11</li>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 16</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 43</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 80</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 17</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 21</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 46</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1106,7 +1108,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 73</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1127,15 +1129,15 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 35</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 47</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 51</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 37</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 49</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 52</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c860b3a910c26ec91598fe76c73812ac.png" alt="Cover for Move Along" style="max-width:120px; height:auto;" />
       </td>
@@ -1155,7 +1157,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbbfffdb6896f562264bef91f16c9f3b.png" alt="Cover for Don&#39;t You Fake It" style="max-width:120px; height:auto;" />
       </td>
@@ -1170,14 +1172,14 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 1</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 19</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 2</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 25</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0ef2630eb3f4c158fa54b8d7e80801d.png" alt="Cover for The Devil and God Are Raging Inside Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1192,12 +1194,12 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 85</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83d5b1484a774357971c74f43102ef28.png" alt="Cover for Meds" style="max-width:120px; height:auto;" />
       </td>
@@ -1232,8 +1234,8 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 83</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 83</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1254,13 +1256,13 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 33</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 38</li>
             <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0a4b04bf955443b83095ac7752afb4b.png" alt="Cover for Decemberunderground" style="max-width:120px; height:auto;" />
       </td>
@@ -1279,7 +1281,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca47f8a808d64c539b049c99800cf596.png" alt="Cover for Billy Talent II" style="max-width:120px; height:auto;" />
       </td>
@@ -1301,7 +1303,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
     <tr>
       <td>95</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6d4821f6a554c7bc882a9fa75070dfe.png" alt="Cover for Black Holes and Revelations" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab6de70be40647855f87baa1efac4cef.png" alt="Cover for Black Holes and Revelations" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06-28</td>
       <td>Muse</td>
@@ -1314,6 +1316,8 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 1</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 13</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 82</li>
         </ul>
       </td>
@@ -1334,8 +1338,8 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 49</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 63</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 50</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 65</li>
             <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 89</li>
             <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 91</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 95</li>
@@ -1358,8 +1362,8 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 74</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 82</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 75</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1379,15 +1383,15 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 21</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 29</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 30</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 42</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 98</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/32f153b85b0f477fc7b672aa04db055d.png" alt="Cover for Icky Thump" style="max-width:120px; height:auto;" />
       </td>
@@ -1402,8 +1406,8 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 8</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 83</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 12</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1423,13 +1427,13 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 97</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 98</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2b7450a5e3f7b88b75943ab71fc4aa0.png" alt="Cover for Dreaming Out Loud" style="max-width:120px; height:auto;" />
       </td>
@@ -1463,8 +1467,8 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 12</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 33</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 18</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1484,14 +1488,14 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 42</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 45</li>
             <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 84</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7183668dda55477fafa2c1ce4411c241.png" alt="Cover for When the World Comes Down" style="max-width:120px; height:auto;" />
       </td>
@@ -1511,7 +1515,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55e0eb295310209bd9b9271092460187.png" alt="Cover for The Foundations of Decay" style="max-width:120px; height:auto;" />
       </td>
@@ -1528,13 +1532,13 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 54</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 55</li>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/67f65a24646b6ad7de63485b78a7a383.png" alt="Cover for The Fray" style="max-width:120px; height:auto;" />
       </td>
@@ -1549,7 +1553,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 52</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 56</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 95</li>
         </ul>
       </td>
@@ -1570,7 +1574,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 29</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1590,13 +1594,13 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 95</li>
             <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 95</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b243e3b226cf4b3089e166f30e2cb83c.png" alt="Cover for Waking Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1611,12 +1615,12 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 31</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2672eb1186b843e4a25964c2c2f4bd0f.png" alt="Cover for This Is War" style="max-width:120px; height:auto;" />
       </td>
@@ -1635,7 +1639,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fba22e0fc434501c5d9aa19c3a606ba.png" alt="Cover for Danger Days The True Lives Of The Fabulous Killjoys" style="max-width:120px; height:auto;" />
       </td>
@@ -1670,13 +1674,13 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 28</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 72</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 31</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d859232fed7488a82d37ecabb232fce.png" alt="Cover for Danger Days: The True Lives of the Fabulous Killjoys" style="max-width:120px; height:auto;" />
       </td>
@@ -1695,7 +1699,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/816c5f1db2824db09d530471f8450f81.png" alt="Cover for Vices &amp; Virtues" style="max-width:120px; height:auto;" />
       </td>
@@ -1729,8 +1733,8 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 72</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 74</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 73</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 75</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 94</li>
         </ul>
       </td>
@@ -1751,12 +1755,12 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 99</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5dda2ee492c00966c166665454e10c2d.png" alt="Cover for Living Things" style="max-width:120px; height:auto;" />
       </td>
@@ -1771,13 +1775,13 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       <td>
         <ul>
             <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 54</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 60</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 62</li>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f01bd0edaa4db45c7f10f537d1b025d6.png" alt="Cover for The 2nd Law" style="max-width:120px; height:auto;" />
       </td>
@@ -1791,12 +1795,12 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 36</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/387cf5b12c379dfe7e1e46be5314e8fd.png" alt="Cover for Colourmeinkindness" style="max-width:120px; height:auto;" />
       </td>
@@ -1817,7 +1821,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cba23a41d35545d7a740f66e1d22b58c.png" alt="Cover for Number One" style="max-width:120px; height:auto;" />
       </td>
@@ -1833,8 +1837,8 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 62</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 65</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1855,14 +1859,15 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 30</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 69</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 1</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 35</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 74</li>
             <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aace98f386d805ca3c5fa4d45127031e.png" alt="Cover for In Utero - 20th Anniversary Remaster" style="max-width:120px; height:auto;" />
       </td>
@@ -1884,7 +1889,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7be747d414943fdc3f4de682eac3c7c.png" alt="Cover for Ghost Stories" style="max-width:120px; height:auto;" />
       </td>
@@ -1899,13 +1904,13 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 60</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 69</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 62</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/iuIEHzK-wqDzc4AN5nl2AljezKReM0SOFbkVSZ0GTzg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTEz/ODctMTUxNDUwNDY0/MC04MzcxLmpwZWc.jpeg" alt="Cover for That&#39;s The Spirit" style="max-width:120px; height:auto;" />
       </td>
@@ -1920,15 +1925,15 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 51</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 52</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 53</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 54</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 76</li>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce9efc0bc44d53bf05be6c0126be96c9.png" alt="Cover for Tell Me I&#39;m Pretty" style="max-width:120px; height:auto;" />
       </td>
@@ -1964,15 +1969,15 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 9</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 35</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 15</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 37</li>
             <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 88</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/Ea_An-ds96PrMzORNsw0mXEQNo6yJOm82GpVsdR82zM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTM3/Mzc4LTE1Njg1MzYy/NTAtOTE3My5qcGVn.jpeg" alt="Cover for 11 Minutes (with Halsey feat. Travis Barker)" style="max-width:120px; height:auto;" />
       </td>
@@ -1989,9 +1994,29 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 51</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 85</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 53</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 87</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79b94bd821ce482f867947b4eb5c7981.png" alt="Cover for Lies for the Liars" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>The Used</td>
+      <td>Lies for the Liars</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -2011,12 +2036,12 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 89</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d47585bf3ece259d3ac79330a062b207.png" alt="Cover for To Bring You My Love" style="max-width:120px; height:auto;" />
       </td>
@@ -2035,26 +2060,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79b94bd821ce482f867947b4eb5c7981.png" alt="Cover for Lies for the Liars" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>The Used</td>
-      <td>Lies for the Liars</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2934bc06555c4799aa7439a130b350a5.png" alt="Cover for Placebo" style="max-width:120px; height:auto;" />
       </td>
@@ -2072,7 +2078,7 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae4008c6dbfb4c9899338ef8e456a0f8.png" alt="Cover for Sleeping with Ghosts" style="max-width:120px; height:auto;" />
       </td>
@@ -2103,4 +2109,4 @@ Alternative rock emerged in the 1980s as a guitar-driven genre that rejected mai
 - [hard rock]({{ "/tags/hard-rock" | relative_url }})
 - [progressive rock]({{ "/tags/progressive-rock" | relative_url }})
 - [pop punk]({{ "/tags/pop-punk" | relative_url }})
-- [alternative metal]({{ "/tags/alternative-metal" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})

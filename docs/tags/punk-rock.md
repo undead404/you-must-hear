@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T22:05:51.410Z
+date: 2025-11-11T05:01:29.301Z
 permalink: tags/punk-rock
 title: punk rock
 ---
 
 ## punk rock
 
-Last updated: <time datetime="2025-11-02T22:05:51.410Z">Mon Nov 03 2025 00:05:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T05:01:29.301Z">Tue Nov 11 2025 07:01:29 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -79,13 +79,13 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 26</li>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 66</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 37</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/695566b4c78b484fa77cdce54777b22d.png" alt="Cover for Never Mind the Bollocks" style="max-width:120px; height:auto;" />
       </td>
@@ -103,8 +103,9 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1be8eac4c59348b3bbc59fa826a06528.png" alt="Cover for Never Mind The Bollocks, Here&#39;s The Sex Pistols" style="max-width:120px; height:auto;" />
       </td>
       <td>1977-10-28</td>
       <td>Sex Pistols</td>
@@ -119,8 +120,9 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa345647341e39e3678f360abf46b915.png" alt="Cover for Rocket to Russia" style="max-width:120px; height:auto;" />
       </td>
       <td>1977-11-04</td>
       <td>Ramones</td>
@@ -136,7 +138,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5692c18f91b64d1343ec80186145d6ea.png" alt="Cover for Singles Going Steady" style="max-width:120px; height:auto;" />
       </td>
@@ -191,7 +193,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>1982-11-15</td>
@@ -210,7 +212,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>1985-06-01</td>
@@ -227,7 +229,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/eOuRFjd5_nyKHbehsg4nI7Ve7SrFmk-k-WaqFTzaksI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njkz/NjUtMTMwMDIxNDQ5/MC5qcGVn.jpeg" alt="Cover for Nevermind The Bollocks, Here&#39;s The Sex Pistols" style="max-width:120px; height:auto;" />
       </td>
@@ -244,7 +246,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>1989-05-18</td>
@@ -261,7 +263,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>1989-07-15</td>
@@ -278,7 +280,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b99a5b686bdaeb860150dd1c89169bcf.png" alt="Cover for Social Distortion" style="max-width:120px; height:auto;" />
       </td>
@@ -296,7 +298,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86e4571ca0a545b7bec0b7677e000511.png" alt="Cover for Ignition" style="max-width:120px; height:auto;" />
       </td>
@@ -333,7 +335,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>1994</td>
@@ -419,7 +421,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 44</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 45</li>
             <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 97</li>
         </ul>
       </td>
@@ -439,7 +441,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 28</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 29</li>
             <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 100</li>
         </ul>
       </td>
@@ -462,7 +464,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
       </td>
       <td>1996-09-24</td>
@@ -496,7 +498,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fbb7db7e898489fc8fdbfa6cb68106f.png" alt="Cover for American Psycho" style="max-width:120px; height:auto;" />
       </td>
@@ -554,7 +556,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>1998-06-23</td>
@@ -608,7 +610,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 59</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 64</li>
             <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 74</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 99</li>
         </ul>
@@ -635,7 +637,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77d1ee24f62b125fa047d10e3f69c926.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -671,7 +673,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa6dcd981cc08d2216f423e4453b8319.png" alt="Cover for Maybe I&#39;ll Catch Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -704,12 +706,12 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 45</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2000-06-27</td>
@@ -727,7 +729,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee87f923ce3740e6939c6020b791fbcb.png" alt="Cover for The Art of Drowning" style="max-width:120px; height:auto;" />
       </td>
@@ -842,7 +844,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c2672cec010484b8b1bbb9090c5393a.png" alt="Cover for International Superhits!" style="max-width:120px; height:auto;" />
       </td>
@@ -861,7 +863,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6aa2ed1528d402c89c26156bb71dc76.png" alt="Cover for The Process of Belief" style="max-width:120px; height:auto;" />
       </td>
@@ -880,7 +882,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fde47f005b1047c49c9861ff4c82f10c.png" alt="Cover for Sing Sing Death House" style="max-width:120px; height:auto;" />
       </td>
@@ -916,7 +918,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f68409cb0034edd995252e750c252ea.png" alt="Cover for Shenanigans" style="max-width:120px; height:auto;" />
       </td>
@@ -947,7 +949,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 10</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 11</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 93</li>
         </ul>
       </td>
@@ -993,7 +995,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce9fca01d096d1136bda7166d5dda1c0.png" alt="Cover for Sing the Sorrow" style="max-width:120px; height:auto;" />
       </td>
@@ -1034,7 +1036,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2b00c5433864e8a939ea9a2a2e1c2ec.png" alt="Cover for Good Mourning" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,7 +1054,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
       </td>
       <td>2003-06-10</td>
@@ -1065,13 +1067,13 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 47</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 49</li>
             <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>2003-09-10</td>
@@ -1085,7 +1087,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 75</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1109,13 +1111,12 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>1</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b8162c878baec2a08f8e8daa9aaed54.png" alt="Cover for Coral Fang" style="max-width:120px; height:auto;" />
       </td>
-      <td>2003-10-13</td>
-      <td>The Distillers</td>
-      <td>Coral Fang</td>
+      <td>2003-11-04</td>
+      <td>Against Me!</td>
+      <td>As the Eternal Cowboy</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
@@ -1123,6 +1124,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1165,7 +1167,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/85bb7980e17a99a79e70746c62c3f43e.png" alt="Cover for Revolution Radio" style="max-width:120px; height:auto;" />
       </td>
@@ -1223,7 +1225,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/YTbGHHj0ySf6PF1ReIhK28qphIVp-Cc4xbquVb2uVPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTY4/NC0xNTc2MTcyNjAz/LTE2NzguanBlZw.jpeg" alt="Cover for A Hangover You Don&#39;t Deserve" style="max-width:120px; height:auto;" />
       </td>
@@ -1238,7 +1240,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 25</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1258,8 +1260,8 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 30</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 62</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 31</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1278,7 +1280,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 21</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1336,7 +1338,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 37</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1355,7 +1357,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 35</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 37</li>
             <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 73</li>
             <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 98</li>
         </ul>
@@ -1433,7 +1435,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 20</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1474,8 +1476,8 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 49</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 63</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 50</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 65</li>
             <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 89</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 95</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 96</li>
@@ -1483,7 +1485,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11041198d45a4308ac0c85f91ddeeac0.png" alt="Cover for The Singles" style="max-width:120px; height:auto;" />
       </td>
@@ -1501,7 +1503,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/pe760NkM4IPBSp3vN2g3adehIYxSyuL-Lq3n1LnEi2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzk2/NjctMTY0ODYzNjI0/MS0xMjQ1LmpwZWc.jpeg" alt="Cover for Never Mind the Bollocks Here&#39;s the Sex Pistols" style="max-width:120px; height:auto;" />
       </td>
@@ -1540,7 +1542,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2b6d077f8ae47a99f9f7557578901d7.png" alt="Cover for Paper Walls" style="max-width:120px; height:auto;" />
       </td>
@@ -1555,7 +1557,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 43</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1575,7 +1577,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 21</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1633,7 +1635,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/v6MwVRwIvgvizxgDXiJi2IO45lU_MYKRtt9pk5VbD88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkz/NzI1LTE2OTc5MjQ5/MTUtNzg3MS5qcGVn.jpeg" alt="Cover for New Wave" style="max-width:120px; height:auto;" />
       </td>
@@ -1688,6 +1690,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 2</li>
             <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 86</li>
         </ul>
       </td>
@@ -1726,15 +1729,15 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 44</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 46</li>
             <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/D-QB7Ye7ED627r__EVdEPcQ49aJOo9u2U-0_e_Qy6Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjE5/MDAtMTI3Njk1NDUx/Mi5qcGVn.jpeg" alt="Cover for American Slang" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b45de76b74014d8b9c49de6fd2da0035.png" alt="Cover for American Slang" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-27</td>
       <td>The Gaslight Anthem</td>
@@ -1771,7 +1774,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c77acadb6e8f431dbe38b90fe450a5a2.png" alt="Cover for Screaming Bloody Murder" style="max-width:120px; height:auto;" />
       </td>
@@ -1790,7 +1793,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aed3247a1ab648309f22477fd18090c1.png" alt="Cover for Days Go By" style="max-width:120px; height:auto;" />
       </td>
@@ -1823,12 +1826,12 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 3</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbad70707dc51a7876aba116271b013f.png" alt="Cover for ¡Dos!" style="max-width:120px; height:auto;" />
       </td>
@@ -1848,7 +1851,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c531648ba8f48df96744a3b1fe174c1.png" alt="Cover for Buddha" style="max-width:120px; height:auto;" />
       </td>
@@ -1889,6 +1892,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1913,7 +1917,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/ld3iRAc1Tl27fI5QzH3UJjCg1o2HJeIMMTSxrUnzNzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODEz/ODg0LTE2MzU3ODk4/NjMtNzMyMy5wbmc.jpeg" alt="Cover for Toxic Boogaloo" style="max-width:120px; height:auto;" />
       </td>
@@ -1931,7 +1935,7 @@ Punk rock is a fast, aggressive style of rock music characterized by short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 69</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 71</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 84</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 86</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 96</li>
