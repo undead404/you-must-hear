@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T19:25:51.392Z
+date: 2025-11-11T03:51:07.216Z
 permalink: tags/irish
 title: irish
 ---
 
 ## irish
 
-Last updated: <time datetime="2025-10-31T19:25:51.392Z">Fri Oct 31 2025 21:25:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T03:51:07.216Z">Tue Nov 11 2025 05:51:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -53,7 +53,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/DrDYZ8E_AycadTyUZ13Fa8ojCoJqAuFds69gePvS0fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTA5/NjUtMTM3MDA5MzEx/NS01NTg3LmpwZWc.jpeg" alt="Cover for Let The People Sing" style="max-width:120px; height:auto;" />
       </td>
@@ -72,7 +72,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/k6KqezhJ8MdT2yi7-R2PcpkdAvSkfgJa5DoKtrD30hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTg0/NTUtMTQ5MjY5ODYw/NS0yNTkzLmpwZWc.jpeg" alt="Cover for IRISH DRINKING SONGS" style="max-width:120px; height:auto;" />
       </td>
@@ -90,7 +90,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
       </td>
       <td>1973</td>
@@ -108,7 +108,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
       </td>
       <td>1974</td>
@@ -126,7 +126,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0c3481e51afb20bddedc478c213adf9.png" alt="Cover for Jail Break" style="max-width:120px; height:auto;" />
       </td>
@@ -147,7 +147,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9b52d2b382ecde395faa415862308a5.png" alt="Cover for Nobody&#39;s Heroes" style="max-width:120px; height:auto;" />
       </td>
@@ -185,7 +185,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/ZFpWCw1MDMRTrbfJbOxzQfX4BfWJ1R4suWqVLwolGMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk1/OTUtMTY2MDk5MTUz/Ni05NTg5LmpwZWc.jpeg" alt="Cover for Ride On" style="max-width:120px; height:auto;" />
       </td>
@@ -224,9 +224,9 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/_rGOl97LvcR-PHvr5jiMPrF79o4zmza7pIB_JuTIdV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjU5/NDItMTM1Mjc2MDA2/Ny0yMTczLmpwZWc.jpeg" alt="Cover for You’re The Best Thing About Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8b4252831f47e127e671b8066e74956.png" alt="Cover for You’re The Best Thing About Me" style="max-width:120px; height:auto;" />
       </td>
       <td>1987-08</td>
       <td>U2</td>
@@ -245,7 +245,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/weKnSdd0h6iSYzBrdPazFiAgZL7g5h6Ypiz0obIThyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDMz/NC0xNTIyMjMzNTEw/LTM4MzcuanBlZw.jpeg" alt="Cover for Lion And The Cobra" style="max-width:120px; height:auto;" />
       </td>
@@ -260,12 +260,12 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 15</li>
+            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/XoIQ0moB4L_8ZEOlCYU34sIJ7KLbkOX_9GyIb6iqZzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDMw/MDYtMTMxNTg4MzIw/Ny5qcGVn.jpeg" alt="Cover for The Best Of The Cowsills" style="max-width:120px; height:auto;" />
       </td>
@@ -286,7 +286,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
       </td>
       <td>1988-06-20</td>
@@ -322,7 +322,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
       </td>
       <td>1990</td>
@@ -340,7 +340,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b3ca82f5dbe44abc4df6c9d51173421.png" alt="Cover for The Best Of The Waterboys" style="max-width:120px; height:auto;" />
       </td>
@@ -382,7 +382,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/ymWT85Q52Lu6lAQJekUmTy27XF8e8eTfFuM7VwpnI-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTI5/NzQtMTE5Mjk5NDA5/OC5qcGVn.jpeg" alt="Cover for Joshua Tree" style="max-width:120px; height:auto;" />
       </td>
@@ -401,7 +401,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
       </td>
       <td>1991-02-26</td>
@@ -420,7 +420,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/_0sYb5KpoMg7GEG01Bbv5ZqVt0JSsdGltZOQUSr9Um4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg2/MjMtMTI3MTcwNjIy/NS5qcGVn.jpeg" alt="Cover for The Best of the Chieftains" style="max-width:120px; height:auto;" />
       </td>
@@ -453,8 +453,8 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 46</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 75</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 56</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -472,13 +472,13 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 41</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 77</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 52</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
       </td>
       <td>1993-02-09</td>
@@ -497,7 +497,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
       </td>
       <td>1993-10-19</td>
@@ -518,7 +518,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0303e044caead516f0ad310887ea2fbb.png" alt="Cover for No Need To Argue (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -538,7 +538,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
       </td>
       <td>1994</td>
@@ -555,7 +555,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01783165e340ca652384d141a05588fe.png" alt="Cover for No Need to Argue" style="max-width:120px; height:auto;" />
       </td>
@@ -564,18 +564,15 @@ Irish music refers to music that originated in Ireland or is strongly associated
       <td>No Need to Argue</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 96 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
       </td>
       <td>1995</td>
@@ -594,7 +591,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
       </td>
       <td>1995</td>
@@ -612,7 +609,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cc6c9beed44f068fd164bc006560700.png" alt="Cover for To the Faithful Departed" style="max-width:120px; height:auto;" />
       </td>
@@ -632,9 +629,9 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/e0Tn7EGqGVVXTvWC3WK0zAUGrFTG98YF6pQ8tOMlwgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzAz/MjAtMTM1MjkxNzgx/NS0yMTMyLmpwZWc.jpeg" alt="Cover for The Collection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6c108e0386ed553fcab61eb63743aca.png" alt="Cover for The Collection" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>The Cranberries</td>
@@ -652,7 +649,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>1996-04-19</td>
@@ -669,7 +666,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>1996-11-29</td>
@@ -705,8 +702,9 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f35ac73241a492cb52dff28d671d7ad.png" alt="Cover for Shine" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-03-18</td>
       <td>Mary Black</td>
@@ -725,7 +723,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/zg2iwUiyJTsU4eMjo9h8oZ2-a5q364n_Sv9LE44uw8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzc1/NDc2LTE2MDczNjI0/MTktMzU2OC5qcGVn.jpeg" alt="Cover for Dark Sky Island" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6a9b43f9f53a543d932296da0401038.png" alt="Cover for Dark Sky Island" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-05-30</td>
       <td>Enya</td>
@@ -744,7 +742,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>1997-10-20</td>
@@ -762,7 +760,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/FDMtN9DMFZEXLJ7GHHfzdllJWvmdDp7_UvGUPiIfznc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDYz/MDEtMTM5ODk3MDQ2/Ny0xNTY3LmpwZWc.jpeg" alt="Cover for The Dubliners" style="max-width:120px; height:auto;" />
       </td>
@@ -819,7 +817,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
       </td>
       <td>1998-07-28</td>
@@ -855,14 +853,14 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 2</li>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 94</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 3</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 92</li>
             <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
       </td>
       <td>1999</td>
@@ -880,7 +878,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/XRr179_tfbRueCXdXez7QYTmKQrIji5mKQQA5JAZukU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTI5/OS0xMTczNTQ5MzIw/LmpwZWc.jpeg" alt="Cover for Bury The Hatchet" style="max-width:120px; height:auto;" />
       </td>
@@ -900,8 +898,9 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bdbe45cc0a4efb12d923a6a7578472f.png" alt="Cover for Westlife" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-11-08</td>
       <td>Westlife</td>
@@ -913,12 +912,12 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 35</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
       </td>
       <td>1999-11-12</td>
@@ -933,13 +932,14 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 8</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/346348080ed765004cbda3c2286b571d.png" alt="Cover for Insatiable" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Nadine</td>
@@ -957,9 +957,9 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/SP0IGPcml1WXSsy9d3v-BLLl_OaS3DXHkKhFzf-3-SY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjY5/ODQ2LTE2OTc5NzUz/MTMtMzM1Mi5qcGVn.jpeg" alt="Cover for White Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5abf3fc5ec103fb2950676e8c6996feb.png" alt="Cover for White Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>The Corrs</td>
@@ -976,7 +976,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
       </td>
       <td>2000-02-28</td>
@@ -1012,7 +1012,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>2000-05-16</td>
@@ -1032,7 +1032,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/nPIBYnmD9sEX-dFb-y2FDXoh-TlPqnctjE_e7LRWljM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDc4/NS0xNDYwMDgwODAz/LTE4ODYuanBlZw.jpeg" alt="Cover for Faith and Courage" style="max-width:120px; height:auto;" />
       </td>
@@ -1051,27 +1051,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>53</td>
-      <td>
-          <img src="https://i.discogs.com/khuPO1akOxgzbYAg2vx75UIoOVS7QvlxKensZ8fuZEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTgy/NC0xMjgxNzA1ODQ5/LmpwZWc.jpeg" alt="Cover for Gotta Tell You" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000-08-08</td>
-      <td>Samantha Mumba</td>
-      <td>Gotta Tell You</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/-5VbnrrWbkyI2OKVz9KimVt5ghFic1vz0hON-uKnIQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDM2/MC0xMTExNTQyMzk3/LmpwZw.jpeg" alt="Cover for JJ72" style="max-width:120px; height:auto;" />
       </td>
@@ -1089,7 +1069,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08903e8de53947859fbac649e3d011e1.png" alt="Cover for All That You Can&#39;t Leave Behind" style="max-width:120px; height:auto;" />
       </td>
@@ -1103,11 +1083,12 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
       </td>
       <td>2001-06-05</td>
@@ -1124,7 +1105,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
       </td>
       <td>2001-10-08</td>
@@ -1142,7 +1123,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
     <tr>
       <td>90</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09dc779f72387f03940310cb068eac86.png" alt="Cover for Wake Up and Smell the Coffee" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/512068da86d5fcc3c181f7991cc759d9.png" alt="Cover for Wake Up and Smell the Coffee" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10-16</td>
       <td>The Cranberries</td>
@@ -1179,6 +1160,28 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/8zN4oi9RtRYI2PGhqCBO6HXe7oVaqdt1GLbxsbCTMNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjA2/MzktMTI4MzExMDI5/OC5qcGVn.jpeg" alt="Cover for The Blue Idol" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-02-26</td>
+      <td>Altan</td>
+      <td>The Blue Idol</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 82</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>98</td>
       <td>
       </td>
@@ -1199,7 +1202,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/h_7OiM5CHkrcfP5wc7ddl2tw5_mbt2Re0-cUHTkNZgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzc4/OTQtMTYzMTgxMzM3/Mi0yNjMxLmpwZWc.jpeg" alt="Cover for Destination" style="max-width:120px; height:auto;" />
       </td>
@@ -1218,7 +1221,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/WqqZfrN-CqJ_jcNqFVoilvCc7cQg7r4-xr1DDqJGxZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzA0/NzMtMTIzNzk3MjU5/Ni5qcGVn.jpeg" alt="Cover for Night On My Side" style="max-width:120px; height:auto;" />
       </td>
@@ -1252,14 +1255,14 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 67</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 68</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 93</li>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3484f7504fedfb5b0137008d639cee76.png" alt="Cover for Live on St. Patrick&#39;s Day" style="max-width:120px; height:auto;" />
       </td>
@@ -1297,7 +1300,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
       </td>
       <td>2003-06-10</td>
@@ -1310,13 +1313,13 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 13</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 14</li>
             <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/wk47HzVplrGXmvZ11skmfuRs2McTCogr118x-lv4ce8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTE4/MC0xNjEzMDc2MjU2/LTEyNzkuanBlZw.jpeg" alt="Cover for 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1339,8 +1342,9 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c3bccdf880b46d4c6ff6364c8157f50.png" alt="Cover for Let&#39;s Bottle Bohemia" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-13</td>
       <td>The Thrills</td>
@@ -1375,7 +1379,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92ca5116a4bce738a745a3813dd8dea9.png" alt="Cover for Burn the Maps" style="max-width:120px; height:auto;" />
       </td>
@@ -1394,7 +1398,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
       </td>
       <td>2005</td>
@@ -1412,7 +1416,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>2005</td>
@@ -1433,7 +1437,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd8797a84503daf8618cfd28043e053e.png" alt="Cover for The Warrior&#39;s Code" style="max-width:120px; height:auto;" />
       </td>
@@ -1447,14 +1451,14 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 56</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 63</li>
             <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 73</li>
             <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
       </td>
       <td>2006</td>
@@ -1471,7 +1475,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
       </td>
       <td>2006-07-25</td>
@@ -1525,7 +1529,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/HLfmJhjBllE0vaPfzoKJRxoCObPM4yIfSPF4n82fiv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTEy/NjIzLTE2MDAwNzY0/OTUtMzMyNy5qcGVn.jpeg" alt="Cover for Coast to Coast (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1542,13 +1546,13 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 52</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 78</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 55</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/LlLNk1zEe-jFVVoDXMYpUJaXEEfktcZ064sQgXTPDZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzAy/MTAtMTIxMDE4NDYw/Ni5qcGVn.jpeg" alt="Cover for The Best Of The Dubliners" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,7 +1592,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bec6792747224cebafefbd321495e8b8.png" alt="Cover for Live From Paris" style="max-width:120px; height:auto;" />
       </td>
@@ -1607,9 +1611,9 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/cly0vtB_wmiiv5sCgbDae0UaSxkHIIn8rL573u9uxiI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDE5/OTMtMTU5MzQ2MjM0/Mi04NjA3LmpwZWc.jpeg" alt="Cover for Sea Sew" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1368c81c7bfd4132ad9a06a9e8b2dfd8.png" alt="Cover for Sea Sew" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-12</td>
       <td>Lisa Hannigan</td>
@@ -1627,7 +1631,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
       </td>
       <td>2009-03-16</td>
@@ -1645,7 +1649,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>2009-11-30</td>
@@ -1742,7 +1746,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
       </td>
       <td>2012-09-25</td>
@@ -1760,12 +1764,12 @@ Irish music refers to music that originated in Ireland or is strongly associated
       <td>
         <ul>
             <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 11</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 33</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
       </td>
       <td>2013-01-22</td>
@@ -1800,12 +1804,12 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 61</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/AyDPXhqpMYoSlT4t6G7bkeSD6M3HRYfFkr6C7CIEzjg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTY0/MTAtMTM4MjIxMjE1/NS02NDE1LmpwZWc.jpeg" alt="Cover for Cavalier" style="max-width:120px; height:auto;" />
       </td>
@@ -1846,7 +1850,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/879e3d406746eb49f90ec3c650e9819b.png" alt="Cover for Politics of Living" style="max-width:120px; height:auto;" />
       </td>
@@ -1862,11 +1866,12 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2021-08-11</td>
@@ -1937,8 +1942,8 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 42</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 68</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 44</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 69</li>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 76</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 79</li>
         </ul>

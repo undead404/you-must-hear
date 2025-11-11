@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T06:35:55.146Z
+date: 2025-11-11T03:54:11.769Z
 permalink: tags/ambience
 title: ambience
 ---
 
 ## ambience
 
-Last updated: <time datetime="2025-10-22T06:35:55.146Z">Wed Oct 22 2025 09:35:55 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-11T03:54:11.769Z">Tue Nov 11 2025 05:54:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -170,6 +170,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a41e631c74c2432c965285002aa5ea6b.png" alt="Cover for Ad Perpetuam Rei Memoriam" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Ataraxia</td>
@@ -659,6 +660,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fa52a32c36e4eb9ce0fc99db7061f4e.png" alt="Cover for Indigo Prophecy &#x2F; Fahrenheit" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-16</td>
       <td>Angelo Badalamenti</td>
@@ -1161,7 +1163,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/oCNgXq_WP1rSD0YT0bACtcevZnypLC1pvLCNvWlnH9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkx/NjY4LTE1ODY1NzY5/NTMtNjczNi5qcGVn.jpeg" alt="Cover for ClaireRocket" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/598c389f78fa4109af28ceadd9457ea4.png" alt="Cover for ClaireRocket" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-07</td>
       <td>ElectricOkra</td>
@@ -1346,6 +1348,23 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1e3979723684dc1cd7017387e651fc2.png" alt="Cover for Total works, Abstract soundscape compilation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-04-13</td>
+      <td>DJ Gami.k</td>
+      <td>Total works, Abstract soundscape compilation</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>83</td>
       <td>
       </td>
@@ -1408,6 +1427,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c940b66fa52bc97e9639425e62beeeb.png" alt="Cover for Stranger Things, Vol. 2 (A Netflix Original Series Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-12</td>
       <td>Kyle Dixon &amp; Michael Stein</td>
@@ -1719,6 +1739,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d17b57dd1b6d4613a8bfa9806d2b22b7.png" alt="Cover for A Few Beer Tears Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mammute</td>
@@ -1781,7 +1802,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -1793,27 +1814,6 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Fundary &amp; Kettary</td>
-      <td>Smoke Eyes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
       </td>
       <td>
@@ -1843,6 +1843,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a4b5c78ecac451bc51a6a4517b5e462.png" alt="Cover for Rural Landscape" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Retroloop Impressions</td>
@@ -1929,6 +1930,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db8841e1c2b24dbccd0f8dfebb30882c.png" alt="Cover for Natural Things" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Wa Jazz Quintet</td>

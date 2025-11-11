@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T17:25:07.541Z
+date: 2025-11-11T03:54:19.233Z
 permalink: tags/lounge
 title: lounge
 ---
 
 ## lounge
 
-Last updated: <time datetime="2025-11-03T17:25:07.541Z">Mon Nov 03 2025 19:25:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T03:54:19.233Z">Tue Nov 11 2025 05:54:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
   </thead>
   <tbody>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/bcrvmgP2IbYYNyJE_XEzvl3TvezolIBM14jMQDpPLBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTcw/OTItMTU0NjQzMDQy/Mi04NTI3LmpwZWc.jpeg" alt="Cover for Eden&#39;s Island" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/lffMwBQq0w5z4K4h9hoSnPANfgbyHaJNajl4rbDpTus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODYy/NzAtMTQ2MTIzNjM1/MC0xMTM5LmpwZWc.jpeg" alt="Cover for It Might As Well Be Swing" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +66,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/OcshpSBLCu0czxYTwCWE2vF7a8IbYHisuBQhFlCFoCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTAz/NjMtMTQ4OTI1MjI5/MC01ODM3LnBuZw.jpeg" alt="Cover for Sinatra&#39;s Sinatra" style="max-width:120px; height:auto;" />
       </td>
@@ -113,7 +113,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/BXe8OZL5LAW5Kw8LC9p8EgUIOJxdjXQk6YFwErP5FCA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTY2/OTYzLTE2MDQ1OTE1/MjYtMjY3OS5qcGVn.jpeg" alt="Cover for Hey, Brother Pour The Wine" style="max-width:120px; height:auto;" />
       </td>
@@ -131,7 +131,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>1970</td>
@@ -154,7 +154,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/auBMB5kyagajvaUS_XmLsuSwikWfqQA1HzwuOzM79Fk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzg3/ODQtMTQ1OTY5NjY3/Ni04MjM0LmpwZWc.jpeg" alt="Cover for Count Basie - It Might As Well Be Swing" style="max-width:120px; height:auto;" />
       </td>
@@ -173,7 +173,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg" alt="Cover for Lazy Sunday" style="max-width:120px; height:auto;" />
       </td>
@@ -191,7 +191,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/57M6N-UMRPTc_PGKpLEqdn3lDp0XrtB9mqCoYMzgphE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzA1/NS0xMjk2MjAxMDcx/LmpwZWc.jpeg" alt="Cover for H&#39;art Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -221,8 +221,9 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/331da325bd554b730726b3036cca1737.png" alt="Cover for Camino Del Sol" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Antena</td>
@@ -235,12 +236,12 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 83</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/Msh9gEz8fp3Oikakgz51OSwgAI32cWwyTXNDVZm_bVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjIw/LTE0NjQ1NjU5MTAt/MTM4OS5qcGVn.jpeg" alt="Cover for Vini Reilly" style="max-width:120px; height:auto;" />
       </td>
@@ -258,7 +259,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>1994-03-01</td>
@@ -274,7 +275,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/97d243ad7cd19bb9d1f92b6be937a6a7.png" alt="Cover for Life" style="max-width:120px; height:auto;" />
       </td>
@@ -290,13 +291,13 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 12</li>
             <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 16</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
       </td>
       <td>1995-07-24</td>
@@ -331,13 +332,13 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 61</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 62</li>
             <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/5WSyXLH13UKkLX7IP87bksOmNobaOT98b6kvrFB7N0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjU4/NjkwLTE2NTI3OTUx/MjUtNDM5MC5qcGVn.jpeg" alt="Cover for Starry Night - The 2nd Mini Album" style="max-width:120px; height:auto;" />
       </td>
@@ -355,8 +356,9 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b81a00734a2f70b34acde16c61fdfa71.png" alt="Cover for Dots and Loops" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-09-22</td>
       <td>Stereolab</td>
@@ -370,7 +372,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 20</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 21</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 22</li>
             <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 24</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 28</li>
@@ -382,8 +384,9 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ad2be29be534029a7d5aa49b111d18d.png" alt="Cover for Detunized Gravity" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-10-31</td>
       <td>De-Phazz</td>
@@ -399,7 +402,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       <td>
         <ul>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 36</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 63</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 65</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 87</li>
             <li> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a> # 95</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 96</li>
@@ -407,7 +410,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
       </td>
       <td>1997-11-11</td>
@@ -422,13 +425,13 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 8</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 58</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 9</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>1999</td>
@@ -445,7 +448,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
       </td>
       <td>1999</td>
@@ -463,8 +466,9 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e4c8b1a9e8c0fa0f74c21ee77bd92d3.png" alt="Cover for Godsdog" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>De-Phazz</td>
@@ -481,7 +485,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f8d90a1650c4471c40da27cc4add578.png" alt="Cover for Stereotype A" style="max-width:120px; height:auto;" />
       </td>
@@ -499,7 +503,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/CIRoTawdikqDwUg6dzbX4k7gHMTdSWPIkS1VCt3ViGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDIy/LTE0MjIyMTUwNzMt/NzcwMy5qcGVn.jpeg" alt="Cover for Tempermental" style="max-width:120px; height:auto;" />
       </td>
@@ -521,7 +525,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>2000-02-18</td>
@@ -537,14 +541,15 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 2</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 3</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bacd6a4657345628723f206201413ea.png" alt="Cover for Suzuki" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-03-06</td>
       <td>Tosca</td>
@@ -556,13 +561,15 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 74</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 1</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f8b9dd5c23640c0c06604485e80838f.png" alt="Cover for Freaks &amp; Icons" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-05-08</td>
       <td>Dzihan &amp; Kamien</td>
@@ -576,16 +583,16 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 9</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 13</li>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 24</li>
             <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/Ey4UsOwDEZnbwOQpr6w3LstYDF1hL5WNPRtPLXyuj14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTgx/LTEyNTA2MjkwMjku/anBlZw.jpeg" alt="Cover for Elysian Fields" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbb026f256b0d1117b2dfe35c9f44fd6.png" alt="Cover for Elysian Fields" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-08-29</td>
       <td>Minus 8</td>
@@ -620,7 +627,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td>2000-09-30</td>
@@ -634,12 +641,12 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 39</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>2000-10-17</td>
@@ -652,13 +659,13 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 25</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 41</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 26</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
       </td>
       <td>2000-10</td>
@@ -681,7 +688,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/IYk6l81XAjgWkDC8ypWQMb9Yl3h-xBTDykla_yAyUcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NjQ0/NDQtMTM5NDA1NTIz/My01OTEyLmpwZWc.jpeg" alt="Cover for Green, Green Grass Of Home" style="max-width:120px; height:auto;" />
       </td>
@@ -694,15 +701,36 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 7</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 10</li>
             <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 98</li>
             <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>1</td>
       <td>
+      </td>
+      <td>2001-05-22</td>
+      <td>Waldeck</td>
+      <td>The Night Garden</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 17</li>
+            <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92e65e49da854b1b9176c724b4be3e6c.png" alt="Cover for Satta" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-06</td>
       <td>Boozoo Bajou</td>
@@ -716,15 +744,16 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 9</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 50</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 61</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 11</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 52</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc951a431c09495f70c3b89eee8873a1.png" alt="Cover for Scorpio Rising" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-07-10</td>
       <td>Thunderball</td>
@@ -742,7 +771,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
       </td>
       <td>2001-09-03</td>
@@ -757,31 +786,12 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 67</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
-      <td>
-      </td>
-      <td>2001-09-10</td>
-      <td>Groove Armada</td>
-      <td>Goodbye Country (Hello Nightclub)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 79</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
       </td>
       <td>2001-11-28</td>
@@ -796,12 +806,12 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 24</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2002-01-22</td>
@@ -817,14 +827,14 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       <td>
         <ul>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 44</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 56</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/QuCQqbajLWWx787W3movSMnCubZAlIzMRgWpP7728cw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDk1/LTE0Mzk2NjU5MzAt/MzIwOC5qcGVn.jpeg" alt="Cover for Kinda&#39; Kinky" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c88d716ef28a69f418aacd862d5b9e93.png" alt="Cover for Kinda&#39; Kinky" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-04-16</td>
       <td>Ursula 1000</td>
@@ -849,7 +859,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/G6bGQCVD6T3vRjDM45_lKMjgJEsUMf_4sYgK7SYTpm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzI2/OC0xMjU0MjE2NzY4/LmpwZWc.jpeg" alt="Cover for Everyone Loves You" style="max-width:120px; height:auto;" />
       </td>
@@ -867,7 +877,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
       </td>
       <td>2002-06-18</td>
@@ -900,8 +910,9 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94e099a778a7446b8051807ec61765c2.png" alt="Cover for The Richest Man in Babylon" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-09-17</td>
       <td>Thievery Corporation</td>
@@ -915,13 +926,13 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 89</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 92</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 90</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/SKqf609lQsJvRKhtKQrw4cA0TxGlOz0Axru-n1ElhwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjU1/MC0xMjIxNjgzMDU0/LmpwZWc.jpeg" alt="Cover for Lazy Sunday Afternoon" style="max-width:120px; height:auto;" />
       </td>
@@ -937,13 +948,14 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 21</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/056aacf2c6b04f9990f621f9299cea9b.png" alt="Cover for Daily Lama" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-10-21</td>
       <td>De-Phazz</td>
@@ -960,7 +972,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>2002-11-05</td>
@@ -974,13 +986,13 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 27</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 28</li>
             <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
       </td>
       <td>2002-11-21</td>
@@ -996,14 +1008,14 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 60</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 61</li>
             <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 97</li>
             <li> <a href="{{ "/tags/japanese-female-pop-rock" | relative_url }}">japanese female pop-rock</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/8E-3nCPdmQp-hTGr3Jx2SEO5WSIlond0B1UcglqUSHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTkz/OS0xNDczNzc1MzUz/LTYyNzUuanBlZw.jpeg" alt="Cover for ...and the New Bohemian Freedom" style="max-width:120px; height:auto;" />
       </td>
@@ -1022,7 +1034,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/dWb5kS6kbpgVVD2JJHXnF6wJzjc_svcfgMn2t4sMuZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDA2/MS0xMDc3OTcyMTk3/LmpwZw.jpeg" alt="Cover for Keep You Hird" style="max-width:120px; height:auto;" />
       </td>
@@ -1062,7 +1074,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2003-04-23</td>
@@ -1080,13 +1092,13 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       <td>
         <ul>
             <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 23</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 49</li>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 65</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 51</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2003-05-20</td>
@@ -1104,8 +1116,9 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d59dc423d40214d0afdae0a6c430fb6c.png" alt="Cover for phony phonic" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-19</td>
       <td>Capsule</td>
@@ -1122,7 +1135,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/SPR7L1GL_Sg8IO29rILeaWQEHpjjU5QOtoICQRBZDlE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTYz/NS0xNDU5MzA1MDU3/LTg4MDMuanBlZw.jpeg" alt="Cover for The Outernational Sound (Mixed by Thievery Corporation)" style="max-width:120px; height:auto;" />
       </td>
@@ -1141,7 +1154,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>2004</td>
@@ -1158,7 +1171,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/_O13RaV6pUDP-qOCmEOaNqQk_hMH8VL0fPh2WH10jms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzAz/OC0xMTA3MTI4NDk3/LmpwZw.jpeg" alt="Cover for Speck Of Gold CD One" style="max-width:120px; height:auto;" />
       </td>
@@ -1177,7 +1190,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/_O13RaV6pUDP-qOCmEOaNqQk_hMH8VL0fPh2WH10jms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzAz/OC0xMTA3MTI4NDk3/LmpwZw.jpeg" alt="Cover for Speck Of Gold CD Two" style="max-width:120px; height:auto;" />
       </td>
@@ -1196,7 +1209,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2004-05-04</td>
@@ -1214,7 +1227,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/EQ36CVOOW4DkP82aTro_oiKmMMoc_r2bXebmXScH8p0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjU2/Mi0xMTcxNzk0MDYy/LmpwZWc.jpeg" alt="Cover for A Piece of My Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1232,8 +1245,9 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26445bfb402a442a84894d2329a89769.png" alt="Cover for Moving On" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-18</td>
       <td>Hird</td>
@@ -1255,7 +1269,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
       </td>
       <td>2004-10-19</td>
@@ -1272,8 +1286,9 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f98b3836b8b84929903021dd2662e720.png" alt="Cover for Worlds Within" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-11-27</td>
       <td>Govinda</td>
@@ -1290,9 +1305,9 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/oQ6qRHx6R62v6VFNCP-YyhVf9OGNoaiZhqPFDspwf_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDI1/OS0xMjg0NTI3NzU4/LmpwZWc.jpeg" alt="Cover for Feel It In The Air" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/528db3ef6d6c44a2a8a1e3839431f9df.png" alt="Cover for Feel It In The Air" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Beanie Sigel</td>
@@ -1310,8 +1325,9 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58f5241c425749f0b8c1d1db87a600f0.png" alt="Cover for The Cosmic Game" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-22</td>
       <td>Thievery Corporation</td>
@@ -1323,13 +1339,13 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 12</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 80</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 16</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/PiOtHVekj5GtFN98-nLIYy8monKS0ZYfWuHuhwEHc0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDQ4/OTQtMTM1OTU2Mjgz/Mi03OTMzLmpwZWc.jpeg" alt="Cover for Natural Fake" style="max-width:120px; height:auto;" />
       </td>
@@ -1347,7 +1363,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2005-05-24</td>
@@ -1367,7 +1383,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
       </td>
       <td>2005-05</td>
@@ -1386,7 +1402,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/iNDiPYePp-WbcN2s_3RgyvqbA0RoRBlPqMwQCs9Kp64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDQx/OC0xMTQ2MTgwMjMz/LmpwZWc.jpeg" alt="Cover for Moving On Remixed" style="max-width:120px; height:auto;" />
       </td>
@@ -1416,7 +1432,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2005-10</td>
@@ -1434,7 +1450,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>2005-11-18</td>
@@ -1448,12 +1464,12 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 38</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/Ze1usPZ0McjDOq2guLIHJ1HLhiOTQzwAXMyeO8_WDfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTU0/Ni0xMzM1Mzk5MTY4/LmpwZWc.jpeg" alt="Cover for Chocolate &amp; Cigarettes EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1471,7 +1487,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
       </td>
       <td>2006-02-07</td>
@@ -1488,8 +1504,9 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34aef673923644e1ad7fa57ad67d16c2.png" alt="Cover for Lunatico" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-10</td>
       <td>Gotan Project</td>
@@ -1503,13 +1520,13 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 21</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 25</li>
             <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>2006-06-12</td>
@@ -1523,13 +1540,14 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 15</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a67916231ef34a21ca63fdb291002a3c.png" alt="Cover for Minx" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-09-15</td>
       <td>Marsmobil</td>
@@ -1550,7 +1568,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2006-09-26</td>
@@ -1568,7 +1586,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2007</td>
@@ -1582,12 +1600,12 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 48</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/ugMF_cpbNVB6u4EYfyWC_vFefa2fU2ruO3m87WuwIuc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjMw/NTQwLTE1OTQ4MzA0/MTEtNzk4OS5qcGVn.jpeg" alt="Cover for Umbrella" style="max-width:120px; height:auto;" />
       </td>
@@ -1607,7 +1625,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4c5833649768d63d21ea66b5b65170c.png" alt="Cover for Ballroom Stories" style="max-width:120px; height:auto;" />
       </td>
@@ -1625,7 +1643,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/rIFabm8uBebsGR1-qw3AtygC9JDp5IfNlCbcayK37ls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTA5/MjctMTU3MTAwNjg1/Ny01NjkyLmpwZWc.jpeg" alt="Cover for Days Of Twang" style="max-width:120px; height:auto;" />
       </td>
@@ -1642,12 +1660,12 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 27</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2007-09-25</td>
@@ -1664,8 +1682,9 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9182702d120e44c6ab7db7f5bc7ef4c5.png" alt="Cover for Comme Vous Voulez" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-26</td>
       <td>Alphawezen</td>
@@ -1682,7 +1701,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2008</td>
@@ -1699,7 +1718,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>2008-03-01</td>
@@ -1719,9 +1738,9 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
-          <img src="https://i.discogs.com/NliFb64H49cehZszRevXwyIUwkYL7ueJrZ-bggCAj10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzEx/MDMtMTI5MTIyOTk2/OC5qcGVn.jpeg" alt="Cover for Hello" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83ed2b28f42348adad53eb148ae25755.png" alt="Cover for Hello" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Martin Solveig &amp; Dragonette</td>
@@ -1742,16 +1761,15 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/UKo4GPW1OpCGvfzA-CXaG6i_PtKu8i-04KVyVA3esWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzEy/ODQtMTMwODkzMDUz/Mi5qcGVn.jpeg" alt="Cover for Hello" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1fe707f03934688b3e16f274f523585.png" alt="Cover for Hello" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Martin Solveig</td>
       <td>Hello</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
         </ul>
       </td>
       <td>
@@ -1760,8 +1778,9 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a7c35189b83874e303a8ec6813c64d6.png" alt="Cover for Spiritual State" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-03</td>
       <td>Nujabes</td>
@@ -1776,18 +1795,18 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 23</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 45</li>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 60</li>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 64</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 66</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 26</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 47</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 61</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 67</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/8cYG-_EXq5QifAFyUqxY_5pFs6QdJHUL81YgGJsqqYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzE5/NjctMTM3NDU4Nzk3/Mi03Mzg1LmpwZWc.jpeg" alt="Cover for Benaize" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a45b05a42fc94e448d1ba269380c09ff.png" alt="Cover for Benaize" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Peter and Kerry</td>
@@ -1809,14 +1828,14 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 52</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 55</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 90</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/wZqZnkQPBcz5MblEpA3DUizoAVpSbVXN5NZPTt4pfes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzg3/NzEwLTE1MjE1NjIy/NTAtMTk1NC5qcGVn.jpeg" alt="Cover for Amore Mio Aiutami (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1836,15 +1855,15 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       <td>
         <ul>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 33</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 55</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 57</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/b7tYqM6kw8FObqVdyEZ_Rxd7T-ZMPPbJjQ867A9Yrho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzMy/NjAxLTE1MDMyODMx/NTctODY1My5qcGVn.jpeg" alt="Cover for I&#39;d Like a Virgin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6c56035851646199ba1ee712d6238e3.png" alt="Cover for I&#39;d Like a Virgin" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Richard Cheese</td>
@@ -1857,12 +1876,12 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 47</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c30eba8b955136fd73d02923909ddbeb.png" alt="Cover for Tuxicity" style="max-width:120px; height:auto;" />
       </td>
@@ -1880,7 +1899,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/Cfo4zYNrbd7n2NdKY021ENUwLqrU_zwoRv1KQE5gUaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODMy/MjgtMTQxMDYyODMy/NC0zMDgxLmpwZWc.jpeg" alt="Cover for 27 Demos" style="max-width:120px; height:auto;" />
       </td>
@@ -1900,7 +1919,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/BsIpq-gGprVbkc2zTbR2NEf_HYWVm_uq_HG232iumxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTk2/NTQ5LTE1NDk3NTE4/OTYtNTAwOC5qcGVn.jpeg" alt="Cover for The Pure" style="max-width:120px; height:auto;" />
       </td>
@@ -1920,7 +1939,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2015-08-29</td>
@@ -1937,7 +1956,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/GSJ_sUzDlPdUCXD54h9O9tNM_dO9AFpylrA-3IhcDu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjI4/ODktMTQ1MzY1ODIz/My0yMzExLmpwZWc.jpeg" alt="Cover for JONGHYUN The Collection &quot;Story Op.1&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -1953,7 +1972,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 65</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1977,17 +1996,17 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 28</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 31</li>
             <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 62</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 81</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 95</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 82</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 96</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 98</li>
             <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7f6da092ec3fd3bdb02e3ff71c56fea.png" alt="Cover for Tranquility Base Hotel &amp; Casino" style="max-width:120px; height:auto;" />
       </td>
@@ -2001,14 +2020,15 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 56</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 66</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 88</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 1</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 48</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 70</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/SCMx3K2qz84lIy5KDgNSz_ZtibXe932o94qxvWUi9lM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODk5/NjQwLTE1ODM3MDAw/MzUtODEzNC5qcGVn.jpeg" alt="Cover for 24℃" style="max-width:120px; height:auto;" />
       </td>
@@ -2029,8 +2049,9 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96e5c55708a41462ef9cf9acdcfeb1f2.png" alt="Cover for Every letter I sent you." style="max-width:120px; height:auto;" />
       </td>
       <td>2019-12-10</td>
       <td>Yerin Baek</td>
@@ -2044,7 +2065,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 68</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -2075,7 +2096,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/CpIsudSLFWZ7BywsjkwiQCIRqWvyPVsTAMjMFr_t6kY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzA1/NDQ4LTE2ODYwNjU5/OTAtMzU0OS5qcGVn.jpeg" alt="Cover for Colpo Rovente - Red Hot Shot (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -2098,7 +2119,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/V5LPiXqw1OQSVCaPWw3ogmalSD6JK8jZlKzKfN6uXZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjU5/MS0xNTg2MzI0NTYx/LTQ5NjEuanBlZw.jpeg" alt="Cover for samurai champloo music record departure" style="max-width:120px; height:auto;" />
       </td>
@@ -2123,15 +2144,15 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 6</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 21</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 42</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 56</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 7</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 23</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 46</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 58</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 61</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 85</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 87</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 58</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 62</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 86</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 87</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 87</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 90</li>
         </ul>
       </td>
