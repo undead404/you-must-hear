@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-07T03:05:50.235Z
+date: 2025-11-11T03:46:56.374Z
 permalink: tags/vocal-jazz
 title: vocal jazz
 ---
 
 ## vocal jazz
 
-Last updated: <time datetime="2025-11-07T03:05:50.235Z">Fri Nov 07 2025 05:05:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T03:46:56.374Z">Tue Nov 11 2025 05:46:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
   </thead>
   <tbody>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/XSBBf2vSGA3DNKFKHMb2Q3dCGNQVKdfQo5DOu0Pd27U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTg2/OTgtMTMzMjc5ODk1/My5qcGVn.jpeg" alt="Cover for Rendezvous With Peggy Lee" style="max-width:120px; height:auto;" />
       </td>
@@ -67,7 +67,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>95</td>
       <td>
       </td>
       <td>1954</td>
@@ -86,7 +86,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e81a302e04f0a9c5fb8d9143c782289.png" alt="Cover for Greatest Performances Original Recordings" style="max-width:120px; height:auto;" />
       </td>
@@ -108,7 +108,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>93</td>
       <td>
       </td>
       <td>1955-04-25</td>
@@ -129,6 +129,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b4e39c5930fcda4d1b3f782afc506ef.png" alt="Cover for Julie Is Her Name" style="max-width:120px; height:auto;" />
       </td>
       <td>1955-12</td>
       <td>Julie London</td>
@@ -141,7 +142,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 21</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 24</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 84</li>
             <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 91</li>
         </ul>
@@ -185,7 +186,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td>1958</td>
@@ -203,7 +204,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/mtavWGSdgwicjoc-K-k7tPI8z5XFJjlFrLx7xs6k8W4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDYz/OTgtMTUzNjAzNzkw/MS02MTUwLmpwZWc.jpeg" alt="Cover for The Very Thought of You" style="max-width:120px; height:auto;" />
       </td>
@@ -223,7 +224,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td>1958-01-06</td>
@@ -241,7 +242,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/tCUVcOHYbt-C597LYYpI9I6N1-Iiw2irv4SLZ2-GxB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzM1/MjQtMTUwMzc5NDY4/OS0yMjQxLmpwZWc.jpeg" alt="Cover for Sarah Vaughan At Mister Kelly&#39;s" style="max-width:120px; height:auto;" />
       </td>
@@ -278,7 +279,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/Yu2bZh3PRz0HjdMi6tvkDWkioloFYeCJA4Y43--vKbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODU5/OTYtMTQ0Nzc3NTIw/NS0yMDI2LmpwZWc.jpeg" alt="Cover for At Mister Kelly&#39;s" style="max-width:120px; height:auto;" />
       </td>
@@ -296,7 +297,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td>1964</td>
@@ -313,7 +314,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
       </td>
       <td>1964-06-09</td>
@@ -332,8 +333,9 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdef71c12efb0d695ecb4a4d37756fd3.png" alt="Cover for Pastel Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>1965</td>
       <td>Nina Simone</td>
@@ -347,13 +349,14 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 65</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8901b29452ee40b0c06bebd1c8fa7f4b.png" alt="Cover for The Shadow Of Your Smile" style="max-width:120px; height:auto;" />
       </td>
       <td>1965</td>
       <td>Astrud Gilberto</td>
@@ -366,7 +369,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 71</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 73</li>
             <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 77</li>
         </ul>
       </td>
@@ -411,26 +414,6 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/UDpyeUsu9_n8LByFJ3vxQUK2tRf1IkqoECjiuFWa6L4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjAz/NTAtMTQxNzc3OTMx/Mi0zMTEyLmpwZWc.jpeg" alt="Cover for Duets (20th Anniversary Deluxe Edition)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1966</td>
-      <td>Frank Sinatra</td>
-      <td>Duets (20th Anniversary Deluxe Edition)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 95</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>64</td>
       <td>
           <img src="https://i.discogs.com/y7A7gbBRekJJ0hZi1wnjTFTpWJduDUJSId_nj40ftD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODMw/NzctMTM3Nzg5NDk3/My00NDE4LmpwZWc.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
@@ -449,8 +432,9 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20ee013bf5ccba9d18becaba22d78e3a.png" alt="Cover for High Priestess Of Soul" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>Nina Simone</td>
@@ -468,7 +452,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/CsnCP0kT0uY0IwMj-d7burY-g1g8ea9DVVytoc_wW54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA3/NTktMTMzODcwMTAw/Mi05MzA0LmpwZWc.jpeg" alt="Cover for The Rubáiyát of Dorothy Ashby" style="max-width:120px; height:auto;" />
       </td>
@@ -496,9 +480,9 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
-          <img src="https://i.discogs.com/4MPrFlUpxOK9sbcACI28X7eu6fiGHj2vnW1bUBpkdzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzU3/NzQtMTY3MjY3Mzkx/NS0xNjE1LmpwZWc.jpeg" alt="Cover for The Best Of Nina Simone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50d92ef87242301302164db9e0c51c7a.png" alt="Cover for The Best Of Nina Simone" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Nina Simone</td>
@@ -514,7 +498,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
       </td>
       <td>1970</td>
@@ -532,7 +516,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/SZEk_48ME-eN3vVtqjayUlMi5Rii0l-57osx_Rh0c9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTk2/NDEtMTQ4NzE5MDA0/NS03NDM2LmpwZWc.jpeg" alt="Cover for Songs for Swingin&#39; Lovers!" style="max-width:120px; height:auto;" />
       </td>
@@ -566,13 +550,13 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 25</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 58</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 29</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td>1976</td>
@@ -607,7 +591,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 45</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -646,7 +630,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/6dJoEQ1AsC1683Sek8JbnfXO5jfAKZVSbob2NI11u_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NDcx/NjAtMTQyNTc4NTE5/MC0zNjgyLmpwZWc.jpeg" alt="Cover for Bing&#39;s Gold Records - The Original Decca Recordings" style="max-width:120px; height:auto;" />
       </td>
@@ -685,7 +669,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>1984-07</td>
@@ -705,7 +689,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
       </td>
       <td>1984-08</td>
@@ -722,7 +706,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/YwxqPANNvpuljxcsrtRtVIFqR9Y587bqmNZ_GmuWzD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzc5/MDMtMTI4NDAzNDA0/MS5qcGVn.jpeg" alt="Cover for Mack the Knife: Ella in Berlin" style="max-width:120px; height:auto;" />
       </td>
@@ -745,7 +729,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/xCWjtv7C8jpC_A9Xbk4LUgxmVzDGJUl86PO97Q0p5yw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTY5/MTEtMTU0NDU1NTQ1/Ni0xNjcwLmpwZWc.jpeg" alt="Cover for Drama" style="max-width:120px; height:auto;" />
       </td>
@@ -763,13 +747,13 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 8</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 9</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36ce8d02b77ef674d05fb4cca94a2706.png" alt="Cover for I Put a Spell on You" style="max-width:120px; height:auto;" />
       </td>
@@ -783,12 +767,12 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 79</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>94</td>
       <td>
       </td>
       <td>1988</td>
@@ -802,7 +786,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 76</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -848,9 +832,9 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/URDG_FIoyre1nT5UswC2nevAX_wNb1uZ9CUiF25P3qM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODA2/NzUtMTQzNzMxMTQy/Mi0zODU0LmpwZWc.jpeg" alt="Cover for Blame It On My Youth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b10af1df85b842c5c22ac749e2d7dfa5.png" alt="Cover for Blame It On My Youth" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-10-04</td>
       <td>Holly Cole</td>
@@ -868,6 +852,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea59bd335846203640fd36513b7a1e00.png" alt="Cover for Bewitched" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Laura Fygi</td>
@@ -886,7 +871,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/cz-bRZTm3rAVqNcEF54mxUm1atcIDe7RzO14YKFYMjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDU4/MDgtMTU0MDA2MjU0/MC02ODYxLmpwZWc.jpeg" alt="Cover for Here&#39;s To Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7dac3eb4bb12b9ecafdce8a9d336ae6a.png" alt="Cover for Here&#39;s To Life" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-05-12</td>
       <td>Shirley Horn</td>
@@ -904,7 +889,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/Ztwm8GeX_sh7Y81kqYGyZnnF-MJxBVoh2TatCU8bp-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzUz/NTMtMTU4NjgxMjcz/NS00NTYwLmpwZWc.jpeg" alt="Cover for The Messenger" style="max-width:120px; height:auto;" />
       </td>
@@ -925,6 +910,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfbeb73f70f5ee9a5707c57be91fefad.png" alt="Cover for Close Your Eyes" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-09-16</td>
       <td>Stacey Kent</td>
@@ -977,7 +963,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/8sUY_NS6IoMQO8wwtDkUZrFSJcz8wfIKvZC6d0Yi7OE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzQ1/Mi0xMTY1NjAxNjYy/LmpwZWc.jpeg" alt="Cover for Nina At the Village Gate" style="max-width:120px; height:auto;" />
       </td>
@@ -996,8 +982,9 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91af769ddae0440da75e9d32109f6d11.png" alt="Cover for At First Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Silje Nergaard</td>
@@ -1054,6 +1041,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5aa54af59f774139994996a08b432fb6.png" alt="Cover for Dreamsville" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-05-29</td>
       <td>Stacey Kent</td>
@@ -1094,7 +1082,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td>2002-05-11</td>
@@ -1114,7 +1102,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
       </td>
       <td>2003-06-10</td>
@@ -1136,7 +1124,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td>2003-09-09</td>
@@ -1174,7 +1162,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/r9O74eCsYTREhjikFUDyuWnkYpuzPxW30YpV2LKUiFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDM5/MDQtMTQyMjkxMTU4/Ni02NDUwLmpwZWc.jpeg" alt="Cover for That&#39;s Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1205,7 +1193,10 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 90</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 16</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 89</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 96</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1248,6 +1239,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecd0eaa83d29414888796bcb4011f4de.png" alt="Cover for Sophie Milman" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-12</td>
       <td>Sophie Milman</td>
@@ -1265,8 +1257,9 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3de505a427154571a2700fee7743c302.png" alt="Cover for Moonlight Serenade" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07-19</td>
       <td>Carly Simon</td>
@@ -1283,7 +1276,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/luY-wAkL3nx4UAJELgJ7-M48_cJP3YxAHheHej0tOv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDM0/NTMtMTQ0NDk0NDA4/Ni03MjExLmpwZWc.jpeg" alt="Cover for A Tua Presenca" style="max-width:120px; height:auto;" />
       </td>
@@ -1304,7 +1297,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
       </td>
       <td>2006-01-16</td>
@@ -1321,7 +1314,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/4eQe-qVi0U0G9IJpo4afTauATt32I0Tu9TkGJA9OC98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTcw/NjUtMTM5MjMzOTM0/MS00ODI0LmpwZWc.jpeg" alt="Cover for A Fraction Of You" style="max-width:120px; height:auto;" />
       </td>
@@ -1360,22 +1353,20 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>82</td>
       <td>
-          <img src="https://i.discogs.com/rRF6XFzJvLaYoCIbzF0-voqCCs9bPEUvfBUmF7XZy6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzk0/MDctMTQzMjI5NzM0/Ni0zNzA0LmpwZWc.jpeg" alt="Cover for Worrisome Heart" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f36ccf0ad3661b956ae05a612dd1d212.png" alt="Cover for Worrisome Heart" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Melody Gardot</td>
       <td>Worrisome Heart</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 34</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1394,15 +1385,15 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 67</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 68</li>
             <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/T4cjK9rx-BnzIIefQVbbIbvATRSwU64FWsA3AOoBCTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDY2/NDYtMTY3MTIyNDA5/My04Njk4LmpwZWc.jpeg" alt="Cover for Young Bones" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/344570466d86471297c65790c021eb5e.png" alt="Cover for Young Bones" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-11</td>
       <td>Malia</td>
@@ -1421,6 +1412,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21d9e2ea528049588915aafa0fb28ed6.png" alt="Cover for Breakfast On The Morning Tram" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-07</td>
       <td>Stacey Kent</td>
@@ -1439,7 +1431,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/Wdjbv3YhnBh49NHPkD3q862_9GCjb8Qy0KN91Zl7sLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODE1/NjktMTIzNjc2ODU5/Mi5qcGVn.jpeg" alt="Cover for SunSay" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42a2468104e64f5bb19e06db42e47665.png" alt="Cover for SunSay" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09</td>
       <td>SunSay</td>
@@ -1455,12 +1447,12 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 1</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
       </td>
       <td>2008</td>
@@ -1474,26 +1466,25 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 4</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/HOSjQisWZsrIqEV8ig9a_zKYc5P1HI63Ovpr8vkrWrI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzMy/MDUtMTU0ODEwNjM0/OC04MTE5LmpwZWc.jpeg" alt="Cover for My One And Only Thrill" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/988c1033ce76482bc85e8668656f6723.png" alt="Cover for My One And Only Thrill" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-16</td>
       <td>Melody Gardot</td>
       <td>My One And Only Thrill</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 51</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1513,12 +1504,12 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 6</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td>2010-03-17</td>
@@ -1535,7 +1526,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/lz0b-C9ma3y7Vr9hOKf8I1eiov1HNJSNMrGi3aQzcVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzgx/NTUtMTM0MjUxMjc0/Ni01NjMyLmpwZWc.jpeg" alt="Cover for Raconte-Moi." style="max-width:120px; height:auto;" />
       </td>
@@ -1570,7 +1561,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
       </td>
       <td>2011-06-14</td>
@@ -1592,7 +1583,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/6ArYvItjk0WxJPkUcv3XB6PE4SwXibAq_kANmKassZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDYw/NDgtMTYyNTM0NDA0/NS0xMjI3LmpwZWc.jpeg" alt="Cover for Dreamer In Concert" style="max-width:120px; height:auto;" />
       </td>
@@ -1610,7 +1601,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
       </td>
       <td>2012-01-27</td>
@@ -1634,6 +1625,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bc3f9573a4145b7a82e522895dd43ab.png" alt="Cover for The Absence" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-15</td>
       <td>Melody Gardot</td>
@@ -1651,6 +1643,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95b4bb9ed61946cc8cadf90bf389b4e7.png" alt="Cover for The Blue Room" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-05</td>
       <td>Madeleine Peyroux</td>
@@ -1760,7 +1753,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10302ef299d42100f7873eb12ed06505.png" alt="Cover for I Dream of Christmas" style="max-width:120px; height:auto;" />
       </td>
@@ -1780,7 +1773,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/yCKBG1ai4EqH196U-PrESVODfUtPI1xmKAFIhwftbfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTg1/NDM4LTE2MjY5Njk4/NjItNjEwNy5qcGVn.jpeg" alt="Cover for Samara Joy" style="max-width:120px; height:auto;" />
       </td>
@@ -1799,7 +1792,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/Yxxw3T3O-MU-9c4Li6D_MPB5CGdC-ffLFN1haavhqDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjMy/ODEzLTE2Mzg2Njk1/NzUtNjczNC5qcGVn.jpeg" alt="Cover for Christmas (Deluxe Special Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1817,7 +1810,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/xhR_Cl_mKl8YHg867JrKaPpHwpRiGLtVKx5F7w978qs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzUy/MjgtMTQ4MTIyNjMz/MS0yMDIwLmpwZWc.jpeg" alt="Cover for Lush" style="max-width:120px; height:auto;" />
       </td>
@@ -1831,9 +1824,27 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 11</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 89</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 15</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 90</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc4202b19c488be8ca759874faa8548a.png" alt="Cover for Everything I Know About Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-09-09</td>
+      <td>Laufey</td>
+      <td>Everything I Know About Love</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1857,7 +1868,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/XLgBepPcYjpnWLeFRHfYEqx10MtPROyRrdfL8kl1_J8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjAy/NDAxLTE2ODUxNjI1/MDAtMzEzNC5qcGVn.jpeg" alt="Cover for De todas las flores" style="max-width:120px; height:auto;" />
       </td>
@@ -1878,7 +1889,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/xIyIojtgfzTmhOXby45cvWxm43-FYSLBZe9HNaLfss8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQ1/MDg1LTE2ODIxODkz/MjMtNzU1OS5qcGVn.jpeg" alt="Cover for The Reykjavík Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -1919,7 +1930,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>

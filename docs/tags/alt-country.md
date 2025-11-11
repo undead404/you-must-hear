@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T16:08:25.895Z
+date: 2025-11-11T03:46:44.578Z
 permalink: tags/alt-country
 title: alt-country
 ---
 
 ## alt-country
 
-Last updated: <time datetime="2025-11-03T16:08:25.895Z">Mon Nov 03 2025 18:08:25 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T03:46:44.578Z">Tue Nov 11 2025 05:46:44 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
   </thead>
   <tbody>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/w0CEjHuQrfrvwcEd8C68Us_g_-sdQie04ZIGuMYBF_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzMz/ODMtMTYyMzk3NjU4/OS0xOTYxLmpwZWc.jpeg" alt="Cover for John Denver&#39;s Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -44,12 +44,12 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 23</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/tOTDjEnMOdPRoxe4UlEfy9TgFzShC86nYEvmYHl7X-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk0/OTEtMTI5NjAwMjk1/NS5qcGVn.jpeg" alt="Cover for Guitar Town" style="max-width:120px; height:auto;" />
       </td>
@@ -68,7 +68,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
       </td>
       <td>1987</td>
@@ -125,8 +125,9 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/580c1757d02b48e4bdfca240e10366e1.png" alt="Cover for The Trinity Session" style="max-width:120px; height:auto;" />
       </td>
       <td>1988-11-15</td>
       <td>Cowboy Junkies</td>
@@ -142,7 +143,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
       </td>
       <td>1990</td>
@@ -159,7 +160,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
       </td>
       <td>1992-08-03</td>
@@ -175,7 +176,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
       </td>
       <td>1992-09-28</td>
@@ -193,7 +194,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/ZNt-M_qJeR_gt_e6-Uj8vXu9Y8IeOyavQGIQ0SDZTuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzg2/MzItMTUyNzA5OTA0/MC00NDI4LmpwZWc.jpeg" alt="Cover for Anodyne" style="max-width:120px; height:auto;" />
       </td>
@@ -211,7 +212,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
       </td>
       <td>1994-08</td>
@@ -228,7 +229,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>1995</td>
@@ -248,7 +249,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79693f81dd2cdde1e2a2e3b0717be374.png" alt="Cover for Tomorrow The Green Grass" style="max-width:120px; height:auto;" />
       </td>
@@ -285,26 +286,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>42</td>
-      <td>
-          <img src="https://i.discogs.com/abLYtkZlWyaIHMJnNccGRnpxH2Qpfo_zSVAEQn_Ty8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTkz/Mi0xMjIzNDk4MjQ2/LmpwZWc.jpeg" alt="Cover for Penthouse" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995-08-08</td>
-      <td>Luna</td>
-      <td>Penthouse</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>1995-09-19</td>
@@ -313,26 +295,6 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
-      <td>
-      </td>
-      <td>1995-09-26</td>
-      <td>Emmylou Harris</td>
-      <td>Wrecking Ball</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
-            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
         </ul>
       </td>
       <td>
@@ -356,14 +318,14 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 8</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 41</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 10</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 42</li>
             <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/39e9c98805e88bd8593f6d4334922ba3.png" alt="Cover for Lay It Down" style="max-width:120px; height:auto;" />
       </td>
@@ -381,8 +343,9 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f4626ed05229adf8b630db9948c15f9.png" alt="Cover for Revival" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-04-09</td>
       <td>Gillian Welch</td>
@@ -400,8 +363,9 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d82b272e8e22405ebc3d0064de74af31.png" alt="Cover for Living With Ghosts" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-05-21</td>
       <td>Patty Griffin</td>
@@ -419,7 +383,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/_RoBhCni7a3Zd1SnjiftwkpZT0kKP4zP6-Gz1_m51sU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDQ5/MC0xNjU5MjE3OTgz/LTI2MDAuanBlZw.jpeg" alt="Cover for Sackcloth -N- Ashes" style="max-width:120px; height:auto;" />
       </td>
@@ -440,7 +404,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b768d7ceb684170b98c68ba52a7ae9d.png" alt="Cover for What Would the Community Think" style="max-width:120px; height:auto;" />
       </td>
@@ -459,7 +423,8 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 67</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 6</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 69</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 93</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 94</li>
         </ul>
@@ -486,7 +451,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a616eab0a90bad9cb6b22cac91d0ec9.png" alt="Cover for Being There" style="max-width:120px; height:auto;" />
       </td>
@@ -504,7 +469,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f13147cf4b864e3dabded0efd82f5a3a.png" alt="Cover for Too Far To Care" style="max-width:120px; height:auto;" />
       </td>
@@ -523,7 +488,27 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/pCijyS2gFR7X7Q6w1dzIMBXvUYEfjlx5tLFKBGqLORU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/MTUtMTM5MjMyMDE1/MS0yMzYyLmpwZWc.jpeg" alt="Cover for Strangers Almanac" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-07-29</td>
+      <td>Whiskeytown</td>
+      <td>Strangers Almanac</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
       <td>
       </td>
       <td>1998-06-22</td>
@@ -540,8 +525,9 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09b8bd50fb643112ad3343ebbcaca169.png" alt="Cover for Car Wheels On A Gravel Road" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-06-30</td>
       <td>Lucinda Williams</td>
@@ -580,7 +566,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50538ce23713450fc59ce7a569e1af86.png" alt="Cover for Industrial Silence" style="max-width:120px; height:auto;" />
       </td>
@@ -599,7 +585,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>1999-03-09</td>
@@ -618,7 +604,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/PaqTg0qHzQFbnND6Njg6W-qe7PRF-F4sBTWpoJtKtLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjMx/ODAtMTM3ODA2NDYy/NC03ODA2LmpwZWc.jpeg" alt="Cover for Golden Age Of Radio" style="max-width:120px; height:auto;" />
       </td>
@@ -638,7 +624,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2000</td>
@@ -655,7 +641,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4950f1d00c099c1c9532f5acdc5f5b43.png" alt="Cover for Nixon" style="max-width:120px; height:auto;" />
       </td>
@@ -675,7 +661,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/7Go10HAMBGtAGkV-eboQARx8hPr1RHhpHR3DIlanL30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzI1/MS0xMzMwMDg5NTc1/LmpwZWc.jpeg" alt="Cover for Secret South" style="max-width:120px; height:auto;" />
       </td>
@@ -731,7 +717,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e20d669f68aa361e576f45aca4561f8.png" alt="Cover for Satellite Rides" style="max-width:120px; height:auto;" />
       </td>
@@ -752,7 +738,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/O62hOLjgN7j1miYvQVtIOC8S4LPDNK78PaBmeDCZBOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDEy/Mi0xMTQ2OTUyOTA0/LmpwZWc.jpeg" alt="Cover for At Dawn" style="max-width:120px; height:auto;" />
       </td>
@@ -770,7 +756,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/3Ww4CnG0HJrf61eOAzViZCIxcPYEF3eC4Qvjp9Kc5l4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTcx/MDYtMTI2MDk2Njk0/NC5qcGVn.jpeg" alt="Cover for End of Amnesia" style="max-width:120px; height:auto;" />
       </td>
@@ -789,8 +775,9 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9f361484d3891b81ec589e380e4899e.png" alt="Cover for Essence" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-06-05</td>
       <td>Lucinda Williams</td>
@@ -808,7 +795,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
       </td>
       <td>2002-02-19</td>
@@ -825,7 +812,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/AF0Y-E3pTsFfjqbv6hK6D9Se0wRFV7b03JT36VwlPXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjIx/OS0xNDc5NTU5NTY1/LTQ3NzkuanBlZw.jpeg" alt="Cover for Woven Hand" style="max-width:120px; height:auto;" />
       </td>
@@ -843,8 +830,9 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30cfc7ae3993474bb4ad49849779019d.png" alt="Cover for 1000 Kisses" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-04-09</td>
       <td>Patty Griffin</td>
@@ -901,7 +889,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
       </td>
       <td>2002-09-23</td>
@@ -919,7 +907,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f231566eb747443d11f97f8f703a06a.png" alt="Cover for The Instigator" style="max-width:120px; height:auto;" />
       </td>
@@ -941,9 +929,9 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/ZQPocHDjVueIbG94JjN8wFJzgPNaHDj88rLoupUGEz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzM2/NTMtMTM5ODU0Njgz/MC01MzYwLmpwZWc.jpeg" alt="Cover for One Moment More" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fab2310102a54b1ba3dc5b493f578a50.png" alt="Cover for One Moment More" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Mindy Smith</td>
@@ -977,7 +965,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td>2003-03-04</td>
@@ -995,7 +983,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>2003-06-03</td>
@@ -1051,7 +1039,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>2004-02-24</td>
@@ -1071,9 +1059,9 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/jeZIQoumjMwG3KVpCZMzsvJGndjXVk0ZxfEmWmmDlXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NzM2/Mi0xMTE5NDAwNTU3/LmpwZw.jpeg" alt="Cover for More Adventurous (U.S. Release)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef7e11f53f7a380cd73258c8ff2ea192.png" alt="Cover for More Adventurous (U.S. Release)" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-08-17</td>
       <td>Rilo Kiley</td>
@@ -1090,14 +1078,14 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 33</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 55</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 34</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 56</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>2004-08-24</td>
@@ -1116,7 +1104,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
       </td>
       <td>2004-09-20</td>
@@ -1134,7 +1122,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee2818553d7fddccd36e6874fcceca82.png" alt="Cover for Back To Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,7 +1140,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td>2005-09-23</td>
@@ -1171,9 +1159,9 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/q4yW2mEiek-xgSBLN8G3Mv6zI1Rvih_iGVdkK--5BtU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDkx/OTctMTQwMTU5NDg5/MC04MzA1LmpwZWc.jpeg" alt="Cover for Rabbit Fur Coat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67ae2617a77b42cebe94d4a389e47911.png" alt="Cover for Rabbit Fur Coat" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Jenny Lewis</td>
@@ -1191,8 +1179,9 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/884846809df58d9220ab77161376b993.png" alt="Cover for Rabbit Fur Coat" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-23</td>
       <td>Jenny Lewis with The Watson Twins</td>
@@ -1210,7 +1199,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
       </td>
       <td>2006-02-02</td>
@@ -1230,7 +1219,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/iwZa_HVrI1_EAbTTa9kHw4u-dKJjFnMfzG5Sw4sDcT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTgw/OS0xMTQyODgzNTQz/LmpwZWc.jpeg" alt="Cover for Fox Confessor Brings the Flood" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93bfb8df799449a3a1067c69d834e30c.png" alt="Cover for Fox Confessor Brings the Flood" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-07</td>
       <td>Neko Case</td>
@@ -1246,7 +1235,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
       </td>
       <td>2006-03-21</td>
@@ -1259,13 +1248,14 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 48</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/997e6b5537624368820a4ec2b3ff5ca7.png" alt="Cover for Hello Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-09</td>
       <td>The Be Good Tanyas</td>
@@ -1282,7 +1272,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/IxZs1W-fmsgrm1_DhIp8H6h6YIHb1xGNfiS1EVfShns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU0/MjktMTYxMjIxNTQx/MS05NDEzLmpwZWc.jpeg" alt="Cover for I See a Darkness" style="max-width:120px; height:auto;" />
       </td>
@@ -1298,7 +1288,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       <td>
         <ul>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 21</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 42</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 44</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 56</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 74</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 79</li>
@@ -1327,7 +1317,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
       </td>
       <td>2007-02-13</td>
@@ -1367,7 +1357,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
       </td>
       <td>2007-07-10</td>
@@ -1384,7 +1374,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c287c6243044eeabaab072dbf972710.png" alt="Cover for Washington Square Serenade" style="max-width:120px; height:auto;" />
       </td>
@@ -1403,7 +1393,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
       </td>
       <td>2007-10-02</td>
@@ -1434,12 +1424,12 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 25</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
       </td>
       <td>2008</td>
@@ -1479,9 +1469,9 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/xDb7a8aSYc-fVXfIRtu9bwfMD_DO0_wTHALD7yU6nuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDkw/ODAtMTI5NDkyNzM2/OC5qcGVn.jpeg" alt="Cover for Asking For Flowers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffa491d93fcc46d18d051a40995c0211.png" alt="Cover for Asking For Flowers" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-04</td>
       <td>Kathleen Edwards</td>
@@ -1517,7 +1507,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
       </td>
       <td>2009-03-03</td>
@@ -1550,12 +1540,34 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 55</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2009-11-10</td>
+      <td>Brown Bird</td>
+      <td>The Devil Dancing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a33cc6a8434544049c4a86463bc4ca3c.png" alt="Cover for The Black Dirt Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -1575,7 +1587,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
       </td>
       <td>2010-07-06</td>
@@ -1592,7 +1604,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>2010-09-13</td>
@@ -1611,7 +1623,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ad7bb21ca8a4b4ab467f8fd2ae32000.png" alt="Cover for Tell Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1654,7 +1666,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
       </td>
       <td>2011-09-12</td>
@@ -1671,7 +1683,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d3e1da44f39488c897cb3c3a186d091.png" alt="Cover for A Wasteland Companion" style="max-width:120px; height:auto;" />
       </td>
@@ -1691,7 +1703,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/_RoBhCni7a3Zd1SnjiftwkpZT0kKP4zP6-Gz1_m51sU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDQ5/MC0xNjU5MjE3OTgz/LTI2MDAuanBlZw.jpeg" alt="Cover for Sackcloth N Ashes" style="max-width:120px; height:auto;" />
       </td>
@@ -1712,7 +1724,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/pEysmDRLd8496uRuWBflrDXPoaJXtUq1CwNg27WNFGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA3/OTc3LTE0OTUwNTQy/NDItMTEwNi5qcGVn.jpeg" alt="Cover for Maybe A Moment &#x2F; Graceland" style="max-width:120px; height:auto;" />
       </td>
@@ -1730,7 +1742,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 34</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 35</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 75</li>
             <li> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a> # 100</li>
         </ul>
@@ -1764,7 +1776,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/PwpcD5NPjuwVSE7DPzJNeWyKdX4eIl9AwLNBpIk5xfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDY0/MDQ5LTE1MDkxOTI4/OTMtOTgwMi5qcGVn.jpeg" alt="Cover for Birdie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/562162c721d2ef39cbf67fe1a6d6fbb8.png" alt="Cover for Birdie" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-27</td>
       <td>Slaughter Beach, Dog</td>
@@ -1780,7 +1792,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/iwZa_HVrI1_EAbTTa9kHw4u-dKJjFnMfzG5Sw4sDcT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTgw/OS0xMTQyODgzNTQz/LmpwZWc.jpeg" alt="Cover for Fox Confessor Brings The Flood (Bonus Track Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1803,7 +1815,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/104ae0812a7bb9eee6634368a8f7f6ef.png" alt="Cover for Skylight" style="max-width:120px; height:auto;" />
       </td>
@@ -1841,8 +1853,8 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 31</li>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 65</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 35</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 67</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 90</li>
             <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 99</li>
         </ul>
@@ -1869,7 +1881,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/SuR3nOaO62Otknu_zVix0mP0RcFLYvfI4iZ2nep9uvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTk3/OTEzLTE1ODc5ODAz/MjktMjU3NC5qcGVn.jpeg" alt="Cover for Dark blue" style="max-width:120px; height:auto;" />
       </td>
@@ -1891,9 +1903,9 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/TuBFJRB_57mOpBF0ypa0zp62OnO_sm2HAzJojU4BgBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTUz/NTM0LTE2MTA3OTk0/MDEtMjk0NS5qcGVn.jpeg" alt="Cover for At The Moonbase" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7df289860cff634aadb0848b41491ac9.png" alt="Cover for At The Moonbase" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04</td>
       <td>Slaughter Beach, Dog</td>
@@ -1904,12 +1916,12 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 2</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/9Tkr8Euzb4U1ogqtRMUyrE6N-9RV961yFCqcGASIxdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDM2Njc3/NDQtNjUxMy5qcGVn.jpeg" alt="Cover for Dragon New Warm Mountain I Believe In You" style="max-width:120px; height:auto;" />
       </td>
@@ -1925,13 +1937,13 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       <td>
         <ul>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 12</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 49</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 50</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1abffa4d62b3a091b403fef4453db44e.png" alt="Cover for Boat Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1949,9 +1961,9 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/oDHByGKRnpCMD7yIH-a0d1yqutIRqo81tBp1r5p0Rnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjA4/NDU5LTE2NjM5NzQ2/NDMtMTg4MC5qcGVn.jpeg" alt="Cover for God Save the Animals" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aae5d6e8190f62aeb6482c6f01798996.png" alt="Cover for God Save the Animals" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-23</td>
       <td>Alex G</td>
@@ -1964,14 +1976,14 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 13</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 14</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 27</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/kqomkXHnXDDe--5r-f-bwonOhhDAXb1p143QYaUKZdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjYz/NzE1LTE3MjU1Nzk0/NDUtOTI4Ny5qcGVn.jpeg" alt="Cover for Manning Fireworks" style="max-width:120px; height:auto;" />
       </td>

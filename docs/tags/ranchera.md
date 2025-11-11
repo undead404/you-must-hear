@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T04:02:12.065Z
+date: 2025-11-11T03:48:07.027Z
 permalink: tags/ranchera
 title: ranchera
 ---
 
 ## ranchera
 
-Last updated: <time datetime="2025-10-22T04:02:12.065Z">Wed Oct 22 2025 07:02:12 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-11T03:48:07.027Z">Tue Nov 11 2025 05:48:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/_E-xV5nJQvgeG56GuWsFQ3KCVicwwUhSHyALbGDV0Os/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA1/MzczLTE1NjYxODUz/MzItODEwOS5wbmc.jpeg" alt="Cover for Hacia La Vida" style="max-width:120px; height:auto;" />
       </td>
@@ -102,7 +102,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/AzwgCXJxD1fVlBlJpmZjaw63aGJz4SFHOLbeIbr_X4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjY5/MTAtMTM4ODMwNzk2/Ny03NDM2LmpwZWc.jpeg" alt="Cover for El Cantinero" style="max-width:120px; height:auto;" />
       </td>
@@ -120,7 +120,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/Cyp8HMNMvxuMMyN2SrzwDxaZSf0SI3vQzWRjkFsZE3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDM2/NjktMTU1MzMwMjA2/NC05Mzg1LmpwZWc.jpeg" alt="Cover for Guadalupe Trigo - Mi Ciudad" style="max-width:120px; height:auto;" />
       </td>
@@ -175,7 +175,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/xWmglcRkcAOJ7mwzYVPLegxndtODAuvQzZ9jg0aKM2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDI1/NzctMTQwMzIxODI4/NS0xMDM3LmpwZWc.jpeg" alt="Cover for Tesoros De Coleccion - Lucha Reyes" style="max-width:120px; height:auto;" />
       </td>
@@ -194,7 +194,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/WQ24gM-QXTE6Ubv20KcXhzJ_y6FUbhfYbGAnBtnBWp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDY5/MzgxLTE2NTEzNTYw/MzQtODQyOC5qcGVn.jpeg" alt="Cover for Aires de México (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -254,7 +254,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/34Gaj_r7zhQyvBKbG5qz8BFehMIws6EIEY9dZKjpYNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzAz/NDI2LTE2ODk0NDA4/OTQtNDExNS5qcGVn.jpeg" alt="Cover for Ay Chabela" style="max-width:120px; height:auto;" />
       </td>
@@ -272,26 +272,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/xYVvFviuuOVnA9XG7RbZx2uSuFBkAIe4C8G8KQleUds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTAx/NzU4LTE1NDgwODQz/NTktNDQxNi5qcGVn.jpeg" alt="Cover for Tomás Méndez y Sus Canciones" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1979</td>
-      <td>Tomás Mendez</td>
-      <td>Tomás Méndez y Sus Canciones</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/uFnaPqUyiH6fEpxhRtv70VzK88QMc_gZrVjme1mmY18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Nzc2/NDItMTM3MjIzNjgz/NC04MzUyLmpwZWc.jpeg" alt="Cover for A Lo Mexicano" style="max-width:120px; height:auto;" />
       </td>
@@ -311,7 +292,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/fzL2L0FI6e6vdSlh_z3bVBirN2LoQml1835eGC1-izQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDEw/ODYzLTE1OTExMDkx/NjctMzkyNy5qcGVn.jpeg" alt="Cover for Mexicanísimo" style="max-width:120px; height:auto;" />
       </td>
@@ -351,7 +332,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/8ig9DLfEQq4Pgee0wpidWC4YFHqdMI3FoYr47lVIe1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODk4/MjAzLTE2NzU0NzI5/NzUtMzg3My5qcGVn.jpeg" alt="Cover for 15 Exitos Con Estela Nunez" style="max-width:120px; height:auto;" />
       </td>
@@ -391,7 +372,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/6rLt877j50u9I0fzG6YLyG_gNgBZMK96EJN6lrUMUlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzQ4/NDgtMTQ0OTc4NjEz/MS01NTYxLmpwZWc.jpeg" alt="Cover for Corazón Apasionado" style="max-width:120px; height:auto;" />
       </td>
@@ -433,7 +414,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/lqF1n-wzBOZw8-KzMPW_Bz2H7pkhjX0GozfpkVayD2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTgz/NTcyLTE2NjcwNDI1/NjktNDY5OS5qcGVn.jpeg" alt="Cover for Rancherisimo Vol.2 Antonio Aguilar" style="max-width:120px; height:auto;" />
       </td>
@@ -451,7 +432,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/oZ4uR1TUu4FnpindEHkhylTJDQjnanzQSAekEib1T5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ3/NjAwLTE1NDExODYy/MjItNDEzNC5qcGVn.jpeg" alt="Cover for 15 Exitos Corridos - Antonio Aguilar" style="max-width:120px; height:auto;" />
       </td>
@@ -469,7 +450,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/0_oXnxkqKWqIV7SWNo0PnXWX9l2LXQAWW_Mx5diSREc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM5/MDQ4LTE1MzExNzUw/OTItMjk5Ni5qcGVn.jpeg" alt="Cover for 15 Exitos Inolvidables" style="max-width:120px; height:auto;" />
       </td>
@@ -487,7 +468,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/DNXcXgaRLcsAHOSqDmsklhJURxl3rskXEfQGEFnjmZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjU4/MTcxLTE1MzE1ODcx/OTYtOTE4NC5qcGVn.jpeg" alt="Cover for Alejandro Fernandez 15 Años De Exitos" style="max-width:120px; height:auto;" />
       </td>
@@ -506,7 +487,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>1992</td>
@@ -528,7 +509,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/l_dTpsrAsfg8RqYLRlnnzQjvjkR--MJfoGkdfy_F6yk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzA1/MDc4LTE1Nzk5OTY3/MzYtMTk2Mi5qcGVn.jpeg" alt="Cover for Las Estrellas De La Hora Azul" style="max-width:120px; height:auto;" />
       </td>
@@ -551,7 +532,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/MabNPUCAEOKEoUv2iyi9tsi9VIYecw1m1DsFvmbMwJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDY1/NzEtMTU4MTAzMTk0/MS04NDEwLmpwZWc.jpeg" alt="Cover for Un Lu*Jo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/562f220090ac47acb1b15662ef25a777.png" alt="Cover for Un Lu*Jo" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Lucero</td>
@@ -591,7 +572,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/0uPsQb_K4B63BbOvK87aJ8uMafg39S8ruQdmZalSE9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODEx/NTkwLTE1MjI3ODcy/MDYtNTc3Mi5qcGVn.jpeg" alt="Cover for Mis 60 primeros Boleros y Rancheras" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/218ff2bb69f8b99d3521e0dc83d5be7f.png" alt="Cover for Mis 60 primeros Boleros y Rancheras" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Chavela Vargas</td>
@@ -630,7 +611,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/RFm3HfrHJWeDpItfSZ3aA4OS4KLYxdUvMvRz20cKuTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE0/NzctMTIzNzg5Nzkx/OC5qcGVn.jpeg" alt="Cover for RANCHERO" style="max-width:120px; height:auto;" />
       </td>
@@ -647,7 +628,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>1994</td>
@@ -666,7 +647,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/iE6RDJ03NWNvf0XofYHnnGiqq6fcSPfGgEtiMV4ibuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDMy/Ny0xMjg3Mjk4MzIx/LmpwZWc.jpeg" alt="Cover for Carinos de Mis Carinos!" style="max-width:120px; height:auto;" />
       </td>
@@ -690,7 +671,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/pM6gYYQwZCMRmZ9QL3DsTYpXwk2UyYKeM8xv-QiJv6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjkx/MzQ5LTE1MzIyODA3/MDctODk5OS5qcGVn.jpeg" alt="Cover for Mi Secreto De Amor" style="max-width:120px; height:auto;" />
       </td>
@@ -718,7 +699,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>1995</td>
@@ -738,7 +719,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/Ruddrx_ZKuREwVe29lXCkpXGpd6-hXJj1ltna30F1F0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzg0/NTY5LTE2NTY5ODI3/NjEtNTc2NS5qcGVn.jpeg" alt="Cover for Tesoros De Coleccion - Hermanas Padilla" style="max-width:120px; height:auto;" />
       </td>
@@ -776,7 +757,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/8XJlqjTG8VwIKryjzqr9AFYLlPmitxTmLPZ2wuii42I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODEz/NzUzLTE2NDYzODc2/NzktMjg3OS5qcGVn.jpeg" alt="Cover for Orgullo Ranchero" style="max-width:120px; height:auto;" />
       </td>
@@ -796,7 +777,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/DDxgsDiqKeKNF5XHE57UO1gd86y3y8f9tsXJ1r83TW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM4/NzUzLTE2MDA1NTE4/NzctOTk2NS5qcGVn.jpeg" alt="Cover for Mexico Madrid En Directo Y Sin Escalas" style="max-width:120px; height:auto;" />
       </td>
@@ -815,7 +796,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/5DwqXt_sRRTngaDI6eT6YOfyWQx5-H59ZFrn_OIrAvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzE0/NTI3LTE2MTg1MzQ1/MzctNzYxNy5qcGVn.jpeg" alt="Cover for Escuchame" style="max-width:120px; height:auto;" />
       </td>
@@ -838,7 +819,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/Lxkjy14tCgimVJx5lzNBQYywgv0-b11DbjcezWf1YAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTE5/NzAtMTQ3ODM5NjEx/MS0yOTMyLmpwZWc.jpeg" alt="Cover for Con Un Mismo Corazon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b90472a9ce5425dc27ef372886a4465.png" alt="Cover for Con Un Mismo Corazon" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Ana Gabriel</td>
@@ -875,7 +856,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/6QmsEM9FRVp1IibWXwmXRhzFQw4LG9MsAi6UIs6JXeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDcy/NTg5LTE1Mjc4OTU0/NjctNTYwMC5qcGVn.jpeg" alt="Cover for Serie Platino" style="max-width:120px; height:auto;" />
       </td>
@@ -895,7 +876,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/0aYW9keG0EMKbJ-9Z1YR6rXaVKKtXI2d9vPSehsA1n8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjQx/MjI4LTE2Mzg3Mjk4/NTMtNzA5MS5qcGVn.jpeg" alt="Cover for Todo" style="max-width:120px; height:auto;" />
       </td>
@@ -915,9 +896,9 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/sd9HMZb3bDMYeXqwpkz_PzX79HqzDrxlHDxQs1XShAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTU2/My0xNTE0MjI4MTM1/LTQ4NDAuanBlZw.jpeg" alt="Cover for Esperanza" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f1455a7b67843e7ae0206ba5eedf6b9.png" alt="Cover for Esperanza" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Esperanza</td>
@@ -954,7 +935,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/WULJrbM0h5ZICqHIFQd8cg6lLBUcxYaFZkO-FLhB9PM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU5/NTQzLTE1MTA5NjMz/OTctNDA3NS5qcGVn.jpeg" alt="Cover for Solo Lo Mejor" style="max-width:120px; height:auto;" />
       </td>
@@ -972,7 +953,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/zUfnc3hiccKSn2duDbZm0AVV_ejAOWGJzyyKuoCgWnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjA3/MzY2LTE1Mzg0OTQ0/MDUtNTY3Ni5qcGVn.jpeg" alt="Cover for Donde Estas Corazon" style="max-width:120px; height:auto;" />
       </td>
@@ -990,7 +971,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/8dCeunEWwwlMso6_zBwtgKsMEWlijy076f8vATe2QmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODI1/Ny0xMzkwNDgzOTgy/LTM4MTIuanBlZw.jpeg" alt="Cover for Beeu Pascua-Navidad En Juchitan" style="max-width:120px; height:auto;" />
       </td>
@@ -1041,7 +1022,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 3</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1064,7 +1045,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/hxtQYGMunfa3Se9xs6IYop_sSTPSQ2LIsXsj24ODCjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzg4/MzQzLTE1NTMyNzA1/ODYtNDUxOC5qcGVn.jpeg" alt="Cover for Que Bonita Es Mi Tierra" style="max-width:120px; height:auto;" />
       </td>
@@ -1084,7 +1065,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>2000-05-23</td>
@@ -1098,13 +1079,13 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 58</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 59</li>
             <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/YQgS9ANEjxjlCEo-o_JpKR4m3nmTTbnrWCkt7LJTAhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDkx/MjU1LTE2MTM3NTI0/NzQtNjQxMy5qcGVn.jpeg" alt="Cover for En Vivo En El auditorio Nacional - Joan Sebastian" style="max-width:120px; height:auto;" />
       </td>
@@ -1159,7 +1140,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/oILUvUqhIHgHIxIpv2nNfpe4yig_e4Pr0hnW63W9pAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzM5/ODgtMTMwNTA3MTI4/NS5qcGVn.jpeg" alt="Cover for Pidemelo Todo" style="max-width:120px; height:auto;" />
       </td>
@@ -1195,7 +1176,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/OSCrDG5ffifd5tEVTbIu1RKuKCUg1SIGvpE8br5Zo9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzc0/OC0xNjg0MjExNTg4/LTE2MDAuanBlZw.jpeg" alt="Cover for De Qué Sirve" style="max-width:120px; height:auto;" />
       </td>
@@ -1214,7 +1195,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/SkZ2fEt5DFinz0KJ3Zjn1UKpIaxdGwl1Kd-6Xk-dHvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAz/MTkyLTE1NzM4MjU2/NDgtMzk4My5qcGVn.jpeg" alt="Cover for Entre Dos Amores" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,7 +1215,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Tributo A Tomas Mendez" style="max-width:120px; height:auto;" />
       </td>
@@ -1274,7 +1255,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>2003</td>
@@ -1296,7 +1277,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for xXx (30 Años): Tributo a José Alfredo Jiménez" style="max-width:120px; height:auto;" />
       </td>
@@ -1331,8 +1312,9 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87a3a1eabb344e1fae143c8ba513afd7.png" alt="Cover for Una Mujer, un Sueño" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Ana Bárbara</td>
@@ -1348,7 +1330,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/FNCaJc3opFI3jAZTeinCrk06u7qfsyFHGG0TMjcnfqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk5/NzQ4LTE2NjU1Nzg1/NDctNTkzNi5qcGVn.jpeg" alt="Cover for A Corazon Abierto" style="max-width:120px; height:auto;" />
       </td>
@@ -1366,7 +1348,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/YOoox2Of765K_P1EwGyqQG8iOYB7ZsF8mHC4i4JCiHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzM1/MDUtMTQwMjI1OTg1/NS05NjgwLmpwZWc.jpeg" alt="Cover for Cuando El Corazón Se Cruza" style="max-width:120px; height:auto;" />
       </td>
@@ -1388,7 +1370,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/uN5EsN7X5UcnhDYl9XR5_eD4bqZKq3LGcX4Rhgg9AcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM0/ODM1LTE1MzEwODUx/MjgtMzgyOS5qcGVn.jpeg" alt="Cover for Loca De Amar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c4818222a73017951e61b08501b5d1e.png" alt="Cover for Loca De Amar" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Ana Bárbara</td>
@@ -1407,7 +1389,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/LfVU6JIc_B4CF_ZodsXR063KMsClyognVBxYxqvd13k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzc3/MTItMTQxNDk0Mzg2/Ny02MjM5LmpwZWc.jpeg" alt="Cover for 15 Exitos con Yolanda Del Rio" style="max-width:120px; height:auto;" />
       </td>
@@ -1426,7 +1408,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/4UQSPIYVEqtsoCpdhLLqx2Jm_sevqm9qcADWMBwHunc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTM4/Njk4LTE1NDg3MzE2/MTktMTY3NS5qcGVn.jpeg" alt="Cover for Mexicanísimo" style="max-width:120px; height:auto;" />
       </td>
@@ -1444,9 +1426,9 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/EOsRdxN_n7b4IVJ84lAE7R1yLo63GZWBJtUcawkE-YE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM0/OTA0LTE1MzEwODU1/NjQtNTQ4Ny5qcGVn.jpeg" alt="Cover for No Es Brujeria" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e04e29df71a3479f84910d0179993f36.png" alt="Cover for No Es Brujeria" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Ana Bárbara</td>
@@ -1481,7 +1463,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 25</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1524,9 +1506,27 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
+      <td>21</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f480ff41b247897816a0619f3e5f2d7.png" alt="Cover for Ananda" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-09-16</td>
+      <td>Paulina Rubio</td>
+      <td>Ananda</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/Clhj9dFyLK1-i3vh2EkLeGW2NsTsYBldRK7iXUQS0wM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDEz/NzA3LTE2MDYzNjQz/MTItNzI1My5qcGVn.jpeg" alt="Cover for Todo Tiene Color" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46bf5e09528b4739a708a0a954410a8f.png" alt="Cover for Todo Tiene Color" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Lidia Avila</td>
@@ -1563,7 +1563,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/pRDPeNBHtcJF5akpfNDOuyjH7JBsm8ipU75Ka6x1b64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTEz/MzM5LTE2MzY2NzY0/NTktNDU3MC5qcGVn.jpeg" alt="Cover for Mi Tesoro Norteño" style="max-width:120px; height:auto;" />
       </td>
@@ -1581,7 +1581,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/QEutnl5hcFx7uBHxI2IDMaT-PinfTXhixUinOSK16GU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDY2/OS0xNjAwMjk5Njk5/LTY0MjkuanBlZw.jpeg" alt="Cover for Ni Rosas, Ni Juguetes (feat. Jenni Rivera) [Versión Banda] - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1599,7 +1599,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/TZ1wjXKQhv5ibrP5H-yDt2AoZIt5cNclXITU5oF2sIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDk2/NjYwLTE1NTUyOTc0/MzAtOTYxMi5qcGVn.jpeg" alt="Cover for La Jefa" style="max-width:120px; height:auto;" />
       </td>
@@ -1640,7 +1640,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/AMM6eja36IV7MhWdhR8KdjitGwtecjtMhCc3eRL1_qc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTc5/MTIxLTE1Mjk4NzM2/NjgtODg2NS5qcGVn.jpeg" alt="Cover for La Reina De La Banda" style="max-width:120px; height:auto;" />
       </td>
@@ -1659,27 +1659,26 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/Z6ulbQlKRV_vPrb1CgJDwS_f2kVPj4vf5IqBmj_NzWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzA4/NDktMTM4MTY2MzM5/Ny05MTQ0LmpwZWc.jpeg" alt="Cover for Gran City Pop" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1612c85856d029915822f5dd8e5a9d50.png" alt="Cover for Gran City Pop" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-23</td>
       <td>Paulina Rubio</td>
       <td>Gran City Pop</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 3</li>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 86</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/pyGdJlvS-C6TJuVDvaaKrMez3j3Pzv_I0Ko9atHFyRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTQ3/OTktMTQ3MjE2OTg4/OC01OTI2LmpwZWc.jpeg" alt="Cover for Lo Mejor (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -1722,7 +1721,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/6eSC4meZCv8dtkN2Aa-K80TTAiF-betCQoOdobNvQCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjI0/NjItMTQxOTkxNTcw/MS0zMjIyLmpwZWc.jpeg" alt="Cover for Gran City Pop (International Regular Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1748,7 +1747,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/SVB0HdsBUZs_kHO7gpp6AEsFSnZ7iZYAxCBTh-Kg_aw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODg2/MTYtMTQ3MjgzNjU0/OC0xMDE0LmpwZWc.jpeg" alt="Cover for Yo Amo Rocío Dúrcal" style="max-width:120px; height:auto;" />
       </td>
@@ -1768,7 +1767,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/CV2nOMEP9pQds3boKhqVq7qCB-MERTRDBv3_5WFlqJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAw/OTAwLTE1ODE4NTg2/NzAtNjY2NS5qcGVn.jpeg" alt="Cover for Mexicanisimo-Bicentenario&#x2F;Guadalupe Pineda" style="max-width:120px; height:auto;" />
       </td>
@@ -1825,7 +1824,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/f1nXXfYQR0OBeJ8VNtDGg2c5-4_4KPIg-POqrA04FdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjg5/MzA3LTE1NzE1MzI4/OTctMzQxNy5qcGVn.jpeg" alt="Cover for Las Caras Lindas" style="max-width:120px; height:auto;" />
       </td>
@@ -1861,7 +1860,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/YpwKxGJgqy-gOG8HU0AoGgBLuFcNN8FYbMleCy2O1Vo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjgy/MDU5LTE1NTg5MjQ4/MDQtNzExNi5wbmc.jpeg" alt="Cover for Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1878,7 +1877,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/_sm4ZvlKOHY5CU6QRRPQrIpiVkrDjD3of8Q_LWpV4s4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTA5/Mjc2LTE1ODY3ODk0/MDUtOTI4Mi5qcGVn.jpeg" alt="Cover for 15 Años de Exitos" style="max-width:120px; height:auto;" />
       </td>
@@ -1897,7 +1896,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/MR4bJGXNzkRbJ5_xsvZu7K8MY-lV8jxriaz2xnme7Uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU2/ODgzLTE1MDkwNDYx/NzYtOTI4Ni5qcGVn.jpeg" alt="Cover for Hecho En México (Edición Especial Apple Music)" style="max-width:120px; height:auto;" />
       </td>
@@ -1918,7 +1917,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/ZzEWYjHXsiED7koaf8fnWNCm19DM5VO7mBYR8Lzw5lo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTIy/NDIzLTE1MzY5MzAy/NTEtMzk2MS5qcGVn.jpeg" alt="Cover for Me Voy" style="max-width:120px; height:auto;" />
       </td>
@@ -1955,7 +1954,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/DrOtIMP2QOok_EyAuT7dcZRhYM0lTMFPTXutDfZktx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODY1/OTIyLTE2MzYxNDAy/MzItMTk1OS5qcGVn.jpeg" alt="Cover for Ve Como Ando" style="max-width:120px; height:auto;" />
       </td>
@@ -1994,7 +1993,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td></td>
@@ -2020,8 +2019,8 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
 - [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
 - [latin]({{ "/tags/latin" | relative_url }})
 - [bolero]({{ "/tags/bolero" | relative_url }})
-- [latin pop]({{ "/tags/latin-pop" | relative_url }})
 - [latino]({{ "/tags/latino" | relative_url }})
+- [latin pop]({{ "/tags/latin-pop" | relative_url }})
 - [spanish]({{ "/tags/spanish" | relative_url }})
 - [pop]({{ "/tags/pop" | relative_url }})
 - [mexican]({{ "/tags/mexican" | relative_url }})
