@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-10T23:04:20.267Z
+date: 2025-11-10T23:05:45.451Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-10T23:04:20.267Z">Tue Nov 11 2025 01:04:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-10T23:05:45.451Z">Tue Nov 11 2025 01:05:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [freak folk]({{ "tags/freak-folk" | relative_url }}) | <time datetime="2025-11-10T23:05:45.451Z">Tue Nov 11 2025 01:05:45 GMT+0200 (Eastern European Standard Time)</time> |
 | [piano rock]({{ "tags/piano-rock" | relative_url }}) | <time datetime="2025-11-10T23:04:20.267Z">Tue Nov 11 2025 01:04:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [teen pop]({{ "tags/teen-pop" | relative_url }}) | <time datetime="2025-11-10T22:46:53.245Z">Tue Nov 11 2025 00:46:53 GMT+0200 (Eastern European Standard Time)</time> |
 | [east coast hip hop]({{ "tags/east-coast-hip-hop" | relative_url }}) | <time datetime="2025-11-10T22:45:22.232Z">Tue Nov 11 2025 00:45:22 GMT+0200 (Eastern European Standard Time)</time> |
@@ -641,7 +642,6 @@ Last updated: <time datetime="2025-11-10T23:04:20.267Z">Tue Nov 11 2025 01:04:20
 | [suicidal black metal]({{ "tags/suicidal-black-metal" | relative_url }}) | <time datetime="2025-10-28T13:37:33.843Z">Tue Oct 28 2025 15:37:33 GMT+0200 (Eastern European Standard Time)</time> |
 | [percussion]({{ "tags/percussion" | relative_url }}) | <time datetime="2025-10-28T13:37:05.597Z">Tue Oct 28 2025 15:37:05 GMT+0200 (Eastern European Standard Time)</time> |
 | [asia]({{ "tags/asia" | relative_url }}) | <time datetime="2025-10-28T13:37:00.490Z">Tue Oct 28 2025 15:37:00 GMT+0200 (Eastern European Standard Time)</time> |
-| [freak folk]({{ "tags/freak-folk" | relative_url }}) | <time datetime="2025-10-28T13:36:48.972Z">Tue Oct 28 2025 15:36:48 GMT+0200 (Eastern European Standard Time)</time> |
 | [czech]({{ "tags/czech" | relative_url }}) | <time datetime="2025-10-28T13:36:38.176Z">Tue Oct 28 2025 15:36:38 GMT+0200 (Eastern European Standard Time)</time> |
 | [chill new age]({{ "tags/chill-new-age" | relative_url }}) | <time datetime="2025-10-28T13:36:16.554Z">Tue Oct 28 2025 15:36:16 GMT+0200 (Eastern European Standard Time)</time> |
 | [nouvelle scene francaise]({{ "tags/nouvelle-scene-francaise" | relative_url }}) | <time datetime="2025-10-28T13:20:24.961Z">Tue Oct 28 2025 15:20:24 GMT+0200 (Eastern European Standard Time)</time> |
