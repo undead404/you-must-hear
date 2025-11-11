@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-07T18:59:01.713Z
+date: 2025-11-11T04:43:05.343Z
 permalink: tags/krautrock
 title: krautrock
 ---
 
 ## krautrock
 
-Last updated: <time datetime="2025-11-07T18:59:01.713Z">Fri Nov 07 2025 20:59:01 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T04:43:05.343Z">Tue Nov 11 2025 06:43:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
   </thead>
   <tbody>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td>1969-08</td>
@@ -46,7 +46,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/rHFk-YXZXMtBmki0qeZGAsH7CPJp6C0DFgypZrJ7HuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjQw/ODItMTQxOTM1MTc3/NS01MjIzLmpwZWc.jpeg" alt="Cover for Opal" style="max-width:120px; height:auto;" />
       </td>
@@ -64,7 +64,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/egR3ClYrkcmOzl3u7iFyk9oYxFvNWG8RCkT84uC8gEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDU0/MTAtMTQ2Mzg0MzQ3/OC0zMTEzLmpwZWc.jpeg" alt="Cover for Affenstunde" style="max-width:120px; height:auto;" />
       </td>
@@ -82,7 +82,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>1970</td>
@@ -99,7 +99,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
       </td>
       <td>1970</td>
@@ -116,7 +116,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>1970-04</td>
@@ -132,8 +132,9 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86bd6402ddecad0836e9ad441caf34bb.png" alt="Cover for Electronic Meditation" style="max-width:120px; height:auto;" />
       </td>
       <td>1970-06</td>
       <td>Tangerine Dream</td>
@@ -149,8 +150,9 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87db0f7306b345db8e866b63ec7e4dfe.png" alt="Cover for Cluster 71" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Cluster</td>
@@ -167,7 +169,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/RcsjhiBRo7a9w0tRQ9rFk_eF5s9E8XGy3TlC-zgQ5i8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDg5/MC0xNjUxNTgxOTYx/LTQzMzYuanBlZw.jpeg" alt="Cover for Tanz Der Lemminge" style="max-width:120px; height:auto;" />
       </td>
@@ -185,7 +187,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/401f24a225a26a4c3cbcc785e87b8fa7.png" alt="Cover for Delay" style="max-width:120px; height:auto;" />
       </td>
@@ -203,8 +205,9 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc4f5e85672b4fdeb0e45800bf34072c.png" alt="Cover for In den Gärten Pharaos" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Popol Vuh</td>
@@ -221,7 +224,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
       </td>
       <td>1971</td>
@@ -238,7 +241,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/05d55c5386e49c4445e8263ee89199ab.png" alt="Cover for Faust" style="max-width:120px; height:auto;" />
       </td>
@@ -273,7 +276,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td>1971-01-26</td>
@@ -287,12 +290,12 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 27</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12cd369ffc311b05334f07de82afc086.png" alt="Cover for Alpha Centauri" style="max-width:120px; height:auto;" />
       </td>
@@ -312,7 +315,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
       </td>
       <td>1972</td>
@@ -331,7 +334,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/DIkxyRhCe2y1Byoa5fo0Pq04YeLJay5R6T43u6tdFo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDY1/OS0xNDgyOTIxNTQ5/LTU3MTMuanBlZw.jpeg" alt="Cover for Känguru" style="max-width:120px; height:auto;" />
       </td>
@@ -349,7 +352,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>1972</td>
@@ -383,8 +386,9 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c904cf0a28f8a0cbba183051b16075f.png" alt="Cover for Cluster II" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Cluster</td>
@@ -400,7 +404,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>1972</td>
@@ -434,9 +438,9 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
-          <img src="https://i.discogs.com/oGIOI6LRTdDjGly92tOVf0GpECHv7ekTVzdrvqvFfh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTIw/Ni0xMzkwODk5NDM4/LTQ5MzIuanBlZw.jpeg" alt="Cover for Kraftwerk 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8b038fe597fa4f0ca7dbcc730a90ce3.png" alt="Cover for Kraftwerk 2" style="max-width:120px; height:auto;" />
       </td>
       <td>1972-01</td>
       <td>Kraftwerk</td>
@@ -452,7 +456,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>1972-06</td>
@@ -469,7 +473,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/565cbac527714074c0dec4f5bb2bbdb8.png" alt="Cover for Celestial Ocean" style="max-width:120px; height:auto;" />
       </td>
@@ -505,7 +509,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ed8d903155e448eaca3ab4a46f7f72d.png" alt="Cover for Join Inn" style="max-width:120px; height:auto;" />
       </td>
@@ -523,8 +527,9 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21eadeffbe724794acf0718e7d0961d8.png" alt="Cover for Starring Rosi" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>Ash Ra Tempel</td>
@@ -540,7 +545,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/5wK551X7dgCGcLhd4uxqjmZIrY2A2ONswYv02E7Kchc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE2/MDIxLTE1ODI1NDAw/ODItMjU1MC5qcGVn.jpeg" alt="Cover for Neu! 2" style="max-width:120px; height:auto;" />
       </td>
@@ -629,7 +634,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/LR8q1oXMPMcmcI1UdAe_C_SMCzKVQopeKd5mIKg4o3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njc3/NjEtMTU0Nzc0MDI0/Ny01OTM4LmpwZWc.jpeg" alt="Cover for Galactic Supermarket" style="max-width:120px; height:auto;" />
       </td>
@@ -647,13 +652,13 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>51</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7554b61ee727619355f4ef04cc1e6052.png" alt="Cover for Soon Over Babaluma" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ef11681711c4267a8f0da74625f5de2.png" alt="Cover for Zuckerzeit" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
-      <td>Can</td>
-      <td>Soon Over Babaluma</td>
+      <td>Cluster</td>
+      <td>Zuckerzeit</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
@@ -665,16 +670,16 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7554b61ee727619355f4ef04cc1e6052.png" alt="Cover for Soon Over Babaluma" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
-      <td>Cluster</td>
-      <td>Zuckerzeit</td>
+      <td>Can</td>
+      <td>Soon Over Babaluma</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
@@ -699,8 +704,9 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54de749ea61a49b7c9ad5342c1291d52.png" alt="Cover for Musik von Harmonia" style="max-width:120px; height:auto;" />
       </td>
       <td>1974-01</td>
       <td>Harmonia</td>
@@ -708,6 +714,24 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac9e6d537e284418c4ceb9f8a7bb8efc.png" alt="Cover for Autobahn" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974-11</td>
+      <td>Kraftwerk</td>
+      <td>Autobahn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
@@ -729,12 +753,12 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 8</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8135494caa96d3172d56e48c9a4b694b.png" alt="Cover for Aguirre" style="max-width:120px; height:auto;" />
       </td>
@@ -753,9 +777,9 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
-          <img src="https://i.discogs.com/NwpqvdfQ5M47ggL-AH9AThj6mEbgx8zyTGLIMziHUjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTE0/NC0xNTgxNjg2NTQy/LTcyODguanBlZw.jpeg" alt="Cover for Deluxe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f152a804d20e353655fb8c3e4a6a665.png" alt="Cover for Deluxe" style="max-width:120px; height:auto;" />
       </td>
       <td>1975-08-20</td>
       <td>Harmonia</td>
@@ -772,7 +796,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
       </td>
       <td>1976</td>
@@ -794,8 +818,9 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94b22172bda64a7f971da7d0814fec5e.png" alt="Cover for Sowiesoso" style="max-width:120px; height:auto;" />
       </td>
       <td>1976</td>
       <td>Cluster</td>
@@ -831,9 +856,9 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/B0OtTcuDrTmmhNB4gEnynpT2F8v79NCgszFL-yXW7QM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzI1/LTE1OTkxNzEyMzMt/ODMwMS5qcGVn.jpeg" alt="Cover for Stratosfear" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10bb06cf0d1f988f03b24b8477cbb873.png" alt="Cover for Stratosfear" style="max-width:120px; height:auto;" />
       </td>
       <td>1976-10</td>
       <td>Tangerine Dream</td>
@@ -852,7 +877,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>1977</td>
@@ -869,7 +894,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2772cdf4587c4752801a094fdd69a9aa.png" alt="Cover for Flammende Herzen" style="max-width:120px; height:auto;" />
       </td>
@@ -889,7 +914,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
       </td>
       <td>1978</td>
@@ -906,7 +931,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfa0c79b1eaef960c196cd520f0ed85a.png" alt="Cover for Blackouts" style="max-width:120px; height:auto;" />
       </td>
@@ -925,7 +950,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/tYcMpmX6qfU-VqhaZabMC1SfnAehPUkRn2ztvOxBJIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODgw/OTM1LTE1NDM3NTUw/NDQtNjg0OC5qcGVn.jpeg" alt="Cover for La Dusseldorf" style="max-width:120px; height:auto;" />
       </td>
@@ -943,9 +968,9 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/hISPTaHjgdwr8lSQYT9oHYyblfalwiIYLoM3_OZTlGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjI4/Ny0xNDI0MDE5Mzc1/LTEzMDIuanBlZw.jpeg" alt="Cover for Grosses Wasser" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f5e93489e5289934978daa5ee560c2e.png" alt="Cover for Grosses Wasser" style="max-width:120px; height:auto;" />
       </td>
       <td>1979</td>
       <td>Cluster</td>
@@ -965,7 +990,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/34496498aad2c5a9084440ea0ba4078c.png" alt="Cover for Correlations" style="max-width:120px; height:auto;" />
       </td>
@@ -984,7 +1009,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>1979</td>
@@ -1001,7 +1026,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>1981</td>
@@ -1018,7 +1043,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/A0LXP5M9bDhAwPUxRwbI5ZDP_Mx0eV3qBZij5NXlVfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDk1/NS0xNDAyMDk3NDU5/LTk4MTUuanBlZw.jpeg" alt="Cover for Delay 1968" style="max-width:120px; height:auto;" />
       </td>
@@ -1036,7 +1061,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/N6Pb2iZMUQywOHk5rjDCVv9PaBnsnfNYHHrvBx4iC-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzMy/MzAtMTI5MTEzMTk1/Ny5qcGVn.jpeg" alt="Cover for Cluster 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1054,7 +1079,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/BTMPMOATOeuTszNf5JSmP3a22ocomWErBqBLNDbkrdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTgx/NC0xMjYzMjM3ODI2/LmpwZWc.jpeg" alt="Cover for Einsjäger und Siebenjäger" style="max-width:120px; height:auto;" />
       </td>
@@ -1073,7 +1098,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/71jlHwqYIUdZKuAlGqvTWs1DcMjVb2Tf8koJesg5fKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTg4/MC0xNDUyNTkxNTIw/LTMwMTkuanBlZw.jpeg" alt="Cover for Music Von Harmonia" style="max-width:120px; height:auto;" />
       </td>
@@ -1091,7 +1116,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/COa3wyr5zwLJsAupqoCb84x5A56lfaSZ13Ljb5Eg2XI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg5/NzQ0LTE1NzU1ODE5/MjctNTA0MS5wbmc.jpeg" alt="Cover for Space Age Bachelor Pad Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1110,7 +1135,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/Is-XyzW48K98z258BdgQCfnhnVdb2aDErq6gQ9SkDL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzEt/MTY2MzQ4NTI3Mi02/NTQ3LmpwZWc.jpeg" alt="Cover for Mars Audiac Quartet" style="max-width:120px; height:auto;" />
       </td>
@@ -1126,7 +1151,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 13</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 24</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1149,7 +1174,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/LqPx67ZDIBJRjgl6ub1pLkA3lFXTVcfVL4c1IW324ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTA5/Ni0xMTM4OTk2NjQ5/LmpwZWc.jpeg" alt="Cover for The Cleaner" style="max-width:120px; height:auto;" />
       </td>
@@ -1169,8 +1194,9 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a10e04ca52c248b5bc424438f503ae52.png" alt="Cover for Kosmischer Pitch" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-21</td>
       <td>Jan Jelinek</td>
@@ -1211,15 +1237,16 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 16</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 2</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 21</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 59</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 73</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 75</li>
             <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/lsUyVasUF46OASZpLbz6v1CqwzF3YQaXcSJT6wphZLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTk3/OTMtMTQ0Mjc1NjYz/My0xMjU4LmpwZWc.jpeg" alt="Cover for In The Gardens Of Pharao" style="max-width:120px; height:auto;" />
       </td>
@@ -1238,7 +1265,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/4-QoIcp9TWzwWCtNiW-nXDOPsKWZHcodZgYcxX9Ib3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjU2/MTktMTI4MDUyNTc2/OS5qcGVn.jpeg" alt="Cover for Embryonic" style="max-width:120px; height:auto;" />
       </td>
@@ -1254,14 +1281,14 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 3</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 9</li>
             <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 92</li>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/hMiYe1MQvx-9BPPCvogmXhjxJVia0ILqpXmwtGw3xAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzc4/OTItMTI1NjMwODUx/My5qcGVn.jpeg" alt="Cover for Beak&gt;" style="max-width:120px; height:auto;" />
       </td>
@@ -1280,7 +1307,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/sIeHRDUoKIBuyo0ucUtXi7WoY_dSM7tpya11EYqQS3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTk4/MDQtMTI2OTQyMzgx/Ni5qcGVn.jpeg" alt="Cover for Prismic Tops" style="max-width:120px; height:auto;" />
       </td>
@@ -1298,9 +1325,9 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
-          <img src="https://i.discogs.com/B3u4-2y8Bu5mcjmuUs4olH3TZ5Ad9VteShwyYkYBGYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjU3/MzMtMTY2Nzc4OTU2/NC02MzY0LmpwZWc.jpeg" alt="Cover for Latin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9771f3b4edfb4a20b9f386d1f7a0f0be.png" alt="Cover for Latin" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-10</td>
       <td>Holy Fuck</td>
@@ -1317,7 +1344,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/B1Hgk9JLWm2vJJgJjsWO2Dgwg2bn5nUAmTYDZS6zu2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjA1/NDYtMTMxMTEwMTIw/Mi5qcGVn.jpeg" alt="Cover for Tago Mago (40th Anniversary Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1335,8 +1362,9 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4994cb3c400d4500b0464386ce574bf4.png" alt="Cover for Anika" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11</td>
       <td>Anika</td>
@@ -1347,12 +1375,11 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2011-01-19</td>
@@ -1369,7 +1396,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2012-08-12</td>
@@ -1386,7 +1413,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2014-10-20</td>
@@ -1404,24 +1431,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>34</td>
-      <td>
-      </td>
-      <td>2014-10-24</td>
-      <td>Can</td>
-      <td>Ege Bamyasi (Remastered Version)</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 74</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>2014-10-24</td>
@@ -1440,7 +1450,23 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>35</td>
+      <td>
+      </td>
+      <td>2014-10-24</td>
+      <td>Can</td>
+      <td>Ege Bamyasi (Remastered Version)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/dujaTD3KEnkCdxL0c5kXh2LMftPoyp69Y4H9XADBagQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mjgw/ODItMTQyNzQ3ODk1/NC00MTE3LmpwZWc.jpeg" alt="Cover for III" style="max-width:120px; height:auto;" />
       </td>
@@ -1458,7 +1484,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2015-09-21</td>
@@ -1472,26 +1498,6 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>48</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b6fd17dbef3875c530a157ddd4aa2b1.png" alt="Cover for Low (2017 remaster)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-01-08</td>
-      <td>David Bowie</td>
-      <td>Low (2017 remaster)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1512,12 +1518,12 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 75</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 90</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/vXcSbCMa63ZVfOcEJz6PGRNJ2XWPbQU2ifR9nxbOPe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjQ5/MzEtMTQ4NDQxOTk1/My02MTY4LmpwZWc.jpeg" alt="Cover for Crack Cloud" style="max-width:120px; height:auto;" />
       </td>
@@ -1534,12 +1540,12 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 44</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 45</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/vgxa3y_dcP1ZGRESUUdv1ywrKNN8I2ewt0gb4Lc_xGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDc2/OC0xMzExODYwMjYx/LmpwZWc.jpeg" alt="Cover for The Singles" style="max-width:120px; height:auto;" />
       </td>
@@ -1557,7 +1563,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/eXkMj-TClBrx-CZNrB_6psXqyzBA4FPKEHzbEKP5aJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU3/OTk1LTE1MDE4NDMx/ODctODE5Mi5qcGVn.jpeg" alt="Cover for Come Play The Trees" style="max-width:120px; height:auto;" />
       </td>
@@ -1578,7 +1584,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2018-04-06</td>
@@ -1619,7 +1625,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/5wK551X7dgCGcLhd4uxqjmZIrY2A2ONswYv02E7Kchc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE2/MDIxLTE1ODI1NDAw/ODItMjU1MC5qcGVn.jpeg" alt="Cover for Neu! &#39;75" style="max-width:120px; height:auto;" />
       </td>
@@ -1637,7 +1643,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td>2018-09-21</td>
@@ -1654,9 +1660,9 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/2PA2YbL2xjqaUoNaT7Pg2bjbS28wt1eJm2uPT8gcEmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTIy/MTA4LTE1NjgyNTAx/MDUtNjcwMC5qcGVn.jpeg" alt="Cover for Emperor Tomato Ketchup (Expanded Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f0c71d9b876c4d231114ca9d886657a.png" alt="Cover for Emperor Tomato Ketchup (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-13</td>
       <td>Stereolab</td>
@@ -1674,7 +1680,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/LPw8WY18kRoN7M5vWaj7f1I-JJsJtctJA0ptvVeGA6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjE3/NDkwLTE2NzgwNjA0/NDAtNzY0OC5qcGVn.jpeg" alt="Cover for Swing (In A Dream)" style="max-width:120px; height:auto;" />
       </td>
@@ -1701,9 +1707,9 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/H2HMpraQUcdlLRjuEz2xRpCxNEp7HISHUJdHLbLU8uY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODk2/Mjc0LTE2OTk4MjAw/MjctOTE5My5qcGVn.jpeg" alt="Cover for Sludge &#x2F; Broadcaster" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9358f80646120fe714c6e02bad65f042.png" alt="Cover for Sludge &#x2F; Broadcaster" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-26</td>
       <td>Squid</td>
@@ -1721,13 +1727,13 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 53</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 53</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/srOLL5NgpQqpzfPWsv70NoUn6-ozA69nukxCIZus9pU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk3/ODEzLTE1ODkzNjkx/ODYtNzIxMS5qcGVn.jpeg" alt="Cover for PAIN OLYMPICS" style="max-width:120px; height:auto;" />
       </td>
@@ -1743,13 +1749,13 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 46</li>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 47</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td>2021-03-11</td>
@@ -1761,13 +1767,12 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 21</li>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 94</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>2021-06-11</td>
@@ -1787,7 +1792,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/TDraHsNSxdMk-s-00WxNpmPQwUdms4DxBUUI3XT6QJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzA3/MDIxLTE2MzUwOTA2/NjMtNzA3Ni5qcGVn.jpeg" alt="Cover for Mandatory Enjoyment" style="max-width:120px; height:auto;" />
       </td>
@@ -1821,13 +1826,13 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 45</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 72</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 46</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/KaEmygi5rPowjlbDacVBjK09aGOKMHz0MvNNw8fET78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzEw/MjE1LTE2ODYxMTI1/MDUtNzA4NC5qcGVn.jpeg" alt="Cover for O Monolith" style="max-width:120px; height:auto;" />
       </td>
@@ -1843,12 +1848,12 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 26</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 76</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2023-08-18</td>
@@ -1891,13 +1896,13 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 19</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 63</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 68</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 65</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
