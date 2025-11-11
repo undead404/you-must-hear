@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T20:29:48.272Z
+date: 2025-11-11T04:06:15.257Z
 permalink: tags/avant-pop
 title: avant-pop
 ---
 
 ## avant-pop
 
-Last updated: <time datetime="2025-10-28T20:29:48.272Z">Tue Oct 28 2025 22:29:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T04:06:15.257Z">Tue Nov 11 2025 06:06:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 67</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -92,7 +92,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 42</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 43</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 84</li>
         </ul>
       </td>
@@ -205,27 +205,26 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 2</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 24</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 6</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14b93899d1096f519beed21f1bdaa1af.png" alt="Cover for Mars Audiac Quintet" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-08-09</td>
       <td>Stereolab</td>
       <td>Mars Audiac Quintet</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 16</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -268,7 +267,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/nPe3z_fAjTN9yldaqx-j1PuVw2BuMjAkv8sGlyCTXB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY3/MjAtMTUzMjk1NTQx/NC02MDQwLmpwZWc.jpeg" alt="Cover for 11" style="max-width:120px; height:auto;" />
       </td>
@@ -303,7 +302,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/5ZhNWJ4pucC2gc-ZXKWipUzJY1pdc2Mh5oyCp3qnHqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDYy/LTEyNTczNzE0NTAu/anBlZw.jpeg" alt="Cover for Fluorescences" style="max-width:120px; height:auto;" />
       </td>
@@ -335,18 +334,18 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 37</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 39</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 83</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 93</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 94</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 97</li>
-            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 99</li>
             <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 99</li>
+            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
       </td>
       <td>1997-06-09</td>
@@ -361,9 +360,10 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 45</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 58</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 2</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 46</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 62</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 62</li>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 88</li>
         </ul>
       </td>
@@ -371,6 +371,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b81a00734a2f70b34acde16c61fdfa71.png" alt="Cover for Dots and Loops" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-09-22</td>
       <td>Stereolab</td>
@@ -384,20 +385,21 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 20</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 21</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 22</li>
             <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 24</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 48</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 64</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 87</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 92</li>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 95</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4af23019206447dc8fc2be846e65b9b6.png" alt="Cover for Bachelorette" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-12-01</td>
       <td>Björk</td>
@@ -435,6 +437,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89fdefa3cf1d475185026a875528e83b.png" alt="Cover for Worldes Blysse" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-10-19</td>
       <td>Mediæval Bæbes</td>
@@ -453,9 +456,8 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>42</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed7d1dd540e284d41348910f1fd66393.png" alt="Cover for The Museum Of Imaginary Animals" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Pram</td>
@@ -467,14 +469,14 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 43</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/vI6WLjKNloYEET1SWDDYGcKvMz4HEq2VCSv-ngaRvYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQt/MTE0NTMzOTY0MS5q/cGVn.jpeg" alt="Cover for The Noise Made by People" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/356c68b6adc4c2c417269d5efdd82fd6.png" alt="Cover for The Noise Made by People" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-03-20</td>
       <td>Broadcast</td>
@@ -487,10 +489,11 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 1</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 56</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 72</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 73</li>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 74</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 75</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -532,7 +535,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b4bc95cbba25128d45fb8a635c75f06.png" alt="Cover for Buzzle Bee" style="max-width:120px; height:auto;" />
       </td>
@@ -593,6 +596,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4a2e86d709f47b980479fd0e15d961c.png" alt="Cover for Enchant" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-02-26</td>
       <td>Emilie Autumn</td>
@@ -607,7 +611,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 1</li>
             <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 8</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 23</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 42</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 47</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 55</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 56</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 68</li>
@@ -638,6 +642,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1d64213cfe0aadaa44e3742014d02e4.png" alt="Cover for Margerine Eclipse" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-01-27</td>
       <td>Stereolab</td>
@@ -672,13 +677,13 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 2</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 3</li>
             <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
       </td>
       <td>2005-04</td>
@@ -744,7 +749,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
       </td>
       <td>2005-09-14</td>
@@ -765,7 +770,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/HgnCCSceLq85FIVrHo-HTaPvurgXiIwi_I3S3XRowjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjA3/NS0xMTQ1MzM5MDQw/LmpwZWc.jpeg" alt="Cover for Tender Buttons" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e590e8f326426606396f68f2d31eaf02.png" alt="Cover for Tender Buttons" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-19</td>
       <td>Broadcast</td>
@@ -780,12 +785,12 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 37</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 43</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 45</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 52</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 44</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 47</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 53</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 54</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 63</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 64</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 88</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 89</li>
         </ul>
@@ -794,7 +799,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/MyV99r1CUeJig-eX5JvTPrzMV6OkckmzSc-LaE6MrRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTA4/Mi0xNTc2MjMwMjIx/LTEyNDkuanBlZw.jpeg" alt="Cover for Fab Four Suture" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58b862c3c8944699c601c3ee21951e73.png" alt="Cover for Fab Four Suture" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-06</td>
       <td>Stereolab</td>
@@ -826,7 +831,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 15</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 20</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 75</li>
         </ul>
       </td>
@@ -834,6 +839,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b96e4091f517178872331ee65b4bb8d3.png" alt="Cover for Can Cladders" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-19</td>
       <td>The High Llamas</td>
@@ -845,12 +851,12 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 26</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/iSmjVO0TXt7mSrwHPfuUtOxZUk8pN9GpqmYTjJ-XWWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUz/OTMtMTIxMTQ1ODY0/MS5qcGVn.jpeg" alt="Cover for Amnestia" style="max-width:120px; height:auto;" />
       </td>
@@ -873,7 +879,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/IEM2CcGxL3rX17258rho-_-d5O4DZT1RCEyAIe0CcNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjA3/OTYtMTM2NDUwMzM5/NC00NTI0LmpwZWc.jpeg" alt="Cover for The Moving Frontier" style="max-width:120px; height:auto;" />
       </td>
@@ -894,7 +900,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/IEM2CcGxL3rX17258rho-_-d5O4DZT1RCEyAIe0CcNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjA3/OTYtMTM2NDUwMzM5/NC00NTI0LmpwZWc.jpeg" alt="Cover for Moving Frontier" style="max-width:120px; height:auto;" />
       </td>
@@ -915,7 +921,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dee221fdd3f45f5812ee212ca20b644.png" alt="Cover for Orange Ohms Glow EP" style="max-width:120px; height:auto;" />
       </td>
@@ -985,7 +991,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 34</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 54</li>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 66</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 71</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 72</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 83</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 92</li>
         </ul>
@@ -1014,6 +1020,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbba63892abc474fbbe0c54ee55e3674.png" alt="Cover for Seirios" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-27</td>
       <td>ルルティア</td>
@@ -1025,7 +1032,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 23</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 28</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 33</li>
         </ul>
       </td>
@@ -1033,6 +1040,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79d3cd001b644ae6bcd5afcd1977a4ed.png" alt="Cover for The Bachelor" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-01</td>
       <td>Patrick Wolf</td>
@@ -1045,7 +1053,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 80</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 82</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 89</li>
             <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 97</li>
         </ul>
@@ -1054,7 +1062,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/vuf5dfPpRd-2l01aKO8LiR1gpQJgj7uWgJCQBbPMbuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDU5/NDUtMTUwNjE5NDIw/Mi04NzQyLnBuZw.jpeg" alt="Cover for Hard Times" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e41076253547b1441a5cfca1f03fe0ff.png" alt="Cover for Hard Times" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-07-05</td>
       <td>Patrick Wolf</td>
@@ -1205,7 +1213,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/Ygsq3AOaWGAcFUMywBYlw6r3KM0VYT-H8CGhOgLbas0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/MzQwLTE1MjgzMTY3/ODYtNzQ3NC5qcGVn.jpeg" alt="Cover for По колено в любви" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba27014721390ac1ffb918718e282084.png" alt="Cover for По колено в любви" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Кассиопея</td>
@@ -1243,7 +1251,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/66681bf6dd25fb5848b7ef663d5406fe.png" alt="Cover for Escape to the Cloud Forest" style="max-width:120px; height:auto;" />
       </td>
@@ -1258,7 +1266,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 34</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1297,7 +1305,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/zIoKDF8GJACpmNrT_gb007D06bBuHFhRcyQ1qWf8uds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTA4/OTQtMTMxOTgxMTA3/Ny5qcGVn.jpeg" alt="Cover for Horrorism" style="max-width:120px; height:auto;" />
       </td>
@@ -1318,8 +1326,9 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ab8bfbc3bc54de293001947214f9296.png" alt="Cover for Above your hand" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-23</td>
       <td>Annabel</td>
@@ -1355,7 +1364,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/fMLZa605b2Xk49OUgOYxR3P3TOKQ4jpM1TAnejLyxMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjUy/MDMtMTM0NTg5OTIy/MC0zOTUxLmpwZWc.jpeg" alt="Cover for Exploitation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c14690a95653b1bc784be50ddbe5979b.png" alt="Cover for Exploitation" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-31</td>
       <td>Róisín Murphy</td>
@@ -1398,7 +1407,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/ILsw_bqxCV4uohEgxqWChJjeQoeXujvGNAnL9qPgXmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTI4/ODMxLTE1Njg0NzA5/OTAtMTYzOC5qcGVn.jpeg" alt="Cover for Cobra &amp; Phases Play Voltage in the Milky Night [Import Bonus Tracks]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13990a1d238a6b8148a32ed02096f681.png" alt="Cover for Cobra &amp; Phases Play Voltage in the Milky Night [Import Bonus Tracks]" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-21</td>
       <td>Stereolab</td>
@@ -1426,6 +1435,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7501c6d7f1054dd3cdeb4a489527d481.png" alt="Cover for Panda Bear Meets the Grim Reaper" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-12</td>
       <td>Panda Bear</td>
@@ -1437,15 +1447,15 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 35</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 63</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 37</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/Cu6eQau-WVE65kfx14kgClWR_0_byCDz4xW4tt89B9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTE5/OTAtMTQ0Njg0MDcy/NS0xMjI4LmpwZWc.jpeg" alt="Cover for Art Angels" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6b3a85f39a656aaa61d30d1d2ec8d85.png" alt="Cover for Art Angels" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-11-06</td>
       <td>Grimes</td>
@@ -1463,14 +1473,14 @@ Avant-pop blends experimental and unconventional production techniques with acce
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 22</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 42</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 70</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 88</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/zw2Sr_Rr9-XNwqjT8lraGALDAm76OIHYgVn47YrbgKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDgw/MzYtMTQ2MjMxMjQ1/Ni05NDU3LmpwZWc.jpeg" alt="Cover for Good to Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8ea85a96f0d208750c58f4d4dcdbab0.png" alt="Cover for Good to Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-19</td>
       <td>FKA twigs</td>
@@ -1491,8 +1501,8 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 54</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 67</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 56</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 68</li>
             <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 83</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 96</li>
             <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 98</li>
@@ -1531,7 +1541,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/ecO_PQPx7iQNcRyzRGAIoc9Qq9fFFLmzUHCl5eSAKMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDA1/MTg2LTE2ODY5NzA5/ODUtNjk3Mi5qcGVn.jpeg" alt="Cover for AYESHA.FM" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a623a8522b352082f51711621409ebd6.png" alt="Cover for AYESHA.FM" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-08</td>
       <td>Ayesha Erotica</td>
@@ -1550,7 +1560,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 22</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 21</li>
             <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 75</li>
             <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 77</li>
             <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 86</li>
@@ -1560,7 +1570,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/w9LS4wsohNltBYZr19cMVHvgT9s3JLoMiNZqEmrONYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE5/NzEyLTE1MTAyMTQ1/MjAtMzA0Ni5qcGVn.jpeg" alt="Cover for EROTICA" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b870fb9db777e8ca96be345d4fd51698.png" alt="Cover for EROTICA" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-03</td>
       <td>Ayesha Erotica</td>
@@ -1619,7 +1629,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/icrvZlMBE84KK_oF3e6JscWx069rBgGL9DUwTMnWEh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg2/NjUwLTE1ODI4MjQ5/NzMtNDc2My5qcGVn.jpeg" alt="Cover for i luv it" style="max-width:120px; height:auto;" />
       </td>
@@ -1664,7 +1674,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/8VCjenTZq20cQl2xpFpXTMx5RgYU0tVUcR9egrINX4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTAz/MTU1LTE1NTcxMzEx/MTEtMjQzMS5qcGVn.jpeg" alt="Cover for Antwerpen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0da333b52875b1c1a5db09aeabd68c00.png" alt="Cover for Antwerpen" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-13</td>
       <td>Surma</td>
@@ -1680,7 +1690,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 64</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 63</li>
             <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 72</li>
         </ul>
       </td>
@@ -1758,7 +1768,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/nN0oqzvmpI1dGKQyfGe6HUiHwzwRMd52_Lkulj2QgOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTU2/NTQzLTE1NDUyOTY1/MzAtMzA3Mi5qcGVn.jpeg" alt="Cover for Pseudopop" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11a5a541e0329d1ba010549d4ce02f2a.png" alt="Cover for Pseudopop" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-20</td>
       <td>Black Nail Cabaret</td>
@@ -1783,7 +1793,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 2</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 20</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 25</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 63</li>
         </ul>
       </td>
@@ -1791,7 +1801,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/KFN4zI3ok5xhIa019OhNo9bvrx2zQTNiDepuw1FqoSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NDAzLTE1NjgxODc3/MzEtNDk2Ni5qcGVn.jpeg" alt="Cover for Adult Baby" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/863723bf054e74f408239f28aee1103c.png" alt="Cover for Adult Baby" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Kazu</td>
@@ -1815,7 +1825,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/PLPyGkVBrC8q7AVOxDnPS9eCwL3FsbgeQ7gq3jPbY3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE0/MDcxLTE1NTY4MTU1/MzItNDg0My5qcGVn.jpeg" alt="Cover for when we all fall asleep, where do we go?" style="max-width:120px; height:auto;" />
       </td>
@@ -1830,8 +1840,8 @@ Avant-pop blends experimental and unconventional production techniques with acce
         <ul>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 32</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 45</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 74</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 76</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 75</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 77</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 94</li>
         </ul>
       </td>
@@ -1853,10 +1863,10 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 24</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 42</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 26</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 43</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 68</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 76</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 75</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 79</li>
         </ul>
       </td>
@@ -1882,7 +1892,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 22</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 24</li>
             <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 31</li>
         </ul>
       </td>
@@ -1890,7 +1900,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/nrXaB2Cqg5ZivW9qswkjK4XrFzTCrZAJnPK9v_4lFgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/Mzg3LTE2Njk3Njcz/MTEtMTQzMy5qcGVn.jpeg" alt="Cover for Paseo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbeed918edff11a7d241363fb47bd67b.png" alt="Cover for Paseo" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-02-21</td>
       <td>Parque de Cometas</td>
@@ -1929,9 +1939,9 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/7d_fm2PTD73ByBeE_Iy3vgftuI4xtFbmDnAJtkVZ6Vc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY2/NTczLTE1ODg5MjU2/NDctNTAxMS5qcGVn.jpeg" alt="Cover for Gods Verging On Sanity" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e24ef52dc22dd98e94a86cc48f03f0e6.png" alt="Cover for Gods Verging On Sanity" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-08</td>
       <td>Black Nail Cabaret</td>
@@ -1956,8 +1966,8 @@ Avant-pop blends experimental and unconventional production techniques with acce
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 44</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 53</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 55</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 57</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 81</li>
         </ul>
       </td>
@@ -1983,7 +1993,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/270mgvCKlRdIgnRnkpWC2-peiMk7q7gw7-sa0lSjP_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTU0/NDgwLTE3MjAzMTQ2/OTUtMzc2NC5qcGVn.jpeg" alt="Cover for Unbleached" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3168f7261fcbbc8da959b8bd14d0641.png" alt="Cover for Unbleached" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11-26</td>
       <td>TR&#x2F;ST</td>
@@ -2005,7 +2015,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/270mgvCKlRdIgnRnkpWC2-peiMk7q7gw7-sa0lSjP_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTU0/NDgwLTE3MjAzMTQ2/OTUtMzc2NC5qcGVn.jpeg" alt="Cover for Gone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f462df716e687864af12df454a4d1f68.png" alt="Cover for Gone" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11-26</td>
       <td>TR&#x2F;ST</td>
@@ -2047,7 +2057,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/jrAm_3y4E9JOTmYvps17RRD9kESgvcGdAcWk8K2gFo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTEz/MDQyLTE2MjIxNzg5/MTctNzk1OS5qcGVn.jpeg" alt="Cover for Midnight Train" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f79a5949c65444138ece452ee00268ee.png" alt="Cover for Midnight Train" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-28</td>
       <td>Jorja Chalmers</td>
@@ -2076,7 +2086,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/T3y8nk1kXhA_mtqjGDhiqnXQgWv5rV5dQAZzgWFyrds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTI5/NTY5LTE2MjIyNzk5/OTQtNDEyNi5qcGVn.jpeg" alt="Cover for Penelope Three" style="max-width:120px; height:auto;" />
       </td>
@@ -2106,7 +2116,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/7PX0LFi15pNspBvqpsIJwUlZucDjWnBYkItpfQmUNnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTAz/MjkwLTE2MjM0Mjg1/OTgtNDQ0My5qcGVn.jpeg" alt="Cover for Ghettolimpo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a250e55478b4619d3fd9fd7162bd9b8.png" alt="Cover for Ghettolimpo" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-11</td>
       <td>Mahmood</td>
@@ -2123,30 +2133,21 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/6k0gfNUiw50u78qPxd_mTC_bzswJmp8XfMWxIVBMt8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTI3/MjgwLTE2MjY1MzUy/ODktMjA4My5qcGVn.jpeg" alt="Cover for Dream Again" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5e2a1a07428736ef99bcac3be05c436.png" alt="Cover for Bunny Is a Rider" style="max-width:120px; height:auto;" />
       </td>
-      <td>2021-07-16</td>
-      <td>Joon</td>
-      <td>Dream Again</td>
+      <td>2021-07-14</td>
+      <td>Caroline Polachek</td>
+      <td>Bunny Is a Rider</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 17</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 52</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -2185,7 +2186,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 1</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 2</li>
             <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 72</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 99</li>
         </ul>
@@ -2216,9 +2217,9 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 3</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 26</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 38</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 8</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 25</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 40</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 67</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 91</li>
         </ul>
@@ -2227,7 +2228,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/cXp0LIiBHrzEGMqLXt8VQd6yR2SmB-SOkn94JKfjjEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzEz/NjcxLTE2Njk2NzY1/MDgtNTMyNS5qcGVn.jpeg" alt="Cover for Flaming Swords" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70b1b00b90ef149def0ec63ba3d516a8.png" alt="Cover for Flaming Swords" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11-25</td>
       <td>Fievel Is Glauque</td>
@@ -2252,7 +2253,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/NFnp_APUIOzvojKfLpzAiD3xQewszerw017rLGRbsqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDU4/NjI4LTE2NzYwNjM4/NDAtMjA2OS5qcGVn.jpeg" alt="Cover for Limerence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ab79f5d4d6936936984de39a882f99b.png" alt="Cover for Limerence" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-02-10</td>
       <td>Jessica Winter</td>
@@ -2274,7 +2275,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 22</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 23</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 50</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 80</li>
         </ul>
@@ -2283,7 +2284,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/FJi88vAms7BFCPtz_NBudJCrIkiIwRagt1Oh0ca5lP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDky/NzUzLTE2NzYzMjU3/OTgtNjI2MC5qcGVn.jpeg" alt="Cover for Desire, I Want to Turn Into You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8efbfdc3ffd98d732a93e75aa5a53852.png" alt="Cover for Desire, I Want to Turn Into You" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-02-14</td>
       <td>Caroline Polachek</td>
@@ -2294,8 +2295,8 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 15</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 42</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 16</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 43</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 80</li>
         </ul>
       </td>
@@ -2325,7 +2326,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       <td>
         <ul>
             <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 12</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 29</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 31</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 60</li>
             <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 83</li>
         </ul>
@@ -2355,7 +2356,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/0jfLmBQIkuFoDz9UMRF_PLsl_DhE2u01v1A3cPdEBHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjk1/MzIzLTE3MTU4ODA5/MzQtNjk4My5qcGVn.jpeg" alt="Cover for Lady On The Cusp" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9949bffe077a1e12ea5255583b320465.png" alt="Cover for Lady On The Cusp" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-17</td>
       <td>of Montreal</td>
@@ -2380,7 +2381,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/Vgn4lPZZ96PaiVXX-chVaMcQyk9poOg0ZTd7nDURzyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzUw/Mzg0LTE3MTYzODYw/NzMtODkyMC5qcGVn.jpeg" alt="Cover for nothing or something to die for" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb9fc857cdbb904a8cb05bc299be9784.png" alt="Cover for nothing or something to die for" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-24</td>
       <td>mui zyu</td>
@@ -2403,15 +2404,15 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 7</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 37</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 8</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/QwlRow-zDz1Rolo84Z7c0VCZNaBL6VsPEpa8DDWdDxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTMy/ODUzLTE3MjE1NjIx/MTItNzk4MS5qcGVn.jpeg" alt="Cover for Gemelo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/59a138a5421edd3185f8da7f0cb23e10.png" alt="Cover for Gemelo" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-06-07</td>
       <td>Angélica Garcia</td>
@@ -2432,7 +2433,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 38</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 39</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 62</li>
         </ul>
       </td>
@@ -2440,7 +2441,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/1C0rr7MHKhoPOeRm27DfWSamLEmHGMo8DMAMYllWr8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTE1/MjU0LTE3MjU1ODQx/OTQtMzk1OC5qcGVn.jpeg" alt="Cover for Triple Fire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b84dea55c3d518fcfd9cd0abedf9b6b2.png" alt="Cover for Triple Fire" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-08-23</td>
       <td>Geneva Jacuzzi</td>
@@ -2462,14 +2463,14 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 60</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/57lRYrNri5OpEjkpmQy5_pIA_Sjopo0O5MipoW5lEmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjcw/NDI5LTE3MjU2NTE5/MzAtMTA0NS5qcGVn.jpeg" alt="Cover for Twenty Pills Without Water" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4e2bca166d7ae78828da5c767b1d441.png" alt="Cover for Twenty Pills Without Water" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-08-30</td>
       <td>Bent Knee</td>
