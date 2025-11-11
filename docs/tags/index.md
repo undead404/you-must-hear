@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-10T18:18:42.363Z
+date: 2025-11-10T18:20:26.179Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-10T18:18:42.363Z">Mon Nov 10 2025 20:18:42 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-10T18:20:26.179Z">Mon Nov 10 2025 20:20:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [eurodance]({{ "tags/eurodance" | relative_url }}) | <time datetime="2025-11-10T18:20:26.179Z">Mon Nov 10 2025 20:20:26 GMT+0200 (Eastern European Standard Time)</time> |
 | [bass house]({{ "tags/bass-house" | relative_url }}) | <time datetime="2025-11-10T18:18:42.363Z">Mon Nov 10 2025 20:18:42 GMT+0200 (Eastern European Standard Time)</time> |
 | [nu jazz]({{ "tags/nu-jazz" | relative_url }}) | <time datetime="2025-11-10T18:18:28.960Z">Mon Nov 10 2025 20:18:28 GMT+0200 (Eastern European Standard Time)</time> |
 | [liverpool]({{ "tags/liverpool" | relative_url }}) | <time datetime="2025-11-10T18:16:24.413Z">Mon Nov 10 2025 20:16:24 GMT+0200 (Eastern European Standard Time)</time> |
@@ -256,7 +257,6 @@ Last updated: <time datetime="2025-11-10T18:18:42.363Z">Mon Nov 10 2025 20:18:42
 | [psydub]({{ "tags/psydub" | relative_url }}) | <time datetime="2025-11-06T22:42:59.571Z">Fri Nov 07 2025 00:42:59 GMT+0200 (Eastern European Standard Time)</time> |
 | [reggae]({{ "tags/reggae" | relative_url }}) | <time datetime="2025-11-06T19:11:42.970Z">Thu Nov 06 2025 21:11:42 GMT+0200 (Eastern European Standard Time)</time> |
 | [experimental rock]({{ "tags/experimental-rock" | relative_url }}) | <time datetime="2025-11-06T18:55:07.264Z">Thu Nov 06 2025 20:55:07 GMT+0200 (Eastern European Standard Time)</time> |
-| [eurodance]({{ "tags/eurodance" | relative_url }}) | <time datetime="2025-11-06T15:04:21.522Z">Thu Nov 06 2025 17:04:21 GMT+0200 (Eastern European Standard Time)</time> |
 | [waltz]({{ "tags/waltz" | relative_url }}) | <time datetime="2025-11-06T07:12:52.620Z">Thu Nov 06 2025 09:12:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [metal]({{ "tags/metal" | relative_url }}) | <time datetime="2025-11-06T04:59:52.324Z">Thu Nov 06 2025 06:59:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [hard bop]({{ "tags/hard-bop" | relative_url }}) | <time datetime="2025-11-06T01:56:51.602Z">Thu Nov 06 2025 03:56:51 GMT+0200 (Eastern European Standard Time)</time> |
