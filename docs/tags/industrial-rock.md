@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-05T20:59:51.212Z
+date: 2025-11-11T07:38:40.966Z
 permalink: tags/industrial-rock
 title: industrial rock
 ---
 
 ## industrial rock
 
-Last updated: <time datetime="2025-11-05T20:59:51.212Z">Wed Nov 05 2025 22:59:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T07:38:40.966Z">Tue Nov 11 2025 09:38:40 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,32 +29,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
   </thead>
   <tbody>
     <tr>
-      <td>30</td>
-      <td>
-          <img src="https://i.discogs.com/IYMC8lowAf6H3kjV88lurG3BznaXrowIaake61Aqh4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk5/MjEtMTMzNDIzNTk0/OS5qcGVn.jpeg" alt="Cover for Construction Time Again (Deluxe)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1983</td>
-      <td>Depeche Mode</td>
-      <td>Construction Time Again (Deluxe)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 95</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/NauvYpR4vAlzqjswEUVaOtMgEND5LCg7i_jXhYcu1Sc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTQ0/LTEyMTI3MTE4NTYu/anBlZw.jpeg" alt="Cover for Pretty Hate Machine: 2010 Remaster" style="max-width:120px; height:auto;" />
       </td>
@@ -73,7 +48,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/vhrRkO6FCeQQgzNJ8GOGuy65xgcvIhZ55PdWbwri0WY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzk0/NS0xMTQ2MTM3OTE1/LmpwZWc.jpeg" alt="Cover for Down in It" style="max-width:120px; height:auto;" />
       </td>
@@ -113,7 +88,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
     <tr>
       <td>56</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/373a03b11cb3b3d3cd5b8d6100d3be04.png" alt="Cover for Sin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44bc6c50cc8b3697c46e302f298fcd66.png" alt="Cover for Sin" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-10-10</td>
       <td>Nine Inch Nails</td>
@@ -129,7 +104,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
       </td>
       <td>1991-11-07</td>
@@ -165,12 +140,12 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 10</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 40</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91499e90059151345682dc0190567082.png" alt="Cover for Money" style="max-width:120px; height:auto;" />
       </td>
@@ -211,7 +186,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
       </td>
       <td>1993-02-19</td>
@@ -229,7 +204,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3582e43943d4725c82968e5bfe835a1.png" alt="Cover for The Downward Spiral (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -249,7 +224,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75676fda8918a6d91a07eced3470909a.png" alt="Cover for Ungod" style="max-width:120px; height:auto;" />
       </td>
@@ -288,7 +263,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
       </td>
       <td>1994-09-19</td>
@@ -305,9 +280,9 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/JAx2QUfQ3xK09Q9MqYcg4nwagcZ2zlBy88Pfp8PmoDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTk2/LTE0NjIxNDI5Njct/MTQ1Mi5qcGVn.jpeg" alt="Cover for Nihil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70e1e7a5097548a68a02d105d83b6ddd.png" alt="Cover for Nihil" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-04-03</td>
       <td>KMFDM</td>
@@ -325,7 +300,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51c79ee82b25ba69177c712e570e3116.png" alt="Cover for Short Bus" style="max-width:120px; height:auto;" />
       </td>
@@ -344,7 +319,26 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/vKY1uDd4inPhA9H4Q54XUPWpvKoDK2AXcLQqTyAsU9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjgt/MTQ4NDYyMzcxOC02/MzIwLmpwZWc.jpeg" alt="Cover for Further Down the Spiral" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-05-23</td>
+      <td>Nine Inch Nails</td>
+      <td>Further Down the Spiral</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/815dd8b58b956c43fc66223d9aef0e85.png" alt="Cover for Smells Like Children" style="max-width:120px; height:auto;" />
       </td>
@@ -364,7 +358,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td>1996</td>
@@ -382,7 +376,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ef0d18c1707f27b1f2bf3b0255cafe9.png" alt="Cover for Wither Blister Burn + Peel" style="max-width:120px; height:auto;" />
       </td>
@@ -401,7 +395,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5524293c4e94bf8b90311578e329187.png" alt="Cover for Wither Blister Burn &amp; Peel" style="max-width:120px; height:auto;" />
       </td>
@@ -419,7 +413,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/577b935e2729cc800e4a3f668b1824de.png" alt="Cover for Gravity Kills" style="max-width:120px; height:auto;" />
       </td>
@@ -438,7 +432,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/HYUl0wL_C2zQX56GhPd-PsX-9rEj2kj9Nep82H2BGuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjIy/MS0xMTc1ODkwODE4/LmpwZWc.jpeg" alt="Cover for Easy Side Militia" style="max-width:120px; height:auto;" />
       </td>
@@ -457,7 +451,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7e827183d0d4d9294dee921fcd0d185.png" alt="Cover for East Side Militia" style="max-width:120px; height:auto;" />
       </td>
@@ -476,7 +470,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>1997-08-12</td>
@@ -490,12 +484,12 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 6</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88861e1c811e4a5aca0a7e17cf2cab9c.png" alt="Cover for www.pitchshifter.com" style="max-width:120px; height:auto;" />
       </td>
@@ -534,7 +528,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c7cca2780cd4a328e806d56673bcae6.png" alt="Cover for Hey You, I Love Your Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -552,7 +546,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
       </td>
       <td>1998-08-17</td>
@@ -587,7 +581,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 36</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 37</li>
             <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 85</li>
             <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 89</li>
             <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 95</li>
@@ -595,7 +589,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8eaa9146fbad4b62bd5a489fc0651ec0.png" alt="Cover for The Fragile" style="max-width:120px; height:auto;" />
       </td>
@@ -632,9 +626,9 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/8tslGXm35FWTEZTp4YaO1v0oipQN08H_EJtCzu9swDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDUy/My0xMTU4MjY5NDA2/LmpwZWc.jpeg" alt="Cover for Vapor Transmission" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2550d83c18fb1cda2cc9e3f37334e78c.png" alt="Cover for Vapor Transmission" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-10-10</td>
       <td>Orgy</td>
@@ -653,7 +647,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/trT6ccwuvi3caVlkDvVvl447I8boHGOTrzfBmIgCGSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTgw/LTE2MDExMzUxNjQt/MzA4Ni5qcGVn.jpeg" alt="Cover for Things Falling Apart" style="max-width:120px; height:auto;" />
       </td>
@@ -673,7 +667,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed35e1407367ba7b2ea3fa2be161f6b2.png" alt="Cover for Alien Youth" style="max-width:120px; height:auto;" />
       </td>
@@ -693,7 +687,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc590d1bb0fd4dbd92dd273eda8d5437.png" alt="Cover for Gift" style="max-width:120px; height:auto;" />
       </td>
@@ -711,7 +705,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/B7rDVMcia6uGD31h83-g9-DtHUJKHs5K9mse264XJWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTAz/OS0xNDQ3MzgxMDQ1/LTcxMTUuanBlZw.jpeg" alt="Cover for Deep" style="max-width:120px; height:auto;" />
       </td>
@@ -729,7 +723,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/87d03e2d74c14e33ce07507826499f41.png" alt="Cover for Deadstar Assembly" style="max-width:120px; height:auto;" />
       </td>
@@ -747,7 +741,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3b52d11b2d46be3f107ce38dd0666dc.png" alt="Cover for Heaven Upside Down" style="max-width:120px; height:auto;" />
       </td>
@@ -765,7 +759,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd18a14c92a1460e891366abad5b0c32.png" alt="Cover for The Amalgamut" style="max-width:120px; height:auto;" />
       </td>
@@ -784,28 +778,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-      </td>
-      <td>2003-01-28</td>
-      <td>Celldweller</td>
-      <td>Celldweller</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 53</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 57</li>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 83</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b5bf77a7c0a455fa7c66f9a9ea39474.png" alt="Cover for Zzyzx" style="max-width:120px; height:auto;" />
       </td>
@@ -824,8 +797,9 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bbcb5eb2dd244fab080d692910572c6.png" alt="Cover for WWIII" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-22</td>
       <td>KMFDM</td>
@@ -844,7 +818,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/cx82pbGPttFdf_FWbD-b5p04bYcTP6krQXVi9So-SxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/NC0xMTc0NDExOTY2/LmpwZWc.jpeg" alt="Cover for Eurotrash" style="max-width:120px; height:auto;" />
       </td>
@@ -866,7 +840,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
       </td>
       <td>2004-09-20</td>
@@ -884,7 +858,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01015d52b24558bd8e23d2e40d7e0340.png" alt="Cover for The Hand That Feeds" style="max-width:120px; height:auto;" />
       </td>
@@ -902,7 +876,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/Evznj-2k9OAKAkRCGhP3jzrHyF0iLBoTZxOqFTgNLiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTA3/MS0xNjMxNDgyNzY1/LTk5NjAuanBlZw.jpeg" alt="Cover for You&#39;ll Rebel to Anything (Expanded and Remastered 2008)" style="max-width:120px; height:auto;" />
       </td>
@@ -926,7 +900,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
     <tr>
       <td>99</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4241803c93d47478518a5b33e71f0ab.png" alt="Cover for With Teeth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1783c7dc5adb8cb701123d851f86d39.png" alt="Cover for With Teeth" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-04-27</td>
       <td>Nine Inch Nails</td>
@@ -944,7 +918,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d07323ba795e9c715d2ff1a62aa7c6a8.png" alt="Cover for Hau Ruck" style="max-width:120px; height:auto;" />
       </td>
@@ -964,9 +938,9 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/ioRONNFtUD5HGRXmksm4_Ag5cqdgxr2LwEApoelzNHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQz/MDI2LTE1NTA1OTU2/MDItOTg3My5qcGVn.jpeg" alt="Cover for My Disintegration" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ced4cf3f289213b5f15339263bde792f.png" alt="Cover for My Disintegration" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-14</td>
       <td>Celldweller</td>
@@ -987,7 +961,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f212534c7f0548e4a38d12eac7aaa573.png" alt="Cover for Every Day Is Exactly the Same" style="max-width:120px; height:auto;" />
       </td>
@@ -1002,7 +976,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 42</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1027,7 +1001,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/2yTNb9kD9SWwIGeLiaIDA2e_84B0hjX-eLMB7ZkAzS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMDAy/NC0xMTcyODkwODI2/LmpwZWc.jpeg" alt="Cover for Survivalism" style="max-width:120px; height:auto;" />
       </td>
@@ -1045,7 +1019,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/ywaYOMuAlbXpEWzZTdgolaRWysI9NgqGkreo1ASEt2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1ODIx/MC0xMTc3NTA3MjQx/LmpwZWc.jpeg" alt="Cover for Holy Beauty" style="max-width:120px; height:auto;" />
       </td>
@@ -1065,7 +1039,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f90e4bda05f14bd28978b5fffba59afa.png" alt="Cover for Year Zero" style="max-width:120px; height:auto;" />
       </td>
@@ -1074,9 +1048,6 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       <td>Year Zero</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
-            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
@@ -1086,7 +1057,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44dbfd575f364ce7ba44124c37fef07f.png" alt="Cover for Eat Me, Drink Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1103,7 +1074,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a08955379af45d882db22eda5f89dca.png" alt="Cover for Cruel Melody" style="max-width:120px; height:auto;" />
       </td>
@@ -1121,7 +1092,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2007-08-21</td>
@@ -1139,28 +1110,26 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d7e6c6ba0c345c1adac6c90eb50893a.png" alt="Cover for Walking With Strangers" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-10</td>
       <td>The Birthday Massacre</td>
       <td>Walking With Strangers</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 26</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 27</li>
             <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/npupj0pEJmKq5mB-wZIGMOij7SxQDKfh8fgDe0o9Wa8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUx/MzgtMTY5Njk5OTc1/NS0zMzUyLmpwZWc.jpeg" alt="Cover for The Download EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1197,7 +1166,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d374d178c2f459cabfa4e74532259d3.png" alt="Cover for Looking Glass" style="max-width:120px; height:auto;" />
       </td>
@@ -1215,7 +1184,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86bf0aab05704d2e880dc37384485c32.png" alt="Cover for The Slip" style="max-width:120px; height:auto;" />
       </td>
@@ -1224,8 +1193,6 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       <td>The Slip</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
         </ul>
       </td>
       <td>
@@ -1235,7 +1202,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a1cc6a2af214796827f917b930408f5.png" alt="Cover for Innerpartysystem" style="max-width:120px; height:auto;" />
       </td>
@@ -1254,7 +1221,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0d8c6a8ce804fe8873553d3c6ecca2b.png" alt="Cover for Sinners International" style="max-width:120px; height:auto;" />
       </td>
@@ -1272,8 +1239,9 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/935a1e42fb70459bbfb72dfa79866aaa.png" alt="Cover for Death To Analog" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-10</td>
       <td>Julien-K</td>
@@ -1289,8 +1257,9 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbad514e36f34397acc323896faa251a.png" alt="Cover for Blitz" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-23</td>
       <td>KMFDM</td>
@@ -1306,7 +1275,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>89</td>
       <td>
       </td>
       <td>2009-05-19</td>
@@ -1324,9 +1293,9 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/oCPDNuzu37FdoOOdkgwG2ugxoceR_LsJ-Yyaf5k0V7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTk2/ODgtMTI0NDEyOTIz/My5qcGVn.jpeg" alt="Cover for 21st Century Slave" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88b9e279fa1b413d91a262c2874a3827.png" alt="Cover for 21st Century Slave" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-07-10</td>
       <td>Dope Stars Inc.</td>
@@ -1345,7 +1314,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
       </td>
       <td>2010-09-27</td>
@@ -1364,7 +1333,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/onv5OHRYoP6iSggmK9qJfIy80SxSgPDbFK_ZajFmMiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDk2/MjAtMTMwMzg1Nzcz/NS5qcGVn.jpeg" alt="Cover for WTF?!" style="max-width:120px; height:auto;" />
       </td>
@@ -1382,7 +1351,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/fFdHnFVy9a661cPpf2QFCobfXkkZMLOsAAIzuIN04LA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDM4/NTUtMTMwMzYyNDUx/Ny5qcGVn.jpeg" alt="Cover for Tighter" style="max-width:120px; height:auto;" />
       </td>
@@ -1404,7 +1373,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1e3b74eba6544c49c5a6215e5008241.png" alt="Cover for Born Villain" style="max-width:120px; height:auto;" />
       </td>
@@ -1437,12 +1406,12 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 14</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfe32f726a80487c98808d8698cb280c.png" alt="Cover for Symbols" style="max-width:120px; height:auto;" />
       </td>
@@ -1462,7 +1431,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59ffa2b827bc4127d14a11eaab5cee53.png" alt="Cover for Kunst" style="max-width:120px; height:auto;" />
       </td>
@@ -1480,8 +1449,9 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c70d8ce2c4945bd87dd5b230debd2c8.png" alt="Cover for Came Back Haunted" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-06</td>
       <td>Nine Inch Nails</td>
@@ -1497,7 +1467,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d747d92154d4255a0ae6d37d542caa0.png" alt="Cover for Hesitation Marks" style="max-width:120px; height:auto;" />
       </td>
@@ -1517,7 +1487,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
       </td>
       <td>2014-05-27</td>
@@ -1534,8 +1504,9 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5cd3833a3344f0acfd7078c3d20fbc3.png" alt="Cover for Superstition" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-11</td>
       <td>The Birthday Massacre</td>
@@ -1553,7 +1524,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a026809ab13b0d9d6ccfea7867e8a087.png" alt="Cover for Money Shot" style="max-width:120px; height:auto;" />
       </td>
@@ -1573,7 +1544,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/DgKEYTEP9owntBV-nGNNK8ataF5T4Ul9yCTWcg37ngo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NzA5/NDgtMTQ4NjA4NjAx/NS04NzQ4LmpwZWc.jpeg" alt="Cover for Drabbad av sjukdom" style="max-width:120px; height:auto;" />
       </td>
@@ -1591,8 +1562,8 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 13</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 81</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 16</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 82</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 94</li>
         </ul>
       </td>
@@ -1600,7 +1571,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/0yV7UWyVz2wxcX1o7rFT7h4iSNs8__pjyPpG4FOFz20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTc5/MzA3LTE1OTM5NTcy/OTktOTUxNi5qcGVn.jpeg" alt="Cover for Chapter I" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7292cee7344cdeacde28c0518541d0b.png" alt="Cover for Chapter I" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>SKYND</td>
@@ -1621,15 +1592,15 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       <td>
         <ul>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 61</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 63</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 83</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 89</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 65</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 84</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 90</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/H03McT-HbfoxgQsogczGHViCYgWRaxw6JT0pBDn86XY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTAw/MzE4LTE1MTc2MTkw/NTctOTc1MS5qcGVn.jpeg" alt="Cover for Criminal" style="max-width:120px; height:auto;" />
       </td>
@@ -1649,9 +1620,9 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>85</td>
       <td>
-          <img src="https://i.discogs.com/Cx-neLJFmAJU-5UXRZU63ygS4hjdfKtPzjWQFM_NCO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/NjY3LTE1NTI2Njk3/MzEtMzU1OC5qcGVn.jpeg" alt="Cover for Bad Witch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad8648dc423724a688bd91568dfaa297.png" alt="Cover for Bad Witch" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-22</td>
       <td>Nine Inch Nails</td>
@@ -1664,13 +1635,13 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 43</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 44</li>
             <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15e2aa6fbb9db93a7236039ae64ee1a3.png" alt="Cover for You Won&#39;t Get What You Want" style="max-width:120px; height:auto;" />
       </td>
@@ -1691,9 +1662,9 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/VM98MjHWqhclQMKzDfGpIM0Lvlx1YQsuVmJ80Ns7WIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDY3/OTU3LTE1ODYyNjIw/MDUtMzI4Mi5qcGVn.jpeg" alt="Cover for Chapter II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/171ce22f1c920551b973f83e1c33fe8c.png" alt="Cover for Chapter II" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>SKYND</td>
@@ -1715,15 +1686,15 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
         <ul>
             <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 33</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 69</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 78</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 88</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 79</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 89</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 95</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/jSOJqQOblF2pOZgMlbUH6sEfskoFSxrUXc8GlcSx2JU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjI2/MzctMTM3Nzg1MjQx/Ni00ODU2LmpwZWc.jpeg" alt="Cover for Hesitation Marks (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1741,7 +1712,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/918c9f0c331c27d9de86236ef06418ae.png" alt="Cover for MANTRA" style="max-width:120px; height:auto;" />
       </td>
@@ -1758,7 +1729,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 67</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 69</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 70</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 94</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 100</li>
@@ -1766,7 +1737,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a892d4b2d7d0acfe36e272192131ada.png" alt="Cover for Peaceful as Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -1788,7 +1759,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/710902fb507e315f8fb6cce70357cde7.png" alt="Cover for All The Things She Said" style="max-width:120px; height:auto;" />
       </td>
@@ -1807,7 +1778,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/m_1jTuZmqZEPQB2ys3TSEBseZK0BKPlXwfSjzdH9pdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTU0/NDE3LTE2NzUyNDMw/OTAtMzg2Ny5qcGVn.jpeg" alt="Cover for God Is a Circle" style="max-width:120px; height:auto;" />
       </td>
@@ -1826,7 +1797,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 23</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 22</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 78</li>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 85</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 89</li>
@@ -1834,7 +1805,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53679e99b63d1d643e12b7d50fa7a488.png" alt="Cover for PERMANENT.RADIANT" style="max-width:120px; height:auto;" />
       </td>
@@ -1851,7 +1822,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 81</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1876,14 +1847,14 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 38</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 63</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 88</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 41</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 64</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/nJl66q6BwhvSph4jyIIBHSkIsVF9VyHkpvEPJAxNZMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzU0/NjIwLTE2ODE0NTY2/ODAtODI4My5qcGVn.jpeg" alt="Cover for Intellectual Property" style="max-width:120px; height:auto;" />
       </td>
@@ -1905,7 +1876,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/GEqvSIY4AWcJJPO5LyANKqmReb6a8aE3C6gKVrRqKYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTEw/NDk4LTE2OTY1NzY0/NTctMzU0MC5qcGVn.jpeg" alt="Cover for Fanfare" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4326a04b0ae5279db31a9eed37d17c74.png" alt="Cover for Fanfare" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-10-06</td>
       <td>Dorian Electra</td>
@@ -1918,12 +1889,12 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 26</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/GaECk-Odh7W54CdssTlnxY8onVLiciGigb8JCK3uM9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjAx/MjgtMTY3OTc4NTcw/OS03MDY0LmpwZWc.jpeg" alt="Cover for RAT WARS" style="max-width:120px; height:auto;" />
       </td>
@@ -1940,12 +1911,12 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 9</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 90</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/AX_YfSM1GlP-3LzqMe0mW-unYSBu3RuWxn8CTUwY3AY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzI4/NDI2LTE3MDc5MjY1/NjItNDkxMC5qcGVn.jpeg" alt="Cover for She Reaches Out To She Reaches Out To She" style="max-width:120px; height:auto;" />
       </td>
@@ -1961,14 +1932,14 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 58</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 61</li>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 69</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 90</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c2418d5de59db9990fdbb7962c7dd4b.png" alt="Cover for All Born Screaming" style="max-width:120px; height:auto;" />
       </td>
@@ -1982,12 +1953,32 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 26</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbe4b1469b50ae4f91ecaa42f72b619b.png" alt="Cover for RAT WARS" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>HEALTH</td>
+      <td>RAT WARS</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 20</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/000babf5bc230ade0735c9184e93ea27.png" alt="Cover for Goodnight, God Bless, I Love U, Delete." style="max-width:120px; height:auto;" />
       </td>
@@ -2001,15 +1992,15 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 8</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 75</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 76</li>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 78</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 79</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 81</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>74</td>
       <td>
       </td>
       <td></td>

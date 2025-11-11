@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-04T05:11:00.818Z
+date: 2025-11-11T08:16:07.450Z
 permalink: tags/dreamwave
 title: dreamwave
 ---
 
 ## dreamwave
 
-Last updated: <time datetime="2025-11-04T05:11:00.818Z">Tue Nov 04 2025 07:11:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T08:16:07.450Z">Tue Nov 11 2025 10:16:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -67,13 +67,13 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 12</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 15</li>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/9U7rnWbbzbSI8AkRxKuIAPTnUVetQfH5YjhghgXPgiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDQ0/MjMtMTM5ODc5Njc5/Mi05OTQwLmpwZWc.jpeg" alt="Cover for Zioneon EP" style="max-width:120px; height:auto;" />
       </td>
@@ -259,6 +259,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b585e9c0cb7a4d26bfe603211f8aaadd.png" alt="Cover for Geidi Primes" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-10</td>
       <td>Grimes</td>
@@ -270,8 +271,27 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 34</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 35</li>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00dab70fd2372fac9dc5fcbfe6b8d2d2.png" alt="Cover for Bright Lights" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-01-25</td>
+      <td>Ellie Goulding</td>
+      <td>Bright Lights</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 43</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -300,7 +320,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/K78fiUm3Ntl5fjlJcxu-mU4Wv7YkZp-vJYkUcKXf7Gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzE1/NDgtMTMyMzMwNDE4/MS5qcGVn.jpeg" alt="Cover for The Arrival EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90b6cf2485ea48c9bee347b806b1e379.png" alt="Cover for The Arrival EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Queen of Hearts</td>
@@ -358,23 +378,22 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/adee74149dc946ed804fe702dfcf3334.png" alt="Cover for Era Extraña" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-07</td>
       <td>Neon Indian</td>
       <td>Era Extraña</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 12</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 14</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 33</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 39</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 45</li>
             <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 89</li>
         </ul>
       </td>
@@ -396,14 +415,14 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 68</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/suKKE33iD2MG_9egTztLT7wfcv8fgRj4EFIsOEDsbmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTI4/MzItMTQwOTg0OTQ1/NC0xNTMxLmpwZWc.jpeg" alt="Cover for Flutter EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/416a445c60f14539995aeb37809ae85c.png" alt="Cover for Flutter EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-23</td>
       <td>Valotihkuu</td>
@@ -431,7 +450,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 30</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 31</li>
             <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 41</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 71</li>
         </ul>
@@ -440,7 +459,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/XfX9RlsnyCgw-pq9frKBDndenUVpyfkLXQ6UfQyFTXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTE4/NjYtMTM2MDg2MjM2/MS05Nzk0LmpwZWc.jpeg" alt="Cover for kin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f88500297974a548bae6f9855cbcef1.png" alt="Cover for kin" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-06</td>
       <td>iamamiwhoami</td>
@@ -516,14 +535,15 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 6</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 72</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 7</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4857b5e7f93d4e1e9bdde4166e7062e6.png" alt="Cover for The Bones of What You Believe" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-20</td>
       <td>CHVRCHES</td>
@@ -535,14 +555,14 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 64</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/jhb92Dsbx7q8TQ1up-jR3H4Ze4MofPK54DsfJSGzOOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjU4/MTAtMTU0OTk0NjE0/NC05ODU5LmpwZWc.jpeg" alt="Cover for Innerworld (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1099aa4be48dba94cfd37cd717d0948a.png" alt="Cover for Innerworld (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Electric Youth</td>
@@ -557,13 +577,14 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 58</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20aa7fbf08bf44dbc49c849aa29bae72.png" alt="Cover for Synthetic Romance" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-01-12</td>
       <td>Timecop1983</td>
@@ -584,6 +605,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f30d5e48b5e4aefcad2a009215f7fa9.png" alt="Cover for fountain" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-01-22</td>
       <td>iamamiwhoami</td>
@@ -623,7 +645,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/SRkuQssZ-_v0miW5Z6SiJ3i868BM0pskVmOc_hGB6as/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njcy/NjU0LTE1OTU2NTM3/MDQtNjYxMi5wbmc.jpeg" alt="Cover for Get Out - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f797cccae665701432ae88bfcb8710d.png" alt="Cover for Get Out - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-21</td>
       <td>CHVRCHES</td>
@@ -666,8 +688,9 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e883b25796fc4503c5b27150cc51b65c.png" alt="Cover for vista" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-25</td>
       <td>iamamiwhoami</td>
@@ -683,7 +706,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
       </td>
       <td>2014-05-20</td>
@@ -707,6 +730,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/827e2071be243ef215da7abc98aedc90.png" alt="Cover for Journeys" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-06-10</td>
       <td>Timecop1983</td>
@@ -757,24 +781,6 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
     </tr>
     <tr>
-      <td>44</td>
-      <td>
-      </td>
-      <td>2014-09</td>
-      <td>iamamiwhoami</td>
-      <td>BLUE</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>69</td>
       <td>
           <img src="https://i.discogs.com/XIYFPvXwxQFDXhGTGW5x2tuqLAxTwRTSaILo3WCHEwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODAx/NzAtMTQyNjQ2MjEw/My00Mzk0LmpwZWc.jpeg" alt="Cover for Possession" style="max-width:120px; height:auto;" />
@@ -795,7 +801,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 44</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -824,7 +830,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/67Yfw1WWwYucRj4bLlrmEZorqbDgGU_9xf7eFlkyr2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTE3/NDItMTQ3ODA3MDM1/Ni05NjA1LmpwZWc.jpeg" alt="Cover for Los Angeles EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d2ed38afbc6aa024d298f5118b12a11.png" alt="Cover for Los Angeles EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-10</td>
       <td>FM-84</td>
@@ -843,7 +849,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/67Yfw1WWwYucRj4bLlrmEZorqbDgGU_9xf7eFlkyr2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTE3/NDItMTQ3ODA3MDM1/Ni05NjA1LmpwZWc.jpeg" alt="Cover for Los Angeles" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d360d8f17a19dd6123be793894ef9f3.png" alt="Cover for Los Angeles" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-10</td>
       <td>FM-84</td>
@@ -865,7 +871,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/rjP6iCDnnPDR1Pz069s6vuM--Wrz6oWkXdv6_gJUHrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njkz/MTQtMTQ0NDIyODM2/MC03MjQ3LmpwZWc.jpeg" alt="Cover for Demons With Shotguns OST" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65d0b69170808ee8a1f39fd614484ac1.png" alt="Cover for Demons With Shotguns OST" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-06-25</td>
       <td>VHS Glitch</td>
@@ -927,7 +933,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 33</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 35</li>
             <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 35</li>
             <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 95</li>
         </ul>
@@ -959,7 +965,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/Cu6eQau-WVE65kfx14kgClWR_0_byCDz4xW4tt89B9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTE5/OTAtMTQ0Njg0MDcy/NS0xMjI4LmpwZWc.jpeg" alt="Cover for Art Angels" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6b3a85f39a656aaa61d30d1d2ec8d85.png" alt="Cover for Art Angels" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-11-06</td>
       <td>Grimes</td>
@@ -975,9 +981,9 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 3</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 42</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 69</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 88</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 46</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 78</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1003,7 +1009,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/ekmy22CpMQy6gFgxHAjIZdEf_SWbYKu4WmwY8LTkITM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODgz/OTc1LTE2MjE5ODc5/OTAtOTA4MS5qcGVn.jpeg" alt="Cover for weather patterns" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34aad632c91686ef0aad840c5f5e8a3d.png" alt="Cover for weather patterns" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-03-25</td>
       <td>hello meteor</td>
@@ -1041,9 +1047,9 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/oj8av78WT09v__zrkhQ0SVOAdxJI8wR5Rqo4ra2oKx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NjE5/MjktMTQ2ODIxMzE3/MS00OTc3LmpwZWc.jpeg" alt="Cover for Neon Graffiti" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e9f0027f65df6aa5cfbc0de8a9f008d.png" alt="Cover for Neon Graffiti" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-07-08</td>
       <td>Raydar</td>
@@ -1059,7 +1065,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 71</li>
+            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1146,7 +1152,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/G7K_GkjnNObvC7GUoM4Bj3Uva7D9h3xtkVDVhIlB9Hg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODEy/MTUxLTE1MDQ4NjIz/NTctMjQ2MS5wbmc.jpeg" alt="Cover for Reborn" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/941cecbd79ff1b715a95bf915b4e8fba.png" alt="Cover for Reborn" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-08</td>
       <td>Ksmtk</td>
@@ -1193,9 +1199,9 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/LMsbgCXlhPfI929ZE6sLpc1pbC966IpZtvUgnjwinCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTAx/MzM5LTE1MDYyMTcz/MzgtNTYwMS5qcGVn.jpeg" alt="Cover for Breathing (Original Motion Picture Soundtrack From A Lost Film)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4b85f06ebcb9354dbf1bbe59811a530.png" alt="Cover for Breathing (Original Motion Picture Soundtrack From A Lost Film)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-22</td>
       <td>Electric Youth</td>
@@ -1221,7 +1227,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/QkwkMg-1FRaUf_6CWG7nIW6ifXoqT-xwVTIUPgtjOoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTk2/ODY1LTE1MDc5MDY1/MTUtNTI5OS5qcGVn.jpeg" alt="Cover for Nocturnal" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11f907bafcbdb99b99a175761f9566cd.png" alt="Cover for Nocturnal" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-13</td>
       <td>The Midnight</td>
@@ -1234,13 +1240,14 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/LsJIikeNRcSGGCLTbNXaL8m2BxTuK-lz8eGFe8bnt5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE3/MDAyLTE1MjY2MzY3/MDctNTAwNi5qcGVn.jpeg" alt="Cover for Black Walls" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c0302312129815d50f60548d48b849c.png" alt="Cover for Black Walls" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Chromatics</td>
@@ -1268,7 +1275,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/_pOjGzo8KMHgmn-HoA34tTXcUdsXf9eYiR3RY6-pqNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTMy/Mjk2LTE1MjQ5OTY4/MjMtOTcxMS5qcGVn.jpeg" alt="Cover for Nothing Is Lost" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7480b3a710443bc790b18f809b4b0783.png" alt="Cover for Nothing Is Lost" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-27</td>
       <td>New Arcades</td>
@@ -1291,7 +1298,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/Y-LsVvHGrg0IjpKnLJTSrF6-hBKASDJUQ3q0oV6eG2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjU5/NzMxLTE1NTA5MTA0/NDktMTQ5MC5wbmc.jpeg" alt="Cover for Looking For Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f502125c100a8c8a85d9151286901578.png" alt="Cover for Looking For Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-17</td>
       <td>Chromatics</td>
@@ -1315,7 +1322,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/CN4i9T82xar_tL_265TlBe4glL6QJNJgsZq2fBMfh8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODIx/MDctMTQ2MjQ3MTUx/My0yNDA1LmpwZWc.jpeg" alt="Cover for Blue Girl" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e06401016e34249eb3f0ae0126cb5b8e.png" alt="Cover for Blue Girl" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-18</td>
       <td>Chromatics</td>
@@ -1338,9 +1345,9 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/-2cYmXxOYjY7s3kyuZHTi3ngtBTn46AKu1RmzpRctyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY3/NTA5LTE1Mjk2NjE0/NjAtNDAzNC5qcGVn.jpeg" alt="Cover for Model Lover" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cebf361480df7daa0f81b6f7df8c5807.png" alt="Cover for Model Lover" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-04</td>
       <td>Pontiac At Night</td>
@@ -1379,9 +1386,9 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/mcTd2_OyvcicrrpR1iipAjTq04hPRoRUaaU15mQemoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU1/MTA1LTE1Mzc1MzQ1/NDQtMjM1OS5qcGVn.jpeg" alt="Cover for Kids" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/271fe787620fe27994ff66616d529e1f.png" alt="Cover for Kids" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-21</td>
       <td>The Midnight</td>
@@ -1396,7 +1403,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 61</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 63</li>
             <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 85</li>
         </ul>
       </td>
@@ -1419,14 +1426,14 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 53</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/3-95QAtafrm9Wow1VHv0I8OcC-uzeb-GLaZGmdGa5C4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjIw/MTA4LTE1Mzg3NDgy/NjUtNzk2Ny5qcGVn.jpeg" alt="Cover for Dark All Day" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2402f6c2f3b47ab134051c80ed6f480.png" alt="Cover for Dark All Day" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-05</td>
       <td>Gunship</td>
@@ -1439,14 +1446,14 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       <td>
         <ul>
             <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 40</li>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 60</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
-          <img src="https://i.discogs.com/0u5brUEkyYo4RZw-c0oSdjgqq5qPpwf5MQVgLqNsK4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUz/MzI1LTE1Mzk0NTg0/NDYtMjI4Mi5qcGVn.jpeg" alt="Cover for Wiseblood (Johnny Jewel Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d34de435d58e8beee72356b7a72e143f.png" alt="Cover for Wiseblood (Johnny Jewel Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-12</td>
       <td>Zola Jesus</td>
@@ -1472,7 +1479,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/5ScgvUGF1SvZhmvT0vhLuKvZO1aANDiQDEIcKr7FlyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc2/MDA1LTE1NDE3MTg3/NTMtMjEzMC5qcGVn.jpeg" alt="Cover for Midnight" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e493600b319502b96f30b9cecb5d2f0.png" alt="Cover for Midnight" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-26</td>
       <td>The Motion Epic</td>
@@ -1515,7 +1522,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/OHJcjvILa9jKlSmIs57aJv-SWZ_cu1pFj4xERpxXBnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjI3/NjE0LTE1NTAzMjY4/MzgtMjY2Mi5qcGVn.jpeg" alt="Cover for Bend &amp; Break" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a91925923feca34b32fd197a0e9b45ee.png" alt="Cover for Bend &amp; Break" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-14</td>
       <td>FM-84</td>
@@ -1537,7 +1544,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 25</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 28</li>
             <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 90</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 100</li>
         </ul>
@@ -1594,7 +1601,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       <td>
         <ul>
             <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 68</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 78</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1648,7 +1655,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/le2j_-F24ud0nm079tF8tFL7dvxd6oXa-5dmge3o5Gg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTMz/NDE2LTE1NjQzNjky/MDUtOTEyMC5qcGVn.jpeg" alt="Cover for Human Again" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ad84397414f9bc2345d3bc284ce4412.png" alt="Cover for Human Again" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-07-28</td>
       <td>Jorja Chalmers</td>
@@ -1675,7 +1682,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/tH-a5XEgn2P4dWCRm-Xn6FE75dKC6Sjb_b2nKGkTq_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDUw/NDcwLTE1NjY4NDk4/MjUtNDY2MC5qcGVn.jpeg" alt="Cover for Exposure Therapy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c2b60754668eee323aff261d979abc8.png" alt="Cover for Exposure Therapy" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-08</td>
       <td>Wingtips</td>
@@ -1698,16 +1705,16 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 48</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 52</li>
             <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 67</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/hSNsCMMnsfDMM-Ad30mfV59Ufv4DxsHhhsUmwFg3Pp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDE3/MDc0LTE1OTg0NjQ0/OTUtMTU5MS5qcGVn.jpeg" alt="Cover for West Coast Dreams" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e6861c22d8a02f31829e4bc6e58e41f.png" alt="Cover for West Coast Dreams" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-08</td>
       <td>The Motion Epic</td>
@@ -1751,7 +1758,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/1BPIKT53YbJmSKX21BaDRJnLuyuhrzxZ46-PtvTRHnk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQy/MzY5LTE1ODcyMjYz/NjgtNTIyNy5qcGVn.jpeg" alt="Cover for Sleepless" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e76af754e021429595b0b2c758fbd186.png" alt="Cover for Sleepless" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-17</td>
       <td>Nite</td>
@@ -1775,9 +1782,9 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/WyM3hgt5RNJDJZ6x9A4WKkTHUBtVcL06Kj2JrzVVzM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ5/NzM3LTE1OTAxNDA5/ODAtMTg2Mi5qcGVn.jpeg" alt="Cover for Dark All Day (Instrumentals)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eff458477e890e6377fc426007616dbe.png" alt="Cover for Dark All Day (Instrumentals)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-22</td>
       <td>Gunship</td>
@@ -1798,7 +1805,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/RpU4caLksazVdh5FvKKkYBDc9hOSeENhH1ptVtuVHY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTk5/NzI0LTE1OTQ2Mjc1/MDEtMTUyMS5qcGVn.jpeg" alt="Cover for Monsters" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38cd7d135051d0759da0199810273027.png" alt="Cover for Monsters" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-10</td>
       <td>The Midnight</td>
@@ -1816,7 +1823,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 51</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 53</li>
             <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 94</li>
         </ul>
       </td>
@@ -1846,7 +1853,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/3x0VUNvbiuTF2h72OniJdp78IZmY8J4KcEIj5Ti-u_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTcz/ODMtMTMzNTE3ODIz/OC5qcGVn.jpeg" alt="Cover for The Destroyer - 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a01246428f0d37a4bba0866c1650e5a7.png" alt="Cover for The Destroyer - 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11-26</td>
       <td>TR&#x2F;ST</td>
@@ -1867,8 +1874,8 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 52</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 53</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 79</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 54</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 81</li>
             <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 91</li>
         </ul>
       </td>
@@ -1948,7 +1955,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/Eaiy_AxO-cjrxIpA4yGbg0DXMsYcYHPFKOzMWy-dGh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTE3/ODAxLTE2MTA1OTQ0/MjctMTcyNy5qcGVn.jpeg" alt="Cover for Beneath The Black Palms" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a6cd3e64ad9ed1c8dfb52f910e14618.png" alt="Cover for Beneath The Black Palms" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-01-08</td>
       <td>Blaqk Audio</td>
@@ -1970,7 +1977,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 45</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 49</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 75</li>
         </ul>
       </td>
@@ -2022,7 +2029,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/jrAm_3y4E9JOTmYvps17RRD9kESgvcGdAcWk8K2gFo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTEz/MDQyLTE2MjIxNzg5/MTctNzk1OS5qcGVn.jpeg" alt="Cover for Midnight Train" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f79a5949c65444138ece452ee00268ee.png" alt="Cover for Midnight Train" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-28</td>
       <td>Jorja Chalmers</td>
@@ -2053,7 +2060,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/GoDECRSiWtmoLieyTfQgr2S_LTIbDT9t9trY1sCLjDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDUw/MzU4LTE2MjMwNzM2/NTQtMjY0OC5qcGVn.jpeg" alt="Cover for Boardwalk Arcadia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d412870f60217baac2c0d8b53d9fcff4.png" alt="Cover for Boardwalk Arcadia" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-04</td>
       <td>The Motion Epic</td>
@@ -2074,37 +2081,28 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/6k0gfNUiw50u78qPxd_mTC_bzswJmp8XfMWxIVBMt8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTI3/MjgwLTE2MjY1MzUy/ODktMjA4My5qcGVn.jpeg" alt="Cover for Dream Again" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1ca969604e97c760670dfb54b246d1e.png" alt="Cover for Dream Again" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-07-16</td>
       <td>Joon</td>
       <td>Dream Again</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 17</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/5eSlTwTqcm_2oMNB8839b-sxzz5rXW7v-aOhDmfPY_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDA1/OTgxLTE2MzAwMTA3/MzktNDY4MC5qcGVn.jpeg" alt="Cover for Love Made Me Do It" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d140e55b875b3b76534d0945ecd885a5.png" alt="Cover for Love Made Me Do It" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-08-27</td>
       <td>Kat Von D</td>
@@ -2125,7 +2123,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 51</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 55</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 80</li>
         </ul>
       </td>
@@ -2133,7 +2131,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/1JW1IwmdIVF16QK9CiO485oJnQau7iTofAQOV0VIUKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzE2/NDkzLTE2MzIyNDA0/NDktMzAxOS5qcGVn.jpeg" alt="Cover for Cutting Room Floor" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bf5f81f8595e570fea0217eb9d04e2c.png" alt="Cover for Cutting Room Floor" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-09-03</td>
       <td>Wingtips</td>
@@ -2156,7 +2154,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 2</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 5</li>
             <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 29</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 55</li>
         </ul>
@@ -2165,7 +2163,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/vrl_yErJGvY7UJ5uDMzDiJwzgsaHjCpnPvRaSj-lJOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDk3/MTA4LTE2MzM1NDkw/NDEtNzM3My5qcGVn.jpeg" alt="Cover for Cruise Control" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd74e81751797f14260f968129a46d88.png" alt="Cover for Cruise Control" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-09</td>
       <td>Max Cruise</td>
@@ -2185,7 +2183,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/ne4ZUEZL6l9XSLcvPK0CwDd4cBoHbH4dAKiyj3NJLQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODY3/NjY4LTE2MzYxNTAz/NzMtODA5MS5qcGVn.jpeg" alt="Cover for Salt Water" style="max-width:120px; height:auto;" />
       </td>
@@ -2213,27 +2211,19 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/PH488k9wDZcgjRyf96EZ-zkgGRYG2Qef2XqxnaoYZA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzUw/NTA4LTE2NDYxNjUx/MDYtODQ3MC5qcGVn.jpeg" alt="Cover for Dazed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/865915bbe3528f7acfbd2aeb0721d292.png" alt="Cover for Dazed" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11-05</td>
       <td>Dlina Volny</td>
       <td>Dazed</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
         </ul>
       </td>
@@ -2243,7 +2233,6 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 36</li>
             <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 44</li>
             <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 51</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 55</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 83</li>
         </ul>
       </td>
@@ -2251,7 +2240,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/ne4ZUEZL6l9XSLcvPK0CwDd4cBoHbH4dAKiyj3NJLQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODY3/NjY4LTE2MzYxNTAz/NzMtODA5MS5qcGVn.jpeg" alt="Cover for Salt Water" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3c3ce8ec70a1b6c47b382a08338d568.png" alt="Cover for Salt Water" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11-05</td>
       <td>Fragrance.</td>
@@ -2277,7 +2266,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/uyp_wIWVWh87JCJiEetmpAdiIeaY1QRL7iD0r3FZUBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTU2/MDMwLTE1MjU0Mzcy/MjEtNTYwNy5qcGVn.jpeg" alt="Cover for Night Drive" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/debfd82986a73ee82c651cc4a3e914f5.png" alt="Cover for Night Drive" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-01-07</td>
       <td>Timecop1983</td>
@@ -2289,14 +2278,14 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 59</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/zSHHsQvzklyBacG-H5UH9gMpwxSJSh3D6KwpjzO1yvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/MjgwLTE2NDMzOTg0/MTMtODEyOC5qcGVn.jpeg" alt="Cover for I Am Your God" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c4f40e757eca5e992641e1a902eea97.png" alt="Cover for I Am Your God" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-01-28</td>
       <td>mothermary</td>
@@ -2316,14 +2305,14 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 52</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/fazRcE83F1b5kq7BqVSNb1PhatzA7bQuLcOavXXDgA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg1/NjY4LTE2NDcxMDg0/OTYtNjM4Mi5qcGVn.jpeg" alt="Cover for City Lights" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec422ba6593a88457f8d22aae150e8bb.png" alt="Cover for City Lights" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-11</td>
       <td>Max Cruise</td>
@@ -2346,7 +2335,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/YuIgnY_W1YejGUGDfyZACs6kwQ6DbJp8SMbfortoFdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDg5/MjUtMTM5MjYzMjk5/MC01OTA2LmpwZWc.jpeg" alt="Cover for Searching for Tomorrow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44143b406715f044aa18044be0f9fe43.png" alt="Cover for Searching for Tomorrow" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-08-31</td>
       <td>Timecop1983</td>
@@ -2371,6 +2360,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c76cd41fa988b78eeca44cc7bab4899c.png" alt="Cover for Addictions" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Joypopp</td>

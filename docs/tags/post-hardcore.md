@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T09:16:48.515Z
+date: 2025-11-11T10:15:20.235Z
 permalink: tags/post-hardcore
 title: post-hardcore
 ---
 
 ## post-hardcore
 
-Last updated: <time datetime="2025-11-08T09:16:48.515Z">Sat Nov 08 2025 11:16:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T10:15:20.235Z">Tue Nov 11 2025 12:15:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,13 +50,13 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 68</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 69</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 77</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 78</li>
             <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 79</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 94</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 98</li>
             <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 98</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -128,30 +128,12 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 58</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4604bf7087824182b22e3e55fc525d75.png" alt="Cover for The Argument" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001-10-16</td>
-      <td>Fugazi</td>
-      <td>The Argument</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/726fa1fc5dd540d0a77bc23c39d71dd9.png" alt="Cover for The Illusion Of Safety" style="max-width:120px; height:auto;" />
       </td>
@@ -203,12 +185,12 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 75</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 78</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/434360b0ee214604a723d94261374519.png" alt="Cover for Worship and Tribute" style="max-width:120px; height:auto;" />
       </td>
@@ -239,7 +221,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 10</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 11</li>
             <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 51</li>
         </ul>
       </td>
@@ -357,12 +339,12 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 75</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/A-Wxunq2G38pb3GxC2_ziD9AQHirLxILZne-R5_-418/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjI3/OC0xNjc5NDI5MTUz/LTI4NzEuanBlZw.jpeg" alt="Cover for Casually Dressed &amp; Deep in Conversation" style="max-width:120px; height:auto;" />
       </td>
@@ -395,9 +377,9 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 82</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 90</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 83</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 91</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -453,7 +435,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 25</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 27</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 40</li>
         </ul>
       </td>
@@ -476,13 +458,13 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 3</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 54</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 7</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2004-10-05</td>
@@ -538,7 +520,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 20</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 22</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 56</li>
         </ul>
       </td>
@@ -697,7 +679,27 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0a4b04bf955443b83095ac7752afb4b.png" alt="Cover for Decemberunderground" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-05-19</td>
+      <td>AFI</td>
+      <td>Decemberunderground</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>
       </td>
       <td>2006-05-23</td>
@@ -871,7 +873,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8e0c2e0df89ae6b846a419d44a66a2b.png" alt="Cover for Southern Weather" style="max-width:120px; height:auto;" />
       </td>
@@ -911,7 +913,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a7a5d09961840bb84133804519518fb.png" alt="Cover for This Is Your Way Out" style="max-width:120px; height:auto;" />
       </td>
@@ -988,7 +990,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2008-09-02</td>
@@ -1023,8 +1025,9 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5972074deffd8e61eaa4f4e33ce425f8.png" alt="Cover for Someday Came Suddenly" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-11</td>
       <td>Attack Attack!</td>
@@ -1142,8 +1145,9 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2d9c6598abefab938048dc5eeebc955.png" alt="Cover for Stand Up And Scream" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-15</td>
       <td>Asking Alexandria</td>
@@ -1262,14 +1266,14 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 34</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 35</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 67</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 75</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 82</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 85</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 91</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 93</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 95</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1329,7 +1333,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 39</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 41</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 83</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 92</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 93</li>
@@ -1388,8 +1392,8 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 1</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 15</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 38</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 20</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 41</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 47</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 96</li>
         </ul>
@@ -1467,7 +1471,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 37</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 38</li>
             <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 100</li>
         </ul>
       </td>
@@ -1548,7 +1552,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2014-09-23</td>
@@ -1590,23 +1594,23 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 9</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 27</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 85</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 88</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 92</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 93</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 98</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 98</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 98</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 99</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 99</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 99</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 99</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/41d4a6c590691571d83353cd6a6853a3.png" alt="Cover for MIDDLE OF THE NIGHT" style="max-width:120px; height:auto;" />
       </td>
@@ -1663,7 +1667,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 54</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 61</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 62</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 76</li>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 96</li>
         </ul>
@@ -1690,7 +1694,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/eLlFHe2kmVpNiB1EVno3aXubDNMaQtibQUwbT0t2Z38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTYz/MzYtMTQ2Mzk3NTU0/Mi0yNDgzLmpwZWc.jpeg" alt="Cover for The Dream Is Over" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef3c7192df37a7b4b04a6c65c2376c89.png" alt="Cover for The Dream Is Over" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-05-27</td>
       <td>PUP</td>
@@ -1721,7 +1725,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 70</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1746,7 +1750,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 68</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 70</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 78</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 88</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 89</li>
@@ -1771,12 +1775,12 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 48</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/xsT1E5DdE_uKRSwBFUc-5O_5f2OKLf5Xp8x2MiPeeXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM1/NjU0LTE2NDIxMDQw/NTYtMTA2MS5qcGVn.jpeg" alt="Cover for The Silver Scream" style="max-width:120px; height:auto;" />
       </td>
@@ -1822,7 +1826,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/4PcScV-x2f64wO5B1Zmoi2lHHNup4nxR1ktHnqyXJ9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjIx/NzM1LTE1NTAyMjYx/OTctNDk0OS5qcGVn.jpeg" alt="Cover for Familiar Drugs" style="max-width:120px; height:auto;" />
       </td>
@@ -1846,7 +1850,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/WakTyjnlbhk22XQfHSYImAzm53e34pycAs_FF6wb2Eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTA1/ODUzLTE1NjM3NjEw/NzItNTg2My5qcGVn.jpeg" alt="Cover for Drugs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57cf8cf111b1487922745e91ba0288e6.png" alt="Cover for Drugs" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-08</td>
       <td>Falling in Reverse</td>
@@ -1860,7 +1864,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 13</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 19</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 93</li>
         </ul>
       </td>
