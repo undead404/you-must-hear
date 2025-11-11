@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-07T18:46:13.008Z
+date: 2025-11-11T04:18:32.284Z
 permalink: tags/alt-pop
 title: alt pop
 ---
 
 ## alt pop
 
-Last updated: <time datetime="2025-11-07T18:46:13.008Z">Fri Nov 07 2025 20:46:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T04:18:32.284Z">Tue Nov 11 2025 06:18:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
   </thead>
   <tbody>
     <tr>
-      <td>18</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/Lp0tiOeNDsWqRGvON2q0KWcCsYkHGnMXkLixtsu11wA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzYz/MDYtMTYyNzg5OTk4/My00OTMzLmpwZWc.jpeg" alt="Cover for Silverspoon Rebel" style="max-width:120px; height:auto;" />
       </td>
@@ -69,9 +69,9 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/ldC3_64qTHfz8S9e2e1Y4eZ9jPfo26Qx07ylF6I_9Qk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDI4/MDg3LTE1NDY3NDky/MTQtNzAzOC5qcGVn.jpeg" alt="Cover for YAYAYA" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5f4305e4f4f9b0cdfde104fff91fcd4.png" alt="Cover for YAYAYA" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>TSS</td>
@@ -88,14 +88,14 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 18</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/ayXLHufFZveE3YQFlgiD91cijpm6j7GRjU_l-kXaUMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTkz/MTMtMTM3NDYwNTY3/Mi05NjU2LmpwZWc.jpeg" alt="Cover for Requiem for a Fatty" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/517f97a42b7f8bbf77301f11e84c29c1.png" alt="Cover for Requiem for a Fatty" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Beard</td>
@@ -117,7 +117,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/3MlBKYkFhK3tkcgK6kPiutPCgYAVPJ9FveYA-lyzu2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjIw/NDMtMTQ4MjI4MDg0/OC0xMDM0LmpwZWc.jpeg" alt="Cover for Perennial Green" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/745e2840ca1df9976bfaba7dbbf1dda6.png" alt="Cover for Perennial Green" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Rio</td>
@@ -137,7 +137,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/V1tJvPoT4BJ9fbn2NWeh6i8PHUWRdE8j2b3FLuhinmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njgz/ODMtMTM3NTY4Nzc5/MC03NDg4LmpwZWc.jpeg" alt="Cover for RAE" style="max-width:120px; height:auto;" />
       </td>
@@ -157,17 +157,17 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 14</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 16</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 73</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 75</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 76</li>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/shkf8Nszo3z_MrGDwHWyT1j3J6GzUdvkN-J5EhbN4Fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NDkx/MDQtMTQ4OTA3NTAw/NC02NDkzLmpwZWc.jpeg" alt="Cover for Bite Your Tongue" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5dc232d758a7ed81667a392d0b11a5b4.png" alt="Cover for Bite Your Tongue" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Elis.</td>
@@ -187,7 +187,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
       </td>
       <td>2007</td>
@@ -213,14 +213,14 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 13</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 12</li>
             <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 52</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/NfAVddmteaJFDUCUAMBK6nUIWDnaS8m2s8Jpjq-b7xw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjUz/NTY5LTE2NDE2NTM5/MDMtNDA0Ni5qcGVn.jpeg" alt="Cover for Wonderlust EP" style="max-width:120px; height:auto;" />
       </td>
@@ -239,7 +239,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>63</td>
       <td>
       </td>
       <td>2007-01-01</td>
@@ -268,15 +268,15 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 1</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 34</li>
             <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 42</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 42</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 42</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 43</li>
             <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 45</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>29</td>
       <td>
       </td>
       <td>2007-03-15</td>
@@ -293,7 +293,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/SLjNdsOZzxMJp_hhdA_NoZxcpdfIYNVuJuHMc8o_4Es/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTI4/MTYtMTM0MTM2OTYy/Ny0xMTkxLmpwZWc.jpeg" alt="Cover for The Only Non-Classical Album You&#39;ll Ever Need" style="max-width:120px; height:auto;" />
       </td>
@@ -322,7 +322,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>62</td>
       <td>
       </td>
       <td>2007-07-05</td>
@@ -358,7 +358,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
       </td>
       <td>2007-10-19</td>
@@ -391,15 +391,14 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 45</li>
             <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 45</li>
             <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 48</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 51</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 52</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/Uk8-kky1ARdEV1CEoJFMQMoS-fY2c5s3bw6VuhxZjDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzc4/MDItMTM0MjM2Nzkw/NS01Njk1LmpwZWc.jpeg" alt="Cover for The Only..." style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-02</td>
       <td>Joe Jack Wagner</td>
@@ -428,9 +427,9 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/nDaki_1usaoHcmcp9G9yw033islx9UIC1PEmlmwP7Jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDI4/MTYtMTQwMTQxNDkz/OS0yNDA0LmpwZWc.jpeg" alt="Cover for Tyrants and Spies" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f269669459fa483a8c83707fab10d6a3.png" alt="Cover for Tyrants and Spies" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Eisenhower Field Day</td>
@@ -447,14 +446,13 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 27</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/nDaki_1usaoHcmcp9G9yw033islx9UIC1PEmlmwP7Jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDI4/MTYtMTQwMTQxNDkz/OS0yNDA0LmpwZWc.jpeg" alt="Cover for Our Time in the Colonies" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Eisenhower Field Day</td>
@@ -476,7 +474,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/EUZWckDRC_DHNYD7QfaI1gIq3boZBXl-r9S6JYqedmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTY0/NzMtMTQ3MzMyODIz/MC05NDQ0LmpwZWc.jpeg" alt="Cover for The Ugly Army" style="max-width:120px; height:auto;" />
       </td>
@@ -520,7 +518,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 35</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 34</li>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 36</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 60</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 64</li>
@@ -531,7 +529,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36ae770081a5c2f54d17f15042a34fdf.png" alt="Cover for No Clothes on Ragged Island" style="max-width:120px; height:auto;" />
       </td>
@@ -547,14 +545,15 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 17</li>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 70</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 19</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/791d89d3dbd740de8a72b7b246f3e6af.png" alt="Cover for Year One" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-26</td>
       <td>Five Year Mission</td>
@@ -573,7 +572,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/luTojkz7H_JJGywPLdQeVKq4lyE5kg5b4G-Zs_guVXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTMy/MzIxLTE1MDY3NDky/MDktODEyMS5qcGVn.jpeg" alt="Cover for No Hearts a Wasteland (2012)" style="max-width:120px; height:auto;" />
       </td>
@@ -595,7 +594,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>
       </td>
       <td>2012-03-11</td>
@@ -612,7 +611,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/yQ5eg7hu4wX5pOntFkSwPhVYPmjEfSKaO_V1DCmqhzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQy/NzkzLTE1MTQ1ODc3/NzQtNzc0Ni5qcGVn.jpeg" alt="Cover for Drunk Sluts Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -634,7 +633,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/Gan39Q1pwQAlBDI51xYnIN-I0PJrXUs16mknwpm7V9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTc0/MzktMTM1ODgyMDE1/Ni0xOTg5LmpwZWc.jpeg" alt="Cover for Yellow &amp; Black &amp; Black" style="max-width:120px; height:auto;" />
       </td>
@@ -651,9 +650,8 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/qcuuryn8vyyIpHJMRFrX49oSyKBNrQJDOcsGSi5g6eI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA5/NTE3LTE1ODM5Mjg5/ODctNDU5NS5qcGVn.jpeg" alt="Cover for Progressions" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Daniel Correa</td>
@@ -672,7 +670,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee5d65b205a86a80ece9016b2d2a50db.png" alt="Cover for Pop Psychology" style="max-width:120px; height:auto;" />
       </td>
@@ -690,7 +688,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
       </td>
       <td>2014-12-08</td>
@@ -709,7 +707,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/ApSL2rupHDZUYyIIYLwXtWhYGErNtiU_yzsj658Ry5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTIy/ODItMTQ0MTc5Nzc2/OS00NjYyLmpwZWc.jpeg" alt="Cover for This Room is White" style="max-width:120px; height:auto;" />
       </td>
@@ -728,7 +726,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/042d413da41808d48ce4ac6edb917ee1.png" alt="Cover for Pacific Daydream" style="max-width:120px; height:auto;" />
       </td>
@@ -742,12 +740,12 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 58</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/332ef1117ed99647e72e983e9bde2a83.png" alt="Cover for Upside Down" style="max-width:120px; height:auto;" />
       </td>
@@ -767,9 +765,9 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/hXAuurIaO5vn4E7Ferws_ANF0bpbXjUKFf3qnGVY4-A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzgx/NTg1LTE2ODY3NTI2/NTMtMTU0Ni5qcGVn.jpeg" alt="Cover for infrequent flyers program" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bd999c5762df74115a867b295a2a2af.png" alt="Cover for infrequent flyers program" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-01-01</td>
       <td>Defsharp</td>
@@ -788,9 +786,9 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/qeoPBcDH1OhUi44PjcLn6cSuHZKd-RzijIpJtbUIjgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODE4/OTE4LTE1MDQ4MjQ3/NzYtNTc1OS5qcGVn.jpeg" alt="Cover for Dreaming in the Dark" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7f166d3ddc17f904a4ad453280d4667.png" alt="Cover for Dreaming in the Dark" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-21</td>
       <td>Lost Stars</td>
@@ -809,7 +807,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/rkOnGdb6jJKcYDwjNqSI4Wb20C2zRknJzNdZTwrYb2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM2/MDAwLTE1MTI0NDM5/ODQtMzA1Ni5qcGVn.jpeg" alt="Cover for Plotting Revolutions I" style="max-width:120px; height:auto;" />
       </td>
@@ -823,6 +821,23 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db1eb7da4d59d204a3fdc5defa903ecc.png" alt="Cover for Gone Now" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-06-02</td>
+      <td>Bleachers</td>
+      <td>Gone Now</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -852,9 +867,9 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/FgGYXUynVlGK6gKkIGYg643JZci4ZjTMkh71mqS8q1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODc1/MTczLTE2NjgzOTQx/NTctODkxOS5qcGVn.jpeg" alt="Cover for Sad Pain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b660c1d8608aaa498733a2951b8a6be.png" alt="Cover for Sad Pain" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-02</td>
       <td>Suran</td>
@@ -871,7 +886,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/YE4qneD7Ln5Fx9gB-momjaa___fTEZagOxsXh8kqkdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU2/MTEyLTE1MDkwMzMy/NzYtNzAyMC5qcGVn.jpeg" alt="Cover for To New York (Acoustic)" style="max-width:120px; height:auto;" />
       </td>
@@ -893,7 +908,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/OhVhBfzCwUL701ZHlQ57krmhfSp2-gptimg93cEdwEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjUz/MDk5LTE2MTU0MTYx/OTctODU3My5qcGVn.jpeg" alt="Cover for Vulnerability" style="max-width:120px; height:auto;" />
       </td>
@@ -914,7 +929,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/HTz2EFFz8srXcNde-Uca_GAuNGIOA_ZhgeqeUhxKFG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY1/Mjg4LTE1NDE1MTgw/MzAtNzMzMC5qcGVn.jpeg" alt="Cover for der Maschinenbau" style="max-width:120px; height:auto;" />
       </td>
@@ -941,7 +956,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/yXOD0OZW6Q2x1R160jjLrYPgFQgK25B63S8j4rzhYw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDcx/OTM0LTE1Mjc3MTY2/MzEtNTQ2NS5qcGVn.jpeg" alt="Cover for Shots" style="max-width:120px; height:auto;" />
       </td>
@@ -962,7 +977,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/VNIW5EStTH0KsZsRoN3Q3ISaxVjO9gf7uZ2iTjG7Lhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjU5/OTMyLTE1MzIyNzcz/ODQtOTY0MS5qcGVn.jpeg" alt="Cover for Losers&#x2F;Lovers EP" style="max-width:120px; height:auto;" />
       </td>
@@ -983,7 +998,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/9fOnoE8Cd2u5wxhHz_Lu8zc7zk7U2bpxnVO6hDsGXpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTE4/NzYyLTE1NDQ1MTY1/NTQtNTQ0Ni5qcGVn.jpeg" alt="Cover for Mothe - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1005,7 +1020,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/DM_cThlJQAznHz_2XWTuYjCtA84ElLbUeRuJeeo2HNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzEz/MTQ0LTE2MTUwMTQ2/OTYtMjI5NS53ZWJw.jpeg" alt="Cover for Too Young to Know" style="max-width:120px; height:auto;" />
       </td>
@@ -1025,7 +1040,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/8yb_xvPny20WnqgYmzYvPI5qosPrJIqFe1F2zZLa5pE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzEz/MDk5LTE2MTUwMTQz/MzUtNjE0My53ZWJw.jpeg" alt="Cover for Moonlight (Acoustic)" style="max-width:120px; height:auto;" />
       </td>
@@ -1046,7 +1061,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/Rsy1_28C6JYgHT5LUxgjdxCbV2Fiug7PXHV9oNyl9M4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTkx/MjM5LTE1MTE1NjQ3/NDAtNjc2OS5qcGVn.jpeg" alt="Cover for Tidal Wave" style="max-width:120px; height:auto;" />
       </td>
@@ -1065,31 +1080,8 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/80ml_gCcc6KQ11xLc0w0EnykO2fJGTjb7XAxXC-aZ-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTMw/Nzg5LTE1ODQyODE0/NjEtMzIwMy5qcGVn.jpeg" alt="Cover for Slip Away" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-03-15</td>
-      <td>Millaze</td>
-      <td>Slip Away</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>
-          <img src="https://i.discogs.com/80ml_gCcc6KQ11xLc0w0EnykO2fJGTjb7XAxXC-aZ-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTMw/Nzg5LTE1ODQyODE0/NjEtMzIwMy5qcGVn.jpeg" alt="Cover for The Malaise: Teaser vs. Warning" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03-15</td>
       <td>Millaze</td>
@@ -1115,7 +1107,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/3_aJoMEWYzdpKk-N_vPTvH-dM75evAQwmEA5La8P3uM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzEz/MDkzLTE2MTUwMTQy/NTctNzMyNi53ZWJw.jpeg" alt="Cover for Grow" style="max-width:120px; height:auto;" />
       </td>
@@ -1134,9 +1126,9 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/SAFqqOxbBzkLa9SMC2PcHe9tgsoWNSQWhjpr0nYoKGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc3/ODM1LTE1ODc3MTYy/NTQtNTAwOS5qcGVn.jpeg" alt="Cover for Low Angles" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6320045e3386be57e54ea15b6efd7049.png" alt="Cover for Low Angles" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-01</td>
       <td>Heads or Heads</td>
@@ -1157,9 +1149,9 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>79</td>
       <td>
-          <img src="https://i.discogs.com/loAShoD3OTKYBc7IFk9dqRje_psNp_Icm3tNGNL_Wa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDEy/MDAxLTE1OTYyNDIz/ODctNzU3MS5qcGVn.jpeg" alt="Cover for SPECTRA" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee6500111fccaa167a21984e16021489.png" alt="Cover for SPECTRA" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-01</td>
       <td>Courage My Love</td>
@@ -1177,7 +1169,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/5aaOo1vbAwn0EpCvskbj6rV8Df0UIN-dhmRCAPm6St4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI3/NTU1LTE1OTMwNDQw/MTgtOTg1Mi5qcGVn.jpeg" alt="Cover for Women In Music Pt III (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1195,12 +1187,12 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       <td>
         <ul>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 21</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 57</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
       </td>
       <td>2021</td>
@@ -1219,7 +1211,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>53</td>
       <td>
       </td>
       <td>2021</td>
@@ -1237,7 +1229,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/tFsp8sBR5fLx0VwIMtNlfjGzZme_nDUU_cf68hk2Njs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTI0/NjkwLTE2MTczOTA4/MDAtMzA4NS5qcGVn.jpeg" alt="Cover for Re-Imagined" style="max-width:120px; height:auto;" />
       </td>
@@ -1258,7 +1250,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9da8add22ca31771a440d2a6f7615f6d.png" alt="Cover for SOUR" style="max-width:120px; height:auto;" />
       </td>
@@ -1273,10 +1265,10 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 12</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 16</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 54</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 57</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 70</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 71</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 81</li>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 93</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 99</li>
@@ -1284,7 +1276,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/1_Hm1kZUyzhwk_cPFQ58a2aqsEehcig5cI2gA5e6i34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzQz/NDYwLTE2OTg2MjI4/MTItMTA2Ny5qcGVn.jpeg" alt="Cover for I&#39;m Just Bored" style="max-width:120px; height:auto;" />
       </td>
@@ -1303,7 +1295,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/_SAJHJCaccRAEui8KUg-nUf-5YmrNJ4Jp5QXBORxbO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzQ5/OTY0LTE3MDM5NTc2/OTItMzY4MC5qcGVn.jpeg" alt="Cover for The Tortured Poets Department" style="max-width:120px; height:auto;" />
       </td>
@@ -1322,7 +1314,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/-cRVJcjDxeXMSDY8QLhnm_Hyk6g4tCXzc7XQmR1GnMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzMz/NjE3LTE2NjE2MjQw/NDItNDI1Ny5qcGVn.jpeg" alt="Cover for Chillwave" style="max-width:120px; height:auto;" />
       </td>
@@ -1371,9 +1363,9 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/9tPgOrt3wa8t2U1dACz_1k8SLfna4LDSuuycP9N5Qqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTAx/MDc4LTE1NjM2NTQx/MDAtMTkxMS5qcGVn.jpeg" alt="Cover for Gave U Hell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d10818040089c42ac9b3bc6594c20839.png" alt="Cover for Gave U Hell" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-02-25</td>
       <td>Knightlight</td>
@@ -1391,7 +1383,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/GQWfX0i8tz41gx7ytWOolacpZY3sX2slVEIwsfAN__0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzky/MDczLTE2NDY0Njc0/NjMtNzMyNi5qcGVn.jpeg" alt="Cover for Street Noise" style="max-width:120px; height:auto;" />
       </td>
@@ -1410,7 +1402,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/qtVLp3c4wJNifP7OUjo8mtiXjY4HDFn512OaNU44tuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzY1/MDA1LTE2NjUyODQ1/NzMtMjI2NS5qcGVn.jpeg" alt="Cover for Sadza" style="max-width:120px; height:auto;" />
       </td>
@@ -1428,7 +1420,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/M4CJdcJ2NFxvH-j-Crl3otzD8bmJJF7x_-kI_9KQGdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTM2/NDI0LTE2NjY2Nzk2/MTgtNjc2NC5wbmc.jpeg" alt="Cover for I Am Ghost" style="max-width:120px; height:auto;" />
       </td>
@@ -1452,7 +1444,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>35</td>
       <td>
       </td>
       <td>2022-10-25</td>
@@ -1491,7 +1483,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 78</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 82</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 88</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 97</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 97</li>
@@ -1499,7 +1491,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
       </td>
       <td>2023-03-22</td>
@@ -1518,7 +1510,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3802c7e1040b44b9a8f4a363dbea6e1d.png" alt="Cover for Chris Black Changed My Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1536,7 +1528,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3e0e571085bb36a63f03e95a80522f2.png" alt="Cover for My God!" style="max-width:120px; height:auto;" />
       </td>
@@ -1554,48 +1546,36 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 51</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>87</td>
       <td>
-          <img src="https://i.discogs.com/tycClN8s9QKk_lCzM9xwJS7wSpOyxsbQx55STgob9c4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDEw/MjUzLTE2OTIzODIx/NzItNTYwNi5qcGVn.jpeg" alt="Cover for AR" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6ae145428bde533606e5cf89912c0fd.png" alt="Cover for AR" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-08-18</td>
       <td>Addison Rae</td>
       <td>AR</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mother" | relative_url }}">mother</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 21</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 56</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 70</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 71</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 95</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 95</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 96</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 5</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 21</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 21</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 62</li>
             <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
-          <img src="https://i.discogs.com/YhYoUvGk2Ce2BWlQO2Ira-hYIEHYin38eqrrHSm6Uko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODYw/MTg3LTE3MDEwMTY1/NDgtMzg4OC5qcGVn.jpeg" alt="Cover for The Maybe Man" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20ed17a8c5b6667212a5b8d25f025fef.png" alt="Cover for The Maybe Man" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-11-10</td>
       <td>AJR</td>
@@ -1618,7 +1598,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86421de77756baec39c5dfa09f6ac60e.png" alt="Cover for Hearth Room" style="max-width:120px; height:auto;" />
       </td>
@@ -1627,8 +1607,6 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       <td>Hearth Room</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
       <td>
@@ -1637,8 +1615,9 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b58c413d0caebb40c44a052eb7d5168e.png" alt="Cover for Lost Foxes" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-12-13</td>
       <td>Lost Foxes</td>
@@ -1656,7 +1635,24 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>69</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1005ef502c156fa34c3a4e507ed16ad.png" alt="Cover for Bleachers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-03-08</td>
+      <td>Bleachers</td>
+      <td>Bleachers</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6db576307ee7bdd81056432542b6bab7.png" alt="Cover for HIT ME HARD AND SOFT" style="max-width:120px; height:auto;" />
       </td>
@@ -1671,12 +1667,12 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 19</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 63</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 23</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 64</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 74</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 82</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 83</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 88</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 93</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 94</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 99</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 100</li>
         </ul>
@@ -1703,7 +1699,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
       </td>
       <td>2024-09-06</td>
@@ -1721,7 +1717,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
@@ -1741,7 +1737,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>39</td>
       <td>
       </td>
       <td></td>
@@ -1765,25 +1761,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>kokô Cecê</td>
-      <td>Demos Realistas - EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1801,7 +1779,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1819,7 +1797,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -1840,7 +1818,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -1858,7 +1836,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -1880,7 +1858,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -1899,7 +1877,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a74a27f2e4d61b23b8cd14045b0f2c98.png" alt="Cover for Are We Up? EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1917,7 +1895,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>
@@ -1938,8 +1916,9 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5b3e0a2eee46fcfec03e6ac40aad3de.png" alt="Cover for Le Country Club" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Le Country Club</td>
@@ -1959,8 +1938,9 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f21e857103211d0b019ad5a42ce44937.png" alt="Cover for My Thin Arms" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Killbot Factory</td>
@@ -1979,7 +1959,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>32</td>
       <td>
       </td>
       <td></td>
@@ -2001,7 +1981,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>33</td>
       <td>
       </td>
       <td></td>
@@ -2022,7 +2002,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38906381bb7065139133022eb9defa72.png" alt="Cover for Odd Man Out" style="max-width:120px; height:auto;" />
       </td>
@@ -2048,8 +2028,9 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c647deab88bc245f8cac54b2dd96d96.png" alt="Cover for Schizostereoparanoia" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>AYVY</td>
@@ -2074,7 +2055,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/891125c1507e15a00e4e012a7b7e4f22.png" alt="Cover for Ounce" style="max-width:120px; height:auto;" />
       </td>
@@ -2100,7 +2081,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
       </td>
       <td></td>
@@ -2118,7 +2099,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
       </td>
       <td></td>
@@ -2137,8 +2118,9 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/020649780f0804048438b1683a59f36a.png" alt="Cover for Channel Vision" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Pleudoniem</td>
@@ -2160,7 +2142,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
       </td>
       <td></td>
@@ -2179,7 +2161,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>51</td>
       <td>
       </td>
       <td></td>
@@ -2200,8 +2182,9 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a096b8095d7679c7c4d86a5972128dff.png" alt="Cover for Sequoia" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>SVMMERCAMP</td>
@@ -2221,7 +2204,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
       </td>
       <td></td>
@@ -2243,7 +2226,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
       </td>
       <td></td>
