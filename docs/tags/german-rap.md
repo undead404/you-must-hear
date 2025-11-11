@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T04:52:51.682Z
+date: 2025-11-10T23:07:46.839Z
 permalink: tags/german-rap
 title: german rap
 ---
 
 ## german rap
 
-Last updated: <time datetime="2025-10-21T04:52:51.682Z">Tue Oct 21 2025 07:52:51 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-10T23:07:46.839Z">Tue Nov 11 2025 01:07:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -170,14 +170,15 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 9</li>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 10</li>
+            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 10</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9b8120b3a7fa215d831acf8fd744135.png" alt="Cover for 4:99" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-04-26</td>
       <td>Die Fantastischen Vier</td>
@@ -219,7 +220,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/EhbONidMp9ldH_6vuURpYHNRQLOxAAfi0AW6C3ZDsVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjM0/MTgtMTMyOTIzMTY3/Mi5qcGVn.jpeg" alt="Cover for YA HERO YA MERO" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54abe95746ef7d9b10f81594ed1a5176.png" alt="Cover for YA HERO YA MERO" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Mero</td>
@@ -242,6 +243,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b208dba8f749460085983b7a988f2dc3.png" alt="Cover for Neue Kreise" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Chaoze One</td>
@@ -261,7 +263,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/MlkIKlfl68OVJmanFeGRYXZ1TFHkU98YZy10QYjNw5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDQ4/Ni0xNDY2NTgyNTI3/LTg1NjEuanBlZw.jpeg" alt="Cover for Flash Punks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f5ad05b0a3f4c69af3d6dab015249d1.png" alt="Cover for Flash Punks" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-10-30</td>
       <td>Der Klan</td>
@@ -279,9 +281,9 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/PUMHM6B4ufvR8oGHyl2Y2jW0_YXGiaLLg2bfTBknqw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTcy/MjItMTM5NDg5MTQ5/NC0yMTk1LmpwZWc.jpeg" alt="Cover for opus magnum" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93cd524399764f64a7d43a963e2b61bb.png" alt="Cover for opus magnum" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Die L.P.</td>
@@ -320,7 +322,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/3h9UL1c-8UlX_TTLtGY1_gkJszlud-PUtPoM5YMO26A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTU5/OC0xNjIyNzEwNTE4/LTQxMTkuanBlZw.jpeg" alt="Cover for Der Neger (In Mir)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cd5e95d0ced4c6ba6069831d54dd680.png" alt="Cover for Der Neger (In Mir)" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-10-28</td>
       <td>B-Tight</td>
@@ -336,7 +338,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 32</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -456,7 +458,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/bAH4FW32Lkxe9Z9y-J2C8tv8y3aI5CFF7-rXBzmUZqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDI1/NS0xNjExNDk4NzMx/LTc0MzYuanBlZw.jpeg" alt="Cover for aggro ansage nr. 5" style="max-width:120px; height:auto;" />
       </td>
@@ -474,7 +476,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td>2004-11</td>
@@ -492,7 +494,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/PFru1pCxntrr9v5S4x67D6qNDs0GLAwiYc7BLiuG3WI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTI3/NzEtMTM0NzM5MjU4/MS02NzYzLmpwZWc.jpeg" alt="Cover for Richtfest" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b477a568da94ec48107f49f0f0b5f1d.png" alt="Cover for Richtfest" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Architekt</td>
@@ -512,6 +514,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4436f872b4db473cb54dd8f0a5aa0622.png" alt="Cover for Neue Deutsche Welle" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-02</td>
       <td>Fler</td>
@@ -530,6 +533,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00e387917b3a9537751c36fc10ee9476.png" alt="Cover for Swing Kid" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-30</td>
       <td>Galla</td>
@@ -549,6 +553,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72c9f4d2cdab43a89f550920de6322fa.png" alt="Cover for Alles Nur Aus Liebe" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-12-22</td>
       <td>King Orgasmus One</td>
@@ -567,6 +572,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1007cbd64da1c83c5b81e93c2351d339.png" alt="Cover for Halloziehnation" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-07</td>
       <td>Marsimoto</td>
@@ -585,7 +591,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/OvjnaDYqhqE43yGgg0V0tE_R03o-lSVYbNopvIhpUMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDUy/NzgtMTMwMjk1NzM2/Ni5qcGVn.jpeg" alt="Cover for Donnerwetter!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bd3b78f87b44d9fb292e8d04c583344.png" alt="Cover for Donnerwetter!" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-09-22</td>
       <td>Prinz Pi</td>
@@ -601,7 +607,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 39</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -621,13 +627,14 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 12</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d16aeba213b26c951c96e689ac0488b.png" alt="Cover for Ich" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-12-01</td>
       <td>Sido</td>
@@ -644,7 +651,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/6HnQt0REEF0IAasLr4Zv5pJwK_0T4Rgc4Wi_pGYEhQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mjk1/NjctMTMwNzgxMDIx/NS5qcGVn.jpeg" alt="Cover for Deutscher Herbst" style="max-width:120px; height:auto;" />
       </td>
@@ -664,7 +671,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/DFNdgZZtn-0c9XbdHWEevP1MEr-5s6lZWE3JQpb8xg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjE3/NTgtMTMxMjUwNDk3/OS5qcGVn.jpeg" alt="Cover for Neger, Neger X (Premium Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61af938da1e50bee0b6ad2b9bb07dbd5.png" alt="Cover for Neger, Neger X (Premium Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-27</td>
       <td>B-Tight</td>
@@ -681,7 +688,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/A2NzQ7kPjrkI6nSxh-0Z9ZqNu8FndhezqYxoNDRAx4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTA5/MDYtMTI0NDg1MTQ2/MC5qcGVn.jpeg" alt="Cover for Ekaveli" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ab7458d10a6d177d512a9cb588d69a1.png" alt="Cover for Ekaveli" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-23</td>
       <td>Eko Fresh</td>
@@ -698,7 +705,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/dHRA_QUD_nBvfp0ZWMjHB27RrW1EaTrf1iapsvZ9jtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mzk3/MjktMTQwNjg2NDYy/MC0zOTg4LmpwZWc.jpeg" alt="Cover for G8-Sampler" style="max-width:120px; height:auto;" />
       </td>
@@ -767,7 +774,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/SR9lLM96iLCdvwubUrlMV8yX8vdq57IxhncdkU9SaWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQ3/MjYtMTIxMjI2OTI0/OS5qcGVn.jpeg" alt="Cover for Ich &amp; meine Maske" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/280daa6ee3c057695c6f5a0e88007092.png" alt="Cover for Ich &amp; meine Maske" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Sido</td>
@@ -782,7 +789,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/zfR8yQHxwqL18Jc7rZl-XZpht9b-K_xU_A-j0XGIyVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE4/MDktMTI5OTg3MTA1/OS5qcGVn.jpeg" alt="Cover for KINDERKAKKE" style="max-width:120px; height:auto;" />
       </td>
@@ -804,6 +811,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/85c701d11ac24c968bf6227dfc011862.png" alt="Cover for null" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Maeckes</td>
@@ -818,7 +826,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 67</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -842,6 +850,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bc9533e02404baf80e776d1b02ba301.png" alt="Cover for Azphalt Inferno 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-09</td>
       <td>Azad</td>
@@ -860,6 +869,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ae9e9bc5bee4bccb4231bce523e9f87.png" alt="Cover for Für Dich Immer Noch Fanta Sie" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-11</td>
       <td>Die Fantastischen Vier</td>
@@ -876,8 +886,9 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4376cfe55688438f9bc2643ddc714cc7.png" alt="Cover for Muggebedürfnis" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-01</td>
       <td>Les Bummms Boys</td>
@@ -953,6 +964,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1be6514606a4b1a965575db430b6145.png" alt="Cover for Wie Indianer leben" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>SchmmOOs</td>
@@ -1019,9 +1031,9 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/7Pv9TnJuixiezDkbElMiKMvk5H9MY6h8Q8s0FC71qAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODIx/NjQtMTMyMzgwOTMz/NS5qcGVn.jpeg" alt="Cover for Ein Sturm aus Nordost" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4bab4f0864b4588ac1c39c48241e0e7.png" alt="Cover for Ein Sturm aus Nordost" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-01</td>
       <td>Pussi</td>
@@ -1041,9 +1053,9 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/mbGok14ivET8SrjTAtuDLeRnus4_hnWIA6iFs8wdjDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODIw/NzctMTMyMzgwNjUz/NC5qcGVn.jpeg" alt="Cover for Komm tanzen!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bba58b7f79ad4859a18f4f4cb3e63912.png" alt="Cover for Komm tanzen!" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-01</td>
       <td>Pussi</td>
@@ -1063,9 +1075,9 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/iGJrApipR55Pp5lLOrs0tBdWiYPRsYeYKf1cLXWDu0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODE5/ODEtMTMyMzgwMjM1/My5qcGVn.jpeg" alt="Cover for König Der Reime" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8755bde8b7e84147bf1fe9ac154ad2e4.png" alt="Cover for König Der Reime" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-03</td>
       <td>Sickn</td>
@@ -1085,9 +1097,9 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/VyYLckH5h6NkRzbqXtAyb0WNSH89EmgQ9PH70_HfrL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODIw/MjItMTMyMzgwNDQx/OC5qcGVn.jpeg" alt="Cover for Spuren Im Sand" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1475cc9ca2e44acaf2d3e316edb1b5c.png" alt="Cover for Spuren Im Sand" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-07</td>
       <td>Cmfdr</td>
@@ -1109,6 +1121,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfcce897050d40bb86ecd288b7a7328c.png" alt="Cover for Die Heiligen Rollen (Diamant Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Absztrakkt</td>
@@ -1130,7 +1143,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/sacgTXphzlGnpn_sxELCbA4N6z1x5QaFIR8KixW6k4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODkx/MjUtMTM0NDQ2Nzky/Ni05MTEwLmpwZWc.jpeg" alt="Cover for Floweffekt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dda2ae55b064c459636b395c3f6321e.png" alt="Cover for Floweffekt" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>slowy</td>
@@ -1165,7 +1178,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 35</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1190,7 +1203,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/f1WwliPLApIidUjMRFUcuQ6iFzwh6MI5j55JdAZiVMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjY3/MzktMTM1MjgwMTkw/Ni00Mzc0LmpwZWc.jpeg" alt="Cover for Weil ich ein Mädchen bin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6280587a3170e0480d3152d909ab382f.png" alt="Cover for Weil ich ein Mädchen bin" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-09</td>
       <td>Lumaraa</td>
@@ -1275,7 +1288,6 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/eoDpP808XLz-Om2x5on7KQ7vm2veBcIAfRHfg5uSsvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjkw/OTItMTQ3OTM3NTU0/OS05MDc4LmpwZWc.jpeg" alt="Cover for Hol doch die Polizei" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-11</td>
       <td>Sido</td>
@@ -1291,13 +1303,14 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 34</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/751fc61d9566405f82843c647f1fea39.png" alt="Cover for Meine Soldaten" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-03</td>
       <td>Maxim</td>
@@ -1346,11 +1359,11 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 2</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 35</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 10</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 36</li>
             <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 71</li>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 75</li>
             <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 75</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 76</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 88</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 90</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 96</li>
@@ -1436,9 +1449,9 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/rog35gCHCW61_2KgE9a_wNwpY7M-x608I9D8YiRytxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjc2/OTgtMTQzMjk1MDUw/Ny05NzAyLmpwZWc.jpeg" alt="Cover for Lebenslust" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c6515839c7283631d79f60133d651f8.png" alt="Cover for Lebenslust" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-27</td>
       <td>Chima Ede</td>
@@ -1460,7 +1473,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/Ui70afll5CMWNgm6khN6s7iMfCqkrroZj5Ht6QYDmEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NzI1/MTQtMTQ0NjQxMTk4/My00NTA5LmpwZWc.jpeg" alt="Cover for Angst &amp; Amor" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d04d771994a85ac859e5fd270f625e4e.png" alt="Cover for Angst &amp; Amor" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-29</td>
       <td>juse ju</td>
@@ -1476,7 +1489,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 19</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1496,14 +1509,14 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 51</li>
+            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/-Z8IuR2lEL_5pAmoaHStv8lc0Wa2YCFWut9eOv-6Zo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzQ5/MTkyLTE2MTUyMTA5/NTctMjcwOS5qcGVn.jpeg" alt="Cover for 2023 EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7e88a13fb038f5f3e0688e7bf7bfebd.png" alt="Cover for 2023 EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Chima Ede</td>
@@ -1539,12 +1552,12 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 37</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/ODwCwq3ppCGFoe2t2AnVIIf6WkND-XTmc-s19e1v3zc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjc2/MzItMTQ2MDIzMDQz/OS03MDUxLmpwZWc.jpeg" alt="Cover for 50&#x2F;50" style="max-width:120px; height:auto;" />
       </td>
@@ -1564,7 +1577,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/NtqT2iTfFY4Xej29ZaeyxL4IpNaSyugWfBWpk3tD9xw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Nzcy/MzUtMTQ2NjQyNjkz/MC03NzAxLmpwZWc.jpeg" alt="Cover for Erwartungen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5660069a592451f12fe9b0dd8296de69.png" alt="Cover for Erwartungen" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-10</td>
       <td>Team Avantgarde</td>
@@ -1584,7 +1597,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/jX4LT1TNrLHwNd6S4D88AQh97TUE6MVEhAKCVBCuVOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODA4/MjgtMTQ4NjczODYz/NC02MDU0LmpwZWc.jpeg" alt="Cover for Wer hat das Gras weggeraucht? (Deluxe Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/942e5bc6c3ae9a5bdcd9960da057b7e1.png" alt="Cover for Wer hat das Gras weggeraucht? (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-03</td>
       <td>B-Tight</td>
@@ -1606,7 +1619,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/Te9GSir-NLrd7o3gna7Ix-bRwQCFaRGYnzHxuGdMx3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQx/MjA2LTE0OTU2Mzg4/NDMtNDMwNC5qcGVn.jpeg" alt="Cover for Roswell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5ee7e061bbd1737b7cd1da57a2f9fc3.png" alt="Cover for Roswell" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-26</td>
       <td>Marteria</td>
@@ -1622,7 +1635,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 85</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1651,19 +1664,32 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/1p547LFS-xWxEBkQkO_LgpW3WAxrVeQg61JFeriRP_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjI1/MTM2LTE2MDQ4NjA1/MzQtOTE1OS5qcGVn.jpeg" alt="Cover for Weiszes Kaninchen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c0bd2f28d8839a5a4fccd6daafb3ba9.png" alt="Cover for Powerbausa" style="max-width:120px; height:auto;" />
       </td>
-      <td>2018</td>
-      <td>Komplott</td>
-      <td>Weiszes Kaninchen</td>
+      <td>2018-02-09</td>
+      <td>Bausa</td>
+      <td>Powerbausa</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ab84d8e9ff95567764aaf1ffbe74fe7.png" alt="Cover for Anthrazit RR" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-02-22</td>
+      <td>RAF Camora</td>
+      <td>Anthrazit RR</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -1674,6 +1700,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e1b237316bb3ecc30e9e0e24f16982d.png" alt="Cover for A.i.d.S. ROYAL" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-23</td>
       <td>B-Tight</td>
@@ -1695,7 +1722,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/X-xCjdGLtet1UOsLhBMAMtMWrAy8HvtctLzO4LBywtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzg4/MjkwLTE1MzEzNzA2/NDctMTkxMS5qcGVn.jpeg" alt="Cover for Alter Ego II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31a056e6bc3f4541cfd7c26af4b825d1.png" alt="Cover for Alter Ego II" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-03-02</td>
       <td>Fard</td>
@@ -1717,7 +1744,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/onuM6jEX067z0DwB8NjX4gm2ASNzZlc5VdKJScIC-C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjIx/ODI1LTE1MzA4MDg0/MDMtNTQ4NC5qcGVn.jpeg" alt="Cover for Erde &amp; Knochen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb5c0c32bf37d8f7518df43cb0f37b7b.png" alt="Cover for Erde &amp; Knochen" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-11</td>
       <td>Kontra K</td>
@@ -1733,14 +1760,14 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 28</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/onuM6jEX067z0DwB8NjX4gm2ASNzZlc5VdKJScIC-C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjIx/ODI1LTE1MzA4MDg0/MDMtNTQ4NC5qcGVn.jpeg" alt="Cover for Erde &amp; Knochen (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e40069f2ab3d9f4bfad0546e0d8b25b7.png" alt="Cover for Erde &amp; Knochen (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-11</td>
       <td>Kontra K</td>
@@ -1756,33 +1783,14 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 70</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/EQxyV6hJM1oX8FheLpVEpcSGBAynntQd__dnVYcSdV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTU1/NDc3LTE1NzcxMjM2/OTQtMjI4Mi5qcGVn.jpeg" alt="Cover for Alles fürn Füffi" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-05-18</td>
-      <td>füffi</td>
-      <td>Alles fürn Füffi</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/n1QZ5G6dQ5QnZuH0C2TaV4eA6Y3mr_Rd1_NlyZAHcjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDYx/NTI5LTE2MjI3MDc1/ODctNzMwNi5qcGVn.jpeg" alt="Cover for 1982" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6500688bfa786229ab4dcc80e62bd72b.png" alt="Cover for 1982" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-31</td>
       <td>Marteria &amp; Casper</td>
@@ -1802,9 +1810,9 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/um0M0ZKIVWYJH3tB0p4kxNRcvg_mcwhix1-vxZqGImU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTEy/OTc5LTE1MzY3NDg5/MTYtOTU0Ny5qcGVn.jpeg" alt="Cover for 10419" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b4751a834e304452e48303f31cd1e77.png" alt="Cover for 10419" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-07</td>
       <td>Cro, Trettmann &amp; KitschKrieg</td>
@@ -1819,9 +1827,9 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/Zs4p362LVd9iGzDecTMme8Y-2_KpG_vbm1yJaZNNKxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTQw/MzQwLTE2NDA4NzA1/NjQtNDgyNS5qcGVn.jpeg" alt="Cover for Sunfood" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f20621158bb04051a9f8f2593ade3a54.png" alt="Cover for Sunfood" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Akord</td>
@@ -1874,7 +1882,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/qQPZuErXi0PA3r7iot2mn5STQXaWfsJ_WGyKrebL2ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQy/MDY5LTE1NjAxNjE0/MTQtNTE4Ny5qcGVn.jpeg" alt="Cover for Colucci" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb9cea5dd8d8d2fd23b0f9bf4d64c8bb.png" alt="Cover for Colucci" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-29</td>
       <td>Fler</td>
@@ -1889,14 +1897,14 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 1</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/tkd6ZHnbgTURcv-7AU1ynFZgyl6Nb6kYWnm_ev0PDx0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODI4/ODcxLTE1NjIwNDkx/NDktMzMyMS5qcGVn.jpeg" alt="Cover for Vanilla Sky" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ac3fb957e40f75f2ec5051ee195ddd7.png" alt="Cover for Vanilla Sky" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-28</td>
       <td>Hanybal</td>
@@ -1911,14 +1919,14 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 4</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/6bDTIEjjJD_hXr-toRLDZdUkUT6zBgaOUUmNN7x-GEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQ1/ODg2LTE1NzEwNzM1/OTYtMjM3MC5qcGVn.jpeg" alt="Cover for 9010" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd5d4b4f5b4ef750b0686cadd47d448f.png" alt="Cover for 9010" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-10</td>
       <td>Kummer</td>
@@ -1934,14 +1942,14 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 29</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/D9i5aBbzVBt2sSc-kGfwMLzrkmdirsq8i_bTKjodu_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjM2/NDU3LTE1ODg0OTAw/NzMtMTY3MC5qcGVn.jpeg" alt="Cover for In meiner Zone 2.0" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9ee5dbb2d7caa4becfcfd33e8e93baf.png" alt="Cover for In meiner Zone 2.0" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-31</td>
       <td>RAF Camora</td>
@@ -1957,15 +1965,15 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 20</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 23</li>
             <li> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/mDBf10BcsGClJzbFi8CK1OnxBeqxqfRZwil3A7gx-as/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjUy/NTAyLTE2Mzg4MTY1/MjUtMTE5Ni5qcGVn.jpeg" alt="Cover for Raumschiff" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae8c40e75d183ca96da1d50dc96737c4.png" alt="Cover for Raumschiff" style="max-width:120px; height:auto;" />
       </td>
       <td>2020</td>
       <td>White Maze</td>
@@ -2077,7 +2085,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/0vUSwlqph7d-_tZfEb35cM7k0xvtU5GIEEEYdB_SQoc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE5/MDgyLTE0OTM1ODgw/NjEtODU0NC5qcGVn.jpeg" alt="Cover for Letzte Träne" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/501447c0c63467f22da125c4c04b2d31.png" alt="Cover for Letzte Träne" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-06-01</td>
       <td>Kontra K</td>
@@ -2097,7 +2105,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -2212,8 +2220,9 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4d6d6ffbe9fa1b6850c5ad695be2775.png" alt="Cover for Wiederbelebt" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>ScreamOut</td>
@@ -2233,7 +2242,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -2251,7 +2260,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -2271,8 +2280,9 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/040b5e7d1b0a449e830009c1d0b5cbc3.png" alt="Cover for Battle24find Songbuch" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>dimoe</td>
@@ -2291,7 +2301,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -2309,7 +2319,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -2332,7 +2342,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
       </td>
       <td></td>
@@ -2351,8 +2361,9 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06a58f27c9960617723e363662a56fa7.png" alt="Cover for Vergangene Zukunft" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Gravity Killaz</td>
@@ -2373,7 +2384,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>
@@ -2391,7 +2402,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
       </td>
       <td></td>
@@ -2408,8 +2419,9 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68942d1df68e45e3b599a0c410e4cdf3.png" alt="Cover for Nur noch einmal" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Käpt&#x60;n Hook</td>
@@ -2540,8 +2552,9 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48632ab7df38ae79599dc0de4a2ec504.png" alt="Cover for Standard" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>KitschKrieg feat. Trettmann, Gringo, Ufo361 &amp; Gzuz</td>
