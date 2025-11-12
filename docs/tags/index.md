@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-11T19:28:04.019Z
+date: 2025-11-11T19:29:53.325Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-11T19:28:04.019Z">Tue Nov 11 2025 21:28:04 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T19:29:53.325Z">Tue Nov 11 2025 21:29:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [garage rock]({{ "tags/garage-rock" | relative_url }}) | <time datetime="2025-11-11T19:29:53.325Z">Tue Nov 11 2025 21:29:53 GMT+0200 (Eastern European Standard Time)</time> |
+| [experimental techno]({{ "tags/experimental-techno" | relative_url }}) | <time datetime="2025-11-11T19:29:24.918Z">Tue Nov 11 2025 21:29:24 GMT+0200 (Eastern European Standard Time)</time> |
 | [disco house]({{ "tags/disco-house" | relative_url }}) | <time datetime="2025-11-11T19:28:04.019Z">Tue Nov 11 2025 21:28:04 GMT+0200 (Eastern European Standard Time)</time> |
 | [industrial metal]({{ "tags/industrial-metal" | relative_url }}) | <time datetime="2025-11-11T19:10:18.176Z">Tue Nov 11 2025 21:10:18 GMT+0200 (Eastern European Standard Time)</time> |
 | [nu-bluz]({{ "tags/nu-bluz" | relative_url }}) | <time datetime="2025-11-11T19:10:06.159Z">Tue Nov 11 2025 21:10:06 GMT+0200 (Eastern European Standard Time)</time> |
@@ -352,7 +354,6 @@ Last updated: <time datetime="2025-11-11T19:28:04.019Z">Tue Nov 11 2025 21:28:04
 | [oakland]({{ "tags/oakland" | relative_url }}) | <time datetime="2025-11-08T19:48:47.357Z">Sat Nov 08 2025 21:48:47 GMT+0200 (Eastern European Standard Time)</time> |
 | [polski hip hop]({{ "tags/polski-hip-hop" | relative_url }}) | <time datetime="2025-11-08T19:48:39.421Z">Sat Nov 08 2025 21:48:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [european]({{ "tags/european" | relative_url }}) | <time datetime="2025-11-08T19:48:13.139Z">Sat Nov 08 2025 21:48:13 GMT+0200 (Eastern European Standard Time)</time> |
-| [garage rock]({{ "tags/garage-rock" | relative_url }}) | <time datetime="2025-11-08T19:47:44.909Z">Sat Nov 08 2025 21:47:44 GMT+0200 (Eastern European Standard Time)</time> |
 | [future house]({{ "tags/future-house" | relative_url }}) | <time datetime="2025-11-08T19:46:51.937Z">Sat Nov 08 2025 21:46:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [soul jazz]({{ "tags/soul-jazz" | relative_url }}) | <time datetime="2025-11-08T19:43:45.955Z">Sat Nov 08 2025 21:43:45 GMT+0200 (Eastern European Standard Time)</time> |
 | [acoustic guitar]({{ "tags/acoustic-guitar" | relative_url }}) | <time datetime="2025-11-08T19:41:48.600Z">Sat Nov 08 2025 21:41:48 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1280,7 +1281,6 @@ Last updated: <time datetime="2025-11-11T19:28:04.019Z">Tue Nov 11 2025 21:28:04
 | [chillwave]({{ "tags/chillwave" | relative_url }}) | <time datetime="2025-10-20T02:51:55.810Z">Mon Oct 20 2025 05:51:55 GMT+0300 (Eastern European Summer Time)</time> |
 | [bro-country]({{ "tags/bro-country" | relative_url }}) | <time datetime="2025-10-20T02:51:35.079Z">Mon Oct 20 2025 05:51:35 GMT+0300 (Eastern European Summer Time)</time> |
 | [eurovision]({{ "tags/eurovision" | relative_url }}) | <time datetime="2025-10-20T01:54:42.860Z">Mon Oct 20 2025 04:54:42 GMT+0300 (Eastern European Summer Time)</time> |
-| [experimental techno]({{ "tags/experimental-techno" | relative_url }}) | <time datetime="2025-10-19T02:53:34.624Z">Sun Oct 19 2025 05:53:34 GMT+0300 (Eastern European Summer Time)</time> |
 | [irish folk]({{ "tags/irish-folk" | relative_url }}) | <time datetime="2025-10-19T02:36:38.447Z">Sun Oct 19 2025 05:36:38 GMT+0300 (Eastern European Summer Time)</time> |
 | [klezmer]({{ "tags/klezmer" | relative_url }}) | <time datetime="2025-10-19T02:20:07.170Z">Sun Oct 19 2025 05:20:07 GMT+0300 (Eastern European Summer Time)</time> |
 | [sheffield]({{ "tags/sheffield" | relative_url }}) | <time datetime="2025-10-19T02:04:10.887Z">Sun Oct 19 2025 05:04:10 GMT+0300 (Eastern European Summer Time)</time> |
