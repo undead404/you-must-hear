@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-30T08:04:02.201Z
+date: 2025-11-11T19:28:04.019Z
 permalink: tags/disco-house
 title: disco house
 ---
 
 ## disco house
 
-Last updated: <time datetime="2025-10-30T08:04:02.201Z">Thu Oct 30 2025 10:04:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T19:28:04.019Z">Tue Nov 11 2025 21:28:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/2o-LWUq0ExSLWI_7odOSXZTcZwZp_jL3apGOO-Fv9uU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjMx/NC0xMzc1NjgyMjQ2/LTkyMzEuanBlZw.jpeg" alt="Cover for Good Times I&#39;m In Love (feat. Adjäna)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1c7593c188e4cca863c4bedfa88dc17.png" alt="Cover for Good Times I&#39;m In Love (feat. Adjäna)" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Cerrone</td>
@@ -70,7 +70,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/qjq9P8eNP2QRsDKxyUlH6EAy0pUuFjOFebJezOMJPwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTYw/ODMtMTQzMTI4MjI5/OC0zOTQ5LmpwZWc.jpeg" alt="Cover for ONLY FOR YOU" style="max-width:120px; height:auto;" />
       </td>
@@ -147,7 +147,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/fY9Jz_CyYVN0WqBPp6mX2Ce1MOZwG22j9rBppKcqaog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTEw/MTEtMTM0ODk0Mjkw/MC01NTE3LmpwZWc.jpeg" alt="Cover for Syntra" style="max-width:120px; height:auto;" />
       </td>
@@ -191,7 +191,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 42</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 43</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 74</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 84</li>
         </ul>
@@ -221,6 +221,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efb6566fea604dc9cdbfacced3e2599e.png" alt="Cover for Star" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-02-23</td>
       <td>Funky Green Dogs</td>
@@ -244,7 +245,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/uh5Xu12zZMr9SC6b-G5f4qkbGWIGdNhwX2bkvFnkrKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODYz/OTMtMTIzOTU2MzEx/OC5qcGVn.jpeg" alt="Cover for Never" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c1382fe9802427dace54b62b73606a3.png" alt="Cover for Never" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-07-18</td>
       <td>Kristine W.</td>
@@ -264,8 +265,9 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f0e5d7ccba0638d5b1113e6c0363cf8.png" alt="Cover for Come On Down" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Crystal Waters</td>
@@ -301,7 +303,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/1_xazAj1u06quD3-XIcD_DrEwcTHNR4QggQCi1FeRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDc2/NTEtMTI3MjIwNjQ4/MC5qcGVn.jpeg" alt="Cover for Corporate Butcher" style="max-width:120px; height:auto;" />
       </td>
@@ -340,7 +342,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 5</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 34</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 31</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 36</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 42</li>
         </ul>
@@ -385,9 +387,9 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 60</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 61</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 63</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 82</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 81</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 85</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 90</li>
         </ul>
@@ -415,62 +417,9 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/QwrMLeSb3mrl5SqrxJgjKwF-hq1WJSkGnc6RLDHQ-So/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDMx/LTE0Njg1OTU3MzQt/NzQ0NS5qcGVn.jpeg" alt="Cover for Journeys By DJ: Desert Island Mix" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002-11-11</td>
-      <td>Gilles Peterson</td>
-      <td>Journeys By DJ: Desert Island Mix</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 23</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 34</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/c9-WUr47NGRAY_8yvopevYMc2jjrfGpAgGA4OTUxoXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzA5/ODctMTMwOTg2ODIz/Mi5qcGVn.jpeg" alt="Cover for All my life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee448f74eabe20b1f3edb4a06beb27ef.png" alt="Cover for All my life" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-02-04</td>
       <td>Jocelyn Enriquez</td>
@@ -490,7 +439,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/r6tZMtS-f446wVUllrck3w1-QzTVeCFtSjyDqcYtpgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDI3/OTEtMTMzODU3NjMy/Mi05MDA4LmpwZWc.jpeg" alt="Cover for White album" style="max-width:120px; height:auto;" />
       </td>
@@ -581,7 +530,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/NXBPYjlhLlu1u_KrBKwlQB-W_iz5DCStn35wyijlJlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODMx/OS0xMjA1NTIxMjA4/LmpwZWc.jpeg" alt="Cover for Shine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c3d2af687c64fb789f25d9a365a843b.png" alt="Cover for Shine" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-01-24</td>
       <td>The Lovefreekz</td>
@@ -603,7 +552,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/aoG5xvlXSpk-UE9WA_0FB9dbeV3IXzX0tsh73cwqTGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDk5/NS0xMTIzMzMzNDU2/LmpwZw.jpeg" alt="Cover for Come Rain Come Shine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/797270bd376b4708a5c6e4663431e64f.png" alt="Cover for Come Rain Come Shine" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-14</td>
       <td>Jenn Cuneta</td>
@@ -644,7 +593,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/-qFWpuOcL66DGYcTR_udhsvTfRBwjIvnL43_6qKxiCA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzI3/Ni0xMTY3MzEwMjk5/LmpwZWc.jpeg" alt="Cover for Makeshift Feelgood" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ddf78c58f914eff892d5813990065b2.png" alt="Cover for Makeshift Feelgood" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-24</td>
       <td>X-Press 2</td>
@@ -712,6 +661,23 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2979a672d507c98f308b720cd479211e.png" alt="Cover for Soundboy Rock" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-05-04</td>
+      <td>Groove Armada</td>
+      <td>Soundboy Rock</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>27</td>
       <td>
           <img src="https://i.discogs.com/v0iwAkwaOaqA4gle1-DDXJrB7DJxXud5uiYEGXxXGT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njk2/My0xMTgyMjQ5MzQ2/LmpwZWc.jpeg" alt="Cover for All Nite &#x2F; Happy Happy" style="max-width:120px; height:auto;" />
@@ -768,8 +734,9 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db14fd769040448cb01bcd14930369dd.png" alt="Cover for Pop Glam" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Groove State</td>
@@ -799,6 +766,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/853c4a3b7ac04a9abd26406ecd6d9086.png" alt="Cover for Celebrate!" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Cerrone</td>
@@ -874,7 +842,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/05rf67T_pw81C6-iV8gBjVDJ4jjBb5JoSpnyKjo9Coo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQ5/NzMtMTI1NjEyMTcw/OS5qcGVn.jpeg" alt="Cover for ca295 - Yoko Absorbing - Vinyl" style="max-width:120px; height:auto;" />
       </td>
@@ -907,7 +875,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/SqsJxg3HurggpG1vcNFPmO4xEnm_CrSxyJ_iePT4FWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDI4/NjctMTI1Nzg5OTI4/My5qcGVn.jpeg" alt="Cover for The Genius of Maximilian Skiba" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94041b23ce794c2b56f9b8eb84262142.png" alt="Cover for The Genius of Maximilian Skiba" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11</td>
       <td>Maximilian Skiba</td>
@@ -929,7 +897,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/-RcCcXEAyHGvGxSsL694-a3UyzTgJNTj5WbUS7XFWYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NzIt/MTI4NDU0Njg4My5q/cGVn.jpeg" alt="Cover for Shakedown 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8cbfc44a5a84a0cba535d8de8a5452b.png" alt="Cover for Shakedown 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Jamiroquai</td>
@@ -975,6 +943,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac305b44f705499abbc157ae76291172.png" alt="Cover for Greatest Hits EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-18</td>
       <td>Duck Sauce</td>
@@ -992,7 +961,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/S4Rd99xq2gyEhXeU34ep7auZRnILAE4ffvxhBmDNMak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTA3/MjctMTM4NTg3MDgz/My0yMTExLmpwZWc.jpeg" alt="Cover for Beats Of My Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1024,7 +993,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/O5rZhbB5AD09OCG3YQ7B5iFkKD5OQpiQgDkDIEDvAC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzE2/Njg3LTE2MzUxMDMy/NzctMjEyNy5qcGVn.jpeg" alt="Cover for A Perfect Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1130,7 +1099,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/hVzgYgKn_iu_wTBAy8SiWIALE5EvJ-q8xXTmIMX6jHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTYz/MDYtMTQ0MzEwMTEz/MS01NDI3LmpwZWc.jpeg" alt="Cover for Lift Me Ep" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7b938fba5a64a44955e685d47d3edf1.png" alt="Cover for Lift Me Ep" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-08</td>
       <td>Treasure Fingers</td>
@@ -1149,7 +1118,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/r_JbWmCCmVphlwrs-grgmtRdXMvL-lzDo98k4L96C_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTYw/NjgtMTI5MjMyNzA3/My5qcGVn.jpeg" alt="Cover for Full Length" style="max-width:120px; height:auto;" />
       </td>
@@ -1187,7 +1156,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/AohF_l7l03BmX8cqUI7un4TZpi84x4oWG_fO1wpVgXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODk5/MDYtMTMxMDY2MzQ0/Mi5qcGVn.jpeg" alt="Cover for Jona Vark" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32b7756e26e54ce2babc214a5cf4372d.png" alt="Cover for Jona Vark" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Gypsy &amp; The Cat</td>
@@ -1227,7 +1196,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/NkuUdkGVxHTqQ1mF7oixv_60GSDOHmW55NMdiHtAOso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEz/ODctMTM0MjExNDc5/Ny01OTEwLmpwZWc.jpeg" alt="Cover for Beach House 2002" style="max-width:120px; height:auto;" />
       </td>
@@ -1247,7 +1216,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/NkuUdkGVxHTqQ1mF7oixv_60GSDOHmW55NMdiHtAOso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEz/ODctMTM0MjExNDc5/Ny01OTEwLmpwZWc.jpeg" alt="Cover for Pure Kandi" style="max-width:120px; height:auto;" />
       </td>
@@ -1330,6 +1299,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d902721a063e4e6b936e615377bd8672.png" alt="Cover for Love Story" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-20</td>
       <td>Mix Chopin</td>
@@ -1413,7 +1383,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/q5A75-r9TYSrEs44eIUEzh_76h200LtolalIAQhBPyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDYz/ODMtMTM2OTc1Mjky/My02MjY2LmpwZWc.jpeg" alt="Cover for Take You On A Ride" style="max-width:120px; height:auto;" />
       </td>
@@ -1480,6 +1450,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2945d3d0595b4000828a51c28a06f0af.png" alt="Cover for Finale" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-16</td>
       <td>Madeon</td>
@@ -1496,8 +1467,8 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 26</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 93</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 29</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 94</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 100</li>
         </ul>
       </td>
@@ -1539,15 +1510,15 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 63</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 93</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 65</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/FcU0FjIzIOaVZYQ6w2udl5Q708jxFn2n0fApLZ77jfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTc3/NTQtMTM1NTE0OTI5/Ni01MTYyLmpwZWc.jpeg" alt="Cover for Lunar Escape" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48f1d2a42c754400c4ae687355ff2e4a.png" alt="Cover for Lunar Escape" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-10</td>
       <td>Psychemagik</td>
@@ -1580,7 +1551,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 2</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 3</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 20</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 49</li>
         </ul>
@@ -1624,8 +1595,8 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 44</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 73</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 45</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 74</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 75</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 86</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 89</li>
@@ -1678,6 +1649,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3672e5e781324be8afe7f1760d7bb088.png" alt="Cover for Hi Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-07</td>
       <td>Monkey Safari</td>
@@ -1705,9 +1677,26 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 66</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 67</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 91</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42b3ef00cb4a49cfc9342c0bf363de2d.png" alt="Cover for Dangerous Intentions" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-07-26</td>
+      <td>Patterns</td>
+      <td>Dangerous Intentions</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1741,10 +1730,10 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 4</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 6</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 32</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 39</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 40</li>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 49</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 66</li>
         </ul>
       </td>
@@ -1786,14 +1775,15 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 53</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 83</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 3</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 12</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 54</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 84</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 84</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 90</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 97</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 97</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 98</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 98</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 98</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 99</li>
         </ul>
       </td>
@@ -1801,7 +1791,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/gqW6Lp_7e7lPj9tHTT4bwqn9XLhc-aIOtsY-_AA0IXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTEz/NDItMTM5OTEwMzA2/Ni0zMjAxLmpwZWc.jpeg" alt="Cover for WOLFEP023" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05039c18c4104c17cc3344dce839d02c.png" alt="Cover for WOLFEP023" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-10</td>
       <td>Casino Times</td>
@@ -1829,7 +1819,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 13</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 15</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 47</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 69</li>
         </ul>
@@ -1908,11 +1898,11 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 4</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 5</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 15</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 24</li>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 27</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 43</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 47</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 44</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 50</li>
         </ul>
       </td>
@@ -1920,7 +1910,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/3_xn8AIxqazkFT6cxfnpfVWuJVHa6I16WPiFl95llhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg2/ODkwLTE1MzYyNTE2/NzUtNjI5Ni5qcGVn.jpeg" alt="Cover for What Am I Supposed to Do" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cc88e88468348508eaa68c1f2ad9038.png" alt="Cover for What Am I Supposed to Do" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-07-07</td>
       <td>Treasure Fingers</td>
@@ -1953,7 +1943,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 32</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -2001,7 +1991,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 49</li>
+            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 50</li>
             <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 66</li>
         </ul>
       </td>
@@ -2056,7 +2046,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/N8iRMHQyajYAJjlddu64G4j3W_6qEt2p-GQ24tdtkd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDY3/MjczLTE1OTIwMDUw/NDItNTY0MS5qcGVn.jpeg" alt="Cover for It&#39;s Gonna Be, What I Feel" style="max-width:120px; height:auto;" />
       </td>
@@ -2069,15 +2059,15 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 20</li>
+            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 18</li>
             <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/KkHdinM1Mmj2mULcmE6L3iKe2BtoRslFeYLHuYK3d44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzcw/ODY5LTE2NDI0MDMx/MDQtNDk2NC5qcGVn.jpeg" alt="Cover for It Feels Like" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e539e446b4cb7b79daf39c31d43a782.png" alt="Cover for It Feels Like" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-31</td>
       <td>Never Dull</td>
@@ -2157,7 +2147,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/oOb4fxFmP1FlGJt4N4S34bWApn0iKNeyCuhQcZvOjRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA4/MDA4LTE2NTk3MDA5/OTAtMzgzNS5qcGVn.jpeg" alt="Cover for Good Feelings EP" style="max-width:120px; height:auto;" />
       </td>
@@ -2175,13 +2165,13 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 32</li>
+            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 31</li>
             <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/rfLxFuASfblLhnPG5-TnKpxDrRj3wMeSHX2dpLK9Y9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIx/OTI1LTE2MjY0OTgy/MDctMTIyNy5qcGVn.jpeg" alt="Cover for Hed Kandi Twisted Disco 2012" style="max-width:120px; height:auto;" />
       </td>
@@ -2215,7 +2205,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/4GC_FiAca9gevZ9xeRAOmbjjCWv5_25GTW76L_UMuaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDMx/NTAtMTMxMTI0NjQz/MS5qcGVn.jpeg" alt="Cover for Impulsive! Revolutionary Jazz" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ea7865ffccc45d8ab53e694278a2281.png" alt="Cover for Impulsive! Revolutionary Jazz" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -2273,13 +2263,13 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 43</li>
+            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 44</li>
             <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -2300,7 +2290,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 2</li>
-            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 27</li>
+            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -2357,36 +2347,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
-      <td>stugee music</td>
-      <td>white label (2008)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdd03b5306d13a02be16c57dcfd6106b.png" alt="Cover for It&#39;s Okay" style="max-width:120px; height:auto;" />
       </td>
@@ -2409,8 +2370,9 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7739130047387df0e78a808c990fe30c.png" alt="Cover for Cadillac" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Prepschool</td>
@@ -2436,7 +2398,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2b8ac313b7344ec26ac3dc27e723c3a.png" alt="Cover for Free Falling" style="max-width:120px; height:auto;" />
       </td>
@@ -2459,7 +2421,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -2477,7 +2439,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
       </td>
       <td></td>
