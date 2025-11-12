@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-10T18:16:24.413Z
+date: 2025-11-12T02:02:47.043Z
 permalink: tags/liverpool
 title: liverpool
 ---
 
 ## liverpool
 
-Last updated: <time datetime="2025-11-10T18:16:24.413Z">Mon Nov 10 2025 20:16:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-12T02:02:47.043Z">Wed Nov 12 2025 04:02:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
   </thead>
   <tbody>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
-          <img src="https://i.discogs.com/hsQJDfkchPoC1AwluJiI3ue9dGeOhXBFy53tIx-J7vw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDgx/NjktMTQwMDI2OTc3/NC05MTUyLmpwZWc.jpeg" alt="Cover for At The Cavern" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0adea5303aa84a75a8f69b49ee72d241.png" alt="Cover for At The Cavern" style="max-width:120px; height:auto;" />
       </td>
       <td>1963-11-22</td>
       <td>The Big Three</td>
@@ -49,7 +49,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/u8kixoIUuMdtDQ_1bowb4rT7vCVRzafmDGsUrEAdEm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzQ3/NDktMTM1NDgyNDE4/NC0xODY2LmpwZWc.jpeg" alt="Cover for I Think Of You" style="max-width:120px; height:auto;" />
       </td>
@@ -70,7 +70,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/OqFnrIiHAjVcitmq8UBkpX245fiQ2L4Hn9EauInR1yI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjI5/ODEtMTQ3MDMzMDc5/MS00MjE0LnBuZw.jpeg" alt="Cover for ...At Abbey Road" style="max-width:120px; height:auto;" />
       </td>
@@ -90,7 +90,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/ERi3YTDQqOwcG3WHo2O0EajIJFmbloYWSuFGRvvsjGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE5/MjYzLTE1MDEwNjky/NjYtOTAwMS5qcGVn.jpeg" alt="Cover for Maggie May" style="max-width:120px; height:auto;" />
       </td>
@@ -111,7 +111,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/8qjavD4TyIor4fS99s9HuS52Dv_eDWxhFKu5uS4mpQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzMz/OTAtMTI4Mjk5OTUw/My5qcGVn.jpeg" alt="Cover for Koobas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9ddc230fb10c1b02057876154115f58.png" alt="Cover for Koobas" style="max-width:120px; height:auto;" />
       </td>
       <td>1969-01</td>
       <td>The Koobas</td>
@@ -129,7 +129,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/xIFzbJeSV52aUdK-o1yp0FnbDABTJsMgtKTmOXI70vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTQ0/NzktMTM2NTY0NjIy/MS02ODgyLmpwZWc.jpeg" alt="Cover for Swallow the Anchor" style="max-width:120px; height:auto;" />
       </td>
@@ -147,7 +147,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/DBd47DTMPfWaAzOjk8vRDCwFg_oas5ZI_sF8YQ8Smt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjM1/NzItMTYwMjQxMTQ3/NS0yODY1LmpwZWc.jpeg" alt="Cover for Vibe E.P 2009" style="max-width:120px; height:auto;" />
       </td>
@@ -166,7 +166,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/qvDrt6z-Do4DS7ThxE40bqAWjrvIBkwOP3M7R4NiBSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzM4/MDYtMTI1MzQzMjY5/Ny5qcGVn.jpeg" alt="Cover for One For The M6" style="max-width:120px; height:auto;" />
       </td>
@@ -187,9 +187,9 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/QUJUXB9yBVSPWKcWoJweFZnR4OXiwS6p8x3nP-GS_aY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTk3/My0xNDYwMzAyOTAy/LTU1MzguanBlZw.jpeg" alt="Cover for The Lonely Spy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f66ada7d1ce64b74bbdd40e65f9f1bc6.png" alt="Cover for The Lonely Spy" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Lori &amp; The Chameleons</td>
@@ -207,7 +207,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/hNvis4JbiVCHH0QtMJX3HwDawf9jDbQoldBRHz0J-YQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDUw/NTctMTQ4NjM2OTQ2/OS01Mzk1LmpwZWc.jpeg" alt="Cover for The Very Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -227,7 +227,26 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>2</td>
+      <td>
+      </td>
+      <td>1986</td>
+      <td>The Ministry Of Love</td>
+      <td>Burnin&#39; and Lootin&#39;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/DBd47DTMPfWaAzOjk8vRDCwFg_oas5ZI_sF8YQ8Smt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjM1/NzItMTYwMjQxMTQ3/NS0yODY1LmpwZWc.jpeg" alt="Cover for Vibe Recordings Studios" style="max-width:120px; height:auto;" />
       </td>
@@ -246,7 +265,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/QQDBlRN5Ktas7SDTF1uuurzN5vZdwQeTXIUk2es5gp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTE5/OTMtMTQ3NzM5OTkx/NS01NzIxLmpwZWc.jpeg" alt="Cover for Let&#39;s Dance To The Real Thing" style="max-width:120px; height:auto;" />
       </td>
@@ -264,7 +283,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/yerWnsr19n9JZJE3xdGg-PKl1ZiXLWsDbc1EHHdZcwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzY0/OS0xNjUzODI0ODY3/LTczMTQuanBlZw.jpeg" alt="Cover for Working Class Hero - The Definitive Lennon" style="max-width:120px; height:auto;" />
       </td>
@@ -282,8 +301,9 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a24f37acec23382894858a5fc4b92096.png" alt="Cover for Zilch" style="max-width:120px; height:auto;" />
       </td>
       <td>1988-03</td>
       <td>Shack</td>
@@ -302,7 +322,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/DJyGEaISAsPmBP8l-PlowMqfy3HnPoq_Oa3fqj4WggI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjEz/NTAtMTI1MjYwMjEy/Ni5qcGVn.jpeg" alt="Cover for Over You" style="max-width:120px; height:auto;" />
       </td>
@@ -324,9 +344,9 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
-          <img src="https://i.discogs.com/DCLNZzvFL9oAHeU9AgzuJ4xZJq8jxX4Vt5XqrDPqYBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTI5/MS0xMTU1MDkxNjIy/LmpwZWc.jpeg" alt="Cover for Whirlpool" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34781315b6633e72e6689b7bedc02e6b.png" alt="Cover for Whirlpool" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Dr. Phibes &amp; The House Of Wax Equations</td>
@@ -343,7 +363,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/RIShMhudx36xuriH2w0KlGUPGSMcAAQOcls4S0JRxyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTQ0/MTktMTQ0MTI5NTQx/OC0zMDU1LmpwZWc.jpeg" alt="Cover for Guardian Angel" style="max-width:120px; height:auto;" />
       </td>
@@ -364,7 +384,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/eIjtwVS94Hu2FpW_8-Nh1OMyECTYYtl2EvrzWidIA2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjAw/MjYtMTIwOTM4Njg3/NC5qcGVn.jpeg" alt="Cover for Mexican R&#39;n&#39;B" style="max-width:120px; height:auto;" />
       </td>
@@ -384,9 +404,9 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>84</td>
       <td>
-          <img src="https://i.discogs.com/eIjtwVS94Hu2FpW_8-Nh1OMyECTYYtl2EvrzWidIA2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjAw/MjYtMTIwOTM4Njg3/NC5qcGVn.jpeg" alt="Cover for Mexican R &#39;n&#39; B" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79553a40490217d04355888fd3f70862.png" alt="Cover for Mexican R &#39;n&#39; B" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-05-26</td>
       <td>The Stairs</td>
@@ -404,7 +424,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f0666a1c03246e983a616a18ce531dc.png" alt="Cover for Bang !" style="max-width:120px; height:auto;" />
       </td>
@@ -422,7 +442,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/Oe25ivmExglHCoaC1AFuC4q5sRszCNmIGyBgCedTkm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Mjg4/Ny0xMjkyMTgxNzUx/LmpwZWc.jpeg" alt="Cover for joe mckechnie - mindwinder ep" style="max-width:120px; height:auto;" />
       </td>
@@ -441,7 +461,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/_v1tdFS4ENdRVy5uTmYt1wRSwuuAeWQd2lgESUxttGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ0/MjUtMTQ1OTQ4Mjg2/OS03NjU3LmpwZWc.jpeg" alt="Cover for Where&#39;s The Disk?" style="max-width:120px; height:auto;" />
       </td>
@@ -463,7 +483,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
       </td>
       <td>1994-08-24</td>
@@ -503,9 +523,27 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>94</td>
       <td>
-          <img src="https://i.discogs.com/CR8zJS87Y6xpH0GcZGgGVaUOC7LbGo544p4JYd9H9XM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzU0/MC0xMTY3OTIzNzA3/LmpwZWc.jpeg" alt="Cover for Magical World of the Strands" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/85fc376a5a734421b465233ab4f14ad5.png" alt="Cover for Mother Nature Calls" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-04-14</td>
+      <td>Cast</td>
+      <td>Mother Nature Calls</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f3553f8663b4090b7df3680922fcef4.png" alt="Cover for Magical World of the Strands" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-03-02</td>
       <td>Michael Head &amp; The Strands</td>
@@ -524,7 +562,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
       </td>
       <td>1998-09-12</td>
@@ -542,7 +580,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/9Flu8oZjvliPQ4cu6N9L4gerV49Wn29A8i5KgO0Kffk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjE0/MjQtMTQ2NzMyNzE4/OC00OTA1LmpwZWc.jpeg" alt="Cover for O Rodo" style="max-width:120px; height:auto;" />
       </td>
@@ -583,7 +621,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>3</td>
       <td>
       </td>
       <td>2000</td>
@@ -620,7 +658,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>81</td>
       <td>
       </td>
       <td>2000</td>
@@ -638,7 +676,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/5PtlipRzaWusDuP225NWoh9T6hqEdMSlxPKrjrCdnBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzY4/NTcwLTE2MjI1NDM1/NzMtMjE3NC5qcGVn.jpeg" alt="Cover for Songs You&#39;ve Never Heard" style="max-width:120px; height:auto;" />
       </td>
@@ -657,7 +695,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/wTA4-IzIIyUHjI0-AQRtwCWyy_eads_ivjIB9ya9mFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEw/NDcyLTE2MjM0ODYw/OTAtMzcyOS5qcGVn.jpeg" alt="Cover for 2001-08-17: Liverpool, UK" style="max-width:120px; height:auto;" />
       </td>
@@ -693,7 +731,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/51MuWeqfhXQZgRrW3os_G9XjZIGHWGm7lCNKM9CCLkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTk1/MTkyLTE1OTc4Njk1/MTAtNjY0OC5tcG8.jpeg" alt="Cover for &#39;Good Enough for Me and Henry McGee&#39; album" style="max-width:120px; height:auto;" />
       </td>
@@ -711,7 +749,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/g4KKOlQY6pLoUgO1E83WYsrgiYQSWKABeHlxINO2R84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYz/NDMtMTIwOTkxNDU3/OS5qcGVn.jpeg" alt="Cover for Happening for Love" style="max-width:120px; height:auto;" />
       </td>
@@ -730,7 +768,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/syXfE74cB2uGSlzsxRni9EqegVibIEmdw1_JpIoBe1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTIw/NTEtMTU1ODE5NDUy/Ny04MjE1Lm1wbw.jpeg" alt="Cover for When This River Rolls Over You" style="max-width:120px; height:auto;" />
       </td>
@@ -748,7 +786,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/w7tpmdmeauun4T5XsoDUlneyoxMIFavL22byPTPm_Q8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTM0/OC0xNTA4MTEwNjU4/LTU2MTkuanBlZw.jpeg" alt="Cover for I Need You" style="max-width:120px; height:auto;" />
       </td>
@@ -783,7 +821,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/cGzGjQnaaq0WOzVmDcQXk9SC0lFWYuQombdzqQRNU0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjE2/OTAtMTM2NDMxNTM4/My0yNDYzLmpwZWc.jpeg" alt="Cover for The Foggy Dew" style="max-width:120px; height:auto;" />
       </td>
@@ -802,7 +840,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/vnRDPYJ8PRwsDMrkipu_62wFQTlUj6K37HoWCYNcoj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTIw/ODAtMTIxODExMjI3/MS5qcGVn.jpeg" alt="Cover for Here She Comes Again, Pt. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -819,9 +857,9 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
-          <img src="https://i.discogs.com/RYK6bqM0JAi5s1UkG-r3exJRDEPM1QHn8fSYLpMiNDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTgz/OS0xNjA1NjE0MDUz/LTMxNTUuanBlZw.jpeg" alt="Cover for All Years Leaving" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3adcdda28f6ff0e53b9fdc21ff1bc3a9.png" alt="Cover for All Years Leaving" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-02-23</td>
       <td>The Stands</td>
@@ -837,7 +875,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/wjN7hmy29Syh5wgwt-PFYQ2CO2UoFwR_qygOcskjMcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzI5/NDEtMTUwODExMjQ4/OS04MDQ0LmpwZWc.jpeg" alt="Cover for Outside Your Door" style="max-width:120px; height:auto;" />
       </td>
@@ -855,7 +893,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/RzM9umsoMXgWhPtOSyHkUMuXv1ByI2686iEd2AQxx9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTIw/MzMtMTQ3MjU2NjI5/OC0xODI0LmpwZWc.jpeg" alt="Cover for Do It Like You Like" style="max-width:120px; height:auto;" />
       </td>
@@ -874,8 +912,9 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07619e0aeee04ea8b29d467094673f72.png" alt="Cover for The Dead 60s" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-31</td>
       <td>The Dead 60s</td>
@@ -883,8 +922,6 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
       <td>
@@ -916,7 +953,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/auxfZ6ukiCmwas3u-1JDWgFJBZ_PCiMCg1i93J0BjAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzA5/MjktMTQ3NjAxODg5/Ni01OTU4LmpwZWc.jpeg" alt="Cover for Elevator Demos 2007" style="max-width:120px; height:auto;" />
       </td>
@@ -934,7 +971,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c8ad93703a1fdc947df3f3b9529d053.png" alt="Cover for Ascension" style="max-width:120px; height:auto;" />
       </td>
@@ -954,7 +991,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/CfVxU56xY1pCoNQRD0n9WFZej_8PFxuxZi0ZLk0h2D8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzQ5/NTctMTQ0Nzc1MjQ1/MC01OTMwLmpwZWc.jpeg" alt="Cover for Black and White" style="max-width:120px; height:auto;" />
       </td>
@@ -971,7 +1008,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36cb65dec8c4790098dd7cd9a5de3aaf.png" alt="Cover for Gettin&#39; a Little Help...from &quot;The Joneses&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -1011,7 +1048,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/1o6a1PE88H1KiN_GGixckCWA2krsFjK7tUjf3rLYGKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDY4/NDAtMTM1OTYyNTU5/Mi0zNjMwLmpwZWc.jpeg" alt="Cover for Flammable Leisurewear" style="max-width:120px; height:auto;" />
       </td>
@@ -1053,7 +1090,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/32ryPVzttgjoOB2PlXZIaKOxHtSlF67_1N7bzsG9vlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDQ5/OTYtMTIzODE0MTMy/NC5qcGVn.jpeg" alt="Cover for The Unsettling Time EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1075,7 +1112,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/tWeIM8Tx5-5kYaSJSJAHdwprqIEkiigFxHfSfSfHgZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTkz/MDAtMTM5OTE5ODUy/Ni04MTM2LmpwZWc.jpeg" alt="Cover for Long Way North" style="max-width:120px; height:auto;" />
       </td>
@@ -1093,7 +1130,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44c7dbc138264e5884cc1a1ad4223185.png" alt="Cover for Dawn of the Chavs" style="max-width:120px; height:auto;" />
       </td>
@@ -1110,7 +1147,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/Hqn_dy65dHsoRA2LgCBdpgpfan_R47_yVGtYrhjRuWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTkz/MTctMTQ3MzM2OTQ3/Ni0xMzQ0LmpwZWc.jpeg" alt="Cover for Rebolation" style="max-width:120px; height:auto;" />
       </td>
@@ -1151,7 +1188,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/dnutsQPkshU4uZ4DUdQcrgQzXLbmH1DV2afr9atNeco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE3/NjA4LTE1MTU5NjM2/NjMtMjAxMi5qcGVn.jpeg" alt="Cover for Over You" style="max-width:120px; height:auto;" />
       </td>
@@ -1173,9 +1210,9 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/h1_CLLkO5sUWPYK6GYllLYQt9tdg52j4cbAqjwvWH1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODQ2/MTYzLTE2NDI4NzMy/OTktNzI2MS5qcGVn.jpeg" alt="Cover for Love Will Save Us I Hope" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/536a94b02954406bbac7946d2023ccba.png" alt="Cover for Love Will Save Us I Hope" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>The Sand Band</td>
@@ -1193,9 +1230,9 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
-          <img src="https://i.discogs.com/_gttWO4VaBMJMmYb5IxXy4FwvLiHXWEJp8j2T5NQJbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTQ4/NjYtMTI5Nzc2OTUx/Ny5qcGVn.jpeg" alt="Cover for All Through The Night" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a859723112040d58182badd91db3f30.png" alt="Cover for All Through The Night" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-17</td>
       <td>The Sand Band</td>
@@ -1215,7 +1252,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/8KWWiYqG9DU8Qvt7NGppdBbLZ08YF1gQ-M1hoFnSe10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTk0/MjktMTM5OTE5ODc0/MC01MDk2LmpwZWc.jpeg" alt="Cover for About a Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1233,7 +1270,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/5_QEiqMqK82fSSwNSJSwQ4IB5_7ceuUP8bkMXmW4ck8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzQ3/ODMtMTY0ODE0NzQw/OC04OTk5LmpwZWc.jpeg" alt="Cover for So So - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1254,7 +1291,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/RlGu649zjwjxZuTaoLvq8IvVJIdcOHPasCO_B8cz1-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTM4/NjEzLTE1NDg3Mjg2/MzQtNDU2NS5qcGVn.jpeg" alt="Cover for Cheap Riches &#x2F; Revolutions" style="max-width:120px; height:auto;" />
       </td>
@@ -1275,7 +1312,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/WqyecQOioYn4ZDo25KGJI8BFCfQItB0zCpOMAXZKS4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTE2/NTAtMTQyMjY5Mzg1/NS01ODYwLmpwZWc.jpeg" alt="Cover for Skin Walker EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1293,7 +1330,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/HP7pF8bDHe2cTg9HtK4gdIcwZi4494xzhDnrJriTU6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM5/NzUtMTM4NjgwMDc2/OS0xNjI1LmpwZWc.jpeg" alt="Cover for Live At Shepherd&#39;s Bush Empire" style="max-width:120px; height:auto;" />
       </td>
@@ -1311,7 +1348,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
       </td>
       <td>2014-12-01</td>
@@ -1333,25 +1370,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-      </td>
-      <td>2016</td>
-      <td>The Floormen</td>
-      <td>Demos</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>87</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/o6yH4wu92_KmyforaWbck9WdRmRD9b8nhHh02p41gEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTI0/NTgtMTQ4MTUxMjQ3/MC00MzMxLmpwZWc.jpeg" alt="Cover for Bright Light Ballads" style="max-width:120px; height:auto;" />
       </td>
@@ -1369,7 +1388,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/dDAR1CyfeICIJ7TO-wqqHyGyfDeWL-8wJh8sgUqi4tM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg2/MjQ5LTE1Njk0ODI3/OTktNTQ5My5qcGVn.jpeg" alt="Cover for Sing Jimmy Campbell" style="max-width:120px; height:auto;" />
       </td>
@@ -1408,7 +1427,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/MGo432buWfP4TwS2A2Tmgk0Ix8A8pWf5OXHZ8ZgxfHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDM3/OTg0LTE1MTYzMjI1/NjYtMTgwOS5qcGVn.jpeg" alt="Cover for Demos &#39;13" style="max-width:120px; height:auto;" />
       </td>
@@ -1430,7 +1449,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/3BvPPD99vxnqUiyLk5yYjcHGH_3GSd07gqPrgvlpBoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTAw/NTU0LTE1NDgwNzA4/OTgtMjA1Ni5qcGVn.jpeg" alt="Cover for Over You" style="max-width:120px; height:auto;" />
       </td>
@@ -1452,7 +1471,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/h102rfcQjeSmyPM7CfCAROO1J4aUHpvgbhcZdSrioTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY2/NzU3LTE1OTM3NDQ3/MjgtNDkwMy5qcGVn.jpeg" alt="Cover for Nowhere I&#39;d Rather Be &#x2F; Followers" style="max-width:120px; height:auto;" />
       </td>
@@ -1471,7 +1490,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/Zkekqrhke83fzi0dZVhP-6P3k8JBYcUEa0JESmxqGFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjk3/ODIxLTE2MDEwODU0/NTUtMzI3MC5qcGVn.jpeg" alt="Cover for The La&#39;s - BBC In Session" style="max-width:120px; height:auto;" />
       </td>
@@ -1489,9 +1508,9 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/fyM9IySqMO0xfqJxeiNuaYEYlpcCvi0DZcYXPIVPhDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg3/MjkxLTE2Mjc3MTc1/NjAtNTgzOC5qcGVn.jpeg" alt="Cover for Outch!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48d7feb2ff394e5e98ae1999a0c3da38.png" alt="Cover for Outch!" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Cook da Books</td>
@@ -1513,7 +1532,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
       </td>
       <td></td>
@@ -1532,7 +1551,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
       </td>
       <td></td>
@@ -1554,8 +1573,9 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/867b1ae74b34ceef45f84aab1d826729.png" alt="Cover for We Go Round" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Reignmaker</td>
@@ -1571,12 +1591,12 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 19</li>
+            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
       </td>
       <td></td>
@@ -1602,42 +1622,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Jessica McFarland</td>
-      <td>2007</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>4</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Music2Think</td>
-      <td>3R&#x3D;NOT ENOUGH</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/london" | relative_url }}">london</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1656,7 +1641,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1677,25 +1662,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Edric man</td>
-      <td>The Night Of The Pickpocket EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -1716,7 +1683,43 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>8</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Jack Gillbanks</td>
+      <td>The Jack Gillbanks EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Music2Think</td>
+      <td>3R&#x3D;NOT ENOUGH</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/london" | relative_url }}">london</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -1738,7 +1741,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -1758,7 +1761,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -1776,7 +1779,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -1795,8 +1798,9 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44f3df39571a4a37cad88da1307c6fd9.png" alt="Cover for Motor Car" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Gemstone Heist</td>
@@ -1816,7 +1820,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/da1a1196e2a8413e96d8e5ec69a52aa8.png" alt="Cover for It&#39;s Woven?" style="max-width:120px; height:auto;" />
       </td>
@@ -1846,8 +1850,9 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77c1ab0bbf9640748b7bb876d1984850.png" alt="Cover for English Gothic" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Burning Astronomers</td>
@@ -1869,7 +1874,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -1888,7 +1893,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
       </td>
       <td></td>
@@ -1907,7 +1912,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
       </td>
       <td></td>
@@ -1935,7 +1940,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
@@ -1955,7 +1960,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
       </td>
       <td></td>
@@ -1973,7 +1978,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
       </td>
       <td></td>
@@ -2004,7 +2009,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
       </td>
       <td></td>
@@ -2024,8 +2029,9 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de60e1364a9349a7826bbdde025ef888.png" alt="Cover for White Lip" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Major Discord</td>
@@ -2044,7 +2050,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>83</td>
       <td>
       </td>
       <td></td>
@@ -2061,7 +2067,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
       </td>
       <td></td>
@@ -2088,6 +2094,6 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
 - [acoustic]({{ "/tags/acoustic" | relative_url }})
 - [english]({{ "/tags/english" | relative_url }})
 - [folk]({{ "/tags/folk" | relative_url }})
-- [indie rock]({{ "/tags/indie-rock" | relative_url }})
 - [britpop]({{ "/tags/britpop" | relative_url }})
+- [indie rock]({{ "/tags/indie-rock" | relative_url }})
 - [jazz]({{ "/tags/jazz" | relative_url }})

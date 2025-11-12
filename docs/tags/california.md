@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T02:43:14.094Z
+date: 2025-11-12T01:59:48.684Z
 permalink: tags/california
 title: california
 ---
 
 ## california
 
-Last updated: <time datetime="2025-10-31T02:43:14.094Z">Fri Oct 31 2025 04:43:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-12T01:59:48.684Z">Wed Nov 12 2025 03:59:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ California music can refer to a variety of musical styles that originated in or 
   </thead>
   <tbody>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/FlBvWLDnzhD1VmRxtFLwuUYqugcNjLh3eV34YkNjMvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDA0/NDktMTQxMjA4MTk4/Mi01Nzg5LmpwZWc.jpeg" alt="Cover for Estúpido Cupido" style="max-width:120px; height:auto;" />
       </td>
@@ -56,15 +56,15 @@ California music can refer to a variety of musical styles that originated in or 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 74</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 74</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 74</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 81</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 81</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
-          <img src="https://i.discogs.com/Czlggns8f1BEhIvgDa9SfTER-nDT2bcAZ-s9y5-WStw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzk0/MTgtMTQwODAwMjI4/OS01NDAyLmpwZWc.jpeg" alt="Cover for Return To The Valley Of The Go-Go&#39;s" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9382d7d8cbb944b8c4f4fdde64b66735.png" alt="Cover for Return To The Valley Of The Go-Go&#39;s" style="max-width:120px; height:auto;" />
       </td>
       <td>1964</td>
       <td>The Go-Go&#39;s</td>
@@ -80,7 +80,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/I3wMR4r7_0mqrh4PJTTEr0wB9CrtZRXIBk_Xa7I3_1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODY2/MzMtMTQyNDYyMTQ1/My00Nzc5LmpwZWc.jpeg" alt="Cover for Luiz Gonzaga Canta Seus Sucessos Com Zé Dantas" style="max-width:120px; height:auto;" />
       </td>
@@ -106,8 +106,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d8aa04ca84f4867b2b632606f101145.png" alt="Cover for Yesterday and Today" style="max-width:120px; height:auto;" />
       </td>
       <td>1966-06-14</td>
       <td>The Beatles</td>
@@ -135,14 +136,14 @@ California music can refer to a variety of musical styles that originated in or 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 56</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 56</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 56</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 67</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 70</li>
-            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 87</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 72</li>
+            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/llCJSH1dj9wpp5gy3mKJiynhtLtAF1-G9jqd0czue1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDgx/MjUtMTY5NzE0ODI5/NC0zNjY5LnBuZw.jpeg" alt="Cover for Vanusa" style="max-width:120px; height:auto;" />
       </td>
@@ -168,8 +169,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/157d793b462fcbdfb573fe2ed28afee2.png" alt="Cover for Build Up" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Rita Lee</td>
@@ -196,13 +198,13 @@ California music can refer to a variety of musical styles that originated in or 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 90</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 90</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 90</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 91</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 93</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
       </td>
       <td>1970-03</td>
@@ -220,12 +222,12 @@ California music can refer to a variety of musical styles that originated in or 
       <td>
         <ul>
             <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 31</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 34</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>1970-06-23</td>
@@ -250,7 +252,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/CrUXrCh4YJZg2bVQwH_IPISMKcK9RnqkFmZ6oOajf2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDg1/ODQtMTM5Nzg4Nzc3/Ny00OTA2LmpwZWc.jpeg" alt="Cover for Vou Pedir Pra Você Voltar" style="max-width:120px; height:auto;" />
       </td>
@@ -276,7 +278,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>1972</td>
@@ -304,7 +306,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/56mhocW1HzAeUMbzMhu9OFIBAHw9ZjTfttcqr20-ZgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE5/MzQtMTMyOTI0NTg2/MC5qcGVn.jpeg" alt="Cover for Herra Mirandos" style="max-width:120px; height:auto;" />
       </td>
@@ -330,50 +332,15 @@ California music can refer to a variety of musical styles that originated in or 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 46</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 46</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 46</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 61</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 64</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
-      <td>
-      </td>
-      <td>1973</td>
-      <td>Tim Maia</td>
-      <td>Tim Maia</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 33</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 48</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 97</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 97</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 97</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 97</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 97</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 97</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2ee70daf660409185002f1378325ce1.png" alt="Cover for Porque Te Vas" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Jeanette</td>
@@ -394,8 +361,8 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 15</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 86</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 28</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 89</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 100</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 100</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 100</li>
@@ -406,8 +373,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3790706718044da900df8a7bac7d8bf.png" alt="Cover for El Amor" style="max-width:120px; height:auto;" />
       </td>
       <td>1975</td>
       <td>Julio Iglesias</td>
@@ -431,13 +399,13 @@ California music can refer to a variety of musical styles that originated in or 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 57</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 57</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 57</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 68</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 71</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
       </td>
       <td>1975</td>
@@ -462,8 +430,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b880f3e6a6bc74f8385619f4baf7ad7.png" alt="Cover for I Feel Love" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Donna Summer</td>
@@ -487,13 +456,13 @@ California music can refer to a variety of musical styles that originated in or 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 41</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 41</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 41</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 58</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 62</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td>1978</td>
@@ -518,15 +487,15 @@ California music can refer to a variety of musical styles that originated in or 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 85</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 85</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 85</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 87</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 89</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/blQPKfgfZJzxyoFv_oBoizFaEvutEC0Hh99ltIuS7Mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTAw/Ny0xNDEyNTAxNTc2/LTUzNDUuanBlZw.jpeg" alt="Cover for Like An Eagle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d85191e966783bb8dce01af8ac00aa73.png" alt="Cover for Like An Eagle" style="max-width:120px; height:auto;" />
       </td>
       <td>1979-03-01</td>
       <td>Dennis Parker</td>
@@ -550,13 +519,13 @@ California music can refer to a variety of musical styles that originated in or 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 64</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 64</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 64</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 72</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 75</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/jMJ9buMorR77Omz4Ak4Fy3C1WEgXoIn69HCCH_TBDXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTA5/MjAtMTYzOTQ3MjQz/MC0zNjI0LmpwZWc.jpeg" alt="Cover for Take A Bite" style="max-width:120px; height:auto;" />
       </td>
@@ -582,7 +551,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/pZUV86Hbs_Ypaf0AP2P92gglWWMwK48CeEzogEbDOCA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDUx/Mi0xMzE2NjMwMTc1/LmpwZWc.jpeg" alt="Cover for Antics in the Forbidden Zone" style="max-width:120px; height:auto;" />
       </td>
@@ -610,7 +579,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/TWpPZpuWatm75xz8_KPgERH62eOcRZW5vlYcNMcofw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTM3/My0xMTc1NzUyMzkw/LmpwZWc.jpeg" alt="Cover for Love Lives Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -636,14 +605,15 @@ California music can refer to a variety of musical styles that originated in or 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 48</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 48</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 48</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 63</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 66</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f433119aa625465c97be5bbc03d92346.png" alt="Cover for Africa" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Toto</td>
@@ -670,7 +640,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
       </td>
       <td>1982-11</td>
@@ -695,7 +665,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td>1983</td>
@@ -713,7 +683,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 19</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 20</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 63</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 66</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 66</li>
@@ -722,7 +692,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/yPZY0RzlvYuBVk62K9Mlitj620idWmWXVM9Bo-zkd60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjg3/MzUtMTMxMjQ1MzA5/MC5qcGVn.jpeg" alt="Cover for The Very Best... And Beyond" style="max-width:120px; height:auto;" />
       </td>
@@ -748,7 +718,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/x-hgWBdK-kAPDX9bCpsno44BjDb4uXKDHpLrPEwjnGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzkz/LTEyMjk1NDU0Njgu/anBlZw.jpeg" alt="Cover for Only You" style="max-width:120px; height:auto;" />
       </td>
@@ -771,18 +741,18 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 20</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 68</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 71</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 71</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 71</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 76</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 79</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 78</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 79</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/tx1a5h7l4YpNSrboObxmb8nO57LEAzt5k9iI03n2hIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDE0/NS0xMjcyMDQxNjY4/LmpwZWc.jpeg" alt="Cover for Tarzan Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -808,7 +778,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td>1984</td>
@@ -828,17 +798,18 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 88</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 88</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 89</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 89</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 89</li>
+            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/698f6f6e7bddbca607a051d5bea778d8.png" alt="Cover for O Passo Do Lui" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Os Paralamas Do Sucesso</td>
@@ -862,20 +833,20 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 50</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 60</li>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 68</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 98</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 61</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 62</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 72</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 98</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 98</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 98</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 98</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 98</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 98</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>1984-06</td>
@@ -901,8 +872,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/472e9c172b1e4c5abf52df475cf91335.png" alt="Cover for Telephone Free Landslide Victory" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Camper Van Beethoven</td>
@@ -918,7 +890,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/9VwmKXpw6AqMIfvy98gSz6kIxp_H9pnfgsT9lwo4_98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODA1/MzItMTM2ODk5MzUx/Mi04OTg0LmpwZWc.jpeg" alt="Cover for Garota de Ipanema" style="max-width:120px; height:auto;" />
       </td>
@@ -949,9 +921,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
-          <img src="https://i.discogs.com/OL8-rD1ZX25ISzqWFMxqXg69B1lZDvGR0xKvrpM18qw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MzUw/OC0xNDYyMTAwNjA1/LTkxOTMuanBlZw.jpeg" alt="Cover for Flaunt It" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be4e89f1091142edc22c0ee87f9a6781.png" alt="Cover for Flaunt It" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Sigue Sigue Sputnik</td>
@@ -967,9 +939,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/RGB1sfIo-D-v8Ju9HzcBBsqyipDc3qAAJOgg4GozG2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDY5/MjMtMTM3NjM0NzA3/Mi0yMjM5LmpwZWc.jpeg" alt="Cover for Live Peace in Toronto 1969" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42570bc1349844eac421dc7044cf99d4.png" alt="Cover for Live Peace in Toronto 1969" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-02-24</td>
       <td>John Lennon</td>
@@ -993,13 +965,13 @@ California music can refer to a variety of musical styles that originated in or 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 51</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 51</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 51</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 66</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 69</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/b2XWLWCwVzm7jgSrJYaGs7Olzkgph_41-wY0fHUNBdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjM4/OTUtMTI5ODE1NTA1/MC5qcGVn.jpeg" alt="Cover for Justiça Social" style="max-width:120px; height:auto;" />
       </td>
@@ -1020,8 +992,8 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 6</li>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 37</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 7</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 38</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 81</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 82</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 82</li>
@@ -1030,7 +1002,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/qfBNpzx7L5xpG-S7K5zWh1WRS022A9m3oiaBKJt95vk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTA4/MjItMTMwODUyODkx/MS5qcGVn.jpeg" alt="Cover for Modern Talking" style="max-width:120px; height:auto;" />
       </td>
@@ -1060,7 +1032,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/28a028790fddbc114839cf4248de6d84.png" alt="Cover for Reg Strikes Back" style="max-width:120px; height:auto;" />
       </td>
@@ -1079,8 +1051,38 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>1</td>
       <td>
+          <img src="https://i.discogs.com/unMUwwRuPMvcA0-1xp8z8INBst5AeRSnWQjLRYjY5nA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjUx/NjktMTUxNjIyNjcz/MS0xMTc3LmpwZWc.jpeg" alt="Cover for Eu Não Sou Santo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Bezerra da Silva</td>
+      <td>Eu Não Sou Santo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 35</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 38</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 38</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 38</li>
+            <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a14283e79de1370a9455fe69141f05a.png" alt="Cover for The Best of Bill Medley" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Bill Medley</td>
@@ -1104,14 +1106,15 @@ California music can refer to a variety of musical styles that originated in or 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 79</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 79</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 79</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 85</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 86</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f60398767ded4b0fbbce3903f6ba0236.png" alt="Cover for Arquivo" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Os Paralamas Do Sucesso</td>
@@ -1134,18 +1137,18 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 20</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 30</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 92</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 93</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 93</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 93</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 95</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 93</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 93</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 96</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/9Upk2OkLGNDURqPA4SNYYfDR5eWK-ltkocxhph86XHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTcy/MTktMTQwMjM0OTE2/Ny0yMTAzLmpwZWc.jpeg" alt="Cover for Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -1174,7 +1177,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>1990-07-02</td>
@@ -1200,7 +1203,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/Ao-tJy0K_z34j4fFkjmmAldSaPOCnaB5U6xfneclLfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDQx/LTE0MjA5MzY0NDMt/NzkxMC5qcGVn.jpeg" alt="Cover for Baker Street" style="max-width:120px; height:auto;" />
       </td>
@@ -1226,13 +1229,13 @@ California music can refer to a variety of musical styles that originated in or 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 47</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 47</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 47</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 62</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 65</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cda66b6cbde880d33b44782f5ea091e.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1291,8 +1294,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e24fbea15d3644eb96d5d8b1e8c55052.png" alt="Cover for Strictly 4 My N.I.G.G.A.Z..." style="max-width:120px; height:auto;" />
       </td>
       <td>1993-02-15</td>
       <td>2Pac</td>
@@ -1304,14 +1308,14 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 46</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 63</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 67</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>1994</td>
@@ -1336,7 +1340,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/N5NF-rz1Ytji3R2VOf0AMqIj_Kt9WBYhTa5SxVe1LS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODg3/NjItMTQyNDY2MjI0/Ny03NzY4LmpwZWc.jpeg" alt="Cover for Raul Seixas" style="max-width:120px; height:auto;" />
       </td>
@@ -1364,7 +1368,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
       </td>
       <td>1994-06-28</td>
@@ -1390,7 +1394,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>1995</td>
@@ -1434,14 +1438,14 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 8</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 30</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 17</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 72</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/xHQPHlHMRo4842ZKdYD6pslr3vJfXAHXC3stYIHbM6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjk2/NjAtMTQ0ODkxNjg2/NC0yNTcyLmpwZWc.jpeg" alt="Cover for Destinazione Paradiso" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,9 +1473,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/Zo8sSndeCyrAHNaykPbVqSgb7-JAn5EAvQtJ-QM89jA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODU3/LTEyMDY4MzYzNDcu/anBlZw.jpeg" alt="Cover for Erasure" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23bdcd8b6d20abbd8a98926f2771db7c.png" alt="Cover for Erasure" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-10-24</td>
       <td>Erasure</td>
@@ -1490,7 +1494,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 51</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 55</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 60</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 63</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 63</li>
@@ -1499,7 +1503,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/dza_FxgPZ48e0RdUS__aBxFnU8lHSRuxHA85B0HZ4mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Nzkw/NzQtMTU3MDEwODYx/MS05NTIxLmpwZWc.jpeg" alt="Cover for Álbum" style="max-width:120px; height:auto;" />
       </td>
@@ -1527,7 +1531,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>1996</td>
@@ -1552,7 +1556,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/GLAT_hQfg7rn3AgCpFA2Lu8rtFWYcGICXiONwyXQl7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Nzc5/OC0xNjQzMjAyMjQ3/LTYxMTYuanBlZw.jpeg" alt="Cover for Everybody Jam!" style="max-width:120px; height:auto;" />
       </td>
@@ -1578,7 +1582,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/uXhPXGH92l7fBfl4D6yr6yxTfcOYfFGt28McUrz3SNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODkw/ODYtMTE5MTE4Njg1/My5qcGVn.jpeg" alt="Cover for You&#39;re the Inspiration: A Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -1604,8 +1608,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26f3c7c03446413bc1bcf9b0a1262f63.png" alt="Cover for Santa Rita De Sampa" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Rita Lee</td>
@@ -1632,13 +1637,13 @@ California music can refer to a variety of musical styles that originated in or 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 76</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 76</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 76</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 82</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 83</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/5WUtsYnpMmABVqOJhL4HVNUn4PDcuNwCyfwPAQ-vbMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjY3/OS0xMzMyMDQ1NjM4/LmpwZWc.jpeg" alt="Cover for R U Still Down? [Remember Me]" style="max-width:120px; height:auto;" />
       </td>
@@ -1657,8 +1662,8 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 21</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 36</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 30</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 68</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 94</li>
         </ul>
       </td>
@@ -1683,14 +1688,14 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 25</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 37</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 43</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 76</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/0dvtlAshZce0xjACx4BJFwXN4P6tPlIwiSGDGNfI2xE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjM3/Mi0xNTI2OTI2NjI1/LTI2NzIuanBlZw.jpeg" alt="Cover for Ex-Girlfriend" style="max-width:120px; height:auto;" />
       </td>
@@ -1708,7 +1713,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/WbEd5pXG4uOYKFBs5aRNk__BaSu0WCW3RfmyRAYuXaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTg4/NDAtMTQ1MzIyMzU5/My0xODIzLmpwZWc.jpeg" alt="Cover for 40 Seasons - The Best Of Skid Row" style="max-width:120px; height:auto;" />
       </td>
@@ -1734,7 +1739,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/gzGsOMKki8xn1pCww9rJsULMWrepWxItc7AcYyiEXxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODU5/NC0xMjM0NjAyMDY5/LmpwZWc.jpeg" alt="Cover for The Very Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -1756,18 +1761,18 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 3</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 12</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 91</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 92</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 92</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 92</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 94</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 95</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/l4EAIFolBjiuCiooFVidX1dpQsKNB5HUqGNFppkbsk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/OTUtMTQ1MjYyODk1/NC02MTc5LmpwZWc.jpeg" alt="Cover for The Best Of Caetano Velose - Sem Lenco Sem Documento" style="max-width:120px; height:auto;" />
       </td>
@@ -1793,8 +1798,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c59e2896bbc35833155e91fcb619123e.png" alt="Cover for Deixa A Vida Me Levar" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Zeca Pagodinho</td>
@@ -1821,13 +1827,13 @@ California music can refer to a variety of musical styles that originated in or 
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 87</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 87</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 87</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 88</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 90</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/8_KvRtCP8oRCWEXBJ2vPCkoQToW3cjVSD1DS8rqm7-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjAx/NjkyLTE1MzAzNzA4/MjItODYwOS5qcGVn.jpeg" alt="Cover for Vendo A Mim Mesmo" style="max-width:120px; height:auto;" />
       </td>
@@ -1853,7 +1859,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/It5q_1G0Tc1tmJZD-fGJL-idYv6a0CnZeHoyMwSYPEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjcw/NzQtMTU5OTIwNDk0/OS0xMTgxLmpwZWc.jpeg" alt="Cover for The 7 Day Theory" style="max-width:120px; height:auto;" />
       </td>
@@ -1872,13 +1878,13 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 41</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>2003-03-18</td>
@@ -1892,13 +1898,13 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 49</li>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 85</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 51</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>2003-10-07</td>
@@ -1916,13 +1922,13 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 49</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 55</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/WCOvnjgzqc7qBr3OeSPliI0r1jisJKwyHRoMxo4i2LE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTM1/MjktMTU3MDUzODYy/MS04ODk3LmpwZWc.jpeg" alt="Cover for Barão Vermelho" style="max-width:120px; height:auto;" />
       </td>
@@ -1949,7 +1955,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/OWsUIfILQCPWLEUhHYhlTfZL7s3sg49Rymzv_gRIeLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI3/Ny0xMTEzNDAwNTU1/LmpwZw.jpeg" alt="Cover for Transitory Mini EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1971,7 +1977,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 53</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 55</li>
             <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 97</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 98</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 100</li>
@@ -1980,7 +1986,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>2004-03-27</td>
@@ -2005,7 +2011,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2004-04-06</td>
@@ -2019,12 +2025,12 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 59</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2004-04-30</td>
@@ -2043,8 +2049,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6015c496805449a7980120eb31b15aab.png" alt="Cover for Out of the Shadow" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-07-13</td>
       <td>Rogue Wave</td>
@@ -2060,8 +2067,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/079525ac2f714ca4b023c40319e66f2f.png" alt="Cover for Descended Like Vultures" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-25</td>
       <td>Rogue Wave</td>
@@ -2077,7 +2085,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
       </td>
       <td>2006</td>
@@ -2094,14 +2102,14 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 21</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 26</li>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 70</li>
             <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
       </td>
       <td>2006-01-24</td>
@@ -2121,7 +2129,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d9b417d08e6bfa201c562627dba3283.png" alt="Cover for Best of Chris Isaak" style="max-width:120px; height:auto;" />
       </td>
@@ -2139,9 +2147,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/-6ggKO5bWJt8c9o6dC6WQMWK6VoWrElyhzCpozoGEL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzc2/MzctMTI3MTU4ODYy/MC5qcGVn.jpeg" alt="Cover for Mentor Tormentor" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f184fcdf47984450bcaf0361ae1be415.png" alt="Cover for Mentor Tormentor" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-21</td>
       <td>Earlimart</td>
@@ -2158,7 +2166,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>2008</td>
@@ -2177,8 +2185,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46d51a32584f46b1a9a56e5704ba6a5d.png" alt="Cover for Somewhere Back In Time: The Best of 1980-1989" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04-07</td>
       <td>Iron Maiden</td>
@@ -2202,13 +2211,13 @@ California music can refer to a variety of musical styles that originated in or 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 70</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 70</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 70</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 75</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 78</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 77</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>2008-08-19</td>
@@ -2224,9 +2233,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/UxBgx_RTewdZgsBDK1tWMrEzoGAlQKRUxAFOp7FoTj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTMw/MDQtMTI5MjE4NDMx/NC5qcGVn.jpeg" alt="Cover for Doll Domination (International Deluxe Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b03dbcf95804122c1d11b7098ebdfe9.png" alt="Cover for Doll Domination (International Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>The Pussycat Dolls</td>
@@ -2247,7 +2256,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/I93E4_LnpNgjYyGhZEzY0AeUwGek7H88mDPgIKTEL8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTQ0/ODMtMTQzNDAyOTI0/Ny02NDQ3LmpwZWc.jpeg" alt="Cover for Fire Relief - A Benefit for the Victims of the 2007 San Diego Wildfires" style="max-width:120px; height:auto;" />
       </td>
@@ -2265,7 +2274,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
       </td>
       <td>2009-10-06</td>
@@ -2281,14 +2290,14 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 73</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 74</li>
             <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 79</li>
             <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/gke61lIegK2EFJDAGMchEv-sw6fFOgumXfTNkacvzBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NTYw/MC0xMTE3NTUzNjIy/LmpwZw.jpeg" alt="Cover for Katrina &amp; The Waves" style="max-width:120px; height:auto;" />
       </td>
@@ -2317,7 +2326,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/FomDuVr-gem3qpFvI1RK0If_D7mE-SHV-DIJ5nS3q04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc5/MDc4LTE1NDc2NzM0/NjAtMTY0NC5qcGVn.jpeg" alt="Cover for Caaalifornia" style="max-width:120px; height:auto;" />
       </td>
@@ -2335,7 +2344,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/1HAzZ9hGhGogh1yEvCVw8m-W6THi0JGaoMXQ48i9fjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjE5/MTItMTQ3MzM5MTMx/MS0zMzQ2LmpwZWc.jpeg" alt="Cover for Outlaster" style="max-width:120px; height:auto;" />
       </td>
@@ -2359,9 +2368,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/qb9INvDrIh5Her1oPWcyH-ylFmcjj4EPrl99AE7Xvhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDE1/NTMwLTE1ODU1MjI3/ODYtMzE0MC53ZWJw.jpeg" alt="Cover for Olindance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47a9e7f9bb42465bb17de9bb6443a20d.png" alt="Cover for Olindance" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Academia da Berlinda</td>
@@ -2385,15 +2394,15 @@ California music can refer to a variety of musical styles that originated in or 
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 77</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 77</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 77</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 83</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 85</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/Tftc5Gl5M1Sudm-NjYTWDwYy4KPfHUisS_5H5LKZeyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDE4/NzUtMTMyNDc0Njkz/MS5qcGVn.jpeg" alt="Cover for Hair Of The Dog (Live)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e708072b2032439290d8b0a25b967ce.png" alt="Cover for Hair Of The Dog (Live)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Nazareth</td>
@@ -2417,13 +2426,13 @@ California music can refer to a variety of musical styles that originated in or 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 50</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 50</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 50</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 65</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 68</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2013-06-25</td>
@@ -2443,7 +2452,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/EhdT7a492ADM4GGtvFh9TOkn2FpnBV5HA_r3S4cfXyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQz/NzI0LTE1NDcwNDE5/MDItMjcxNS5qcGVn.jpeg" alt="Cover for Risen EP" style="max-width:120px; height:auto;" />
       </td>
@@ -2462,14 +2471,14 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 61</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 81</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 42</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 83</li>
             <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/soiXSd8Pkm0j6AxGX-Oq38ol1HkotgVrx6cNHLm7ooM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njgy/NTUtMTUxODgzODU2/Ny01Mjk0LmpwZWc.jpeg" alt="Cover for Nu Mixx Klazzics Vol. 2 (Evolution: Duets And Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -2488,7 +2497,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 43</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 79</li>
         </ul>
       </td>
@@ -2512,7 +2521,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/6yYOjuY93IgNbQH1o8Cmshhjj8x6-V68zJMoWQF9olk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDM5/NzUtMTQ2OTExMTgw/NC01MjUxLnBuZw.jpeg" alt="Cover for Prophets Of Rage" style="max-width:120px; height:auto;" />
       </td>
@@ -2530,8 +2539,8 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 77</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 89</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 80</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 90</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 96</li>
         </ul>
       </td>
@@ -2539,7 +2548,7 @@ California music can refer to a variety of musical styles that originated in or 
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/UAnWDUaYL_rCgc9eT50VIzXWqPlXdf2mfbu_h8HvzEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE5/MjY1LTE1NDY1NzM5/NTUtMjk5OS5qcGVn.jpeg" alt="Cover for Superclean, Vol. I" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c8935c345285f574120a493c39c2a30.png" alt="Cover for Superclean, Vol. I" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-03</td>
       <td>The Marías</td>
@@ -2550,8 +2559,8 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 55</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 87</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 63</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 89</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 92</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 96</li>
         </ul>
@@ -2580,7 +2589,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/RTrgoMzU-tUIuizt_3YtbMnBYBRdbSCAs4-WHqm7SdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Njg5/NjktMTUxNTMyNzY4/NS02NjMyLmpwZWc.jpeg" alt="Cover for Malandro Rife" style="max-width:120px; height:auto;" />
       </td>

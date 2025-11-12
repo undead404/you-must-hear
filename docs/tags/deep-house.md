@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-10T13:45:30.972Z
+date: 2025-11-12T02:00:13.756Z
 permalink: tags/deep-house
 title: deep house
 ---
 
 ## deep house
 
-Last updated: <time datetime="2025-11-10T13:45:30.972Z">Mon Nov 10 2025 15:45:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-12T02:00:13.756Z">Wed Nov 12 2025 04:00:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
   </thead>
   <tbody>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/681b8191cb0d47e6c72221f749a5bc5e.png" alt="Cover for Sacred Ground" style="max-width:120px; height:auto;" />
       </td>
@@ -49,7 +49,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/pgGe-W4CTrGY1UaQl-_4aUs1yw3zKTHCJdCWsB84Wkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDc4/MTgtMTQ1MjAyMTg1/My0zNTc1LmpwZWc.jpeg" alt="Cover for Amnesia" style="max-width:120px; height:auto;" />
       </td>
@@ -64,7 +64,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 89</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -86,7 +86,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/4fNvNL_WLSDnndsjNoECa9zsK3-2-acy9vVKbeZAouw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTQ3/NC0xMTE2OTY1NzA2/LmpwZw.jpeg" alt="Cover for I Went Too Far (MK Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -107,7 +107,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 22</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 23</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 52</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 56</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 56</li>
@@ -173,12 +173,12 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       <td>
         <ul>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 44</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 64</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>2002-09-30</td>
@@ -216,7 +216,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5019466a90fc041cec5b42fed6fc4fe3.png" alt="Cover for It&#39;s You, It&#39;s Me" style="max-width:120px; height:auto;" />
       </td>
@@ -252,15 +252,15 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 16</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 78</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 22</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 82</li>
             <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 99</li>
             <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/32BGS11dmXFi99rgDapvl_tdy8Oy3gBpcqau0GBouX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ5/NS0xNTg1OTEyNTg3/LTMzMjIubXBv.jpeg" alt="Cover for Samurai" style="max-width:120px; height:auto;" />
       </td>
@@ -278,7 +278,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/8xpl0yaAuDlE7gROyyQ5VhXbvUz_xtnlRgtafggc5bQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTQy/NC0xMTU0NDgyOTMx/LmpwZWc.jpeg" alt="Cover for Rhyme Dust" style="max-width:120px; height:auto;" />
       </td>
@@ -335,8 +335,8 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
         <ul>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 45</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 71</li>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 73</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 77</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 72</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 79</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 94</li>
             <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 95</li>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 97</li>
@@ -401,7 +401,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/IC9MdVJeTZvp9RRkmRGGVeS9Yv4cgEgcgxC051x_EJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjEw/ODEtMTM1ODkzMTY4/Mi01OTMxLnBuZw.jpeg" alt="Cover for deadmau5 at Play" style="max-width:120px; height:auto;" />
       </td>
@@ -445,7 +445,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>83</td>
       <td>
       </td>
       <td>2011-03-21</td>
@@ -459,12 +459,12 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 56</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/9QJg5BaEDOgol2TlmcY82LBLVbMV5bs71-w8YA6dV9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzAx/NDctMTMxNzE1NzU2/Ni5qcGVn.jpeg" alt="Cover for Hours - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -484,7 +484,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/GN4EQIef4vO99mA6KiyMcK7YTT-tu1sapTTTLZzbfiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODAx/ODYtMTQ1Mjg1MTY2/MS00MDA3LmpwZWc.jpeg" alt="Cover for Dive (Radio Edit)" style="max-width:120px; height:auto;" />
       </td>
@@ -543,14 +543,14 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       <td>
         <ul>
             <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 21</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 83</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 87</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 93</li>
             <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/12JDoDpttijWlA09tH-XLcmq3nRZvrFReosmjdEjxvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODc4/MzItMTQzOTk4MDQy/OC0yMDAwLmpwZWc.jpeg" alt="Cover for Fin" style="max-width:120px; height:auto;" />
       </td>
@@ -568,7 +568,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>81</td>
       <td>
       </td>
       <td>2012-02-20</td>
@@ -586,7 +586,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/XoreAtj4G2Hm2U0JHwL3MYZZOEEwmB4vdeY9253ZxXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzI3/MzUtMTMzOTc4NDMx/My02NTc3LmpwZWc.jpeg" alt="Cover for Black Label #36" style="max-width:120px; height:auto;" />
       </td>
@@ -602,7 +602,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 41</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 51</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 97</li>
         </ul>
       </td>
@@ -627,12 +627,13 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 3</li>
             <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/J95hZUSa4vjPuR_uabX00jgq_Dv-rBLuMj9QGryWtzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODU0/MTQ2LTE1MDU0MDI2/NjctNTYyNi5qcGVn.jpeg" alt="Cover for Rodent" style="max-width:120px; height:auto;" />
       </td>
@@ -649,7 +650,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 48</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -689,17 +690,18 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       <td>
         <ul>
             <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 31</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 39</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 59</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 61</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 63</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 68</li>
             <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 71</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 92</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/69a2581c0e894b4a9842c7b5866b7017.png" alt="Cover for Fiction" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-12</td>
       <td>The xx</td>
@@ -720,16 +722,16 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 23</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 37</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 52</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 78</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 40</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 44</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 53</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 82</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td>2013-09-02</td>
@@ -749,6 +751,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb443115954f4feb9f5ef22f11138b15.png" alt="Cover for Lost" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-16</td>
       <td>Trentemøller</td>
@@ -767,7 +770,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 6</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 7</li>
             <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 99</li>
         </ul>
       </td>
@@ -791,38 +794,14 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 61</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 97</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 98</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 99</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/374f625585d64b33cb9b4e726632175a.png" alt="Cover for Lies" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-12-01</td>
-      <td>CHVRCHES</td>
-      <td>Lies</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 77</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/A2vW5e6ikPdBXkwa_7bAdHnYJO8kuwgsfaYqWsLSNOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTg3/MzYtMTQwMDI1MjUz/Ny01MjYyLmpwZWc.jpeg" alt="Cover for Love Sublime" style="max-width:120px; height:auto;" />
       </td>
@@ -858,21 +837,21 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 3</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 5</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 54</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 83</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 84</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 84</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 96</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 97</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 97</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 98</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 98</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 98</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bf1bf42510146c5c6b1ed933b9cd80e.png" alt="Cover for Moodymann" style="max-width:120px; height:auto;" />
       </td>
@@ -911,13 +890,13 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 56</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 60</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 57</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/kQXjOCht4-1YhFuzMT0fzLMFpc26BDtUwwM1Cr4B-K4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDQw/OTMtMTM5MDA3MDk3/Ny05ODc1LnBuZw.jpeg" alt="Cover for Goodness Gracious" style="max-width:120px; height:auto;" />
       </td>
@@ -956,12 +935,12 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 66</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>88</td>
       <td>
       </td>
       <td>2014-06-23</td>
@@ -979,8 +958,8 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 7</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 90</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 91</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 94</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 98</li>
             <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 98</li>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 99</li>
@@ -1043,9 +1022,9 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 3</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 52</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 69</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 16</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 56</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 71</li>
             <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 100</li>
         </ul>
       </td>
@@ -1068,7 +1047,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 62</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1090,7 +1069,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 72</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1112,7 +1091,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 49</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 56</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 83</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 94</li>
         </ul>
@@ -1141,7 +1120,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 85</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 86</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 98</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 98</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 99</li>
@@ -1169,8 +1148,8 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 55</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 59</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 56</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 57</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 90</li>
         </ul>
       </td>
@@ -1211,12 +1190,12 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 2</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 20</li>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 35</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 33</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 35</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 55</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 35</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 58</li>
             <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 86</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1237,7 +1216,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 79</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 81</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 87</li>
         </ul>
       </td>
@@ -1261,7 +1240,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 58</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1307,7 +1286,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>2016</td>
@@ -1329,8 +1308,8 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 20</li>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 38</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 21</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 39</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 49</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 54</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 54</li>
@@ -1339,7 +1318,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/j6S4t_VATiNekmO78-cIfm7u2Q-pQcHMkOLSv7l32vM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzk2/MzktMTYxMTA1MDI3/Ny03ODU0LmpwZWc.jpeg" alt="Cover for Bloom" style="max-width:120px; height:auto;" />
       </td>
@@ -1377,8 +1356,8 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 64</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 77</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 65</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1408,15 +1387,15 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 7</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 13</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 9</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 22</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 62</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 63</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/VGZNva1NmxIaL2azWc_auxUAuRW5hwhRqK4tJHGGgFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTkw/MzUtMTQ2MzI0Njk5/Ni00NjQ5LmpwZWc.jpeg" alt="Cover for Lake Arrowhead EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1436,7 +1415,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/515eead357e506fe4d44e1645d4f4649.png" alt="Cover for Recto Verso" style="max-width:120px; height:auto;" />
       </td>
@@ -1445,17 +1424,16 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       <td>Recto Verso</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 89</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/16a913fab278366e56776460f322a6eb.png" alt="Cover for You&#39;ll Understand" style="max-width:120px; height:auto;" />
       </td>
@@ -1472,13 +1450,13 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 69</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 72</li>
             <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/1Dd_8IzU9lW2WK-VlZB1JIBnkyBzKYLIAicSLiCklbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAy/ODYyLTE1MTE3ODQ2/MzQtMTgwNS5qcGVn.jpeg" alt="Cover for Somewhere New" style="max-width:120px; height:auto;" />
       </td>
@@ -1493,7 +1471,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 44</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1536,7 +1514,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0c03053e393b8342ead6f4d20bca437.png" alt="Cover for The Outsiders" style="max-width:120px; height:auto;" />
       </td>
@@ -1556,7 +1534,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/Z5v3f9MjOY1QAckaTPBe6TkkMe8Uf150bMUFp9UCnL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQ1/ODA5LTE1MDIzODE4/MTAtMTUwOS5qcGVn.jpeg" alt="Cover for Umami" style="max-width:120px; height:auto;" />
       </td>
@@ -1590,8 +1568,8 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 23</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 35</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 26</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1615,7 +1593,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/Ua1UBcRkwcNlKEREqC5v51N-8OtRCaUyjuX3XH0L5B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjA2/NTg4LTE2MTIxNzI2/MzMtMzc3NC5qcGVn.jpeg" alt="Cover for Six Feet Under (The Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1634,13 +1612,13 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 76</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 78</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fa1a8aaa613d1f314a69fd1766e51c6.png" alt="Cover for Solace" style="max-width:120px; height:auto;" />
       </td>
@@ -1662,10 +1640,11 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 74</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 79</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 7</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 77</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 82</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 93</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 83</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1711,7 +1690,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a181e0bac12b3f98769c6ef93035f252.png" alt="Cover for 2012 - 2017" style="max-width:120px; height:auto;" />
       </td>
@@ -1730,7 +1709,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/_JeXni_NxpffDuOkRcYsbJvnt_21OJjZuglXISuk5W8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTYy/MzcyLTE1Mzc2NTky/NTgtODY2Mi5qcGVn.jpeg" alt="Cover for How The Dogs Chill, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1767,10 +1746,10 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 43</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 57</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 47</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 59</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 89</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 91</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 93</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 100</li>
         </ul>
       </td>
@@ -1792,8 +1771,8 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 15</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 40</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 19</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1899,7 +1878,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/RngtQY6boGZ_xQPcVQJMftmYkNJ6nQvS6DPc_lIU6oc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDUz/OTMzLTE1OTE3OTI5/ODYtMzU2Ny5qcGVn.jpeg" alt="Cover for Nothing Left" style="max-width:120px; height:auto;" />
       </td>
@@ -1920,15 +1899,15 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 27</li>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 41</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 28</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 42</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 55</li>
             <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0dfca411df4db4b143ac0d375682e86b.png" alt="Cover for Golden Hour" style="max-width:120px; height:auto;" />
       </td>
@@ -1944,8 +1923,8 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 78</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 92</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 79</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1972,7 +1951,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 80</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 82</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 94</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 96</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 98</li>
@@ -2024,12 +2003,12 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 86</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a8b48145c07723ab39ededca36fc03e.png" alt="Cover for 1 and 1 - The 5th Album Repackage" style="max-width:120px; height:auto;" />
       </td>
@@ -2096,9 +2075,9 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 20</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 21</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 28</li>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 50</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 51</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 83</li>
         </ul>
       </td>
@@ -2121,7 +2100,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 36</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 45</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 80</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 93</li>
         </ul>
@@ -2148,9 +2127,9 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 19</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 20</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 26</li>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 48</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -2171,7 +2150,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 57</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -2195,7 +2174,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/JRwk8YhrjWbi1nbOaHYy8g_GDuz428Ok7KwbYW-AjDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTU5/MTEzLTE2OTcwMDA5/OTctNDIwMi5qcGVn.jpeg" alt="Cover for Girls of the Year" style="max-width:120px; height:auto;" />
       </td>
@@ -2213,6 +2192,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 4</li>
             <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 92</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 97</li>
         </ul>
@@ -2256,7 +2236,7 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 41</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 42</li>
             <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 97</li>
         </ul>
       </td>
@@ -2279,7 +2259,25 @@ Deep house is a subgenre of house music that originated in the 1980s in the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 44</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/055bc8d6ad0d1458cc4461bdc9ff7fea.png" alt="Cover for BUBBA" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>KAYTRANADA</td>
+      <td>BUBBA</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-10T13:05:35.285Z
+date: 2025-11-12T01:57:06.901Z
 permalink: tags/adult-contemporary
 title: adult contemporary
 ---
 
 ## adult contemporary
 
-Last updated: <time datetime="2025-11-10T13:05:35.285Z">Mon Nov 10 2025 15:05:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-12T01:57:06.901Z">Wed Nov 12 2025 03:57:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Adult contemporary music is a broad category of popular music that is generally 
   </thead>
   <tbody>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/Q7yFaPe1HKkbV9CVnWxAyOoOM4VPogKKAJzt9HtZm8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA0/OTU4LTE1NDgxMzQ5/NzUtOTY4Ni5qcGVn.jpeg" alt="Cover for Harum Scarum" style="max-width:120px; height:auto;" />
       </td>
@@ -71,7 +71,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td>1969-03</td>
@@ -95,7 +95,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>1970</td>
@@ -120,7 +120,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7f1eff943f09dec593b7638e670d98f.png" alt="Cover for The Divine Miss M" style="max-width:120px; height:auto;" />
       </td>
@@ -142,7 +142,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4ee01793a601d1016ffec3465d6581d.png" alt="Cover for Dionne" style="max-width:120px; height:auto;" />
       </td>
@@ -165,7 +165,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/WlQnj61i4te03fFOK4oit7ga9W3Ha957HAJmCCFYKu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/MzgtMTI0NTQ1NzY1/My5qcGVn.jpeg" alt="Cover for Into The Music" style="max-width:120px; height:auto;" />
       </td>
@@ -184,7 +184,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/0Fk_MW_O6RG989as_mdU2GkP_NQToed89afjai0JWj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDMx/My0xNTg0ODIwMDM5/LTQ5MjgucG5n.jpeg" alt="Cover for Scissors Cut" style="max-width:120px; height:auto;" />
       </td>
@@ -203,7 +203,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>1982</td>
@@ -221,7 +221,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/192df03729106806bdb2a763b327f2a4.png" alt="Cover for Jeffrey Osborne" style="max-width:120px; height:auto;" />
       </td>
@@ -256,7 +256,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 32</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 37</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 71</li>
         </ul>
       </td>
@@ -280,7 +280,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a12d150c799c416daef11949670485c8.png" alt="Cover for An Innocent Man" style="max-width:120px; height:auto;" />
       </td>
@@ -296,14 +296,14 @@ Adult contemporary music is a broad category of popular music that is generally 
       <td>
         <ul>
             <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 36</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 45</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 46</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 45</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 46</li>
             <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>1984-04</td>
@@ -322,7 +322,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/E21EwiFKR2H7GenFqqx6MXp4GfNIiluEbXU1KNeJgKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzY0/OTgtMTI4MjUwNjAz/OC5qcGVn.jpeg" alt="Cover for Movin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -337,12 +337,12 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 58</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/994d5e98d6188ea081e23416b793338b.png" alt="Cover for Completamente Tuya" style="max-width:120px; height:auto;" />
       </td>
@@ -377,14 +377,14 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 13</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 92</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 98</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 14</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 94</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5b179df7c897c7fb065a0771f2e30a6.png" alt="Cover for The Beach Boys (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -404,7 +404,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e5227a8138d2073450dd1803abd876d.png" alt="Cover for 12&quot;ers" style="max-width:120px; height:auto;" />
       </td>
@@ -442,7 +442,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/875b13cf4ec74802b38d4057e75c2ad3.png" alt="Cover for Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -462,7 +462,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09edfa398db24887c82787224f59852e.png" alt="Cover for If On A Winter&#39;s Night..." style="max-width:120px; height:auto;" />
       </td>
@@ -481,7 +481,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/768f4a0aeb5f92c5b08a51db19a53763.png" alt="Cover for Break Every Rule" style="max-width:120px; height:auto;" />
       </td>
@@ -500,7 +500,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/eQC3K4lVzugrBuNZ4NXj0JtfrHYLLbEY73-u04Rz8_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDYy/OTMtMTQzODUyMjE1/Ni0yNzk4LmpwZWc.jpeg" alt="Cover for Chicago 18" style="max-width:120px; height:auto;" />
       </td>
@@ -519,7 +519,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/tTDzNOEj_L-oxuYUaj1Y8OI-nZi8QNWMB6aPUb5AE_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE0/NjQ2LTE2MTQyODUx/ODgtODM3MC5qcGVn.jpeg" alt="Cover for Nightshift" style="max-width:120px; height:auto;" />
       </td>
@@ -540,7 +540,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/3aH9X910TrCX5uBxwO6HMbsiTHdu0K0nr8b8D6uQrH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI2/MjItMTM0NDQyMjc1/MS02NzkzLmpwZWc.jpeg" alt="Cover for Big Dreamers Never Sleep" style="max-width:120px; height:auto;" />
       </td>
@@ -561,7 +561,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>1987-02-13</td>
@@ -599,7 +599,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/35cacdc64e5399cc316beccbfb48660a.png" alt="Cover for Unreleased" style="max-width:120px; height:auto;" />
       </td>
@@ -641,7 +641,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/u-Nji0HtdAK2tSHEmetk1s-f2JDqbkVrknMvR3qt-tc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/NTItMTYyOTU5MTA1/Ni00NTUwLmpwZWc.jpeg" alt="Cover for Till I Loved You" style="max-width:120px; height:auto;" />
       </td>
@@ -667,7 +667,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/V6Gykf4G7btEnPbDwtWhn4zVeafIjhR9_79knO59RZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTg4/ODAtMTUyNjEzMjY2/Mi02NzY3LmpwZWc.jpeg" alt="Cover for Mythology" style="max-width:120px; height:auto;" />
       </td>
@@ -685,7 +685,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3942887994ab4d2acdd0945412b7b2a1.png" alt="Cover for Unison" style="max-width:120px; height:auto;" />
       </td>
@@ -703,7 +703,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>1990-10-29</td>
@@ -728,7 +728,31 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>1991</td>
+      <td>Madonna</td>
+      <td>The Next Best Thing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f606e145fc64b73cb7d689456c35448.png" alt="Cover for Into The Light" style="max-width:120px; height:auto;" />
       </td>
@@ -746,28 +770,6 @@ Adult contemporary music is a broad category of popular music that is generally 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>80</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a64cd0c90af35283c38b24fe42057df8.png" alt="Cover for ...But Seriously (2016 Remaster)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992</td>
-      <td>Phil Collins</td>
-      <td>...But Seriously (2016 Remaster)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
         </ul>
       </td>
       <td>
@@ -796,7 +798,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>1993-05-25</td>
@@ -813,7 +815,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>1993-09-28</td>
@@ -833,7 +835,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/q_WCzAIINUNtqLIxTybou9_dT8BZQeh7wYBybeCXVK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Njc4/Ni0xMTM3NTk5MjMz/LmpwZWc.jpeg" alt="Cover for Amor Prohibido" style="max-width:120px; height:auto;" />
       </td>
@@ -852,7 +854,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fee9f6d3cfc3d1567c2de7689cbcd24c.png" alt="Cover for Kylie Minogue" style="max-width:120px; height:auto;" />
       </td>
@@ -871,7 +873,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/CtM4hk9p-0De51LlR-hDEmO6p_zJvxpgsuuHsVq3TK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODk2/NTEtMTE5MTI0MDcx/Mi5qcGVn.jpeg" alt="Cover for Home" style="max-width:120px; height:auto;" />
       </td>
@@ -910,12 +912,12 @@ Adult contemporary music is a broad category of popular music that is generally 
         <ul>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 30</li>
             <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 89</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 95</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d876f5dba7e43fc90b5b37b48eea995.png" alt="Cover for Habítame Siempre (Bonus Tracks Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -955,7 +957,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 36</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 42</li>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 72</li>
             <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 78</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 81</li>
@@ -963,7 +965,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/IuTM9eQPlSFRLv3xHdbCEINgZUihiCOK1Hs_Sg1_frw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Mzg3/NTEtMTM3MDcxNjkx/NS05MjUxLmpwZWc.jpeg" alt="Cover for Turn It On" style="max-width:120px; height:auto;" />
       </td>
@@ -983,13 +985,13 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 16</li>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 17</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 17</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>1997-09-09</td>
@@ -1029,12 +1031,12 @@ Adult contemporary music is a broad category of popular music that is generally 
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 41</li>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 76</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>1999-04-27</td>
@@ -1052,7 +1054,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f49146453d18b2d47f870e4cb749c81a.png" alt="Cover for Amber" style="max-width:120px; height:auto;" />
       </td>
@@ -1077,7 +1079,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/acf0f76ca5ac2d17f02398dd6589b1f1.png" alt="Cover for Twenty Four Seven" style="max-width:120px; height:auto;" />
       </td>
@@ -1113,7 +1115,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/nE4cCpDEL0VpF1fly2tHiK-kBpjo1KsbeeKk4cqOXg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjcw/MzYtMTUxMjc2NjQ5/Mi02ODc5LmpwZWc.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1135,7 +1137,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1029dda410da33a2544b9ff5d603eecb.png" alt="Cover for This Is Where I Came In" style="max-width:120px; height:auto;" />
       </td>
@@ -1155,7 +1157,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/cKK0O_KnFlxwlLBu_47ywoFnVIIC3RRTjWLbjf73V-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTI4/NjctMTQ2NjgxNDIw/Ny02ODc5LmpwZWc.jpeg" alt="Cover for Supreme Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1182,7 +1184,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d0a8671929f9c51eb8f303148e8953b.png" alt="Cover for Motherland" style="max-width:120px; height:auto;" />
       </td>
@@ -1224,13 +1226,13 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 30</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 35</li>
             <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b56aeaabbc51f42da2752aa17c7bd94b.png" alt="Cover for The Very Best of Chicago: Only the Beginning" style="max-width:120px; height:auto;" />
       </td>
@@ -1251,7 +1253,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbba00cb56704c22cc4137cb542af723.png" alt="Cover for State of Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -1269,7 +1271,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/506686c25dd547ca893d8a028b145e8b.png" alt="Cover for One More Chance" style="max-width:120px; height:auto;" />
       </td>
@@ -1291,7 +1293,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2004</td>
@@ -1308,7 +1310,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/mqAK0mWPdq2mjoTvqqBvbkOC8aSEf8pwOTPZU6TefdQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQy/MzExLTE2NTk3MTM5/NTEtMTU3NS5qcGVn.jpeg" alt="Cover for Playlist: The Very Best Of Five For Fighting" style="max-width:120px; height:auto;" />
       </td>
@@ -1351,7 +1353,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/34935e556f444ec0a068f4392e5c3e1e.png" alt="Cover for The Battle For Everything" style="max-width:120px; height:auto;" />
       </td>
@@ -1372,7 +1374,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/deae190854378cb6feb43cee0f925f7b.png" alt="Cover for Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -1395,7 +1397,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/2zMh1lZfEhqb_3QJoiqOJToB6njHYvggAxCYF6BshHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDQ3/NDUtMTUyOTE5NDU3/Ny0yNjE1LmpwZWc.jpeg" alt="Cover for Forget Me Not" style="max-width:120px; height:auto;" />
       </td>
@@ -1416,7 +1418,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2006-09-18</td>
@@ -1439,7 +1441,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/bMmucPFCw1DW3v9hmkOVq2rTaIrQj9ExqNphVPgnXFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Njk3/NC0xNDMxNTI4MDc4/LTQ2MDguanBlZw.jpeg" alt="Cover for Ain&#39;t No Other Man - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1458,7 +1460,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88e68de8b5734d2ccd72de41b7d6948e.png" alt="Cover for The Same Side" style="max-width:120px; height:auto;" />
       </td>
@@ -1477,9 +1479,9 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/z86nzAKoyMxrm5XXclpj-9os9UmJSNASRQIiSthWWqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzYw/MTYtMTU2MDM1NDIz/Ny0yNDQwLmpwZWc.jpeg" alt="Cover for Necessary Evil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11aa58c12d1349f8ad9c06f625fdeaad.png" alt="Cover for Necessary Evil" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-01</td>
       <td>Deborah Harry</td>
@@ -1501,7 +1503,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/HsfleBWM1L-jN7eZ5JRSXbSHBIGfsXQRhuwtOSWneAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTYx/MTMxLTE0OTk5MjEz/NzgtNDQzMy5qcGVn.jpeg" alt="Cover for Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1522,7 +1524,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/rjMW47yDalHrjlcxDx62NILmqwWj3euj6avYALhi_h0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODk5/MzgtMTM5ODk0MTYz/OC03Mjg0LmpwZWc.jpeg" alt="Cover for KEYS II" style="max-width:120px; height:auto;" />
       </td>
@@ -1540,7 +1542,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a727f737266b4fa6898fc89fe65d5a78.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1558,7 +1560,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/DuMDCr10IpJ0onYGXZZgpU4J0O6xsR08Cnhjy3ynv8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTUy/NjEtMTMzNTEwODIz/MC5qcGVn.jpeg" alt="Cover for Awake Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1577,7 +1579,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/0YOhCg06LcHKNy8tPAMw50AOJXNQktZKMY18p-PBCF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzQy/MjEtMTIzOTkxOTA4/Mi5qcGVn.jpeg" alt="Cover for London Undersound" style="max-width:120px; height:auto;" />
       </td>
@@ -1620,17 +1622,17 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 73</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 75</li>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 89</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 99</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 100</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 100</li>
             <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 100</li>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dc7bf5dc2c74a1b9f7a62b37520cfab.png" alt="Cover for This Empty Northern Hemisphere" style="max-width:120px; height:auto;" />
       </td>
@@ -1646,14 +1648,14 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 27</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 53</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 30</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 55</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>2009-10-12</td>
@@ -1672,7 +1674,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/9lHy8MUAA0u2eA4VzZ0kNfE81Fa_2jvMb8dHmW-xIPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDg4/OTI3LTE0OTg0OTIy/OTctMTUwMi5qcGVn.jpeg" alt="Cover for Flaming Star" style="max-width:120px; height:auto;" />
       </td>
@@ -1696,7 +1698,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
       </td>
       <td>2011-11-28</td>
@@ -1717,12 +1719,12 @@ Adult contemporary music is a broad category of popular music that is generally 
       <td>
         <ul>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 2</li>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 85</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/fxXTtPDEiOwPM5r8NO_Q5B16oVuU3wKQGW5l5yqGpEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgy/MzAyLTE2MDY1MjA2/MzEtMzUxNC5qcGVn.jpeg" alt="Cover for Lo Mejor De Maria Conchita Alonso" style="max-width:120px; height:auto;" />
       </td>
@@ -1744,7 +1746,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91a9ebc8e3e64806b7cd2c053115f0cb.png" alt="Cover for Dance Again... The Hits (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1767,7 +1769,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/w-LWUnaHEpasBUt5MBfJMb0lMrm2OJeIhIFX-J8CTdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTU3/MjAtMTQ4NTIyMzA2/Ny0yNDY5LmpwZWc.jpeg" alt="Cover for We&#39;re On Our Way Now" style="max-width:120px; height:auto;" />
       </td>
@@ -1788,7 +1790,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/3QYxvgCh-2A4OUVp8Z_nqy1-xwnBhrprzYc0u4xFLz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzg2/NTAtMTMzMTk5NTkx/MC5qcGVn.jpeg" alt="Cover for Eros Best Love Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1813,7 +1815,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5cd7215ee374ec0b4f1e333e7ac4c89.png" alt="Cover for Lately" style="max-width:120px; height:auto;" />
       </td>
@@ -1833,7 +1835,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee33fe9007a06e94a1e600a5906e53aa.png" alt="Cover for Armageddon" style="max-width:120px; height:auto;" />
       </td>
@@ -1854,7 +1856,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2012-11-02</td>
@@ -1891,12 +1893,12 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 48</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c2614b68287476dc713835a233c36af.png" alt="Cover for Unrepentant Geraldines" style="max-width:120px; height:auto;" />
       </td>
@@ -1929,12 +1931,12 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 74</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/758ac87bfe48e24f2c70189d6f082381.png" alt="Cover for Spring Awakening (Original Broadway Cast Recording)" style="max-width:120px; height:auto;" />
       </td>
@@ -1951,11 +1953,12 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/o8zqX1y2Crol61lwNyfWM53_u0SXX-2YXpCBn9EQLAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTY1/MTg1LTE1MTEwNjEx/NTYtNzE1Ny5qcGVn.jpeg" alt="Cover for I Fall In Love Too Easily" style="max-width:120px; height:auto;" />
       </td>
@@ -1976,7 +1979,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/cdNNJVMgDY7_Q5tMc_t5aVHtr9uukTcjz2keB6rwZlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjc5/OTU1LTE1MjA1NDEw/MjAtODE4OC5qcGVn.jpeg" alt="Cover for One More Try" style="max-width:120px; height:auto;" />
       </td>
@@ -2011,12 +2014,12 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 89</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/37e842c18719e0b123146ecc13a17a69.png" alt="Cover for Worry No More" style="max-width:120px; height:auto;" />
       </td>
@@ -2038,9 +2041,9 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
-          <img src="https://i.discogs.com/CnkBFd8oMLYgV75y4DN7sAeOwkru01BdI2nADoAs7R0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk4/ODYxLTE1Nzk4ODQy/MTItNzg4Mi5qcGVn.jpeg" alt="Cover for Über Nacht" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82d3aea9b646a042225121a35432ecb6.png" alt="Cover for Über Nacht" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-01-24</td>
       <td>Oehl</td>
@@ -2061,7 +2064,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a1030c109fda7817de00e581aeb0b5f.png" alt="Cover for 4 (The Pink Album)" style="max-width:120px; height:auto;" />
       </td>
@@ -2080,14 +2083,14 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 17</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 23</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 76</li>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/o2r9UWX69w21-h1-1vdFURJ-XLVNlsQBeOrQFMhLgHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg5/OTktMTYyMTEyMDkx/MC02MDk0LnBuZw.jpeg" alt="Cover for Flying On The Ground" style="max-width:120px; height:auto;" />
       </td>

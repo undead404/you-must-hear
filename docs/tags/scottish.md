@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T02:35:14.102Z
+date: 2025-11-12T01:59:06.686Z
 permalink: tags/scottish
 title: scottish
 ---
 
 ## scottish
 
-Last updated: <time datetime="2025-10-31T02:35:14.102Z">Fri Oct 31 2025 04:35:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-12T01:59:06.686Z">Wed Nov 12 2025 03:59:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
   </thead>
   <tbody>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/GxhtYHUVHFYS2fd9XVNwN2cFXn6We6rxIE8O86RIGOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTA0/MDItMTI5NDk1ODU3/NS5qcGVn.jpeg" alt="Cover for The Big Huge" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f82895794b148de9e9c4fb435f67a8b.png" alt="Cover for The Big Huge" style="max-width:120px; height:auto;" />
       </td>
       <td>1968-10</td>
       <td>The Incredible String Band</td>
@@ -65,13 +65,15 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 85</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 4</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b80c9887b643878f804a02eb99d48a53.png" alt="Cover for Caledonia&#39;s Hardy Sons" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Silly Wizard</td>
@@ -89,7 +91,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>1979</td>
@@ -127,6 +129,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/380d0273124e0d96cb47a288bb1c1fd8.png" alt="Cover for Rip It Up" style="max-width:120px; height:auto;" />
       </td>
       <td>1982-11</td>
       <td>Orange Juice</td>
@@ -139,29 +142,12 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>1984</td>
-      <td>The Tannahill Weavers</td>
-      <td>Passage</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td>1984-10-19</td>
@@ -178,8 +164,9 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71cb16e8a88f50a9643f4c153697fa35.png" alt="Cover for The Best of Silly Wizard" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Silly Wizard</td>
@@ -213,9 +200,27 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
+      <td>46</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a643619fd790409289ee6e08e28afde2.png" alt="Cover for This Is The Story" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987-04-12</td>
+      <td>The Proclaimers</td>
+      <td>This Is The Story</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/5KwlN4GJUBvIX5sXQONcnchrlokDnSpWbCvX0DdXOW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjIz/OC0xMDc3NzgxMjY4/LmpwZw.jpeg" alt="Cover for Raintown" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d6b3a221b4f70d3c31bbe358976794d.png" alt="Cover for Raintown" style="max-width:120px; height:auto;" />
       </td>
       <td>1987-05-01</td>
       <td>Deacon Blue</td>
@@ -267,11 +272,11 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 55</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 77</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 76</li>
             <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 79</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 90</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 95</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 95</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 95</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 96</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 99</li>
         </ul>
@@ -280,6 +285,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9596a4cceeb16758d0f53f42140ca0ab.png" alt="Cover for Once in a Lifetime" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Runrig</td>
@@ -296,8 +302,9 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a73ebdaf1fa69098988042a8c485c933.png" alt="Cover for Searchlight" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Runrig</td>
@@ -313,8 +320,9 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04342ca6a977c828c1898ae4a43f5ea6.png" alt="Cover for Southside" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Texas</td>
@@ -331,7 +339,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
       </td>
       <td>1989</td>
@@ -350,7 +358,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/03F1i8kPMHpRIEDE20A3WZ6poR0UmFJ2DA0LIbQ4RtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDMz/My0xNDcxMTI5Mzg4/LTcwMjAuanBlZw.jpeg" alt="Cover for Lyceum" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4936940559395c97b14836d3d2415a3c.png" alt="Cover for Lyceum" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-09-04</td>
       <td>The Orchids</td>
@@ -367,7 +375,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/8_mD1BGy_xutA3bxy6Pnkz19SzXdGoUBp-oXzP6x4PA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzUw/MDUtMTIxMDYxNTY5/Ny5qcGVn.jpeg" alt="Cover for Unholy Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -410,7 +418,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td>1993</td>
@@ -431,7 +439,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/IMwgAzB2bs0TcSuSCTbfpMr6MDBOXIxviOs5EfNtpto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTkx/MDEtMTM5ODE1MDM2/My02MjQ1LmpwZWc.jpeg" alt="Cover for Capernaum" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12882ea60e606a6be743bf8061cf6ecc.png" alt="Cover for Capernaum" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>The Tannahill Weavers</td>
@@ -448,7 +456,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/nmQRA_9ArE3_S75M1MxXr4l0XCGSs1Zz_nc6IWCcdgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgw/MDItMTIxMDg2MDI3/NC5qcGVn.jpeg" alt="Cover for Eddi Reader" style="max-width:120px; height:auto;" />
       </td>
@@ -470,7 +478,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/ed9V5UwNT19avNCA6ALH9tJlgVw5TLrKk8wpqJ6klts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzE5/NzcxLTE1ODcxMzgx/NzctODkzMi5qcGVn.jpeg" alt="Cover for Dawn Dance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e941a78c6e73409ef85e56a9d63eafb.png" alt="Cover for Dawn Dance" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Alasdair Fraser</td>
@@ -507,8 +515,9 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aca07ad0d23b4638b77aa83a4ab46ffe.png" alt="Cover for Tigermilk" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-06-06</td>
       <td>Belle and Sebastian</td>
@@ -520,8 +529,8 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 17</li>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 45</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 6</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -547,7 +556,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/OCyz_CEsXguMjR4k_S9X7KhdXc79FS2jQw5f2IhjwCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzI5/NjctMTIyOTQ2Nzkw/MS5qcGVn.jpeg" alt="Cover for White On Blonde" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10c7a8f41cc916c002ddf6b9633c767b.png" alt="Cover for White On Blonde" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-02-01</td>
       <td>Texas</td>
@@ -555,11 +564,12 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
+            <li style="font-size: calc(1rem * 57.95454545454546 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -600,14 +610,14 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 9</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 47</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 18</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 49</li>
             <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/ocWKeU05fJtDeT98CnJt6jD2YMS7f0s9XI5TxxDdR_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODcz/MC0xMjIyODA5MDUw/LmpwZWc.jpeg" alt="Cover for The Boy With the Arab Strap" style="max-width:120px; height:auto;" />
       </td>
@@ -621,13 +631,13 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 20</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 39</li>
             <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td>1998</td>
@@ -646,7 +656,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/R7XttWzMj7eRR3actnE4Ffo9w5wXl7KnmBes2ozl-vg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDgz/NDEtMTIxNzE0NjIy/OC5qcGVn.jpeg" alt="Cover for The Three EP&#39;s" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91ebfe255e444a24bc6286f3aaa09cb7.png" alt="Cover for The Three EP&#39;s" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>The Beta Band</td>
@@ -665,6 +675,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b51068da846421091b4d3686ae12c93.png" alt="Cover for Philophobia" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-04-20</td>
       <td>Arab Strap</td>
@@ -728,7 +739,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/G_HIt-YFEFLUPohQGbrRks_j6hMlQ1xB5O1VOfRAaFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTMy/My0xMzQzNTE1MDI4/LTcyMzcuanBlZw.jpeg" alt="Cover for Fuaim Catha" style="max-width:120px; height:auto;" />
       </td>
@@ -784,7 +795,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/IDjtJ9ejf1MRyLAqevpZ4_nzq-JMFIvLFV0EQfpaDrA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjQ2/LTE1MjI0MjkyMDgt/MTI4MC5qcGVn.jpeg" alt="Cover for The Beta Band" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffda506d6f99614791b54b9c7096bf6a.png" alt="Cover for The Beta Band" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-06-21</td>
       <td>The Beta Band</td>
@@ -821,7 +832,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/PHMyiQqXjkAmYcluKXlK4_5yz5XcFOGQtkmdHvEBFbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTc3/NS0xMTQ0MDA0ODYy/LmpwZWc.jpeg" alt="Cover for Weather Underground" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4791d212cb04d1894bb5a486ce155b6.png" alt="Cover for Weather Underground" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-03-06</td>
       <td>Geneva</td>
@@ -839,7 +850,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
       </td>
       <td>2000-05-08</td>
@@ -856,7 +867,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/iPA9xodQYJ3MO4j8-hs_Ejq5NwcvCUDolFBKiFumB_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ0/LTE1MDMwMTA0MzMt/Mzk4OS5qcGVn.jpeg" alt="Cover for No Style" style="max-width:120px; height:auto;" />
       </td>
@@ -894,7 +905,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/I5S6piY32gvIQ6F3Vidc8jRrPVZfwzAFEGvat9KtRAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTQy/MS0xMjgwNjQ0MTcw/LmpwZWc.jpeg" alt="Cover for Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -912,19 +923,15 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/IXk81T28QtQTRVXhDpHRSgbLu29twQkTH36f5KgiCWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIx/NjQ3LTE2MDIwMjYy/NDAtNjQzNS5qcGVn.jpeg" alt="Cover for 10 Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/abbe3eb631e188129b78927877d98989.png" alt="Cover for 10 Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Travis</td>
       <td>10 Songs</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
         </ul>
       </td>
       <td>
@@ -933,8 +940,9 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d38e04cc76a7499c9ceceec2fb47ffdd.png" alt="Cover for Another Round" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>The Irish Rovers</td>
@@ -949,7 +957,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 6</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 8</li>
             <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 92</li>
         </ul>
       </td>
@@ -1030,6 +1038,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62dc0504931d817172060653fd41930e.png" alt="Cover for Hate" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-10-14</td>
       <td>The Delgados</td>
@@ -1047,7 +1056,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/_UVvHMvfGQkiSIJLPAVxIxD38nS_miCHN8LG8OKa3mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDU0/NDItMTM0OTU5OTIy/Ny02Nzg3LmpwZWc.jpeg" alt="Cover for Rakish Paddies" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fec5b56d6c1540ca91591aaac0d13b3c.png" alt="Cover for Rakish Paddies" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Rapalje</td>
@@ -1070,8 +1079,9 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8d52ac613034468a0636ea76aa4b885.png" alt="Cover for Choice Language" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Capercaillie</td>
@@ -1084,7 +1094,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 55</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1165,9 +1175,9 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/l4vRy3KS32GOQoeZFT-s00sxkuW8v30CmoRlpBTvCz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTQz/OS0xMjg4NzA2OTU4/LmpwZWc.jpeg" alt="Cover for Dear Catastrophe Waitress" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1487b152f3a660b0149783c43989b5b8.png" alt="Cover for Dear Catastrophe Waitress" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-10-06</td>
       <td>Belle and Sebastian</td>
@@ -1179,14 +1189,14 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 27</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/r3XtZszefE--0X9H1FUQZD-lU_rvuFtng3DOxR5VXbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTAy/Ni0xMjQ5ODMxODQ4/LmpwZWc.jpeg" alt="Cover for Careful What You Wish For" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e630b9f0ad4a446d9b8bac82bfe84f52.png" alt="Cover for Careful What You Wish For" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-10-20</td>
       <td>Texas</td>
@@ -1226,7 +1236,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c14e3a3364bfd4c45d5f07f4e77767a.png" alt="Cover for Heroes To Zeros" style="max-width:120px; height:auto;" />
       </td>
@@ -1241,7 +1251,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 48</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1285,7 +1295,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/SlbadPrWbhVhVHKNMx4N1IfW758rJSorxH5CiDzPS0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODUx/Mi0xMTQzMTM4NDgx/LmpwZWc.jpeg" alt="Cover for Universal Audio" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6fd96c1fa3f1112fb86f80e05db3f27.png" alt="Cover for Universal Audio" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-20</td>
       <td>The Delgados</td>
@@ -1303,7 +1313,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/R6Dn0gYv3w2NhXZvbiT1aLlMPR2cazn2OJMFAxIVA0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzUx/MzQtMTM4NDQxNzYw/MS03MjU3LmpwZWc.jpeg" alt="Cover for Eye to the Telescope" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd88bbea53e06a31b4f83cc7d6a30cfb.png" alt="Cover for Eye to the Telescope" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-12-13</td>
       <td>KT Tunstall</td>
@@ -1315,14 +1325,14 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 74</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/IcPbI26XnCP-iPqWJjXZhQMV1TibBWuOJxP13u5a0BU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODIz/OS0xMTc2MTc5OTY2/LmpwZWc.jpeg" alt="Cover for Red Book" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6063b81f967f7a7da9a237d49ef319fd.png" alt="Cover for Red Book" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-01-01</td>
       <td>Texas</td>
@@ -1357,8 +1367,9 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9fd0e2e7aa3b78b282d8d95b19ad4ba.png" alt="Cover for The Magnificent Duke" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-02</td>
       <td>Marmaduke Duke</td>
@@ -1374,9 +1385,9 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/-JhNqge2i83Q7vCnD6-dhl9NxpO5p0Kjr3GeDY3BQ50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Mzc0/NS0xMzMwNzI5MzAz/LmpwZWc.jpeg" alt="Cover for Push Barman to Open Old Wounds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8b593a663664f83bff4b0534743bf9f.png" alt="Cover for Push Barman to Open Old Wounds" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-23</td>
       <td>Belle and Sebastian</td>
@@ -1392,7 +1403,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/EmkOmKJ4fOg8hhpIiFLs0DuBw5W6PwBWjQwZcRffexw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDU4/NTItMTE4MzkxMzMx/OC5qcGVn.jpeg" alt="Cover for KC Rules OK" style="max-width:120px; height:auto;" />
       </td>
@@ -1411,7 +1422,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td>2006</td>
@@ -1430,6 +1441,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0937d6798ac89d5e18baec882825eee9.png" alt="Cover for The Life Pursuit" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-02-06</td>
       <td>Belle and Sebastian</td>
@@ -1441,12 +1453,12 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 16</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td>2006-03-06</td>
@@ -1499,7 +1511,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7dd848447f621d7344af008e261e4a89.png" alt="Cover for Random Acts of Intimacy" style="max-width:120px; height:auto;" />
       </td>
@@ -1519,7 +1531,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/y1aQS3uxBLslmodCrsbyZfZ0AyDd2kr9x6JgX0XCGds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzIw/MzgtMTE5MDAzMzMz/MC5qcGVn.jpeg" alt="Cover for Bombshell" style="max-width:120px; height:auto;" />
       </td>
@@ -1540,6 +1552,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21d48e03e3294dbfafbc77c04850b085.png" alt="Cover for Hats Off To The Buskers" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01-22</td>
       <td>The View</td>
@@ -1574,9 +1587,9 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/S_jqI4TXli8lxxI2gEwQEV9RBapB_BsAwagNgfQ3M0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjkx/MjQtMTMzMDE4ODEx/MS5qcGVn.jpeg" alt="Cover for Cuilidh" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd667ee5cf1941a53d1d0f0e77df35c7.png" alt="Cover for Cuilidh" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-26</td>
       <td>Julie Fowlis</td>
@@ -1590,13 +1603,13 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 8</li>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 7</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38447bcdaab67e97e1f2c8f4262526d6.png" alt="Cover for Songs of Mass Destruction" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,7 +1629,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td>2008-04-14</td>
@@ -1667,7 +1680,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 93</li>
+            <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1693,6 +1706,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01109af55e654c5ba71e69d21a6e3ddd.png" alt="Cover for Sunny Side Up" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-29</td>
       <td>Paolo Nutini</td>
@@ -1704,12 +1718,12 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 11</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cbd4dd3d3ea4245a8fdecf9a0011ddd.png" alt="Cover for These Four Walls" style="max-width:120px; height:auto;" />
       </td>
@@ -1748,7 +1762,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/IKaWvf5B54OjOuxT7dWYhWd0shRFhBJuLGVjndcaNkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTg2/MTctMTUxNzI1NzM2/Ni04MjIwLmpwZWc.jpeg" alt="Cover for Write about Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1764,8 +1778,8 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 44</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 68</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 45</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1789,7 +1803,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe6dca8a1a6f40e0b8fd1ceafa1ca01e.png" alt="Cover for Opposites (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1829,7 +1843,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22195489ff3b1d4078e5b8e2acfcb54d.png" alt="Cover for Ellipsis (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1849,7 +1863,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70241410cb1d4498872058fa386bcf6e.png" alt="Cover for Slow Summits" style="max-width:120px; height:auto;" />
       </td>
@@ -1891,7 +1905,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14c8e88292244ccacc54ccbc0108ff6a.png" alt="Cover for Amphetamine Ballads" style="max-width:120px; height:auto;" />
       </td>
@@ -1953,7 +1967,7 @@ Scottish music refers to the traditional and contemporary music of Scotland, whi
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/WzphlNpQgJ7MvxeWocHM1BLT1WDMUi2xXcN494eE6tU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDEw/OTI2LTE1OTExMDg5/NzYtOTI4NC5qcGVn.jpeg" alt="Cover for Everything Changes in the End" style="max-width:120px; height:auto;" />
       </td>
