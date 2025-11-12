@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-10T07:14:34.392Z
+date: 2025-11-11T20:45:01.128Z
 permalink: tags/alternative-pop
 title: alternative pop
 ---
 
 ## alternative pop
 
-Last updated: <time datetime="2025-11-10T07:14:34.392Z">Mon Nov 10 2025 09:14:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T20:45:01.128Z">Tue Nov 11 2025 22:45:01 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
   </thead>
   <tbody>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3086e9a2917ce26204d7df9bb4eb0ac7.png" alt="Cover for The Family Jewels (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 74</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 76</li>
             <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 100</li>
         </ul>
       </td>
@@ -77,13 +77,13 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 10</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 13</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 14</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 62</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 73</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 75</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 77</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 87</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 89</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 91</li>
         </ul>
       </td>
@@ -113,15 +113,15 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 4</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 31</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 42</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 43</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 86</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 34</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 44</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 55</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 86</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 86</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 87</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 91</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 95</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 92</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 96</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 97</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 98</li>
         </ul>
       </td>
@@ -151,15 +151,15 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 8</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 10</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 17</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 27</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 12</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 27</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 31</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 76</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 81</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 82</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 86</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 91</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 92</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 93</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 95</li>
         </ul>
       </td>
@@ -201,26 +201,26 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 4</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 15</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 40</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 9</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 43</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 55</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 71</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 70</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 72</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 72</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 73</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 74</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 83</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 84</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 85</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 86</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 87</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 89</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 93</li>
             <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 95</li>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 96</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 97</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -255,17 +255,18 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 17</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 5</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 53</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 69</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 70</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 68</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 70</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 71</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 72</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 81</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 82</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 83</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 83</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 83</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 83</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 84</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 85</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 87</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 91</li>
         </ul>
@@ -302,18 +303,18 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 7</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 14</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 11</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 61</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 72</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 73</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 75</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 76</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 86</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 86</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 87</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 90</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 94</li>
         </ul>
@@ -372,19 +373,20 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 11</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 12</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 23</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 1</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 22</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 27</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 70</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 78</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 79</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 82</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 83</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 88</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 90</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 90</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 90</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 89</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 90</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 90</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 90</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 90</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 90</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 92</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 96</li>
         </ul>
@@ -415,15 +417,15 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 5</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 9</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 15</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 26</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 7</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 25</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 30</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 73</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 80</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 81</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 84</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 90</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 91</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 92</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 94</li>
         </ul>
       </td>
@@ -453,15 +455,15 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 5</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 28</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 35</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 38</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 31</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 41</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 47</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 84</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 85</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 85</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 90</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 94</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 95</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 96</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 97</li>
         </ul>
       </td>
@@ -483,12 +485,13 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 1</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e76c8285a0ae9818213b0fd3e1173921.png" alt="Cover for The Conflict Of The Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -537,27 +540,27 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 2</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 38</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 47</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 53</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 42</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 55</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 58</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 88</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 88</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 88</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 88</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 92</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 92</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 93</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 93</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 93</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 93</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 93</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 93</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 96</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 99</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 97</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 99</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 99</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce7eee09e57def9a05eddbc031c40734.png" alt="Cover for Hunting Shadows (Assassin’s Creed)" style="max-width:120px; height:auto;" />
       </td>
@@ -581,18 +584,18 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 19</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 46</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 64</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 65</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 64</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 66</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 77</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 79</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 83</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/0mT4QUYNNXfZKeQTVu-vjVfyiMx7os5LD8c0JaLDpAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Njg1/MC0xNjI4MDA5NzQ5/LTU4ODguanBlZw.jpeg" alt="Cover for JCB" style="max-width:120px; height:auto;" />
       </td>
@@ -636,14 +639,16 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 81</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 16</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 83</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc04365b484c4f769bd8d9c6d3bdc7f2.png" alt="Cover for The Big Roar" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-24</td>
       <td>The Joy Formidable</td>
@@ -656,14 +661,14 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 79</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/eA39cHBipX9yGR0ikT3CHWIXcUD0DJbGrDAZouPh13w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjIy/ODgtMTQyMDY0ODU1/Ni02NDM4LmpwZWc.jpeg" alt="Cover for Video Games" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1a641ab67044056c0f79b2ed8405602.png" alt="Cover for Video Games" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-07</td>
       <td>Lana Del Rey</td>
@@ -675,12 +680,12 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 47</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
       </td>
       <td>2011-12-02</td>
@@ -715,13 +720,13 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 7</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 8</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/_0HjMrOzNb1qH49W34K8f7BgoikRGk1GGG-7zheWaZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDQ2/MzItMTQ0MDc5MDM0/My04NTQ2LmpwZWc.jpeg" alt="Cover for Venice Bitch" style="max-width:120px; height:auto;" />
       </td>
@@ -779,7 +784,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>2012-01-27</td>
@@ -798,7 +803,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>2012-01-27</td>
@@ -817,7 +822,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/O0ijRyzx82O1BcojnxzZOxFOrpfL2cTGWimYmo8tT28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjM4/MDQtMTU3MzQ4NTA2/Ny0yMjkzLmpwZWc.jpeg" alt="Cover for Born To Die (Bonus Track Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -835,7 +840,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>2012-06-22</td>
@@ -854,7 +859,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc54ceb5286b47f1b50c4f05ed9a7cac.png" alt="Cover for Blue Velvet" style="max-width:120px; height:auto;" />
       </td>
@@ -875,7 +880,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/95lu3o0zChy_E6nMlseVNqCpyFfrEbDLWpP7SGB_mxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODY4/NDgtMTU4ODE4NzAy/OS0xNDYwLmpwZWc.jpeg" alt="Cover for Ride" style="max-width:120px; height:auto;" />
       </td>
@@ -893,7 +898,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/eBD1nzcfEvuVAG1JHwNOtjGEt0I0q8nRqn37Jw0Fm3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NTUx/MjYtMTM3MTIyNjc0/NC00MDI5LmpwZWc.jpeg" alt="Cover for Born to Die (The Paradise Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -915,7 +920,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/aB34BpeGf0EeJutfYLGU4wpfmqMNWnMUaCbtnBKsvGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NDExLTE1MzM1Nzgw/MzYtNjkyMy5qcGVn.jpeg" alt="Cover for Summer Bummer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/badd577b627d15b24b1babe69fb36f40.png" alt="Cover for Summer Bummer" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Lana Del Rey</td>
@@ -932,7 +937,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/_ehlA2ZlJfdndH8f3pB5yzk1smKeIxv7CCW6nLrfOvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDc3/ODYtMTM5MTE0ODMx/MS00NDIzLnBuZw.jpeg" alt="Cover for BROODS" style="max-width:120px; height:auto;" />
       </td>
@@ -946,13 +951,13 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 21</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 31</li>
             <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2013-03-19</td>
@@ -1028,12 +1033,12 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 83</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 94</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/EKPQIyGkQ3R_oLULh6_MuZiQnImnnJJi7Seun2KYusI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjMw/OTQtMTM3MjY2Nzgw/MS0xNTgxLmpwZWc.jpeg" alt="Cover for Summertime Sadness (Asadinho Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1053,7 +1058,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/0pIP5RlYTID8hzNtw9MyyeeiF3O3zqxmaVgDuavdSt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODI2/Mjk4LTE1ODI1ODYz/NDktNjM4OC5qcGVn.jpeg" alt="Cover for Cassy O&#39; (EP)" style="max-width:120px; height:auto;" />
       </td>
@@ -1068,14 +1073,14 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 51</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a682258c706e463cc65f96dee41c2f00.png" alt="Cover for With Julia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c6a2e120d055182e85c82b185008d0e.png" alt="Cover for With Julia" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-22</td>
       <td>Kid Francescoli</td>
@@ -1096,7 +1101,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4843cbfa0a5c4b38cb4c547fef2cd9db.png" alt="Cover for Tremors" style="max-width:120px; height:auto;" />
       </td>
@@ -1116,7 +1121,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/s-YZ3uGDIYSQtApAvRF3IuP6KwvxBqnFYuXfAFjLnJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDQ4/NzYtMTQyMDgwNzM5/NC0xOTU5LmpwZWc.jpeg" alt="Cover for Running With The Wolves" style="max-width:120px; height:auto;" />
       </td>
@@ -1130,8 +1135,8 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 2</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 44</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 13</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1157,7 +1162,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2014-08-22</td>
@@ -1175,7 +1180,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/4WDUJ9Qq720rN4O2vQGPq1H5fUCwdg7lFT8TDgz-xuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDgy/NDc5LTE1ODY0NTY4/NzQtNzM4MC5qcGVn.jpeg" alt="Cover for Vessel (with Bonus Tracks)" style="max-width:120px; height:auto;" />
       </td>
@@ -1198,7 +1203,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/OqoL3jcaAOZlWvKWZ90NUYzhyS61qk52yPpw5TqlHQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTU5/ODItMTQ4NzQ0OTA2/My05NjUyLmpwZWc.jpeg" alt="Cover for Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b764aaf9e19f2d5d61429aebbafc00f.png" alt="Cover for Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-07</td>
       <td>Lana Del Rey</td>
@@ -1212,7 +1217,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 39</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1235,12 +1240,12 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 61</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/H7kdTnRmqwC5noTxv2IcpsX1Ff7442fQAvDsCy0idMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgx/MjA3LTE1OTM5ODA4/NTktNzc2My5qcGVn.jpeg" alt="Cover for Murder Song (5, 4, 3, 2, 1)" style="max-width:120px; height:auto;" />
       </td>
@@ -1253,24 +1258,24 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 20</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 40</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 57</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 59</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 59</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 61</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 71</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 42</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 58</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 59</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 60</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 60</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 73</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 74</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 76</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 76</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 78</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 82</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 85</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/GsBX7irWiznGfdaH-wk76q7D3k12Vw8MEhqsPHZVGO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDI1/MTUtMTQ0MTYxNDcw/NS04MzQwLmpwZWc.jpeg" alt="Cover for Shades Of Cool" style="max-width:120px; height:auto;" />
       </td>
@@ -1320,20 +1325,20 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 7</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 12</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 18</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 28</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 14</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 28</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 32</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 77</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 82</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 83</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 85</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 87</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 92</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 92</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 92</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 92</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 92</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 92</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 92</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 92</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 93</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 94</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 96</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 98</li>
         </ul>
@@ -1369,16 +1374,18 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 35</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 47</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 65</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 68</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 69</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 78</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 3</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 38</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 49</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 67</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 72</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 76</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 81</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 81</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 84</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 87</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 87</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 87</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 88</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 88</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 94</li>
@@ -1407,7 +1414,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 69</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 83</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 84</li>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 97</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 100</li>
         </ul>
@@ -1441,7 +1448,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/lmge6rLS2oNEbCqxgKHH62rbu_3DHpuJgb9w6442pmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODY3/MTYtMTQ4NDc2MjM1/MS0zNTEyLmpwZWc.jpeg" alt="Cover for Somebody Else" style="max-width:120px; height:auto;" />
       </td>
@@ -1459,7 +1466,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d037e8e33c21a8ef9c4af12f71aab54.png" alt="Cover for Between Us (The Mixers Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1485,7 +1492,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/aB34BpeGf0EeJutfYLGU4wpfmqMNWnMUaCbtnBKsvGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NDExLTE1MzM1Nzgw/MzYtNjkyMy5qcGVn.jpeg" alt="Cover for Looking for America" style="max-width:120px; height:auto;" />
       </td>
@@ -1505,7 +1512,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/-QybCuKmtquVXpusgK1gB6kyJ2g5r8qTIyl3J9sVqpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTg0/NzU4LTE0OTMwMzU5/OTItMzA0My5qcGVn.jpeg" alt="Cover for Thrush Metal" style="max-width:120px; height:auto;" />
       </td>
@@ -1544,12 +1551,12 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 62</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/864921c34d264b3edecb616fc0e12f11.png" alt="Cover for Spotify Singles" style="max-width:120px; height:auto;" />
       </td>
@@ -1570,32 +1577,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e9ddd9e9270cd400fcf60ab3d9fb1cc.png" alt="Cover for Lust for Life" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-07-21</td>
-      <td>Lana Del Rey</td>
-      <td>Lust for Life</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 6</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 15</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 28</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 59</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 86</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/aB34BpeGf0EeJutfYLGU4wpfmqMNWnMUaCbtnBKsvGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NDExLTE1MzM1Nzgw/MzYtNjkyMy5qcGVn.jpeg" alt="Cover for Lust for Life (with The Weeknd)" style="max-width:120px; height:auto;" />
       </td>
@@ -1653,9 +1635,9 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 58</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 80</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 85</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 59</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 81</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 86</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 93</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 93</li>
         </ul>
@@ -1692,22 +1674,22 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 1</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 41</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 48</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 56</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 89</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 45</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 58</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 59</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 89</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 89</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 89</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 93</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 93</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 94</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 94</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 94</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 94</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 94</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 97</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 100</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 94</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 98</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 100</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 100</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1752,7 +1734,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 28</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 31</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 77</li>
         </ul>
       </td>
@@ -1796,7 +1778,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 53</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1821,7 +1803,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/ZwiOR_9bFgslppM82cdYFEffdVldZGAUDZa5_UX28B8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzc3/NDU5LTE1OTc2MDU0/ODItNzUwMi5qcGVn.jpeg" alt="Cover for Light Up Shoes" style="max-width:120px; height:auto;" />
       </td>
@@ -1841,7 +1823,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/ZwiOR_9bFgslppM82cdYFEffdVldZGAUDZa5_UX28B8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzc3/NDU5LTE1OTc2MDU0/ODItNzUwMi5qcGVn.jpeg" alt="Cover for HOMESICK" style="max-width:120px; height:auto;" />
       </td>
@@ -1874,9 +1856,9 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 91</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 90</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 92</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 93</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 94</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 100</li>
         </ul>
       </td>
@@ -1912,25 +1894,25 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 1</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 16</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 6</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 54</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 70</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 69</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 71</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 71</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 72</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 73</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 82</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 83</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 84</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 84</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 84</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 84</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 85</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 86</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 88</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/j3oTBzErj51x5-bGswRnhsqfyR7-lrBrnEK4oWDRxw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTM4/NDYyLTE1OTMyNTI3/ODctMjY1Ni5qcGVn.jpeg" alt="Cover for Rollerblades" style="max-width:120px; height:auto;" />
       </td>
@@ -1994,21 +1976,21 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 1</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 10</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 13</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 24</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 3</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 23</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 28</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 71</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 79</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 80</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 83</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 89</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 90</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 91</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8edb80ccae8875fe16ae186905094831.png" alt="Cover for Adore You" style="max-width:120px; height:auto;" />
       </td>
@@ -2029,7 +2011,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/mOmKkMTHFSdFdlPfF4e388MlSemUeAmkhkZ4OtyCRCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQw/NzUwLTE2MDU4MjI5/MDEtNTQwOS5qcGVn.jpeg" alt="Cover for Ride - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -2064,7 +2046,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 12</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 13</li>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 100</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 100</li>
             <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 100</li>
@@ -2111,7 +2093,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 86</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 96</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2133,7 +2115,8 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 41</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 7</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 55</li>
             <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 86</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 99</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 99</li>
@@ -2158,8 +2141,8 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 8</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 40</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 19</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -2184,7 +2167,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/rH6lGAdbsMM2w0rNmzqiX-tYCL7rjBX2JnjcXYU2HfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTU0/NTktMTQ1MzYzNzg4/NC03OTczLmpwZWc.jpeg" alt="Cover for Cardamom Times" style="max-width:120px; height:auto;" />
       </td>
@@ -2206,7 +2189,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/h4TcVtxzJNtQ4FgVgJGJxqPyRWAyZWtW1xqu_A8QedU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzM0/MzktMTMyMzc5Mjk4/Mi5qcGVn.jpeg" alt="Cover for Music From Baz Luhrmann&#39;s Film The Great Gatsby" style="max-width:120px; height:auto;" />
       </td>
@@ -2246,6 +2229,23 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d4d84a30085764d92db715aa9effe53.png" alt="Cover for Wars in a Wonderland" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-04-22</td>
+      <td>Neoni</td>
+      <td>Wars in a Wonderland</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>100</td>
       <td>
           <img src="https://i.discogs.com/QPLnkwpYFIWtZvy_gut2nce6CLGLXVIXTvY6CNx6zM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDE2/OTM4LTE2MjI4Mzk1/NDEtMTE2OC5qcGVn.jpeg" alt="Cover for bubble gum" style="max-width:120px; height:auto;" />
@@ -2262,8 +2262,8 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 99</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 99</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2288,18 +2288,21 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/SBGj49ZTlfjAPZZqm8w66FJq_d82cuc2CQRIOsNKd2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc0/MzAtMTY0MTgzMDc3/Mi00MTY5LmpwZWc.jpeg" alt="Cover for Unreleased" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/Ata-LK-6ilG2w3X-i6LhTx_GebgleBjZdz_hTG7QLtY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njk3/OTcxLTE2ODk1Njcy/OTEtODg1Ni5qcGVn.jpeg" alt="Cover for The 2nd Most Beautiful Girl In The World" style="max-width:120px; height:auto;" />
       </td>
-      <td>2022</td>
-      <td>Lana Del Rey</td>
-      <td>Unreleased</td>
+      <td>2022-02-14</td>
+      <td>Snail Mail</td>
+      <td>The 2nd Most Beautiful Girl In The World</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
@@ -2308,7 +2311,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b556aeb136f1e3715e9a9288d23ec92a.png" alt="Cover for Don&#39;t Forget" style="max-width:120px; height:auto;" />
       </td>
@@ -2330,7 +2333,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/832c5949248469103367ef2f8ed98b65.png" alt="Cover for BAD PREMONITION" style="max-width:120px; height:auto;" />
       </td>
@@ -2369,7 +2372,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 82</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 83</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 97</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 97</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 100</li>
@@ -2392,7 +2395,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 5</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 13</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 93</li>
         </ul>
       </td>
@@ -2419,7 +2422,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/23a2a3a7c41c58584b968d37009d77fa.png" alt="Cover for Snow Angel (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -2441,7 +2444,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7e3851640419792a95a2b729a7f860b.png" alt="Cover for HEADSPLIT" style="max-width:120px; height:auto;" />
       </td>
@@ -2465,7 +2468,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 27</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 31</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 69</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 85</li>
             <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 93</li>
@@ -2491,17 +2494,17 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
         <ul>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 23</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 74</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 82</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 83</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 88</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 94</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 98</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 99</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 99</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/A_te3tQeDoVMFo47U37WPpcqGL9JZmY_qGaDis2JUYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzUw/Nzc0LTE3MTYzODg4/NTgtNTk5Mi5qcGVn.jpeg" alt="Cover for The After Taste" style="max-width:120px; height:auto;" />
       </td>
@@ -2517,13 +2520,13 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 11</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 89</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/FRas78e9uNsSXXtZpVmVja7SnqjzLVxpdYIPZtp7WPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTEz/NjUwLTE3MTc5Mjc1/NjEtMTgxMi5qcGVn.jpeg" alt="Cover for What Happened To The Heart?" style="max-width:120px; height:auto;" />
       </td>
@@ -2544,7 +2547,7 @@ Alternative pop, also known as indie pop, is a subgenre of pop music that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 57</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 58</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 73</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 75</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 75</li>
