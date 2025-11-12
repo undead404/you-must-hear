@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-12T03:35:37.487Z
+date: 2025-11-12T05:21:00.293Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-12T03:35:37.487Z">Wed Nov 12 2025 05:35:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-12T05:21:00.293Z">Wed Nov 12 2025 07:21:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [acoustic blues]({{ "tags/acoustic-blues" | relative_url }}) | <time datetime="2025-11-12T05:21:00.293Z">Wed Nov 12 2025 07:21:00 GMT+0200 (Eastern European Standard Time)</time> |
 | [teen pop]({{ "tags/teen-pop" | relative_url }}) | <time datetime="2025-11-12T03:35:37.487Z">Wed Nov 12 2025 05:35:37 GMT+0200 (Eastern European Standard Time)</time> |
 | [experimental rock]({{ "tags/experimental-rock" | relative_url }}) | <time datetime="2025-11-12T02:07:23.661Z">Wed Nov 12 2025 04:07:23 GMT+0200 (Eastern European Standard Time)</time> |
 | [contemporary rnb]({{ "tags/contemporary-rnb" | relative_url }}) | <time datetime="2025-11-12T02:07:04.713Z">Wed Nov 12 2025 04:07:04 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1219,7 +1220,6 @@ Last updated: <time datetime="2025-11-12T03:35:37.487Z">Wed Nov 12 2025 05:35:37
 | [ritual ambient]({{ "tags/ritual-ambient" | relative_url }}) | <time datetime="2025-10-21T03:35:44.855Z">Tue Oct 21 2025 06:35:44 GMT+0300 (Eastern European Summer Time)</time> |
 | [polska]({{ "tags/polska" | relative_url }}) | <time datetime="2025-10-21T03:35:01.812Z">Tue Oct 21 2025 06:35:01 GMT+0300 (Eastern European Summer Time)</time> |
 | [d-beat]({{ "tags/d-beat" | relative_url }}) | <time datetime="2025-10-21T03:34:48.643Z">Tue Oct 21 2025 06:34:48 GMT+0300 (Eastern European Summer Time)</time> |
-| [acoustic blues]({{ "tags/acoustic-blues" | relative_url }}) | <time datetime="2025-10-21T03:19:01.497Z">Tue Oct 21 2025 06:19:01 GMT+0300 (Eastern European Summer Time)</time> |
 | [emd]({{ "tags/emd" | relative_url }}) | <time datetime="2025-10-21T03:18:32.327Z">Tue Oct 21 2025 06:18:32 GMT+0300 (Eastern European Summer Time)</time> |
 | [svensk]({{ "tags/svensk" | relative_url }}) | <time datetime="2025-10-21T03:18:19.502Z">Tue Oct 21 2025 06:18:19 GMT+0300 (Eastern European Summer Time)</time> |
 | [romanian]({{ "tags/romanian" | relative_url }}) | <time datetime="2025-10-21T03:17:59.233Z">Tue Oct 21 2025 06:17:59 GMT+0300 (Eastern European Summer Time)</time> |

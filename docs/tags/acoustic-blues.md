@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T03:19:01.497Z
+date: 2025-11-12T05:21:00.293Z
 permalink: tags/acoustic-blues
 title: acoustic blues
 ---
 
 ## acoustic blues
 
-Last updated: <time datetime="2025-10-21T03:19:01.497Z">Tue Oct 21 2025 06:19:01 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-12T05:21:00.293Z">Wed Nov 12 2025 07:21:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
   </thead>
   <tbody>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/kgwtP5DADRUr5KTDFRH8y94I5J_uIwQhrfMwXtsTIXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ0/MjE4LTE1OTAwNTUz/NDgtNzI5OC5qcGVn.jpeg" alt="Cover for Cotton Pickin&#39; Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -67,7 +67,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/ibAryDZL9XQ0mhYVA45I33m1cZcRyhGu5mjMJ3YsHzg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTAx/OTItMTUxMTIzODA3/MS0zNjMwLmpwZWc.jpeg" alt="Cover for Big Bill Broonzy Vol. 9 1939" style="max-width:120px; height:auto;" />
       </td>
@@ -86,7 +86,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/FPrZQ0nZNNtCMOcvJXTOBo5q0skSx2LxcIOPs6oBMIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjU0/ODYtMTM5MDU5NTM3/Ni0xNjE0LmpwZWc.jpeg" alt="Cover for Big Bill Broonzy Vol. 6 1937" style="max-width:120px; height:auto;" />
       </td>
@@ -105,16 +105,15 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46fba64c79a34991bc9a814dc92102d8.png" alt="Cover for Freight Train And Other North Carolina Folk Songs And Tunes" style="max-width:120px; height:auto;" />
       </td>
       <td>1958</td>
       <td>Elizabeth Cotten</td>
       <td>Freight Train And Other North Carolina Folk Songs And Tunes</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
       <td>
@@ -124,7 +123,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
       </td>
       <td>1959</td>
@@ -160,7 +159,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
       </td>
       <td>1962</td>
@@ -195,7 +194,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/qNhNnDMoWnEs8w-Vv_9w-TbuAQqYSHIf_JXnD-aNg3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjI2/NjgtMTQ2NzQ3NDQz/Mi0yNzkwLmpwZWc.jpeg" alt="Cover for Complete Recorded Works, Vol. 5 (1938-1940)" style="max-width:120px; height:auto;" />
       </td>
@@ -230,7 +229,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 19</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 18</li>
             <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 38</li>
         </ul>
       </td>
@@ -253,7 +252,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/YveH8Y77FHkUVH-l5sWx1KmipruIaZ64Ok8jSEtqDyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDE1/NzMtMTQyNDMyODAy/Ni04NTkzLmpwZWc.jpeg" alt="Cover for The Original Delta Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -272,25 +271,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>
-          <img src="https://i.discogs.com/WXutGZKldgqBWbo7bP5J26v9GpItjbzN4K_g-p_GYG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODM4/NDMtMTM0ODI0NjE1/NS03Mzg5LmpwZWc.jpeg" alt="Cover for Jackson C. Frank" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1965</td>
-      <td>Jackson C. Frank</td>
-      <td>Jackson C. Frank</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/CvSnpdaddowGE3-SZZoiyYYzvs6h37NU8ukYStn-7iE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzA0/NDUtMTU5MDYxOTY0/Ni0xOTg1LmpwZWc.jpeg" alt="Cover for Big Bill Broonzy Vol. 11 1940 - 1942" style="max-width:120px; height:auto;" />
       </td>
@@ -308,7 +289,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6f98ee7ba16b5cdd8b1f91f64855a87.png" alt="Cover for The Legendary 1941&#x2F;42 Recordings in Chronological Sequence" style="max-width:120px; height:auto;" />
       </td>
@@ -341,12 +322,12 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       <td>
         <ul>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 49</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 76</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/jLsc8fNOIaop5ZQSXNjsgB5iQxMetDSeYIefxP58Gvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQ5/MzctMTMwMzkyOTUy/NS5qcGVn.jpeg" alt="Cover for Blues Magician" style="max-width:120px; height:auto;" />
       </td>
@@ -387,7 +368,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/Cfq3leUY7zbRAkgQ2j_E5lydgcP9C8NRzxyN-MjogD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDcz/MDQtMTQ4Mzg5ODk3/MC03MTU0LmpwZWc.jpeg" alt="Cover for Ted Lucas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c335b2d90b65b88a671991bafd98261.png" alt="Cover for Ted Lucas" style="max-width:120px; height:auto;" />
       </td>
       <td>1975</td>
       <td>Ted Lucas</td>
@@ -402,7 +383,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 74</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -419,6 +400,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 4</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 75</li>
         </ul>
       </td>
@@ -448,7 +430,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/5YZdxIV1gCiL10kJ40QNyy6O8wR-jUWVJkMsFPMPMlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ4/MjktMTI1NDIzMTM3/NS5qcGVn.jpeg" alt="Cover for Live!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/600b6f798affa63027e27175036ea349.png" alt="Cover for Live!" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Elizabeth Cotten</td>
@@ -465,9 +447,9 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/HH0Vifi8SfcZ5V79hKFZ5RURYfNdqqYzQZo2yxUKJss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjc4/MzktMTMxNzA2MDE5/Ni5qcGVn.jpeg" alt="Cover for Happy Hour" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d082d07a1474fafbcc1a68c8f38f8a2.png" alt="Cover for Happy Hour" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Ted Hawkins</td>
@@ -503,7 +485,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/I96igFJ-g8OtDla6g2-e2XtrF2VZ1f10u58mnDpA4Ic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjY0/MzQtMTM0MDU2MjUx/NS0zMDU5LmpwZWc.jpeg" alt="Cover for The Early Years (1927-1933)" style="max-width:120px; height:auto;" />
       </td>
@@ -521,7 +503,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/ZbsdCB2fAhKd95xwxXxSsCM-tqf_XFgQOyhEvH0DKcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzc0/NDItMTQxMDYwMDU2/NC0zNTc2LmpwZWc.jpeg" alt="Cover for Live At Sugar Hill, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -540,7 +522,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>82</td>
       <td>
       </td>
       <td>1990</td>
@@ -559,7 +541,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/sOgT_An_FU6aep2yNofQ4VXI9rpanReRZhtjkxAdbjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTI1/MDAtMTQ0ODA1MTgy/MC0yMjU4LmpwZWc.jpeg" alt="Cover for Tampa Red Vol. 12 1941-1945" style="max-width:120px; height:auto;" />
       </td>
@@ -577,7 +559,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/sOgT_An_FU6aep2yNofQ4VXI9rpanReRZhtjkxAdbjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTI1/MDAtMTQ0ODA1MTgy/MC0yMjU4LmpwZWc.jpeg" alt="Cover for Tampa Red Vol. 15 1951-1953" style="max-width:120px; height:auto;" />
       </td>
@@ -596,7 +578,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/sOgT_An_FU6aep2yNofQ4VXI9rpanReRZhtjkxAdbjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTI1/MDAtMTQ0ODA1MTgy/MC0yMjU4LmpwZWc.jpeg" alt="Cover for Tampa Red Vol. 5 (1931 - 1934)" style="max-width:120px; height:auto;" />
       </td>
@@ -615,7 +597,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/Pr5wpghJkl61Rgl45IGfwvWG-GjxEH-FwIH0bieJ9Cw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Njc4/NjgtMTQyNjQ1NTc0/Ni00MTMxLmpwZWc.jpeg" alt="Cover for Tampa Red Vol. 7 1935-1936" style="max-width:120px; height:auto;" />
       </td>
@@ -671,7 +653,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
       </td>
       <td>1991</td>
@@ -707,7 +689,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/sTBBUSILUuo4E-rQJKu3Q8bfVBsj5So7Zwacb4G628w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NzA5/MDItMTQ0NTgwNjE4/NC0zNTcxLmpwZWc.jpeg" alt="Cover for Truckin&#39; My Blues Away" style="max-width:120px; height:auto;" />
       </td>
@@ -725,7 +707,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
       </td>
       <td>1991-04-09</td>
@@ -742,7 +724,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/Kiqw46B-e9LwVg4Q8aVhIOvg4dq0-C4GZwoBmUcOwog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTUz/NzktMTM1NTc0ODk3/My04NTU0LmpwZWc.jpeg" alt="Cover for I Ain&#39;t Gonna Be Worried No More" style="max-width:120px; height:auto;" />
       </td>
@@ -760,7 +742,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
       </td>
       <td>1993</td>
@@ -779,7 +761,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/SEtaMIRqMG2WkO7WlTmJ-xLf2tbzguZ8QxjwzMlfK5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Njg5/NzAtMTM2NTc0Mzcw/OC05MTAyLmpwZWc.jpeg" alt="Cover for Folk Blues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcd9d946614c42ddb843275ac6c879b2.png" alt="Cover for Folk Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>John Lee Hooker</td>
@@ -800,7 +782,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 11</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 10</li>
             <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 23</li>
             <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 25</li>
             <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 26</li>
@@ -809,7 +791,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/i0DdjGjIXxRSF5IfvkmsNadxPQOiiqw8b95B3rs6uHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjMz/MzgtMTM4OTAzMDE0/Ny04MzQ4LmpwZWc.jpeg" alt="Cover for The Best Of Blind Willie McTell" style="max-width:120px; height:auto;" />
       </td>
@@ -827,7 +809,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/PNTkocTLV2MJWO05A7iz3AFtCT2ROeWhIcBrVoFzCfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTAy/MDYtMTQ4NDIxMjUw/OS05OTA3LmpwZWc.jpeg" alt="Cover for Blind Willie McTell 1940" style="max-width:120px; height:auto;" />
       </td>
@@ -846,9 +828,9 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/ZZ_aqNAtJNvmQ4_xJB2ukUfsFG4hFs9LKoyTCrdu4bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTAx/NC0xNjQzMjc2NjMz/LTU4MjEuanBlZw.jpeg" alt="Cover for The Legend of Blind Joe Death (Remastered)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90720d8090f461c2018da4204b530470.png" alt="Cover for The Legend of Blind Joe Death (Remastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>John Fahey</td>
@@ -870,7 +852,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/iQFSQCD--xwe00C0JlWuJ4Nl_BhvHLRq8NLGTWK-X0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODI0/NzItMTI4MDc3MjYz/NC5qcGVn.jpeg" alt="Cover for The Legendary…Josh White" style="max-width:120px; height:auto;" />
       </td>
@@ -925,7 +907,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
       </td>
       <td>1998</td>
@@ -939,13 +921,13 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 37</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 36</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
       </td>
       <td>1998-04-21</td>
@@ -964,6 +946,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
     <tr>
       <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4079351133c11c15d7d03f7e2cd17e4.png" alt="Cover for Dark Was the Night" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-06-04</td>
       <td>Blind Willie Johnson</td>
@@ -980,7 +963,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/g2jv33jaR7hVSi2AhLbbTurQvZfG2WhRrIju2NuOKEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDUw/MTItMTY5MzI2MjI3/OC0zMzM0LmpwZWc.jpeg" alt="Cover for Warm, Witty, &amp; Wise (Mojo Workin&#39;: Blues For The Next Generation)" style="max-width:120px; height:auto;" />
       </td>
@@ -1010,12 +993,12 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 9</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/XP4mHBMxhA-eqVA5p4p79Mxfj4Z5IBe0r1iT-qDpzfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTEz/NjgtMTM3NDM1MTkw/OS04NjM2LmpwZWc.jpeg" alt="Cover for &quot;The Midnight Special&quot; and Other Southern Prison Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,7 +1035,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/DJXZiOOCBn7e5kwkaNZ9-5Q0TgDU8fWh4z9GpQDWIP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDM2/OTE0LTE1MDg2ODMw/ODItOTc1My5qcGVn.jpeg" alt="Cover for beale street" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d97df7eee4ddb40e0301c829652252bb.png" alt="Cover for beale street" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>ben prestage</td>
@@ -1072,7 +1055,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       <td>
         <ul>
             <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 27</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 28</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 27</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 59</li>
         </ul>
       </td>
@@ -1096,7 +1079,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>80</td>
       <td>
       </td>
       <td>2003</td>
@@ -1114,7 +1097,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/eCUeKZC3nIT2Ai1Fr2rjbAabuG0uODQ2BBjV_GpJ6bI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDY4/ODMtMTMwOTExODE2/Mi5qcGVn.jpeg" alt="Cover for Pushin&#39; My Luck" style="max-width:120px; height:auto;" />
       </td>
@@ -1154,7 +1137,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/A1Dft2Q1HRxPMlOllUugOdeCmIe4_E_GcXgswZ0X4Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTUz/NDYtMTI5Nzc5Mzg3/My5qcGVn.jpeg" alt="Cover for All the Classic Sides 1928-1937" style="max-width:120px; height:auto;" />
       </td>
@@ -1196,7 +1179,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/7mDnrtmvyR-Zk2peTye-P4t7YJmhTTGUV2DB63Nb4Uw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI5/MTItMTI1Njg0NTUy/Mi5qcGVn.jpeg" alt="Cover for Jackson C. Frank (2001 Remastered Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a9a06f39dc5ca0a4057a2269fa2ddd0.png" alt="Cover for Jackson C. Frank (2001 Remastered Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Jackson C. Frank</td>
@@ -1218,7 +1201,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/LFRC8QOp0nLPcxxDNKJLK_nbfu91-ec7XchYp2HY6XA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMDcx/MjItMTQxMzczMTc5/MS0zMjAxLmpwZWc.jpeg" alt="Cover for Atlanta Strut" style="max-width:120px; height:auto;" />
       </td>
@@ -1237,7 +1220,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
       </td>
       <td>2004</td>
@@ -1279,7 +1262,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
       </td>
       <td>2006</td>
@@ -1295,7 +1278,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 38</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1328,8 +1311,9 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/312e797249f1bc689425f37faca522d1.png" alt="Cover for Down-Home &amp; Home-Made" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-01</td>
       <td>ben prestage</td>
@@ -1355,8 +1339,9 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79117ff75bb7c670b6e53e360899f445.png" alt="Cover for Real Music" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>ben prestage</td>
@@ -1382,7 +1367,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/EfVLqet8dwVjMTZgAeU-Tpi2FdT1EtIC_yMbXFfhJvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDE2/MTg2LTE1MDgyODMx/NDMtNjA0Ny5qcGVn.jpeg" alt="Cover for Living Room" style="max-width:120px; height:auto;" />
       </td>
@@ -1402,9 +1387,9 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/faHx2oVTj4S5BxduwaLCGkqfUCn78PHSrcCs4FUdTK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTA5/NDktMTQ0MTc0Mjk5/NS03NzIwLmpwZWc.jpeg" alt="Cover for Live At Pineapple Willy&#39;s" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fe5116e5e384166a052f327f865d10c.png" alt="Cover for Live At Pineapple Willy&#39;s" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>ben prestage</td>
@@ -1445,14 +1430,14 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 30</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/pHWLIl87TjbMs_YoQXHEQP0bE8C7oi1MNWR_jvcxkwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjUy/OTItMTQ0ODI4OTkw/Ni04NDQ1LnBuZw.jpeg" alt="Cover for Grand And Green River" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e37522bbdeb46ae93eee07b3112c52c.png" alt="Cover for Grand And Green River" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Kara Grainger</td>
@@ -1469,7 +1454,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/QUwTa804lryGsiBdwdefCrkibkVh7VwyH37W7jL0YAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzc0/NDUtMTQ3MzU1ODM3/My04ODYxLmpwZWc.jpeg" alt="Cover for Treat Me Right" style="max-width:120px; height:auto;" />
       </td>
@@ -1514,8 +1499,9 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cd9679a01bcf123324d7548c9c456c6.png" alt="Cover for Ballads and Mental Breakdowns" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-09</td>
       <td>Uncle Sinner</td>
@@ -1541,7 +1527,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
             <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 31</li>
             <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 33</li>
             <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 48</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 60</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 61</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 78</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 81</li>
         </ul>
@@ -1597,7 +1583,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/aHkMuqUWHdCNYYOZNHlLovBES0UTDnxskDMa_Ecavs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTQ4/NzEtMTUyNTQ4NTg1/MS0xNzk0LmpwZWc.jpeg" alt="Cover for The Reflection" style="max-width:120px; height:auto;" />
       </td>
@@ -1623,7 +1609,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/px76zAY9oAV90EChv1-Da8ocASte6NgAlbjMv1vgSg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzE0/OTctMTQzNTMxNzcx/Ny03MTMyLmpwZWc.jpeg" alt="Cover for One Crow Murder" style="max-width:120px; height:auto;" />
       </td>
@@ -1651,7 +1637,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/LBLy4W08XJhtdfopx2npA3lv-5eCnJvstr3IwXYmEDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIz/MjgzLTE1MjMwMDIz/MzgtNDkzMi5qcGVn.jpeg" alt="Cover for The Essential" style="max-width:120px; height:auto;" />
       </td>
@@ -1671,9 +1657,9 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/h53uVH59xfL_st7pKlqqlBSwS1QLjXSP9tZmgna98g4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjI5/MzMtMTM0NzI4NDgx/Ni03MzA4LmpwZWc.jpeg" alt="Cover for Brother Sinner and the Whale" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0710e904734a4cd3b29e394babc5fb16.png" alt="Cover for Brother Sinner and the Whale" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-21</td>
       <td>Kelly Joe Phelps</td>
@@ -1696,7 +1682,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/h53uVH59xfL_st7pKlqqlBSwS1QLjXSP9tZmgna98g4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjI5/MzMtMTM0NzI4NDgx/Ni03MzA4LmpwZWc.jpeg" alt="Cover for Brother Sinner &amp; The Whale" style="max-width:120px; height:auto;" />
       </td>
@@ -1715,13 +1701,13 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 41</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 72</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 40</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2012-09-01</td>
@@ -1740,13 +1726,13 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       <td>
         <ul>
             <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 2</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 6</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 5</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2012-11-13</td>
@@ -1785,6 +1771,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a0b71b5ae0e4e3ba980df8c9b29cda1.png" alt="Cover for Little Copper Still" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-11</td>
       <td>The Cedars</td>
@@ -1822,17 +1809,17 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       <td>
         <ul>
             <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 12</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 25</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 24</li>
             <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 44</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 51</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 57</li>
-            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 65</li>
             <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 65</li>
+            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/hfGAGi48vmXPHaMc5YDRfCQAm1CdhN4p9cNSLPSnFFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTM4/ODMtMTU5MDM3NDI0/OC0yMDYxLmpwZWc.jpeg" alt="Cover for Dark Was the Night - Cold Was the Ground &#x2F; It&#39;s Nobody&#39;s Fault but Mine" style="max-width:120px; height:auto;" />
       </td>
@@ -1853,9 +1840,9 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/99lXspvJVRVfTU-ZYBrh3LCWpGOpqbxwEBsEqOvVkac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjg5/OTEtMTQzOTk4NDU1/OS0zODQzLmpwZWc.jpeg" alt="Cover for Let the Devil In" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48e523ba9bd118b78083fdaebd1d1f38.png" alt="Cover for Let the Devil In" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-26</td>
       <td>Uncle Sinner</td>
@@ -1888,9 +1875,9 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/vAIFmUmwbC6Jc8i3y037O6V3tHOP144qS0Ncy3xKlkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzcx/MDM1LTE2MTUzMzQ1/NTMtNTU5Mi5qcGVn.jpeg" alt="Cover for Vol. II: Death Chants, Breakdowns and Military Waltzes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fb40725be91484cb51248c8de8a9f51.png" alt="Cover for Vol. II: Death Chants, Breakdowns and Military Waltzes" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-06-16</td>
       <td>John Fahey</td>
@@ -1905,7 +1892,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/CvSnpdaddowGE3-SZZoiyYYzvs6h37NU8ukYStn-7iE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzA0/NDUtMTU5MDYxOTY0/Ni0xOTg1LmpwZWc.jpeg" alt="Cover for Big Bill Broonzy Vol. 2 1932 - 1934" style="max-width:120px; height:auto;" />
       </td>
@@ -1940,7 +1927,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/wrDIh01YgZpFBEnR5R0ayIdzGymjkQQwCnpEFV2oYzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTI3/MDQ0LTE2MDM5MDQx/MTgtMzQxNy5qcGVn.jpeg" alt="Cover for Kokomo Arnold Vol. 1 (1930 - 1935)" style="max-width:120px; height:auto;" />
       </td>
@@ -1958,7 +1945,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/fnjjCTSJcieszH6HBCU4fYW7ABoqnn4xyGEqohMcRxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTIw/MzAtMTU1NjU1NjA3/My0zMzY3LmpwZWc.jpeg" alt="Cover for Rising Sons" style="max-width:120px; height:auto;" />
       </td>
@@ -1991,12 +1978,12 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 18</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
       </td>
       <td></td>
@@ -2017,6 +2004,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf596c22966442779d5b259d73a5b662.png" alt="Cover for Fits and Starts: Volume One" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Kevin Cryderman</td>
@@ -2044,7 +2032,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -2089,6 +2077,22 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Aben D Blues</td>
+      <td>Aben D Blues - Kein Auge zugemacht</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
