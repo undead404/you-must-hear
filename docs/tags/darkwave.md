@@ -1,118 +1,2085 @@
 ---
 category: genre
-date: 2025-10-28T06:49:19.513Z
+date: 2025-11-11T20:38:06.538Z
 permalink: tags/darkwave
 title: darkwave
 ---
 
 ## darkwave
 
-Last updated: <time datetime="2025-10-28T06:49:19.513Z">Tue Oct 28 2025 08:49:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T20:38:06.538Z">Tue Nov 11 2025 22:38:06 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Darkwave is a music genre that originated in the early 1980s. It is typically characterized by its moody, introspective, and often melancholic sound, as well as its use of electronic instruments, such as synthesizers and drum machines. Darkwave emerged as a subgenre of new wave, but it has also been influenced by gothic rock, post-punk, and industrial music. The lyrics of darkwave songs often deal with themes of alienation, despair, and existentialism. Some notable darkwave artists include Clan of Xymox, Cocteau Twins, Dead Can Dance, and The Cure.
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 23 |  | 1977 | Various Artists | Magnatron |
-| 63 | ![Cover](https://i.discogs.com/Lq6r9XfYdpBGyqXK7ZuVTvG31MBvRYnNiPCnyAsOV8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTE5/LTExNDY4MDk2MzMu/anBlZw.jpeg) | 1984 | Cocteau Twins | The Moon And The Melodies |
-| 91 | ![Cover](https://i.discogs.com/mcwlC8UU2rhj-GADJH_NrbdHDprJDXiRNfxaF-nAIKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NzUy/ODgtMTU1MjExMDAy/My04MDUyLmpwZWc.jpeg) | 1984 | Depeche Mode | Violator (2006 Remaster) |
-| 41 |  | 1984-02-27 | Dead Can Dance | Dead Can Dance |
-| 84 | ![Cover](https://i.discogs.com/xF9UZMCLsqg6aAZjLSydQOTgUJM0yDbfJdEExNfxdHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDE4/LTE0NzQzMjY4Njkt/NTA5Ny5qcGVn.jpeg) | 1985-06 | Clan of Xymox | Clan of Xymox |
-| 77 |  | 1985-11-25 | Dead Can Dance | Spleen and Ideal |
-| 58 | ![Cover](https://i.discogs.com/IkyP5KuAOjNBg78XOHRpwEaBfgqW3e8WDuKjVSypARg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDEw/Ny0xNDQzNjU0NDAy/LTg1NTYuanBlZw.jpeg) | 1986 | This Mortal Coil | It&#39;ll End in Tears (remastered) |
-| 11 | ![Cover](https://i.discogs.com/MjA0Pjs_jHuT_UL7XfKzQ2WNQ67nswQUMyomOlMW86Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTIx/OTUtMTMwMTIzNjU5/My5qcGVn.jpeg) | 1986-03-17 | Depeche Mode | Black Celebration |
-| 87 | ![Cover](https://i.discogs.com/d9anvLdThx7pHr1wVZ91fXGe-n95fiaj0sWC8SyUJ94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMzgx/LTE0NjA4NTk5MDct/MTAzNi5qcGVn.jpeg) | 1986-11-01 | Clan of Xymox | Medusa |
-| 89 |  | 1987-07-27 | Dead Can Dance | Within the Realm of a Dying Sun |
-| 71 | ![Cover](https://i.discogs.com/k9HClDVuzlqKyC5hUb_CTi2I8G2151PfY5BhZZXoUWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzI2/LTE1ODI2NDU4ODMt/NDY2NS5qcGVn.jpeg) | 1987-10-06 | Depeche Mode | Music For The Masses (2006 Remaster) |
-| 20 | ![Cover](https://i.discogs.com/27SSwT6Kq-ARL0_RkccXGMMe-FX4aZhgeqETZj5rsDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTkx/Mi0xMTQ0MDcwMTA5/LmpwZWc.jpeg) | 1988 | Pink Turns Blue | Meta |
-| 26 |  | 1990-07-02 | Dead Can Dance | Aion |
-| 48 | ![Cover](https://i.discogs.com/kkBYNRv20pPxq32pKHdudmVQJdkjs4O4YsqUSmSVApM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTQ1/OC0xMTU5NTYyNDYy/LmpwZWc.jpeg) | 1991 | Deine Lakaien | Dark Star |
-| 60 | ![Cover](https://i.discogs.com/JEwtKsZFUZ50TwQhk6bLlzAfje0uhYUOR2_PBYX5aos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njg0/NDktMTMzODgyOTE1/Ni0zNDY2LmpwZWc.jpeg) | 1991 | Lacrimosa | Angst |
-| 73 |  | 1991-10-21 | Dead Can Dance | A Passage in Time |
-| 39 |  | 1992 | Lacrimosa | Einsamkeit |
-| 56 |  | 1992 | London After Midnight | Selected Scenes From the End of the World |
-| 57 | ![Cover](https://i.discogs.com/hqqc3OJrbkcVm1IcoKc8adfx4_ThwRl4hyzHDLsIsBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg1/MzAzLTE1NTg5ODUw/NTctNjU4My5qcGVn.jpeg) | 1992 | Sierra | Gone |
-| 28 | ![Cover](https://i.discogs.com/dfReYprm-Lh2VUNKUSRNhSTGtbqDrPuAMMXrr3PE7Wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjIy/NjQtMTM3NDkxMjE1/OS0xNDcwLmpwZWc.jpeg) | 1993 | Агата Кристи | Позорная Звезда |
-| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e55d7faf7a4ade3222808cf5d743c0e2.png) | 1993 | Depeche Mode | Memento Mori |
-| 36 |  | 1993 | Lacrimosa | Satura |
-| 74 | ![Cover](https://i.discogs.com/-g8TK4vM6nQTKRwvUc7g6sLFUc3_uaz0_0NIWssAP3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYz/NDEtMTIyMjU0MDA1/Ni5qcGVn.jpeg) | 1995 | London After Midnight | Psycho Magnet |
-| 61 |  | 1995-09-19 | Switchblade Symphony | Serpentine Gallery |
-| 7 |  | 1996 | Arcana | Dark Age of Reason |
-| 37 |  | 1996 | Lycia | Cold |
-| 10 | ![Cover](https://i.discogs.com/52SuZdCzKUyNVr6PIQ1fwCVEa_f188f0bo4jlxBF5p8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDE0/OS0xNDUzNTQ5NDM5/LTM1MTMuanBlZw.jpeg) | 1997-10-17 | Clan of Xymox | Hidden Faces |
-| 75 | ![Cover](https://i.discogs.com/9FAFdyfPiZUPrIemwrQ3T5ObYRMhJhe35Augko_En3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjc4/OTMtMTY4MDQyOTU1/NS05MDYyLnBuZw.jpeg) | 1998 | Dead Can Dance | Within The Realm Of A Dying Su |
-| 15 |  | 1998-10-13 | Dargaard | Eternity Rites |
-| 38 |  | 1999-02-22 | Blutengel | Child of Glass |
-| 46 |  | 1999-04-09 | Deine Lakaien | Kasmodiah |
-| 2 |  | 1999-05-25 | Switchblade Symphony | The Three Calamities |
-| 54 | ![Cover](https://i.discogs.com/jcujYaiP5X5c6q6VS9DBS8DTo6UlAsCerGx09zRavsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTI0/OS0xMTU1MzAzNzgz/LmpwZWc.jpeg) | 1999-10-04 | Brendan Perry | Eye of the Hunter |
-| 19 | ![Cover](https://i.discogs.com/_itJze3sOXtmJZcxSXTdC4n7AHcqUwVTrwApbU_Spv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTg5/NS0xMzg1NDkzMjUz/LTcyOTQuanBlZw.jpeg) | 2000-02-25 | Diary of Dreams | One Of 18 Angels |
-| 68 |  | 2000-10-31 | Collide | Chasing the Ghost |
-| 47 |  | 2002 | Deine Lakaien | White Lies |
-| 50 | ![Cover](https://i.discogs.com/VXnc-LceODEPwZjaDv8w5qiExBVdcUm_SUKY5Dlb__w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI2/OC0xNTExMTgwNDQ1/LTEyOTAuanBlZw.jpeg) | 2002-06-03 | Diary of Dreams | Freak Perfume |
-| 4 | ![Cover](https://i.discogs.com/6mYi39E4nvrt3sS0lXrNEKb1XxPhdscwfrJuoGhdZNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjM2/MS0xMTYxMDgyMDE0/LmpwZWc.jpeg) | 2002-10 | Android Lust | The Dividing |
-| 17 |  | 2003 | Irfan | IRFAN |
-| 43 | ![Cover](https://i.discogs.com/yO1voJLEBbtOBVb3VoIYlM8gjB68bbnG4dQVjkYzvfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDc1/NS0xMzM1ODMwNDU3/LmpwZWc.jpeg) | 2004-09-20 | L&#39;Âme Immortelle | Gezeiten |
-| 12 |  | 2005-03-14 | Deine Lakaien | April Skies |
-| 9 |  | 2005-10-28 | Blutengel | The Oxidising Angel |
-| 85 | ![Cover](https://i.discogs.com/yU3L5ZGccWBRoT56WZKlo5isq6jrEIRBXxWo8NFMYHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTMw/Ny0xMTc4NTM1ODE2/LmpwZWc.jpeg) | 2006 | Mediavolo | A Secret Sound |
-| 94 | ![Cover](https://i.discogs.com/kJc2_M95Sh0YGrsVWbGOieMxpAOXX9oMwb2mwgo38-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjA1/My0xNTMyMjcxNDYw/LTE0NDguanBlZw.jpeg) | 2006 | Depeche Mode | Some Great Reward (Deluxe) |
-| 100 |  | 2006-01-31 | She Wants Revenge | She Wants Revenge |
-| 22 |  | 2007-01-01 | Johnny Hollow | Dirty Hands |
-| 16 | ![Cover](https://i.discogs.com/7oi1cde7WP4P7MvAE_m9fJWxFidMyAS0-3tZh-Xacm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTU3/Ny0xMzM3MzkxMjU2/LTUwMzQuanBlZw.jpeg) | 2007-01-16 | The Crüxshadows | DreamCypher |
-| 64 | ![Cover](https://i.discogs.com/3XDLb-2mkjhvA50uiYuS15trO-oGthLdxE_8mTyxHpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjcz/NDItMTIwMjEyMTk2/My5qcGVn.jpeg) | 2007-02 | Creature Feature | The Greatest Show Unearthed |
-| 13 |  | 2007-04-13 | Sopor Aeternus &amp; The Ensemble of Shadows | Les Fleurs du Mal |
-| 96 | ![Cover](https://i.discogs.com/f7D4t44YL3QL6Jzl1YPTrPtN8cBZ6RwnRphm8UV-g2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTk2/MzYtMTU2NzI3MDI2/Ny05NjExLmpwZWc.jpeg) | 2007-10-09 | She Wants Revenge | This Is Forever |
-| 32 |  | 2008-02-29 | Arcana | Raspail |
-| 81 |  | 2008-05-13 | She Wants Revenge | Save Your Soul |
-| 24 | ![Cover](https://i.discogs.com/u6RAAR3vuEislW6hdfwzouIpcMD8qa3Aw2Hvz7UX0Gg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODM5/NjQtMTQ2MzQyMTc4/OS05MDcyLmpwZWc.jpeg) | 2008-06-25 | Dead Can Dance | Dead Can Dance (Remastered) |
-| 35 | ![Cover](https://i.discogs.com/hV0wAtz3PnodDlH9noZrP9Rzl2MsvNnl1nZhKCqO8UY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTQz/MjUtMTYxMzk5MzQx/My01ODgzLmpwZWc.jpeg) | 2008-11-06 | HTRK | Ha &#x2F; Panties |
-| 66 | ![Cover](https://i.discogs.com/KI8R84DHLPgisz_nVC1KWzBifby9WQR6WutbYk6-MEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzEy/Mi0xNDg2NzM5Nzkw/LTIzODMucG5n.jpeg) | 2008-12-22 | Dead Can Dance | The Serpent&#39;s Egg |
-| 88 |  | 2010-01-10 | Grimes | Geidi Primes |
-| 80 | ![Cover](https://i.discogs.com/-4-9CHzaZgfs5k_27pKpnFua1OZlc7SpAB4P_hEzNMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDgy/NTYtMTI4MjM4MjA0/OS5qcGVn.jpeg) | 2010-08-23 | Zola Jesus | Stridulum II |
-| 82 |  | 2010-10-30 | White Ring | Black Earth That Made Me |
-| 33 | ![Cover](https://i.discogs.com/ZKssGLYb6M58dMiyE34oJjHpMsGfIgL4W-LG2OOoq18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDE5/NTEtMTMwMzUwODYy/Ny5qcGVn.jpeg) | 2011 | Tropic of Cancer | The Sorrow of Two Blooms |
-| 30 |  | 2011-11-07 | Tropic of Cancer | The End of All Things |
-| 45 |  | 2011-11-20 | Charli XCX | Nuclear Seasons |
-| 83 |  | 2012-02-28 | Trust | Trst |
-| 93 |  | 2012-08-09 | Dead Can Dance | Anastasis |
-| 78 | ![Cover](https://i.discogs.com/ie0rUL5MufCUgnMELLwnuYJ3eJ7eiyQHnB-GBSLzE5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTk5/NzMtMTM2Nzc0ODQw/NC00MDQ2LmpwZWc.jpeg) | 2012-10-31 | Lebanon Hanover | Why Not Just Be Solo |
-| 99 |  | 2013-09-09 | The Weeknd | Kiss Land |
-| 29 | ![Cover](https://i.discogs.com/FVvo5c0l2LtYwTBbiBegjbRLsrLb-nqssRiSwtWdtg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE4/NTAxLTE2MTkxNTYw/NjYtMjYzOC5qcGVn.jpeg) | 2013-10-24 | Minuit Machine | Basic Needs |
-| 3 | ![Cover](https://i.discogs.com/s6dhlX4dqbGQcFaWlvYgaNuGXLXinkIRYJkxUDG99YU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjYw/OTktMTYyODY2NzU0/Ny00NTQ2LmpwZWc.jpeg) | 2013-11-01 | Blutengel | Oxidising Angel, The |
-| 5 | ![Cover](https://i.discogs.com/-VDxhFALA7E8PQWKiSWnJ1IAwhKcsU5pZgIQHic30NU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDU2/MzctMTQzMjc0ODEx/My0zMTQ1LmpwZWc.jpeg) | 2014 | Prayers | Gothic Summer |
-| 95 | ![Cover](https://i.discogs.com/_6es4SpRP5GPgoSYD1X_O5QzVfLe4795uqM7F9zL8SI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MjM1/NjItMTQyNzM4MzM3/MS0yMTk3LmpwZWc.jpeg) | 2014 | Boy Harsher | Lesser Man EP |
-| 34 | ![Cover](https://i.discogs.com/0e-UnuSagk2YiDcdwW-0eq_ck5otWm0RnYSbhxuJbJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTI1/MjYtMTQ4NDg1NTI4/NC01NzcxLnBuZw.jpeg) | 2014-02-24 | GLOOMCVLT | HOSTAGE |
-| 53 |  | 2014-03-04 | Trust | Joyland |
-| 72 | ![Cover](https://i.discogs.com/Jhvj_2KLMR064nzj-4q6nEKySkIDMdelve8-dNNtUgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDIz/OTAtMTYxNTI0MzI3/NS01NDY3LmpwZWc.jpeg) | 2014-03-25 | Depeche Mode | Violator (Deluxe) |
-| 97 |  | 2014-07-24 | Melanie Martinez | Dollhouse |
-| 6 | ![Cover](https://i.discogs.com/ALID-pkdwTjzDgru7EPp397VTxVAIhEDZnRCBJSs2gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTA2/MTgtMTQ0Mjk2Nzk3/OC0xMTE4LmpwZWc.jpeg) | 2015-09-25 | black wing | ...Is Doomed |
-| 55 | ![Cover](https://i.discogs.com/2MK9SWaHudbL_r-FCb8zVm2UCerhH9vXG868AnqUROQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjAy/ODItMTU0MDU5MDc1/Ni0yODA5LmpwZWc.jpeg) | 2016 | Jakuzi | Fantezi Müzik |
-| 76 | ![Cover](https://i.discogs.com/DhzutPn2wnK4etFwd-C--OuF1NKkOt2whzdVu2E_Qmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MTIy/NTItMTQ4MzY0MDEw/MC02ODQ1LmpwZWc.jpeg) | 2016-06-20 | Boy Harsher | Yr Body Is Nothing |
-| 90 | ![Cover](https://i.discogs.com/a7Q6wSMX2Ml2GulajE2WWR4gmkZ7hBGSbsj-Z-gpM5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTM3/NTEtMTQ3NDY2Mjg4/OS04MzQ2LmpwZWc.jpeg) | 2016-09 | Emma Ruth Rundle | Marked For Death |
-| 70 | ![Cover](https://i.discogs.com/Avq2FVTRFCcwtNFUVExBqyHZ_OywPtCj5s58qz5lNDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDUx/OTEtMTQ3NjM4Njg1/Ni0zNzcyLmpwZWc.jpeg) | 2016-11-15 | Lebanon Hanover | Babes of the 80&#39;s |
-| 59 | ![Cover](https://i.discogs.com/Kltf6NhfBA7Ke2XgL3iyqtuIiAlqQjzlgzuEg_AEK7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjgy/MTEwLTE1MDIzMDY3/NjgtMjY2My5qcGVn.jpeg) | 2017-08-09 | Alice Glass | Without Love |
-| 67 | ![Cover](https://i.discogs.com/prEg998U33_I6YxGutklSv2h88PfeWEFcA9PfyDZGt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU1/Nzg5LTE1MjQ0NzI0/MjctNjQxMC5qcGVn.jpeg) | 2018-01-31 | Twin Tribes | Shadows |
-| 65 | ![Cover](https://i.discogs.com/dI65Nlj1AVK_KnCIdpYYFgri4FE9ZFXCRDun9UR4UVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE1/MjAzLTE1NDk5OTY0/MzQtNzcxNS5qcGVn.jpeg) | 2018-04-21 | Bragolin | I Saw Nothing Good So I Left |
-| 1 | ![Cover](https://i.discogs.com/UMRZ04DMOVoOSw3qGtPNSc_nv1ho07NrX8zVYSFBokU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg0/NzY3LTE1NDE4ODQ3/MTYtMjIwMy5qcGVn.jpeg) | 2018-11-09 | Kælan Mikla | Nótt eftir nótt |
-| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/000babf5bc230ade0735c9184e93ea27.png) |  | ✝✝✝ (Crosses) | Goodnight, God Bless, I Love U, Delete. |
-| 14 | ![Cover](https://i.discogs.com/35KOOFPhuBEjYrJT7-xAVFvaa-03g7wzIuxtiLq4xH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODQx/MDAtMTQ1NTk5MTk5/MC0xNjQ4LmpwZWc.jpeg) | 2015-10-09 | Minuit Machine | Violent Rains |
-| 42 | ![Cover](https://i.discogs.com/fvA_tEbIOfmLh8rTvfQxItjaoJbXT2QRyUVRxlF8zuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDA5/MDc0LTE0OTAwNjQz/OTctNjMyNC5qcGVn.jpeg) | 2017 | Ghost | He Is |
-| 25 | ![Cover](https://i.discogs.com/8r4fI-5kuu0yQsKXsVuvYG6xKKLOV-RMOVlROjLcDOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg0/NTg3LTE1MDQyNzI5/MDEtNTY3MC5qcGVn.jpeg) | 2017-09-01 | DRAB MAJESTY | Oak Wood |
-| 21 | ![Cover](https://i.discogs.com/ArLnokQNIWUgYDE4_AuCaGK0pk14I2t41sDuspAPD40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYx/OTIxLTE1MjU1NTIx/MTQtMjgzMS5qcGVn.jpeg) | 2018 | Zanias | To The Core |
-| 18 | ![Cover](https://i.discogs.com/CaCr28B5nKHw6X2RGuTGL4qkyQaCPgPbcrG-mywC5hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTA0/MjQ4LTE1MTkyNDAy/NTMtMTU5NC5qcGVn.jpeg) | 2018-02-22 | IAMX | Alive In New Light |
-| 40 | ![Cover](https://i.discogs.com/CM7EIvf51JF_91WS7Cz2Jx7OVolXsWp55vEe9vtyckU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjAz/MDgxLTE1MjQ0MTA0/NDgtNDc0OS5qcGVn.jpeg) | 2018-04-13 | Selofan | Vitrioli |
-| 44 | ![Cover](https://i.discogs.com/6vs1YN04NGXmSRVROR7lxnZdR5A7xPFrw0nFcsigxIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODEw/NzA0LTE2ODE2Njg2/NDMtNjYzOS5qcGVn.jpeg) | 2018-04-27 | Boy Harsher | Lesser Man (extended version) |
-| 92 | ![Cover](https://i.discogs.com/h0m4xzTxbpi3JSpgR3p1mj1JEgRDtLN9Z9hsPH-iI7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDgx/MjEzLTE2Mjg1MjY5/MTUtNzk1Mi5qcGVn.jpeg) | 2019-02-01 | Boy Harsher | Careful |
-| 51 | ![Cover](https://i.discogs.com/fnuZ51uCxQR4ofCeyIpay2wWAnW3_xE5EXXb9eAOeDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDcw/MDAtMTM4MzA1ODU1/NS0zMzAwLmpwZWc.jpeg) | 2019-03-08 | Mr.kitty | EPHEMERAL |
-| 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4d58c14b92a501b108e1d95d6bc7ffeb.png) | 2019-11-15 | Twin Tribes | Ceremony |
-| 49 | ![Cover](https://i.discogs.com/HZ9xNpmqW1szpDKjQhJ2OZTptr7aaODmHWqMefueSPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzIy/MjM4LTE2MDcwNTYx/ODktOTI1OS5qcGVn.jpeg) | 2020 | black wing | No Moon |
-| 98 |  | 2020-08-05 | oaf1 | Poster |
-| 52 | ![Cover](https://i.discogs.com/3x0VUNvbiuTF2h72OniJdp78IZmY8J4KcEIj5Ti-u_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTcz/ODMtMTMzNTE3ODIz/OC5qcGVn.jpeg) | 2020-11-26 | TR&#x2F;ST | The Destroyer - 2 |
-| 62 | ![Cover](https://i.discogs.com/270mgvCKlRdIgnRnkpWC2-peiMk7q7gw7-sa0lSjP_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTU0/NDgwLTE3MjAzMTQ2/OTUtMzc2NC5qcGVn.jpeg) | 2020-11-26 | TR&#x2F;ST | TRST |
-| 79 | ![Cover](https://i.discogs.com/3x0VUNvbiuTF2h72OniJdp78IZmY8J4KcEIj5Ti-u_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTcz/ODMtMTMzNTE3ODIz/OC5qcGVn.jpeg) | 2020-11-26 | TR&#x2F;ST | The Destroyer - 1 |
-| 27 | ![Cover](https://i.discogs.com/ffo_7byBsiW8_32lEvT46_ouXfi-9joJsj2-0J4Fd8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjMz/OS0xMzk3NDYyOTM5/LTkzOTMuanBlZw.jpeg) | 2021 | The Cure | Faith (Deluxe Edition) |
-| 69 | ![Cover](https://i.discogs.com/AX_YfSM1GlP-3LzqMe0mW-unYSBu3RuWxn8CTUwY3AY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzI4/NDI2LTE3MDc5MjY1/NjItNDkxMC5qcGVn.jpeg) | 2024-02-09 | Chelsea Wolfe | She Reaches Out To She Reaches Out To She |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Magnatron</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 15</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8750f9df0453ffc171ea067f78407a66.png" alt="Cover for The Moon And The Melodies" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>Cocteau Twins</td>
+      <td>The Moon And The Melodies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 90</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 93</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ea9b85090aee912323eaca073201491.png" alt="Cover for Violator (2006 Remaster)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>Depeche Mode</td>
+      <td>Violator (2006 Remaster)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td>1984-02-27</td>
+      <td>Dead Can Dance</td>
+      <td>Dead Can Dance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2afaeae5822490cc33627883322929b4.png" alt="Cover for Clan of Xymox" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985-06</td>
+      <td>Clan of Xymox</td>
+      <td>Clan of Xymox</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td>1985-11-25</td>
+      <td>Dead Can Dance</td>
+      <td>Spleen and Ideal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/d9anvLdThx7pHr1wVZ91fXGe-n95fiaj0sWC8SyUJ94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMzgx/LTE0NjA4NTk5MDct/MTAzNi5qcGVn.jpeg" alt="Cover for Medusa" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986-11-01</td>
+      <td>Clan of Xymox</td>
+      <td>Medusa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td>1987-07-27</td>
+      <td>Dead Can Dance</td>
+      <td>Within the Realm of a Dying Sun</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 63</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e69bd69782a6d9138559e4ea456cc19.png" alt="Cover for Music For The Masses (2006 Remaster)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987-10-06</td>
+      <td>Depeche Mode</td>
+      <td>Music For The Masses (2006 Remaster)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/27SSwT6Kq-ARL0_RkccXGMMe-FX4aZhgeqETZj5rsDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTkx/Mi0xMTQ0MDcwMTA5/LmpwZWc.jpeg" alt="Cover for Meta" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Pink Turns Blue</td>
+      <td>Meta</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td>1990-07-02</td>
+      <td>Dead Can Dance</td>
+      <td>Aion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 42</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 61</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/kkBYNRv20pPxq32pKHdudmVQJdkjs4O4YsqUSmSVApM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTQ1/OC0xMTU5NTYyNDYy/LmpwZWc.jpeg" alt="Cover for Dark Star" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Deine Lakaien</td>
+      <td>Dark Star</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/JEwtKsZFUZ50TwQhk6bLlzAfje0uhYUOR2_PBYX5aos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njg0/NDktMTMzODgyOTE1/Ni0zNDY2LmpwZWc.jpeg" alt="Cover for Angst" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Lacrimosa</td>
+      <td>Angst</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>1991-10-21</td>
+      <td>Dead Can Dance</td>
+      <td>A Passage in Time</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td>1992</td>
+      <td>London After Midnight</td>
+      <td>Selected Scenes From the End of the World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 85</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac95c03577ae54bb800e2304f8bba7d4.png" alt="Cover for Gone" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Sierra</td>
+      <td>Gone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+      </td>
+      <td>1992</td>
+      <td>Lacrimosa</td>
+      <td>Einsamkeit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5192cd4a8361c4f5cda6b24ac1762acf.png" alt="Cover for Позорная Звезда" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Агата Кристи</td>
+      <td>Позорная Звезда</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 32</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Lacrimosa</td>
+      <td>Satura</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 7</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/-g8TK4vM6nQTKRwvUc7g6sLFUc3_uaz0_0NIWssAP3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYz/NDEtMTIyMjU0MDA1/Ni5qcGVn.jpeg" alt="Cover for Psycho Magnet" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>London After Midnight</td>
+      <td>Psycho Magnet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 80</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/834ae3767d875352354651ad9f03ac3a.png" alt="Cover for Serpentine Gallery" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-09-19</td>
+      <td>Switchblade Symphony</td>
+      <td>Serpentine Gallery</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Arcana</td>
+      <td>Dark Age of Reason</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c12b9a094400c7b0d266385bdc5ef3ab.png" alt="Cover for Cold" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Lycia</td>
+      <td>Cold</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/508eca739bd8f43f5bab254b3a0e8fa1.png" alt="Cover for Bread and Jam for Frances" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-09-16</td>
+      <td>Switchblade Symphony</td>
+      <td>Bread and Jam for Frances</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/52SuZdCzKUyNVr6PIQ1fwCVEa_f188f0bo4jlxBF5p8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDE0/OS0xNDUzNTQ5NDM5/LTM1MTMuanBlZw.jpeg" alt="Cover for Hidden Faces" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-10-17</td>
+      <td>Clan of Xymox</td>
+      <td>Hidden Faces</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 8</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/9FAFdyfPiZUPrIemwrQ3T5ObYRMhJhe35Augko_En3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjc4/OTMtMTY4MDQyOTU1/NS05MDYyLnBuZw.jpeg" alt="Cover for Within The Realm Of A Dying Su" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Dead Can Dance</td>
+      <td>Within The Realm Of A Dying Su</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 54</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/xlNqNFxGS3EPO3084gdLSSg4QVYTs1pMqiGg6iM_r4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTQz/Ny0xNDMwMzQ4NTI5/LTE1NDMuanBlZw.jpeg" alt="Cover for Oddities" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-07-28</td>
+      <td>London After Midnight</td>
+      <td>Oddities</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td>1998-10-13</td>
+      <td>Dargaard</td>
+      <td>Eternity Rites</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 33</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td>1999-02-22</td>
+      <td>Blutengel</td>
+      <td>Child of Glass</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+      </td>
+      <td>1999-04-09</td>
+      <td>Deine Lakaien</td>
+      <td>Kasmodiah</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ab3c0c9965845b5b9a8e64532b3ad21.png" alt="Cover for The Three Calamities" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-05-25</td>
+      <td>Switchblade Symphony</td>
+      <td>The Three Calamities</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/jcujYaiP5X5c6q6VS9DBS8DTo6UlAsCerGx09zRavsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTI0/OS0xMTU1MzAzNzgz/LmpwZWc.jpeg" alt="Cover for Eye of the Hunter" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-10-04</td>
+      <td>Brendan Perry</td>
+      <td>Eye of the Hunter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/_itJze3sOXtmJZcxSXTdC4n7AHcqUwVTrwApbU_Spv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTg5/NS0xMzg1NDkzMjUz/LTcyOTQuanBlZw.jpeg" alt="Cover for One Of 18 Angels" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-02-25</td>
+      <td>Diary of Dreams</td>
+      <td>One Of 18 Angels</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>2000-10-31</td>
+      <td>Collide</td>
+      <td>Chasing the Ghost</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 34</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 36</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 48</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/355bcae73ae04219be9812540b46e183.png" alt="Cover for White Lies" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Deine Lakaien</td>
+      <td>White Lies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/VXnc-LceODEPwZjaDv8w5qiExBVdcUm_SUKY5Dlb__w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI2/OC0xNTExMTgwNDQ1/LTEyOTAuanBlZw.jpeg" alt="Cover for Freak Perfume" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-06-03</td>
+      <td>Diary of Dreams</td>
+      <td>Freak Perfume</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/017b80aa27ce2e90f4b7f0f454aec983.png" alt="Cover for The Dividing" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-10</td>
+      <td>Android Lust</td>
+      <td>The Dividing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Irfan</td>
+      <td>IRFAN</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 12</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 60</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 80</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 82</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fafa3a481f4b4b0196519ec7f4cafe83.png" alt="Cover for Some Kind of Strange" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-04-22</td>
+      <td>Collide</td>
+      <td>Some Kind of Strange</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae18d755dba740b196ab74ba0014201e.png" alt="Cover for Gezeiten" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-09-20</td>
+      <td>L&#39;Âme Immortelle</td>
+      <td>Gezeiten</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td>2005-03-14</td>
+      <td>Deine Lakaien</td>
+      <td>April Skies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td>2005-10-28</td>
+      <td>Blutengel</td>
+      <td>The Oxidising Angel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/yU3L5ZGccWBRoT56WZKlo5isq6jrEIRBXxWo8NFMYHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTMw/Ny0xMTc4NTM1ODE2/LmpwZWc.jpeg" alt="Cover for A Secret Sound" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Mediavolo</td>
+      <td>A Secret Sound</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 65</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da4a03aa121dd69d0b1c41300cb6dd1a.png" alt="Cover for Some Great Reward (Deluxe)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Depeche Mode</td>
+      <td>Some Great Reward (Deluxe)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td>2006-01-31</td>
+      <td>She Wants Revenge</td>
+      <td>She Wants Revenge</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 33</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 93</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/789ba5c0e4e920f13d9fc453c484a1ae.png" alt="Cover for Dirty Hands" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-01-01</td>
+      <td>Johnny Hollow</td>
+      <td>Dirty Hands</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f853d8746c387db5924538e1b78d5a1.png" alt="Cover for DreamCypher" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-01-16</td>
+      <td>The Crüxshadows</td>
+      <td>DreamCypher</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/3XDLb-2mkjhvA50uiYuS15trO-oGthLdxE_8mTyxHpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjcz/NDItMTIwMjEyMTk2/My5qcGVn.jpeg" alt="Cover for The Greatest Show Unearthed" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-02</td>
+      <td>Creature Feature</td>
+      <td>The Greatest Show Unearthed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td>2007-04-13</td>
+      <td>Sopor Aeternus &amp; The Ensemble of Shadows</td>
+      <td>Les Fleurs du Mal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/994f4a60666e4fb8cf438f017d444b5b.png" alt="Cover for This Is Forever" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-10-09</td>
+      <td>She Wants Revenge</td>
+      <td>This Is Forever</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 40</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/zDUUqIqpO8TKqekTs6naSQuwzKIS0teVY51EtzA1a7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc2/NTUtMTY0Mzk1OTA2/NC02NjQ0LmpwZWc.jpeg" alt="Cover for Nekrolog 43" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-10-26</td>
+      <td>Diary of Dreams</td>
+      <td>Nekrolog 43</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>2008-02-29</td>
+      <td>Arcana</td>
+      <td>Raspail</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td>2008-05-13</td>
+      <td>She Wants Revenge</td>
+      <td>Save Your Soul</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/u6RAAR3vuEislW6hdfwzouIpcMD8qa3Aw2Hvz7UX0Gg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODM5/NjQtMTQ2MzQyMTc4/OS05MDcyLmpwZWc.jpeg" alt="Cover for Dead Can Dance (Remastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-06-25</td>
+      <td>Dead Can Dance</td>
+      <td>Dead Can Dance (Remastered)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/hV0wAtz3PnodDlH9noZrP9Rzl2MsvNnl1nZhKCqO8UY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTQz/MjUtMTYxMzk5MzQx/My01ODgzLmpwZWc.jpeg" alt="Cover for Ha &#x2F; Panties" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-11-06</td>
+      <td>HTRK</td>
+      <td>Ha &#x2F; Panties</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/KI8R84DHLPgisz_nVC1KWzBifby9WQR6WutbYk6-MEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzEy/Mi0xNDg2NzM5Nzkw/LTIzODMucG5n.jpeg" alt="Cover for The Serpent&#39;s Egg" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-12-22</td>
+      <td>Dead Can Dance</td>
+      <td>The Serpent&#39;s Egg</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 15</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b585e9c0cb7a4d26bfe603211f8aaadd.png" alt="Cover for Geidi Primes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-01-10</td>
+      <td>Grimes</td>
+      <td>Geidi Primes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83414fa9b208452799a398c9070021a4.png" alt="Cover for Stridulum II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-08-23</td>
+      <td>Zola Jesus</td>
+      <td>Stridulum II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 20</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/33ef6e71c1a9400b93ae9b7ca26572b7.png" alt="Cover for Black Earth That Made Me" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-10-30</td>
+      <td>White Ring</td>
+      <td>Black Earth That Made Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/ZKssGLYb6M58dMiyE34oJjHpMsGfIgL4W-LG2OOoq18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDE5/NTEtMTMwMzUwODYy/Ny5qcGVn.jpeg" alt="Cover for The Sorrow of Two Blooms" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Tropic of Cancer</td>
+      <td>The Sorrow of Two Blooms</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td>2011-11-07</td>
+      <td>Tropic of Cancer</td>
+      <td>The End of All Things</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td>2011-11-20</td>
+      <td>Charli XCX</td>
+      <td>Nuclear Seasons</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td>2012-02-28</td>
+      <td>Trust</td>
+      <td>Trst</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>2012-08-09</td>
+      <td>Dead Can Dance</td>
+      <td>Anastasis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 27</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 45</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 62</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/ie0rUL5MufCUgnMELLwnuYJ3eJ7eiyQHnB-GBSLzE5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTk5/NzMtMTM2Nzc0ODQw/NC00MDQ2LmpwZWc.jpeg" alt="Cover for Why Not Just Be Solo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-10-31</td>
+      <td>Lebanon Hanover</td>
+      <td>Why Not Just Be Solo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 5</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01ad150445023de653c50dbbc3e10dbc.png" alt="Cover for Kiss Land" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-09-09</td>
+      <td>The Weeknd</td>
+      <td>Kiss Land</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2013-09-23</td>
+      <td>Tropic of Cancer</td>
+      <td>Restless Idylls</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/FVvo5c0l2LtYwTBbiBegjbRLsrLb-nqssRiSwtWdtg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE4/NTAxLTE2MTkxNTYw/NjYtMjYzOC5qcGVn.jpeg" alt="Cover for Basic Needs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-10-24</td>
+      <td>Minuit Machine</td>
+      <td>Basic Needs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 68</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 79</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 88</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 92</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 98</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/s6dhlX4dqbGQcFaWlvYgaNuGXLXinkIRYJkxUDG99YU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjYw/OTktMTYyODY2NzU0/Ny00NTQ2LmpwZWc.jpeg" alt="Cover for Oxidising Angel, The" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-11-01</td>
+      <td>Blutengel</td>
+      <td>Oxidising Angel, The</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5454c401afae4022c0256309a28c059f.png" alt="Cover for Sub Rosa" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Void Vision</td>
+      <td>Sub Rosa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 51</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d60a1aef539659005740cad3407cc063.png" alt="Cover for Gothic Summer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Prayers</td>
+      <td>Gothic Summer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 56</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 86</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/_6es4SpRP5GPgoSYD1X_O5QzVfLe4795uqM7F9zL8SI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MjM1/NjItMTQyNzM4MzM3/MS0yMTk3LmpwZWc.jpeg" alt="Cover for Lesser Man EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Boy Harsher</td>
+      <td>Lesser Man EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 11</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 97</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 98</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 98</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 100</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/0e-UnuSagk2YiDcdwW-0eq_ck5otWm0RnYSbhxuJbJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTI1/MjYtMTQ4NDg1NTI4/NC01NzcxLnBuZw.jpeg" alt="Cover for HOSTAGE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-02-24</td>
+      <td>GLOOMCVLT</td>
+      <td>HOSTAGE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b91785b8addc8d0d6b70b5dd913342a.png" alt="Cover for Joyland" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-03-04</td>
+      <td>Trust</td>
+      <td>Joyland</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/ALID-pkdwTjzDgru7EPp397VTxVAIhEDZnRCBJSs2gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTA2/MTgtMTQ0Mjk2Nzk3/OC0xMTE4LmpwZWc.jpeg" alt="Cover for ...Is Doomed" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-09-25</td>
+      <td>black wing</td>
+      <td>...Is Doomed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49a1b8937a54a31811e281de76045d9f.png" alt="Cover for Fantezi Müzik" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Jakuzi</td>
+      <td>Fantezi Müzik</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02cd8a939dedf332b8aa03992f5a690f.png" alt="Cover for Yr Body Is Nothing" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-06-20</td>
+      <td>Boy Harsher</td>
+      <td>Yr Body Is Nothing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 92</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 93</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 97</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/a7Q6wSMX2Ml2GulajE2WWR4gmkZ7hBGSbsj-Z-gpM5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTM3/NTEtMTQ3NDY2Mjg4/OS04MzQ2LmpwZWc.jpeg" alt="Cover for Marked For Death" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-09</td>
+      <td>Emma Ruth Rundle</td>
+      <td>Marked For Death</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/Avq2FVTRFCcwtNFUVExBqyHZ_OywPtCj5s58qz5lNDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDUx/OTEtMTQ3NjM4Njg1/Ni0zNzcyLmpwZWc.jpeg" alt="Cover for Babes of the 80&#39;s" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-11-15</td>
+      <td>Lebanon Hanover</td>
+      <td>Babes of the 80&#39;s</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 59</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 90</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 95</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e22b13d0716ced6ec1e7329b3030ede.png" alt="Cover for He Is" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Ghost</td>
+      <td>He Is</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8583abdb8790a5d795d1ff0576d35824.png" alt="Cover for Unsummering" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-03-03</td>
+      <td>R. Missing</td>
+      <td>Unsummering</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/077ce1bf41e242a839ba059858b1c41e.png" alt="Cover for Without Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-08-09</td>
+      <td>Alice Glass</td>
+      <td>Without Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 63</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 77</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/8r4fI-5kuu0yQsKXsVuvYG6xKKLOV-RMOVlROjLcDOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg0/NTg3LTE1MDQyNzI5/MDEtNTY3MC5qcGVn.jpeg" alt="Cover for Oak Wood" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-09-01</td>
+      <td>DRAB MAJESTY</td>
+      <td>Oak Wood</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cdb847e35e2dbd7db186a306109e432.png" alt="Cover for To The Core" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Zanias</td>
+      <td>To The Core</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 65</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 77</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 87</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 87</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 91</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 97</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1aad272d98321387784f666335419af3.png" alt="Cover for Shadows" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-01-31</td>
+      <td>Twin Tribes</td>
+      <td>Shadows</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/CM7EIvf51JF_91WS7Cz2Jx7OVolXsWp55vEe9vtyckU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjAz/MDgxLTE1MjQ0MTA0/NDgtNDc0OS5qcGVn.jpeg" alt="Cover for Vitrioli" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-04-13</td>
+      <td>Selofan</td>
+      <td>Vitrioli</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 72</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 80</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 91</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/dI65Nlj1AVK_KnCIdpYYFgri4FE9ZFXCRDun9UR4UVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE1/MjAzLTE1NDk5OTY0/MzQtNzcxNS5qcGVn.jpeg" alt="Cover for I Saw Nothing Good So I Left" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-04-21</td>
+      <td>Bragolin</td>
+      <td>I Saw Nothing Good So I Left</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddaf1c55a1f5648b7ac0224e8123a8df.png" alt="Cover for Lesser Man (extended version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-04-27</td>
+      <td>Boy Harsher</td>
+      <td>Lesser Man (extended version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 38</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 74</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 81</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 92</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/UMRZ04DMOVoOSw3qGtPNSc_nv1ho07NrX8zVYSFBokU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg0/NzY3LTE1NDE4ODQ3/MTYtMjIwMy5qcGVn.jpeg" alt="Cover for Nótt eftir nótt" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-11-09</td>
+      <td>Kælan Mikla</td>
+      <td>Nótt eftir nótt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b801b86e49e91ebc832cd841a66df34.png" alt="Cover for Careful" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-02-01</td>
+      <td>Boy Harsher</td>
+      <td>Careful</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 71</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/fnuZ51uCxQR4ofCeyIpay2wWAnW3_xE5EXXb9eAOeDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDcw/MDAtMTM4MzA1ODU1/NS0zMzAwLmpwZWc.jpeg" alt="Cover for EPHEMERAL" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-03-08</td>
+      <td>Mr.kitty</td>
+      <td>EPHEMERAL</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 27</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 54</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 57</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d58c14b92a501b108e1d95d6bc7ffeb.png" alt="Cover for Ceremony" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-11-15</td>
+      <td>Twin Tribes</td>
+      <td>Ceremony</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/HZ9xNpmqW1szpDKjQhJ2OZTptr7aaODmHWqMefueSPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzIy/MjM4LTE2MDcwNTYx/ODktOTI1OS5qcGVn.jpeg" alt="Cover for No Moon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020</td>
+      <td>black wing</td>
+      <td>No Moon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae3116fc1ad301fea97810e8c86dec41.png" alt="Cover for The Flesh of the World" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020</td>
+      <td>Uboa</td>
+      <td>The Flesh of the World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17ecca692351f5e2b6961083bc899134.png" alt="Cover for Poster" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-08-05</td>
+      <td>oaf1</td>
+      <td>Poster</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a01246428f0d37a4bba0866c1650e5a7.png" alt="Cover for The Destroyer - 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-11-26</td>
+      <td>TR&#x2F;ST</td>
+      <td>The Destroyer - 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 54</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 81</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 91</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/ffo_7byBsiW8_32lEvT46_ouXfi-9joJsj2-0J4Fd8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjMz/OS0xMzk3NDYyOTM5/LTkzOTMuanBlZw.jpeg" alt="Cover for Faith (Deluxe Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>The Cure</td>
+      <td>Faith (Deluxe Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 6</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/AX_YfSM1GlP-3LzqMe0mW-unYSBu3RuWxn8CTUwY3AY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzI4/NDI2LTE3MDc5MjY1/NjItNDkxMC5qcGVn.jpeg" alt="Cover for She Reaches Out To She Reaches Out To She" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-02-09</td>
+      <td>Chelsea Wolfe</td>
+      <td>She Reaches Out To She Reaches Out To She</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 59</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 61</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/000babf5bc230ade0735c9184e93ea27.png" alt="Cover for Goodnight, God Bless, I Love U, Delete." style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>✝✝✝ (Crosses)</td>
+      <td>Goodnight, God Bless, I Love U, Delete.</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 25</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 76</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 80</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 81</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58fa2a9f6cb8b80e27398d1e46404bf0.png" alt="Cover for Ретро" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>ЗАГОВОР</td>
+      <td>Ретро</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

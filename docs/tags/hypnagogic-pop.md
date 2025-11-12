@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T22:29:37.919Z
+date: 2025-11-11T20:38:01.604Z
 permalink: tags/hypnagogic-pop
 title: hypnagogic pop
 ---
 
 ## hypnagogic pop
 
-Last updated: <time datetime="2025-11-08T22:29:37.919Z">Sun Nov 09 2025 00:29:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T20:38:01.604Z">Tue Nov 11 2025 22:38:01 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
   </thead>
   <tbody>
     <tr>
-      <td>39</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/h8oB_0epOTavn5THWbSEuicDlKMIcCJieR7yDdRD0YA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzI0/NjUtMTIyOTM2ODE2/NS5qcGVn.jpeg" alt="Cover for Then you know what you are about to do has eternal conseguences" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f192f98c1a33a0d8c5a6fabbacc76ae.png" alt="Cover for Then you know what you are about to do has eternal conseguences" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Nina</td>
@@ -50,7 +50,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/3qWZR4kg0sX4dZIQ35Fgnpp4as9wN8kWR6r-hVaWf8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzc0/NDctMTM1NjQ3NTQ1/NS0zNzg4LmpwZWc.jpeg" alt="Cover for Quinn" style="max-width:120px; height:auto;" />
       </td>
@@ -73,20 +73,20 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 31</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 37</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 39</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 47</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 71</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 71</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 73</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 88</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 93</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/tfwjQLIrHUskgCajMCUoohR7xe9sEKylDWJUZ2r0eL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NjEy/NS0xMzA1MDEzNzQ4/LmpwZWc.jpeg" alt="Cover for Worn Copy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b60f50c8c19aa50f952f961f5873e3b.png" alt="Cover for Worn Copy" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Ariel Pink&#39;s Haunted Graffiti</td>
@@ -102,9 +102,9 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/_UXLCcdZw59FHU8FoT1E0Y8_iTWs5q9kjE8MuYt5RCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTIz/MTctMTQxMTM3Njg3/Ny05ODM1LmpwZWc.jpeg" alt="Cover for cLASSICS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99e383a71c39e30fba0f907bf5b7cd09.png" alt="Cover for cLASSICS" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-02-14</td>
       <td>Nina</td>
@@ -121,13 +121,13 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 51</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 52</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>10</td>
       <td>
       </td>
       <td>2007-11-06</td>
@@ -144,7 +144,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>15</td>
       <td>
       </td>
       <td>2008</td>
@@ -161,7 +161,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/VsZOdqoXnn9aqC3u07UIWWqJKrLUPYGD1bPcim7npYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODY0/NzAtMTYxNDI4ODcy/Ny01MjUxLmpwZWc.jpeg" alt="Cover for Discovery" style="max-width:120px; height:auto;" />
       </td>
@@ -182,7 +182,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/n_WvVC73ZgM83ZWBJQL7d-91kIuVSRvPtae3BxYM_dY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzUy/ODktMTIyOTU1MDgx/My5naWY.jpeg" alt="Cover for Tickley Feather" style="max-width:120px; height:auto;" />
       </td>
@@ -200,7 +200,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>18</td>
       <td>
       </td>
       <td>2010</td>
@@ -217,13 +217,32 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 52</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 59</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 53</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>3</td>
+      <td>
+      </td>
+      <td>2010-10-31</td>
+      <td>James Ferraro</td>
+      <td>Night Dolls With Hairspray</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/MiKCUISL3XvYETjKTlARBbFpx30yVOd99Qag0MLcOdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjc1/OTktMTI2OTQ5MjY4/OC5qcGVn.jpeg" alt="Cover for Last American Hero" style="max-width:120px; height:auto;" />
       </td>
@@ -244,26 +263,29 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>4</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c01d472cd7599a480124ab11a2e84347.png" alt="Cover for We Must Become the Pitiless Censors of Ourselves" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/zIoKDF8GJACpmNrT_gb007D06bBuHFhRcyQ1qWf8uds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTA4/OTQtMTMxOTgxMTA3/Ny5qcGVn.jpeg" alt="Cover for Horrorism" style="max-width:120px; height:auto;" />
       </td>
-      <td>2011-06-20</td>
-      <td>John Maus</td>
-      <td>We Must Become the Pitiless Censors of Ourselves</td>
+      <td>2011-09-26</td>
+      <td>Lee Noble</td>
+      <td>Horrorism</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 41</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 62</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/151a56783b78495593e9f9424eef4171.png" alt="Cover for Flamingo" style="max-width:120px; height:auto;" />
       </td>
@@ -287,9 +309,9 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 5</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 9</li>
             <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 80</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 95</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 96</li>
             <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 96</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 100</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 100</li>
@@ -297,7 +319,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
       </td>
       <td>2012-02-19</td>
@@ -314,7 +336,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>36</td>
       <td>
       </td>
       <td>2012-04-16</td>
@@ -331,16 +353,15 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/DhlWidgv4N1lzjWa2vTBCpwC23NSp00VN0ATQqU-oLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzI2/MzYtMTM0MjE3NDMy/OC0yMzI4LmpwZWc.jpeg" alt="Cover for A Collection of Rarities and Previously Unreleased Material" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a558bbf24cdc01d4fd49351510fcd4a.png" alt="Cover for A Collection of Rarities and Previously Unreleased Material" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-16</td>
       <td>John Maus</td>
       <td>A Collection of Rarities and Previously Unreleased Material</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
@@ -350,7 +371,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/emb4RDiGkMBznqE7JCEfJBGbVNXvSB3_3EgG9eTHOKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTY3/NTktMTM3MjU0OTYy/Ny05ODExLmpwZWc.jpeg" alt="Cover for Faminine Mystique" style="max-width:120px; height:auto;" />
       </td>
@@ -374,7 +395,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>19</td>
       <td>
       </td>
       <td>2013-06</td>
@@ -392,9 +413,9 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/ZyH2l9WgO2NvVovG02NTNxIH-7b0D5Lt9W1A_Rx2Qhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjk2/NjctMTQzMzAwMTc2/NC0zNDgyLmpwZWc.jpeg" alt="Cover for a year in your garden" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b130c60adfa4ecdce82f0f9dbad9341.png" alt="Cover for a year in your garden" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-20</td>
       <td>column</td>
@@ -410,14 +431,16 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 2</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 28</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 37</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28ffd87a1e554022c0065398979894c4.png" alt="Cover for Salad Days" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-01</td>
       <td>Mac DeMarco</td>
@@ -430,15 +453,16 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 1</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 29</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 59</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 78</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 67</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 80</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/_6k3u8HOZTPhTdJOy4HEk5Xelc0acg-W53CsdIkzxMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzQ1/OTMtMTQ1NjU0MTg3/MS03NjI2LmpwZWc.jpeg" alt="Cover for Freestyles (SS22)" style="max-width:120px; height:auto;" />
       </td>
@@ -457,8 +481,9 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/85258beea1d570d33b65469ced1b59d6.png" alt="Cover for Black Metal" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-03</td>
       <td>Dean Blunt</td>
@@ -470,16 +495,16 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 60</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 62</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 88</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 64</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/CUdMsQhnAgSPIx_qfP3xKL3iCrluDjOb3GOdwAJ8bK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDA0/MjAtMTQxNDg0ODYw/NC0xNDI2LmpwZWc.jpeg" alt="Cover for Black Is Beautiful" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0417a5db2e3268951a437d1b389794ec.png" alt="Cover for Black Is Beautiful" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-04</td>
       <td>Dean Blunt</td>
@@ -497,14 +522,14 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 56</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 57</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 60</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 65</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31a3d189dc244870c83b8ba6236275c7.png" alt="Cover for Trust" style="max-width:120px; height:auto;" />
       </td>
@@ -523,13 +548,14 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 18</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3b9a8aec24fc7da15c62c6b421be77d.png" alt="Cover for pom pom" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-17</td>
       <td>Ariel Pink</td>
@@ -541,13 +567,13 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 21</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 24</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/zAKoZbeabNh4svAehDRa7bFN2qqQvtU-Zfg0AmcJVoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDk5/NTQtMTU4NjM0NDYz/OC0zNTYwLmpwZWc.jpeg" alt="Cover for Before Today" style="max-width:120px; height:auto;" />
       </td>
@@ -565,7 +591,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/hn1t-Pbr3MCP5uPvQyEbbnZ7atlwzqo6X9Lxsc_2inQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjA0/MTUtMTQxMTU2ODE2/Mi03MjYxLmpwZWc.jpeg" alt="Cover for Tyranny" style="max-width:120px; height:auto;" />
       </td>
@@ -579,16 +605,38 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 19</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 34</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 58</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 18</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 37</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 63</li>
             <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 86</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3334f01531970ce1cc60de7c139b70d.png" alt="Cover for No Now" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Clarence Clarity</td>
+      <td>No Now</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 51</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 57</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/x80UFtPRoaXRmZMBnENpAr_Ck61rq0BXtSTM6vlYl08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODQ5/MTUtMTQ2MDU3MzI5/Ni0zMTA0LmpwZWc.jpeg" alt="Cover for Play the Game" style="max-width:120px; height:auto;" />
       </td>
@@ -603,12 +651,12 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 1</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/QjxP4-aHUAi0qTfstVayEhgwxautzHyYATgG58GWHuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTk0/NDgtMTQyNjg3NTk3/MC0xNDU2LmpwZWc.jpeg" alt="Cover for Dream A Garden" style="max-width:120px; height:auto;" />
       </td>
@@ -626,7 +674,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/pJH7WnJhXXmkkm3SV0JAVx0bdw8SMwt1HcR4cPtTGHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDQw/NTUtMTQ0NzA4Njc3/MC0xMjcyLmpwZWc.jpeg" alt="Cover for Skid Row" style="max-width:120px; height:auto;" />
       </td>
@@ -640,39 +688,13 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 10</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 11</li>
             <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
-      <td>
-          <img src="https://i.discogs.com/RsrL8WXvsE1oHB9A3lLIXqW51qZ4uCWbNtseK7NL_aU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTg3/NjUtMTQ2NDgxOTQ3/NS02NzU0LmpwZWc.jpeg" alt="Cover for Soaring" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-02-09</td>
-      <td>Puzzle</td>
-      <td>Soaring</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 34</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 63</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/B83IdNck9_P1A_Qqx7WnfbIEu0iyQ0OqUPi2BxrDFaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDE4/ODgtMTY0MjA4NjI0/My00Nzg3LmpwZWc.jpeg" alt="Cover for Another Word For Joy" style="max-width:120px; height:auto;" />
       </td>
@@ -690,7 +712,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/O77-PjtaignYuPr3NZynGMOBUSsF9Y0M-RG0C3XaORc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTE3/NDctMTQ3MTE5Mjgy/NC0yMzgxLmpwZWc.jpeg" alt="Cover for IN SUMMER" style="max-width:120px; height:auto;" />
       </td>
@@ -709,7 +731,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e249393bc7e6f683ddcfdd77449a3c5.png" alt="Cover for Standing On The Corner" style="max-width:120px; height:auto;" />
       </td>
@@ -729,7 +751,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/whreL82vXDOIOKzEYzo66gOe3E6c4DoGnQNsULGXP4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTE3/NzE3LTE0OTE5MjMw/NzYtMTY1Ny5wbmc.jpeg" alt="Cover for HOTEP" style="max-width:120px; height:auto;" />
       </td>
@@ -769,8 +791,9 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b9c3638e0e093865bf0eeb13d25fc0f.png" alt="Cover for Dedicated To Bobby Jameson" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-15</td>
       <td>Ariel Pink</td>
@@ -786,9 +809,9 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>63</td>
       <td>
-          <img src="https://i.discogs.com/hOz-Wq9yDDlEIeL39kbYds2W51lpihL1S6EtvLRFsTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTIy/OTcxLTE1NzIwNzg1/MTktNTEwOC5qcGVn.jpeg" alt="Cover for Little Dark Age" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28700d076e5afb3bc0fba47ab8e71975.png" alt="Cover for Little Dark Age" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-09</td>
       <td>MGMT</td>
@@ -801,16 +824,38 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       <td>
         <ul>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 2</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 66</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 73</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 67</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 75</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b956659680e5ab309783f85c8256e856.png" alt="Cover for Rio Grande" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-03-30</td>
+      <td>Delroy Edwards</td>
+      <td>Rio Grande</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/-3YY309Xkt8CbmGQ1RNd_VPj6TFeGg5Be7HuM2qX-wI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzU2/NjM4LTE1MjE4NDQ2/MTgtODM1NS5qcGVn.jpeg" alt="Cover for Virtue" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c09bab634deffda398be3d01b9257245.png" alt="Cover for Virtue" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-03-30</td>
       <td>The Voidz</td>
@@ -825,18 +870,18 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 2</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 27</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 84</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 98</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 28</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 85</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 99</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/WJNGd3SYA941I3DaxyM3frvLEuyFXTECZccMvCEeOwQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY4/MTExLTE1NDM1MDE0/ODQtNTU1Mi5qcGVn.jpeg" alt="Cover for Inchman &#x2F; Two Time" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9aa4a5c1f505f3160841d7e5f782bfa.png" alt="Cover for Inchman &#x2F; Two Time" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-04</td>
       <td>Jack Stauber&#39;s Micropop</td>
@@ -853,15 +898,15 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 63</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 69</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 92</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 92</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 93</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/GtZk-XF9GIZeEQz7_X-XduIoahUPMNYxb3FVkawIsms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk5/NDc5LTE1MzQ1MDIy/ODAtNjk2Mi5qcGVn.jpeg" alt="Cover for Uzun Havalar" style="max-width:120px; height:auto;" />
       </td>
@@ -876,7 +921,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 63</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -899,36 +944,14 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 83</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 84</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 91</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-          <img src="https://i.discogs.com/JkNHWNBtaBBDNz-RkJ7QKlwhymKqAjkUhQEsxOhNFDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDE3/Njc5LTE1MzQ4NzQ3/MTUtODEyMS5qcGVn.jpeg" alt="Cover for Slide" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-08-17</td>
-      <td>George Clanton</td>
-      <td>Slide</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 53</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 56</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 73</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>89</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96d54964826b6f2fbd01e72819a4b9c5.png" alt="Cover for Pop Food" style="max-width:120px; height:auto;" />
       </td>
@@ -942,13 +965,12 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 34</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/2dC7P4OfekdEz8whEnkJgdQog76ZyDckb_lmg5G2zi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDgz/MjAzLTE1MzYxNzY3/MTctNTM0MS5qcGVn.jpeg" alt="Cover for Safe In The Hands Of Love" style="max-width:120px; height:auto;" />
       </td>
@@ -964,14 +986,14 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 54</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 86</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 58</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 87</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/xLTG5kV5vdz1r8hhFlivpmn6wWzM-KpWLPjsq-kHrbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjA2/OTYyLTE2NDY0MjIw/MjEtMjQxMy5qcGVn.jpeg" alt="Cover for Helium" style="max-width:120px; height:auto;" />
       </td>
@@ -990,7 +1012,24 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a65fd0b41cf993cab295db3ee86455b3.png" alt="Cover for Micropop" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-06-29</td>
+      <td>Jack Stauber&#39;s Micropop</td>
+      <td>Micropop</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/jBZOhwYRsTDrKXAKPtW6ctRY2IPsTs317AfzgFKMIgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU5/MTMwLTE1NzA5MDc2/ODItNTExMy5qcGVn.jpeg" alt="Cover for Let Me Go" style="max-width:120px; height:auto;" />
       </td>
@@ -1010,18 +1049,18 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 12</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 14</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 33</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 36</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 39</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 70</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/pI5WWbMbIaX01Dm9vJPGHxCP6fdDDughvJ13QbQqVDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzA5/NjktMTQ3MTk4NTM0/MC0xNjI0LmpwZWc.jpeg" alt="Cover for Zushi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb190116dd4318fa1de3c2b888ab89e7.png" alt="Cover for Zushi" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-06</td>
       <td>Dean Blunt</td>
@@ -1041,8 +1080,8 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 25</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 35</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 64</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 43</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 67</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 92</li>
         </ul>
       </td>
@@ -1050,7 +1089,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/UIwXbecpCh1GJn9WcPnkC7GAily6Q_JR1t-9BFek5XA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY2/OTk1LTE1NzYyNTM5/MzAtMTg4MC5qcGVn.jpeg" alt="Cover for Taking My Time To Be" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/724c57b3a6cb1f894ea71afdc056a5ff.png" alt="Cover for Taking My Time To Be" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-27</td>
       <td>Strawberry Guy</td>
@@ -1065,14 +1104,14 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 79</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 84</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 89</li>
             <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/jyvn8vxbK_pZSEKCg3qML91kq3TDPV_C-8CmR5T9yvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzk5/NTg0LTE1NzM3NDgw/MTItOTA1Mi5wbmc.jpeg" alt="Cover for Deploy &#x2F; Those Eggs Aren&#39;t Dippy &#x2F; Out the Ox" style="max-width:120px; height:auto;" />
       </td>
@@ -1092,13 +1131,13 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 41</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 49</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/830f22af153d98f3eea3ed26676993be.png" alt="Cover for FLASH DESIRE" style="max-width:120px; height:auto;" />
       </td>
@@ -1139,8 +1178,8 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       <td>
         <ul>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 81</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 84</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 91</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 85</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 92</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 96</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 98</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 99</li>
@@ -1148,7 +1187,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/eSSBMgT2jms0z0aW9SI1VvjixK0jWUes_z2q2KYlNaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODM5/NzczLTE2NDk2NTg3/NzQtODQ1Mi5qcGVn.jpeg" alt="Cover for A Quiet Farwell, 2016–2018 (Crater Speak)" style="max-width:120px; height:auto;" />
       </td>
@@ -1161,17 +1200,17 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 2</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 23</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 79</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 92</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 96</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 4</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 79</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 81</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 91</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 96</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/PCppIRdNjrxCiTnQe4sPeWqChBFO0kdpCHWYnW2yyZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg3/MzQ1LTE2OTE3NzE4/OTAtMjA2Ny5qcGVn.jpeg" alt="Cover for I Am Gambling With My Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1195,18 +1234,18 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 48</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 65</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 66</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 66</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 70</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 72</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 79</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 94</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/1zrmH_Fm0P-Ciirmzd5AC5XP-_xh5u-V0YxOL6idLCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc3/MzgzLTE1ODEzODI5/MDktMzMwNS5qcGVn.jpeg" alt="Cover for If I Am Only My Thoughts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f953b8e8a1ff86fad45920778eb6009.png" alt="Cover for If I Am Only My Thoughts" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-01-31</td>
       <td>LOVING</td>
@@ -1223,10 +1262,10 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 67</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 80</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 70</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 81</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 85</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 82</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1253,9 +1292,9 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>79</td>
       <td>
-          <img src="https://i.discogs.com/bs7S0WlU0J7EGqU7ypagNV_89BlCR99zfPvNN0Mb_0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzI4/ODg5LTE1ODA0NTAx/NTQtNjE1Ni5qcGVn.jpeg" alt="Cover for What&#39;s Tonight To Eternity" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1548e7729ccfc2f7cbea83f5552c500.png" alt="Cover for What&#39;s Tonight To Eternity" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-02-14</td>
       <td>Cindy Lee</td>
@@ -1269,7 +1308,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 67</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 70</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 93</li>
         </ul>
       </td>
@@ -1284,25 +1323,17 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       <td>Shop: A Pop Opera</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 39</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 77</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 87</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/WbwubKTJg9dFY2SgCVGt8ag4XMUdS_Ox0BctpQ4QTi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIz/MTUxLTE2MjA5OTgw/MjktMjcyMC5qcGVn.jpeg" alt="Cover for Early Works Bootleg" style="max-width:120px; height:auto;" />
       </td>
@@ -1316,14 +1347,14 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 41</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 42</li>
             <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 48</li>
             <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b2e2e2ad4e857aa0b2b6b005e359556.png" alt="Cover for BAROQUE" style="max-width:120px; height:auto;" />
       </td>
@@ -1344,7 +1375,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db9a09b2d18b3a893effe1a92f338e79.png" alt="Cover for Gum" style="max-width:120px; height:auto;" />
       </td>
@@ -1366,14 +1397,14 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 70</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 71</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 71</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 72</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/nWW7t7qjbPUaeZ5iBNfvN6vrryLwO6dsps-apsNzBnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk3/NjI0LTE1OTI1MTU1/ODMtOTQ2NC5qcGVn.jpeg" alt="Cover for Roaches 2012-2019 (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1395,7 +1426,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/-I7p_pbGi_aNvJdbLio2DJ8vn-hClzzXk0uv2FU0V7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTUx/NzUzLTE2MDA3OTgz/MzItOTIyOS5qcGVn.jpeg" alt="Cover for Vergangenheitsbewältigung (Crater Speak)" style="max-width:120px; height:auto;" />
       </td>
@@ -1416,20 +1447,20 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 8</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 9</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 57</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 74</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 80</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 84</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 98</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 75</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 82</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 85</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 98</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/P9CYXlAwsjmAd_3gA1JU32Wscx7r7aoZ-SYnyNe0vfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTYz/MTAyLTE2MDA5ODgw/MDQtMTkzMC5qcGVn.jpeg" alt="Cover for Magic Oneohtrix Point Never" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9456797e3f95f64548b4a5eaf493fce3.png" alt="Cover for Magic Oneohtrix Point Never" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-30</td>
       <td>Oneohtrix Point Never</td>
@@ -1448,13 +1479,13 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 87</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 94</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 88</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/2OIR3T8W6RDmYPd14rso-vzSXr76TyZfS8m-WqvuXbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjI5/MTQ5LTE2MTA3MTY4/NjMtODAxNS5qcGVn.jpeg" alt="Cover for Jack Stauber&#39;s OPAL (Original Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1473,7 +1504,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe8c5ae69462abc69b068bd1acc21728.png" alt="Cover for Pillowland" style="max-width:120px; height:auto;" />
       </td>
@@ -1493,14 +1524,14 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 11</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 10</li>
             <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 74</li>
             <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/WbwubKTJg9dFY2SgCVGt8ag4XMUdS_Ox0BctpQ4QTi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIz/MTUxLTE2MjA5OTgw/MjktMjcyMC5qcGVn.jpeg" alt="Cover for SWORDS" style="max-width:120px; height:auto;" />
       </td>
@@ -1517,14 +1548,14 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
         <ul>
             <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 20</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 42</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 51</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/t7biQAEska2r-xR_OXkpZ0_oIZoUMD-V22goeLbo2Ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzU2/NDIwLTE2MDcyNTkw/MzEtNjU5OS5qcGVn.jpeg" alt="Cover for Quarrel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8a3ab47e54a44e0600b7ebef9e235e7.png" alt="Cover for Quarrel" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-12-03</td>
       <td>Bar Italia</td>
@@ -1541,16 +1572,16 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 22</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 32</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 50</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 88</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/eapxrUOyo1lB9HY7SNSJY7nWPSHJW8yf9o3TUbUsVCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDA5/MjE0LTE2MDc1NjAw/NzctODU5MS5qcGVn.jpeg" alt="Cover for Hey Big Eyes (George Clanton Remix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1a35f0bf2f5d69a4676f974022133bf.png" alt="Cover for Hey Big Eyes (George Clanton Remix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-12-09</td>
       <td>Caroline Polachek</td>
@@ -1566,16 +1597,16 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 62</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 67</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 79</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 86</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/TNV95Y7KjZOQ2ME1zdSKD7PgiRCMcUe4YLkya3IDZDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTY5/MzY2LTE2MDg1NTAy/OTYtODc3Mi5qcGVn.jpeg" alt="Cover for Blodhundar &amp; Lullabies" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7cb7dce95a6578b77970e8af5e2e2b3.png" alt="Cover for Blodhundar &amp; Lullabies" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-12-21</td>
       <td>Jonatan Leandoer96</td>
@@ -1596,13 +1627,13 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 45</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 70</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 77</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 78</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/SRyHY57UOmjwAS2DDhHNQz7golG86i69gaKEmeWXUqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIz/NDM5LTE2MTE3MTE5/MzItOTQ3MS5qcGVn.jpeg" alt="Cover for Blue Alibi" style="max-width:120px; height:auto;" />
       </td>
@@ -1619,13 +1650,13 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 8</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 31</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 10</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/9RQt7nmjfyRpmQlF-6yjh0SuXoDkaIR7aP6CVeU2Flg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUz/MzQyLTE2MTgxNTc2/NjktNzUwOC5qcGVn.jpeg" alt="Cover for bedhead" style="max-width:120px; height:auto;" />
       </td>
@@ -1643,15 +1674,16 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 19</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 67</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 75</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 26</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 68</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/edfa82b3656a71e366480c06d4b330a6.png" alt="Cover for ENTERTAINMENT, DEATH" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-09</td>
       <td>Spirit of the Beehive</td>
@@ -1662,16 +1694,15 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 27</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 61</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 78</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/xx3jJX0I9Z8tsE_x8SEmd5J0A0IXvoPCsIwXUHBSr08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDgz/OTA3LTE2MjMyODY4/ODUtMTY2Mi5qcGVn.jpeg" alt="Cover for Black Metal 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7b3b482d7412edc5712c68df1a74ad0.png" alt="Cover for Black Metal 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-11</td>
       <td>Dean Blunt</td>
@@ -1684,14 +1715,14 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 30</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/XumiMWGUFOE9JON34ox5UVWSyEwmaghmwxVYeyUPTYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTkz/MDgyLTE2MjcwMjg4/MzMtODMyMS5qcGVn.jpeg" alt="Cover for 5ever &#x2F; The Stars Up Above" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c37ffe175877411713ca3d2422f4cfca.png" alt="Cover for 5ever &#x2F; The Stars Up Above" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-07-22</td>
       <td>Ssaliva</td>
@@ -1715,7 +1746,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/d8izkfQDAkPAaHYjfnMd-zUGnvlt_13cug1rr5D5bio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg4/NzczLTE2Mjc3Mjc5/MzctNjY2My5qcGVn.jpeg" alt="Cover for SHILOH: Lost For Words" style="max-width:120px; height:auto;" />
       </td>
@@ -1735,13 +1766,13 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 37</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 66</li>
             <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/hTHPMLEVzLuqI08e6KPS1xR_3NsWh5rCDR70BcALhIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI0/Mjc5LTE2Mjk4NjQ2/NDMtOTAxNS5wbmc.jpeg" alt="Cover for I Need Your Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1764,7 +1795,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96957aa972e58b527f931d60b62f1714.png" alt="Cover for VOLCANIC BIRD ENEMY AND THE VOICED CONCERN" style="max-width:120px; height:auto;" />
       </td>
@@ -1773,21 +1804,17 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       <td>VOLCANIC BIRD ENEMY AND THE VOICED CONCERN</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 30</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/Cv5D5UY-aV_lYqeCdkTAwATw_KMK_WlPfn8vvSD5yoc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI2/MzMwLTE1OTQ3OTc4/NDQtMzY2MC5wbmc.jpeg" alt="Cover for Roaches 2012-2019" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2071e1c56dabb0399dfd286e2e2d2c5.png" alt="Cover for Roaches 2012-2019" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Dean Blunt</td>
@@ -1804,14 +1831,14 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 41</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/c_ekG385KitxRVo4Fg2BVy0sXUkyHPnR6maa98oOXEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTE3/ODkyLTE2NTgxMDU4/NzMtNzQ2Mi5qcGVn.jpeg" alt="Cover for Dios y La Mata de Lulo o ¿Qué hacer en caso de que haya perdido la luz?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d79b4d933bdeb92baca2500a1d952536.png" alt="Cover for Dios y La Mata de Lulo o ¿Qué hacer en caso de que haya perdido la luz?" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Nicolás y los Fumadores</td>
@@ -1829,7 +1856,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/jlzqUclFhq3tCK-C7nBGM4ienrK1UmlpATnxfNfl8Fk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTE4/OTMtMTQ2NTk0NDQx/My04MjM3LmpwZWc.jpeg" alt="Cover for Toon Time Raw!" style="max-width:120px; height:auto;" />
       </td>
@@ -1851,7 +1878,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/XTdY2Zi1wvocwSuvojQYn_hNQ43qUl-2kTlbuUqAR68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODk1/MzMtMTYxMzA5Njcy/MC00NTgwLmpwZWc.jpeg" alt="Cover for The Rotten Opera" style="max-width:120px; height:auto;" />
       </td>
@@ -1869,9 +1896,9 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/y6swxRLDrBlqlmgTH8DKxJWrw5GszKMk-K1kw6fD048/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDM4/MjY3LTE2NzU4OTYw/OTUtMzYzMC5qcGVn.jpeg" alt="Cover for God Complex" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e596329fd0196069ef26e6d8f7796cf.png" alt="Cover for God Complex" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-01-23</td>
       <td>Mark William Lewis</td>
@@ -1890,7 +1917,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/LRcIiDz0GJEackENy-CnaNi4MI18NZ8vqLmCQPFnRgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mjg0/MjItMTQ4MTMzMDUw/NC01NDIxLmpwZWc.jpeg" alt="Cover for WAHALLA" style="max-width:120px; height:auto;" />
       </td>
@@ -1909,7 +1936,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/52c919773a2e63951cbca3dae70b7f8d.png" alt="Cover for Dusk Til&#39; Dawn" style="max-width:120px; height:auto;" />
       </td>
@@ -1930,9 +1957,9 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/jBZOhwYRsTDrKXAKPtW6ctRY2IPsTs317AfzgFKMIgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU5/MTMwLTE1NzA5MDc2/ODItNTExMy5qcGVn.jpeg" alt="Cover for Gold Fangz" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8eb4b7c03c1dbdce09c437f89cd4e96d.png" alt="Cover for Gold Fangz" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-04-23</td>
       <td>Cartier God</td>
@@ -1953,7 +1980,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/TNV95Y7KjZOQ2ME1zdSKD7PgiRCMcUe4YLkya3IDZDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTY5/MzY2LTE2MDg1NTAy/OTYtODc3Mi5qcGVn.jpeg" alt="Cover for Psychopath Ballads" style="max-width:120px; height:auto;" />
       </td>
@@ -1972,9 +1999,9 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/FQmWkqXsGs5WIyCE4ZlWuNllzffaQSiPVQO-L7hETp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTYx/ODY0LTE2ODgzMzY1/MjMtMTE3Ny5qcGVn.jpeg" alt="Cover for Exploited" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/263b496d2ecd36f2cd6d4f467943b97c.png" alt="Cover for Exploited" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-06-22</td>
       <td>Enjoy</td>
@@ -1988,12 +2015,12 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 71</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/pygIRKUhznaI3jAbZnefYD9tbsWCSPPcKjf5Ev5Gqx0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzEz/MDE3LTE2OTUwMDYx/NzQtNzgwMS5wbmc.jpeg" alt="Cover for 7 estrelas | Quem arrancou o Céu?" style="max-width:120px; height:auto;" />
       </td>
@@ -2010,14 +2037,15 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 49</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 1</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/FA8birM5T4qCvjuxepsTCuXezAFEgIn4ahWsEMsDOPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODAx/Njk2LTE2OTA1MDQ1/ODgtMjExNy5qcGVn.jpeg" alt="Cover for Ooh Rap I Ya" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e78ec66203caca44d4549799a5b868ab.png" alt="Cover for Ooh Rap I Ya" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-07-28</td>
       <td>George Clanton</td>
@@ -2030,41 +2058,14 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 13</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 36</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 84</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 14</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 44</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-          <img src="https://i.discogs.com/um_8gmfKKYmRKHTpY6GfOMCX9pX7K0F_mdXSP-up7aM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDM3/MzU1LTE3MDExMDY2/NjEtMzYxOC5qcGVn.jpeg" alt="Cover for towncryer" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-09-22</td>
-      <td>untitled (halo)</td>
-      <td>towncryer</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 37</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 59</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/HHB9w_vhJ7plzs9vtFK40wpvqG9sefxD-7Yl-KSMHcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE1/MTM0LTE2OTgzODA0/MTAtNTU5MC5wbmc.jpeg" alt="Cover for The Ghost~Pop Tape (Remastered + Original)" style="max-width:120px; height:auto;" />
       </td>
@@ -2085,41 +2086,16 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 50</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 51</li>
             <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 65</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 80</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/y6swxRLDrBlqlmgTH8DKxJWrw5GszKMk-K1kw6fD048/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDM4/MjY3LTE2NzU4OTYw/OTUtMzYzMC5qcGVn.jpeg" alt="Cover for Pleasure is Everything" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024</td>
-      <td>Mark William Lewis</td>
-      <td>Pleasure is Everything</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 78</li>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 91</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/DlhWeAQCxQkyT_joRUstFtiMsGTo9ASCl6Q8q-ubLL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzU5/MjQ2LTE3MTI3NjE1/MTgtNzIzOS5wbmc.jpeg" alt="Cover for Diamond Jubilee" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e08a87a091d9db75ce1bf39ee14ca53.png" alt="Cover for Diamond Jubilee" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-27</td>
       <td>Cindy Lee</td>
@@ -2136,7 +2112,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>33</td>
       <td>
       </td>
       <td></td>
@@ -2158,7 +2134,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>39</td>
       <td>
       </td>
       <td></td>
@@ -2180,7 +2156,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22eaec8a53b26e64d91b16e6d453b747.png" alt="Cover for EXCELSIOR" style="max-width:120px; height:auto;" />
       </td>
@@ -2195,17 +2171,14 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 14</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 19</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 42</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 71</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a44f9eef72359890bfa26c0cf3122316.png" alt="Cover for 200% Electronica" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>ESPRIT 空想</td>
@@ -2219,13 +2192,13 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 77</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 92</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 80</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>67</td>
       <td>
       </td>
       <td></td>
@@ -2244,7 +2217,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>27</td>
       <td>
       </td>
       <td></td>
@@ -2265,7 +2238,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/97c6a8eab7f80d22d35510d8e16637fc.png" alt="Cover for I Will Make You Bleed" style="max-width:120px; height:auto;" />
       </td>
@@ -2294,10 +2267,10 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
 - [ambient]({{ "/tags/ambient" | relative_url }})
 - [lo-fi]({{ "/tags/lo-fi" | relative_url }})
 - [chillwave]({{ "/tags/chillwave" | relative_url }})
-- [dream pop]({{ "/tags/dream-pop" | relative_url }})
 - [noise]({{ "/tags/noise" | relative_url }})
 - [vaporwave]({{ "/tags/vaporwave" | relative_url }})
 - [drone]({{ "/tags/drone" | relative_url }})
-- [electronic]({{ "/tags/electronic" | relative_url }})
+- [dream pop]({{ "/tags/dream-pop" | relative_url }})
 - [sound collage]({{ "/tags/sound-collage" | relative_url }})
 - [cloud rap]({{ "/tags/cloud-rap" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})

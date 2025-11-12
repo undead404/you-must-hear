@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T22:09:06.315Z
+date: 2025-11-11T20:36:16.904Z
 permalink: tags/conscious-hip-hop
 title: conscious hip hop
 ---
 
 ## conscious hip hop
 
-Last updated: <time datetime="2025-11-08T22:09:06.315Z">Sun Nov 09 2025 00:09:06 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T20:36:16.904Z">Tue Nov 11 2025 22:36:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
   </thead>
   <tbody>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ab8ee8d7a7ff8bfb0c00afb89a38c16.png" alt="Cover for The Low End Theory" style="max-width:120px; height:auto;" />
       </td>
@@ -43,10 +43,10 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 17</li>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 34</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 38</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 59</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 18</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 35</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 37</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -74,18 +74,18 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 31</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 37</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 39</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 47</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 63</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 71</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 64</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 71</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 73</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 88</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 93</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5acf090da6f44dd08ffc43113b5cf476.png" alt="Cover for Blowout Comb" style="max-width:120px; height:auto;" />
       </td>
@@ -99,7 +99,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 21</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 22</li>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 99</li>
         </ul>
       </td>
@@ -124,7 +124,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02faa14e03554a73936ecb031c641bcf.png" alt="Cover for ATLiens" style="max-width:120px; height:auto;" />
       </td>
@@ -139,7 +139,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 34</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -163,14 +163,14 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 15</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 16</li>
             <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 83</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/wYZZBidA8SREQxhWQ7gyppyfav78GIWjmWQk9Dvv8kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTMz/NDUtMTQ2MzEzOTQx/NC03OTc5LmpwZWc.jpeg" alt="Cover for Hammer Damage" style="max-width:120px; height:auto;" />
       </td>
@@ -191,7 +191,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
       </td>
       <td>1997-02-21</td>
@@ -224,14 +224,14 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 41</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 69</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 84</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 44</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 71</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
       </td>
       <td>1999</td>
@@ -269,24 +269,6 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
     </tr>
     <tr>
-      <td>21</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12098b07c2774f8ccf8fa2f7b5b832e3.png" alt="Cover for Black On Both Sides" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999-10-12</td>
-      <td>Mos Def</td>
-      <td>Black On Both Sides</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fffc45953ee4daba99589c0f154c103.png" alt="Cover for Labor Days" style="max-width:120px; height:auto;" />
@@ -304,7 +286,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/Zl2kxW_ZCWFC7oSJu03Vnc9cnW0WJXuv_nckU1SKEqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODAy/Ni0xNTk5MzE5Nzc2/LTUzNjUuanBlZw.jpeg" alt="Cover for Steal This Double Album" style="max-width:120px; height:auto;" />
       </td>
@@ -325,9 +307,9 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 6</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 11</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 23</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 25</li>
             <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 94</li>
         </ul>
       </td>
@@ -349,8 +331,8 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 12</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 56</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 13</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 59</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 75</li>
         </ul>
       </td>
@@ -371,14 +353,14 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 16</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 57</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 17</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 60</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5580615531af5337a5ab0572188a4785.png" alt="Cover for Temporary Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -411,14 +393,14 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 16</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 26</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 64</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 75</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/bYGElQ9R7afI7ihHh9jqQwCQFPvJiAOiEvGsY1PHRJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjYx/NS0xMTIxNzkzMzQ0/LmpwZw.jpeg" alt="Cover for Joyful Rebellion" style="max-width:120px; height:auto;" />
       </td>
@@ -437,7 +419,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c0e7886d750a519c9ec63c30434b483.png" alt="Cover for Late Registration" style="max-width:120px; height:auto;" />
       </td>
@@ -451,7 +433,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 81</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -475,7 +457,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       <td>
         <ul>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 48</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 54</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -496,9 +478,9 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 61</li>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 70</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 41</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 71</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 73</li>
             <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 77</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 94</li>
             <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 95</li>
@@ -563,12 +545,12 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 94</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
       </td>
       <td>2008-06-01</td>
@@ -591,7 +573,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
       </td>
       <td>2009-09-11</td>
@@ -666,13 +648,13 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 48</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/632631693bae6b0260d8857d2e59a5dc.png" alt="Cover for Death Is Silent" style="max-width:120px; height:auto;" />
       </td>
@@ -711,9 +693,9 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 8</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 13</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 20</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 33</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 34</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 48</li>
         </ul>
       </td>
@@ -736,10 +718,29 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 54</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 53</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 89</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 89</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 90</li>
             <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c32cd109176d4241b2b68183b631a47c.png" alt="Cover for XXX" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-08-15</td>
+      <td>Danny Brown</td>
+      <td>XXX</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -760,7 +761,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 70</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -778,6 +779,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 1</li>
             <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 21</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 86</li>
         </ul>
@@ -800,11 +802,11 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
         <ul>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 70</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 79</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 83</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 84</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 84</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 85</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 85</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 89</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 97</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -842,9 +844,9 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 6</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 10</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 93</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 95</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 96</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 98</li>
         </ul>
       </td>
@@ -866,13 +868,13 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 58</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 93</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 59</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
       </td>
       <td>2013-10-22</td>
@@ -889,12 +891,12 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 1</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/9KmLqaQW5kMdMdg_X4HspKVPoOxCmn8FunWfTdnY81c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzA2/NzAtMTQ2MzQ3NDE0/NC05NDc2LmpwZWc.jpeg" alt="Cover for Definition Sickness" style="max-width:120px; height:auto;" />
       </td>
@@ -929,32 +931,8 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 35</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 86</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>33</td>
-      <td>
-      </td>
-      <td>2014-06-01</td>
-      <td>Lil B</td>
-      <td>Hoop Life</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 6</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 30</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 40</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -976,6 +954,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -996,7 +975,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 32</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1018,8 +997,8 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 44</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 60</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 45</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1042,8 +1021,8 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 38</li>
             <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 49</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 58</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 67</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 71</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 69</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 73</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 100</li>
         </ul>
       </td>
@@ -1065,9 +1044,9 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 60</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 81</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 90</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 84</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1088,10 +1067,10 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 15</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 43</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 52</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 90</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 14</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 50</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 54</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1113,9 +1092,10 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 57</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 5</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 58</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 73</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 60</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 76</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 93</li>
         </ul>
       </td>
@@ -1137,7 +1117,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 76</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1156,13 +1136,13 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 59</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 81</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 62</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/W4ugSEZhHjLTRY-QUBUCypfgYjgIObgPEa4bBYWR5QY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkw/NjQ0LTE1MzYzMjg4/MTMtNzA1NS5qcGVn.jpeg" alt="Cover for Poorboy" style="max-width:120px; height:auto;" />
       </td>
@@ -1180,8 +1160,8 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 7</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 14</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 8</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1199,9 +1179,9 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 19</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 44</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 20</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 46</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1221,15 +1201,16 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 8</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 45</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 81</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 90</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 97</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/2cdFL7O55R3SExi1a5Rb2AiJZWA3RkJPadIvJoZH5ls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDM4/NjUxLTE1MDg3MDMz/NzctNjA4Ni5qcGVn.jpeg" alt="Cover for written at night" style="max-width:120px; height:auto;" />
       </td>
@@ -1263,8 +1244,8 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 38</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 46</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 43</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1306,7 +1287,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       <td>
         <ul>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 87</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 88</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1324,8 +1305,8 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 9</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 20</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 14</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1345,10 +1326,10 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 12</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 35</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 65</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 13</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 37</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 68</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 69</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 92</li>
         </ul>
       </td>
@@ -1391,12 +1372,12 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 80</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/iSc2aNnUz5FVBHpMosyFludOO20Q5BjVqTOQFr4jemE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDYy/MzA4LTE2MjM0MTIy/NzAtNDk2OC5qcGVn.jpeg" alt="Cover for Çığlık" style="max-width:120px; height:auto;" />
       </td>
@@ -1436,10 +1417,10 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 11</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 45</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 78</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 84</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 12</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 49</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 80</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 86</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 96</li>
         </ul>
       </td>
@@ -1459,9 +1440,9 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 54</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 60</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 75</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 78</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 63</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 78</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 80</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 88</li>
         </ul>
       </td>
@@ -1487,14 +1468,14 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 4</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 18</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 6</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 20</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/LF3F3qYtzCdw16oRnHWrohT4d4zWpPokDOv-MHPtUQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ0/OTk4LTE1NTQzMzY2/NTctMzA1Ny5qcGVn.jpeg" alt="Cover for Hiding Places" style="max-width:120px; height:auto;" />
       </td>
@@ -1511,8 +1492,8 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 5</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 15</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 10</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1535,9 +1516,9 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 22</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 67</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 70</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 23</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 71</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1558,13 +1539,13 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 36</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 70</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 38</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b36b3dc13443db6d27e112dc35f00a11.png" alt="Cover for And, Such Is Life." style="max-width:120px; height:auto;" />
       </td>
@@ -1577,11 +1558,11 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 3</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 22</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 23</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 48</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 75</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 8</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 25</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 26</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 26</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1600,12 +1581,12 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 22</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a246c52ded091f6035ae05832c7b692.png" alt="Cover for Ultraleve" style="max-width:120px; height:auto;" />
       </td>
@@ -1666,7 +1647,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/956783bb3694e4296a6cdd6170ff083b.png" alt="Cover for The Off-Season" style="max-width:120px; height:auto;" />
       </td>
@@ -1680,7 +1661,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 46</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1728,7 +1709,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/cmXdfG1_dnVZyxAuiEM363dxQBTqjL85Nrz767lKbsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU4/ODY4LTE2OTIzNzk3/ODMtNTIxOC5qcGVn.jpeg" alt="Cover for Foreign Exchange" style="max-width:120px; height:auto;" />
       </td>
@@ -1748,7 +1729,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 16</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 17</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 18</li>
         </ul>
       </td>
@@ -1772,8 +1753,8 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       <td>
         <ul>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 21</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 78</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 81</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 81</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 82</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 88</li>
         </ul>
       </td>
@@ -1797,9 +1778,9 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 51</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 59</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 63</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 53</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 61</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1846,7 +1827,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/LGFMKch5AhQ7n2zcc19hFB2xVpQeVTcx3sV97wm27B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk5/MDI4LTE1OTI1NTE5/MzYtMjU5Ni5qcGVn.jpeg" alt="Cover for 23WINTERS" style="max-width:120px; height:auto;" />
       </td>
@@ -1886,9 +1867,9 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 26</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 55</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 78</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 87</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 57</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 79</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 88</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 93</li>
         </ul>
       </td>
@@ -1911,9 +1892,9 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       <td>
         <ul>
             <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 73</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 98</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 99</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 92</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 99</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 99</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 100</li>
         </ul>
       </td>
@@ -1938,19 +1919,19 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 35</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 51</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 64</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 34</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 53</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 70</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 73</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 83</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 84</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 85</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 96</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 96</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/Y50vPFjENqg0pkbPete8HFmUHv9oZYYFdrlkhRSWlTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDU2/MDAwLTE2NTQ4MzE0/NzItODExMS5qcGVn.jpeg" alt="Cover for Finally, New" style="max-width:120px; height:auto;" />
       </td>
@@ -1968,7 +1949,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/lazDYRn7fPp0dwXFwdqQkGP4BmL0MC_LRJ-0k6133KU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjAw/ODc2LTE2NjA0OTUx/MTEtNzI5My5qcGVn.jpeg" alt="Cover for There Will Be No Super-Slave" style="max-width:120px; height:auto;" />
       </td>
@@ -1982,7 +1963,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 2</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 3</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 32</li>
         </ul>
       </td>
@@ -2007,15 +1988,15 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 75</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 77</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 78</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 82</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 83</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/-gzeLpOqdHuUgPIR11RGEMNvWyfIKgKXt4lzSJfwKpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTgx/NTMxLTE2ODQwMDgy/MTktNjY1My5qcGVn.jpeg" alt="Cover for Maps" style="max-width:120px; height:auto;" />
       </td>
@@ -2032,7 +2013,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 9</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -2055,9 +2036,9 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 28</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 57</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 30</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 58</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 59</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 87</li>
         </ul>
       </td>
@@ -2081,8 +2062,8 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 41</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 73</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 45</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2106,16 +2087,16 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 38</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 67</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 72</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 75</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 40</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 69</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 74</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 77</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e47493caab2fee23efbb60413d654cee.png" alt="Cover for Dark Times" style="max-width:120px; height:auto;" />
       </td>
@@ -2129,13 +2110,30 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 9</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7e140a70f48651ec6ba64b5c05a301b.png" alt="Cover for Samurai" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-06-28</td>
+      <td>Lupe Fiasco</td>
+      <td>Samurai</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 13</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a0af7b9f680a7a6b417436f3519aea0.png" alt="Cover for We Got It From Here... Thank You 4 Your Service" style="max-width:120px; height:auto;" />
       </td>
@@ -2149,7 +2147,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 62</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -2173,12 +2171,12 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 28</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -2214,7 +2212,7 @@ Conscious hip hop, also known as political hip hop, is a subgenre of hip hop tha
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
