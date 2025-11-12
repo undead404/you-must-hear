@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T03:34:20.219Z
+date: 2025-11-12T11:38:11.008Z
 permalink: tags/new-york
 title: new york
 ---
 
 ## new york
 
-Last updated: <time datetime="2025-11-11T03:34:20.219Z">Tue Nov 11 2025 05:34:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-12T11:38:11.008Z">Wed Nov 12 2025 13:38:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -112,6 +112,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2dadefc55a7ba28ef09dbf321bb44b69.png" alt="Cover for Tales of Brave Ida" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Ida</td>
@@ -143,26 +144,6 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3abe3c04ea80b0aedf0a4abe6a331270.png" alt="Cover for Hard To Earn" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994-02-28</td>
-      <td>Gang Starr</td>
-      <td>Hard To Earn</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -199,11 +180,11 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 5</li>
             <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 34</li>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 44</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 43</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 76</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 86</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 88</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -223,7 +204,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 6</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 5</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 34</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 56</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 66</li>
@@ -266,7 +247,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 4</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 23</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 25</li>
             <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 95</li>
         </ul>
       </td>
@@ -286,7 +267,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 58</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -309,7 +290,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/ytSkZn-meBgbGQy3LjmOt87onqUWwYbydHBN_IWtXWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTct/MTUyNTIyNzgzMS02/OTMzLmpwZWc.jpeg" alt="Cover for Lets Get Killed" style="max-width:120px; height:auto;" />
       </td>
@@ -348,7 +329,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 15</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -370,7 +351,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td>1998</td>
@@ -390,7 +371,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf620778745f6b001e238a6f470052e9.png" alt="Cover for Mimosa" style="max-width:120px; height:auto;" />
       </td>
@@ -422,7 +403,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 55</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -458,7 +439,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 7</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 6</li>
             <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 62</li>
         </ul>
       </td>
@@ -555,8 +536,8 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 31</li>
             <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 56</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -578,7 +559,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a8b542903b34aabca8262bb4c6f2004.png" alt="Cover for Stillmatic" style="max-width:120px; height:auto;" />
       </td>
@@ -593,13 +574,13 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 24</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 53</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 23</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae78f2f02ccf47fdb4c6453096a8bfe1.png" alt="Cover for Infamy" style="max-width:120px; height:auto;" />
       </td>
@@ -613,7 +594,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 74</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -727,7 +708,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 71</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -805,7 +786,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/E6Xr8ZdIWGr7PHzVaqhMTvQF6vUJXAActRNRa3Gi_GE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM4/MzQtMTI5NTcwMzYw/NS5qcGVn.jpeg" alt="Cover for When the Sun&#39;s Gone Down" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6778d74c80154663ac26bdaca87d356e.png" alt="Cover for When the Sun&#39;s Gone Down" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-04-19</td>
       <td>Langhorne Slim</td>
@@ -891,7 +872,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/R461J_i0lQH0mPcIUaALWqrMvwWRxXxXI8qx4U37sLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjQw/MS0xMjcwODA4MjAx/LmpwZWc.jpeg" alt="Cover for Rewind &lt;&lt; Deja Screw" style="max-width:120px; height:auto;" />
       </td>
@@ -907,7 +888,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 5</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -993,7 +974,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 22</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1035,7 +1016,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       <td>
         <ul>
             <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 1</li>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 46</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1058,7 +1039,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 73</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 75</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 91</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 98</li>
         </ul>
@@ -1100,7 +1081,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 62</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 62</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 65</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 69</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 70</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 81</li>
             <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 84</li>
             <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 89</li>
@@ -1206,7 +1187,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 70</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1263,7 +1244,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 75</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 76</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 81</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 86</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 87</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 90</li>
             <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 95</li>
             <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 95</li>
@@ -1312,7 +1293,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/dYjmV_Lz8BKiNCJGnF8ck8Mh8p8NJNRTrx26FK9SAZc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDMw/OTctMTI1NDAxNjI1/MC5qcGVn.jpeg" alt="Cover for Red Yellow Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -1351,7 +1332,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 36</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 41</li>
             <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 84</li>
         </ul>
       </td>
@@ -1373,7 +1354,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 68</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 67</li>
             <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 71</li>
         </ul>
       </td>
@@ -1399,7 +1380,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/BCussi9aWG3gDn2AbDj47jEA_mX3gLw4MIqhi5-7UaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/MDEtMTI5ODkzNjQ0/NC5qcGVn.jpeg" alt="Cover for Waco Taco Combo" style="max-width:120px; height:auto;" />
       </td>
@@ -1461,7 +1442,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 2</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 1</li>
             <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 37</li>
             <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 75</li>
         </ul>
@@ -1488,7 +1469,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/DWYAzTzQcXHimROY3fNNM0DQAcwgbNLf7O9yh5rnPlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDc5/NjktMTU4OTAzNTQz/MS0xMzM0LmpwZWc.jpeg" alt="Cover for Ravipops" style="max-width:120px; height:auto;" />
       </td>
@@ -1590,8 +1571,8 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 35</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 61</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 36</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 42</li>
             <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 89</li>
         </ul>
       </td>
@@ -1637,7 +1618,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/CGZs4I57ABNHVRYN958bB6UJ4KHvBC2ZDEOTgrprdmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTg5/OTItMTQ1ODEzMzE0/Ni0zMjMzLmpwZWc.jpeg" alt="Cover for That Thing Reality" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1641c44714871d273d58b3d31783859c.png" alt="Cover for That Thing Reality" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-03-11</td>
       <td>Beau</td>
@@ -1739,6 +1720,26 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e5d05a970967d661fdc7d3c2ae19bad.png" alt="Cover for God&#39;s Favorite Customer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Father John Misty</td>
+      <td>God&#39;s Favorite Customer</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 54</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 69</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8e3b80c0fd81edd37dd3e5ee5635426.png" alt="Cover for Moon Moon Baby" style="max-width:120px; height:auto;" />
@@ -1780,7 +1781,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 68</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 69</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 83</li>
         </ul>
       </td>
@@ -1824,7 +1825,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/ZmzYjrxNdyhMPAlCSSy56jwt1v8aShF75TCvgkd6TWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzgx/OTEzLTE1ODE0ODk1/MDUtNTg1Ny5qcGVn.jpeg" alt="Cover for Mythic Music" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd4a5f69b538b04df2eed4ea9ef12614.png" alt="Cover for Mythic Music" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-21</td>
       <td>EARTH BOYS</td>
@@ -1864,7 +1865,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 64</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 67</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 75</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 95</li>
         </ul>
@@ -1890,7 +1891,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/228842243deda0f72daa8ef01f85ba4d.png" alt="Cover for GUMMO - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1936,7 +1937,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 5</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 9</li>
             <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 84</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 92</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 93</li>
@@ -1973,9 +1974,9 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       <td>
         <ul>
             <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 31</li>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 31</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 32</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 34</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 43</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 44</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 60</li>
             <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 72</li>
         </ul>
