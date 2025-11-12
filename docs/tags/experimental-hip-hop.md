@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T22:05:38.728Z
+date: 2025-11-11T20:31:40.791Z
 permalink: tags/experimental-hip-hop
 title: experimental hip hop
 ---
 
 ## experimental hip hop
 
-Last updated: <time datetime="2025-11-08T22:05:38.728Z">Sun Nov 09 2025 00:05:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T20:31:40.791Z">Tue Nov 11 2025 22:31:40 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -51,7 +51,7 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 23</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 29</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 69</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 71</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 82</li>
@@ -78,7 +78,7 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/3WrH-uirPuFKihux1avfVGzvO-g7_g92Z2f5FEc2hUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTU5/NS0xMTEwOTEyMjUy/LmpwZw.jpeg" alt="Cover for Munnie Fetish Renegade Demon" style="max-width:120px; height:auto;" />
       </td>
@@ -100,7 +100,7 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/X2l02x2-XSHjPZexnR9eJsWQ7mDaNYasGL5FnCspOKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODgx/Mi0xNDEzMjMwNTcy/LTc2MzYuanBlZw.jpeg" alt="Cover for 13 &amp; God" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f52c552564d420ac2973d4b88c701e2.png" alt="Cover for 13 &amp; God" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-04-18</td>
       <td>13 &amp; God</td>
@@ -117,29 +117,8 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 19</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 28</li>
             <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-      </td>
-      <td>2010-07-10</td>
-      <td>Lil B</td>
-      <td>Everything Based</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -157,9 +136,9 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 29</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 35</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 54</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 31</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 43</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 57</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 97</li>
         </ul>
       </td>
@@ -179,10 +158,9 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       <td>
         <ul>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 11</li>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 44</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 59</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 44</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 62</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 83</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -200,11 +178,11 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 33</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 11</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 29</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 48</li>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 48</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 65</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 68</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -223,13 +201,13 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 55</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 56</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 70</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 83</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 84</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 84</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 85</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 85</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 89</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 97</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -269,9 +247,9 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 57</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 71</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 77</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 61</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 74</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 80</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 93</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 96</li>
         </ul>
@@ -292,11 +270,33 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 15</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 69</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 75</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 86</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 87</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 87</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/Uwd6WMlttfLhVuxwTOjejAJkpb8wrKsP0L62__XoSno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDE5/MjQtMTQwOTU4MDA2/Ny00OTk1LmpwZWc.jpeg" alt="Cover for Body High" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-08-07</td>
+      <td>LUCKI</td>
+      <td>Body High</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -315,13 +315,13 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 54</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 58</li>
             <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/4ttPkP3rUDqAZuW0w1bSuZfRlz-MqGk92hWwKryB8Gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTEw/MzQtMTQ1MzM3MDky/OS04NTA0LmpwZWc.jpeg" alt="Cover for Oblivion Access" style="max-width:120px; height:auto;" />
       </td>
@@ -336,9 +336,9 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 30</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 31</li>
             <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 42</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -356,12 +356,12 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 59</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 71</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 62</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 73</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 75</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 77</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 84</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 86</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 87</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -382,12 +382,12 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 17</li>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 31</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 52</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 55</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 55</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 59</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 72</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 81</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 82</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 85</li>
             <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 88</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 92</li>
         </ul>
@@ -413,6 +413,30 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
     </tr>
     <tr>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/762e72f3ea9a34ba0ce5a24092bfdf7a.png" alt="Cover for BENEATH THE TOXIC JUNGLE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-12-19</td>
+      <td>Rav</td>
+      <td>BENEATH THE TOXIC JUNGLE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>83</td>
       <td>
           <img src="https://i.discogs.com/XI-w966H2KxJ8Z_vAg-8gmR7p_Oxbv4dpD-eaAQIGUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzEx/MDE1LTE1NTk1MTY3/MjEtNzE5My5qcGVn.jpeg" alt="Cover for Lazy Summer Day &#x2F; Chinese Restaurant" style="max-width:120px; height:auto;" />
@@ -431,7 +455,7 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 85</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 86</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 95</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 99</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 100</li>
@@ -455,9 +479,9 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 55</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 66</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 83</li>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 92</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 71</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 85</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -499,10 +523,10 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 35</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 54</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 57</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 78</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 34</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 49</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 60</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 80</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 82</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 90</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 95</li>
@@ -524,9 +548,9 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 51</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 54</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 60</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -548,7 +572,7 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 93</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 94</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 97</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 100</li>
         </ul>
@@ -572,10 +596,10 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 18</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 82</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 85</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 87</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 88</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 89</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 92</li>
         </ul>
       </td>
@@ -597,10 +621,11 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 21</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 58</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 70</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 80</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 10</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 23</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 60</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 71</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -618,12 +643,12 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 7</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 37</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 18</li>
             <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 37</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 42</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 46</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 75</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 38</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 44</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 50</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 76</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 95</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 96</li>
         </ul>
@@ -645,8 +670,8 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 19</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 22</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 20</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 31</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 95</li>
         </ul>
       </td>
@@ -703,16 +728,16 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 31</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 59</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 71</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 84</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 34</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 66</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 73</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 85</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/0hmdRrouyGHqquH21Lp27m-4o3odsCP_x3FFSLfHseI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc4/MjQwLTE2NTk2OTk5/NDQtOTM1Ni5qcGVn.jpeg" alt="Cover for Ye" style="max-width:120px; height:auto;" />
       </td>
@@ -727,9 +752,10 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 6</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 41</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 92</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 96</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -749,12 +775,12 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 47</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 62</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 67</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 68</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 76</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 84</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 53</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 66</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 69</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 70</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 77</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -775,10 +801,10 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 23</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 39</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 48</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 77</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 26</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 47</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 64</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 79</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 88</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 92</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 96</li>
@@ -801,9 +827,9 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 4</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 12</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 35</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 14</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -823,8 +849,8 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 7</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 13</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 15</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 94</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 94</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 94</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 97</li>
@@ -850,15 +876,15 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 13</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 23</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 42</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 20</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 32</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 44</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/XaeoayS9wkPBMdnYwES6IyX8ojabNua7rROJiTE-R00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjI5/NTIyLTE1NzAzMDY2/ODAtMjkxMS5qcGVn.jpeg" alt="Cover for uknowhatimsayin¿" style="max-width:120px; height:auto;" />
       </td>
@@ -875,10 +901,10 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 45</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 54</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 78</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 84</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 49</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 55</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 80</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 86</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 96</li>
         </ul>
       </td>
@@ -900,7 +926,7 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 85</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -989,9 +1015,9 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 32</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 81</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 86</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 36</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 82</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 92</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 94</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 96</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 97</li>
@@ -1017,14 +1043,14 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 5</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 40</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 88</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/18eea6034b5c91c525c9661d56c99c0f.png" alt="Cover for Voice Memos" style="max-width:120px; height:auto;" />
       </td>
@@ -1044,14 +1070,14 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 18</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 20</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 59</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 80</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/6GsimFwcJS3YThzYG3cxVy1BM203GYs15bJeg_029K8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzc3/NjAwLTE2NTY5MzA1/NjAtOTQzOS5qcGVn.jpeg" alt="Cover for Underdog" style="max-width:120px; height:auto;" />
       </td>
@@ -1068,7 +1094,7 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 36</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1089,13 +1115,13 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 27</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 67</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/hyoDmzUE8Urq0g9pmIjB2hzv-qWfFbw6G91mh26femA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODM5/ODQyLTE1NjIzMDk0/ODEtNzA2MS5qcGVn.jpeg" alt="Cover for High the Lonestarr Mixtape" style="max-width:120px; height:auto;" />
       </td>
@@ -1113,7 +1139,7 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 35</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1136,7 +1162,7 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       <td>
         <ul>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 19</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 63</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1160,10 +1186,10 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 22</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 63</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 76</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 82</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 31</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 78</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 83</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 92</li>
         </ul>
       </td>
@@ -1207,11 +1233,11 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 12</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 36</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 14</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 39</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 70</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 73</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 82</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1235,7 +1261,7 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/pI5WWbMbIaX01Dm9vJPGHxCP6fdDDughvJ13QbQqVDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzA5/NjktMTQ3MTk4NTM0/MC0xNjI0LmpwZWc.jpeg" alt="Cover for Zushi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb190116dd4318fa1de3c2b888ab89e7.png" alt="Cover for Zushi" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-06</td>
       <td>Dean Blunt</td>
@@ -1254,9 +1280,9 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 30</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 64</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 77</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 35</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 67</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 78</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 92</li>
         </ul>
       </td>
@@ -1277,10 +1303,10 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 4</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 47</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 74</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 78</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 79</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1300,7 +1326,7 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 44</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1350,8 +1376,8 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       <td>
         <ul>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 81</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 84</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 91</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 85</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 92</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 98</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 99</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 100</li>
@@ -1359,7 +1385,7 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/eSSBMgT2jms0z0aW9SI1VvjixK0jWUes_z2q2KYlNaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODM5/NzczLTE2NDk2NTg3/NzQtODQ1Mi5qcGVn.jpeg" alt="Cover for A Quiet Farwell, 2016–2018 (Crater Speak)" style="max-width:120px; height:auto;" />
       </td>
@@ -1372,12 +1398,12 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 23</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 69</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 79</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 92</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 96</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 70</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 79</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 81</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 91</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 96</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1398,10 +1424,10 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 2</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 94</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 95</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 95</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 98</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1446,10 +1472,10 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 11</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 17</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 74</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 76</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 85</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1505,8 +1531,8 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 5</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 76</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 6</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 79</li>
             <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 96</li>
             <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 99</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 100</li>
@@ -1532,7 +1558,7 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 28</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 31</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 68</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 93</li>
             <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 98</li>
@@ -1580,9 +1606,9 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 18</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 21</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 63</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 73</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 74</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 97</li>
             <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 100</li>
         </ul>
@@ -1605,7 +1631,7 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       <td>
         <ul>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 30</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 78</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1627,12 +1653,12 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 44</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/-I7p_pbGi_aNvJdbLio2DJ8vn-hClzzXk0uv2FU0V7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTUx/NzUzLTE2MDA3OTgz/MzItOTIyOS5qcGVn.jpeg" alt="Cover for Vergangenheitsbewältigung (Crater Speak)" style="max-width:120px; height:auto;" />
       </td>
@@ -1653,13 +1679,13 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 30</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 71</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 74</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 80</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 84</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 98</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 57</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 72</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 75</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 82</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 85</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 98</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1699,9 +1725,9 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 19</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 51</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 53</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 20</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 52</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1745,8 +1771,8 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 35</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 56</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 59</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 58</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 62</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 81</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 90</li>
         </ul>
@@ -1771,9 +1797,9 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 9</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 28</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 86</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 30</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 88</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1795,9 +1821,9 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 1</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 69</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 98</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1816,14 +1842,14 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 3</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 29</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 28</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 69</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/ubQo4R4gpYft5NQWoR_f_B1TgkmzEsjop0Q1WBM94g0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDc1/MjI2LTE2Mzc1NDk0/NzctNzExNy5qcGVn.jpeg" alt="Cover for From Me To You" style="max-width:120px; height:auto;" />
       </td>
@@ -1859,7 +1885,7 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 27</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 30</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 67</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 92</li>
         </ul>
@@ -1881,12 +1907,12 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 8</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 27</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 34</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 30</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 39</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 53</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 69</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 82</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 70</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 83</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1934,11 +1960,11 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 30</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 67</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 33</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 70</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 71</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 80</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 86</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1961,7 +1987,7 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 10</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 11</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 99</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 99</li>
         </ul>
@@ -1987,31 +2013,11 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 55</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 78</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 57</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 79</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 85</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 87</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 88</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>
-          <img src="https://i.discogs.com/jKpC9x8SR1wxgPirLHmWXp8BZ1JTBFKQzl_IfJyNe3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzU1/NTQ0LTE2NjE4MjIy/NjUtODk4OS5qcGVn.jpeg" alt="Cover for BlackBolshevik" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-04-17</td>
-      <td>Ghais Guevara</td>
-      <td>BlackBolshevik</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -2035,13 +2041,13 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 29</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 51</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 64</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 79</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 83</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 96</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 35</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 53</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 70</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 84</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 85</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 96</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 96</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 99</li>
         </ul>
       </td>
@@ -2049,7 +2055,7 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/WbwubKTJg9dFY2SgCVGt8ag4XMUdS_Ox0BctpQ4QTi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIz/MTUxLTE2MjA5OTgw/MjktMjcyMC5qcGVn.jpeg" alt="Cover for CLAWS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e42f3fe7e6201d08f278cf3c73a5aa8.png" alt="Cover for CLAWS" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-22</td>
       <td>YABUJIN</td>
@@ -2085,10 +2091,10 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 18</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 24</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 39</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 25</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 43</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 74</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 83</li>
             <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 97</li>
         </ul>
       </td>
@@ -2131,8 +2137,8 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 18</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 64</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 19</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -2153,7 +2159,7 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 43</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 46</li>
             <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 98</li>
         </ul>
       </td>
@@ -2221,18 +2227,18 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 25</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 28</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 44</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 61</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 85</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 89</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 91</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 90</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 92</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/okuG3DP5NWrdLoCaK7xj5lDqVrWq38H-Gl8vHJWSZSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDQy/MTA3LTE2OTI2OTMy/MjEtOTY0MC5qcGVn.jpeg" alt="Cover for Just Tired" style="max-width:120px; height:auto;" />
       </td>
@@ -2269,7 +2275,7 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 79</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 81</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 99</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 99</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 100</li>
@@ -2297,7 +2303,7 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 89</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 94</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 95</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 98</li>
         </ul>
       </td>
@@ -2320,17 +2326,17 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 23</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 24</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 42</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 62</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 85</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/cmMnCqT85auJUCSj6nwQuHv6EkN17ls3ZlhrdB8Pbw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTY4/NjMyLTE3MTg1Mzky/NzUtMjEzOC5wbmc.jpeg" alt="Cover for White Tiger" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f2fbedbd3e02383e9a88f82914df4af.png" alt="Cover for White Tiger" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-06-07</td>
       <td>2hollis</td>
@@ -2345,7 +2351,7 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 83</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 84</li>
             <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 89</li>
             <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 100</li>
         </ul>
@@ -2367,7 +2373,7 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 68</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 79</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 95</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 99</li>
@@ -2401,8 +2407,8 @@ Experimental hip hop pushes beyond traditional rap conventions by incorporating 
 - [avanthop]({{ "/tags/avanthop" | relative_url }})
 - [abstract hip hop]({{ "/tags/abstract-hip-hop" | relative_url }})
 - [pop rap]({{ "/tags/pop-rap" | relative_url }})
-- [electronic]({{ "/tags/electronic" | relative_url }})
 - [hip-hop]({{ "/tags/hip-hop" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
 - [rap]({{ "/tags/rap" | relative_url }})
 - [emo rap]({{ "/tags/emo-rap" | relative_url }})
 - [ethereal]({{ "/tags/ethereal" | relative_url }})
