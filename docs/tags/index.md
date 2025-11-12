@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-12T15:56:51.100Z
+date: 2025-11-12T16:16:33.203Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-12T15:56:51.100Z">Wed Nov 12 2025 17:56:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-12T16:16:33.203Z">Wed Nov 12 2025 18:16:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [folk pop]({{ "tags/folk-pop" | relative_url }}) | <time datetime="2025-11-12T16:16:33.203Z">Wed Nov 12 2025 18:16:33 GMT+0200 (Eastern European Standard Time)</time> |
 | [ska punk]({{ "tags/ska-punk" | relative_url }}) | <time datetime="2025-11-12T15:56:51.100Z">Wed Nov 12 2025 17:56:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [midwest emo]({{ "tags/midwest-emo" | relative_url }}) | <time datetime="2025-11-12T12:58:37.465Z">Wed Nov 12 2025 14:58:37 GMT+0200 (Eastern European Standard Time)</time> |
 | [experimental folk]({{ "tags/experimental-folk" | relative_url }}) | <time datetime="2025-11-12T11:38:52.664Z">Wed Nov 12 2025 13:38:52 GMT+0200 (Eastern European Standard Time)</time> |
@@ -461,7 +462,6 @@ Last updated: <time datetime="2025-11-12T15:56:51.100Z">Wed Nov 12 2025 17:56:51
 | [spanish guitar]({{ "tags/spanish-guitar" | relative_url }}) | <time datetime="2025-11-07T06:57:14.418Z">Fri Nov 07 2025 08:57:14 GMT+0200 (Eastern European Standard Time)</time> |
 | [asian]({{ "tags/asian" | relative_url }}) | <time datetime="2025-11-07T03:56:19.530Z">Fri Nov 07 2025 05:56:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [black noise]({{ "tags/black-noise" | relative_url }}) | <time datetime="2025-11-06T23:41:47.703Z">Fri Nov 07 2025 01:41:47 GMT+0200 (Eastern European Standard Time)</time> |
-| [folk pop]({{ "tags/folk-pop" | relative_url }}) | <time datetime="2025-11-06T23:30:47.252Z">Fri Nov 07 2025 01:30:47 GMT+0200 (Eastern European Standard Time)</time> |
 | [garage punk]({{ "tags/garage-punk" | relative_url }}) | <time datetime="2025-11-06T23:14:48.431Z">Fri Nov 07 2025 01:14:48 GMT+0200 (Eastern European Standard Time)</time> |
 | [psychedelic metal]({{ "tags/psychedelic-metal" | relative_url }}) | <time datetime="2025-11-06T22:55:57.492Z">Fri Nov 07 2025 00:55:57 GMT+0200 (Eastern European Standard Time)</time> |
 | [hard bop]({{ "tags/hard-bop" | relative_url }}) | <time datetime="2025-11-06T01:56:51.602Z">Thu Nov 06 2025 03:56:51 GMT+0200 (Eastern European Standard Time)</time> |
