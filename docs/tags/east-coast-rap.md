@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T22:01:13.612Z
+date: 2025-11-11T19:38:53.368Z
 permalink: tags/east-coast-rap
 title: east coast rap
 ---
 
 ## east coast rap
 
-Last updated: <time datetime="2025-11-08T22:01:13.612Z">Sun Nov 09 2025 00:01:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T19:38:53.368Z">Tue Nov 11 2025 21:38:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
   </thead>
   <tbody>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg" alt="Cover for N.O.R.E." style="max-width:120px; height:auto;" />
       </td>
@@ -65,12 +65,12 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 97</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29427b51c7e94079c0c8ad0dfd063c53.png" alt="Cover for Criminal Minded" style="max-width:120px; height:auto;" />
       </td>
@@ -89,7 +89,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dee78af76ed1450a86245bfe3479ac99.png" alt="Cover for The Great Adventures of Slick Rick" style="max-width:120px; height:auto;" />
       </td>
@@ -141,7 +141,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
       </td>
       <td>1989</td>
@@ -155,8 +155,8 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 42</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 43</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 41</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -179,7 +179,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/94ee18b1bad5a6b65ee8abefec2166f2.png" alt="Cover for Mama Said Knock You Out" style="max-width:120px; height:auto;" />
       </td>
@@ -211,7 +211,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 79</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 80</li>
             <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 89</li>
         </ul>
       </td>
@@ -254,25 +254,6 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>1993-05-25</td>
-      <td>Big Daddy Kane</td>
-      <td>Looks Like A Job For...</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 74</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cddcfbab50e16a9f71690a8784cb4e0.png" alt="Cover for Enta Da Stage" style="max-width:120px; height:auto;" />
@@ -287,24 +268,6 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6eeceb950bfad250dff2bab2936a4d4.png" alt="Cover for Stress: The Extinction Agenda" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>Organized Konfusion</td>
-      <td>Stress: The Extinction Agenda</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -328,7 +291,24 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6eeceb950bfad250dff2bab2936a4d4.png" alt="Cover for Stress: The Extinction Agenda" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Organized Konfusion</td>
+      <td>Stress: The Extinction Agenda</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>
       </td>
       <td>1994-01-18</td>
@@ -342,7 +322,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 55</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -361,15 +341,15 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 30</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 31</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 44</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 76</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 31</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 34</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 48</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td>1994-09-13</td>
@@ -405,7 +385,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/2jv8vryy5n985MgHipjvAIB_ZBVf-1-tFa8qgrayF0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjgx/Mi0xMTAyMzI5NTky/LmpwZw.jpeg" alt="Cover for Ambushed" style="max-width:120px; height:auto;" />
       </td>
@@ -423,7 +403,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/VGts71AZg-4cVv7KXa2h7oUJ9GayePl9D30C-PRvQDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzcy/My0xNTQyMTA4ODE4/LTMyNTEuanBlZw.jpeg" alt="Cover for Drunken Master Bootleg" style="max-width:120px; height:auto;" />
       </td>
@@ -441,7 +421,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1765beaa5a12e832653551a82dc759c.png" alt="Cover for Live And Let Die" style="max-width:120px; height:auto;" />
       </td>
@@ -497,7 +477,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/k7kD7XMgkqreD6_-kXbn8Nswdrq9vbVyNPx9AFW0YBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjEz/MS0xNDY3NzIwNDEx/LTg4MTQuanBlZw.jpeg" alt="Cover for Station Identification" style="max-width:120px; height:auto;" />
       </td>
@@ -512,12 +492,12 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 31</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d780a778e9d4b0b4b115bd6bd50e7717.png" alt="Cover for Lifestylez Ov Da Poor &amp; Dangerous" style="max-width:120px; height:auto;" />
       </td>
@@ -532,11 +512,11 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 5</li>
             <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 34</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 37</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 74</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 86</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 39</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 76</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 88</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -557,7 +537,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 8</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -577,10 +557,11 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 6</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 34</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 40</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 53</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 41</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 56</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -656,7 +637,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/w69STBT-RcpuPDrDf3ODomu-RAHbsIDaz8G-gMSuatE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjM4/OS0xNDY3NzIwMjM3/LTMyMjEuanBlZw.jpeg" alt="Cover for Realms &#39;N Reality" style="max-width:120px; height:auto;" />
       </td>
@@ -688,7 +669,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 32</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -708,13 +689,14 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 23</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 4</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 25</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76b4d21a9f12c0ed78c2ea130de06942.png" alt="Cover for Uptown Saturday Night" style="max-width:120px; height:auto;" />
       </td>
@@ -731,7 +713,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7c1d8c31d839296e9e7a6c49fdfd152.png" alt="Cover for The Equinox" style="max-width:120px; height:auto;" />
       </td>
@@ -753,7 +735,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td>1998</td>
@@ -765,12 +747,12 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 67</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7e9ff7b1e78402cbac0067bc2f50318.png" alt="Cover for El Nino" style="max-width:120px; height:auto;" />
       </td>
@@ -789,7 +771,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/713263d78e60250dbb597791e3690c5f.png" alt="Cover for The Pillage" style="max-width:120px; height:auto;" />
       </td>
@@ -807,7 +789,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/34e9fe6c3d85a9bb5170b09a799b0cd9.png" alt="Cover for Moment Of Truth" style="max-width:120px; height:auto;" />
       </td>
@@ -821,7 +803,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 16</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -841,12 +823,12 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 88</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/PykXfUw70woI_QhItHwb-SRI4tQaCfrbbrTDT-sCz-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODM0/Ni0xNTg5ODA5NTU0/LTk5MDcuanBlZw.jpeg" alt="Cover for Train of thought" style="max-width:120px; height:auto;" />
       </td>
@@ -863,7 +845,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 39</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 61</li>
             <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 86</li>
         </ul>
       </td>
@@ -888,7 +870,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d589690ea474a2dcae533d0c312e54f.png" alt="Cover for Amplified" style="max-width:120px; height:auto;" />
       </td>
@@ -941,7 +923,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b2fa466dcc941f897ae11bb3501b9e7.png" alt="Cover for The Truth" style="max-width:120px; height:auto;" />
       </td>
@@ -961,7 +943,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdb6cb4b90a6f73d69eb620b5d3f2421.png" alt="Cover for The Big Picture" style="max-width:120px; height:auto;" />
       </td>
@@ -975,13 +957,13 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 56</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 62</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b694927890db48488114f4078978e045.png" alt="Cover for It&#39;s Dark And Hell Is Hot (Enhanced Reissue)" style="max-width:120px; height:auto;" />
       </td>
@@ -994,7 +976,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 79</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1017,13 +999,13 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 30</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 38</li>
             <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/wnzA247nuu8cjB06TdcrCA05F_XKF-EGDt9MS7FeZiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjA5/Ny0xMTA3MjU3MjYz/LmpwZw.jpeg" alt="Cover for The Definitive Ol&#39; Dirty Bastard Story" style="max-width:120px; height:auto;" />
       </td>
@@ -1059,7 +1041,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
       </td>
       <td>2001-06-26</td>
@@ -1076,7 +1058,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/596d5783e23f6c161c7b60f5affec425.png" alt="Cover for Broken Silence" style="max-width:120px; height:auto;" />
       </td>
@@ -1109,13 +1091,13 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 31</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 55</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/GB99PV2Ylv5OIsovwbASoWG8Z2UwPzoN6XGi11ojxSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTg5/NC0xNTAxMzc1NjUy/LTEwMzUuanBlZw.jpeg" alt="Cover for The Blueprint" style="max-width:120px; height:auto;" />
       </td>
@@ -1130,12 +1112,12 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 18</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a8b542903b34aabca8262bb4c6f2004.png" alt="Cover for Stillmatic" style="max-width:120px; height:auto;" />
       </td>
@@ -1150,8 +1132,8 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 9</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 53</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 10</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1179,7 +1161,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c555169fae1b4814c8ef44c1bdaa6fdd.png" alt="Cover for Aziatic" style="max-width:120px; height:auto;" />
       </td>
@@ -1197,7 +1179,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7d3d77948f84f979ee785e273ccd8a0.png" alt="Cover for Movies for the Blind" style="max-width:120px; height:auto;" />
       </td>
@@ -1211,7 +1193,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 48</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1234,7 +1216,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
       </td>
       <td>2002-10-08</td>
@@ -1247,12 +1229,12 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 95</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f249599e420f29ab7580f1bb12a069a6.png" alt="Cover for The Understanding" style="max-width:120px; height:auto;" />
       </td>
@@ -1269,12 +1251,12 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 80</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/498d93edb3c9c78cc8a21923668b067d.png" alt="Cover for Sin-A-Matic" style="max-width:120px; height:auto;" />
       </td>
@@ -1291,12 +1273,12 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 36</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbfd3a85b7347db6d6a18416b93b8874.png" alt="Cover for Get Rich Or Die Tryin&#39; (Explicit UK Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1317,7 +1299,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
       </td>
       <td>2003-02-04</td>
@@ -1331,13 +1313,13 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 11</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 56</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 19</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
       </td>
       <td>2003-05-09</td>
@@ -1354,7 +1336,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/vw0rhbKcerw7Aqns7rCeALPXWwR5CyPOqsbx-v8wiq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDQ4/Ny0xNTYwODgwNTA0/LTQ3OTcuanBlZw.jpeg" alt="Cover for Outerspace" style="max-width:120px; height:auto;" />
       </td>
@@ -1372,7 +1354,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c68694f114584cfabc65907decc14183.png" alt="Cover for M.A.D.E." style="max-width:120px; height:auto;" />
       </td>
@@ -1389,12 +1371,12 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 64</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td>2004</td>
@@ -1408,7 +1390,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 51</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1428,7 +1410,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 13</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1468,7 +1450,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 6</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1504,12 +1486,12 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 7</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
       </td>
       <td>2005-02-02</td>
@@ -1524,7 +1506,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 34</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 66</li>
             <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 95</li>
         </ul>
       </td>
@@ -1546,12 +1528,12 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 93</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
       </td>
       <td>2005-11-01</td>
@@ -1566,13 +1548,13 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 44</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 57</li>
             <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/47kOJPl0_aYHOwdhLMOc8xjTGPbaVSn1kz29hqhEgSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTIx/Ni0xMzMyNTE4NTEw/LmpwZWc.jpeg" alt="Cover for The Last Stand" style="max-width:120px; height:auto;" />
       </td>
@@ -1590,7 +1572,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/3kESjWhwAOXgKuwhlfskumIFkiBdB3uQNS4arG08y2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTAx/NC0xMTkwOTQ3NzE1/LmpwZWc.jpeg" alt="Cover for Symptomatic of a Greater Ill" style="max-width:120px; height:auto;" />
       </td>
@@ -1605,7 +1587,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 43</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1629,7 +1611,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/_HUWcOlvapZ9vlUJ7dk4tG9chb-l1dI4UsN4PBnfm7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTE5/NC0xNDk2NzAzMDE3/LTI0MDcuanBlZw.jpeg" alt="Cover for Kingdom Come" style="max-width:120px; height:auto;" />
       </td>
@@ -1647,7 +1629,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c495a2cc9f539e1b5a0fe2fe23fa5d5.png" alt="Cover for Hell Hath No Fury" style="max-width:120px; height:auto;" />
       </td>
@@ -1663,7 +1645,24 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 11</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 54</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d52d3a72d24b83cf4c6be6af06710508.png" alt="Cover for TRUE MAGIC" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-12-19</td>
+      <td>Mos Def</td>
+      <td>TRUE MAGIC</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1684,12 +1683,12 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 17</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
       </td>
       <td>2007-01-30</td>
@@ -1704,7 +1703,8 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 85</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 1</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1766,7 +1766,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/913255990aa4ba98473fb910caf8bd22.png" alt="Cover for N.O.R.E" style="max-width:120px; height:auto;" />
       </td>
@@ -1802,7 +1802,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 98</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1822,13 +1822,13 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 36</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 41</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td>2011-11-01</td>
@@ -1846,7 +1846,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td>2012-04-24</td>
@@ -1911,8 +1911,8 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 42</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 96</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 45</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 97</li>
             <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 100</li>
         </ul>
       </td>
@@ -1938,8 +1938,8 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 38</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 95</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 41</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 96</li>
             <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 99</li>
         </ul>
       </td>
@@ -1964,7 +1964,7 @@ East Coast rap, also known as &quot;New York hip hop&quot;, is a style of hip ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 66</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 67</li>
         </ul>
       </td>
     </tr>

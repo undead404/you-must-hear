@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T06:25:43.066Z
+date: 2025-11-11T19:34:49.819Z
 permalink: tags/big-beat
 title: big beat
 ---
 
 ## big beat
 
-Last updated: <time datetime="2025-11-03T06:25:43.066Z">Mon Nov 03 2025 08:25:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T19:34:49.819Z">Tue Nov 11 2025 21:34:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,8 +29,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
   </thead>
   <tbody>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0402185ffb84ff4a98b5ad6cc034d50.png" alt="Cover for 99%" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-05-07</td>
       <td>Meat Beat Manifesto</td>
@@ -46,13 +47,14 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 43</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffffda6712bb45f4a1493a9cf306b3ab.png" alt="Cover for What Evil Lurks" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-02-25</td>
       <td>The Prodigy</td>
@@ -71,32 +73,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/SRUuub9P3ZtmwCn6KlUGHAH0tCArT0RKGels9sm55hc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MC0x/MzQwNDQ2MzgzLTY2/NDEuanBlZw.jpeg" alt="Cover for Experience" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992-09-21</td>
-      <td>The Prodigy</td>
-      <td>Experience</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
-            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 6</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 12</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 29</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c80d68c23a34876b541fda0b8818b9f.png" alt="Cover for Satyricon" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-09-29</td>
       <td>Meat Beat Manifesto</td>
@@ -115,7 +94,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/o5dmx87lR10JmuVhRwglP1215BNhuuwfdo7fGhngBcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjE1/OTYtMTI1MjEwNzk4/OS5qcGVn.jpeg" alt="Cover for Need Some1 (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -133,7 +112,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       <td>
         <ul>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 34</li>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 68</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -157,9 +136,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
-          <img src="https://i.discogs.com/i0xPoIa90-8L9vJOEu4lnWT2XoO6AtDrknSFAZm6SIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMTQt/MTM5NTE0MjUyOS03/NzIwLmpwZWc.jpeg" alt="Cover for No Good (Start the Dance)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ceda2373631688b485ba973576f10985.png" alt="Cover for No Good (Start the Dance)" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-05-16</td>
       <td>The Prodigy</td>
@@ -172,7 +151,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 34</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -194,7 +173,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
       </td>
       <td>1995-02-27</td>
@@ -207,16 +186,16 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 26</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 27</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 27</li>
             <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/-v6hqjecbuETEovN0C4JZZuZW6Frw6nkooZpHAhxTe4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjMy/NjYtMTQyNjMzNjg3/NS0yODMxLmpwZWc.jpeg" alt="Cover for No Tourists" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa0e5bd53309eb752290a964c24c2e93.png" alt="Cover for No Tourists" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-03</td>
       <td>The Prodigy</td>
@@ -228,12 +207,12 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 56</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/KsPiYRkvI6kuCVig0qAM6bF4HrD7RbsurhXIrJFIBpk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzODct/MTI1MjI1MjcyNC5q/cGVn.jpeg" alt="Cover for Leave Home" style="max-width:120px; height:auto;" />
       </td>
@@ -256,13 +235,13 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17760e9ed57210ad08d7c2645dc0a0cc.png" alt="Cover for Exit Planet Dust" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-06-26</td>
       <td>The Chemical Brothers</td>
       <td>Exit Planet Dust</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
@@ -293,7 +272,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/Ceu_q6hxeNnrwREpzKpJ1ibBEZw0whQbY2QD46L23E4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODYy/LTExNDExNDE0OTUu/anBlZw.jpeg" alt="Cover for Stretch" style="max-width:120px; height:auto;" />
       </td>
@@ -317,8 +296,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fea59f6809e4447b75473f34598f25f.png" alt="Cover for Better Living Through Chemistry" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-08-26</td>
       <td>Fatboy Slim</td>
@@ -326,7 +306,6 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
-            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
@@ -335,9 +314,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/8dcX_K_3ozYXTjxZFFHcVtSuPYkNgV-jfPcJoShW46Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODMx/My0xMzE5NzE1Mjkx/LmpwZWc.jpeg" alt="Cover for Breathe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2c09cf910fa02b09b03e6cf7fb52896.png" alt="Cover for Breathe" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-11-11</td>
       <td>The Prodigy</td>
@@ -352,16 +331,16 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 42</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 45</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 43</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 56</li>
             <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/VqRW8wUS-l8XEckXhoSuGQ3j-jtn0dkO82jzQEtybII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjI0/ODAtMTY5NDE5OTA1/Ni04MDEwLmpwZWc.jpeg" alt="Cover for The Fat of the Land - Expanded Edition" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af1aaaafa73dd89ce17610e6e9e27d56.png" alt="Cover for The Fat of the Land - Expanded Edition" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>The Prodigy</td>
@@ -380,22 +359,22 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       <td>
         <ul>
             <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 3</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 53</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 6</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 54</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dec45cbf70994970c91e0ebae613df8d.png" alt="Cover for Dig Your Own Hole" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-03-25</td>
       <td>The Chemical Brothers</td>
       <td>Dig Your Own Hole</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
         </ul>
       </td>
       <td>
@@ -419,14 +398,15 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
         <ul>
             <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 31</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 39</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 46</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 63</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 48</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87ffe9444be1570bb637507dc6ed22bd.png" alt="Cover for Metropol" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-07-22</td>
       <td>Lunatic Calm</td>
@@ -442,16 +422,15 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94389e0cd1fd4cd8ccb0a4a3b577bc80.png" alt="Cover for Vegas" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-08-26</td>
       <td>The Crystal Method</td>
       <td>Vegas</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
         </ul>
       </td>
       <td>
@@ -461,8 +440,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e480a08165f84580c624e2fc03b80b0e.png" alt="Cover for Smack My Bitch Up" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-11-17</td>
       <td>The Prodigy</td>
@@ -480,14 +460,14 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 25</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 46</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 26</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 47</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>1997-12-01</td>
@@ -506,7 +486,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/GqBZDYPx-t4AE8Ls6OT75YI_GUIWFnb7F1lEyeTxMgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTEt/MTI0NTE4NzIyNS5q/cGVn.jpeg" alt="Cover for Actual Sounds &amp; Voices" style="max-width:120px; height:auto;" />
       </td>
@@ -525,13 +505,14 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 34</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b59535ec7ef24b6cb577a7a746e200aa.png" alt="Cover for On the Floor at the Boutique" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Fatboy Slim</td>
@@ -548,9 +529,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/gTUQWUfWXxHXjpWNVrt91QX4fyFPRMPcjMhwGUiyNAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODM1/MDUtMTY2MzUwODQ3/Ni03ODY1LmpwZWc.jpeg" alt="Cover for You&#39;ve Come A Long Way Baby" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67ea36a355ff46af8a0c1cd09c262b2c.png" alt="Cover for You&#39;ve Come A Long Way Baby" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Fatboy Slim</td>
@@ -566,16 +547,15 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ebb1a908ef810da21d68f751e6e741b.png" alt="Cover for Decksandrumsandrockandroll" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-01-20</td>
       <td>Propellerheads</td>
       <td>Decksandrumsandrockandroll</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
@@ -586,6 +566,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce57ec9a438fc27d8547cbd57da260d5.png" alt="Cover for How To Operate With A Blown Mind" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-05-25</td>
       <td>Lo Fidelity Allstars</td>
@@ -601,8 +582,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77b733afb71f18bc81fa0076cb9cc6cd.png" alt="Cover for Actual Sounds + Voices" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-07</td>
       <td>Meat Beat Manifesto</td>
@@ -619,7 +601,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 35</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -637,12 +619,12 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 44</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/5Hmiaj0k3smDVp3Z2WNMPnlSZcySOEBf2D9xvBbpTNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Nzkt/MTUxNjk1MzQyOC03/OTQzLmpwZWc.jpeg" alt="Cover for The Antidote" style="max-width:120px; height:auto;" />
       </td>
@@ -662,7 +644,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/tEwAd0shLEViciAmiaiDZrvbkSEZU1LezPrvtaFR5nw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTMy/LTE1NzI1NDQ2MDgt/MzgxMy5qcGVn.jpeg" alt="Cover for More Signal More Noise" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97cae563f7b0035cc2edfa75892c1f3d.png" alt="Cover for More Signal More Noise" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-10-08</td>
       <td>Asian Dub Foundation</td>
@@ -680,8 +662,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/545f3b28bc4ad4b2de07ebd2170c8a1d.png" alt="Cover for You&#39;ve Come a Long Way, Baby" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-10-12</td>
       <td>Fatboy Slim</td>
@@ -698,7 +681,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/LljsytTcO0xVkJZ4jX7mpSzevmVykEZpAkwz-WZc76w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTIz/LTEyNzUxNjk0MTAu/anBlZw.jpeg" alt="Cover for BRA" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8f5a5a8f9aa8bdd5500995f6cc0b052.png" alt="Cover for BRA" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-10</td>
       <td>Bentley Rhythm Ace</td>
@@ -716,7 +699,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0df23fe565c3ce3b4bec3d56bacdbf67.png" alt="Cover for Gettin&#39; High on Your Own Supply" style="max-width:120px; height:auto;" />
       </td>
@@ -736,7 +719,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/jbQ_a2Bg4ag2oE0Nq0mb6O0BPz2CxZW-ewRIZoof218/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTQ3/NC0xMDg0ODE2ODUz/LmpwZw.jpeg" alt="Cover for For That Beautiful Feeling" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eea3f8089f7ff7fe7b9c61cc46ff3204.png" alt="Cover for For That Beautiful Feeling" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>The Chemical Brothers</td>
@@ -754,34 +737,30 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/jEaKpTgXnHK9p0DMC9dtzJID-WOEBN63LlwyAV_AvDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODM3/LTExNzY5MzczOTIu/anBlZw.jpeg" alt="Cover for Surrender" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2af1404d236c072c3270a00da46a8909.png" alt="Cover for Surrender" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-06-07</td>
       <td>The Chemical Brothers</td>
       <td>Surrender</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>68</td>
       <td>
-          <img src="https://i.discogs.com/J57sPJ3cJ8DdQzsM41e9Cx5B30XibgKFGhRirQqWbFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODc0/LTEzOTA3MzIwNzMt/OTIxNC5qcGVn.jpeg" alt="Cover for Rhythm and Stealth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6d959c98db2f4917f3850a0207189be.png" alt="Cover for Rhythm and Stealth" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-09-15</td>
       <td>Leftfield</td>
       <td>Rhythm and Stealth</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
@@ -807,8 +786,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/449fb913ccf24fb6991d3418c2b51300.png" alt="Cover for On The Ropes" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-10-18</td>
       <td>Mint Royale</td>
@@ -859,7 +839,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2000-09-11</td>
@@ -879,7 +859,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>87</td>
       <td>
       </td>
       <td>2000-11-01</td>
@@ -896,15 +876,15 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d57517a7fa5b4308a62dac82146a25ed.png" alt="Cover for Tweekend" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-05</td>
       <td>The Crystal Method</td>
       <td>Tweekend</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
@@ -915,6 +895,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e065dc5b68d1291ae12d1f5e0982791.png" alt="Cover for Baby&#39;s Got a Temper" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-07-01</td>
       <td>The Prodigy</td>
@@ -930,9 +911,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/mW7ypHQQnNVopJWuc01pj_W2gW98ET9EmGJautgBXOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTcz/LTAwMS5qcGc.jpeg" alt="Cover for Come With Us" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6812f77c4f645fb92b92f5991132be7.png" alt="Cover for Come With Us" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-07-17</td>
       <td>The Chemical Brothers</td>
@@ -967,7 +948,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>2003-04-22</td>
@@ -985,8 +966,31 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/YD8RRMwB7jgW3XQ2dhHW5E69kaQ7sSmNm2tZXD0q57Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEw/Mi0xNjkxMzUzNjkw/LTk2NzIuanBlZw.jpeg" alt="Cover for Radio JXL - A Broadcast From The Computerhell Cabin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-05-28</td>
+      <td>Junkie XL</td>
+      <td>Radio JXL - A Broadcast From The Computerhell Cabin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/121a554cad254d1786c231472525e0dd.png" alt="Cover for Wreckage" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-25</td>
       <td>Overseer</td>
@@ -1002,9 +1006,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/cP4CiKay7-4kt9OIcu9B-SIb5kd14b3a-dDKsonJbWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDY4/Mjg3LTE1Mjc2NjQx/MzYtMjA4My5qcGVn.jpeg" alt="Cover for Rockafeller Skank" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ece051086d2496065154b537a8707a3b.png" alt="Cover for Rockafeller Skank" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Fatboy Slim</td>
@@ -1027,7 +1031,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/xrcpH1Sz09YDkNIi70X6GT_m9X-iV2zmSTtONgGEC7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcy/NC0xNTc0MzU3MjI1/LTU5NTUuanBlZw.jpeg" alt="Cover for Legion of Boom" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02f7ff1848f8254031dcecaf208dad2c.png" alt="Cover for Legion of Boom" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-01-13</td>
       <td>The Crystal Method</td>
@@ -1045,7 +1049,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
       </td>
       <td>2004-06-21</td>
@@ -1062,8 +1066,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b999f4f901d5572fb0cba863c69b1a1.png" alt="Cover for Always Outnumbered, Never Outgunned" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-08-11</td>
       <td>The Prodigy</td>
@@ -1079,16 +1084,15 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b3c2ff8b16c4c62cca6c831695dd9fa.png" alt="Cover for Palookaville" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-04</td>
       <td>Fatboy Slim</td>
       <td>Palookaville</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
         </ul>
       </td>
       <td>
@@ -1097,8 +1101,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/907fc52b8f10483b98b3ea73151fb532.png" alt="Cover for Push the Button" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-12</td>
       <td>The Chemical Brothers</td>
@@ -1114,9 +1119,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/K78oCCzltBs2Zj1arwXXNy9Sf3MC7-TjvSSfqBxpKMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEy/OS0xMTc3MTc4Mjk0/LmpwZWc.jpeg" alt="Cover for Their Law - The Singles 1990-2005" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/866cec2639454a11ca0c1b2a28c38f37.png" alt="Cover for Their Law - The Singles 1990-2005" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>The Prodigy</td>
@@ -1136,7 +1141,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ac12c0d94f7cab160f450185cc6c049.png" alt="Cover for Spitfire" style="max-width:120px; height:auto;" />
       </td>
@@ -1154,9 +1159,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
-          <img src="https://i.discogs.com/0wHRAxh1UlXxibsFxGFF4jJRReanvijhBwG_OwR0g9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTkx/Ni0xMTUwNzExMDI2/LmpwZWc.jpeg" alt="Cover for The Greatest Hits - Why Try Harder" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e8fbabf41604a3aad048d91f994fc1a.png" alt="Cover for The Greatest Hits - Why Try Harder" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Fatboy Slim</td>
@@ -1178,7 +1183,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/NIzSPvtJ1axKfn26grDWRphgmBFtwFeytarWi4-RldI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDc0/MjctMTM5MjU4NzE1/Ni01Njc3LmpwZWc.jpeg" alt="Cover for Why Try Harder - Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49453585bc004d8791275c20910fd2bb.png" alt="Cover for Why Try Harder - Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Fatboy Slim</td>
@@ -1194,7 +1199,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/26lWZ-JOPP9eJ3Gx7jyG2R-aZbnvBhQAuxCF2Go9-Hc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ4/MjIwLTE1NTI1MjQw/NjktNDUxOC5qcGVn.jpeg" alt="Cover for Born In the Echoes (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1213,9 +1218,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
-          <img src="https://i.discogs.com/OH2llPvbJDFOuwFyEkyi4JpcNXsDLpcsbmBoO8oxIdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzk5/MDYwLTE2NDE0Nzg5/MzUtNjAzOC5qcGVn.jpeg" alt="Cover for No Geography" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae0ac6d36924b488c87f128ad85b32f3.png" alt="Cover for No Geography" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-14</td>
       <td>The Chemical Brothers</td>
@@ -1244,12 +1249,12 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 6</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/ndlJ26DgLEfcOXLZHLK6-qdbhwB7g9L-mGywtX6tNqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODY4/NzItMTU3ODMxNjQy/Ny0xOTI3LnBuZw.jpeg" alt="Cover for Hold My Hand" style="max-width:120px; height:auto;" />
       </td>
@@ -1270,7 +1275,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/gTUQWUfWXxHXjpWNVrt91QX4fyFPRMPcjMhwGUiyNAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODM1/MDUtMTY2MzUwODQ3/Ni03ODY1LmpwZWc.jpeg" alt="Cover for You&#x60;ve Come A Long Way Baby" style="max-width:120px; height:auto;" />
       </td>
@@ -1291,6 +1296,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0582f1fd92d643e7bf9ac5178f34999d.png" alt="Cover for Booming Back At You" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-10</td>
       <td>Junkie XL</td>
@@ -1306,7 +1312,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>86</td>
       <td>
       </td>
       <td>2008-04</td>
@@ -1323,15 +1329,16 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 11</li>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 86</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 17</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 87</li>
             <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b5cef7c57def0b9acbb2890a15e3ad6.png" alt="Cover for Brotherhood" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07</td>
       <td>The Chemical Brothers</td>
@@ -1348,7 +1355,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/aCXhWz6exd4twqrqZ_8CYjqEHD1XtgAcwe5fI9sJNgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTA5/MzktMTIxNzM2NTcy/NS5qcGVn.jpeg" alt="Cover for Dirt Nap EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1367,13 +1374,13 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 25</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 27</li>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/vC0cp2YHzq8vHE7kTxV-p0KkU8tARj5dCHd6N8RNJBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQ2/NjMtMTIyNDU1NDA3/MS5wbmc.jpeg" alt="Cover for Radio Free DC" style="max-width:120px; height:auto;" />
       </td>
@@ -1398,7 +1405,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 7</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 8</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 19</li>
             <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 33</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 41</li>
@@ -1413,7 +1420,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/98seEPMgfGqDtKFZfPfx-C1AzmyLevZLPvZqSnDXZ7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/MDY3LTE1NDIxNDMx/NDEtMjcwNy5qcGVn.jpeg" alt="Cover for Invaders Must Die (Special Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5184e685f82f4c38cceb0c5a1b5c46b3.png" alt="Cover for Invaders Must Die (Special Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>The Prodigy</td>
@@ -1435,7 +1442,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/C6pkmnmcqNvHiiI-qBd86OmuDgR2N0-uv2zramp4ZTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTc4/NjktMTM0OTM4MjY4/MS0xNTE2LmpwZWc.jpeg" alt="Cover for stuff i used to do" style="max-width:120px; height:auto;" />
       </td>
@@ -1481,6 +1488,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
     <tr>
       <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83ccf4358af8aea8bcbbd15bdcc5477c.png" alt="Cover for Omen" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01</td>
       <td>The Prodigy</td>
@@ -1497,7 +1505,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/yHjVa1MRpKKPzqzobhJk5jXw6IFo9zDGFE_6jC7cSHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTk2/MzktMTM5MzA3NDUx/NS0zNTI3LmpwZWc.jpeg" alt="Cover for Nasty" style="max-width:120px; height:auto;" />
       </td>
@@ -1516,9 +1524,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>97</td>
       <td>
-          <img src="https://i.discogs.com/ynfpdiGDR09CxBfHBYlmZUc36aqxORV8N9O0LjzbmYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTk4/ODQtMTUxNTkyODQ1/Ni01NjQ2LmpwZWc.jpeg" alt="Cover for Invaders Must Die" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/781ec2bfcf184077bdcb9318017107fd.png" alt="Cover for Invaders Must Die" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-18</td>
       <td>The Prodigy</td>
@@ -1530,16 +1538,16 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 38</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 68</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 32</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 41</li>
             <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/7DpxHRn-Ja6-bqLOKRLEV5qZhEw_tNfvhS4l6CUXWxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDM4/ODktMTI0NDM4NTcx/OC5qcGVn.jpeg" alt="Cover for My Flow So Tight (Anti-Breezy)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7c46d6e46384003b7ee63028e7f5c57.png" alt="Cover for My Flow So Tight (Anti-Breezy)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-31</td>
       <td>Jump Smokers</td>
@@ -1583,7 +1591,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       <td>
         <ul>
             <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 16</li>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 38</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 41</li>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 74</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 99</li>
         </ul>
@@ -1609,9 +1617,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>90</td>
       <td>
-          <img src="https://i.discogs.com/7TTBpirucY1mihNmiZRClF0Ann1y9W-FVyz_mWmof-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njc1/MDUtMTI0MjM3Mjgz/Ny5qcGVn.jpeg" alt="Cover for Divided By Night" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd2a2f5220d043be8e92aaab6e11bec7.png" alt="Cover for Divided By Night" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-12</td>
       <td>The Crystal Method</td>
@@ -1630,7 +1638,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4771da8c46d1555bdbe8f6581b1f6b0.png" alt="Cover for Take Me to the Hospital" style="max-width:120px; height:auto;" />
       </td>
@@ -1670,7 +1678,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/VW2mhRxAcALLh8_4mmgN9Ow_vumWVrUM8y4kpEm7CDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MjYt/MTM3MDg2MjY3Ny0y/NjI3LmpwZWc.jpeg" alt="Cover for Music for the Jilted Generation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/170abe475e816dd1b459575bd9539832.png" alt="Cover for Music for the Jilted Generation" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-23</td>
       <td>The Prodigy</td>
@@ -1682,13 +1690,13 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 54</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 47</li>
             <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2011-09-12</td>
@@ -1706,7 +1714,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
       </td>
       <td>2014-01-13</td>
@@ -1721,13 +1729,13 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 12</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 11</li>
             <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/vfTSxSpl6U6cF27Yt5oFAcB4zDrDAUPFRYAtscK8c0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDE3/NzgtMTQzODM3NjAy/My01MjI1LmpwZWc.jpeg" alt="Cover for The Night Is My Friend EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1746,9 +1754,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/p_Rpz7g42-VcjbAmWMRRnVwhkJEwmqtqbNgM5QIYJoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjEy/NDQwLTE2MTc5MTg1/NTctOTc4MC5qcGVn.jpeg" alt="Cover for Cortex Rampage" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4255ae69ea06f4edf88ed00095707e36.png" alt="Cover for Cortex Rampage" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-03-04</td>
       <td>KFC Murder Chicks</td>
@@ -1767,15 +1775,15 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 45</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 46</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 58</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 64</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/mSz3RjNfI4YUuqyzcEGNxoqMHbz1LrrvN-_Y8-PIGeY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQ3/ODQ4LTE1MDE5MDU4/NzUtNzYxNy5qcGVn.jpeg" alt="Cover for Voodoo-U (Special Remastered Band Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1797,7 +1805,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 40</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 45</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 94</li>
         </ul>
       </td>
@@ -1805,7 +1813,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/RWIOC8L8whO-DDrIv5CKbc54EZXOsoHg_B9KLmBS3O8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQz/NDQxLTE1NzEyNzU0/MDUtNDgxNy5qcGVn.jpeg" alt="Cover for Memories of Tokyo-To" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a3cb8fa5eee5e8f0392730b60094d65.png" alt="Cover for Memories of Tokyo-To" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-20</td>
       <td>2 Mello</td>
@@ -1821,7 +1829,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 91</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1847,9 +1855,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/mJeWPDzLP7tFk91Mh-OKgjB6oeOGYKUmXRs8f25J-Jg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjgx/MDcwLTE1NTg5MDIy/MzctMjY1NC5qcGVn.jpeg" alt="Cover for MONSTA EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e846560e46a4499808638b0673f78cf.png" alt="Cover for MONSTA EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-15</td>
       <td>Monsta</td>
@@ -1868,7 +1876,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/GiYsFEePI3lAbSPowuYFh1d6_NXVX2PdSfU2Pgx3xwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU3/MjQyLTE1ODQ3MTkw/NjktNzc3Ny5qcGVn.jpeg" alt="Cover for Banana Skin Shoes" style="max-width:120px; height:auto;" />
       </td>
@@ -1883,12 +1891,12 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 25</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/NV05C_W-uMUPAFds7HgcqBPtL2j9nRzJHCUEIvB210c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgz/MTUzLTE2MDcwNTA0/NzUtMTA5OC5qcGVn.jpeg" alt="Cover for Newlove" style="max-width:120px; height:auto;" />
       </td>
@@ -1918,7 +1926,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/Pbyi_KCrmL4poRwkYsdprkJ5bY2QqfFLLISDcPlXxVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjE5/MDc2LTE2MTQ0NzM2/ODItNTkyOC5qcGVn.jpeg" alt="Cover for 5G" style="max-width:120px; height:auto;" />
       </td>
@@ -1937,8 +1945,8 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 51</li>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 81</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 54</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 82</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 100</li>
         </ul>
       </td>
@@ -1967,7 +1975,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/NFZ5FnU_ctYDtsuPvEI2ygho50lje15M1B9rUGD_BPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjI2/ODc1LTE2OTQzNzg4/ODgtODk2NC5qcGVn.jpeg" alt="Cover for Push" style="max-width:120px; height:auto;" />
       </td>
@@ -2015,7 +2023,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
       </td>
       <td></td>
@@ -2037,8 +2045,8 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 8</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 70</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 11</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 73</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 76</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 77</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 85</li>
@@ -2049,6 +2057,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ef3a7fd78dd3608bd04df0a21106e09.png" alt="Cover for Jet Set Radio SEGA Original Tracks" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>SEGA Sound Team</td>
@@ -2069,7 +2078,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
       </td>
       <td></td>

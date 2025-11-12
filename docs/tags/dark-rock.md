@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T06:28:49.269Z
+date: 2025-11-11T19:38:12.411Z
 permalink: tags/dark-rock
 title: dark rock
 ---
 
 ## dark rock
 
-Last updated: <time datetime="2025-11-03T06:28:49.269Z">Mon Nov 03 2025 08:28:49 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T19:38:12.411Z">Tue Nov 11 2025 21:38:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -68,8 +68,9 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0308fa66b1448e1c8023c8cc6751fae.png" alt="Cover for One Second" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-07-13</td>
       <td>Paradise Lost</td>
@@ -102,7 +103,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 62</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -121,8 +122,8 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 19</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 68</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 20</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -142,27 +143,25 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 89</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 90</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/cgG-66Ixedii8FVtOccu5pOIl7pU2S-nsICxhYBdej8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTYy/Mi0xNDEwMjE1MzA1/LTkzNjQuanBlZw.jpeg" alt="Cover for Host" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b65f1bbf0c6f49538acba1533ed68727.png" alt="Cover for Host" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-04-28</td>
       <td>Paradise Lost</td>
       <td>Host</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -194,7 +193,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/O51xX5gqYjYKOuvXp751OqrxC4Y2aZFcjwTm_2cqpUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDI2/NjYtMTQ2MTQwOTQy/Ny05MjQzLmpwZWc.jpeg" alt="Cover for Last Fair Deal Gone Down - 10th Anniversay Edition" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af01fcac45c941f5b0b1450effa422df.png" alt="Cover for Last Fair Deal Gone Down - 10th Anniversay Edition" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Katatonia</td>
@@ -260,7 +259,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/zkqMdCjWkQD3VMbeaoak6nFThY41BFg9mVHgYjG8iC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjgw/MTMtMTIzMDgwNDI2/MS5qcGVn.jpeg" alt="Cover for Locked Doors, Drinks And Funerals (Songs From The Desert)" style="max-width:120px; height:auto;" />
       </td>
@@ -300,7 +299,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/loeR0OIUi33sJ06NkNDxudQ8ukBCueJ3qK8I-GbRbI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDQ5/MzEtMTM1Mzk0MjM2/Mi0yNjM4LmpwZWc.jpeg" alt="Cover for The Darkest Night" style="max-width:120px; height:auto;" />
       </td>
@@ -350,7 +349,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 37</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -369,7 +368,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 44</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -433,7 +432,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/Fc6Oic8jtc2ZaCN34fsmczxfuWYvPOBqz62VukWeQdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjI0/MDYzLTE1ODgzMzgw/MzctMzEwMi5qcGVn.jpeg" alt="Cover for Deadwing [2006, Japan, WHD Ent. Inc., IECP-20003~4]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b5877fd73254244c262458acfdc01f3.png" alt="Cover for Deadwing [2006, Japan, WHD Ent. Inc., IECP-20003~4]" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-04</td>
       <td>Porcupine Tree</td>
@@ -682,14 +681,14 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 30</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/f7D4t44YL3QL6Jzl1YPTrPtN8cBZ6RwnRphm8UV-g2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTk2/MzYtMTU2NzI3MDI2/Ny05NjExLmpwZWc.jpeg" alt="Cover for This Is Forever" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/994f4a60666e4fb8cf438f017d444b5b.png" alt="Cover for This Is Forever" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-09</td>
       <td>She Wants Revenge</td>
@@ -703,6 +702,24 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
         <ul>
             <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 40</li>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52d8875813cd4e2385c0764818872abd.png" alt="Cover for The Trick To Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-10-22</td>
+      <td>The Hoosiers</td>
+      <td>The Trick To Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -780,7 +797,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 44</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -840,7 +857,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 39</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 43</li>
             <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 63</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 68</li>
         </ul>
@@ -870,7 +887,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/35UW6RhiKuoWA77MoYbRzXoTBxqEdsEpThtkhdcJrR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTEz/OTAtMTYyMDc2NDg3/Mi01NjIyLmpwZWc.jpeg" alt="Cover for The Great Cold Distance (10th Anniversary Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04bce3c33008deb63ab511dd7a8ee84d.png" alt="Cover for The Great Cold Distance (10th Anniversary Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-10</td>
       <td>Katatonia</td>
@@ -917,7 +934,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/X9jrnWJk2uWn-uYZ43uX77QXUpW0_-m4mUSgC0IED1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgy/MTMxLTE1NzU0MTIy/NzMtMjc4Mi5qcGVn.jpeg" alt="Cover for Wrapped Up In Pinstripes" style="max-width:120px; height:auto;" />
       </td>
@@ -1076,7 +1093,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/lapsBJyjxJ-ILjM1Wyi0amXmrbG1Mz0zP6AjvPYj-jI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDc1/NTctMTM5MTEzNzEz/OS02NTQ4LmpwZWc.jpeg" alt="Cover for The Nightside EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1113,8 +1130,9 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f0486e96d83492982c861d244927985.png" alt="Cover for Wildwood" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-13</td>
       <td>1476</td>
@@ -1175,7 +1193,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/Tos4UFbKM1ZxU92uaBGbd1lNqIoXiq3Qm8dPl-t7nIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODUy/MTAtMTM2OTEzNTQ0/Mi0xNzk2LmpwZWc.jpeg" alt="Cover for Medication" style="max-width:120px; height:auto;" />
       </td>
@@ -1194,7 +1212,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e90fe24bb3d46a0ba5f03a2a55fe78f.png" alt="Cover for Bye-Bye Borderline" style="max-width:120px; height:auto;" />
       </td>
@@ -1270,7 +1288,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9be6f63b55c72b6a2b7ae6a10188b85.png" alt="Cover for The Missing" style="max-width:120px; height:auto;" />
       </td>
@@ -1491,7 +1509,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/3vfE4Ro5Z006Yd9HqQKwlJTf6wKqn3u0MyowHwDvD3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI5/ODQwLTE1MDEyNjg1/MDQtNTI0OS5qcGVn.jpeg" alt="Cover for Lebenszeitverschwender" style="max-width:120px; height:auto;" />
       </td>
@@ -1577,7 +1595,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/5PFOwSLORtzIHRbS9YU4CDyQW1wFhAVWR7z__AO9dEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjM5/NTM2LTE2Mzg3MjIz/OTgtODYzNi5qcGVn.jpeg" alt="Cover for Бессмертный" style="max-width:120px; height:auto;" />
       </td>
@@ -1619,7 +1637,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/gLPFzuMM95ODSwir3-PMO3pWZYPyLpuUGB-Nufc9oIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTI5/NzkyLTE1ODcwNjE3/MTAtNjY5Ny5qcGVn.jpeg" alt="Cover for Tick Tock - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1682,7 +1700,6 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/w0B0C53Jl2VqQYLIH3I3TR1UAmAaA6_zjwgsSYqXlIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTYy/MzIzLTE2NTA1NzI2/MDktMzA0OC5qcGVn.jpeg" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-26</td>
       <td>Oceanlord</td>
@@ -1819,7 +1836,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 14</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 13</li>
             <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 29</li>
         </ul>
       </td>
@@ -1827,7 +1844,6 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/_xBWi4Gv4WWHRgR3tvLo4-bpg7zrLLsMxYlPEqXiOmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODk1/MTU1LTE2ODUxOTAx/NzktNzIzNS5qcGVn.jpeg" alt="Cover for Kingdom Cold" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-05-26</td>
       <td>Oceanlord</td>
@@ -1850,7 +1866,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1931,7 +1947,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
       </td>
       <td></td>
@@ -1954,7 +1970,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
       </td>
       <td></td>
@@ -1999,7 +2015,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
       </td>
       <td></td>
@@ -2048,7 +2064,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 22</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -2129,7 +2145,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
         <ul>
             <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 20</li>
             <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 27</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 33</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 34</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 48</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 55</li>
         </ul>
@@ -2180,26 +2196,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 55</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>squealshuft</td>
-      <td>Bad Burn</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 58</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T19:49:24.119Z
+date: 2025-11-11T19:33:55.311Z
 permalink: tags/singer-songwriter
 title: singer-songwriter
 ---
 
 ## singer-songwriter
 
-Last updated: <time datetime="2025-11-08T19:49:24.119Z">Sat Nov 08 2025 21:49:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-11T19:33:55.311Z">Tue Nov 11 2025 21:33:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
   </thead>
   <tbody>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40241f10ff8010f7f5b55fe46fd25c41.png" alt="Cover for Sounds of Silence" style="max-width:120px; height:auto;" />
       </td>
@@ -45,7 +45,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 48</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 50</li>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 86</li>
         </ul>
       </td>
@@ -65,12 +65,12 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 46</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47d94149a0844730d00eafb9b5d50d3a.png" alt="Cover for Astral Weeks" style="max-width:120px; height:auto;" />
       </td>
@@ -85,7 +85,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 5</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 7</li>
             <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 81</li>
         </ul>
       </td>
@@ -93,7 +93,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/Qc3a1BYPO5Wyxr3N7nNaNBf9pa0FeOa9B0cguKvk2Tg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzEx/Mi0xMjU4MDM0ODY2/LmpwZWc.jpeg" alt="Cover for Five Leaves Left" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb968db6df642125c2cec2d2b0042187.png" alt="Cover for Five Leaves Left" style="max-width:120px; height:auto;" />
       </td>
       <td>1969-09</td>
       <td>Nick Drake</td>
@@ -106,12 +106,12 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       <td>
         <ul>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 25</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 64</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6dc9fa47430462029c45ae207f9bfe20.png" alt="Cover for Bridge Over Troubled Water" style="max-width:120px; height:auto;" />
       </td>
@@ -127,8 +127,8 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 31</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 91</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 32</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -174,6 +174,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad656836a06e4267858d105ddd13fe04.png" alt="Cover for Bryter Layter" style="max-width:120px; height:auto;" />
       </td>
       <td>1970-11</td>
       <td>Nick Drake</td>
@@ -185,12 +186,12 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 65</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db14077b223d4e7989703886574f7367.png" alt="Cover for American Pie" style="max-width:120px; height:auto;" />
       </td>
@@ -206,13 +207,13 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 21</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 31</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 23</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>1972-02-25</td>
@@ -226,7 +227,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 42</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 44</li>
             <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 92</li>
         </ul>
       </td>
@@ -285,13 +286,13 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 14</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 16</li>
             <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/105d5d8d95e64886c80af404ebcfdbe9.png" alt="Cover for Rain Dogs" style="max-width:120px; height:auto;" />
       </td>
@@ -305,14 +306,15 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 35</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 67</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 38</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af6e850827810f985f2e5df4fa36ac0d.png" alt="Cover for I&#39;m Your Man" style="max-width:120px; height:auto;" />
       </td>
       <td>1988-02-21</td>
       <td>Leonard Cohen</td>
@@ -347,8 +349,9 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07441d66b4e0aba40c7108b572549774.png" alt="Cover for Roman Candle" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-07-14</td>
       <td>Elliott Smith</td>
@@ -387,6 +390,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57b122e05ded2a780008d15d6fff45a6.png" alt="Cover for Elliott Smith" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-07-10</td>
       <td>Elliott Smith</td>
@@ -404,7 +408,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a869ea64cde724b56a326eeeb53a70c.png" alt="Cover for Tidal" style="max-width:120px; height:auto;" />
       </td>
@@ -420,15 +424,16 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 26</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 43</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 86</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 30</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 44</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9597a3b25436611d117167eec2c80dc5.png" alt="Cover for Either&#x2F;Or" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-02-25</td>
       <td>Elliott Smith</td>
@@ -444,8 +449,9 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49ba2ddfb68c433d8eb9ddbb71153c12.png" alt="Cover for XO" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-08-21</td>
       <td>Elliott Smith</td>
@@ -474,7 +480,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 35</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 36</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 90</li>
         </ul>
       </td>
@@ -520,7 +526,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a55820c7b475406c90810255bb55a5b2.png" alt="Cover for Brushfire Fairytales" style="max-width:120px; height:auto;" />
       </td>
@@ -535,13 +541,14 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 83</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/120386f2880f47dfc71873cda716683c.png" alt="Cover for Figure 8" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-04-17</td>
       <td>Elliott Smith</td>
@@ -577,7 +584,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/MJq8uUbFQaH03X6r_inb59hWIvUXKAhKBKxj4cx_Euk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTk3/NS0xMTUxNjA3MzQz/LmpwZWc.jpeg" alt="Cover for Elliot Smith" style="max-width:120px; height:auto;" />
       </td>
@@ -599,7 +606,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/tVZytrcgPOujWdN_VVabpFFkTvd3w0OcoNalaOuKDD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjU5/Ny0xMzAwNjI3NTE0/LmpwZWc.jpeg" alt="Cover for Sha Sha" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df3f603b65dd4ff0ba0c85920abd6e45.png" alt="Cover for Sha Sha" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-03-05</td>
       <td>Ben Kweller</td>
@@ -631,14 +638,14 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 67</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 68</li>
             <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 87</li>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbe06e7f17ca878f52739d9c5b315280.png" alt="Cover for Sea Change" style="max-width:120px; height:auto;" />
       </td>
@@ -653,12 +660,31 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 27</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac6be5635d7340e6c007a0a9bd160ed1.png" alt="Cover for Soviet Kitsch" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-05-02</td>
+      <td>Regina Spektor</td>
+      <td>Soviet Kitsch</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c09860f145008e07c220d60eeb33a4b.png" alt="Cover for Stop All The World Now" style="max-width:120px; height:auto;" />
       </td>
@@ -673,7 +699,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 4</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -692,7 +718,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 11</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 13</li>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 96</li>
         </ul>
       </td>
@@ -712,15 +738,16 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 26</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 28</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 65</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 71</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/450768da777a32a7321decc06ac830cb.png" alt="Cover for From a Basement on the Hill" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-18</td>
       <td>Elliott Smith</td>
@@ -755,7 +782,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/QtSwj16lGvZ3x_Q3cnMETPM6GRaa3O14WhxNq7D0FJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTc4/OC0xNDQ5NTg2MjY4/LTc2NzguanBlZw.jpeg" alt="Cover for I&#39;m Wide Awake, It&#39;s Morning" style="max-width:120px; height:auto;" />
       </td>
@@ -773,7 +800,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/nEhMHqvM_nYTZ7WgibOdprQKNveANPHIy40d2kONyEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDQ3/My0xNDI1Njk1ODUz/LTE1NTQuanBlZw.jpeg" alt="Cover for I&#39;m A Bird Now" style="max-width:120px; height:auto;" />
       </td>
@@ -787,12 +814,12 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 2</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>2005-02-01</td>
@@ -805,7 +832,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 14</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -825,13 +852,13 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 5</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 7</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 30</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 9</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2005-02-28</td>
@@ -844,13 +871,13 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 68</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 73</li>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>2005-04-25</td>
@@ -863,27 +890,6 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>
-          <img src="https://i.discogs.com/-bnnFhuUrsZUtxGaQ7botHezI8uUddorzoUrx2r10AM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Njg2/NC0xMjUxNjUwMjIx/LmpwZWc.jpeg" alt="Cover for Wind in the Wires" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-06-13</td>
-      <td>Patrick Wolf</td>
-      <td>Wind in the Wires</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 22</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -907,7 +913,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c098672a13f25747741b89a7882bbc3.png" alt="Cover for Begin to Hope" style="max-width:120px; height:auto;" />
       </td>
@@ -922,7 +928,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 17</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 19</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 65</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 89</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 91</li>
@@ -950,7 +956,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td>2006-11-06</td>
@@ -965,15 +971,15 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 70</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 71</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 71</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/WRdHlQtSCeNP89-ifKNpXzNHpdAywwKmx1KdaAxBOAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjU4/MDMtMTIxMDc1OTMy/OC5qcGVn.jpeg" alt="Cover for New Moon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e90ab6bafb4c40888ed62cab62e72be8.png" alt="Cover for New Moon" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-07</td>
       <td>Elliott Smith</td>
@@ -991,7 +997,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/TejR1k8MaLHqXRv3rIy5Wly3uhyeu26HJz4NcJ7WQXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTkw/NzItMTIzMjU1MzA0/Ny5qcGVn.jpeg" alt="Cover for For Emma, Forever Ago" style="max-width:120px; height:auto;" />
       </td>
@@ -1010,8 +1016,9 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e01fa83cc0c77c5c08edebdce735dac.png" alt="Cover for Shallow Grave" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-05</td>
       <td>The Tallest Man on Earth</td>
@@ -1024,14 +1031,14 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 43</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/i4DyLmZ7asgQPWUHHs3QApSqSvi5qLwdQQJ470JQN4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTI1/NzQtMTU1MTQ3MDIy/Mi0zNTY2LmpwZWc.jpeg" alt="Cover for Twenty One" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb30183d1ec94fe685c97983186b5bea.png" alt="Cover for Twenty One" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-21</td>
       <td>Mystery Jets</td>
@@ -1048,7 +1055,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a45e42f0bda5c1f0be8860273c364331.png" alt="Cover for We Sing. We Dance. We Steal Things." style="max-width:120px; height:auto;" />
       </td>
@@ -1064,12 +1071,12 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 60</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/G_-hlZctGVtzEOA5yT-RXkSNUX9oTICd6FOPPDCAZJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDE5/MzItMTI2MDM2ODA5/OC5qcGVn.jpeg" alt="Cover for A Crow Looked at Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1145,7 +1152,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/jzaUKRuv5jMiiBw5WMfXzT7OueI_YuNZ1_EPwV8MdJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTgy/NjQtMTU0MDUyNDU3/Mi05NjE4LmpwZWc.jpeg" alt="Cover for RULES" style="max-width:120px; height:auto;" />
       </td>
@@ -1201,7 +1208,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 52</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 56</li>
             <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 98</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 99</li>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 100</li>
@@ -1229,7 +1236,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>2011-09-09</td>
@@ -1252,7 +1259,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2011-11-11</td>
@@ -1284,11 +1291,11 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 33</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 66</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 69</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 38</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 67</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 71</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 81</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 86</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 88</li>
             <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 99</li>
         </ul>
       </td>
@@ -1310,21 +1317,21 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 4</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 11</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 5</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 17</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 21</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 25</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 46</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 54</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 71</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 93</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 50</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 55</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 76</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 95</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 97</li>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/frfR8fEy11EsF2ZkqJ0QTzbkauma-WcIyomBFaLP3u0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjU0/MjA5LTE2MzU2MzU1/MjQtMTM0Ni5qcGVn.jpeg" alt="Cover for Blue Banisters" style="max-width:120px; height:auto;" />
       </td>
@@ -1339,16 +1346,16 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 65</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 67</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 88</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 67</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 68</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 90</li>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 96</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24960601f04b4317b4d2c5432e77e1c9.png" alt="Cover for Fear Fun" style="max-width:120px; height:auto;" />
       </td>
@@ -1369,7 +1376,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/67e1eb60da884aa19adbfc3938619c7b.png" alt="Cover for The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do" style="max-width:120px; height:auto;" />
       </td>
@@ -1388,9 +1395,9 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
-          <img src="https://i.discogs.com/j_kjV5MOKCzsB0Ql9rMbdAFS4e-Ffv1BvIqvrBvq9Q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzUy/ODItMTQ4MTIyNjk1/MS0xMTcxLmpwZWc.jpeg" alt="Cover for Retired from Sad, New Career in Business" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b49d5d53345bc9fec05cbbb9722f8f4.png" alt="Cover for Retired from Sad, New Career in Business" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-01</td>
       <td>Mitski</td>
@@ -1401,8 +1408,8 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 28</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 95</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 34</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 97</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 100</li>
         </ul>
       </td>
@@ -1410,6 +1417,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf4377f0028ebf75a745ed48615b7154.png" alt="Cover for Aventine" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-27</td>
       <td>Agnes Obel</td>
@@ -1423,10 +1431,10 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 3</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 5</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 58</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 74</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 85</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 88</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 91</li>
         </ul>
       </td>
@@ -1434,6 +1442,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de9c38ad3ec944d9c472356064d77ec7.png" alt="Cover for Benji" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-11</td>
       <td>Sun Kil Moon</td>
@@ -1463,7 +1472,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 92</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 93</li>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 95</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 96</li>
         </ul>
@@ -1490,7 +1499,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcdb88cb09268ff19702a5ad9e963f6e.png" alt="Cover for Spotify Singles" style="max-width:120px; height:auto;" />
       </td>
@@ -1506,7 +1515,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 28</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 50</li>
             <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 91</li>
         </ul>
       </td>
@@ -1532,7 +1541,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/vkgDjtIl9AnyalwVeAcUYHekzjD34fb2dO7_5Qnt1DM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzk1/NTE5LTE2NjIxNTM1/MjAtNjQ0MC5wbmc.jpeg" alt="Cover for Stranger in the Alps" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/531bdb172f66ee3500e344936f1f22bd.png" alt="Cover for Stranger in the Alps" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-22</td>
       <td>Phoebe Bridgers</td>
@@ -1549,7 +1558,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/431f51f7525d2724d6f2e1eaf0867c7f.png" alt="Cover for Stranger in the Alps (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1566,14 +1575,14 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 68</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 70</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 89</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/mKPn53KzMbCzhuodWXdTBvstE0dhJ2ZEkQ9Nm7JU-MQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE0/NzY0LTE1NTM3Njcy/NDMtNjk4Ni5qcGVn.jpeg" alt="Cover for Tequila" style="max-width:120px; height:auto;" />
       </td>
@@ -1597,7 +1606,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/el-8VqbAhpECAJCSqjXUALkCPC7ES3mdM_z5R29p7Sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI2/OTc3LTE1Mzg4NzM2/OTgtMTQ4MS5qcGVn.jpeg" alt="Cover for Evening Machines" style="max-width:120px; height:auto;" />
       </td>
@@ -1613,7 +1622,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 37</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 39</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 89</li>
         </ul>
       </td>
@@ -1635,7 +1644,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 97</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1657,8 +1666,8 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 90</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 91</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1710,7 +1719,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/vfx9xxQJQO8JWAj-SMMEYZAXy1V7yDof4quWaAsRxxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDgz/MDQ5LTE2NDA5Njcw/MzMtMjIwOS5qcGVn.jpeg" alt="Cover for Punisher" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e31f6b52ff52b99a93650badd19b2c5.png" alt="Cover for Punisher" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-18</td>
       <td>Phoebe Bridgers</td>
@@ -1724,7 +1733,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 33</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 53</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 94</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 100</li>
         </ul>
@@ -1748,6 +1757,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1789,7 +1799,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 50</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 52</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 68</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 92</li>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 97</li>
@@ -1822,8 +1832,8 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 87</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 92</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 89</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 93</li>
             <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 99</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 100</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 100</li>
@@ -1889,9 +1899,9 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 89</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 96</li>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 97</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 90</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 96</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1911,7 +1921,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 47</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1958,7 +1968,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/gN69ytf6oyvTMQv50D-laePXBWy8roy6EiLXa1U-nMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDI4/NDMzLTE2OTU5MzYw/MDItNTg3Ni5qcGVn.jpeg" alt="Cover for Javelin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c04861341a86e2054772ba6783cb4ffc.png" alt="Cover for Javelin" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-10-06</td>
       <td>Sufjan Stevens</td>
@@ -1972,13 +1982,13 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       <td>
         <ul>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 57</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 80</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 83</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/0_xmVd0anj6LLwTffLNgHytsqjimF1dLnbzVw7A4JHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDEx/NTIyLTE3MDA4Njg0/MTctNDI1Mi5qcGVn.jpeg" alt="Cover for The Wisp Sings" style="max-width:120px; height:auto;" />
       </td>
@@ -1996,15 +2006,15 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 42</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 76</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 44</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 77</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 79</li>
             <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/KOLqiMTRarKco83E0ozGmsIJax_qosbKlN7_2JVig8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTU3/MTIxLTE2NjgxMTYx/MjQtNTAwNS5qcGVn.jpeg" alt="Cover for Stick Season (We&#39;ll All Be Here Forever)" style="max-width:120px; height:auto;" />
       </td>
@@ -2039,19 +2049,19 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 63</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 64</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 74</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 82</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 83</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 88</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 94</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 98</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 99</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 99</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3898a90e2a13b2c9a19757096c87f842.png" alt="Cover for folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]" style="max-width:120px; height:auto;" />
       </td>
@@ -2070,14 +2080,14 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 36</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 37</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 38</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a4b061315474ceaaa62393d2114f92f.png" alt="Cover for Crystal Visions: The Very Best of Stevie Nicks" style="max-width:120px; height:auto;" />
       </td>
