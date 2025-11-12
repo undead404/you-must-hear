@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-10T22:29:14.440Z
+date: 2025-11-12T02:07:04.713Z
 permalink: tags/contemporary-rnb
 title: contemporary rnb
 ---
 
 ## contemporary rnb
 
-Last updated: <time datetime="2025-11-10T22:29:14.440Z">Tue Nov 11 2025 00:29:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-12T02:07:04.713Z">Wed Nov 12 2025 04:07:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -84,7 +84,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 30</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 35</li>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 66</li>
         </ul>
       </td>
@@ -103,7 +103,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 46</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -191,7 +191,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 19</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -216,8 +216,8 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 75</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 75</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 77</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 77</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 87</li>
         </ul>
       </td>
@@ -278,7 +278,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 19</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 24</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -311,7 +311,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>2002-11-25</td>
@@ -347,7 +347,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 31</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 44</li>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 99</li>
         </ul>
       </td>
@@ -444,7 +444,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
         <ul>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 21</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 22</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 24</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 25</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 29</li>
         </ul>
       </td>
@@ -509,7 +509,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 28</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 27</li>
             <li> <a href="{{ "/tags/slow-jams" | relative_url }}">slow jams</a> # 83</li>
         </ul>
       </td>
@@ -528,9 +528,10 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 1</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 2</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 13</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 60</li>
+            <li> <a href="{{ "/tags/slow-jams" | relative_url }}">slow jams</a> # 71</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 77</li>
         </ul>
       </td>
@@ -574,7 +575,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 9</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 11</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 40</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 78</li>
         </ul>
@@ -643,7 +644,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 21</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 24</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 34</li>
         </ul>
       </td>
@@ -717,8 +718,8 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 7</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 13</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 9</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 22</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 62</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 76</li>
         </ul>
@@ -763,7 +764,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 70</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -804,8 +805,8 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 5</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 57</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 58</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 60</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 88</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 93</li>
         </ul>
@@ -829,8 +830,8 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 32</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 88</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 36</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -853,8 +854,8 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 63</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 70</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 71</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 88</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 98</li>
         </ul>
@@ -879,7 +880,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 37</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -923,13 +924,13 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 62</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 71</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/WUpmiC8VBnKc2iLpaLftEmK8GpgLGSa88Odx1UrHD1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEz/NzEyLTE1MTAyNzkx/OTgtODk3Ni5qcGVn.jpeg" alt="Cover for Reputation" style="max-width:120px; height:auto;" />
       </td>
@@ -944,6 +945,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 18</li>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 84</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 100</li>
         </ul>
@@ -971,8 +973,8 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 27</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 90</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 39</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 92</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 93</li>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 99</li>
         </ul>
@@ -993,7 +995,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 28</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 32</li>
             <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 95</li>
         </ul>
       </td>
@@ -1033,13 +1035,13 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 32</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 36</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf56b9acc7cdf77704bd0a9dbb602c65.png" alt="Cover for Isolation" style="max-width:120px; height:auto;" />
       </td>
@@ -1072,8 +1074,8 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 1</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 10</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 5</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1187,25 +1189,6 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6db4bd793ab45369b54cfde2a5a362f8.png" alt="Cover for Summer Pack" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019</td>
-      <td>Childish Gambino</td>
-      <td>Summer Pack</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b9241b022aa2774956c42b0e50c1b09.png" alt="Cover for ROADRUNNER: NEW LIGHT, NEW MACHINE" style="max-width:120px; height:auto;" />
@@ -1220,7 +1203,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 54</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 60</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 63</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 69</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 80</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 88</li>
@@ -1285,14 +1268,14 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 9</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 20</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 28</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/67f2a664c20dacaf890b604e62aa136d.png" alt="Cover for Beauty Marks" style="max-width:120px; height:auto;" />
       </td>
@@ -1345,6 +1328,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 45</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 48</li>
         </ul>
       </td>
@@ -1371,11 +1355,28 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 5</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 6</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 45</li>
             <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 96</li>
             <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 99</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9475bf032191717ce67b5573d06f4b6d.png" alt="Cover for Ungodly Hour" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-06-12</td>
+      <td>Chloe x Halle</td>
+      <td>Ungodly Hour</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1494,7 +1495,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 15</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 16</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 80</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 100</li>
         </ul>
@@ -1518,8 +1519,8 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 54</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 78</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 64</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 83</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 98</li>
         </ul>
       </td>
@@ -1577,9 +1578,9 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 17</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 21</li>
             <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 33</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 52</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 53</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 99</li>
             <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 100</li>
         </ul>
@@ -1599,8 +1600,8 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 4</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 11</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 5</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 14</li>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 64</li>
         </ul>
       </td>
@@ -1643,7 +1644,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 90</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 96</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 97</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 99</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 100</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 100</li>
@@ -1670,13 +1671,13 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 35</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 51</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 34</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 53</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 73</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 83</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 84</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 85</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 96</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 96</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 96</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 99</li>
         </ul>
       </td>
@@ -1717,7 +1718,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 40</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 41</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 64</li>
         </ul>
       </td>
@@ -1738,9 +1739,9 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 57</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 61</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 87</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 58</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 62</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 88</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 96</li>
         </ul>
       </td>
@@ -1805,7 +1806,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 82</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 83</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 88</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 97</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 100</li>
@@ -1831,8 +1832,8 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 24</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 87</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 28</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1856,7 +1857,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 70</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 71</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 76</li>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 96</li>
         </ul>
@@ -1878,8 +1879,9 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 20</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 57</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 22</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 58</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 91</li>
         </ul>
       </td>
@@ -1981,12 +1983,9 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 5</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 21</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 62</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 71</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 96</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 99</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 8</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 21</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 87</li>
             <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 100</li>
         </ul>
       </td>
@@ -2073,7 +2072,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 64</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 67</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 82</li>
         </ul>
       </td>
@@ -2139,7 +2138,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
