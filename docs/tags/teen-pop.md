@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-10T22:46:53.245Z
+date: 2025-11-12T03:35:37.487Z
 permalink: tags/teen-pop
 title: teen pop
 ---
 
 ## teen pop
 
-Last updated: <time datetime="2025-11-10T22:46:53.245Z">Tue Nov 11 2025 00:46:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-12T03:35:37.487Z">Wed Nov 12 2025 05:35:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54bd3715025a9366f07b3bb6f14a728b.png" alt="Cover for High School Musical 2 (Original Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -67,7 +67,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/WJ9FbqJgqoANAJr1aw5uwfZ8N3QtuqxRFXD7MNTDcNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzA2/MzMtMTY5MDAyNTUz/Mi0xMTkzLmpwZWc.jpeg" alt="Cover for Everything Changes (expanded edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -89,7 +89,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77bca31d5907e234cf8fe1d4fcce9bbd.png" alt="Cover for *NSYNC" style="max-width:120px; height:auto;" />
       </td>
@@ -124,12 +124,12 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 92</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/oNwcxMPt1oxOwhHVJbzZ8u76P0107oDlu41dSEzsMsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTUx/NS0xNTIyMzk3Njkz/LTQxOTEuanBlZw.jpeg" alt="Cover for S Club" style="max-width:120px; height:auto;" />
       </td>
@@ -149,7 +149,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
       </td>
       <td>1999</td>
@@ -167,7 +167,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/s9hG6mVN90Dbdo_iyDqjGXluPAI8FjbkjKwk5LGWIYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODEx/MzMwLTE1OTg0NDg3/NTItMTgyMi5qcGVn.jpeg" alt="Cover for ...Baby One More Time (Digital 45)" style="max-width:120px; height:auto;" />
       </td>
@@ -185,7 +185,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/3SFr0aOHzQenOa5KQ0-cJpEDr8FH8IDcSZy1xfmuHnI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTg0/NS0xMjA3MDIzNjA4/LmpwZWc.jpeg" alt="Cover for ...Baby One More Time (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -203,7 +203,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a8b3a594cfde0960724a44be84a00f8.png" alt="Cover for Baby One More Time" style="max-width:120px; height:auto;" />
       </td>
@@ -222,7 +222,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be7d9be5645e1a7d64f51579401e48c7.png" alt="Cover for Millennium" style="max-width:120px; height:auto;" />
       </td>
@@ -240,7 +240,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb66a8eb958cad10b179f345078cfcea.png" alt="Cover for S Club" style="max-width:120px; height:auto;" />
       </td>
@@ -258,7 +258,27 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/ZYP67Py_Uk4WjiSSjRYbGbjzcJa8pIFHD6TZQLfVTUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDM3/NzMtMTM2OTU4NjMz/OS0xNDc5LmpwZWc.jpeg" alt="Cover for &quot;7&quot;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>S Club</td>
+      <td>&quot;7&quot;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 12</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c290e0cb621e5d0cf4da1168f400c127.png" alt="Cover for Oops!...I Did It Again" style="max-width:120px; height:auto;" />
       </td>
@@ -276,7 +296,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d13d2de869455c6faa68d203c91282f.png" alt="Cover for No Strings Attached" style="max-width:120px; height:auto;" />
       </td>
@@ -291,12 +311,12 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       <td>
         <ul>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 25</li>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 72</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d9002ec4e0858cbeb0c89a2497173d1.png" alt="Cover for Oops!... I Did It Again" style="max-width:120px; height:auto;" />
       </td>
@@ -314,7 +334,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/615b8e9c6cf5178f96986fa0e7b364d6.png" alt="Cover for Una Rebelde en Solitario" style="max-width:120px; height:auto;" />
       </td>
@@ -338,7 +358,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/YTTh8uLWTm1jeKObKJk-u3AOjgAHJ5Q46OGOfB5M7hA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc3/NDItMTE5MDQxMTk4/MC5qcGVn.jpeg" alt="Cover for Sunshine" style="max-width:120px; height:auto;" />
       </td>
@@ -360,7 +380,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/HW14VQKmpAkIKawWtRM55k_ZzF0WM39MetWNrtj0sMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTQ5/MzUtMTM5MTkyMjM4/Ny01NTM5LmpwZWc.jpeg" alt="Cover for The Lizzie McGuire Movie (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -379,7 +399,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
       </td>
       <td>2001-07-17</td>
@@ -397,7 +417,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8867343c5865b7d7008006aa6e78fa1.png" alt="Cover for Se Eu Não Te Amasse Tanto Assim" style="max-width:120px; height:auto;" />
       </td>
@@ -426,7 +446,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 11</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 10</li>
             <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 68</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 70</li>
             <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 91</li>
@@ -434,7 +454,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8ff93fcd94a3f856a3096cc28bf9740.png" alt="Cover for Wanessa Camargo" style="max-width:120px; height:auto;" />
       </td>
@@ -452,7 +472,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7829bf0949cd785d84ba34f9945e7e42.png" alt="Cover for ...Baby One More Time" style="max-width:120px; height:auto;" />
       </td>
@@ -466,12 +486,12 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 69</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88755da85bc743e39b8d449e0c63e32f.png" alt="Cover for Belinda" style="max-width:120px; height:auto;" />
       </td>
@@ -496,9 +516,9 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/VmzVxtJ8_WeVhkWkIS5xgaUj6k_8-EjLNdU8eyDi9aI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE0/ODktMTE4OTA5NTk3/MS5qcGVn.jpeg" alt="Cover for Tour Generación RBD en Vivo (Live)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/829325cd35bb747f5d613a06ceff0410.png" alt="Cover for Tour Generación RBD en Vivo (Live)" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>RBD</td>
@@ -515,7 +535,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbb951c95f4218b0e84ad9bc6733e5c2.png" alt="Cover for Finally Out of P.E." style="max-width:120px; height:auto;" />
       </td>
@@ -554,26 +574,9 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>13</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/301cb1fd2e4d44139fc516d6361e1607.png" alt="Cover for Right Where You Want Me" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-09-09</td>
-      <td>Jesse McCartney</td>
-      <td>Right Where You Want Me</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d49ba60cc9a948d9c831e3ab3ba32b8b.png" alt="Cover for Tightrope" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-09-11</td>
       <td>Stephanie McIntosh</td>
@@ -589,7 +592,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/HLfmJhjBllE0vaPfzoKJRxoCObPM4yIfSPF4n82fiv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTEy/NjIzLTE2MDAwNzY0/OTUtMzMyNy5qcGVn.jpeg" alt="Cover for Coast to Coast (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -606,13 +609,13 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 65</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 66</li>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe2b40d4f88228b958e745cd6361f3f7.png" alt="Cover for Headstrong" style="max-width:120px; height:auto;" />
       </td>
@@ -645,12 +648,12 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 47</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b128e3fbf9d054f3b91bac0ef8e3869.png" alt="Cover for Hook Me Up [UK]" style="max-width:120px; height:auto;" />
       </td>
@@ -667,12 +670,12 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 63</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/9AumcTiLW3FhufiYt7TfmA8iBI_It508Q7CUxGs26Zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDE2/NjUtMTY2OTE1MjU1/Ni0zMzI5LmpwZWc.jpeg" alt="Cover for High School Musical 3: Senior Year" style="max-width:120px; height:auto;" />
       </td>
@@ -690,7 +693,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb7320321199440ba4979805e832a37e.png" alt="Cover for 7 Things - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -710,7 +713,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae61ab5cac11054d736323f272758e4d.png" alt="Cover for Breakout" style="max-width:120px; height:auto;" />
       </td>
@@ -728,7 +731,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29b5c581baca4b5b9aca9725f28dc4cd.png" alt="Cover for A Little Bit Longer" style="max-width:120px; height:auto;" />
       </td>
@@ -742,12 +745,12 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 38</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7f0d72ab8f718fc68bc7febb7a6dc2e.png" alt="Cover for Don&#39;t Forget" style="max-width:120px; height:auto;" />
       </td>
@@ -762,12 +765,12 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 47</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/pR6s-ugcY4K06wQunsDM4XD9GBj8WlM3RCu3aGsVJPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODA1/NjkxLTE2NjU2MjA3/NTQtNTk5Ni5qcGVn.jpeg" alt="Cover for Hannah Montana: The Movie Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -787,7 +790,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/032277561515e7bce45f10dd0036bc49.png" alt="Cover for The Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -807,7 +810,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/3QRoh3BUzNHkSupabuZP4bYs5soVywcPQ3iate1P4Jo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjE0/ODYtMTQyODIwMTM5/MC05NjYxLmpwZWc.jpeg" alt="Cover for Camp Rock 2: The Final Jam" style="max-width:120px; height:auto;" />
       </td>
@@ -826,7 +829,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/809d6c15d09c4830bc9b3399742877df.png" alt="Cover for BTR" style="max-width:120px; height:auto;" />
       </td>
@@ -843,7 +846,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/M2GM2dHC83zGXsCg0xgm5VeBnZZ5_AlQ-_tZA6IGsHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjA1/MTMtMTI5OTgxMjY5/MC5qcGVn.jpeg" alt="Cover for Waiting Outside the Lines" style="max-width:120px; height:auto;" />
       </td>
@@ -861,9 +864,9 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/vDXlV-6qdGa41eMeL11agB-J5A46q0Qb1sB6W2jBhOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDMw/Njg0LTE2NDQwMzMw/MzItNTM1Ni5qcGVn.jpeg" alt="Cover for Geração Z" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc6ba476f9fd498f9a82da3812c2d9c8.png" alt="Cover for Geração Z" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Restart</td>
@@ -881,7 +884,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/-yu9c8jeVyjJR_75Kck0A3ODWo_bpq7lPMCW7iXaAQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzc4/MTUtMTU5NTgyNjIw/OS03NTA1LmpwZWc.jpeg" alt="Cover for Love You Like a Love Song - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -900,9 +903,9 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
-          <img src="https://i.discogs.com/fbMTrtV4BDzjpEz8HuAUh2PGVmxSlyNnNtqyXRAPWD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTY3/ODgtMTM5MjgyMTIy/NS05OTc1LmpwZWc.jpeg" alt="Cover for Who Says - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3be81b3d895c4d4a8c3bd737b63b8968.png" alt="Cover for Who Says - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-27</td>
       <td>Selena Gomez &amp; the Scene</td>
@@ -920,7 +923,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4567c0cb1e2bd7ef878713004a469da7.png" alt="Cover for When the Sun Goes Down" style="max-width:120px; height:auto;" />
       </td>
@@ -954,8 +957,8 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 50</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 72</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 53</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -979,7 +982,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcf8b8c6f5404fa891063b26af7f4766.png" alt="Cover for Windows Down" style="max-width:120px; height:auto;" />
       </td>
@@ -1015,13 +1018,13 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 43</li>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 62</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 44</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3eb628bc256b4b46a5225588ea672d03.png" alt="Cover for Distance EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1061,13 +1064,13 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 60</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 63</li>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/855554befdbc4635f97b9ee1a1c2a0c7.png" alt="Cover for Britney (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1105,14 +1108,14 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 54</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 57</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 85</li>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12318bbe9b5b4e77ce08636d6336df7c.png" alt="Cover for A Year Without Rain" style="max-width:120px; height:auto;" />
       </td>
@@ -1134,28 +1137,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>53</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09a3b6457d8c150f3b9e47cfdfb5b4cd.png" alt="Cover for Nick Jonas (Deluxe)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014</td>
-      <td>Nick Jonas</td>
-      <td>Nick Jonas (Deluxe)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfa4529045db4d4dcd33b3e93bac6740.png" alt="Cover for MKTO" style="max-width:120px; height:auto;" />
       </td>
@@ -1173,9 +1155,9 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/MLoqdKeWX30wJQa9lwRVuMP6GA-HelIcpMvGXDcGsfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjQ2/NTItMTQwMjAwNTcz/Mi01NjUzLmpwZWc.jpeg" alt="Cover for Meet The Vamps (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79be22ff8eddad44fbcc5f954c14061a.png" alt="Cover for Meet The Vamps (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-14</td>
       <td>The Vamps</td>
@@ -1194,7 +1176,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3df6f03818e407948c9d5cc84e97fd36.png" alt="Cover for FOUR" style="max-width:120px; height:auto;" />
       </td>
@@ -1230,7 +1212,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4254969de85c06fc58b9db4d933d6151.png" alt="Cover for Reflection (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1290,27 +1272,6 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>67</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2828b7aeeb73e49715515af38ca53788.png" alt="Cover for Wake Up (Deluxe)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-11-27</td>
-      <td>The Vamps</td>
-      <td>Wake Up (Deluxe)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3768a326de514cefcca3bf96b0d35d2f.png" alt="Cover for Title (Deluxe)" style="max-width:120px; height:auto;" />
@@ -1330,9 +1291,9 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
-          <img src="https://i.discogs.com/t-j5My5KBHPz6RK1fqOX29sl2G0n7ay3youHll7GPYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDE3/MzAtMTQ4NDc3NzQ4/NS0xMzc5LmpwZWc.jpeg" alt="Cover for Pretty Girl" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de2d6ea4bce9b2161554eb2897660c15.png" alt="Cover for Pretty Girl" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-30</td>
       <td>Maggie Lindemann</td>
@@ -1350,7 +1311,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/CN8P3_z5FkPWoynBq0NTePY77lFeYYB3MehlsK1HakA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjIw/MTc0LTE2MTc5ODI3/OTYtNDczNC5qcGVn.jpeg" alt="Cover for Fearless (International Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1450,7 +1411,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 85</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 84</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 96</li>
         </ul>
       </td>
@@ -1477,7 +1438,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 27</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 39</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 87</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 93</li>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 99</li>
@@ -1545,8 +1506,8 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 43</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 57</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 47</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 59</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 89</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 92</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 100</li>
@@ -1578,7 +1539,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/Grxf2-qu2AbGydlAcUMDrWuKCwL4LzXSC_lbNoXM6IM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzg5/MzY0LTE1MjI0MTcw/NzQtNTIwMi5qcGVn.jpeg" alt="Cover for Bitches Broken Hearts - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1598,7 +1559,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/coDdyLMhMFj-PZ8RmUeh37-f8pCYnH7taRxmECTD3Co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzcz/OTUyLTE1MjIxNTE1/MTktNTQ1Mi5qcGVn.jpeg" alt="Cover for Bellyache (Marian Hill Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1635,7 +1596,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/6CoVSW_GhUvRWfYqwRZAvzdWB_kA2Epk8XeGd8vH3gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzgw/OTUwLTE1NjA5NzM3/NDgtNTAwMC5qcGVn.jpeg" alt="Cover for watch" style="max-width:120px; height:auto;" />
       </td>
@@ -1655,7 +1616,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/6CoVSW_GhUvRWfYqwRZAvzdWB_kA2Epk8XeGd8vH3gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzgw/OTUwLTE1NjA5NzM3/NDgtNTAwMC5qcGVn.jpeg" alt="Cover for bad guy" style="max-width:120px; height:auto;" />
       </td>
@@ -1695,7 +1656,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/ovInazl3P3tqNmmz9nmy7G-KpKwK6oNDEOOUZXoUWcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODUw/MjkxLTE1NjI1MzMy/MzYtMjY2NS5qcGVn.jpeg" alt="Cover for Ocean Eyes (Astronomyy Edit)" style="max-width:120px; height:auto;" />
       </td>
@@ -1755,7 +1716,30 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/L1K-w2yvwYFA3lvfsyRuA35RKuayywtNA3bBk8Z2z9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjky/NjY4LTE2Nzc4NjY1/NjMtOTQ5Ni5qcGVn.jpeg" alt="Cover for Ser O Parecer: The Global Virtual Union (En Vivo)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-02-05</td>
+      <td>RBD</td>
+      <td>Ser O Parecer: The Global Virtual Union (En Vivo)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f9e9eec45d96f80be5220d386230200.png" alt="Cover for We Play - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1792,9 +1776,9 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
         <ul>
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 16</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 54</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 57</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 59</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 81</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 92</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 93</li>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 93</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 99</li>
         </ul>
@@ -1817,7 +1801,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 47</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1848,17 +1832,17 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 61</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 62</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 63</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 68</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 86</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 99</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 100</li>
             <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 100</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 100</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 100</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 100</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 100</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 100</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 100</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 100</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1907,7 +1891,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/py_n4Oazysq94ZMMYeHPUpoq8gac05s7dpuQNndXq3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDYz/MDk2LTE2MjMxNTc0/NDQtODAyNS5qcGVn.jpeg" alt="Cover for Billie Eilish" style="max-width:120px; height:auto;" />
       </td>
@@ -1927,7 +1911,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/6CoVSW_GhUvRWfYqwRZAvzdWB_kA2Epk8XeGd8vH3gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzgw/OTUwLTE1NjA5NzM3/NDgtNTAwMC5qcGVn.jpeg" alt="Cover for lovely" style="max-width:120px; height:auto;" />
       </td>
@@ -1987,7 +1971,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7c4bf6c9d3ed9ecb41cbba373695481.png" alt="Cover for See You Again" style="max-width:120px; height:auto;" />
       </td>
@@ -2012,7 +1996,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6ae145428bde533606e5cf89912c0fd.png" alt="Cover for AR" style="max-width:120px; height:auto;" />
       </td>
@@ -2025,18 +2009,15 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 5</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 8</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 21</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 21</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 62</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 71</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 99</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 87</li>
             <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -2057,7 +2038,7 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/256c00b22449f427132e730d501b2ea9.png" alt="Cover for As Quatro Estações (Ao Vivo)" style="max-width:120px; height:auto;" />
       </td>
@@ -2075,13 +2056,30 @@ Teen pop music is a subgenre of pop music that is aimed at a teenage audience. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 4</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 5</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Backstreet Boys</td>
+      <td>Black and Blue</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/875d2ebd4c2b35c7436028777cb7e118.png" alt="Cover for Middle of Nowhere" style="max-width:120px; height:auto;" />
       </td>
