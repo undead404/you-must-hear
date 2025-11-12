@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T23:32:50.944Z
+date: 2025-11-12T01:55:39.098Z
 permalink: tags/tabla
 title: tabla
 ---
 
 ## tabla
 
-Last updated: <time datetime="2025-11-01T23:32:50.944Z">Sun Nov 02 2025 01:32:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-12T01:55:39.098Z">Wed Nov 12 2025 03:55:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -179,7 +179,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 59</li>
+            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -370,23 +370,6 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/ocnn7oZEMox2BH_UT9_YozdBYdrcRFFJpLINfxvekVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjA5/MDk5LTE1NTc0Mzc4/MDktNDQyOS5qcGVn.jpeg" alt="Cover for Morning Ragas, Bombay 1965 1" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>Nikhil Banerjee, Nikhil Ghosh</td>
-      <td>Morning Ragas, Bombay 1965 1</td>
-      <td>
-        <ul>
         </ul>
       </td>
       <td>
@@ -695,6 +678,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/798fa70cf4ebf8f4c4ad4eb3c7e28d01.png" alt="Cover for Live in San Francisco at Stern Grove" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-07-09</td>
       <td>Tabla Beat Science</td>
@@ -1270,7 +1254,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 34</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 36</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 44</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 62</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 62</li>
@@ -1349,7 +1333,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/y5lj8VcgRcu_VJu9Y_DqKaYH5NL50mmLl5hwZKNhisE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDc2/NTMtMTM1MjEyNjAz/Mi02NzY3LmpwZWc.jpeg" alt="Cover for Open Land" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bd85369c23e4bf1b870c50aad85d84a.png" alt="Cover for Open Land" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Awen Magic Land</td>
@@ -1599,7 +1583,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 48</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1667,6 +1651,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b65dafb3ec784920990400874e214b19.png" alt="Cover for Fuzzy Mornings EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-07</td>
       <td>Polaroid 85</td>
@@ -1844,7 +1829,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/0NwD8TnmVhicqm1mmg33teWKWNe0KIfilMtH0bLezUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDgw/MzA5LTE2NzExOTEz/MzUtODA5OS5qcGVn.jpeg" alt="Cover for Ghazal" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e88297aeb602412282c54dfa09594928.png" alt="Cover for Ghazal" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-01-21</td>
       <td>Luca Congedo</td>
@@ -1902,7 +1887,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 8</li>
+            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1922,7 +1907,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 18</li>
+            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -2059,6 +2044,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7f63faaf7a64ad09ebc4b5a9b1182e2.png" alt="Cover for Flowers of the Heart" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Ustad Ghulam Farid Nizami</td>
@@ -2106,6 +2092,22 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Imrat Khan, Vajahat Khan, Shafaatullah Khan</td>
+      <td>Rāg Jhiñjoṭī &#x2F; Rāg Pīlū</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-04T21:09:06.034Z
+date: 2025-11-12T01:56:07.735Z
 permalink: tags/glam-rock
 title: glam rock
 ---
 
 ## glam rock
 
-Last updated: <time datetime="2025-11-04T21:09:06.034Z">Tue Nov 04 2025 23:09:06 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-12T01:56:07.735Z">Wed Nov 12 2025 03:56:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
   </thead>
   <tbody>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3abc75a68e332285e686811529f55baa.png" alt="Cover for Space Oddity" style="max-width:120px; height:auto;" />
       </td>
@@ -44,12 +44,12 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 44</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/7kL9Nkbpp83_y-UD7fI-XwmMIQeT7cWERLq5DuM68GY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTk2/OTgtMTQ4Nzg3OTUy/OC0zNTY0LnBuZw.jpeg" alt="Cover for Babilônia" style="max-width:120px; height:auto;" />
       </td>
@@ -122,7 +122,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/s-EAHtpHXuTX2Ioe1zhLJglE16fOBBpsY7NsKKyPikU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzYy/MzctMTM1Nzc1NzQ0/My00Njk1LmpwZWc.jpeg" alt="Cover for T.Rex" style="max-width:120px; height:auto;" />
       </td>
@@ -158,7 +158,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/Y9cPc75ckDLSJXKPF7ACjljbS7zqKoGAcsM2tQ4H-mI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjUx/ODItMTMwOTQ2NzA4/MS5qcGVn.jpeg" alt="Cover for Glitter" style="max-width:120px; height:auto;" />
       </td>
@@ -178,6 +178,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3017b2f31110e4f6de45a212fe93b4a3.png" alt="Cover for The Rise and Fall of Ziggy Stardust and the Spiders From Mars" style="max-width:120px; height:auto;" />
       </td>
       <td>1972-06-06</td>
       <td>David Bowie</td>
@@ -229,7 +230,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/65b66ceccdf80aaa4e22ff333a751a1d.png" alt="Cover for The Rocky Horror Picture Show - Original Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -246,16 +247,16 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 40</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 44</li>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 80</li>
             <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/x4zHJ1hVXmqvpX_LWqWgwyS2raK4bPZUcF3vy3VrhmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQy/MjctMTUyNjc2NTUz/Ni0xNDk2LmpwZWc.jpeg" alt="Cover for 20th Century Boy: The Ultimate Collection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60326fcf31c34972973a4b8714356a0c.png" alt="Cover for 20th Century Boy: The Ultimate Collection" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>T. Rex</td>
@@ -271,7 +272,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f817eac84c564f139cab37f4c4844498.png" alt="Cover for Tanx" style="max-width:120px; height:auto;" />
       </td>
@@ -291,6 +292,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/349c1dde988f348da14bb592a64abf6b.png" alt="Cover for For Your Pleasure" style="max-width:120px; height:auto;" />
       </td>
       <td>1973-03-23</td>
       <td>Roxy Music</td>
@@ -303,7 +305,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 37</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -341,14 +343,15 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 65</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 66</li>
             <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c4ba94626953921f74a881bf202e232.png" alt="Cover for Pin Ups" style="max-width:120px; height:auto;" />
       </td>
       <td>1973-10-19</td>
       <td>David Bowie</td>
@@ -364,8 +367,9 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/684261636ec5f2f2dc24e4f040f64cad.png" alt="Cover for Stranded" style="max-width:120px; height:auto;" />
       </td>
       <td>1973-11-01</td>
       <td>Roxy Music</td>
@@ -379,7 +383,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 12</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -398,12 +402,12 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 31</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e52d3cbe5ef3525aa55987cf80466bd.png" alt="Cover for David Live" style="max-width:120px; height:auto;" />
       </td>
@@ -424,7 +428,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd4ffb6f549d4b7c95251766719c7f77.png" alt="Cover for Alice Cooper&#39;s Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -438,7 +442,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 47</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 48</li>
             <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 84</li>
         </ul>
       </td>
@@ -462,7 +466,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/lYJrg51CdrYJPr2HfjbXs3TVrnFc0boKz9JyB2rUU6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzUy/MC0xMTg5NTMwODMz/LmpwZWc.jpeg" alt="Cover for In Too Much Too Soon" style="max-width:120px; height:auto;" />
       </td>
@@ -480,7 +484,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/544e6aa7458bebc28fa475d48335b3e3.png" alt="Cover for Too Much Too Soon" style="max-width:120px; height:auto;" />
       </td>
@@ -517,6 +521,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f147556280904cdfbd548c75da1bf6a1.png" alt="Cover for Country Life" style="max-width:120px; height:auto;" />
       </td>
       <td>1974-11-15</td>
       <td>Roxy Music</td>
@@ -532,7 +537,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/WCqVYx26gU3gD_Xa7ICnBNC6P0LqA29YAKCEaWdBkaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTMx/MS0xMzM5NDM5OTQy/LTI0MjcuanBlZw.jpeg" alt="Cover for Taking Tiger Mountain (By Strategy)" style="max-width:120px; height:auto;" />
       </td>
@@ -547,12 +552,12 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 45</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>1974-11</td>
@@ -585,7 +590,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 29</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -607,15 +612,15 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 70</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 74</li>
             <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/2HFeoBPPeypxQLA_Ag1m2lYjYIcRJMVr2WFGg2rL2_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTA0/MS0xNTE4MzczODI3/LTk1NzIuanBlZw.jpeg" alt="Cover for ChangesOneBowie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98a5d0580729a39c4772daa482a1676b.png" alt="Cover for ChangesOneBowie" style="max-width:120px; height:auto;" />
       </td>
       <td>1976-05-20</td>
       <td>David Bowie</td>
@@ -631,9 +636,9 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/QZBtm7CsCO5QCD5uXwamdoNPF1Pl0JaNsfC4vNknXYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjE0/Mi0xNTU2MDMzODg3/LTYyNDkuanBlZw.jpeg" alt="Cover for Adolescent Sex" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/edc32f42d228b18fb529853e7b082203.png" alt="Cover for Adolescent Sex" style="max-width:120px; height:auto;" />
       </td>
       <td>1978-03</td>
       <td>Japan</td>
@@ -667,7 +672,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9645ba9592445b1c5c35e1990c6964f.png" alt="Cover for Jazz (2011 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -683,15 +688,15 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 62</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 85</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 68</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 86</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 87</li>
             <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/16c487419a6a90693e24d9d280fc5453.png" alt="Cover for Queen (Deluxe Edition 2011 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -724,13 +729,13 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 73</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 78</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/7qR4nUYLlsjv9s9IqR9BFcXJCBGMO_d3UwwJQeNQcAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODA1/MTUtMTM3OTg2NTkz/Mi0xMTkzLmpwZWc.jpeg" alt="Cover for Bangkok Shocks, Saigon Shakes" style="max-width:120px; height:auto;" />
       </td>
@@ -747,7 +752,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>1981-09-11</td>
@@ -786,7 +791,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/uOSyUxNDfDIDXBc7r9eE5N_hVhVdr1iPqMf5O40XdLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzYw/MDYtMTQ2NzA1MzE5/Ni05MDE4LmpwZWc.jpeg" alt="Cover for The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/781be87e74355cc5cb8db5a5442f7de9.png" alt="Cover for The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>David Bowie</td>
@@ -799,15 +804,15 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 19</li>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 83</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 88</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 32</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 84</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 91</li>
             <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/Pj3Cuu1KK57-TKI8s9qf0ERwXL2tWZmuqNtfFZliebw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDYw/OS0xMjAzNjU1ODI2/LmpwZWc.jpeg" alt="Cover for Angst In My Pants" style="max-width:120px; height:auto;" />
       </td>
@@ -827,7 +832,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/bD6WrOY3BQafRJdDEPO23l0RntD8bq8ptxBW_vkYnM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjg5/NDktMTU5OTU4OTA1/My00OTE3LmpwZWc.jpeg" alt="Cover for Death Rides a Pale Cow" style="max-width:120px; height:auto;" />
       </td>
@@ -851,7 +856,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9eb232bb605a326050b90e7fa63b0ba.png" alt="Cover for Two Steps From the Move" style="max-width:120px; height:auto;" />
       </td>
@@ -886,7 +891,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6609008553e8255590eeb03eb4147a72.png" alt="Cover for News of the World (2011 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -921,9 +926,9 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/ag-s3cDv-jLHryu7yjoAHId-XRgHPw9Ljb1OXDVa2vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTE2/MTYtMTM2MzYzNDM0/NC05MDg2LmpwZWc.jpeg" alt="Cover for ChangesBowie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e07a053cbc6807bb6808e017a3becdd.png" alt="Cover for ChangesBowie" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-03-20</td>
       <td>David Bowie</td>
@@ -940,7 +945,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>1991</td>
@@ -993,8 +998,9 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d17a160d5fc77a8d8754e2016491297.png" alt="Cover for Angel Face" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>The Glitter Band</td>
@@ -1012,6 +1018,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14837e08f3c04b7385cd21880177a5be.png" alt="Cover for Ziggy Stardust" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>David Bowie</td>
@@ -1043,15 +1050,15 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 36</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 89</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 37</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 90</li>
             <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 95</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6af00456032921e3b3a2664c2dcde190.png" alt="Cover for The Best Of Roxy Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1085,12 +1092,12 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 94</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/FZnbazkagXzOk3xPOsWj4uxdkRdcB-9CK-MMKZCSg_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYz/NTAtMTQ0MjEwMzcw/Mi05NDMxLmpwZWc.jpeg" alt="Cover for Spend The Night (U.S. Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1107,12 +1114,12 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 96</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca2a8546a9b645a2917e28104197a122.png" alt="Cover for Permission to Land" style="max-width:120px; height:auto;" />
       </td>
@@ -1134,6 +1141,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/402a39cda8c645d8c5396b944cf5d4c6.png" alt="Cover for I Believe in a Thing Called Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-22</td>
       <td>The Darkness</td>
@@ -1149,7 +1157,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcdc9ce325235f81fd3ccb0979aff0af.png" alt="Cover for Fruto Proibido" style="max-width:120px; height:auto;" />
       </td>
@@ -1167,7 +1175,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa2bddc4fee1d9a8421041d1469f06dc.png" alt="Cover for Sweet &amp; Deceitful" style="max-width:120px; height:auto;" />
       </td>
@@ -1186,7 +1194,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>2004-12-27</td>
@@ -1203,7 +1211,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/8aACMYRTOMOYZjoZsQUGwIvANTycygpW10zEuBfaLbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY1/MzAtMTM0MjIxMjg4/MC0xNjAwLmpwZWc.jpeg" alt="Cover for Mr Brightside" style="max-width:120px; height:auto;" />
       </td>
@@ -1219,13 +1227,13 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 11</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 33</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2005-08-16</td>
@@ -1244,7 +1252,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2005-11-07</td>
@@ -1263,8 +1271,9 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03ca12b4566a483789d91d254e49edc7.png" alt="Cover for Hello Young Lovers" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-02-06</td>
       <td>Sparks</td>
@@ -1281,7 +1290,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2006-05-01</td>
@@ -1303,8 +1312,9 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29ee16e0cb723432f46c99b73eff3e99.png" alt="Cover for Ta Dah" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-09-16</td>
       <td>Scissor Sisters</td>
@@ -1321,7 +1331,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/kxzyHh-T_AEK4M_QtlDmOU61nKSh1AhF-jaC-AMFyhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjA3/MS0xMzAzMjQ1MDA2/LmpwZWc.jpeg" alt="Cover for Ta-Dah" style="max-width:120px; height:auto;" />
       </td>
@@ -1337,13 +1347,13 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 18</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 21</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/Hv0diofxUi1I6Owras6145TeSOd0k_2EhYD_CzR1Y74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDQ5/NC0xMzA0NDQ0Mjgx/LmpwZWc.jpeg" alt="Cover for Prayer For The Weekend" style="max-width:120px; height:auto;" />
       </td>
@@ -1362,7 +1372,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddf88059a1fb9b4f948f576b024bcbae.png" alt="Cover for Final Attraction" style="max-width:120px; height:auto;" />
       </td>
@@ -1395,7 +1405,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 28</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1419,16 +1429,16 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 3</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 66</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 68</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 83</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 14</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 70</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 70</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 84</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/tNBp1zvUbinS1niQk51Cb282sJIbSdS8KONkkFWN-3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ0/MDkzLTE2MjM2NTMy/OTctNDA5NS5qcGVn.jpeg" alt="Cover for Pinups (2015 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -1446,7 +1456,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a568cc605dff4e508d9d106cf562dee4.png" alt="Cover for The Best of David Bowie 1969&#x2F;1974" style="max-width:120px; height:auto;" />
       </td>
@@ -1482,30 +1492,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>60</td>
-      <td>
-          <img src="https://i.discogs.com/wiOcol8F9scOLTaMy3E7WIYqgcyguv56jZfPix9bW4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDAw/NTAtMTMyNDc5OTk5/MS5qcGVn.jpeg" alt="Cover for The Singles" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-02-03</td>
-      <td>Goldfrapp</td>
-      <td>The Singles</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 10</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 65</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2012-02-07</td>
@@ -1518,13 +1505,14 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 39</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26809cc478504c61a3e78bec91464941.png" alt="Cover for Take the Kids Off Broadway" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-24</td>
       <td>Foxygen</td>
@@ -1538,7 +1526,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 35</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1553,6 +1541,26 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/088689529d7344729d57e3f8ad282af0.png" alt="Cover for Glow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-08-31</td>
+      <td>Jackson and His Computer Band</td>
+      <td>Glow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
         </ul>
       </td>
       <td>
@@ -1581,7 +1589,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a81c935049c4b858259b5b738e5fd5d.png" alt="Cover for Bloodsports" style="max-width:120px; height:auto;" />
       </td>
@@ -1601,7 +1609,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/42HjGr02foVPmBMhmp7LXkFqFpmToHNEOMovtLwwUpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjE5/NTYtMTQ1NDQwOTY2/OS02MTk1LmpwZWc.jpeg" alt="Cover for Diamond Dogs (30th Anniversary)" style="max-width:120px; height:auto;" />
       </td>
@@ -1638,7 +1646,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/FCcw0fIm1WrOwt9jBhOvU9N9lmodbM581Qzxh-d-LKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTM3/ODQtMTQ2NjYxMTY1/MC05MzE5LmpwZWc.jpeg" alt="Cover for Best of Sweet" style="max-width:120px; height:auto;" />
       </td>
@@ -1656,7 +1664,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ba89ce6ed2a4d7d014136dc6a819aec.png" alt="Cover for Sweet Fanny Adams" style="max-width:120px; height:auto;" />
       </td>
@@ -1692,7 +1700,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6a02272b7a14d5b9cb1591b2cd504aa.png" alt="Cover for The Best of David Bowie 1969-74" style="max-width:120px; height:auto;" />
       </td>
@@ -1713,7 +1721,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/RpxFcNHlqYLVRuUQSUBGc9rNEX7Gc9boEbjzmpnkxX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI3/NTIzLTE1NDg1MzM1/ODctNTQ3MS5qcGVn.jpeg" alt="Cover for Five Years (1969 - 1973)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec5f6b1232aa8760358b2e3477796d70.png" alt="Cover for Five Years (1969 - 1973)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>David Bowie</td>
@@ -1729,7 +1737,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e46e88f240553164822da1e60701809.png" alt="Cover for Heaven to a Tortured Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -1743,15 +1751,15 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 38</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 95</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 52</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/MPLPwn0LI6uaWqZZEgivRPJlE7jzovOoT2aSSI2xTO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzgx/ODY0LTE1OTc2ODk3/MjMtOTQ0OS5qcGVn.jpeg" alt="Cover for Songs for the General Public" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1114f10c4abf8b5b9f3cde7a90f57ad.png" alt="Cover for Songs for the General Public" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-08-21</td>
       <td>The Lemon Twigs</td>
@@ -1768,12 +1776,12 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 11</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/69bdee0d5985c91adff44a4e04055b2c.png" alt="Cover for Plastic Hearts" style="max-width:120px; height:auto;" />
       </td>
@@ -1787,8 +1795,8 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 51</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 65</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 60</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1812,7 +1820,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/Zw7rVdXHqBIes8t31cflfzda_8JGQPVb4-riABTXA0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzk0/NzE5LTE2MjE0NDAy/MTItOTEwMS5qcGVn.jpeg" alt="Cover for Ancient Dreams In A Modern Land" style="max-width:120px; height:auto;" />
       </td>
@@ -1827,8 +1835,8 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 11</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 58</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 20</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1851,7 +1859,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/ZIiXV-DhNciC64Dl675Q-rdLVH7JWUpoykFAHsKQDAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTY1/NTg0LTE2Nzk5NDcx/MjItNzgzMy5wbmc.jpeg" alt="Cover for Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds)" style="max-width:120px; height:auto;" />
       </td>
@@ -1864,11 +1872,11 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 33</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 33</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 68</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 76</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 80</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 35</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 39</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 71</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 80</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 81</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 96</li>
         </ul>
       </td>
@@ -1889,14 +1897,14 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 48</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 55</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 79</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 52</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 57</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -1915,12 +1923,12 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 41</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -1940,7 +1948,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td></td>

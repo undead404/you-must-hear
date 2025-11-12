@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-10T13:04:12.583Z
+date: 2025-11-12T01:55:33.788Z
 permalink: tags/sophisti-pop
 title: sophisti-pop
 ---
 
 ## sophisti-pop
 
-Last updated: <time datetime="2025-11-10T13:04:12.583Z">Mon Nov 10 2025 15:04:12 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-12T01:55:33.788Z">Wed Nov 12 2025 03:55:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -70,7 +70,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/9sTaOIblIu3tuXs3w-HB6J4ChAJevIswXOc_9D9K7q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODM2/MjQtMTU1NzI3NzY2/My03ODAyLmpwZWc.jpeg" alt="Cover for Past, Present &amp; Future" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2349f9d5f3f3e11c33f3592aa79fa46f.png" alt="Cover for Past, Present &amp; Future" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>The Rah Band</td>
@@ -87,7 +87,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
       </td>
       <td>1981-06-05</td>
@@ -107,7 +107,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 55</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 59</li>
             <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 66</li>
         </ul>
       </td>
@@ -115,7 +115,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/GDrMLXgz0Z2dvdnmAu5gcrewJYkA0TzQbhz7po_re7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzIx/MS0xNDM1MDc4MDMz/LTc3MDUuanBlZw.jpeg" alt="Cover for You Can&#39;t Hide Your Love Forever" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6344bdcb6e313f84eca5e63aa9810b05.png" alt="Cover for You Can&#39;t Hide Your Love Forever" style="max-width:120px; height:auto;" />
       </td>
       <td>1982-02</td>
       <td>Orange Juice</td>
@@ -146,7 +146,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 82</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -165,13 +165,13 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 63</li>
             <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 63</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/wCl7DdB5yI-vbX87_0i2bv3QXUBRJr-lfU343r_mwYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA0/NjMtMTE5OTE3MzMw/MC5qcGVn.jpeg" alt="Cover for When The Boom Was On" style="max-width:120px; height:auto;" />
       </td>
@@ -230,7 +230,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53f922052d152658d58c6ecc2b9afd9b.png" alt="Cover for A Walk Across The Rooftops" style="max-width:120px; height:auto;" />
       </td>
@@ -244,28 +244,6 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6244b568c7751b749cbc9a5bc666ffe.png" alt="Cover for Fullgás" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1984</td>
-      <td>Marina Lima</td>
-      <td>Fullgás</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 40</li>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -289,7 +267,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 66</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 67</li>
             <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 78</li>
         </ul>
       </td>
@@ -297,7 +275,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/_AF14OwzZPByGdCIQvxtNawh_ANWbEjgMNdGyXtXJsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDM1/NTMtMTQyNDY2Mzgz/NC0zODA5LmpwZWc.jpeg" alt="Cover for Bandido" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7cb1f5e4d5a6a66b20e3d4cf0d66dbf.png" alt="Cover for Bandido" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Miguel Bosé</td>
@@ -313,12 +291,12 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 54</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/LGPj9O8w8ZtOs5MBobw5fsc5Mpdu0T7R1IWbRif9CG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTc0/LTE2MDkzMzc4OTAt/MjkyOC5qcGVn.jpeg" alt="Cover for Whose Side Are You On" style="max-width:120px; height:auto;" />
       </td>
@@ -338,7 +316,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/pgIn7uBsXdAi3MrkFR7ZUvy82YPdGvKgG2WGkGuxLwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzIy/NS0xNTM3ODkxOTgx/LTYxMTkuanBlZw.jpeg" alt="Cover for Texas Fever" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/834236c68f36b044d1f14f0805612d44.png" alt="Cover for Texas Fever" style="max-width:120px; height:auto;" />
       </td>
       <td>1984-03</td>
       <td>Orange Juice</td>
@@ -368,7 +346,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 57</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -395,7 +373,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/EVxiKF8N2HRG8tnMjM2L9GX4U7iHucHuqDQtTRcbgWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODc0/MjktMTQ2Mjc4ODQy/MC0yMDk5LmpwZWc.jpeg" alt="Cover for Some People" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d0435fd694d42b4d5cc392ceaca8a7f.png" alt="Cover for Some People" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Belouis Some</td>
@@ -414,7 +392,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/URLzmtDujyhtiOWhOvmGMfwe2fhCY2IsG44VY2Eb96s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTEx/NS0xMTYxMjIxOTAw/LmpwZWc.jpeg" alt="Cover for ニウロマンティック~ロマン神経症~ (2021 Yoshinori Sunahara Remastering)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9f1f5d5c12093f7dac97e48a267dbce.png" alt="Cover for ニウロマンティック~ロマン神経症~ (2021 Yoshinori Sunahara Remastering)" style="max-width:120px; height:auto;" />
       </td>
       <td>1985-04-25</td>
       <td>Yukihiro Takahashi</td>
@@ -433,7 +411,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       <td>
         <ul>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 28</li>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 77</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -470,7 +448,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 22</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -514,7 +492,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/oY60_SClpPMxHpS46GKXMiUxdoWyKaMJ9UMkdXTrgVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU5/MDA1LTE2NjMxMDU1/MjctMTc4NS5qcGVn.jpeg" alt="Cover for Jude" style="max-width:120px; height:auto;" />
       </td>
@@ -524,6 +502,24 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/458f9d0aa3b4b5abb2418adb2a7567f4.png" alt="Cover for Cafe Bleu" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985-08-01</td>
+      <td>The Style Council</td>
+      <td>Cafe Bleu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
         </ul>
       </td>
       <td>
@@ -546,15 +542,15 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 25</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 27</li>
             <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/JETcNWcKB_XQ45VkIWfOD2Iu6koJLmKmFgYRRPN8TlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTM0/NjQtMTI2NDc2MzQw/MC5qcGVn.jpeg" alt="Cover for Heróis da Resistência" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b27d7e4f1f580e003448b29cb9b3e06e.png" alt="Cover for Heróis da Resistência" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Heróis Da Resistência</td>
@@ -618,7 +614,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/qXCHxNY2G1BRZh4zdWCbcACNrcwnbmT2i7Ztrz3-8yM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MzM3/MDMtMTQ0NTkwMjQw/NS05NDI5LmpwZWc.jpeg" alt="Cover for Kysser himlen farvel" style="max-width:120px; height:auto;" />
       </td>
@@ -642,7 +638,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0686355f4c501fd1a9ea856e7a78605e.png" alt="Cover for Catch The Fall" style="max-width:120px; height:auto;" />
       </td>
@@ -719,7 +715,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/EUoXTs5gmTpxbt2O-8yznhzmTNXzqf0qoEKKb1wXcwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MzMy/MS0xNDg2ODkwNTY1/LTU2MzQuanBlZw.jpeg" alt="Cover for Turn Back The Clock" style="max-width:120px; height:auto;" />
       </td>
@@ -856,7 +852,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
       </td>
       <td>1988-03</td>
@@ -948,7 +944,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/tMVCLEs0cPSbxn3D26xAzS7BPd4XIxHpYDw880lZlJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTE5/MjQtMTIzODUzODAx/OC5qcGVn.jpeg" alt="Cover for The Seeds of Love" style="max-width:120px; height:auto;" />
       </td>
@@ -963,12 +959,12 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 75</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2198bb7f07b97ee3d13bb90b850cadf9.png" alt="Cover for Hats" style="max-width:120px; height:auto;" />
       </td>
@@ -987,7 +983,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d4ffdf692985950828c0772fa0e13de.png" alt="Cover for Other Voices" style="max-width:120px; height:auto;" />
       </td>
@@ -1009,7 +1005,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/WUfUY1Y92cLMjrI2FbjT9RWagDetMjS-V9eBvPDjnQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDI1/OS0xNjQyNzY4OTkw/LTM5NTEuanBlZw.jpeg" alt="Cover for Home Movies" style="max-width:120px; height:auto;" />
       </td>
@@ -1034,7 +1030,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
       </td>
       <td>1990-02-05</td>
@@ -1052,7 +1048,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/MmJYIYFltFqLMbvpzome6QFqAe4EJ43h6EHKR1m2Luk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzcx/Mi0xMTk0MDE0Njg5/LmpwZWc.jpeg" alt="Cover for Jordan - The Comeback" style="max-width:120px; height:auto;" />
       </td>
@@ -1071,7 +1067,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24cdf257f968524275cd2c8fd6682a67.png" alt="Cover for Jordan: The Comeback" style="max-width:120px; height:auto;" />
       </td>
@@ -1090,7 +1086,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td>1991</td>
@@ -1111,8 +1107,9 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c261f99bb79482172df7cb939557fa1d.png" alt="Cover for Tall Stories" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-06</td>
       <td>Johnny Hates Jazz</td>
@@ -1129,7 +1126,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/aHB3H8nRNcvxn5HSf73_JQ00F6Trb5UMOoBSDq-KZps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA0/NS0xNjE0NDQwNDUz/LTc3MTkuanBlZw.jpeg" alt="Cover for Get In Touch With Yourself" style="max-width:120px; height:auto;" />
       </td>
@@ -1148,7 +1145,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fe564884d6a90885da819ed1ca631ce.png" alt="Cover for Love Deluxe" style="max-width:120px; height:auto;" />
       </td>
@@ -1162,14 +1159,14 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 13</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 15</li>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 86</li>
             <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>21</td>
       <td>
       </td>
       <td>1994-10-04</td>
@@ -1210,7 +1207,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/6SjqEY5yKKefWAFE5VUr3ChJgBJBroDF3r8QoSQ9jPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNjA5/OTEtMTM5MTQ2MjQ3/OC0zMTg5LmpwZWc.jpeg" alt="Cover for The Philosopher Kings" style="max-width:120px; height:auto;" />
       </td>
@@ -1269,7 +1266,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>13</td>
       <td>
       </td>
       <td>2000-10-24</td>
@@ -1293,7 +1290,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/508fc788b188fafdf71ef1da9f10a48f.png" alt="Cover for Lovers Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -1326,31 +1323,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 20</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2004-03-15</td>
-      <td>Joe Jackson</td>
-      <td>Afterlife</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1391,7 +1364,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/b2vLrAdxLJ41ZFB3vWhVHKsoMv-qAygKAywyHaMo8g0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDY4/NTctMTM2NDA1OTM3/OC0zODAwLmpwZWc.jpeg" alt="Cover for Castles" style="max-width:120px; height:auto;" />
       </td>
@@ -1414,7 +1387,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/8gMduwQpz5oQw2LKBrrBlrdDLbq4fdp8isqqFt9K7j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzAw/OTk1LTE1NTE2NjQz/MDEtNTE4OC5qcGVn.jpeg" alt="Cover for Yume" style="max-width:120px; height:auto;" />
       </td>
@@ -1428,7 +1401,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 96</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1465,13 +1438,14 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 15</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da2905ef7a8eea5ee0bc278df9c48dc2.png" alt="Cover for Kaputt" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-25</td>
       <td>Destroyer</td>
@@ -1487,7 +1461,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/9h3Jv5VI-44f09f1hhS6abkC-IkjeNbu525Q_w_xaE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDIz/MzgzLTE1OTEzMDI0/OTItNTgzOC5qcGVn.jpeg" alt="Cover for Alma Gemela" style="max-width:120px; height:auto;" />
       </td>
@@ -1540,7 +1514,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 60</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 65</li>
             <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 95</li>
         </ul>
       </td>
@@ -1599,14 +1573,15 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 73</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 4</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/MMcaXQpJUYjcal6DkueLSobq69jdG5iAWfdz10gQwoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTEw/MjYtMTQ0NTk1Nzg0/My02Nzg0LmpwZWc.jpeg" alt="Cover for Headroom" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e059bd7e4c48db1293cbfb95a2e3f630.png" alt="Cover for Headroom" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-06-30</td>
       <td>Men I Trust</td>
@@ -1621,13 +1596,13 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 26</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 33</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ebd34c5da6fe5a7aa1605a36236ccee.png" alt="Cover for MYST3RY" style="max-width:120px; height:auto;" />
       </td>
@@ -1640,7 +1615,6 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1675,19 +1649,14 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 48</li>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 52</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 91</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1724,7 +1693,6 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 93</li>
             <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 98</li>
         </ul>
       </td>
@@ -1746,16 +1714,16 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 63</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 63</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 67</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 68</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 68</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/8sFJilULJfLLRLA2eLoQZ81MF3FoZ26RiV1Wwoy97nw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU1/MTI1LTE1NTY0ODQ3/NjMtNjQ4NS5qcGVn.jpeg" alt="Cover for Night Pass" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/85e01d8fb7d3bff8104a195d3f2c55fd.png" alt="Cover for Night Pass" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-26</td>
       <td>Pure Bathing Culture</td>
@@ -1775,7 +1743,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/UIwXbecpCh1GJn9WcPnkC7GAily6Q_JR1t-9BFek5XA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY2/OTk1LTE1NzYyNTM5/MzAtMTg4MC5qcGVn.jpeg" alt="Cover for Taking My Time To Be" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/724c57b3a6cb1f894ea71afdc056a5ff.png" alt="Cover for Taking My Time To Be" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-27</td>
       <td>Strawberry Guy</td>
@@ -1790,7 +1758,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 79</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 84</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 89</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 98</li>
         </ul>
@@ -1799,7 +1767,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/gAZzpmPd9zCX7rzm5j1PMJfxbTgUZSPtnsWTjvqYitw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTU4/MzE4LTE1Njg5MjEy/NjktNDg4Ni5qcGVn.jpeg" alt="Cover for Oncle Jazz" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4c84efa4965da3dc4c1a40c40afe389.png" alt="Cover for Oncle Jazz" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-04</td>
       <td>Men I Trust</td>
@@ -1811,12 +1779,12 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 57</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/yitOlBSUatiSaFed9n-ajdfeaRTWpdHRVntlpc3c3Fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDAy/NTU1LTE2MDE2ODI1/NjEtNjk3Mi5qcGVn.jpeg" alt="Cover for Philadelphia" style="max-width:120px; height:auto;" />
       </td>
@@ -1833,9 +1801,9 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
-          <img src="https://i.discogs.com/lgn0jbtd9RnizvONJXGjfq632O6MxQ9zJJ4UTpVSx6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTgz/NDA0LTE2MTM5NTQ1/ODgtMTU1Mi5qcGVn.jpeg" alt="Cover for Ignorance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/33cb0c056e2d7a7fb2d58d2dcd7c7ed5.png" alt="Cover for Ignorance" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-02-05</td>
       <td>The Weather Station</td>
@@ -1852,7 +1820,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/ndNTojOVXFBosETwp3Fmb7aI4ujVHmvNXOnEDyFg5dE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjU0/NDI3LTE2ODYxMTgy/NDAtMTcxMy5qcGVn.jpeg" alt="Cover for Fresh Pepper" style="max-width:120px; height:auto;" />
       </td>
@@ -1870,9 +1838,9 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/pq3x0w5eRACljeVFmVOLKWslXVDnJHlBbPImHQCda8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQy/NTUzLTE2ODgxNzUw/NjUtMzIyOC5qcGVn.jpeg" alt="Cover for Bitter Reflection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ce9f692e43b355cbf19842a5a2092df.png" alt="Cover for Bitter Reflection" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-06-30</td>
       <td>Body of Light</td>
@@ -1892,7 +1860,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       <td>
         <ul>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 43</li>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 51</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 55</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 71</li>
         </ul>
       </td>
@@ -1900,7 +1868,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/JnqCKHUg3b2P3ME_iC_rxxnO9vrGyK_wQBcXbiHaceY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzA4/NTcxLTE2OTUwNzgw/ODAtNzA5NC5qcGVn.jpeg" alt="Cover for World of Hassle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dff7a9cbe0c4bb4d3354708dad475e69.png" alt="Cover for World of Hassle" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-09-15</td>
       <td>Alan Palomo</td>
@@ -1915,7 +1883,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 52</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 54</li>
             <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 54</li>
         </ul>
       </td>
@@ -1939,22 +1907,39 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 35</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 37</li>
             <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 45</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 59</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 62</li>
             <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 93</li>
             <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8426b73dfa94c1b234379ff3a05124f.png" alt="Cover for Good People" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-11-03</td>
       <td>Majid Jordan</td>
       <td>Good People</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bb223c47d37d3ec76eddbfc7cb87b1a.png" alt="Cover for Two Star &amp; The Dream Police" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-02-09</td>
+      <td>Mk.gee</td>
+      <td>Two Star &amp; The Dream Police</td>
       <td>
         <ul>
         </ul>
@@ -2021,7 +2006,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9976fc2675cb4e40cefc393419cbbbae.png" alt="Cover for Leve" style="max-width:120px; height:auto;" />
       </td>
@@ -2037,7 +2022,7 @@ Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 84</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 85</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 87</li>
         </ul>
       </td>
