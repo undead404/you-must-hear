@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T10:14:40.337Z
+date: 2025-11-13T03:16:56.672Z
 permalink: tags/hollywood
 title: hollywood
 ---
 
 ## hollywood
 
-Last updated: <time datetime="2025-10-22T10:14:40.337Z">Wed Oct 22 2025 13:14:40 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-13T03:16:56.672Z">Thu Nov 13 2025 05:16:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -166,24 +166,6 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/Pi1lEplBe8pg3KCeMTxLxE0r7GxxfYtLUnEMxN55gb0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTgy/NTktMTI5MDU1Njg0/Ny5qcGVn.jpeg" alt="Cover for Hairspray: Soundtrack To The Motion Picture" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1982</td>
-      <td>Soundtrack</td>
-      <td>Hairspray: Soundtrack To The Motion Picture</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>21</td>
       <td>
       </td>
@@ -197,7 +179,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 13</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 18</li>
             <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 100</li>
         </ul>
       </td>
@@ -238,7 +220,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 79</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -288,6 +270,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 3</li>
             <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 26</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 46</li>
         </ul>
@@ -338,6 +321,25 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
     </tr>
     <tr>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b83d06cb9af74791e12747bf2e5790ce.png" alt="Cover for Ribbed" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991-02-13</td>
+      <td>NOFX</td>
+      <td>Ribbed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>64</td>
       <td>
           <img src="https://i.discogs.com/Yg_1EPw1YPT7BKQ_Ru-NY_BmbyPWi8418c4K9Lne-1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTYz/OTAtMTQwNjI0MDA0/Mi0yMDUzLmpwZWc.jpeg" alt="Cover for Big Bang Babies" style="max-width:120px; height:auto;" />
@@ -360,7 +362,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/W3uoFfn2FDVQ5Ji8HNB_GPxzOaOJD200bmq0gJ5AIuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTQw/OTEtMTM5NzUwMDg1/OC00MDU3LmpwZWc.jpeg" alt="Cover for Melody Madness" style="max-width:120px; height:auto;" />
       </td>
@@ -378,7 +380,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 6</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -401,7 +403,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 50</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -484,7 +486,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 42</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -633,13 +635,14 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 2</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 79</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e29a591c4d6bf1e364faa82d5f984cef.png" alt="Cover for Early Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -680,7 +683,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 33</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -746,7 +749,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 4</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 6</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 32</li>
             <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 68</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 82</li>
@@ -794,7 +797,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 5</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 7</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 35</li>
             <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 69</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 83</li>
@@ -862,7 +865,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/8wws31tAr-uZDeUrTF1E-z-tsDngstw5_SL0ifPkH9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzQ5/MzQtMTI2MjU0OTI3/MS5qcGVn.jpeg" alt="Cover for Kamikazeherz" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/146f751a56e04674a19b7e2b7538feac.png" alt="Cover for Kamikazeherz" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-04-22</td>
       <td>Bosse</td>
@@ -883,6 +886,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf1aa1db1df54dfe850ef2656857e941.png" alt="Cover for die art sich zu täuschen" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07-27</td>
       <td>Mitsnakker</td>
@@ -958,6 +962,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6af03bd2d3674536a37a83eff330b837.png" alt="Cover for Crowd Rock" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-29</td>
       <td>Mitsnakker</td>
@@ -978,7 +983,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 39</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 38</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 75</li>
         </ul>
       </td>
@@ -1003,7 +1008,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/6kvF1uCkC2YKHqWnMR-qF2fc4DBae4y2wS3aOLSyAwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk0/NjE3LTE1MzQ2Mzc1/ODItNjM2Mi5qcGVn.jpeg" alt="Cover for Ze Best - Doris Day" style="max-width:120px; height:auto;" />
       </td>
@@ -1043,6 +1048,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da4a422b2d954717a50e89a503a79368.png" alt="Cover for B.A.R.T." style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-30</td>
       <td>Mitsnakker</td>
@@ -1073,9 +1079,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/dHRA_QUD_nBvfp0ZWMjHB27RrW1EaTrf1iapsvZ9jtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mzk3/MjktMTQwNjg2NDYy/MC0zOTg4LmpwZWc.jpeg" alt="Cover for G8-Sampler" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>JetPilot</td>
@@ -1134,7 +1139,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 30</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 29</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 38</li>
         </ul>
       </td>
@@ -1241,7 +1246,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 21</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1262,7 +1267,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 53</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1287,7 +1292,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/9Zy0yeBrZO-v95wRziwow6qxr5iPynYo23TaRO_WrxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzA5/MDEtMTY3MTgxMjYw/OC03NTAzLmpwZWc.jpeg" alt="Cover for Satellite" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5805c13093806ea341d9babf2a2c770.png" alt="Cover for Satellite" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-13</td>
       <td>Lena</td>
@@ -1325,7 +1330,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 58</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 59</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 88</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 95</li>
         </ul>
@@ -1334,7 +1339,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/JUoaI--XZWRsdNL6p0tFy3dAWVq3VM1BYI83XcoWvg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODE1/MjEtMTQ0ODkxMTU1/Ni04MTcwLmpwZWc.jpeg" alt="Cover for Aggroschlager" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc31b47af54d480e857fd86375726652.png" alt="Cover for Aggroschlager" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-28</td>
       <td>NIHAO?</td>
@@ -1398,7 +1403,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 41</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 40</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 74</li>
         </ul>
       </td>
@@ -1424,7 +1429,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       <td>
         <ul>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 1</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 19</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 21</li>
             <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 25</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 85</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 93</li>
@@ -1434,6 +1439,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b34b69698829424ab49c8a864fca7da5.png" alt="Cover for Die new balance" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-14</td>
       <td>MILZ</td>
@@ -1472,7 +1478,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/qzIOQHFxnydz4x3wQoWbUOK7LXKKYGPy3ToXveaiEWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzgy/MTMtMTM4NTUyMTIz/Ny02MTU2LmpwZWc.jpeg" alt="Cover for Distance EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96cf96ed5d0c410d8a242346b108bb69.png" alt="Cover for Distance EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-19</td>
       <td>Aparde</td>
@@ -1568,6 +1574,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1be6514606a4b1a965575db430b6145.png" alt="Cover for Wie Indianer leben" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>SchmmOOs</td>
@@ -1634,7 +1641,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/oeHgezxkXC7RWRGd5ZKGZPoSjzp8MjJJMNK0yRUsplU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDUx/NzctMTM2NDAyOTgx/OC03NjYzLmpwZWc.jpeg" alt="Cover for Rock &#39;n Roll Freak Show" style="max-width:120px; height:auto;" />
       </td>
@@ -1681,13 +1688,13 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 8</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 10</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cf6a70936bb4cdfafc8312513989124.png" alt="Cover for Tausend Wirre Worte - Lieblingslieder 2002-2010 (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1728,8 +1735,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
         <ul>
             <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 16</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 22</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 37</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 57</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 39</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 58</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 89</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 92</li>
         </ul>
@@ -1772,7 +1779,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/OC7A8b_5WmUxEUzY32hg7b0HUs6Ix1mgQxOAI2GyRS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTI1/MjYtMTMxMTY4MjQw/Ni5qcGVn.jpeg" alt="Cover for Weightless" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa66eae8a32e4032a3f9ac09c1ef2bd8.png" alt="Cover for Weightless" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-22</td>
       <td>Laserkraft 3D</td>
@@ -1821,7 +1828,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       <td>
         <ul>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 41</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 42</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 43</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 64</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 66</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 97</li>
@@ -1851,7 +1858,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/V0M_34Gmqnxm39c6H01XhBrhBRmIjavqaMH1um1hYIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDY5/MTctMTQxNzAxNjQ2/NC00MzAzLmpwZWc.jpeg" alt="Cover for Neongrün" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9811403c5937490badb0a90df4f33b84.png" alt="Cover for Neongrün" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-11</td>
       <td>Tristan</td>
@@ -1879,7 +1886,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 37</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 36</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 80</li>
         </ul>
       </td>
@@ -1963,14 +1970,15 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 41</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 1</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/uKrAQlziZQUexLqnJpe159s2-1MAgfE6hM6oJPaxsw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTk1/NTAtMTMzNzg3NTQ2/MC0zMjgzLmpwZWc.jpeg" alt="Cover for werbistich" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea09923971fb4882baf019fe064b63f3.png" alt="Cover for werbistich" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Shaban &amp; Käptn Peng</td>
@@ -1998,7 +2006,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/Fn_HhnXHvYwW9C-VrIKjHGh_80JwspQB9PPh17f_ZKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTY5/MC0xNjI0MDkwODI2/LTI2NDkuanBlZw.jpeg" alt="Cover for I Heard They Suck Live!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ff14d036ab340fbb7ced513bec5057c.png" alt="Cover for I Heard They Suck Live!" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>NOFX</td>
@@ -2020,7 +2028,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/IzKvAhDhVnyEkACIyjHTWvwLy7YEYwoKrpkv3GB_6Ko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY5/MDE4LTE1MDAwNjUz/ODItOTE3MS5qcGVn.jpeg" alt="Cover for Dolls With Balls" style="max-width:120px; height:auto;" />
       </td>
@@ -2189,8 +2197,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 26</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 60</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 29</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 61</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 68</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 79</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 84</li>
@@ -2227,24 +2235,6 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/KTBNGBK4d2nccDjDYF_erDH7d-IAtmKpce5Txzs7V4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTA4/MTkwLTE2MDM1NTk2/MjEtMTQ2NS5qcGVn.jpeg" alt="Cover for LIVE DEMO&#39;S 1991" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017</td>
-      <td>Touch Me Hooker</td>
-      <td>LIVE DEMO&#39;S 1991</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a></li>
         </ul>
       </td>
       <td>
@@ -2311,6 +2301,24 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
     </tr>
     <tr>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db408206b5c30e973bbfddc18b40bcca.png" alt="Cover for Age of Unreason" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-05-03</td>
+      <td>Bad Religion</td>
+      <td>Age of Unreason</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>57</td>
       <td>
           <img src="https://i.discogs.com/ZEf02zi5H3FDMFc0JIIkT8RHvFPKQq6XJblW_0PQJlE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MjU3/MjMtMTQyMTI0NTYx/MC0yODIwLmpwZWc.jpeg" alt="Cover for A Little Too Hot For Hell" style="max-width:120px; height:auto;" />
@@ -2372,7 +2380,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/6e6emYXLjEfUvTHQKnHHgif9Gt0tZainWJzVYNNfyVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA3/NTk4LTE1OTYzNTM0/ODMtMzMwOS5qcGVn.jpeg" alt="Cover for EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fc8d76cfb2f4bf184cb3efa10d18583.png" alt="Cover for EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-08-24</td>
       <td>Les Bummms Boys</td>
@@ -2407,7 +2415,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 38</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 37</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 52</li>
         </ul>
       </td>
@@ -2496,7 +2504,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/YGhtNl-02ZXQ85o1CN4oIfY-FkJfx5DxTce8qr_DYgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzA5/NDA1LTE2OTQ5NzA0/ODktODI5MS5qcGVn.jpeg" alt="Cover for Head Out" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4e8fce36c7745ed8a58d56b6fe510a8.png" alt="Cover for Head Out" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>NORA&amp;LEO</td>
@@ -2559,7 +2567,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -2636,13 +2644,14 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 26</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ad5706118834424abd7845fc606ad86.png" alt="Cover for Kaffee, Bier und Schokoküsse" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Xarecrows</td>
@@ -2782,7 +2791,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -2876,6 +2885,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c67034ce519f45068d0cb53f8b7dcaec.png" alt="Cover for The Devils&#39; Kiss" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Dub the magic Dragon</td>

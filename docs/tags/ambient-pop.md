@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:06:37.352Z
+date: 2025-11-12T23:17:32.646Z
 permalink: tags/ambient-pop
 title: ambient pop
 ---
 
 ## ambient pop
 
-Last updated: <time datetime="2025-11-11T04:06:37.352Z">Tue Nov 11 2025 06:06:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-12T23:17:32.646Z">Thu Nov 13 2025 01:17:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
   </thead>
   <tbody>
     <tr>
-      <td>68</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/327ba6cb108e337dad8015276fecf4b9.png" alt="Cover for Another Green World (2004 remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -45,12 +45,12 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 22</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/05285e80c423dafb8a052290c676f629.png" alt="Cover for Hounds of Love (2018 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -65,38 +65,13 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 72</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 74</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
-      <td>
-          <img src="https://i.discogs.com/IkyP5KuAOjNBg78XOHRpwEaBfgqW3e8WDuKjVSypARg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDEw/Ny0xNDQzNjU0NDAy/LTg1NTYuanBlZw.jpeg" alt="Cover for It&#39;ll End in Tears (remastered)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1986</td>
-      <td>This Mortal Coil</td>
-      <td>It&#39;ll End in Tears (remastered)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 30</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 58</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 85</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
+      <td>79</td>
       <td>
       </td>
       <td>1986</td>
@@ -118,7 +93,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc6de0aa4bcd4b7e647f300d6a44ddd6.png" alt="Cover for There&#39;s A Riot Going On" style="max-width:120px; height:auto;" />
       </td>
@@ -136,7 +111,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0936e2783a28eb40a1740ef2836ddedf.png" alt="Cover for It&#39;s Cosy Inside (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -164,7 +139,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>75</td>
       <td>
       </td>
       <td>1989-09-12</td>
@@ -177,13 +152,38 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 10</li>
             <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 19</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>3</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>Woo</td>
+      <td>Into the Heart Of Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 27</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 37</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/MQQm2zFGJ7sYRKLTUulzNLVir7tsUQPIGStyMvMV1ws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzI0/LTEyMzIzMjI3NTUu/anBlZw.jpeg" alt="Cover for Oral" style="max-width:120px; height:auto;" />
       </td>
@@ -199,15 +199,15 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 19</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 76</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 23</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/2uH86tksG4QQGEtGP3BJx2SxMivVh4eL30wm-X5ZVvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI3/MzY2LTE1MzcwMTc2/NTUtMjg2Ni5qcGVn.jpeg" alt="Cover for 宇宙 日本 世田谷" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f501738df0e401546b0d1380a3bc55d1.png" alt="Cover for 宇宙 日本 世田谷" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-10-21</td>
       <td>Fishmans</td>
@@ -223,9 +223,9 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/oaGZxEAWHqAfxA6-TgK6H6s4vKFQHLSxWXg0gPa1voY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTc5/My0xMjY0NTMxMzgy/LmpwZWc.jpeg" alt="Cover for Pygmalion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17ebb43f28ab48318e2937bd8915f96c.png" alt="Cover for Pygmalion" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-02-06</td>
       <td>Slowdive</td>
@@ -239,36 +239,14 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 37</li>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 69</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 82</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 54</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 72</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bdce8a547e0003901a829ebce43183c.png" alt="Cover for Long Season" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996-10-25</td>
-      <td>Fishmans</td>
-      <td>Long Season</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 9</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 47</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 70</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a9305f1332f36348aa298f8f9c44ac0.png" alt="Cover for Sounds Of The Satellites" style="max-width:120px; height:auto;" />
       </td>
@@ -288,31 +266,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>64</td>
-      <td>
-      </td>
-      <td>1997-06-09</td>
-      <td>Broadcast</td>
-      <td>Work and Non Work</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 2</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 46</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 62</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 76</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 88</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b81a00734a2f70b34acde16c61fdfa71.png" alt="Cover for Dots and Loops" style="max-width:120px; height:auto;" />
       </td>
@@ -328,10 +282,10 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 21</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 24</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 24</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 26</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 28</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 48</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 53</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 64</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 87</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 95</li>
@@ -340,9 +294,9 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/4qhov_w-5KPPyltZvGFHexMiMLMy4K-oPwDoYWhjPH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzI2/NDg2LTE2ODk4MTg0/MTItNzkyOC5qcGVn.jpeg" alt="Cover for HAPPY" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e06ee7ca59298cbce1fdf084aa7b1ab.png" alt="Cover for HAPPY" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-01-01</td>
       <td>Sugar Plant</td>
@@ -358,14 +312,15 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 1</li>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 86</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 6</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f904d5dd67e7f7b83a296f98f30aea15.png" alt="Cover for Flux" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-08-11</td>
       <td>Love Spirals Downwards</td>
@@ -385,7 +340,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31d8d529fa6443f1b7568929757ea327.png" alt="Cover for Yesterday Was Dramatic – Today Is OK" style="max-width:120px; height:auto;" />
       </td>
@@ -407,12 +362,12 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
         <ul>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 7</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 40</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 59</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/356c68b6adc4c2c417269d5efdd82fd6.png" alt="Cover for The Noise Made by People" style="max-width:120px; height:auto;" />
       </td>
@@ -421,22 +376,40 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       <td>The Noise Made by People</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 1</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 53</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 73</li>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 74</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 76</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 75</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>6</td>
+      <td>
+      </td>
+      <td>2002-11-04</td>
+      <td>The White Birch</td>
+      <td>Star Is Just A Sun</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/nwq-I87RyK4BN9b-rOVB_ExtpVSd_wJrY9x6XuL3c-A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTY2/Ny0xMTc4NDE3NDA2/LmpwZWc.jpeg" alt="Cover for Velocity: design: comfort." style="max-width:120px; height:auto;" />
       </td>
@@ -453,16 +426,18 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 50</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 3</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 6</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 52</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 69</li>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 70</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 73</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 82</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/557206dfd047454bc56902558bb9c0a3.png" alt="Cover for Haha Sound" style="max-width:120px; height:auto;" />
       </td>
@@ -471,8 +446,6 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       <td>Haha Sound</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 52 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
         </ul>
       </td>
       <td>
@@ -481,7 +454,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3a29a0d27573d346da8b453049eb3a3.png" alt="Cover for Brilliant Trees (Remastered 2003)" style="max-width:120px; height:auto;" />
       </td>
@@ -502,7 +475,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/efc743587d27c3497d5807f709efb701.png" alt="Cover for The Power Out" style="max-width:120px; height:auto;" />
       </td>
@@ -520,7 +493,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af8d7d01ac924736c7e10ff3977607ef.png" alt="Cover for Unsolved Remained" style="max-width:120px; height:auto;" />
       </td>
@@ -538,7 +511,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e590e8f326426606396f68f2d31eaf02.png" alt="Cover for Tender Buttons" style="max-width:120px; height:auto;" />
       </td>
@@ -556,13 +529,13 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 43</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 44</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 47</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 53</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 48</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 54</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 54</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 60</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 61</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 64</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 88</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 66</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -588,37 +561,15 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       <td>
         <ul>
             <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 28</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 29</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 77</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 49</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>68</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e01682739bfd499b9f186d34ca61be33.png" alt="Cover for Fall Be Kind" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-11-23</td>
-      <td>Animal Collective</td>
-      <td>Fall Be Kind</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 20</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 50</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 79</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
-      <td>
-          <img src="https://i.discogs.com/h7Cf8ObcKQd2gU5HTXEQunqkqpAe6NYAkU2ZQgqp5Rs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQ0/MzQtMTMxNDQ5NjM2/MS5qcGVn.jpeg" alt="Cover for Water People 7&quot;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6ee669329514ba483e76f7077447944.png" alt="Cover for Water People 7&quot;" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08</td>
       <td>Grouper</td>
@@ -632,12 +583,12 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 46</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2eb14f69f468cdb79adbe8c48d5e1967.png" alt="Cover for The 5 EPs" style="max-width:120px; height:auto;" />
       </td>
@@ -655,7 +606,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/26cb585303740c77b81fd990a3973bde.png" alt="Cover for 50 Words for Snow" style="max-width:120px; height:auto;" />
       </td>
@@ -670,12 +621,12 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 16</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/CNvE3T1uP2B0r46VCVjhwPoM0Z5-5wSz9brEO9smgcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjk3/ODgtMTMzNzYyNzQ4/MS0zMTM4LmpwZWc.jpeg" alt="Cover for Her Revolution &#x2F; His Rope" style="max-width:120px; height:auto;" />
       </td>
@@ -698,25 +649,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>32</td>
-      <td>
-      </td>
-      <td>2012-03-05</td>
-      <td>Julia Holter</td>
-      <td>Ekstasis</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 27</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ebf500e7934e3af1d1a273ab857ed7f.png" alt="Cover for Narrowing Type" style="max-width:120px; height:auto;" />
       </td>
@@ -730,12 +663,12 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 39</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c07e216742143ad92ca86e4d6c7831f.png" alt="Cover for Quarantine" style="max-width:120px; height:auto;" />
       </td>
@@ -754,8 +687,9 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/914d01cc90547d6f80b9fa67f0912e9b.png" alt="Cover for Deconstructed" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12</td>
       <td>Ke$ha</td>
@@ -771,7 +705,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>73</td>
       <td>
       </td>
       <td>2013-03-05</td>
@@ -785,13 +719,14 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 31</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6988e93906c42939d0892061944f6bd.png" alt="Cover for Loud City Song" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-19</td>
       <td>Julia Holter</td>
@@ -803,18 +738,18 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 6</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 7</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 7</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 11</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 30</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 59</li>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 66</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/ZyH2l9WgO2NvVovG02NTNxIH-7b0D5Lt9W1A_Rx2Qhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjk2/NjctMTQzMzAwMTc2/NC0zNDgyLmpwZWc.jpeg" alt="Cover for a year in your garden" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b130c60adfa4ecdce82f0f9dbad9341.png" alt="Cover for a year in your garden" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-20</td>
       <td>column</td>
@@ -830,13 +765,14 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 28</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 44</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 2</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 32</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7be747d414943fdc3f4de682eac3c7c.png" alt="Cover for Ghost Stories" style="max-width:120px; height:auto;" />
       </td>
@@ -851,13 +787,13 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 62</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 69</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 65</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b755560c8cbb8d80afa16a40f985bae.png" alt="Cover for Leaving" style="max-width:120px; height:auto;" />
       </td>
@@ -873,12 +809,12 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 6</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/heRucRMvtwUjbcTg0GU3oJFZlnLHMvZqdlEUQ0c1694/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTE0/MDk0LTE2MDQ1Njk1/ODAtNzQ3NS5qcGVn.jpeg" alt="Cover for God Turn Me Into A Flower" style="max-width:120px; height:auto;" />
       </td>
@@ -895,14 +831,14 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 75</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/beqRVD3SuEAhJHCWXq41Ii2kUIiba1u2VJNtun1eB1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTQ1/OTgtMTQ2OTM2NzM4/My04NDM1LmpwZWc.jpeg" alt="Cover for Have You In My Wilderness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7217fa1319c242872b6148740b26bcc.png" alt="Cover for Have You In My Wilderness" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-09-25</td>
       <td>Julia Holter</td>
@@ -915,15 +851,15 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 23</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 31</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 24</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 34</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 39</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 77</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/82c92f044b27db86328ed6be3f8a735a.png" alt="Cover for Blonde" style="max-width:120px; height:auto;" />
       </td>
@@ -938,13 +874,13 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
         <ul>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 68</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 76</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 76</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 98</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 77</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b34f6f1b339e9857fb276c318cb8b05.png" alt="Cover for All My Demons Greeting Me As A Friend (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -953,33 +889,28 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       <td>All My Demons Greeting Me As A Friend (Deluxe)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 35</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 49</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 3</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 38</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 61</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 68</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 69</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 81</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 72</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 76</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 81</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 81</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 84</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 87</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 87</li>
@@ -992,7 +923,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59f62838ab79d851b92fcda9cf327334.png" alt="Cover for All My Demons Greeting Me As A Friend - Deluxe" style="max-width:120px; height:auto;" />
       </td>
@@ -1020,9 +951,9 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/dl9RJTx0byNiOtpXtFwx1nCzwesjh4905SYDjq-9P3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTM2/MTAtMTQ2MDgzMjYw/NS00NjY5LmpwZWc.jpeg" alt="Cover for SLEEP CYCLE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81019b78032702024d4b0a4f82a38205.png" alt="Cover for SLEEP CYCLE" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-06</td>
       <td>Deakin</td>
@@ -1035,12 +966,12 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 29</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6814d354a17712cc3917126f1c01d3d.png" alt="Cover for Aquilo" style="max-width:120px; height:auto;" />
       </td>
@@ -1056,12 +987,12 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 13</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eff0f00127ea4ed924cc93e2d8ef2ca7.png" alt="Cover for Tiger" style="max-width:120px; height:auto;" />
       </td>
@@ -1080,7 +1011,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ced52d83eb0a172a5b61d7a4b2ffa4a.png" alt="Cover for カミイロアワセ" style="max-width:120px; height:auto;" />
       </td>
@@ -1106,7 +1037,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eaf383f66732ea6907c5ffd524296883.png" alt="Cover for Endless" style="max-width:120px; height:auto;" />
       </td>
@@ -1123,7 +1054,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31047ef810e1bf6fed2ebac16d5a6190.png" alt="Cover for Sirens" style="max-width:120px; height:auto;" />
       </td>
@@ -1142,22 +1073,20 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/e1V7hGm3jvgrwC2HseounBQm8AVByD7_8XXmOdgZMcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Mzk2/NTktMTYyOTQwNDA1/OS05MzM5LmpwZWc.jpeg" alt="Cover for Paradise Valley" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1902782a126dc58bc79a17022dde5455.png" alt="Cover for Paradise Valley" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-12-21</td>
       <td>Grouper</td>
       <td>Paradise Valley</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 44</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 92</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1180,15 +1109,15 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 63</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 70</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 71</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 88</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d186f45b92613d4d719b5472d57e56d.png" alt="Cover for Silver Eye" style="max-width:120px; height:auto;" />
       </td>
@@ -1211,7 +1140,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/14QXmOVTi9gis4oG8vhe7g09riIN-lgh_QwarkMM8w8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzU2/NTA4LTE0OTU5MDc1/NzItNzk2MS5qcGVn.jpeg" alt="Cover for Cigarettes After Sex" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d53d7e6aad2f08c464e301d3bab6e96.png" alt="Cover for Cigarettes After Sex" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-09</td>
       <td>Cigarettes After Sex</td>
@@ -1224,14 +1153,14 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 71</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 74</li>
             <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 97</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/arPPG7xPJb0UdFTSmVvmp9KmEeYgLxUX6PTvyjGnrAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODM0/NjU0LTE1MTA1MDc3/MTEtODgyMi5qcGVn.jpeg" alt="Cover for Chemistry and Math" style="max-width:120px; height:auto;" />
       </td>
@@ -1254,7 +1183,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/8mvOpclboCygGhhOZdiT-rrfUYJUoP7E8GKkSYmNTo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTIz/ODYyLTE1MTAyOTMw/OTgtMTUyNy5qcGVn.jpeg" alt="Cover for Stranger" style="max-width:120px; height:auto;" />
       </td>
@@ -1268,13 +1197,14 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 4</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 43</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/Ntmg_FK5SbI41g-GMq8-eJr3y6PyxXcMDFEIoVbqmlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMw/NDQ4LTE1MTc5NzI3/NTMtMzk4NS5qcGVn.jpeg" alt="Cover for Into One Name" style="max-width:120px; height:auto;" />
       </td>
@@ -1292,7 +1222,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/hEf5grsOt5zMAkHVdQaXStb_vVGvNg7PgdO3RJ6la6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTA2/MDgwLTE1NjM3NzEy/OTUtOTkzNS5qcGVn.jpeg" alt="Cover for Exile" style="max-width:120px; height:auto;" />
       </td>
@@ -1312,7 +1242,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9818068aa984a27da4c1989beb10a7d1.png" alt="Cover for Akustik Travma" style="max-width:120px; height:auto;" />
       </td>
@@ -1334,7 +1264,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/4HHMHHPtdKmxO3TzAdwUWZ9JlBXm30eTuMUTDvH_LUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA3/MzE0LTE1NTk0NDg3/OTQtMTgyNC5qcGVn.jpeg" alt="Cover for AAA Powerline" style="max-width:120px; height:auto;" />
       </td>
@@ -1355,9 +1285,30 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/UdrSoWvCpceXVyaUx7eEM9bxzMRUQBlsrX5bminJQUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDcz/MDg2LTE1Mjc5NDE5/NzYtNzg5NS5qcGVn.jpeg" alt="Cover for Noonday Dream" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd13f59b245fa579e61406fb65f585d1.png" alt="Cover for Red Light" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-05-11</td>
+      <td>Bladee</td>
+      <td>Red Light</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 41</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f9f56b4f61a54d637d0f0396c4ea117.png" alt="Cover for Noonday Dream" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-01</td>
       <td>Ben Howard</td>
@@ -1375,7 +1326,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/SRhVb64wasv70Lm8CXvrRRFNhDZ915sUv0L_eO4m_QI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA3/MTUzLTE1MzY2MzUz/MjMtODIzMS5qcGVn.jpeg" alt="Cover for Sunset in Silver City" style="max-width:120px; height:auto;" />
       </td>
@@ -1397,9 +1348,9 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>63</td>
       <td>
-          <img src="https://i.discogs.com/6SpBBmXo61pCtDhLP8Wbh9eSdIovTSZMks3C2u0FcPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA4/NzY2LTE1MzcxNTE0/MDUtMjkwMS5qcGVn.jpeg" alt="Cover for Double Negative" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b4d504c19202fe437d085ddaf6708d3.png" alt="Cover for Double Negative" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-14</td>
       <td>Low</td>
@@ -1414,7 +1365,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       <td>
         <ul>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 56</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 60</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 62</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 62</li>
             <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 90</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 94</li>
@@ -1422,7 +1373,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/R1f7OMxUF7IUmEWTgR1yUuXdfj6hdLRjYTRpMMwMm2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA3/OTIyLTE1NDA0Njg4/NDAtNzI1MS5qcGVn.jpeg" alt="Cover for Aviary" style="max-width:120px; height:auto;" />
       </td>
@@ -1436,13 +1387,35 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 19</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 24</li>
             <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42bb189b67423ff54477aa6fb1be5224.png" alt="Cover for Camera" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-11-02</td>
+      <td>Chromatics</td>
+      <td>Camera</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/Ji0WxGFDaigTh9w41aB9Cy4jmWsWgCx3m-8DELBN2UU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzE1/MTI1LTE1NzIwNjYx/MjktMjgxOC5qcGVn.jpeg" alt="Cover for Serotonin II" style="max-width:120px; height:auto;" />
       </td>
@@ -1460,8 +1433,8 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 10</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 81</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 30</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 83</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 91</li>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 94</li>
         </ul>
@@ -1470,7 +1443,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/jOQDlp0DCyDEgpcN3HfcbpxmS85EMSXc9wBVo_msVkA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjAz/MjE2LTE2NjYyMTE3/NzYtODk0NS5qcGVn.jpeg" alt="Cover for Cry" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f3eebc25ed0d0560adeb5c4d40007f9.png" alt="Cover for Cry" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Cigarettes After Sex</td>
@@ -1486,7 +1459,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/26-hmncaPIliR2T3YWaFUC3aQONSK0S6M-FhwQATGjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTg5/NDk3LTE1NTA1MDM1/NzItOTQxNy5qcGVn.jpeg" alt="Cover for All" style="max-width:120px; height:auto;" />
       </td>
@@ -1505,7 +1478,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/PLPyGkVBrC8q7AVOxDnPS9eCwL3FsbgeQ7gq3jPbY3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE0/MDcxLTE1NTY4MTU1/MzItNDg0My5qcGVn.jpeg" alt="Cover for when we all fall asleep, where do we go?" style="max-width:120px; height:auto;" />
       </td>
@@ -1518,16 +1491,17 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 45</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 3</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 50</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 74</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 75</li>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 77</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 94</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2da4833340c7563d1f06ed19c0661748.png" alt="Cover for Pang" style="max-width:120px; height:auto;" />
       </td>
@@ -1541,14 +1515,14 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 34</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 38</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 72</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 85</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/93ighOqO3wZsyeH8bx8-XvNxXeH0NNH_oLRV3cpt9Ak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUz/NjQxLTE1NzI4MDkz/NTktOTI3Ny5qcGVn.jpeg" alt="Cover for magdalene" style="max-width:120px; height:auto;" />
       </td>
@@ -1562,14 +1536,39 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 51</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 1</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 52</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 79</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 90</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82d3aea9b646a042225121a35432ecb6.png" alt="Cover for Über Nacht" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-01-24</td>
+      <td>Oehl</td>
+      <td>Über Nacht</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4583932b753c96d0d2f22fe9774e5ef3.png" alt="Cover for After Hours" style="max-width:120px; height:auto;" />
       </td>
@@ -1586,17 +1585,17 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 49</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 53</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 86</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 93</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 95</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 99</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 99</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/ZjPa-aJnHVALoINsAQZFy_vLmzI9I3Bx2vQmOXO1kdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzA3/OTEwLTE1ODk1MTE3/MjktNTg2Mi5qcGVn.jpeg" alt="Cover for Starz" style="max-width:120px; height:auto;" />
       </td>
@@ -1634,7 +1633,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 9</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 13</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 51</li>
         </ul>
       </td>
@@ -1657,12 +1656,12 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       <td>
         <ul>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 70</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 84</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/j22Bx4vF6z6INRH_D58N0ruJ-OBqLEWhnoB5Xdbs-9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjQ0/NDU2LTE1OTg2OTEx/MDctOTg4MC5qcGVn.jpeg" alt="Cover for Inner Song" style="max-width:120px; height:auto;" />
       </td>
@@ -1677,7 +1676,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 76</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 77</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 96</li>
         </ul>
       </td>
@@ -1702,7 +1701,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 78</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 80</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 91</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 93</li>
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 98</li>
@@ -1711,7 +1710,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/49baf6d837f2c70f2ec3ee89acc3b996.png" alt="Cover for Galore" style="max-width:120px; height:auto;" />
       </td>
@@ -1729,7 +1728,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/WbwubKTJg9dFY2SgCVGt8ag4XMUdS_Ox0BctpQ4QTi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIz/MTUxLTE2MjA5OTgw/MjktMjcyMC5qcGVn.jpeg" alt="Cover for SWORDS" style="max-width:120px; height:auto;" />
       </td>
@@ -1746,12 +1745,12 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
         <ul>
             <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 20</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 42</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 55</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a01246428f0d37a4bba0866c1650e5a7.png" alt="Cover for The Destroyer - 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1773,7 +1772,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 52</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 57</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 81</li>
             <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 91</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 96</li>
@@ -1781,7 +1780,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/d6bMsnc-wGhvy3-9NzjIKA6Xys6NWa9qt4FrpDtwq0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjIz/MjE3LTE2MjcyNDM2/MzAtMzU2My5qcGVn.jpeg" alt="Cover for HEY WHAT" style="max-width:120px; height:auto;" />
       </td>
@@ -1798,14 +1797,14 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       <td>
         <ul>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 12</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 14</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 73</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 17</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 75</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/780422b4606564267ae3557a26babe5f.png" alt="Cover for plague town" style="max-width:120px; height:auto;" />
       </td>
@@ -1827,14 +1826,14 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       <td>
         <ul>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 45</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 61</li>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 85</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 63</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 87</li>
             <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/I3IR2RBE3dHKMecOTKnsxsdgNwjJn7VHvtPk7C0lvD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDAx/MDcwLTE0OTY4NDMw/MjgtMTE2OS5qcGVn.jpeg" alt="Cover for Planetarium" style="max-width:120px; height:auto;" />
       </td>
@@ -1853,12 +1852,12 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 12</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/-v85HKOWR7us7HoH_mv1VMUP2TMSG0suWrfEps0-_VU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjYy/ODQxLTE2MTI0OTY2/OTktMjM5NC5qcGVn.jpeg" alt="Cover for Flowers For Vases &#x2F; Descansos" style="max-width:120px; height:auto;" />
       </td>
@@ -1879,7 +1878,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ebd8b6f8ac6766fb26303245a265a2e.png" alt="Cover for Happier Than Ever" style="max-width:120px; height:auto;" />
       </td>
@@ -1895,7 +1894,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 17</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 21</li>
             <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 33</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 53</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 99</li>
@@ -1904,7 +1903,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/LVg3fHwxozRmwF-QuBLeKvmk70nPARj_4UyUlmeltPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDQy/NzI3LTE2MzMxNTQ0/ODAtNTEyOC5qcGVn.jpeg" alt="Cover for Liminal Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -1926,7 +1925,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/97af2e81f45de7e76f7187714f26864d.png" alt="Cover for Friends That Break Your Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1941,14 +1940,14 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 38</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/k5LXHV8CJrONEwcgtIPzAbt4WUzd6vh8dY1yCWd5sPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDc3/OTY1LTE2ODUyOTY3/ODktNTE5My5wbmc.jpeg" alt="Cover for Wave Your Moonlight Hat for the Snowfall Train" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad28f5e24db639398f7c96fe4856e634.png" alt="Cover for Wave Your Moonlight Hat for the Snowfall Train" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11-19</td>
       <td>You&#39;ll Never Get to Heaven</td>
@@ -1981,13 +1980,13 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 66</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 93</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 67</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/ncsDvOuP0CJufwYOJAnmh-eNGDG707I2XiQcYqgwr0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDAx/OTExLTE2NTczNjYz/NjEtNDk1My5qcGVn.jpeg" alt="Cover for GLITCH PRINCESS" style="max-width:120px; height:auto;" />
       </td>
@@ -2004,6 +2003,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 2</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 24</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 78</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 97</li>
@@ -2011,7 +2011,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98eb02fc3c8d57bc88bad903227042e6.png" alt="Cover for Stardust" style="max-width:120px; height:auto;" />
       </td>
@@ -2031,7 +2031,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af7f5b8a3877d272c26affded329ec6c.png" alt="Cover for kick iiii" style="max-width:120px; height:auto;" />
       </td>
@@ -2047,12 +2047,12 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       <td>
         <ul>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 69</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 76</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/rKICO6ozeNydOjpCSkVgv4i8huWCyR_gQoQVvy2zkfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTc0/NjMyLTE2NTUyMjk3/MDEtODM1OS5qcGVn.jpeg" alt="Cover for Ugly Season" style="max-width:120px; height:auto;" />
       </td>
@@ -2070,7 +2070,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>12</td>
       <td>
       </td>
       <td>2022-07-24</td>
@@ -2091,7 +2091,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/9C5Y4uv0RLRMt_Fpse-qwHjvovqrBCpweJJUtbL2-_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTA2/NDUyLTE2Njc5OTU3/NjEtMjg4Ni5qcGVn.jpeg" alt="Cover for Synfuels" style="max-width:120px; height:auto;" />
       </td>
@@ -2115,34 +2115,29 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/9C5Y4uv0RLRMt_Fpse-qwHjvovqrBCpweJJUtbL2-_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTA2/NDUyLTE2Njc5OTU3/NjEtMjg4Ni5qcGVn.jpeg" alt="Cover for Synfuels" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e23146d7b834aeaf779d2f48a0f1232.png" alt="Cover for Spirit They’re Gone, Spirit They’ve Vanished" style="max-width:120px; height:auto;" />
       </td>
-      <td>2022-09-27</td>
-      <td>elusin</td>
-      <td>Synfuels</td>
+      <td>2023-05-12</td>
+      <td>Animal Collective</td>
+      <td>Spirit They’re Gone, Spirit They’ve Vanished</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 12</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 88</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 99</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 40</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 73</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/TNV95Y7KjZOQ2ME1zdSKD7PgiRCMcUe4YLkya3IDZDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTY5/MzY2LTE2MDg1NTAy/OTYtODc3Mi5qcGVn.jpeg" alt="Cover for Psychopath Ballads" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec06f3dc1c64cfda18330bd1e7251743.png" alt="Cover for Psychopath Ballads" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-06-01</td>
       <td>Jonatan Leandoer96</td>
@@ -2154,12 +2149,12 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 61</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/HHB9w_vhJ7plzs9vtFK40wpvqG9sefxD-7Yl-KSMHcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE1/MTM0LTE2OTgzODA0/MTAtNTU5MC5wbmc.jpeg" alt="Cover for The Ghost~Pop Tape (Remastered + Original)" style="max-width:120px; height:auto;" />
       </td>
@@ -2180,14 +2175,14 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 29</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 37</li>
             <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 65</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 80</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0545258a1a61ee0a3944eb8a0380a77.png" alt="Cover for KADER SK." style="max-width:120px; height:auto;" />
       </td>
@@ -2210,7 +2205,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/RMFck2YzuuIY13rmnHvTvnRrxmD9Ba4rjjyibaDenf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTE5/NDQwLTE3MDYzMTE3/NTUtNDU5NC5qcGVn.jpeg" alt="Cover for Wall of eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -2226,14 +2221,14 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 19</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 71</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 21</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 72</li>
             <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b4ee713f1091bfed9fb6b0d8e995b85.png" alt="Cover for X&#39;s" style="max-width:120px; height:auto;" />
       </td>
@@ -2242,14 +2237,11 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       <td>X&#39;s</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 67</li>
         </ul>
       </td>
     </tr>
