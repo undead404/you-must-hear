@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-05T15:54:51.159Z
+date: 2025-11-13T09:42:43.002Z
 permalink: tags/heavy-metal
 title: heavy metal
 ---
 
 ## heavy metal
 
-Last updated: <time datetime="2025-11-05T15:54:51.159Z">Wed Nov 05 2025 17:54:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T09:42:43.002Z">Thu Nov 13 2025 11:42:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f17c2caf98fd2e7336a06956c7fd574.png" alt="Cover for Black Sabbath" style="max-width:120px; height:auto;" />
       </td>
@@ -102,7 +102,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44c87769d0b1b5953993e163bb5226e0.png" alt="Cover for Sabbath Bloody Sabbath" style="max-width:120px; height:auto;" />
       </td>
@@ -157,6 +157,24 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b6416ef35dac0aa31071107f60d94c3.png" alt="Cover for Heaven and Hell" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980-04-25</td>
+      <td>Black Sabbath</td>
+      <td>Heaven and Hell</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbda3f24cb510ee8237f0ad474cbe81f.png" alt="Cover for Powerslave (2015 Remaster)" style="max-width:120px; height:auto;" />
@@ -175,7 +193,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/580bd211ca9c86746b9556822def864f.png" alt="Cover for Blizzard of Ozz" style="max-width:120px; height:auto;" />
       </td>
@@ -193,7 +211,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/496498a19c23a6f99e4b7032d06b9ab1.png" alt="Cover for Ace of Spades" style="max-width:120px; height:auto;" />
       </td>
@@ -210,7 +228,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b58bd4668a3fb2ddf9a8ada14b8c42c.png" alt="Cover for The Book of Souls" style="max-width:120px; height:auto;" />
       </td>
@@ -247,7 +265,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/613a873c0ca75e988f8af9558d6f7f60.png" alt="Cover for Battle Hymns" style="max-width:120px; height:auto;" />
       </td>
@@ -304,7 +322,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec2e9c919816e02685310211d1d1d5e2.png" alt="Cover for Melissa" style="max-width:120px; height:auto;" />
       </td>
@@ -379,7 +397,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ff0c16855742d242cb4631e1109067f.png" alt="Cover for W.A.S.P." style="max-width:120px; height:auto;" />
       </td>
@@ -397,7 +415,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a4e6a786b4646f64fbca1b79c0df7e3.png" alt="Cover for Defenders of the Faith" style="max-width:120px; height:auto;" />
       </td>
@@ -428,13 +446,13 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 12</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 13</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c2d54d8e7658b8d1a4f6ee607e4e1cb.png" alt="Cover for Ride the Lightning" style="max-width:120px; height:auto;" />
       </td>
@@ -472,7 +490,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79ec3f0467af4171c1c69309a45dfdc1.png" alt="Cover for The Ultimate Sin" style="max-width:120px; height:auto;" />
       </td>
@@ -509,7 +527,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/015503e7d1677e88e343e0f6bd5e8e2c.png" alt="Cover for Hall of the Mountain King" style="max-width:120px; height:auto;" />
       </td>
@@ -545,7 +563,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/256d5738855beda9f6d2e6b3dab3c904.png" alt="Cover for Fighting the World" style="max-width:120px; height:auto;" />
       </td>
@@ -578,7 +596,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 19</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 21</li>
             <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 95</li>
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 100</li>
         </ul>
@@ -603,7 +621,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8900b4a78b4e42ada13d36a310cade49.png" alt="Cover for Danzig" style="max-width:120px; height:auto;" />
       </td>
@@ -640,7 +658,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf7207240ac7461dbdf0ee761f96b701.png" alt="Cover for Cowboys From Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -655,7 +673,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 13</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 15</li>
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 96</li>
             <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 100</li>
         </ul>
@@ -719,7 +737,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/470b934e8cd26ed4d4e1f819b7f7014f.png" alt="Cover for Crazy World" style="max-width:120px; height:auto;" />
       </td>
@@ -756,7 +774,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a15591b40c1544f0b9fe9b9dcd88145d.png" alt="Cover for No More Tears" style="max-width:120px; height:auto;" />
       </td>
@@ -812,7 +830,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>1992-09-22</td>
@@ -848,7 +866,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/702a471314d00321f744cba486ba1480.png" alt="Cover for The Black Album" style="max-width:120px; height:auto;" />
       </td>
@@ -866,7 +884,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cee85a6ae55fad91fff6b91db4f35417.png" alt="Cover for Youthanasia" style="max-width:120px; height:auto;" />
       </td>
@@ -904,7 +922,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bc540dd86f59319721ddfdd2386bbf6.png" alt="Cover for The X Factor" style="max-width:120px; height:auto;" />
       </td>
@@ -959,28 +977,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>41</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a2bce6f084abfa6c05900214c57bafa.png" alt="Cover for Best of the Beast" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996-09-23</td>
-      <td>Iron Maiden</td>
-      <td>Best of the Beast</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 76 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 26</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 89</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9892c73e46ca4b65a609b1e74aae9664.png" alt="Cover for Official Live : 101 Proof" style="max-width:120px; height:auto;" />
       </td>
@@ -1001,7 +998,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/-MJDuZDFuPq-n_VOgx8ufZNJVbgyT3ssVwf8ZbO8rxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDkz/NTgtMTY2Mjg4MTEw/MC00MzQ4LmpwZWc.jpeg" alt="Cover for Stained Glass" style="max-width:120px; height:auto;" />
       </td>
@@ -1019,7 +1016,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7406f6e628484531bfdebfd2fe8772e8.png" alt="Cover for The OZZman Cometh" style="max-width:120px; height:auto;" />
       </td>
@@ -1034,12 +1031,12 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 37</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2dddbd3ec3a526120431181eeeab02ce.png" alt="Cover for Reload" style="max-width:120px; height:auto;" />
       </td>
@@ -1057,7 +1054,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f4ab7e118bd6324131fd172d713955a.png" alt="Cover for Virtual XI" style="max-width:120px; height:auto;" />
       </td>
@@ -1171,7 +1168,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/346dc123fd2f4818c828b789864e7acb.png" alt="Cover for The Essential Ozzy Osbourne" style="max-width:120px; height:auto;" />
       </td>
@@ -1189,7 +1186,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5616c08bd5821274c02953f7817521f5.png" alt="Cover for The Blessed Hellride" style="max-width:120px; height:auto;" />
       </td>
@@ -1284,7 +1281,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a731b74470fa46a2b6f437845f66a61f.png" alt="Cover for Mafia" style="max-width:120px; height:auto;" />
       </td>
@@ -1336,13 +1333,13 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 6</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 9</li>
             <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78e9f1580cf0eb2ea8ad56322ea1d00d.png" alt="Cover for United Abominations" style="max-width:120px; height:auto;" />
       </td>
@@ -1380,7 +1377,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2008</td>
@@ -1397,7 +1394,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>2008</td>
@@ -1460,7 +1457,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/481b5d4780a244b9c49f31df7323f8a0.png" alt="Cover for Guitar Gangsters &amp; Cadillac Blood" style="max-width:120px; height:auto;" />
       </td>
@@ -1474,7 +1471,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 28</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1555,7 +1552,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de8288304fa26e5efb6af03236dcd143.png" alt="Cover for Beyond Hell &#x2F; Above Heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -1574,9 +1571,8 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb0566486a274ce49b03a3c9af690a24.png" alt="Cover for Opus Eponymous" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-18</td>
       <td>Ghost</td>
@@ -1610,7 +1606,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5915abe0f589e6a240bfc532199b30bf.png" alt="Cover for Outlaw Gentlemen &amp; Shady Ladies" style="max-width:120px; height:auto;" />
       </td>
@@ -1624,7 +1620,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 1</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1724,7 +1720,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdf585cb5fa94966b564d9ef2a1f8194.png" alt="Cover for Last Command" style="max-width:120px; height:auto;" />
       </td>
@@ -1786,7 +1782,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
     <tr>
       <td>54</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1c51aacd4bab6d1379303db419f2585.png" alt="Cover for Fear Of The Dark (2015 Remaster)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e21f0d98cbe18875967a4ae46369d20b.png" alt="Cover for Fear Of The Dark (2015 Remaster)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-08-07</td>
       <td>Iron Maiden</td>
@@ -1802,7 +1798,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/7qh3cVqK0seNhle8QOquXXBWyE3PqPsOr_u3Zeb7yEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQy/MjEyLTE1OTE1OTA2/ODQtMzI2NC5qcGVn.jpeg" alt="Cover for Kinfolks" style="max-width:120px; height:auto;" />
       </td>
@@ -1881,14 +1877,14 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
         <ul>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 2</li>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 2</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 3</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 3</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 3</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 6</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 16</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 20</li>
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 27</li>
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 28</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 42</li>
             <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 42</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 43</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 50</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 67</li>
             <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 72</li>
@@ -1900,48 +1896,48 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 87</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 89</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 90</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 90</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 92</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 92</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 93</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 95</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 97</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
             <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 97</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 97</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1963,7 +1959,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
         <ul>
             <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 57</li>
             <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 82</li>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 86</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -2047,13 +2043,13 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 1</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 2</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 2</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 2</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 3</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 20</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 42</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 46</li>
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 46</li>
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 55</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 61</li>
@@ -2061,63 +2057,63 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 72</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 81</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 83</li>
             <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 83</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 83</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 85</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 89</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 90</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 90</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 92</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 93</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 94</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 94</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 95</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3559a1f702b4cf8a0dca702ea53557d.png" alt="Cover for Down to Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -2156,7 +2152,7 @@ Heavy metal is a loud, aggressive rock genre characterized by distorted electric
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fd1b99f21f14a908771cc9706f282b0.png" alt="Cover for Danzig II Lucifuge" style="max-width:120px; height:auto;" />
       </td>
