@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T23:02:50.988Z
+date: 2025-11-13T16:33:47.880Z
 permalink: tags/folk-metal
 title: folk metal
 ---
 
 ## folk metal
 
-Last updated: <time datetime="2025-11-02T23:02:50.988Z">Mon Nov 03 2025 01:02:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T16:33:47.880Z">Thu Nov 13 2025 18:33:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -51,7 +51,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/KttiehAiDOFb5OXZ1XOviUVdhoP1gty2hWGnXQgC7f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjQ2/MS0xNjgwMzU3MDUx/LTk3NzYuanBlZw.jpeg" alt="Cover for Songs of Moors &amp; Misty Fields" style="max-width:120px; height:auto;" />
       </td>
@@ -86,7 +86,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
       </td>
       <td>1999-03-01</td>
@@ -117,12 +117,12 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 19</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
       </td>
       <td>1999-07</td>
@@ -157,7 +157,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
       </td>
       <td>2000-07-14</td>
@@ -198,8 +198,9 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47d548102f390fdd98825125d1f4f883.png" alt="Cover for Herzblut" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-04-02</td>
       <td>Subway to Sally</td>
@@ -230,13 +231,13 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 2</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 3</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
       </td>
       <td>2001-07-23</td>
@@ -254,8 +255,9 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18117d36b641b9dbc72ebb291a8c7f94.png" alt="Cover for Sünder Ohne Zügel" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-09-03</td>
       <td>In Extremo</td>
@@ -309,8 +311,9 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ad7e7b0f18e49f3b36fc19f3f5e6fd4.png" alt="Cover for Folk-Lore" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-02-04</td>
       <td>Cruachan</td>
@@ -342,7 +345,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 47</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 48</li>
             <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 68</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 84</li>
         </ul>
@@ -369,7 +372,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/LZKq4vizqi7oEAyrOZuPprUKG4vi0NIB9d_fS_Hyzlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTYw/Ny0xMTUyOTcxMTkx/LmpwZWc.jpeg" alt="Cover for Engelskrieger" style="max-width:120px; height:auto;" />
       </td>
@@ -387,26 +390,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>48</td>
-      <td>
-      </td>
-      <td>2003-04-07</td>
-      <td>Finntroll</td>
-      <td>Visor Om Slutet</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 22</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
       </td>
       <td>2003-04-12</td>
@@ -426,8 +410,9 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc31f16264384adfca5ff32e858efe8d.png" alt="Cover for 7" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-01</td>
       <td>In Extremo</td>
@@ -443,7 +428,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
       </td>
       <td>2003-09-08</td>
@@ -456,7 +441,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 42</li>
+            <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -510,7 +495,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 12</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -553,7 +538,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
       </td>
       <td>2004-04-26</td>
@@ -594,7 +579,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/dT3UTjHjije2MY5MHnwRKX16RBa3vRnaLIUe4CFh4lw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTk5/NS0xNTI5MTk5Mjk1/LTc1NDYuanBlZw.jpeg" alt="Cover for Voice of Wilderness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b44ffb944f3b49d392efe95bc50f80fe.png" alt="Cover for Voice of Wilderness" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-01-24</td>
       <td>Korpiklaani</td>
@@ -611,7 +596,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
       </td>
       <td>2005-01-31</td>
@@ -629,7 +614,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63e07178ec07456499eb24d27fb58260.png" alt="Cover for The Gathering Wilderness" style="max-width:120px; height:auto;" />
       </td>
@@ -662,7 +647,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 20</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 21</li>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 48</li>
         </ul>
       </td>
@@ -691,8 +676,9 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ff336c8907e4388ab942f3d450e6bf9.png" alt="Cover for De Strijdlust Is Geboren" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03-11</td>
       <td>Heidevolk</td>
@@ -709,8 +695,9 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2a8f1240a134d2eba3057ca6a95f560.png" alt="Cover for Mein rasend Herz" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-30</td>
       <td>In Extremo</td>
@@ -726,7 +713,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/KK6HGemX-EfVSYhv1MOLwW0g1C9wShAAvbJ0xUj_JNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTE1/My0xMTU3NDg1MDYw/LmpwZWc.jpeg" alt="Cover for Third Age of the Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -747,9 +734,9 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/8j4aFchzs3jQghBhX2VLhQdxm15BW0bSnu3uIOomolI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzA4/MS0xNDIxNzM4ODk4/LTE3OTMuanBlZw.jpeg" alt="Cover for Nord Nord Ost" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/747013e1227b4d5081f070d323d833c7.png" alt="Cover for Nord Nord Ost" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-08-22</td>
       <td>Subway to Sally</td>
@@ -765,7 +752,27 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/wkVt4UYn5vfXWlHQZSRWh5ZdW4P-WAFlgdpwIvjxUEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDUw/Ny0xMjA5MDAwMTA5/LmpwZWc.jpeg" alt="Cover for Vredens tid" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-09-28</td>
+      <td>Månegarm</td>
+      <td>Vredens tid</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 35</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
       <td>
       </td>
       <td>2006-01-17</td>
@@ -783,7 +790,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
       </td>
       <td>2006-02-15</td>
@@ -802,7 +809,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf43dfa6e2904452c40dc9571525c23d.png" alt="Cover for Mit Leib und Seele" style="max-width:120px; height:auto;" />
       </td>
@@ -842,6 +849,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6123a39c65e74ae28247ea734ace72a4.png" alt="Cover for Spirit" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06-01</td>
       <td>Eluveitie</td>
@@ -874,14 +882,14 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 37</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 59</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 63</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 97</li>
             <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e28236f0639746bf9cc3d70a1f0e1b21.png" alt="Cover for Riders On The Storm" style="max-width:120px; height:auto;" />
       </td>
@@ -900,7 +908,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e7fa7a35f12b494a8fdef4f08231aa3.png" alt="Cover for Ragnarok" style="max-width:120px; height:auto;" />
       </td>
@@ -939,7 +947,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/N7jBl3U6gb3RWAF8gr6EIOnfNqH-THk20cfkzGAHFfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNDM2/NC0xMzMwNjA5MjUz/LmpwZWc.jpeg" alt="Cover for Evernight" style="max-width:120px; height:auto;" />
       </td>
@@ -959,7 +967,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/9ftY_Jex0_EuGFe6_1yEARq85Su5vHgE3MDobDYWSc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQ5/MTUtMTIwODk2NDE4/NC5qcGVn.jpeg" alt="Cover for Ashes Against The Grain (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -998,6 +1006,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3b9ec88cff741c98b28bfb9093b7761.png" alt="Cover for The Varangian Way" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-28</td>
       <td>Turisas</td>
@@ -1017,6 +1026,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5eba9cb0fd22415ab1ad9982abe2578a.png" alt="Cover for Tervaskanto" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06-26</td>
       <td>Korpiklaani</td>
@@ -1051,7 +1061,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
       </td>
       <td>2007-08-31</td>
@@ -1068,8 +1078,9 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da7413604744d50319ce60faaca86ea9.png" alt="Cover for Bastard" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-19</td>
       <td>Subway to Sally</td>
@@ -1085,7 +1096,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/d8UV_Dz5rH-F_MEzifAIikdAn2MlpakgGUK_t6sZ8Ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIy/MjktMTUzNTQ1OTU3/OS05OTk2LmpwZWc.jpeg" alt="Cover for Ravnenes Saga" style="max-width:120px; height:auto;" />
       </td>
@@ -1126,7 +1137,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/DU-4NwRXYyXwvMdUKt1D3_RlsY_Te_abQn0hCps19Y8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjUy/Ni0xNjQyODIzMzE3/LTYzNzQuanBlZw.jpeg" alt="Cover for Rebirth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/168e1692e5b1e819f52cb0666f9a92b2.png" alt="Cover for Rebirth" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Eluveitie</td>
@@ -1142,6 +1153,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 1</li>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 3</li>
             <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 4</li>
         </ul>
@@ -1165,7 +1177,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
       </td>
       <td>2008-02-14</td>
@@ -1218,7 +1230,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
       </td>
       <td>2008-03-31</td>
@@ -1235,7 +1247,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/GFCPriRtWj5Arsh6beKxQmSHnD7r7q6Q3BoD7wgH5vg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA0/MjAtMTQzNjY4NTE4/MC0zNDY5LmpwZWc.jpeg" alt="Cover for Sängerkrieg" style="max-width:120px; height:auto;" />
       </td>
@@ -1273,25 +1285,6 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>54</td>
-      <td>
-      </td>
-      <td>2009-04-10</td>
-      <td>Eluveitie</td>
-      <td>Evocation I - The Arcane Dominion</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99c2b9cc311445bfc52b208a6c225adf.png" alt="Cover for Black Sails at Midnight" style="max-width:120px; height:auto;" />
@@ -1307,12 +1300,12 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 67</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/Ih39g3fieV94UBZakfVccfpbuL9C8Z9P7aEjbAM9wOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTAz/ODMtMTI0MzQ5NjAy/Mi5qcGVn.jpeg" alt="Cover for Vodka" style="max-width:120px; height:auto;" />
       </td>
@@ -1332,6 +1325,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9bbb882343784918a86feffa404febbd.png" alt="Cover for By the Light of the Northern Star" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-29</td>
       <td>Týr</td>
@@ -1403,7 +1397,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
       </td>
       <td>2010-02-19</td>
@@ -1420,9 +1414,9 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/0d-kqFpTj3AcDCjKLqiRx_W5Xn6x8o6TRt95XHmkOp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDM2/MDctMTY3NDkyNDM1/MS0zNzUwLmpwZWc.jpeg" alt="Cover for Uit Oude Grond" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/69ba60333f56577ca56d81d3175899fd.png" alt="Cover for Uit Oude Grond" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-26</td>
       <td>Heidevolk</td>
@@ -1438,7 +1432,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
       </td>
       <td>2010-06-18</td>
@@ -1456,7 +1450,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64b1c55cf96a26bd851e053a745e76bc.png" alt="Cover for Marrow of the Spirit" style="max-width:120px; height:auto;" />
       </td>
@@ -1478,9 +1472,9 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
-          <img src="http://coverartarchive.org/release/6078f9dd-6b11-3d75-9d15-525f67afc196/25773515686-250.jpg" alt="Cover for Ukon Wacka" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b742a09ff49b487eb7327983ec815c6a.png" alt="Cover for Ukon Wacka" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-04</td>
       <td>Korpiklaani</td>
@@ -1534,7 +1528,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/tARvzQlLo5HP9SLzIqrxGTwa9I0SVzusy2C-fVe06QE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDIx/NDAxLTE2NDY2NjQw/NTUtMjM4OC5qcGVn.jpeg" alt="Cover for You Are A Pirate" style="max-width:120px; height:auto;" />
       </td>
@@ -1570,7 +1564,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/uulD0xv4fvOvwy9UcG-zTqlXnYmJCFdaC5405-0yls0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzE0/NjYtMTM1NzM0NzU1/OC0yNDc3LmpwZWc.jpeg" alt="Cover for Manala" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,8 +1582,9 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff5f1aa4695a0818c3ead0412fc90efa.png" alt="Cover for Vên" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-17</td>
       <td>Eluveitie</td>
@@ -1605,7 +1600,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>2012-08-24</td>
@@ -1622,7 +1617,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
       </td>
       <td>2013-02-28</td>
@@ -1656,7 +1651,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f483c1816f545cbc58d059e72ecac33.png" alt="Cover for Valkyrja" style="max-width:120px; height:auto;" />
       </td>
@@ -1670,12 +1665,12 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 10</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
       </td>
       <td>2013-11-01</td>
@@ -1733,7 +1728,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
       </td>
       <td>2015-02-20</td>
@@ -1751,7 +1746,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/l00v711VuRYlUW3sAiZE3xL_mtDzhzBComGotD8XDho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjI3/NzEtMTQzMDUwNTQ4/Ny01MzUwLmpwZWc.jpeg" alt="Cover for Noita" style="max-width:120px; height:auto;" />
       </td>
@@ -1769,7 +1764,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/12i8AwCRz-5UfnK0sSJJ1AqapzQ40OHdYfXsNpc-Bkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODYz/MDEtMTQ3MTAwMDk0/MC02MjcwLmpwZWc.jpeg" alt="Cover for Armageddon" style="max-width:120px; height:auto;" />
       </td>
@@ -1788,7 +1783,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/CPPUWYHv0Qc_Zmgs3M6KRzGnU4XUfGgMKk8cbE65BZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM3/NDMwLTE0OTU1NjU0/MzEtNDk3NC5qcGVn.jpeg" alt="Cover for No Grave but the Sea (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1807,7 +1802,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/Rpw4TNm5r66LEnumT0LMUIJbo2Nqjc8A-vYVtTt7e9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc2/MTM0LTE1MTUwMTAy/MjQtNTU4Mi5qcGVn.jpeg" alt="Cover for Tarot" style="max-width:120px; height:auto;" />
       </td>
@@ -1825,7 +1820,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/JEItzB9NHzvWYfK3Ujup28njp3q1iTGCr2o_6uyB_go/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzMz/MzQzLTE1MzM4NjA2/MzQtNDA1Mi5qcGVn.jpeg" alt="Cover for Evocation II - Pantheon" style="max-width:120px; height:auto;" />
       </td>
@@ -1844,7 +1839,24 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2019</td>
+      <td>Saor</td>
+      <td>Forgotten Paths</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/kXI2WPEuJDnRrvVIbgOcs09Fn0yVLLaCM5TxwH203bA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ2/MjQxLTE1NTQzNzU1/ODgtMTA1NS5qcGVn.jpeg" alt="Cover for Ategnatos" style="max-width:120px; height:auto;" />
       </td>

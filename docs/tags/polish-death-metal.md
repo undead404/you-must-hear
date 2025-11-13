@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T07:39:31.079Z
+date: 2025-11-13T16:33:43.477Z
 permalink: tags/polish-death-metal
 title: polish death metal
 ---
 
 ## polish death metal
 
-Last updated: <time datetime="2025-11-08T07:39:31.079Z">Sat Nov 08 2025 09:39:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T16:33:43.477Z">Thu Nov 13 2025 18:33:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -781,6 +781,24 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish-death-metal" | relative_url }}">polish death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2005-02-25</td>
+      <td>BloodthirstPL</td>
+      <td>Hell Bestial Desecration (split w&#x2F;Ebola)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish-death-metal" | relative_url }}">polish death metal</a></li>
         </ul>
       </td>
       <td>
@@ -1597,25 +1615,6 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2013-05-10</td>
-      <td>Mastema(PL)</td>
-      <td>The Murderer&#39;s Tale</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish-death-metal" | relative_url }}">polish death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>7</td>
       <td>
           <img src="https://i.discogs.com/c26bPIBjknmgNQGGzcKNJJlqEQoh3xjpoUVd3XWhnOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDg3/NzMzLTE1ODY1Mjkz/MzktOTUyMi5qcGVn.jpeg" alt="Cover for Stages of Necrosis" style="max-width:120px; height:auto;" />
@@ -1675,7 +1674,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/FCD3bZ7KkqoQQYAzXaIyhNSTErCQCzqxyuA7JcZj8co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTk0/NTktMTUwNTM3Mzcz/OC02MjYwLmpwZWc.jpeg" alt="Cover for Untitled Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1694,7 +1693,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/TX9oonp5OY08-oP1P5knY0LAR3fvRTff1PjY-YvPkI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTYx/OTEtMTQ3NjgxNjEw/MS0zOTY2LmpwZWc.jpeg" alt="Cover for Code of Impiety" style="max-width:120px; height:auto;" />
       </td>
