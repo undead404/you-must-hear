@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-13T06:44:22.857Z
+date: 2025-11-13T08:49:19.080Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T08:49:19.080Z">Thu Nov 13 2025 10:49:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [noise rock]({{ "tags/noise-rock" | relative_url }}) | <time datetime="2025-11-13T08:49:19.080Z">Thu Nov 13 2025 10:49:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [canada]({{ "tags/canada" | relative_url }}) | <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [sweden]({{ "tags/sweden" | relative_url }}) | <time datetime="2025-11-13T06:35:05.487Z">Thu Nov 13 2025 08:35:05 GMT+0200 (Eastern European Standard Time)</time> |
 | [jazz rock]({{ "tags/jazz-rock" | relative_url }}) | <time datetime="2025-11-13T06:34:34.828Z">Thu Nov 13 2025 08:34:34 GMT+0200 (Eastern European Standard Time)</time> |
@@ -295,7 +296,6 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
 | [math rock]({{ "tags/math-rock" | relative_url }}) | <time datetime="2025-11-11T04:48:17.005Z">Tue Nov 11 2025 06:48:17 GMT+0200 (Eastern European Standard Time)</time> |
 | [funk]({{ "tags/funk" | relative_url }}) | <time datetime="2025-11-11T04:48:07.227Z">Tue Nov 11 2025 06:48:07 GMT+0200 (Eastern European Standard Time)</time> |
 | [minimal house]({{ "tags/minimal-house" | relative_url }}) | <time datetime="2025-11-11T04:47:43.707Z">Tue Nov 11 2025 06:47:43 GMT+0200 (Eastern European Standard Time)</time> |
-| [noise rock]({{ "tags/noise-rock" | relative_url }}) | <time datetime="2025-11-11T04:47:29.883Z">Tue Nov 11 2025 06:47:29 GMT+0200 (Eastern European Standard Time)</time> |
 | [chanson]({{ "tags/chanson" | relative_url }}) | <time datetime="2025-11-11T04:46:11.552Z">Tue Nov 11 2025 06:46:11 GMT+0200 (Eastern European Standard Time)</time> |
 | [ebm]({{ "tags/ebm" | relative_url }}) | <time datetime="2025-11-11T04:44:27.057Z">Tue Nov 11 2025 06:44:27 GMT+0200 (Eastern European Standard Time)</time> |
 | [krautrock]({{ "tags/krautrock" | relative_url }}) | <time datetime="2025-11-11T04:43:05.343Z">Tue Nov 11 2025 06:43:05 GMT+0200 (Eastern European Standard Time)</time> |
