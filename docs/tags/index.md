@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-13T13:39:01.814Z
+date: 2025-11-13T13:57:51.817Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-13T13:39:01.814Z">Thu Nov 13 2025 15:39:01 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T13:57:51.817Z">Thu Nov 13 2025 15:57:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [brazilian rock]({{ "tags/brazilian-rock" | relative_url }}) | <time datetime="2025-11-13T13:57:51.817Z">Thu Nov 13 2025 15:57:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [neofolk]({{ "tags/neofolk" | relative_url }}) | <time datetime="2025-11-13T13:39:01.814Z">Thu Nov 13 2025 15:39:01 GMT+0200 (Eastern European Standard Time)</time> |
 | [synth punk]({{ "tags/synth-punk" | relative_url }}) | <time datetime="2025-11-13T13:01:44.708Z">Thu Nov 13 2025 15:01:44 GMT+0200 (Eastern European Standard Time)</time> |
 | [industrial hip hop]({{ "tags/industrial-hip-hop" | relative_url }}) | <time datetime="2025-11-13T12:41:31.227Z">Thu Nov 13 2025 14:41:31 GMT+0200 (Eastern European Standard Time)</time> |
@@ -467,7 +468,6 @@ Last updated: <time datetime="2025-11-13T13:39:01.814Z">Thu Nov 13 2025 15:39:01
 | [latin pop]({{ "tags/latin-pop" | relative_url }}) | <time datetime="2025-11-08T00:39:10.190Z">Sat Nov 08 2025 02:39:10 GMT+0200 (Eastern European Standard Time)</time> |
 | [orchestral]({{ "tags/orchestral" | relative_url }}) | <time datetime="2025-11-08T00:36:53.290Z">Sat Nov 08 2025 02:36:53 GMT+0200 (Eastern European Standard Time)</time> |
 | [north carolina]({{ "tags/north-carolina" | relative_url }}) | <time datetime="2025-11-08T00:35:41.880Z">Sat Nov 08 2025 02:35:41 GMT+0200 (Eastern European Standard Time)</time> |
-| [brazilian rock]({{ "tags/brazilian-rock" | relative_url }}) | <time datetime="2025-11-08T00:33:54.397Z">Sat Nov 08 2025 02:33:54 GMT+0200 (Eastern European Standard Time)</time> |
 | [poetry]({{ "tags/poetry" | relative_url }}) | <time datetime="2025-11-08T00:33:50.052Z">Sat Nov 08 2025 02:33:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [brooklyn]({{ "tags/brooklyn" | relative_url }}) | <time datetime="2025-11-08T00:32:59.091Z">Sat Nov 08 2025 02:32:59 GMT+0200 (Eastern European Standard Time)</time> |
 | [live set]({{ "tags/live-set" | relative_url }}) | <time datetime="2025-11-08T00:12:53.496Z">Sat Nov 08 2025 02:12:53 GMT+0200 (Eastern European Standard Time)</time> |
