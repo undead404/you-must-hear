@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-12T18:44:23.679Z
+date: 2025-11-12T18:47:54.781Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-12T18:44:23.679Z">Wed Nov 12 2025 20:44:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-12T18:47:54.781Z">Wed Nov 12 2025 20:47:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [irish]({{ "tags/irish" | relative_url }}) | <time datetime="2025-11-12T18:47:54.781Z">Wed Nov 12 2025 20:47:54 GMT+0200 (Eastern European Standard Time)</time> |
+| [japanese]({{ "tags/japanese" | relative_url }}) | <time datetime="2025-11-12T18:47:37.202Z">Wed Nov 12 2025 20:47:37 GMT+0200 (Eastern European Standard Time)</time> |
 | [oregon]({{ "tags/oregon" | relative_url }}) | <time datetime="2025-11-12T18:44:23.679Z">Wed Nov 12 2025 20:44:23 GMT+0200 (Eastern European Standard Time)</time> |
 | [vocal jazz]({{ "tags/vocal-jazz" | relative_url }}) | <time datetime="2025-11-12T18:28:01.869Z">Wed Nov 12 2025 20:28:01 GMT+0200 (Eastern European Standard Time)</time> |
 | [alt-country]({{ "tags/alt-country" | relative_url }}) | <time datetime="2025-11-12T18:27:52.038Z">Wed Nov 12 2025 20:27:52 GMT+0200 (Eastern European Standard Time)</time> |
@@ -324,8 +326,6 @@ Last updated: <time datetime="2025-11-12T18:44:23.679Z">Wed Nov 12 2025 20:44:23
 | [nu-disco]({{ "tags/nu-disco" | relative_url }}) | <time datetime="2025-11-11T03:53:42.241Z">Tue Nov 11 2025 05:53:42 GMT+0200 (Eastern European Standard Time)</time> |
 | [melbourne]({{ "tags/melbourne" | relative_url }}) | <time datetime="2025-11-11T03:51:55.863Z">Tue Nov 11 2025 05:51:55 GMT+0200 (Eastern European Standard Time)</time> |
 | [bubblegum bass]({{ "tags/bubblegum-bass" | relative_url }}) | <time datetime="2025-11-11T03:51:35.389Z">Tue Nov 11 2025 05:51:35 GMT+0200 (Eastern European Standard Time)</time> |
-| [irish]({{ "tags/irish" | relative_url }}) | <time datetime="2025-11-11T03:51:07.216Z">Tue Nov 11 2025 05:51:07 GMT+0200 (Eastern European Standard Time)</time> |
-| [japanese]({{ "tags/japanese" | relative_url }}) | <time datetime="2025-11-11T03:50:37.402Z">Tue Nov 11 2025 05:50:37 GMT+0200 (Eastern European Standard Time)</time> |
 | [noise punk]({{ "tags/noise-punk" | relative_url }}) | <time datetime="2025-11-11T03:48:49.446Z">Tue Nov 11 2025 05:48:49 GMT+0200 (Eastern European Standard Time)</time> |
 | [future bass]({{ "tags/future-bass" | relative_url }}) | <time datetime="2025-11-11T03:48:36.929Z">Tue Nov 11 2025 05:48:36 GMT+0200 (Eastern European Standard Time)</time> |
 | [ranchera]({{ "tags/ranchera" | relative_url }}) | <time datetime="2025-11-11T03:48:07.027Z">Tue Nov 11 2025 05:48:07 GMT+0200 (Eastern European Standard Time)</time> |
