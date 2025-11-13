@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T05:02:28.703Z
+date: 2025-11-13T15:37:11.023Z
 permalink: tags/bitpop
 title: bitpop
 ---
 
 ## bitpop
 
-Last updated: <time datetime="2025-11-11T05:02:28.703Z">Tue Nov 11 2025 07:02:28 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T15:37:11.023Z">Thu Nov 13 2025 17:37:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,7 +50,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/HyRe8nw6PHqui_n1ojJCj6LzdqFS4KLkEJ1qrHvrSI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQx/OTAzLTE2NDQ3NjAw/MjUtMzMzMy5qcGVn.jpeg" alt="Cover for the lonely god and the defective vessel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/637765522265cdd17106b5b6f6305061.png" alt="Cover for the lonely god and the defective vessel" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Sorbet</td>
@@ -397,7 +397,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1177250a3e614299acb542c7f219e104.png" alt="Cover for Fun for the Whole Family" style="max-width:120px; height:auto;" />
       </td>
@@ -689,7 +689,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/50e1L5A-HlqKR6AkhSSaHfZrDTl6LQfWbmjj3J6NRA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA5/NDUtMTIwNTI4OTkz/Ny5qcGVn.jpeg" alt="Cover for Universal Serial Bastard" style="max-width:120px; height:auto;" />
       </td>
@@ -832,7 +832,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 47</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 56</li>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 93</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 98</li>
         </ul>
@@ -1056,6 +1056,24 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
     </tr>
     <tr>
+      <td>7</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dea8061ab1244f3db1854dd4a12b68c1.png" alt="Cover for Unicorn" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-01-25</td>
+      <td>Chew Lips</td>
+      <td>Unicorn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9205e5a6d7da6921e1bd9def33f25067.png" alt="Cover for Crystal Castles" style="max-width:120px; height:auto;" />
@@ -1072,7 +1090,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
         <ul>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 30</li>
             <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 54</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 79</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 81</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 100</li>
         </ul>
       </td>
@@ -1096,7 +1114,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/687s0Cqakc7F7cQ9Mm4k3xramLOfRLJh4Yjdpi0hGAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjE1/NjMtMTI5MDUzMDk3/My5wbmc.jpeg" alt="Cover for Wild Life (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1187,10 +1205,9 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 14</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 45</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 46</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 89</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 15</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 45</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1277,12 +1294,12 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 5</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c1daed21ecd4fbaa675378fabb95d5b.png" alt="Cover for 2 Le Chip 2 Quit" style="max-width:120px; height:auto;" />
       </td>
@@ -1305,13 +1322,14 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       <td>
         <ul>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 22</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 46</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44ef188de96373fdeb560be12886d8bc.png" alt="Cover for Endless Fantasy" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-14</td>
       <td>Anamanaguchi</td>
@@ -1325,7 +1343,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 21</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 23</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 57</li>
             <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 86</li>
         </ul>
@@ -1373,14 +1391,14 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 55</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 85</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 57</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 88</li>
             <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/s8aP0q_lprVmIvucQc16QxUGviE-ZSgxqNS92XGDiaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjU5/OTMtMTQzNzU2MDc5/MC01MDg3LmpwZWc.jpeg" alt="Cover for Pale Machine [Expansion Pack]" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,7 +1487,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/LhJ07Q_gg1Ui5c9bmXjTSayk1coLk0DQMk8guku4ZAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NzU0/MDgtMTQ0MjIzNTkw/MS05NTQ3LmpwZWc.jpeg" alt="Cover for I Grew Up With Video Games" style="max-width:120px; height:auto;" />
       </td>
@@ -1579,7 +1597,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/O8zGVIpBJvwaykfYnFOVwiAwZ3lKTIM1GYcGNKTx-7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTA1/NjU2LTE0OTE3MDEy/OTQtNTczMS5wbmc.jpeg" alt="Cover for Good Talk" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2733ad1d83765d906fcf80b7553dcbb.png" alt="Cover for Good Talk" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-12</td>
       <td>(T-T)b</td>
@@ -1757,7 +1775,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 41</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 42</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 55</li>
         </ul>
       </td>
@@ -1905,7 +1923,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 75</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 76</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 92</li>
             <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 99</li>
             <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 100</li>
@@ -1952,29 +1970,6 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/h1BlFvko6VcfsQ2VWUrqRgkj9k5EjvGjjFiXm_hLAdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDEz/MDk0LTE2Nzg3NTQ3/MTEtMjI0OC5qcGVn.jpeg" alt="Cover for Dysfunctional Bunnygirl" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-10-21</td>
-      <td>Cecily Renns</td>
-      <td>Dysfunctional Bunnygirl</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>52</td>
       <td>
       </td>
@@ -1992,8 +1987,8 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       <td>
         <ul>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 37</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 61</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 65</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 65</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 67</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 87</li>
         </ul>
       </td>
@@ -2012,7 +2007,6 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2084,7 +2078,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 85</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 86</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 88</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 95</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 96</li>

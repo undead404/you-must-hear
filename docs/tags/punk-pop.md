@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T22:46:50.969Z
+date: 2025-11-13T16:12:21.939Z
 permalink: tags/punk-pop
 title: punk pop
 ---
 
 ## punk pop
 
-Last updated: <time datetime="2025-11-02T22:46:50.969Z">Mon Nov 03 2025 00:46:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T16:12:21.939Z">Thu Nov 13 2025 18:12:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,8 +49,9 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45d6c0044dada6fb8ab9b1063eea9dfc.png" alt="Cover for Freddy Got Fingered" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -70,6 +71,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5d57679ff49df0f1158f1d12d630782.png" alt="Cover for Whatever" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Doughboys</td>
@@ -125,13 +127,13 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 11</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 56</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 14</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/U1f6ppSrP-N8k3Z6K8-RfKhON8ZjYfqVQlsXiu2N0sc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTA3/MzctMTQ2MDY0OTky/OC0yNzUzLmpwZWc.jpeg" alt="Cover for Freak in da Club" style="max-width:120px; height:auto;" />
       </td>
@@ -152,7 +154,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/en8bhl4tGRkp-BKhMO7oKMxzjtwxphwdxZzON-CPxJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTM4/MDUtMTQ3MjE2NDEx/OS0zNjY3LmpwZWc.jpeg" alt="Cover for One Step To Freedom" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76e1feec65b542179ed4731ffcd567b8.png" alt="Cover for One Step To Freedom" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Green Day</td>
@@ -173,7 +175,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/c3FQORF7vsMFepDDqkJ8W0htcVRslujDB_GAkjXiKg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjA1/OTgtMTQzMzgxOTcz/Ny01MjEyLmpwZWc.jpeg" alt="Cover for ¡UNO! (Deluxe Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70366164f1b147979af91781fecd78f8.png" alt="Cover for ¡UNO! (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-05-08</td>
       <td>Green Day</td>
@@ -210,7 +212,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d257419b5ea40aeeaaca09d7c83dac1.png" alt="Cover for I Want My Journey To Be Filled With Laughter" style="max-width:120px; height:auto;" />
       </td>
@@ -249,7 +251,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/447d0cf750c4459fac1c2f4bdf627ea8.png" alt="Cover for Through Being Cool" style="max-width:120px; height:auto;" />
       </td>
@@ -259,12 +261,11 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 4</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -366,7 +367,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/YsWRe5PrqDNmle5Da9yOITJR2QvQ08q9b3IrlIp2jHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDU0/Mzc4LTE2MjMwOTMz/MjItNjY5MS5qcGVn.jpeg" alt="Cover for No Pads No Helmets... Just Balls" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3eff498fce4f63a9cbf802752a267cc0.png" alt="Cover for No Pads No Helmets... Just Balls" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Simple Plan</td>
@@ -438,7 +439,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/gFKU2Gf6wnTED_nt7o74BgDP5mNcHW-cHVctRri81gE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU1/Mjk1LTE1ODg3NTY4/OTYtNTE1NS5qcGVn.jpeg" alt="Cover for A Trip Down Mammary Lane" style="max-width:120px; height:auto;" />
       </td>
@@ -484,7 +485,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5aca532573654ad6ca07d3c9f4602d95.png" alt="Cover for The Art Of Losing" style="max-width:120px; height:auto;" />
       </td>
@@ -503,7 +504,6 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/nGH1enatfGATRfn4XRN-xV8DdTIHvOVM9yrpVOKPgUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTUx/Mi0xNDIxNTEwNDkx/LTMxNzYuanBlZw.jpeg" alt="Cover for The Art Of Loosing" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-04-13</td>
       <td>American Hi-Fi</td>
@@ -576,7 +576,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/zEeTx7CLeUgxuuRBhpYlJKWkjwJ4FhYD29WjTYSiFYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzA2/OC0xNDU5MDUwOTk1/LTkzMTUuanBlZw.jpeg" alt="Cover for Still not getting any ..." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9cfa316bedb44fbad076a150c516095.png" alt="Cover for Still not getting any ..." style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Simple Plan</td>
@@ -611,7 +611,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1959d3390e174fe3b3ea8c81373bec23.png" alt="Cover for Still Not Getting Any..." style="max-width:120px; height:auto;" />
       </td>
@@ -620,8 +620,6 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       <td>Still Not Getting Any...</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
@@ -630,27 +628,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/H1cuMKh9ZCcW-WGBcifzuPR4u1rw9KtuVFGB4Tg-DIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzc4/MTgwLTE2Nzg1NTI1/MDYtMjg2My5qcGVn.jpeg" alt="Cover for O Brave Yet Ignorant Swine" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>The Mold Monkies</td>
-      <td>O Brave Yet Ignorant Swine</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/3RQlQoFUR9TPpTrkqGkVF3hEQF5UPZ-Wf6kPCvMkRzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjEy/MDIxLTE2ODg3ODI4/ODUtMzc3My5qcGVn.jpeg" alt="Cover for do Amor de Uma Vida Inteira - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -671,9 +649,9 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/HWIRFRuwqcGuHPqnYkxEr12bdXWLaJCuCAff4GbmzBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjI4/MDAzLTE2OTczODYy/MjctMzQ1NC5qcGVn.jpeg" alt="Cover for But Even So What?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c1e2c41d303525de54c19ca82f47cb9.png" alt="Cover for But Even So What?" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>French</td>
@@ -693,7 +671,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/BQIXRf54RMSvC3ODOcPMTJ27ZohcKilnD27M0wWTlt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTAx/NTItMTU4ODc1OTUy/OS0xODU1LmpwZWc.jpeg" alt="Cover for Small Man Syndrome" style="max-width:120px; height:auto;" />
       </td>
@@ -717,8 +695,27 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b0511fa4ed14ea6800b6e1019701ac5.png" alt="Cover for Keep Them Confused" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-06-14</td>
+      <td>No Use for a Name</td>
+      <td>Keep Them Confused</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f4b626eb382b9b3beaaa43fa6b97c6e.png" alt="Cover for Farbenheit" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-11</td>
       <td>Farben Lehre</td>
@@ -737,7 +734,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/1bCxg0SlKYfilt2jhys9IxduzIiYLuYBEraqXjWmpdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU4/NDYtMTMyNTYxNzk4/OS5qcGVn.jpeg" alt="Cover for Can you keep a secret" style="max-width:120px; height:auto;" />
       </td>
@@ -773,9 +770,9 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/Rg52URPDjdWt6ndhQI7qAvaHGjeKt9fW9AdLS6S6GSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjI5/MTktMTQyNTMzNjQw/Ni01ODExLmpwZWc.jpeg" alt="Cover for Shorter Than Danny DeVito" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bec3d917d6f91a90726574969617270e.png" alt="Cover for Shorter Than Danny DeVito" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-08-01</td>
       <td>Bankrupt</td>
@@ -838,7 +835,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/m6dWgdoAVLjSWlED9e_aR72HF2IEOLv76rbSkMTk8lc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg1/OTEyLTE0OTEzNDQ3/OTAtMjExNy5qcGVn.jpeg" alt="Cover for The Best Damn Thing (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/386219ac8c214bf1a54360d616966b41.png" alt="Cover for The Best Damn Thing (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Avril Lavigne</td>
@@ -855,7 +852,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/s-0hptPinpsdJUdIUj9XYpHztde448KjliV54yrJw6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ4/NDQtMTE5NzQ2MTg2/Ny5qcGVn.jpeg" alt="Cover for Gin &amp; Tonic (Radio Edit) - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -885,7 +882,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>20</td>
       <td>
       </td>
       <td>2007-08-18</td>
@@ -927,14 +924,14 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 24</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/l_WJdvFS_BX3XOYUSEt7764PuNbMS-Y66t41RvxH910/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzYy/OTgtMTMzODkyMTQ2/Ny0zOTY0LmpwZWc.jpeg" alt="Cover for Know Your Enemy (Single)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/461a711697963a0046a0fa4e074523b8.png" alt="Cover for Know Your Enemy (Single)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Green Day</td>
@@ -951,7 +948,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/437d35fa2fc44902c90bae12551b90ad.png" alt="Cover for VERY BEST CRUSADERS" style="max-width:120px; height:auto;" />
       </td>
@@ -970,7 +967,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/E7SQQSOLmUFovIwv8N6zA38FGccZFsS5K9-DBLeSh-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODA5/NDEtMTI2MjkwMjU3/Mi5wbmc.jpeg" alt="Cover for 5439 EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1007,7 +1004,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46924f64b0604a7fb33075d69c0379f9.png" alt="Cover for Love Drunk" style="max-width:120px; height:auto;" />
       </td>
@@ -1021,12 +1018,30 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 46</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>29</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61a6f782839c30434141369e01299480.png" alt="Cover for Sorry for Partyin&#39;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-10-12</td>
+      <td>Bowling for Soup</td>
+      <td>Sorry for Partyin&#39;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/3Tn2LFDcaMpx8dadXcObFeWnIFsITE1_VfDGUOTs5Aw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzAy/NTItMTM4MDk1NDgw/NC01MDIwLmpwZWc.jpeg" alt="Cover for Fall in love with an alien girl" style="max-width:120px; height:auto;" />
       </td>
@@ -1048,8 +1063,9 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff20e9db68ad4d71902e56755e2ecc8f.png" alt="Cover for Turning Back the Clocks - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Meadowland</td>
@@ -1067,9 +1083,9 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/PEckgVaA_qPsqF9BKfd6yC8PIafcwSdNTM5r9NDqQZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDcy/ODktMTMwNTU2MzYx/My5qcGVn.jpeg" alt="Cover for Isolated" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da4b4e85a233ea95ed5c6fb1b4e9fc50.png" alt="Cover for Isolated" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Bad Year</td>
@@ -1107,7 +1123,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/I2Eqej6z7Dx06C_s4rAeyvdWpvflrWE29H3d45Ehijg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODkz/NjQtMTMwMTExMzM4/MS5qcGVn.jpeg" alt="Cover for Destroy Your World" style="max-width:120px; height:auto;" />
       </td>
@@ -1129,13 +1145,31 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 8</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 17</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 9</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c70a9ab49d0e42ed9ce31bc8ae849c1a.png" alt="Cover for The Dissent of Man" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-09-27</td>
+      <td>Bad Religion</td>
+      <td>The Dissent of Man</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
       <td>
       </td>
       <td>2010-11-09</td>
@@ -1154,9 +1188,9 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/mp-Tm_6yQdU8b9g4Yo9VV9xpPupnkjEMhS9gf8_S6f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI0/OTI3LTE1NDI2NjIw/OTUtMzI0Mi5qcGVn.jpeg" alt="Cover for Best Friends Fourever Split" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32512bf335704d5e8838c7aaf89ad147.png" alt="Cover for Best Friends Fourever Split" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-12</td>
       <td>Mane Horse</td>
@@ -1205,14 +1239,14 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 5</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/mp-Tm_6yQdU8b9g4Yo9VV9xpPupnkjEMhS9gf8_S6f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI0/OTI3LTE1NDI2NjIw/OTUtMzI0Mi5qcGVn.jpeg" alt="Cover for Emo Side Project &#x2F; Mane Horse Split" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c968cbef73c24712b22a29322dd7757e.png" alt="Cover for Emo Side Project &#x2F; Mane Horse Split" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-12</td>
       <td>Mane Horse</td>
@@ -1261,14 +1295,14 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 22</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/mp-Tm_6yQdU8b9g4Yo9VV9xpPupnkjEMhS9gf8_S6f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI0/OTI3LTE1NDI2NjIw/OTUtMzI0Mi5qcGVn.jpeg" alt="Cover for Di Bravura&#x2F;Mane Horse Split" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18973430791b432a80247c28cc0933ef.png" alt="Cover for Di Bravura&#x2F;Mane Horse Split" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-12</td>
       <td>Mane Horse</td>
@@ -1317,14 +1351,14 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 37</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/mp-Tm_6yQdU8b9g4Yo9VV9xpPupnkjEMhS9gf8_S6f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI0/OTI3LTE1NDI2NjIw/OTUtMzI0Mi5qcGVn.jpeg" alt="Cover for What do you mean We&#39;re just Friends?!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8f9cae93f864396bdd14c566a46ce15.png" alt="Cover for What do you mean We&#39;re just Friends?!" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-12</td>
       <td>Mane Horse</td>
@@ -1382,7 +1416,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/mp-Tm_6yQdU8b9g4Yo9VV9xpPupnkjEMhS9gf8_S6f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI0/OTI3LTE1NDI2NjIw/OTUtMzI0Mi5qcGVn.jpeg" alt="Cover for Lord Unicorn &amp; The Masters" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6b6cd6ec1ff42d9b39d8678d213c646.png" alt="Cover for Lord Unicorn &amp; The Masters" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-12</td>
       <td>Mane Horse</td>
@@ -1431,8 +1465,8 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 3</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 7</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 12</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 17</li>
             <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 44</li>
             <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 58</li>
@@ -1497,7 +1531,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>23</td>
       <td>
       </td>
       <td>2012-04-27</td>
@@ -1518,7 +1552,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/c_ZasF_5dejTBn95s5rj45ycrPJ7rwLokU_9LKa8-S4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTY5/MDI2LTE1MTExMjMx/MzItMjU3MS5qcGVn.jpeg" alt="Cover for Politics &amp; Girls" style="max-width:120px; height:auto;" />
       </td>
@@ -1557,9 +1591,9 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/X_yFk6zx5Xu4RtiDcyTUq7Q3fisiVVRT6RsSNx5kuPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzQ2/MzMtMTQ0MTUzNzM2/My01MDI3LmpwZWc.jpeg" alt="Cover for Cali Giraffes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18aceef8795e4d94cd11079d25347f95.png" alt="Cover for Cali Giraffes" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Cali Giraffes</td>
@@ -1581,7 +1615,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/nKZu9JiUmwgGYOl5dcS6tehnwzrwc9khi-ZD9kF5Oec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDUx/MzIwLTE1MDg5NDEz/NDktNjU3MC5qcGVn.jpeg" alt="Cover for Cherryland" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dcb2ef33f03bc7b81a1630865f368ba.png" alt="Cover for Cherryland" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>The Ready Set</td>
@@ -1599,7 +1633,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/krIDOS5biu_cisQSmn2Kh_HE7_2w28LKPIvnaO4bmH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTE5/NTAtMTQwNzI5ODU1/NS04MzUyLmpwZWc.jpeg" alt="Cover for Antimatter" style="max-width:120px; height:auto;" />
       </td>
@@ -1645,7 +1679,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/dDA2ug8xqK6K5k5yuD5-JWBGSpYyC6F8NTE1VNATXCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjE3/NDQtMTQ4NDM4NDk4/OS02OTIxLmpwZWc.jpeg" alt="Cover for Más rápido!!" style="max-width:120px; height:auto;" />
       </td>
@@ -1663,9 +1697,9 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/GzBwPRfgp3ZP7kYOCisNtPbCA7VLtKtLMqeqRHDXAA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTcz/OTYyLTE1MTg3NTMy/NDAtODkxMy5qcGVn.jpeg" alt="Cover for The Bull Moose Party" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5afb76804994d7f8aaf6ef1b95b084a.png" alt="Cover for The Bull Moose Party" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Runaway Brother</td>
@@ -1688,9 +1722,9 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/TQPNPP6lpJmuUuy6wfx5s-5b_nJ0OZbohMXTR73Xldc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzg3/OTA0LTE1MjIzOTcy/NzItNDgwMC5qcGVn.jpeg" alt="Cover for Resucitando deprisa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1d57bf64afdbf14d3b8266e8c16ce6d.png" alt="Cover for Resucitando deprisa" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Interceptores</td>
@@ -1709,7 +1743,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/P8IIhQI0FLzaGxRhfazC-UbAT4ynQ1ZBrlKU5H1pL5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjIz/NzQ5LTE1ODgzMzUy/ODktODY0Ny5qcGVn.jpeg" alt="Cover for Make You Dead" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f52f6cb8194a9b34b373abade293385.png" alt="Cover for Make You Dead" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-01-01</td>
       <td>The Homisides</td>
@@ -1727,7 +1761,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/7Gq09N-kgFU41NHkqhLZyL2107U8K5qYWsagy4bm-fo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMz/MDQ5LTE1NTIyNDQz/NzctNDgzNC5wbmc.jpeg" alt="Cover for Guy Madonna" style="max-width:120px; height:auto;" />
       </td>
@@ -1790,7 +1824,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/7Zp336k4of5OnJp0pugikg4EAuMr8haPLqMpNagYJh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODI5/MTgxLTE1ODIzOTcy/MjAtNzI1Ni5qcGVn.jpeg" alt="Cover for Spring Demo" style="max-width:120px; height:auto;" />
       </td>
@@ -1809,7 +1843,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/CAro86EKPXkLLeW8PuRg4WLWDxl7WaEIbTJ1TS4D7ak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDYw/MzU4LTE2MTcwMTAy/MjAtMzIzMC5qcGVn.jpeg" alt="Cover for Eigentlich müsste man mal" style="max-width:120px; height:auto;" />
       </td>
@@ -1902,7 +1936,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/1o-993RDCOD8_NhwKmtEGZHQ-xsu4n6mnPcP0rziGNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzc2/NjkxLTE2OTg5MzY3/NTgtNDc2NC5qcGVn.jpeg" alt="Cover for Haare eines Hundes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bf9a01a76ffcb7b27aae7efcd5f639f.png" alt="Cover for Haare eines Hundes" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-11-03</td>
       <td>Tränen</td>
@@ -1930,9 +1964,31 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/cWnf6YfxhTchErzB5uPLBgTEVyyc5eS7LHm2I0HXYWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTA0/MTQ1LTE3MDg3Njk4/MzMtOTYzOC5qcGVn.jpeg" alt="Cover for iedereen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a0fa1212815221b9fcc91d1fb77c85e.png" alt="Cover for Traumatic Livelihood" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-02-23</td>
+      <td>Jazmin Bean</td>
+      <td>Traumatic Livelihood</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 2</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b392f513893949446bc1da0126c2d263.png" alt="Cover for iedereen" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-02-23</td>
       <td>Iedereen</td>
@@ -1958,30 +2014,9 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>44</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a0fa1212815221b9fcc91d1fb77c85e.png" alt="Cover for Traumatic Livelihood" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024-02-23</td>
-      <td>Jazmin Bean</td>
-      <td>Traumatic Livelihood</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/VDQoC2FWmIv2PPOn4CjCxraU8Nzy4YY4BQW3spOfMQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzk2/OTc1LTE1NzM2ODM0/OTEtODA2OC5qcGVn.jpeg" alt="Cover for HEADSPLIT" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7e3851640419792a95a2b729a7f860b.png" alt="Cover for HEADSPLIT" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-08</td>
       <td>Maggie Lindemann</td>
@@ -2003,10 +2038,10 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 9</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 27</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 15</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 31</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 69</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 84</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 85</li>
             <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 93</li>
         </ul>
       </td>
@@ -2057,9 +2092,9 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 43</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 46</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 61</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 87</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2083,8 +2118,9 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1045a0a1c1af0bbe5b5d722673a274ea.png" alt="Cover for The Audible Dark EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Audible Dark</td>
@@ -2113,46 +2149,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Lip Candy</td>
-      <td>Hate to See You Go - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Ashton Mime</td>
-      <td>Ex Lovers &amp; Friends</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -2172,7 +2169,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -2194,8 +2191,9 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09dfb82b16474b5895cf1df21f1280c7.png" alt="Cover for Bosom" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Bosom</td>
@@ -2218,8 +2216,9 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8227923842a49769d91b40f254b4a4a.png" alt="Cover for No hay nada mejor" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Next Door Aliens</td>
@@ -2237,7 +2236,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -2256,7 +2255,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/218cde32e1d16fd33a914a2e5145bfb4.png" alt="Cover for Taking One for the Team" style="max-width:120px; height:auto;" />
       </td>
@@ -2277,6 +2276,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c99f76c10ea469fc6b6fae8dd7f5cb9.png" alt="Cover for Applause (Cover)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>A Midnight in Chicago</td>

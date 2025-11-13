@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T01:06:26.299Z
+date: 2025-11-13T15:38:05.278Z
 permalink: tags/crunkcore
 title: crunkcore
 ---
 
 ## crunkcore
 
-Last updated: <time datetime="2025-11-08T01:06:26.299Z">Sat Nov 08 2025 03:06:26 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T15:38:05.278Z">Thu Nov 13 2025 17:38:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -68,8 +68,8 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       <td>
         <ul>
             <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 36</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 44</li>
             <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 46</li>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -94,7 +94,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/Bwrj6iPGA2ZNlWINVSqYPCHPMvWdrPNoH5gE-YZfejI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjk0/LTAwMS5qcGc.jpeg" alt="Cover for Comes Closer" style="max-width:120px; height:auto;" />
       </td>
@@ -131,7 +131,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 57</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -174,6 +174,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76a4f393823ca0d55760005b6665e69b.png" alt="Cover for Want" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-07</td>
       <td>3OH!3</td>
@@ -185,7 +186,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 20</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -302,8 +303,8 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 26</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 89</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 14</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -356,6 +357,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7652b8d7c6a44216a456363270b16a98.png" alt="Cover for It&#39;s Classy, Not Classic" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-16</td>
       <td>Breathe Carolina</td>
@@ -366,7 +368,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 32</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 35</li>
             <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 61</li>
         </ul>
       </td>
@@ -515,8 +517,8 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 14</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 12</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -660,7 +662,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 11</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -705,7 +707,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/rlEvugewNcPznOHg61S_8T_r7nX681PlIWTcHsUTINc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTA2/MDEtMTQ1Nzg1MTgz/NC0yOTgzLmpwZWc.jpeg" alt="Cover for Hello Fascination" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4f799f12ed241a4bd67f370ca22beb9.png" alt="Cover for Hello Fascination" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-18</td>
       <td>Breathe Carolina</td>
@@ -718,7 +720,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       <td>
         <ul>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 13</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 13</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 17</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 19</li>
             <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 35</li>
         </ul>
@@ -769,13 +771,13 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 18</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 19</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 65</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 71</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 80</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 86</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 89</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 89</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 89</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 91</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 93</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 94</li>
@@ -882,17 +884,17 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 9</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 16</li>
             <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 28</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 30</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 42</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 44</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 47</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 49</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 51</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 53</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 58</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 62</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 62</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 62</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 63</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 65</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 66</li>
@@ -900,8 +902,8 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 72</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 75</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 81</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 85</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 85</li>
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
@@ -1026,6 +1028,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9f3ca78f60d35b4bc8ed56cbf8ddf94.png" alt="Cover for Streets of Gold" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-25</td>
       <td>3OH!3</td>
@@ -1083,7 +1086,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 6</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1181,7 +1184,8 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 3</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 1</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 2</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 23</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 26</li>
         </ul>
@@ -1607,8 +1611,8 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 34</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 70</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 35</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1766,9 +1770,9 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 64</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 73</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 81</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 83</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 83</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 83</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 83</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 83</li>
             <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 86</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 88</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 91</li>
@@ -1797,6 +1801,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/771e33e0f3124a218f1a3b907d820b9b.png" alt="Cover for Space Homme - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-11</td>
       <td>Julioso</td>
@@ -1948,7 +1953,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 35</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1975,6 +1980,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0973610d4ef36b301aeba9f87604757.png" alt="Cover for Hot Problems" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-18</td>
       <td>Double Take</td>
@@ -2072,8 +2078,8 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 26</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 27</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 32</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 38</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 33</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 40</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 43</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 43</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 44</li>
@@ -2108,7 +2114,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 62</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -2144,12 +2150,12 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
         <ul>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 91</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 96</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 97</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 97</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 97</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 97</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 98</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 99</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 98</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 99</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 99</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 100</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 100</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 100</li>
@@ -2200,7 +2206,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/YT9Zla0zh7gAGkAcgozJOQVR1c5eO7d_xP_RevqCWZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTY2/OTkxLTE1ODQ4NDkw/NjktMTYyOC5qcGVn.jpeg" alt="Cover for What&#39;s My Age Again" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/882b183a7735a6cf33fd4fe9e8026e0a.png" alt="Cover for What&#39;s My Age Again" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Dot Dot Curve :)</td>
@@ -2237,7 +2243,25 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/GHqH7Q8FE7psjasZpM3o1V8wnr2R8BWHU25K46nhqaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTE3/NzItMTUxNjMzODM5/My00MTUyLmpwZWc.jpeg" alt="Cover for Shh..." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-05-14</td>
+      <td>Purple</td>
+      <td>Shh...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/gv4tpL4foUHcJIJU_21YLOvqP4LUh6d8GJJmN-WBiwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/ODgtMTQ3NjA2NTk3/MC00MzA0LmpwZWc.jpeg" alt="Cover for Time" style="max-width:120px; height:auto;" />
       </td>
@@ -2301,7 +2325,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/2qmKllIBX7NhyfiM7f9MtEmrQh7QMvFsy7bBM-P120w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njky/MzgtMTQ1MjYzMzI5/Ny0zNDU4LnBuZw.jpeg" alt="Cover for Beating A Dead Horse" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7474d22fea634822a074049ce1c4adc7.png" alt="Cover for Beating A Dead Horse" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-26</td>
       <td>Jarrod Alonge</td>
@@ -2316,8 +2340,8 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 6</li>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 66</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 7</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -2424,7 +2448,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/xZErH4rMZWfKyAipAOhKc_eGlMJwbm8yaUbvNENeV0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTEw/MzA5LTE2OTY1NzUw/ODktOTc5Mi5qcGVn.jpeg" alt="Cover for Want (Deluxe Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45314af04cb24d19cd707f2b1ee93240.png" alt="Cover for Want (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>3OH!3</td>
@@ -2480,15 +2504,15 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 6</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 41</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 11</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 42</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 60</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 70</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 80</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 81</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 83</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 87</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 92</li>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 94</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 95</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 96</li>
             <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 97</li>
@@ -2648,7 +2672,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 27</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -2675,7 +2699,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -2693,7 +2717,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -2703,24 +2727,6 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Deuse Gangsta</td>
-      <td>Krak Attack</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
         </ul>
       </td>
       <td>
@@ -3028,6 +3034,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93cac12cfd8b022bd028602870691594.png" alt="Cover for Take Off" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>ChocoTerra</td>
@@ -3048,7 +3055,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
