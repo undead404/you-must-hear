@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:56:32.304Z
+date: 2025-11-13T11:06:45.007Z
 permalink: tags/arena-rock
 title: arena rock
 ---
 
 ## arena rock
 
-Last updated: <time datetime="2025-11-11T04:56:32.304Z">Tue Nov 11 2025 06:56:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T11:06:45.007Z">Thu Nov 13 2025 13:06:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 10</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 11</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 48</li>
         </ul>
       </td>
@@ -112,7 +112,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c88c27c1882542ae880ac063af38d647.png" alt="Cover for Boston" style="max-width:120px; height:auto;" />
       </td>
@@ -125,13 +125,13 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 5</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 7</li>
             <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3dd1712880df4daeaf9973f19223f6d7.png" alt="Cover for Crystal Ball" style="max-width:120px; height:auto;" />
       </td>
@@ -175,7 +175,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5ce7fcb95316e64247aa98b19ccdcc7.png" alt="Cover for Broken Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -192,7 +192,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d59b3c788b0d34e9c1c710d073dd269f.png" alt="Cover for In Color" style="max-width:120px; height:auto;" />
       </td>
@@ -210,7 +210,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
       </td>
       <td>1977-10-28</td>
@@ -230,7 +230,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f4ef89c2f7c783615f47b4e1c5460f8.png" alt="Cover for 4 (Expanded)" style="max-width:120px; height:auto;" />
       </td>
@@ -317,7 +317,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/T1epD-aHM3IgWyv_RUWC20efXoizOvKBwvpi_9TBc6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDAx/My0xNTIzNjM2OTYz/LTgzMzYuanBlZw.jpeg" alt="Cover for Armageddon" style="max-width:120px; height:auto;" />
       </td>
@@ -354,7 +354,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b9ae8802f9e4ee8afa13c2dd426a39a.png" alt="Cover for Head First" style="max-width:120px; height:auto;" />
       </td>
@@ -387,7 +387,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 1</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 2</li>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 68</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 86</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 87</li>
@@ -395,7 +395,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ad44563f37d1912f563d63b9e3d4017.png" alt="Cover for Rocks, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -412,25 +412,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9fd1d1974f9a4f930f581c601312b00.png" alt="Cover for Standing Hampton" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1981</td>
-      <td>Sammy Hagar</td>
-      <td>Standing Hampton</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d0885f6ea5398c5dc14722ed81eaa48.png" alt="Cover for Quarterflash" style="max-width:120px; height:auto;" />
       </td>
@@ -490,7 +472,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/130b9e9fca84230dd9b60f609554050c.png" alt="Cover for Don&#39;t Say No" style="max-width:120px; height:auto;" />
       </td>
@@ -508,7 +490,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4fac5fdeeb278f09cd0c73d1d2901bc.png" alt="Cover for Escape" style="max-width:120px; height:auto;" />
       </td>
@@ -526,7 +508,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/Hukc8U1I_tZ0XRxEjwOT-N7S0Un6RyU9eW9f1VAO4vQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTEw/OTAtMTQ4NTc1MjYz/Ny02MTg1LmpwZWc.jpeg" alt="Cover for Still Crazy" style="max-width:120px; height:auto;" />
       </td>
@@ -584,7 +566,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79a5051cefb5235a3b126bb11e4799a0.png" alt="Cover for Get Nervous" style="max-width:120px; height:auto;" />
       </td>
@@ -644,7 +626,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/111a844e3b55483d802a6ae67e854335.png" alt="Cover for Vital Signs" style="max-width:120px; height:auto;" />
       </td>
@@ -680,6 +662,26 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       <td>
         <ul>
             <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e62bbd0522a80cb1cdcd929904f0ef73.png" alt="Cover for Knee Deep in the Hoopla" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985</td>
+      <td>Starship</td>
+      <td>Knee Deep in the Hoopla</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 46</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -723,7 +725,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c99a4b4974bbe5f7de9d97cf6abcbe9.png" alt="Cover for 7 Wishes" style="max-width:120px; height:auto;" />
       </td>
@@ -784,7 +786,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0ec8da6fced634d7756de30754c11f3.png" alt="Cover for Big Life" style="max-width:120px; height:auto;" />
       </td>
@@ -802,7 +804,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/YBUl6RqwmMBkCAW1152-fhGvec4KshlR7o0V5XjAFC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mjk2/MTUtMTQ3NzU5Njk1/MC0yMTIwLmpwZWc.jpeg" alt="Cover for Push" style="max-width:120px; height:auto;" />
       </td>
@@ -837,7 +839,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/6LsGQ95SAHwZOyyPbjGTkZc2Zue_-lNetqOiezBQwe4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzQ2/NS0xMzczODE5MDAz/LTE4MjUuanBlZw.jpeg" alt="Cover for Then and Now" style="max-width:120px; height:auto;" />
       </td>
@@ -860,7 +862,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bf81cf859ac23fb1b78bf1dc6210acd.png" alt="Cover for New Jersey" style="max-width:120px; height:auto;" />
       </td>
@@ -879,7 +881,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ca66698396540abbbca211e0dcbabff.png" alt="Cover for Man in Motion" style="max-width:120px; height:auto;" />
       </td>
@@ -914,7 +916,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td>1989-10-17</td>
@@ -995,7 +997,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a1fa4f13e840e43222b8e17e1acb74a.png" alt="Cover for De Volta ao Começo" style="max-width:120px; height:auto;" />
       </td>
@@ -1016,7 +1018,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/7GmgQZgFefvZNVFGSKzucbY7pCBI2sAKwLZwxa6xSd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODk5/ODgtMTYxNjI0OTUy/NS0yOTQ2LmpwZWc.jpeg" alt="Cover for Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1141,7 +1143,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/da31801dc457918fc3d2428af8db7dc0.png" alt="Cover for Premium Gold Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -1178,7 +1180,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa109d220074d136bbd86e7b84c5cd39.png" alt="Cover for Aura" style="max-width:120px; height:auto;" />
       </td>
@@ -1273,7 +1275,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/631b2a5b343a50a24418ec747e2aca5b.png" alt="Cover for Greatest Hits [Hollywood]" style="max-width:120px; height:auto;" />
       </td>
@@ -1308,7 +1310,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6959c5a78ff865196e89feb506af4a41.png" alt="Cover for The Best of Styx" style="max-width:120px; height:auto;" />
       </td>
@@ -1345,7 +1347,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
       </td>
       <td>2003-03-18</td>
@@ -1384,7 +1386,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cae5689182344e2dce52d4b5ed1e4259.png" alt="Cover for Come Sail Away: The Styx Anthology" style="max-width:120px; height:auto;" />
       </td>
@@ -1461,7 +1463,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/UF0g_PxMhRYBPItb0qgAIeLX85XL6EtaagcUWUX7XK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTM2/NzItMTMzNjY0MTgy/NC0yMDI5LmpwZWc.jpeg" alt="Cover for The Original Bad Company Anthology" style="max-width:120px; height:auto;" />
       </td>
@@ -1504,7 +1506,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb57f6722db840b1ab3b1549959104f1.png" alt="Cover for Just Getting Started" style="max-width:120px; height:auto;" />
       </td>
@@ -1537,7 +1539,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 2</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1580,7 +1582,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1612c85856d029915822f5dd8e5a9d50.png" alt="Cover for Gran City Pop" style="max-width:120px; height:auto;" />
       </td>
@@ -1599,7 +1601,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d363e911cb3cde6d13a7d6a1f2ae0e6.png" alt="Cover for The Latest" style="max-width:120px; height:auto;" />
       </td>
@@ -1672,7 +1674,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/Vgz-ixAEUPCBquJKgj38kxPya90RxcFOWwpMNuQaEFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjMy/OTMtMTM4NjIyNjAy/MC03Mjc1LmpwZWc.jpeg" alt="Cover for Life Love &amp; Hope" style="max-width:120px; height:auto;" />
       </td>
@@ -1711,7 +1713,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c046b597086b1d54725a8cd69efa190d.png" alt="Cover for Night People" style="max-width:120px; height:auto;" />
       </td>
@@ -1911,13 +1913,13 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 30</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 32</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e808ba80a58646bec6e4643d8888ab25.png" alt="Cover for The Best of Foghat [1989]" style="max-width:120px; height:auto;" />
       </td>
@@ -1938,8 +1940,9 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54ec412571444438b7e4f9bdbf3db3ea.png" alt="Cover for Born &amp; Raised (On Rock &amp; Roll)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Beau Coup</td>
@@ -1955,7 +1958,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6048af44fb6a4cb88914b3a92d0eef30.png" alt="Cover for Classics, Vol. 12" style="max-width:120px; height:auto;" />
       </td>
