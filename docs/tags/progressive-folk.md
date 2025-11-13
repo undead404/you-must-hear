@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-23T00:05:46.518Z
+date: 2025-11-13T15:16:06.338Z
 permalink: tags/progressive-folk
 title: progressive folk
 ---
 
 ## progressive folk
 
-Last updated: <time datetime="2025-10-23T00:05:46.518Z">Thu Oct 23 2025 03:05:46 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-13T15:16:06.338Z">Thu Nov 13 2025 17:16:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,8 +29,9 @@ Progressive folk blends traditional folk music with experimental structures, com
   </thead>
   <tbody>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea9eb36fe7424a67bd073d53dfa987fd.png" alt="Cover for Sorcerers" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Jan Dukes De Grey</td>
@@ -51,7 +52,7 @@ Progressive folk blends traditional folk music with experimental structures, com
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/vBl5Y5mAOFOi-CMrMGcBbmVjdxzpeJSduh01N7rBF5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MzEtMTQ4MzcyOTY0/NS05MTExLmpwZWc.jpeg" alt="Cover for Parallelograms" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b53b4a9eefe0d0294695bad0e97f7e2b.png" alt="Cover for Parallelograms" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Linda Perhacs</td>
@@ -65,8 +66,8 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 74</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 87</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 73</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 88</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 90</li>
         </ul>
       </td>
@@ -88,12 +89,12 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 79</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/NHzNYCC3T2UqepeDDdgVGPRgoOVeuspMZwIQoitNEMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjQ1/NTItMTM0NzM1NDk4/My0yMTY5LmpwZWc.jpeg" alt="Cover for Música Dispersa" style="max-width:120px; height:auto;" />
       </td>
@@ -114,33 +115,30 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3eb88f043d09051467e0472491c8679e.png" alt="Cover for First Utterance" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Comus</td>
       <td>First Utterance</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
-            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a></li>
-            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 4</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 73</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 88</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 24</li>
             <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 89</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dda005b7c6a2e9fc49c129f67401d8ce.png" alt="Cover for From The Witchwood" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Strawbs</td>
@@ -156,7 +154,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
       </td>
       <td>1971</td>
@@ -174,7 +172,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/UhNE-hMtj1B9hvnJwdBs68uov_NLEez6Zf8xHZIoS9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzE0/NTAtMTU0ODg1MTUx/OS0yMDg3Lm1wbw.jpeg" alt="Cover for Stackridge" style="max-width:120px; height:auto;" />
       </td>
@@ -193,8 +191,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/adfaafcc2d6de4788ac725b417d6d04f.png" alt="Cover for Sudamérica o el Regreso a la Aurora" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Arco Iris</td>
@@ -211,7 +210,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/XDFDFk4ODZvHsEIbMYpSmw1NWLyEsnNkVnoAks1YBAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzU0/MTA1LTE2ODY0OTc2/MzItOTUxNy5qcGVn.jpeg" alt="Cover for Subway" style="max-width:120px; height:auto;" />
       </td>
@@ -229,9 +228,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/MOngfIL-1S5SKrzL1sHzsIsKFnxuAcFShO0va5qgV2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MzI2/OC0xMTY2NDQ4MjA1/LmpwZWc.jpeg" alt="Cover for Lunch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ead497b477c6ae7d605072ed16d18d8.png" alt="Cover for Lunch" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Audience</td>
@@ -249,7 +248,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/64gScnR73CTmV-30xB21or1qC6dVosu_z_ugxUbwEwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDM1/OTgtMTYwMDQzODEw/MC00NjA1LmpwZWc.jpeg" alt="Cover for Friendliness" style="max-width:120px; height:auto;" />
       </td>
@@ -268,7 +267,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
       </td>
       <td>1973</td>
@@ -288,9 +287,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/xCK-J12Qpr2i2zSFLNWH7N543jJrN90vmxxjl1WS4ho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODE3/ODQtMTU4MzA5MTg3/OC01NDcyLmpwZWc.jpeg" alt="Cover for Gryphon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18acc4284ca747503b6e6ac4843cb873.png" alt="Cover for Gryphon" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>Gryphon</td>
@@ -306,8 +305,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04036a3638615c001c9438aabb2d3c20.png" alt="Cover for Artaud" style="max-width:120px; height:auto;" />
       </td>
       <td>1973-10</td>
       <td>Pescado Rabioso</td>
@@ -321,17 +321,17 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 21</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 36</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 26</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 37</li>
             <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 65</li>
             <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/1v0_LdppVTEcGm7BLqM3-c3waC24hFhEQQAAEQcdHmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDUz/MzYtMTMzMzEwODUz/NS5qcGVn.jpeg" alt="Cover for La terra" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a95bacf7b90d42c99307b443f4619836.png" alt="Cover for La terra" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Aktuala</td>
@@ -352,9 +352,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>79</td>
       <td>
-          <img src="https://i.discogs.com/IZ0aFh-AxbHr1k7lCU8n8u9qb8cK_oR6V0a4-C3QzgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzgtMTQ0NTUzNzUz/OS01MTgxLmpwZWc.jpeg" alt="Cover for Pequeñas Anecdotas Sobre Las Instituciones" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee2f7c5e1b6836f0284d9702730729a4.png" alt="Cover for Pequeñas Anecdotas Sobre Las Instituciones" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Sui Generis</td>
@@ -370,14 +370,15 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 47</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 50</li>
             <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfbcfae1c205e1d96f9c63f90a06cf67.png" alt="Cover for Red Queen to Gryphon Three" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Gryphon</td>
@@ -393,9 +394,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/oGoyIvMHigy8pk87U1On-t5V0i-FtEO83Y2vfjNEb9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDA3/NDQtMTMwNjM5NDU5/NS5qcGVn.jpeg" alt="Cover for Pierrot Lunaire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec3b33a358cf5a193e63d0b7516cdb22.png" alt="Cover for Pierrot Lunaire" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Pierrot Lunaire</td>
@@ -450,9 +451,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
-          <img src="https://i.discogs.com/RKApAy80mz1cpm3j-958So2Jlo3QgUo26yW7bXz68Fk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjE4/NTktMTMxMjEyMDc4/MC5qcGVn.jpeg" alt="Cover for Pequeñas Anécdotas Sobre las Instituciones" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76c233f9ae5c7d036a25e6bd3ae59cc2.png" alt="Cover for Pequeñas Anécdotas Sobre las Instituciones" style="max-width:120px; height:auto;" />
       </td>
       <td>1974-12-16</td>
       <td>Sui Generis</td>
@@ -468,15 +469,15 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 55</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 58</li>
             <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/HI7M6eyhtXE010H_sB-cx30VGkJXbbq1_VCzsrpj3d4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc3/NTItMTIxNDM3OTc3/NC5qcGVn.jpeg" alt="Cover for Agitor Lucens V" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3823bafac2905d7eae165f165ed073e.png" alt="Cover for Agitor Lucens V" style="max-width:120px; height:auto;" />
       </td>
       <td>1975</td>
       <td>Arco Iris</td>
@@ -492,7 +493,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/sx6LoI5ZSTcxm_Ubu3mymatLcfYJJQ2lqvIiUB8HNBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTc0/NjgtMTY0MzI4MzQz/Ny0xMzA1LmpwZWc.jpeg" alt="Cover for Où est passée la noce?" style="max-width:120px; height:auto;" />
       </td>
@@ -510,8 +511,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2ce873a7a408429efa599793fa0f8b3.png" alt="Cover for Hoelderlin" style="max-width:120px; height:auto;" />
       </td>
       <td>1975</td>
       <td>Hoelderlin</td>
@@ -528,7 +530,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/R9YtNOgjv0XBNvGCLu1rlG4W6wQEiHCwzi6QG1Z_8cE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDM2/MzEtMTM1MTQyNzIx/Ni0zMzY4LmpwZWc.jpeg" alt="Cover for Extravaganza" style="max-width:120px; height:auto;" />
       </td>
@@ -547,8 +549,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43df8ea7439b0ce482b5e1f57ed51d90.png" alt="Cover for Les porches" style="max-width:120px; height:auto;" />
       </td>
       <td>1975-12</td>
       <td>Maneige</td>
@@ -571,7 +574,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ff019ffbfd011b4ee2702cf3ebd9eac.png" alt="Cover for Alucinação" style="max-width:120px; height:auto;" />
       </td>
@@ -590,7 +593,24 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>70</td>
+      <td>
+      </td>
+      <td>1976</td>
+      <td>Chilliwack</td>
+      <td>Dreams, Dreams, Dreams</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>
       </td>
       <td>1976</td>
@@ -608,25 +628,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>15</td>
       <td>
-      </td>
-      <td>1976</td>
-      <td>Chilliwack</td>
-      <td>Dreams, Dreams, Dreams</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>
-          <img src="https://i.discogs.com/VXDTnGblxnyjZdZUV61jjfNtxWRRATrD_bSHaUOYGYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzE5/MS0xMTczOTQyNDE5/LmpwZWc.jpeg" alt="Cover for Rockpommel&#39;s Land" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46ec0d5ac49e428bb4079ee7a7a28ad3.png" alt="Cover for Rockpommel&#39;s Land" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Grobschnitt</td>
@@ -642,9 +646,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/sXvqS3c662Go5fQMbUo1892WvMzkX2mt0AgciMQLdxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjE2/MzQtMTMzNzYwNjIz/My01ODU2LmpwZWc.jpeg" alt="Cover for Ni Vent... Ni Nouvelle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eea31d7805c24f8d8e536556dbb38833.png" alt="Cover for Ni Vent... Ni Nouvelle" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Maneige</td>
@@ -664,7 +668,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>90</td>
       <td>
       </td>
       <td>1977</td>
@@ -683,7 +687,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/qsJKs-YBeZnCRfIasXjlsUrvWRtJJCdHTKRq83nfwO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDU4/MjEtMTQyNzk4NDY1/NS05NDcwLmpwZWc.jpeg" alt="Cover for Itoiz" style="max-width:120px; height:auto;" />
       </td>
@@ -703,7 +707,7 @@ Progressive folk blends traditional folk music with experimental structures, com
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/JuydQ3s_lCMOXX-rm69yMtm5IDFKPJiyCS2ArAtJlLw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzE1/MTYtMTYxMjkwNjc5/MC0yMzIzLmpwZWc.jpeg" alt="Cover for Carol Of Harvest" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec6c4d7d020cec3d6f574fa05e524ef5.png" alt="Cover for Carol Of Harvest" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Carol of Harvest</td>
@@ -723,8 +727,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30d6566610d34680854ac3c5b325b55b.png" alt="Cover for Obras de Violeta Parra" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Los Jaivas</td>
@@ -748,9 +753,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/6cpb_17rBZf-3AWMdPso_ArZODXnFqYOblv4tUz6Xs0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTMx/MzEtMTM5MjY4NTAy/MS01NDQ3LmpwZWc.jpeg" alt="Cover for Elis 1977" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab52146503a34af89808bad6ae6e9f31.png" alt="Cover for Elis 1977" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Elis Regina</td>
@@ -769,7 +774,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
       </td>
       <td>1989</td>
@@ -785,7 +790,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
       </td>
       <td>1989-09-01</td>
@@ -808,7 +813,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3096b866f7a6fa820e84536a68f975f.png" alt="Cover for Ghost" style="max-width:120px; height:auto;" />
       </td>
@@ -830,7 +835,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/GnpE53mi3M1F-UsYiMKM1xjVIGXld-jfCuaDFFCE_9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTAx/MDA4LTE1MDk4NzQy/MjktNjQ3NS5qcGVn.jpeg" alt="Cover for 遠い音楽" style="max-width:120px; height:auto;" />
       </td>
@@ -890,12 +895,12 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a> # 5</li>
+            <li> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/3GJAwmXdySXGWxfP4SIGEiWiTtddrmvBQwNs8kcnaNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzIz/ODA1LTE1MjE1ODAz/MzItMTQ5Ny5qcGVn.jpeg" alt="Cover for Necropolis" style="max-width:120px; height:auto;" />
       </td>
@@ -913,14 +918,14 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 64</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/ZkSsw6VJIGayAzrU4bNJQATVL5BZ6drdGCF9GFmoFcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjM4/NTEtMTI2MTg0NDg3/MC5qcGVn.jpeg" alt="Cover for The Waters of Sweet Sorrow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d23c17c24ec7ca565b27a158ff4cb9b.png" alt="Cover for The Waters of Sweet Sorrow" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Midwinter</td>
@@ -936,7 +941,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/356c00d409b143a5a91ad0d305be178d.png" alt="Cover for Mägo de Oz" style="max-width:120px; height:auto;" />
       </td>
@@ -956,7 +961,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/0z7D0JVQZua6cfCAb0fgG8hUqD4fHpmdRI9sASmcmDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDEy/Mi0xNDU5OTc1Nzc0/LTE0MTEuanBlZw.jpeg" alt="Cover for Murmur (Reissue)" style="max-width:120px; height:auto;" />
       </td>
@@ -980,7 +985,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
       </td>
       <td>1995</td>
@@ -997,8 +1002,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2427888e8d1b4e466b3f30a0da0fcca.png" alt="Cover for Turn Of The Wheel" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Tempest</td>
@@ -1017,7 +1023,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
       </td>
       <td>1996-08-30</td>
@@ -1036,14 +1042,14 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 9</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/ZBlVyBOv_PZZu3Vu7Q7V6_ycf1_zdjjTVRotzyHuHr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDkw/OTItMTUwMzE2MDc5/NS03NDc0LmpwZWc.jpeg" alt="Cover for Carnival of Souls" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5186771d9f58149ded23a5ea780f6a19.png" alt="Cover for Carnival of Souls" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-09</td>
       <td>The Wishing Tree</td>
@@ -1061,8 +1067,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e61269a85d7c3f2d6817d91f910ba041.png" alt="Cover for Bad Timing" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-08-25</td>
       <td>Jim O&#39;Rourke</td>
@@ -1077,13 +1084,13 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 25</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 27</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
       </td>
       <td>1999</td>
@@ -1099,12 +1106,12 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 85</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>2001</td>
@@ -1124,7 +1131,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/RTtMJgcXKvxpePvjC4sb018aspujgK2UwTh5j7O2-IE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk5/OTAtMTU1MzM4NTAz/My05NDM3LmpwZWc.jpeg" alt="Cover for Corra o Risco" style="max-width:120px; height:auto;" />
       </td>
@@ -1143,7 +1150,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
       </td>
       <td>2001-11-28</td>
@@ -1166,15 +1173,15 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 25</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 57</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 26</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 58</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 62</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/ILryeKJ44snbtDdHdXPzdbC7CKvRNI5nasR5dXfpT_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTgw/MTMtMTQ2NDAxMjE3/NC02NDkxLmpwZWc.jpeg" alt="Cover for Cennet" style="max-width:120px; height:auto;" />
       </td>
@@ -1212,56 +1219,32 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8efba891e5e0463fa74985b9c59c15be.png" alt="Cover for Daemonia Nymphe" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-09</td>
       <td>Daemonia Nymphe</td>
       <td>Daemonia Nymphe</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/greek" | relative_url }}">greek</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 21</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 62</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 89</li>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
-          <img src="https://i.discogs.com/1Kdu2aNOLn157MuqEhNecVwmwYww2jJIz8HF0kj5xJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzY3/Mi0xMTU4MzczMjc2/LmpwZWc.jpeg" alt="Cover for Mistletoe &amp; Wine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0bee6ad508e4770ba489e7b0204d929.png" alt="Cover for Mistletoe &amp; Wine" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Mediæval Bæbes</td>
       <td>Mistletoe &amp; Wine</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 52</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
-      <td>
-          <img src="https://i.discogs.com/1Kdu2aNOLn157MuqEhNecVwmwYww2jJIz8HF0kj5xJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzY3/Mi0xMTU4MzczMjc2/LmpwZWc.jpeg" alt="Cover for Mistletoe and Wine" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Mediæval Bæbes</td>
-      <td>Mistletoe and Wine</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
@@ -1274,7 +1257,26 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5745ebe43964356c38e3ab1726c0aba.png" alt="Cover for Mistletoe and Wine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Mediæval Bæbes</td>
+      <td>Mistletoe and Wine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
       <td>
       </td>
       <td>2003</td>
@@ -1293,7 +1295,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2005</td>
@@ -1313,7 +1315,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
       </td>
       <td>2005-03-14</td>
@@ -1337,6 +1339,7 @@ Progressive folk blends traditional folk music with experimental structures, com
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ac6ddaeb0064066bbc7bdc5e8c5c8b7.png" alt="Cover for Madrid Las Ventas" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-08-30</td>
       <td>Mägo de Oz</td>
@@ -1356,7 +1359,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
       </td>
       <td>2006-01-25</td>
@@ -1410,7 +1413,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 18</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 19</li>
             <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 34</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 40</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 50</li>
@@ -1426,29 +1429,28 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3099ccb417356b9b0980fbf37eaeb7b.png" alt="Cover for Ys" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-14</td>
       <td>Joanna Newsom</td>
       <td>Ys</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 39</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 53</li>
             <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/AHzZ-PmWFr3P006HvOoXjoTqd-tuluP5olz5lFQALEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDQ1/NS0xNDE1MTIzNjcw/LTgxNjkuanBlZw.jpeg" alt="Cover for Grace &amp; Danger" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26ef75cef45e819b737193ab50cd2907.png" alt="Cover for Grace &amp; Danger" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>John Martyn</td>
@@ -1486,8 +1488,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1d98d97c8af4344c317fd54a23e305b.png" alt="Cover for Good Nature" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-17</td>
       <td>Youthmovies</td>
@@ -1509,8 +1512,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15a56e945a3c4119c1a67ee3c67e99f5.png" alt="Cover for Talking With Strangers" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-10</td>
       <td>Judy Dyble</td>
@@ -1529,16 +1533,15 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f863cceffcb45c692e648f11fce5160.png" alt="Cover for Have One on Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-02-03</td>
       <td>Joanna Newsom</td>
       <td>Have One on Me</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a></li>
         </ul>
       </td>
       <td>
@@ -1551,7 +1554,7 @@ Progressive folk blends traditional folk music with experimental structures, com
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/20Sk8ZsMeuZ3mTPKzkDEjT9OvkHmOoSjN13qFanQ-l8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDc0/ODYtMTI4MjMyNjQ2/MC5qcGVn.jpeg" alt="Cover for All Delighted People EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6d1b88bdcc1428d8cddf2868ac159ae.png" alt="Cover for All Delighted People EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-20</td>
       <td>Sufjan Stevens</td>
@@ -1569,8 +1572,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e36068b367c64f6287f49ca5415f38db.png" alt="Cover for 謳う丘 ～Ar&#x3D;Ciel Ar&#x3D;Dor～" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-29</td>
       <td>志方あきこ</td>
@@ -1587,7 +1591,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       <td>
         <ul>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 16</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 30</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 31</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 44</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 59</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 68</li>
@@ -1595,9 +1599,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/bwfRwx1T3UDSt6LeHt3dKSbP3Xs-ejAJktyT4HJOxAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzkw/OTAtMTM1NzAxNTEz/My02MzI2LmpwZWc.jpeg" alt="Cover for Solid Air (Remastered)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cb13e64568b48d9c894512c52f8e09f.png" alt="Cover for Solid Air (Remastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>John Martyn</td>
@@ -1621,7 +1625,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>89</td>
       <td>
       </td>
       <td>2011-04-11</td>
@@ -1638,8 +1642,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff20a3537d91409ca96dc8927d4f879f.png" alt="Cover for Helplessness Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-29</td>
       <td>Fleet Foxes</td>
@@ -1651,16 +1656,17 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 36</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 40</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 64</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 80</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 83</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f38deeee1e442ffb629d2bbcd08fdbc.png" alt="Cover for 白夢の繭～Ricordando il passato～" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-08</td>
       <td>志方あきこ</td>
@@ -1688,7 +1694,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 13</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 14</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 23</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 40</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 50</li>
@@ -1698,7 +1704,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
       </td>
       <td>2011-11-21</td>
@@ -1738,7 +1744,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
       </td>
       <td>2012-05-04</td>
@@ -1755,8 +1761,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a473d7e9afe4907ae6e1af63dfaf794.png" alt="Cover for Shields" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-17</td>
       <td>Grizzly Bear</td>
@@ -1768,14 +1775,13 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 39</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/ijABHByi-7k75pedrWc1D5WbNSIpywbfoQSUs8EwIzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDQw/NDctMTM3MDg4MTg2/Ni04MDE0LmpwZWc.jpeg" alt="Cover for Den Internasjonale Bronsealderen" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Tusmørke</td>
@@ -1793,7 +1799,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
       </td>
       <td>2013-09-20</td>
@@ -1810,9 +1816,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>93</td>
       <td>
-          <img src="https://i.discogs.com/jTy7dIWPObkqmdfNI9dq_vcplpgDP5FxnGAuCl6_b3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTEx/Mi0xNDU3NDk3MDU3/LTEyNTguanBlZw.jpeg" alt="Cover for Stormcock (Remastered)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf3200802b4701709c3156f6968f8bc7.png" alt="Cover for Stormcock (Remastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Roy Harper</td>
@@ -1830,16 +1836,37 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 46</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 48</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 63</li>
             <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/21-esQnZEoJzWX4JEbdmbk92b2WHfCAtL2MyN2PVfxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MzU0/NzAtMTQ2OTc4NDY3/MS01MDM5LmpwZWc.jpeg" alt="Cover for Marina" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06093697c90d4367c3ebee78feedcccd.png" alt="Cover for The Soul of All Natural Things" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-03-04</td>
+      <td>Linda Perhacs</td>
+      <td>The Soul of All Natural Things</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/219d6b6561316971791e2b767fa18151.png" alt="Cover for Marina" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Eddi Front</td>
@@ -1860,30 +1887,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>68</td>
-      <td>
-          <img src="https://i.discogs.com/QTIed6mE1h8aswOmjY1NqyYthi7WvNbMDh9asinf8cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTk5/NzEtMTQ3ODQwNjk0/OC00NTM5LmpwZWc.jpeg" alt="Cover for Divers" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-10-23</td>
-      <td>Joanna Newsom</td>
-      <td>Divers</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 20</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 76</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/LtMu81VET1LP47fSE9IBP6O-hdO82SnyPdrsqL2VhQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDMw/NDYyLTE2MzEyMjYz/NDEtOTc2MS5qcGVn.jpeg" alt="Cover for Crack-Up" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b46a8d1ea1a835ab5cebb41e032677e.png" alt="Cover for Crack-Up" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Fleet Foxes</td>
@@ -1897,7 +1903,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 75</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 77</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 95</li>
         </ul>
       </td>
@@ -1905,7 +1911,7 @@ Progressive folk blends traditional folk music with experimental structures, com
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/9IOHN9fuhKNAqzuaTEcQMLSEQ_SWAjGKloyxur6C6Lc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA5/NTkyLTE1MTM5MjQx/NDItODg1NS5qcGVn.jpeg" alt="Cover for Thanks for Listening" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e68af57ba148b2e25605bd4db1748a9.png" alt="Cover for Thanks for Listening" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-08</td>
       <td>Chris Thile</td>
@@ -1922,9 +1928,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
-          <img src="https://i.discogs.com/EP_jqbFyoEaXv6em7Oy12uxUS6vIjf6aD5o9iwL3oLw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk3/MDgwLTE2MjIwNjYy/NDYtNjk4Mi5qcGVn.jpeg" alt="Cover for I&#39;ll Be Your Girl" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5782c78ab16983af49f836bf52c1cc60.png" alt="Cover for I&#39;ll Be Your Girl" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-03-16</td>
       <td>The Decemberists</td>
@@ -1944,7 +1950,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/gQKZ0ExY-IqBkgz76NLVMVVKvLTum2L_gBYPIWrw4rw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODE1/NjQ5LTE1NjE3NDQ0/MDEtNjA1NS5qcGVn.jpeg" alt="Cover for Days in the Bluish House" style="max-width:120px; height:auto;" />
       </td>
@@ -1964,7 +1970,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f9329d2e117455b7f59b3590f7f2ff7.png" alt="Cover for Through Shaded Woods" style="max-width:120px; height:auto;" />
       </td>
@@ -2004,9 +2010,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
-          <img src="https://i.discogs.com/u6qIhFtgSTHkEAhRU3vvIM8cEI4KfXXdc4gAUk6-faQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzgx/MzUxLTE2NTMwNDM5/OTItMzA0MC5qcGVn.jpeg" alt="Cover for You Belong There" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11f4e269d6c890b9b51f279cdc5b103e.png" alt="Cover for You Belong There" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-04-08</td>
       <td>Daniel Rossen</td>
@@ -2022,16 +2028,16 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 71</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 72</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 79</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/1Cg4llDPh59l7Pn7hxrK46nWLqYcf7BiA63WL47v_7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDY0/NzQ2LTE2MTk1MDg1/ODEtMTg2My5qcGVn.jpeg" alt="Cover for Hölderlins Traum" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3837d5f4780464b943842291ae7c7e1.png" alt="Cover for Hölderlins Traum" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-12-09</td>
       <td>Hölderlin</td>
@@ -2049,7 +2055,7 @@ Progressive folk blends traditional folk music with experimental structures, com
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/iNUkZxMLrquhxvD1Bsh1NANZS2oVPtE7p9vqB_pzhF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU5/Nzc4LTE3MDAzOTY4/MTQtMTg5OC5qcGVn.jpeg" alt="Cover for Look Over The Wall, See The Sky" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/916da24b5971f7cb3eb03f2d95b63f42.png" alt="Cover for Look Over The Wall, See The Sky" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-11-10</td>
       <td>John Francis Flynn</td>
@@ -2065,28 +2071,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>49</td>
-      <td>
-          <img src="https://i.discogs.com/L5YXfOyTjRH0tl0TZsO_pRWO1BUJCS3OmLynkYDA8O4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjg5/NzY0LTE3MTU4MjM4/NTMtMjM4MC5qcGVn.jpeg" alt="Cover for Lives Outgrown" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024-05-17</td>
-      <td>Beth Gibbons</td>
-      <td>Lives Outgrown</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 20</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 84</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
       </td>
       <td></td>
@@ -2105,7 +2090,26 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0d69f9590c8b7dedd7a624a4d1e46c4.png" alt="Cover for Downhill Uphill" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>The Soundrops</td>
+      <td>Downhill Uphill</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
       <td>
       </td>
       <td></td>
@@ -2123,8 +2127,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddbec5ddd8244262aa967c2a2c75ebed.png" alt="Cover for Fits and Starts: Volume Two" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Kevin Cryderman</td>

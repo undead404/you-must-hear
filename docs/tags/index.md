@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-13T14:48:31.684Z
+date: 2025-11-13T15:17:03.807Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-13T14:48:31.684Z">Thu Nov 13 2025 16:48:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T15:17:03.807Z">Thu Nov 13 2025 17:17:03 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [alternative rock]({{ "tags/alternative-rock" | relative_url }}) | <time datetime="2025-11-13T15:17:03.807Z">Thu Nov 13 2025 17:17:03 GMT+0200 (Eastern European Standard Time)</time> |
+| [progressive folk]({{ "tags/progressive-folk" | relative_url }}) | <time datetime="2025-11-13T15:16:06.338Z">Thu Nov 13 2025 17:16:06 GMT+0200 (Eastern European Standard Time)</time> |
 | [new york city]({{ "tags/new-york-city" | relative_url }}) | <time datetime="2025-11-13T14:48:31.684Z">Thu Nov 13 2025 16:48:31 GMT+0200 (Eastern European Standard Time)</time> |
 | [art pop]({{ "tags/art-pop" | relative_url }}) | <time datetime="2025-11-13T14:32:04.101Z">Thu Nov 13 2025 16:32:04 GMT+0200 (Eastern European Standard Time)</time> |
 | [brazilian rock]({{ "tags/brazilian-rock" | relative_url }}) | <time datetime="2025-11-13T13:57:51.817Z">Thu Nov 13 2025 15:57:51 GMT+0200 (Eastern European Standard Time)</time> |
@@ -285,7 +287,6 @@ Last updated: <time datetime="2025-11-13T14:48:31.684Z">Thu Nov 13 2025 16:48:31
 | [punk rock]({{ "tags/punk-rock" | relative_url }}) | <time datetime="2025-11-11T05:01:29.301Z">Tue Nov 11 2025 07:01:29 GMT+0200 (Eastern European Standard Time)</time> |
 | [ambient techno]({{ "tags/ambient-techno" | relative_url }}) | <time datetime="2025-11-11T05:00:57.358Z">Tue Nov 11 2025 07:00:57 GMT+0200 (Eastern European Standard Time)</time> |
 | [ghettotech]({{ "tags/ghettotech" | relative_url }}) | <time datetime="2025-11-11T05:00:46.030Z">Tue Nov 11 2025 07:00:46 GMT+0200 (Eastern European Standard Time)</time> |
-| [alternative rock]({{ "tags/alternative-rock" | relative_url }}) | <time datetime="2025-11-11T04:59:58.252Z">Tue Nov 11 2025 06:59:58 GMT+0200 (Eastern European Standard Time)</time> |
 | [indie dance]({{ "tags/indie-dance" | relative_url }}) | <time datetime="2025-11-11T04:57:40.309Z">Tue Nov 11 2025 06:57:40 GMT+0200 (Eastern European Standard Time)</time> |
 | [queercore]({{ "tags/queercore" | relative_url }}) | <time datetime="2025-11-11T04:56:11.799Z">Tue Nov 11 2025 06:56:11 GMT+0200 (Eastern European Standard Time)</time> |
 | [poptron]({{ "tags/poptron" | relative_url }}) | <time datetime="2025-11-11T04:55:46.449Z">Tue Nov 11 2025 06:55:46 GMT+0200 (Eastern European Standard Time)</time> |
@@ -979,7 +980,6 @@ Last updated: <time datetime="2025-11-13T14:48:31.684Z">Thu Nov 13 2025 16:48:31
 | [true black metal]({{ "tags/true-black-metal" | relative_url }}) | <time datetime="2025-10-23T00:07:40.528Z">Thu Oct 23 2025 03:07:40 GMT+0300 (Eastern European Summer Time)</time> |
 | [classical crossover]({{ "tags/classical-crossover" | relative_url }}) | <time datetime="2025-10-23T00:07:07.395Z">Thu Oct 23 2025 03:07:07 GMT+0300 (Eastern European Summer Time)</time> |
 | [national socialist]({{ "tags/national-socialist" | relative_url }}) | <time datetime="2025-10-23T00:06:25.792Z">Thu Oct 23 2025 03:06:25 GMT+0300 (Eastern European Summer Time)</time> |
-| [progressive folk]({{ "tags/progressive-folk" | relative_url }}) | <time datetime="2025-10-23T00:05:46.518Z">Thu Oct 23 2025 03:05:46 GMT+0300 (Eastern European Summer Time)</time> |
 | [black ambient]({{ "tags/black-ambient" | relative_url }}) | <time datetime="2025-10-23T00:05:09.842Z">Thu Oct 23 2025 03:05:09 GMT+0300 (Eastern European Summer Time)</time> |
 | [darksynth]({{ "tags/darksynth" | relative_url }}) | <time datetime="2025-10-23T00:04:15.880Z">Thu Oct 23 2025 03:04:15 GMT+0300 (Eastern European Summer Time)</time> |
 | [neocrust]({{ "tags/neocrust" | relative_url }}) | <time datetime="2025-10-23T00:03:57.156Z">Thu Oct 23 2025 03:03:57 GMT+0300 (Eastern European Summer Time)</time> |
