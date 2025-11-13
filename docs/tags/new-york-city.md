@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T21:39:51.583Z
+date: 2025-11-13T14:48:31.684Z
 permalink: tags/new-york-city
 title: new york city
 ---
 
 ## new york city
 
-Last updated: <time datetime="2025-11-02T21:39:51.583Z">Sun Nov 02 2025 23:39:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T14:48:31.684Z">Thu Nov 13 2025 16:48:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
   </thead>
   <tbody>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td>1977</td>
@@ -48,7 +48,25 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36191054788990d3cce76102e2a57f41.png" alt="Cover for Road to Ruin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1978-09-22</td>
+      <td>Ramones</td>
+      <td>Road to Ruin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/AUIxmZTt4AtrGTigwgB7xrxPkpUIIgwhd5xfakVKXcs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc5/MDQxLTE1NTQ0MDgz/MDYtODE0OC5qcGVn.jpeg" alt="Cover for Sake...Of It Vol 1" style="max-width:120px; height:auto;" />
       </td>
@@ -86,7 +104,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/qyAnCkhJ1CmYVc-oZoB007ZH63ZRH5Nkh9cZD7b2uwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDAz/MjMwLTE2NTM4ODA4/MzUtMzcyNS5qcGVn.jpeg" alt="Cover for The Sex Of It" style="max-width:120px; height:auto;" />
       </td>
@@ -104,7 +122,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/Nh_1BYwtgquq4XwJfumch3OPYYUYyxQ_xHJl0AT-sAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODA3/NzQtMTQ3Mzk4OTQ2/OS0xOTI0LmpwZWc.jpeg" alt="Cover for Wise Guy" style="max-width:120px; height:auto;" />
       </td>
@@ -125,9 +143,9 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/CHRsXCyeO0rkm1m80FpkB6HgNgc3NxiMWZp8y_hpspk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzcx/Nzk2LTE1MjIwOTk3/MjgtMjY2OS5qcGVn.jpeg" alt="Cover for Ultimate Collection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e08c539a371c83b69753498aafd23b71.png" alt="Cover for Ultimate Collection" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Kid Creole &amp; The Coconuts</td>
@@ -146,7 +164,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/pKfEbd87slCa0a5YJockOlrHKbixqLXYuLlMiFJMgfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODU2/NTQtMTM1NTU5Mzcx/MS0zODU3LmpwZWc.jpeg" alt="Cover for Sun Ra and His Myth Science Arkestra (Cosmic Tones for Mental Therapy and Art Forms of Dimensions Tomorrow)" style="max-width:120px; height:auto;" />
       </td>
@@ -206,7 +224,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/XSbBoMJSiI-gmVZWg-of-CTL54TRMGw2YjauOwJOKj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mzkz/MTYtMTcxNzM3Njkz/Ny05NjE0LmpwZWc.jpeg" alt="Cover for Live At CBGB&#39;s 1988" style="max-width:120px; height:auto;" />
       </td>
@@ -224,7 +242,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2190fbbf3c0b4e2998b3e47c4ea5f99d.png" alt="Cover for Mondo Bizarro" style="max-width:120px; height:auto;" />
       </td>
@@ -242,7 +260,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/6ELfQkkUcjB1Ye9t2JvNQWYhj37pAyF3FJzRL72-KGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODcx/MDQtMTQ2MjU3MjQw/My00OTQ2LmpwZWc.jpeg" alt="Cover for Lovemaker" style="max-width:120px; height:auto;" />
       </td>
@@ -259,12 +277,12 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 23</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>1994-02-01</td>
@@ -305,6 +323,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/484790869cfb882caf4fbb980adcce9a.png" alt="Cover for For All Seasons" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-09-19</td>
       <td>Nature</td>
@@ -317,14 +336,14 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 5</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/keBxvP_RCjgkUkYu7DjEVyPm6C9vJlej48HcmJ2u2To/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTM0/LTE1MzA4OTcyMjUt/ODU1OS5qcGVn.jpeg" alt="Cover for Fantastic Damage" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2c3aeba9eeb2e5d4503560423b66d70.png" alt="Cover for Fantastic Damage" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-05-14</td>
       <td>El-P</td>
@@ -337,12 +356,12 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 43</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/yYb_y2HGp__9BiZ7UOkrSDamImVyoF8Vp7lxA6ewlPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjgx/ODY4LTE1NTEzMjA3/ODctNDU0MS5qcGVn.jpeg" alt="Cover for Live@147" style="max-width:120px; height:auto;" />
       </td>
@@ -421,13 +440,14 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 5</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/acf4b98f03e26b709fbaa281b00fc750.png" alt="Cover for Stars at Noon" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-10-21</td>
       <td>Sea Ray</td>
@@ -446,7 +466,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/M09jYjBwHNwqRePT9Ta2MhPxV6PjH1mDABrXG-YS-zQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDIx/Ni0xMTQ5OTgzNzI2/LmpwZWc.jpeg" alt="Cover for To The Five Boroughs" style="max-width:120px; height:auto;" />
       </td>
@@ -485,7 +505,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/qlC1QciOQkEGrFAt29X2jz9Y9ikKKu8BDtjQ5gFbwYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjIw/Mi0xMjIxODU0NDQ0/LmpwZWc.jpeg" alt="Cover for Attempted: Live at Max&#39;s Kansas City, 1980" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7478f0e6541b4d9ab2aba6948bc09074.png" alt="Cover for Attempted: Live at Max&#39;s Kansas City, 1980" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-03-26</td>
       <td>Suicide</td>
@@ -517,32 +537,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/gFkq2UjpvWXlSAhZC3XKbcxD7whVZ9m-2Emza8c1G_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzM1/MTI3LTE1ODA1Njk4/MjktOTIwMi5qcGVn.jpeg" alt="Cover for Awake" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Vinson Valega Group</td>
-      <td>Awake</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
       </td>
       <td>2005</td>
@@ -559,8 +554,9 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9672c4f2b09d57a2e7f9c1998cf804d.png" alt="Cover for Weapons Of Mass Distortion" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03-22</td>
       <td>Rockethouse</td>
@@ -578,7 +574,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/-FzPqGMiBRPBzEstUJD8DP7eVUUozzQQcpiWtw-UeEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTUz/MTEtMTQzMjczNjEz/Ni0zMTAwLmpwZWc.jpeg" alt="Cover for Get A Load Of This" style="max-width:120px; height:auto;" />
       </td>
@@ -600,6 +596,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebd00e21bb7a4d72b001eb3544c16874.png" alt="Cover for Take Ecstasy With Me &#x2F; Get Up" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-07</td>
       <td>!!!</td>
@@ -656,7 +653,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 86</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -687,6 +684,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07ea11e86588b35a40eba2f304a43cfe.png" alt="Cover for Fishscale" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-28</td>
       <td>Ghostface Killah</td>
@@ -702,7 +700,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>2006-11-30</td>
@@ -717,8 +715,8 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       <td>
         <ul>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 20</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 36</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 42</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 37</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 43</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 78</li>
         </ul>
       </td>
@@ -746,8 +744,9 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b47680df5134bba84c40aa46ac4a342.png" alt="Cover for Yes Yes To You" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-19</td>
       <td>The Affair</td>
@@ -768,6 +767,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1996155088012da2d4aeae1776187c2.png" alt="Cover for Black Madonna" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-21</td>
       <td>The Austerity Program</td>
@@ -788,7 +788,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/ex4hUz8tyyQLeo-wenm74Ks-OOSK1JgrFMcMtC6iNfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODg2/MjktMTQ4MTQ1NTc5/MS03MjkyLmpwZWc.jpeg" alt="Cover for Everyone Thinks You&#39;re The Best" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d5979df33094d438e9e6d0044d79172.png" alt="Cover for Everyone Thinks You&#39;re The Best" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-18</td>
       <td>The Teenage Prayers</td>
@@ -805,9 +805,9 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/8ZLbUIu8MO-WEW5sMfxeHtwgCDFVr0FnqbH1FSAU2IM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mjgz/MTItMTMzNzk4Mzgx/Ny0zOTU4LmpwZWc.jpeg" alt="Cover for Zero Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7babbdf08c75a2c4f12afbc8cc13dec5.png" alt="Cover for Zero Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-03</td>
       <td>The Gang</td>
@@ -840,12 +840,12 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 76</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2008-09-09</td>
@@ -859,17 +859,40 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 12</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4688b745b8e4303909a1a7419d66ba4.png" alt="Cover for Receivers" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-21</td>
       <td>Parts &amp; Labor</td>
       <td>Receivers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24eeb59b5cf2466d96f4f79cf5f2f74d.png" alt="Cover for Suckers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Suckers</td>
+      <td>Suckers</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a></li>
@@ -885,29 +908,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>91</td>
-      <td>
-          <img src="https://i.discogs.com/WhGSVkzcDR35E3w7hef6EE4njUyD8ZZ9z4TGuNCCKEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDc3/MzYzLTE2MDMwMzM0/NjAtNjU5OC5qcGVn.jpeg" alt="Cover for Suckers" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Suckers</td>
-      <td>Suckers</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 87</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/c3rniRKOGn1txnLgcgahqd6Xr4dJm42epbQKV2htWYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjgz/MjQtMTI3MzQyMDQw/My5qcGVn.jpeg" alt="Cover for 205" style="max-width:120px; height:auto;" />
       </td>
@@ -925,14 +926,14 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       <td>
         <ul>
             <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 16</li>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 39</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/WhGSVkzcDR35E3w7hef6EE4njUyD8ZZ9z4TGuNCCKEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDc3/MzYzLTE2MDMwMzM0/NjAtNjU5OC5qcGVn.jpeg" alt="Cover for Suckers EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c826fd27e9f92ab1ec7a4a482b55fcb.png" alt="Cover for Suckers EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-14</td>
       <td>Suckers</td>
@@ -946,14 +947,14 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 91</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/gbq9847j6UFPt74JQP8THzmapz6CwxM8oedSAk-gMbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njkx/NDYtMTI1NTcyNzk3/Mi5qcGVn.jpeg" alt="Cover for Summertime!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9373b325014f23717e413905f2dc4dc.png" alt="Cover for Summertime!" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-04</td>
       <td>The Drums</td>
@@ -988,7 +989,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/v2MHnKr4IsQGG0AFIXsjRXUjHX-TlEDatr-B1ZjohUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDU4/NzYtMTMyMDQ0MDkw/Ni5qcGVn.jpeg" alt="Cover for mid side" style="max-width:120px; height:auto;" />
       </td>
@@ -1008,7 +1009,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2eb5c4a1aee0d1fc07f010ca474f0b1.png" alt="Cover for Misshapen" style="max-width:120px; height:auto;" />
       </td>
@@ -1058,7 +1059,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/zzZVjFtRI9PO0EoLvEFsIfv3EM5yRUvnabV6PHf2Q_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDQy/NjctMTI3NTYyMTAz/Ny5qcGVn.jpeg" alt="Cover for Say No To Love 7&quot;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ca9d3a5bfa64fee9e5369c1540cebc2.png" alt="Cover for Say No To Love 7&quot;" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>The Pains of Being Pure at Heart</td>
@@ -1078,6 +1079,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76f71858155e4b51986ec0276c9035d4.png" alt="Cover for Beach Bummed" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Weed Hounds</td>
@@ -1097,6 +1099,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46f747c81a964376ba542a4145f82baf.png" alt="Cover for Revenger" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-30</td>
       <td>Knight School</td>
@@ -1112,13 +1115,14 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 27</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0290b463bc1f470ebbd4e6905f025339.png" alt="Cover for Mirrors In Your Eyes" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-27</td>
       <td>Soundpool</td>
@@ -1171,7 +1175,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 85</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1211,7 +1215,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 27</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 28</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 90</li>
         </ul>
       </td>
@@ -1219,7 +1223,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/CZIWRDbe3qvEgo1EDV76Ry81It53DCVAmOgDbHnA81I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDQ1/NTYtMTI3NTY0Nzc5/NC5qcGVn.jpeg" alt="Cover for Pigeons" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc8bb4f418cc4884bae1c0ba4cf40a8f.png" alt="Cover for Pigeons" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-07</td>
       <td>Here We Go Magic</td>
@@ -1231,7 +1235,25 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 96</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/953176920b5645b7a642b3dcb016030f.png" alt="Cover for Disconnect From Desire" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-07-07</td>
+      <td>School of Seven Bells</td>
+      <td>Disconnect From Desire</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1252,12 +1274,12 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 94</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/9Z9H7p0cJFhFcamTe7bGUTwaxUkZoAnJvyItc1wY0B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTc4/MzMtMTM2MzgwNzI0/NC01NDQ1LmpwZWc.jpeg" alt="Cover for The Surface We Divide" style="max-width:120px; height:auto;" />
       </td>
@@ -1277,7 +1299,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 29</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 32</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 38</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 53</li>
         </ul>
@@ -1299,7 +1321,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 23</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1319,14 +1341,14 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 36</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/1hYj6pe4Ke3LNYNCE6paLMpJOxP9Qpfg8RYNWiu_-1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDk0/NDItMTMzMzkzNzA2/Ni5qcGVn.jpeg" alt="Cover for Teenage Symphonies" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18a2da813f134b2cb5fc0e3bc70ca6df.png" alt="Cover for Teenage Symphonies" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-18</td>
       <td>Byrds Of Paradise</td>
@@ -1341,7 +1363,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 28</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1360,13 +1382,14 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 39</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05705f10739e15941297114712463e57.png" alt="Cover for Hot Sauce Committee Part Two" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-27</td>
       <td>Beastie Boys</td>
@@ -1384,6 +1407,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0aee2f1efd2e5f3326f1cb94f6300553.png" alt="Cover for Victory Laps" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-26</td>
       <td>DOOMSTARKS</td>
@@ -1402,7 +1426,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/RJsqo2QNRY5x3BkH2z-QRev4eSXStpholyCwS0Hu8FI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTY3/MzktMTMxNjU1MDQy/NS5qcGVn.jpeg" alt="Cover for Hysterical" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72f7bcc68aa247a394232cf11f8f5132.png" alt="Cover for Hysterical" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-09</td>
       <td>Clap Your Hands Say Yeah</td>
@@ -1421,7 +1445,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/zzQ2fRvfgm4kY8E5IabnJA3zCdLsz_cH7fAFbOsxM7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTg2/MzYtMTM3MDE2Nzgw/OS05NTE1LmpwZWc.jpeg" alt="Cover for Summer Skills" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a132b9f0996485ab55e0f93620a157b.png" alt="Cover for Summer Skills" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-08</td>
       <td>Arms</td>
@@ -1441,7 +1465,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/f9rIhLyJObIKpqsaV2Yh6Syfi5vHSPxfMtTcWqkaH90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTgw/MzEtMTQ4NTI5NTg1/Ny04NDcyLmpwZWc.jpeg" alt="Cover for the fancy pants project week 5" style="max-width:120px; height:auto;" />
       </td>
@@ -1478,9 +1502,9 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/H_MV4Jdkcun9GvlKsfdBvhnC6B7jy_oORbXoYmRzyaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTM3/Mjk5LTE2Mjk1MTYw/NjgtOTYxNy5qcGVn.jpeg" alt="Cover for Slow and Steady Wins the Race" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/083dedd4410e4685ac4592ec1a8b42e3.png" alt="Cover for Slow and Steady Wins the Race" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Jonka</td>
@@ -1510,7 +1534,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/f9rIhLyJObIKpqsaV2Yh6Syfi5vHSPxfMtTcWqkaH90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTgw/MzEtMTQ4NTI5NTg1/Ny04NDcyLmpwZWc.jpeg" alt="Cover for the fancy pants project week 4" style="max-width:120px; height:auto;" />
       </td>
@@ -1584,8 +1608,27 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
+      <td>42</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39b69533a94b4508b09a8cbe768ff47a.png" alt="Cover for Ghostory" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-02-27</td>
+      <td>School of Seven Bells</td>
+      <td>Ghostory</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ded28a89df0466693a68226222643a1.png" alt="Cover for First Serve" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-02</td>
       <td>First Serve</td>
@@ -1604,6 +1647,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3060d6804a144db29c086f2423cccbf6.png" alt="Cover for Heaven" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-29</td>
       <td>The Walkmen</td>
@@ -1622,7 +1666,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/cnlQyGRm101AOXHJeFeWF6AcvJDh2FL3Ub1PsZ1aTns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDYw/ODAtMTM0MjY4ODE5/Mi03Mjc0LmpwZWc.jpeg" alt="Cover for Erika Spring EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c94c919928ac452294fcb29c783c1961.png" alt="Cover for Erika Spring EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-10</td>
       <td>Erika Spring</td>
@@ -1638,12 +1682,12 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 82</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/bUpS7NLR7AWFIMDNOkWLyT5RWyZFkr_m6ZQtHSjN2fo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjY3/MTQ4LTE1MjAzMjY1/MzQtNzM4NS5qcGVn.jpeg" alt="Cover for Flight Brigade EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1669,7 +1713,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/RPo8wLusP9s3x32hu0OdfMsAjLiRuyRO3RJj1SX7Iic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODg2/MjAtMTM3MjUwMjAw/Ni0yNjM0LmpwZWc.jpeg" alt="Cover for Partygoing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb17fa6210f046d2ad6a0bd74ae93619.png" alt="Cover for Partygoing" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Future Bible Heroes</td>
@@ -1685,14 +1729,14 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 33</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 36</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 48</li>
             <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
       </td>
       <td>2013</td>
@@ -1725,8 +1769,8 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 73</li>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 75</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 72</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1747,13 +1791,14 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 25</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bedb38f862a4eec85fc2afd1d24f19a.png" alt="Cover for Like Reality" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-02</td>
       <td>Stephano Gavilanes</td>
@@ -1775,7 +1820,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/x6-AmVL1LcjHElYVrKFMF9_8WP3_d3lVM77-voifGtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODAw/MjUtMTU4MTQ0OTg1/NC05NDU5LmpwZWc.jpeg" alt="Cover for no grounds for pity" style="max-width:120px; height:auto;" />
       </td>
@@ -1808,31 +1853,14 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 56</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>50</td>
       <td>
-      </td>
-      <td>2015-03-17</td>
-      <td>Original Motion Picture Soundtrack</td>
-      <td>Bringing Out The Dead - Music From The Motion Picture</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
-          <img src="https://i.discogs.com/rlG0Yp8poOX6zM72-Q1yPK92jHEkZ1EnhSIzahhvd-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDcz/NzUtMTM3Mjg5NDAy/MS03Mzg1LmpwZWc.jpeg" alt="Cover for Love &amp; Danger" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89ca139837b54163b725c8b3ada88f94.png" alt="Cover for Love &amp; Danger" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-28</td>
       <td>Kool Keith</td>
@@ -1849,7 +1877,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/gfROsdaF8rcxraWpW3NKryVdMq7UMmEy5SwhcMG_RPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODcw/MzQtMTQ2NjYxNDU3/Ni0yNDQ3LmpwZWc.jpeg" alt="Cover for Different Words &#x2F; Different Meanings" style="max-width:120px; height:auto;" />
       </td>
@@ -1885,14 +1913,14 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 27</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/PgCwBhUfvF2tKnIfLvPnAUrYs0LUtO4yA-oMaWIl2W8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDkz/NjE1LTE2ODQyMjg3/MjUtMjg1OC5qcGVn.jpeg" alt="Cover for depart, be lost, but climb" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62be0a2cbea64a90a487318014ea45c2.png" alt="Cover for depart, be lost, but climb" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-02-24</td>
       <td>Jetlagged</td>
@@ -1904,7 +1932,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       <td>
         <ul>
             <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 22</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 22</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 23</li>
             <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 70</li>
             <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 80</li>
             <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 80</li>
@@ -1912,9 +1940,9 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/8aTp5GHdbKHmrXfRYSw9GbDxue4Kp3Y3pk8UhbTFRi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMx/NTMzLTE1MTk3MzMy/MjYtODgwOC5qcGVn.jpeg" alt="Cover for Pretty Good" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd00442eae46e4ae47b0b92645b89d7a.png" alt="Cover for Pretty Good" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-20</td>
       <td>Blasteroid</td>
@@ -1960,7 +1988,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/_QFyqXdnMwv_1EY56V_7kJcVTLNUHYYHP87gMtPYOns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTA1/MDA5LTE3MjM5MzIy/OTktOTU1OC5wbmc.jpeg" alt="Cover for 001" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73802e4084297edca522f67f922debd9.png" alt="Cover for 001" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-08-16</td>
       <td>Maude Latour</td>
@@ -1995,33 +2023,13 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 4</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 43</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 7</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-      </td>
-      <td></td>
-      <td>The Putrid Flowers</td>
-      <td>By the Way</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c412f51202243758bbfa3e2d4f75b65.png" alt="Cover for Blurred &#x2F; Satellite - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -2042,7 +2050,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -2060,7 +2068,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -2097,7 +2105,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td></td>
@@ -2121,7 +2129,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td></td>
