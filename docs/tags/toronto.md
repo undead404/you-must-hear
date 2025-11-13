@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T10:17:14.449Z
+date: 2025-11-13T16:39:26.357Z
 permalink: tags/toronto
 title: toronto
 ---
 
 ## toronto
 
-Last updated: <time datetime="2025-11-11T10:17:14.449Z">Tue Nov 11 2025 12:17:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T16:39:26.357Z">Thu Nov 13 2025 18:39:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -78,7 +78,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/XI-W-b2k6MvD1t4reeM7PecGrBOKWWg4ejgoZRHV1vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDU0/NS0xMTgwNzk5MzIz/LmpwZWc.jpeg" alt="Cover for Live In Toronto" style="max-width:120px; height:auto;" />
       </td>
@@ -96,7 +96,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/3tjGAYbeg0O3E_l3dY8QrAl5SC2SMQbQ5R1GelYquuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzY1/NzAtMTQ3NDg5Mjgw/NC0zMDk3LmpwZWc.jpeg" alt="Cover for Mardi Gras" style="max-width:120px; height:auto;" />
       </td>
@@ -139,7 +139,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 21</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -169,13 +169,13 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       <td>
         <ul>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 16</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 28</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 32</li>
             <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ca7d6b62f631e075d55473d4d021f7d.png" alt="Cover for Tables Have Turned - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -255,7 +255,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 27</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -280,7 +280,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td>2003-09-08</td>
@@ -299,7 +299,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/wTPs7bojJmRt9jIkkEpW7jJ877XsoVG5cbLZwN0KuXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ5/ODg5LTE2MDU5Nzc1/NTMtODU4MS5qcGVn.jpeg" alt="Cover for The Inevitability of Pain (and the stupidity of those who don&#39;t expect it)" style="max-width:120px; height:auto;" />
       </td>
@@ -355,7 +355,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/Q4II3Jpdjv3Z5A7awrlZbxPjEJuXQB3FvKpNMK2_yoo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTI4/OS0xMzY1OTI2NDUx/LTYzOTIuanBlZw.jpeg" alt="Cover for 2003-05-27: Toronto, ON, Canada" style="max-width:120px; height:auto;" />
       </td>
@@ -391,7 +391,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/7CrVZ5P-rpHTRQgQWAsoBxqUSogM8e1Sc0W-QeqzfVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDUz/NDctMTQxMzgzNzYz/OS02OTU5LmpwZWc.jpeg" alt="Cover for Back From The Brink" style="max-width:120px; height:auto;" />
       </td>
@@ -409,12 +409,12 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 25</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7251c3bf6cdcf1d158f4bae9546c387.png" alt="Cover for The Looks" style="max-width:120px; height:auto;" />
       </td>
@@ -448,12 +448,12 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 10</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
       </td>
       <td>2007-05-21</td>
@@ -507,7 +507,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e03a5135deffe45004730c034955995.png" alt="Cover for In the Rough" style="max-width:120px; height:auto;" />
       </td>
@@ -530,28 +530,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/BaavY9zkZNdLi2sEfub03aJ08JTOgqoRFo-mkPT_YcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjE2/MTAtMTI0ODQ4MDU2/NC5qcGVn.jpeg" alt="Cover for Step Right Up" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Jeffery Straker</td>
-      <td>Step Right Up</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/canada" | relative_url }}">canada</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8a18f16dd7fa35b83683fd34795e84a.png" alt="Cover for Tommy - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -579,7 +558,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/j-EyJ3ci8X7x9yJKUwu1zEDzct-uQInAyl4IlkSiD44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDg3/OTczLTE1MDk2MzU4/NTEtNDcyMS5qcGVn.jpeg" alt="Cover for Back Stories" style="max-width:120px; height:auto;" />
       </td>
@@ -766,7 +745,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
       </td>
       <td>2010-04-13</td>
@@ -787,7 +766,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/__ZsugApLx5AF5_rfZy1AydCFWZEAAoSUb8gPldpU6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTM1/NC0xMjM4OTYyNTgz/LmpwZWc.jpeg" alt="Cover for FallPast EP" style="max-width:120px; height:auto;" />
       </td>
@@ -840,13 +819,13 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 5</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 9</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 4</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/ZP0EeWslF8PISQvren2F-0pxdiBXPrde2k4VTUI0quE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTE4/MjItMTI4NDgxNzk5/Ny5qcGVn.jpeg" alt="Cover for Zepocean" style="max-width:120px; height:auto;" />
       </td>
@@ -866,7 +845,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/5rHclYfxES8gVXBmBTkRhC4Kg9s62IOOaFC6s0t4PR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTE1/MjMtMTQwNzE5NDgx/Mi0xNzQxLmpwZWc.jpeg" alt="Cover for Science Island" style="max-width:120px; height:auto;" />
       </td>
@@ -924,8 +903,9 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfca626f5e1343a686f2ffc14f45bd19.png" alt="Cover for Love Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-20</td>
       <td>Andrew Huang</td>
@@ -965,7 +945,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/JxGnINxlWIcSaRHybz3NzDya2OE9TPzyB1OvLnfFHWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTI3/OTc3LTE2NDc0MTg2/MzYtMjY2MC5qcGVn.jpeg" alt="Cover for Bubble Gum Pop" style="max-width:120px; height:auto;" />
       </td>
@@ -983,7 +963,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/JxGnINxlWIcSaRHybz3NzDya2OE9TPzyB1OvLnfFHWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTI3/OTc3LTE2NDc0MTg2/MzYtMjY2MC5qcGVn.jpeg" alt="Cover for Prophecy [EP]" style="max-width:120px; height:auto;" />
       </td>
@@ -1006,7 +986,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/JxGnINxlWIcSaRHybz3NzDya2OE9TPzyB1OvLnfFHWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTI3/OTc3LTE2NDc0MTg2/MzYtMjY2MC5qcGVn.jpeg" alt="Cover for Sliding Doors [LIMITED EDITION] CD single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/696e0539f0ca414c9dfa274b9233050a.png" alt="Cover for Sliding Doors [LIMITED EDITION] CD single" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-17</td>
       <td>Tyler Adam</td>
@@ -1047,7 +1027,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/yH_F5Yp5LmZQhy0pTE3AbDpcT6MHqpYfhg8eGIDYo50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDU2/MjEtMTQ1NzM2NzMy/Ni03OTg3LmpwZWc.jpeg" alt="Cover for Last Japan" style="max-width:120px; height:auto;" />
       </td>
@@ -1137,7 +1117,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td>2012-08-22</td>
@@ -1160,7 +1140,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcb003397a384302bde911d932f1dcca.png" alt="Cover for Dead Silence" style="max-width:120px; height:auto;" />
       </td>
@@ -1169,8 +1149,6 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       <td>Dead Silence</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
         </ul>
       </td>
       <td>
@@ -1179,7 +1157,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
       </td>
       <td>2012-10-30</td>
@@ -1197,7 +1175,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/z74PqVrA_mQEu2Cr-qFpFJjXYru2rQIWcWMRjQ7fm28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTMy/MTktMTU4MzgyNTUw/OC0xNDU0LmpwZWc.jpeg" alt="Cover for To Our Glorious Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -1226,9 +1204,9 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/Ha6sp0mFwNJWgPT19NdfyuEFtc_uWBKoZjFuD1UjibE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDg5/NTgtMTM3NzQxNTI3/NS0xNzkxLmpwZWc.jpeg" alt="Cover for I Founded the Wit Cult" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38a8017d67314f1fac2208345786ad40.png" alt="Cover for I Founded the Wit Cult" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>S.M.</td>
@@ -1248,7 +1226,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/241cba4ac2924f678281f784bbcdc8f7.png" alt="Cover for It&#39;s Been A Pleasure" style="max-width:120px; height:auto;" />
       </td>
@@ -1267,7 +1245,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
       </td>
       <td>2013-08-20</td>
@@ -1289,7 +1267,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b44529c94a840e4c00d822de6510d31.png" alt="Cover for In God We Trust" style="max-width:120px; height:auto;" />
       </td>
@@ -1319,6 +1297,24 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/709767c3acb01c2e828f0d5c001019af.png" alt="Cover for Ontario Gothic" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-09-23</td>
+      <td>Foxes in Fiction</td>
+      <td>Ontario Gothic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
         </ul>
       </td>
       <td>
@@ -1369,7 +1365,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 6</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1398,12 +1394,12 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 65</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/g88kotb2ndcHe0Io90BmyxMNIuZhc3LtZDtetwmsDQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjA0/NzI1LTE1MDA4MDM4/MTMtNzQyNC5qcGVn.jpeg" alt="Cover for Cold to the Touch (Nicolaas Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1431,7 +1427,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/g88kotb2ndcHe0Io90BmyxMNIuZhc3LtZDtetwmsDQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjA0/NzI1LTE1MDA4MDM4/MTMtNzQyNC5qcGVn.jpeg" alt="Cover for Tease&#x2F; Cold To The Touch (Live Acoustic)" style="max-width:120px; height:auto;" />
       </td>
@@ -1511,7 +1507,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 66</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1544,7 +1540,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdd6e5293261073b32f26d3abd9c0c42.png" alt="Cover for Trials and Simulations" style="max-width:120px; height:auto;" />
       </td>
@@ -1589,7 +1585,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 42</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1618,7 +1614,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 60</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1675,7 +1671,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 81</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1704,7 +1700,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 48</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1727,9 +1723,9 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/Z9rriJ8IyNXAAvqKHGy87wJKmU72NEJuhtaUwgTG_t4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk0/NTkwLTE1MzgyNTUw/NTMtNjg4Mi5qcGVn.jpeg" alt="Cover for Hour of the Wolf" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d056b21127f3c2e843d875d9cffba23a.png" alt="Cover for Hour of the Wolf" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-17</td>
       <td>Anastasia Minster</td>
@@ -1774,12 +1770,12 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 86</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/8lNwY2pQUPwnIqqCPRzhagEEdYjkqXFNC0biFAL_YyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjE0/NTE0LTE1Mzg2MzU1/MDAtNjc1NS5qcGVn.jpeg" alt="Cover for Girl Next Door (Govi Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1831,7 +1827,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 5</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1860,12 +1856,12 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 36</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dba24772c97da0d95a0358dfef57c714.png" alt="Cover for Flashbacks &amp; Fantasies - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1917,7 +1913,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 64</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1946,7 +1942,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 32</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -2025,7 +2021,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 56</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -2054,12 +2050,12 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 95</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09d9fe8e18b1cb7ae9191e2834f43c34.png" alt="Cover for Gasoline" style="max-width:120px; height:auto;" />
       </td>
@@ -2087,7 +2083,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/WhAO2D-DbilAXMP_9muOG8IX_kZP67hYCFQta9ail8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDA4/OS0xMTgwNjExNTg5/LmpwZWc.jpeg" alt="Cover for Tense Surfaces" style="max-width:120px; height:auto;" />
       </td>
@@ -2120,7 +2116,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/fIqiX8x8eB-LGMYoiVg_gQ-7vsqcksnalW7n4IczXOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDI4/ODIwLTE2OTU5Mzgx/NDAtMTU4Ny5qcGVn.jpeg" alt="Cover for Honor Song" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/59587375560d3eb063ac7b732f3b27e2.png" alt="Cover for Honor Song" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-10-06</td>
       <td>Jeremy Dutcher</td>
@@ -2136,13 +2132,13 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 23</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 24</li>
             <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/QGbsipsEvbVcncSEb2u7DtFUM2Qoh2NMoUblntfXqFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTYz/MDc2LTE3MDIyMTg2/NDktNjYzNS5qcGVn.jpeg" alt="Cover for 10 de noviembre de 2006" style="max-width:120px; height:auto;" />
       </td>
@@ -2167,7 +2163,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -2183,7 +2179,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 34</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -2202,7 +2198,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 8</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -2231,7 +2227,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 13</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -2259,12 +2255,12 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 39</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -2288,7 +2284,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -2307,7 +2303,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/459dba53c238bb09273d8dba4e42b025.png" alt="Cover for Gravity - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -2335,7 +2331,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
@@ -2352,7 +2348,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
       </td>
       <td></td>
@@ -2379,7 +2375,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
       </td>
       <td></td>
@@ -2406,7 +2402,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
       </td>
       <td></td>

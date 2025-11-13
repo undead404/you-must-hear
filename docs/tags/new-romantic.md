@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T10:15:44.646Z
+date: 2025-11-13T16:38:01.610Z
 permalink: tags/new-romantic
 title: new romantic
 ---
 
 ## new romantic
 
-Last updated: <time datetime="2025-11-11T10:15:44.646Z">Tue Nov 11 2025 12:15:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T16:38:01.610Z">Thu Nov 13 2025 18:38:01 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
   </thead>
   <tbody>
     <tr>
-      <td>52</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c84a2fd9cbf1a07de00ab4d61faa3d87.png" alt="Cover for Obscure Alternatives" style="max-width:120px; height:auto;" />
       </td>
@@ -49,7 +49,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/KuZDeRCrG06Z2PYpGWr0jxxeKBXf2HPDFEGih3Usasc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzI4/MS0xNDc1NzgyMjYw/LTQ3NDcuanBlZw.jpeg" alt="Cover for Systems Of Romance" style="max-width:120px; height:auto;" />
       </td>
@@ -67,8 +67,9 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7155c63f1d86b1101af2efd08eab43c4.png" alt="Cover for Dirk Wears White Sox" style="max-width:120px; height:auto;" />
       </td>
       <td>1979-11-30</td>
       <td>Adam and the Ants</td>
@@ -85,25 +86,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>91</td>
-      <td>
-          <img src="https://i.discogs.com/TWy8jIYkmrfX431NSrW3IKZo3bVjV3cGfvN6Qbx0jLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDE5/OS0xMjIyMzQ3MzUx/LmpwZWc.jpeg" alt="Cover for Quiet Life" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1979-12</td>
-      <td>Japan</td>
-      <td>Quiet Life</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2902ecff1c75bf3cfd0f43e0f60802a.png" alt="Cover for Metamatic" style="max-width:120px; height:auto;" />
       </td>
@@ -122,7 +105,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c181abe552fb32537e55f7dcfaf4ead.png" alt="Cover for Orchestral Manoeuvres In The Dark" style="max-width:120px; height:auto;" />
       </td>
@@ -140,7 +123,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a87a2a1f06447013031af885014f2f29.png" alt="Cover for Visage" style="max-width:120px; height:auto;" />
       </td>
@@ -158,7 +141,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10c675c080ecf175df7467e34a7ac2cd.png" alt="Cover for Gentlemen Take Polaroids" style="max-width:120px; height:auto;" />
       </td>
@@ -176,7 +159,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57bfe6f6dca852af6572ceba7b1167bc.png" alt="Cover for Renaissance" style="max-width:120px; height:auto;" />
       </td>
@@ -199,7 +182,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a47339b274bb1795dc019a847d3adc5.png" alt="Cover for The Very Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -219,7 +202,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6251fd11803c447f9579ad572ae052f4.png" alt="Cover for Vienna" style="max-width:120px; height:auto;" />
       </td>
@@ -237,7 +220,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>63</td>
       <td>
       </td>
       <td>1981-06-05</td>
@@ -257,14 +240,15 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 26</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 25</li>
             <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e654f7a256e5af21abc1d29cfa635057.png" alt="Cover for The Garden" style="max-width:120px; height:auto;" />
       </td>
       <td>1981-09-25</td>
       <td>John Foxx</td>
@@ -281,8 +265,27 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/190df1d27be14cddb9545e0719026703.png" alt="Cover for Speak &amp; Spell" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1981-10-05</td>
+      <td>Depeche Mode</td>
+      <td>Speak &amp; Spell</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b89945ac081fbe95170a8f6da3582530.png" alt="Cover for Prince Charming" style="max-width:120px; height:auto;" />
       </td>
       <td>1981-11-02</td>
       <td>Adam and the Ants</td>
@@ -299,7 +302,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bb26545a8a51c3a70bb6ce7a80a0b7c.png" alt="Cover for Non-Stop Erotic Cabaret" style="max-width:120px; height:auto;" />
       </td>
@@ -314,13 +317,13 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 71</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 74</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46e90e8e82bb46838f0454c275ece20a.png" alt="Cover for Tin Drum" style="max-width:120px; height:auto;" />
       </td>
@@ -352,12 +355,12 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 39</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d617ff187db544db9dd09b0cee9d6c77.png" alt="Cover for The Anvil" style="max-width:120px; height:auto;" />
       </td>
@@ -375,7 +378,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d44d420c004b7d78cd586e0be8d1f9d4.png" alt="Cover for Dare" style="max-width:120px; height:auto;" />
       </td>
@@ -393,7 +396,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/ZDTk-KKvK16AJcHvcIpCV-QL4QHseR57W-Ry7BuPWg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQw/MTktMTE5NDA5Mzcy/Mi5qcGVn.jpeg" alt="Cover for Live At The NEC" style="max-width:120px; height:auto;" />
       </td>
@@ -411,7 +414,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>51</td>
       <td>
       </td>
       <td>1982</td>
@@ -428,7 +431,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f94a9562ee8f43a4b7f2be53b2ea7479.png" alt="Cover for The Damned Don&#39;t Cry" style="max-width:120px; height:auto;" />
       </td>
@@ -446,7 +449,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>78</td>
       <td>
       </td>
       <td>1982-05</td>
@@ -463,7 +466,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>88</td>
       <td>
       </td>
       <td>1982-06-21</td>
@@ -482,7 +485,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
       </td>
       <td>1982-06-21</td>
@@ -498,7 +501,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/254b715c587f42dbc25cbed0e3cda61e.png" alt="Cover for Avalon" style="max-width:120px; height:auto;" />
       </td>
@@ -518,7 +521,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8f2daed5596523015b6c766a72f50ce.png" alt="Cover for The Party&#39;s Over" style="max-width:120px; height:auto;" />
       </td>
@@ -537,7 +540,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5c1c97914ba8b398f7258e742ea2104.png" alt="Cover for A Broken Frame" style="max-width:120px; height:auto;" />
       </td>
@@ -556,25 +559,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>64</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8f0c29abd6147809d352ffc07894be0.png" alt="Cover for Quartet" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1982-10-15</td>
-      <td>Ultravox</td>
-      <td>Quartet</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/LMRwQc3IeGqxegBX5STjWZ7dNEG8zQMUXMbSfv3AkHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTky/NjgtMTM2OTEzNzE4/MC0zNzcxLmpwZWc.jpeg" alt="Cover for Scribble" style="max-width:120px; height:auto;" />
       </td>
@@ -595,7 +580,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/nozOr9iOuJxfpoT0j1YTzBo1c2wEBF3mcs0k0l3RwNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODg2/MS0xMTM2MTI3NzE3/LmpwZWc.jpeg" alt="Cover for 48 No. 1 Hits Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -619,7 +604,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/3uM-yyHZcYXHH5bameYiCCCM3L0Y3YnMgxFOVbQD1xM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MjEz/LTExMjE2NDYzNDQu/anBn.jpeg" alt="Cover for From Trash" style="max-width:120px; height:auto;" />
       </td>
@@ -637,26 +622,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>89</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e3c0bd458229569ee5f50b51588da59.png" alt="Cover for Doot Doot" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1983</td>
-      <td>Freur</td>
-      <td>Doot Doot</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>9</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9778413e4a2fc55805e1d0244c8b2808.png" alt="Cover for Construction Time Again (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -673,7 +639,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73b26ea06f11c60d10be0f26517265d1.png" alt="Cover for True" style="max-width:120px; height:auto;" />
       </td>
@@ -691,7 +657,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>11</td>
       <td>
       </td>
       <td>1983-03-11</td>
@@ -713,9 +679,9 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/B_5UOm_ObHHhPzLzu0ooilM2S_JMxpjsVJ1KgsFerWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDI2/MzgtMTYzNTAxNzA5/MS00ODAzLmpwZWc.jpeg" alt="Cover for Replicas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca07398cf937311388ef8c8127254323.png" alt="Cover for Replicas" style="max-width:120px; height:auto;" />
       </td>
       <td>1983-08-26</td>
       <td>Gary Numan</td>
@@ -731,7 +697,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>14</td>
       <td>
       </td>
       <td>1983-11-21</td>
@@ -748,7 +714,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/39bad8a0cf5633ca9be6a08f731d2811.png" alt="Cover for The Castle" style="max-width:120px; height:auto;" />
       </td>
@@ -768,7 +734,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02b246f15f8b5a4ebf7d6cf2e4241ed3.png" alt="Cover for Quartet (Remastered Definitive Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -787,7 +753,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>47</td>
       <td>
       </td>
       <td>1984</td>
@@ -805,7 +771,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63285d41cc061d9ee92a2a0044924e8a.png" alt="Cover for Into The Gap (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -825,7 +791,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0628a45aa0467eabc4cd117f1086df7.png" alt="Cover for The Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -844,7 +810,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/942ac2c4be883d0f42e4f41a3bb877c9.png" alt="Cover for It&#39;s My Life" style="max-width:120px; height:auto;" />
       </td>
@@ -858,12 +824,30 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 58</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/NEM44ZEcvcGR4sc-ovkTecYfQW6apRayo97_zAfuMWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTIz/LTE0MDQ5NDQ3NTEt/OTE1MC5qcGVn.jpeg" alt="Cover for This Last Night in Sodom" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984-03</td>
+      <td>Soft Cell</td>
+      <td>This Last Night in Sodom</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bde9235c930a47d55ba52b4c13cd1610.png" alt="Cover for Second Helpings" style="max-width:120px; height:auto;" />
       </td>
@@ -883,7 +867,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e42656d2819407f94daa3408735d160.png" alt="Cover for How Men Are" style="max-width:120px; height:auto;" />
       </td>
@@ -901,7 +885,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfeb124c4afcdcbeba14f3122c7fb1ff.png" alt="Cover for Forever Young" style="max-width:120px; height:auto;" />
       </td>
@@ -915,12 +899,12 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 81</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3ea4732d81d4998c9a61cf1a83acf6e.png" alt="Cover for 1985" style="max-width:120px; height:auto;" />
       </td>
@@ -940,7 +924,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/oiINp2K0bGEWOyn0B4mZCBcRPt2RVNqDmICTUfJYtdw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDA1/MTAtMTQ2NjM5MjQ4/OS01MDA2LmpwZWc.jpeg" alt="Cover for The Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -959,7 +943,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/R214jbqOedmaZpHvCM65F4emru0o7o2niYN33hifqE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODUw/OS0xNDAzMzUzMDE0/LTU4MTEuanBlZw.jpeg" alt="Cover for The Singles Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -977,7 +961,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9f1f5d5c12093f7dac97e48a267dbce.png" alt="Cover for ニウロマンティック~ロマン神経症~ (2021 Yoshinori Sunahara Remastering)" style="max-width:120px; height:auto;" />
       </td>
@@ -1003,7 +987,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c62602bc3dd0bf095c50faeb05bd410c.png" alt="Cover for ニウロマンティック～ロマン神経症～ (2021 Yoshinori Sunahara Remastering)" style="max-width:120px; height:auto;" />
       </td>
@@ -1023,7 +1007,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/696482667667b01fe964928230b56115.png" alt="Cover for Boys and Girls" style="max-width:120px; height:auto;" />
       </td>
@@ -1042,7 +1026,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>44</td>
       <td>
       </td>
       <td>1986</td>
@@ -1067,7 +1051,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/l-VNsgBotwE3iZchsaFrgVmDtSzM-UhoKlWKTKyIhtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTE0/Ni0xNDM4MTg3Mjk4/LTI3NzUuanBlZw.jpeg" alt="Cover for The Singles" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a50628b714b4fe88fe3e09b919bf117.png" alt="Cover for The Singles" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Soft Cell</td>
@@ -1083,27 +1067,25 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b666118eb7604492c47aafa19c05bcb9.png" alt="Cover for The Colour of Spring" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-03</td>
       <td>Talk Talk</td>
       <td>The Colour of Spring</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 7</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 51</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/62da885cdb814b5bcb14d5ebd3181be6.png" alt="Cover for T&#39;Pau" style="max-width:120px; height:auto;" />
       </td>
@@ -1123,7 +1105,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/yvUVjpKPikFePHkU3yq3ztzYVs6_a87THSqLdW24CE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODk4/NS0xMTcxNTQ5NDU0/LmpwZWc.jpeg" alt="Cover for Non Album Tracks" style="max-width:120px; height:auto;" />
       </td>
@@ -1140,7 +1122,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/hfbpyZqnsfJeZD2NEpxq7fp-G3Bq_7b9vHcu6K6pSQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTg5/LTEzNDgyMDkzODkt/NTkxNC5qcGVn.jpeg" alt="Cover for Perhaps &#x2F; The Glamour Chase" style="max-width:120px; height:auto;" />
       </td>
@@ -1158,8 +1140,9 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa013491174a467ab1fcef7ade72cce3.png" alt="Cover for Big Thing" style="max-width:120px; height:auto;" />
       </td>
       <td>1988-10-16</td>
       <td>Duran Duran</td>
@@ -1176,7 +1159,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/69606917625e4fa1bad3dbdb1274b1ff.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1195,7 +1178,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>76</td>
       <td>
       </td>
       <td>1989</td>
@@ -1214,7 +1197,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2198bb7f07b97ee3d13bb90b850cadf9.png" alt="Cover for Hats" style="max-width:120px; height:auto;" />
       </td>
@@ -1228,12 +1211,12 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 91</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/_jLaFWyVRZ7Y2k0O72YqQQNol-1pa2SwAmVzkWT6RTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODY1/NjMtMTI4MTgyNzI2/Mi5qcGVn.jpeg" alt="Cover for The Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1260,7 +1243,6 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       <td>New Gold Dream (81&#x2F;82&#x2F;83&#x2F;84)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
         </ul>
       </td>
       <td>
@@ -1293,8 +1275,9 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aece0b9535c44c5310e473e66f13206e.png" alt="Cover for Antics In The Forbidden Zone" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-10-23</td>
       <td>Adam Ant</td>
@@ -1314,7 +1297,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/0JK1WTJCy4WBrWmyfN8m79tRjUFtscvzo_VBi-okCxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU1/NjMtMTU1NTYwMTE2/NS0xMzcxLmpwZWc.jpeg" alt="Cover for The Promise" style="max-width:120px; height:auto;" />
       </td>
@@ -1337,9 +1320,9 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>40</td>
       <td>
-          <img src="https://i.discogs.com/2BA_Y3lcIPIC9D-k6eTjJ8FFXu09f9MBOkmvkv7ZdQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDY2/NTYtMTI4Nzc2NjQy/Ny5qcGVn.jpeg" alt="Cover for Cry Tomorrow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/654dfa5dcc29b74e5ae5b24d5dc35d30.png" alt="Cover for Cry Tomorrow" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-02-02</td>
       <td>The Reds</td>
@@ -1356,7 +1339,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/UyXj4rUOQ4XTfg61ctbgN8ohxPeGzPcnpuPLsds8-sI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTA1/NDYwLTE2MTcyODkw/MjYtMzU5OC5qcGVn.jpeg" alt="Cover for Cathedral Oceans" style="max-width:120px; height:auto;" />
       </td>
@@ -1375,9 +1358,9 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
-          <img src="https://i.discogs.com/Coc4fCSTFbwgxryI3anxEsymD-UooNYVYJPcrgeDOmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQ5/Mi0xMDgyNjgwODE4/LmpwZw.jpeg" alt="Cover for The Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e91a41050da83be1125d997fe27e6e6.png" alt="Cover for The Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>The Human League</td>
@@ -1392,7 +1375,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/fU-RPH-eY-1LxOcXf2eFze2cP0fcePg8mgP0W5ERWFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTQw/Mi0xMzM2MzY4NjE5/LmpwZWc.jpeg" alt="Cover for Everything is Mad" style="max-width:120px; height:auto;" />
       </td>
@@ -1418,7 +1401,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>59</td>
       <td>
       </td>
       <td>1996-08-24</td>
@@ -1435,7 +1418,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/pxiCnLvEaGHEFBQm-c0KMkSdKDm3bs0ZZ1HSPXnA4sM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTkw/Ny0xMTc4NzM3Nzky/LmpwZWc.jpeg" alt="Cover for Cathedral Oceans I" style="max-width:120px; height:auto;" />
       </td>
@@ -1454,7 +1437,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/016e8182f5cf4bfdbb37acf833e412f0.png" alt="Cover for Greatest" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,7 +1452,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 46</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1492,7 +1475,26 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31617c9a1a9e283ec0e65d5a488bdb18.png" alt="Cover for Paixão - O Melhor Dos Heróis Do Mar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Heróis Do Mar</td>
+      <td>Paixão - O Melhor Dos Heróis Do Mar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f6a509ed18b0d30593a3fa7d3effe74.png" alt="Cover for Modern Art" style="max-width:120px; height:auto;" />
       </td>
@@ -1511,7 +1513,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24f81d1e807b4535bd15f3a79d13e5fe.png" alt="Cover for Стриптиз" style="max-width:120px; height:auto;" />
       </td>
@@ -1531,9 +1533,9 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/ysTqnw3Es5LzQ7AG4fiE2VasAdeFmccKSfY8inPpBz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MzQ2/LTEzMjQyMTI4MjAu/anBlZw.jpeg" alt="Cover for From the Tea-rooms of Mars ... To the Hell-holes of Uranus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82adf4db58674c1d98a22d08915b223d.png" alt="Cover for From the Tea-rooms of Mars ... To the Hell-holes of Uranus" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-04</td>
       <td>Landscape</td>
@@ -1552,7 +1554,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/cJi0JuRtGXnR7iAkS6LtyzuFGbYy0sBFgzQD4IPSXEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzgw/MzYtMTY4Mjk2NTU2/OS02OTI1LmpwZWc.jpeg" alt="Cover for On the Transmigration of Souls" style="max-width:120px; height:auto;" />
       </td>
@@ -1570,9 +1572,9 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/Knkthm6-5Re9FV8Q69Ha8sTg7snQyl78febR0TyRyCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg0/NDItMTE5NDM0MDU1/My5qcGVn.jpeg" alt="Cover for Divisions Of Decency" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34621895227363228eea47f71febf42a.png" alt="Cover for Divisions Of Decency" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-11-04</td>
       <td>Scarlet Soho</td>
@@ -1589,9 +1591,9 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/jJ9RvhBlj8JsObPA8uOR6zElj-JhqSUmQtSfMQ7oCAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTM4/NTctMTE5OTc5Nzky/OS5qcGVn.jpeg" alt="Cover for Absolutely: Best Of ABC" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83b7931aa620e696a33e7f14dcb18d8e.png" alt="Cover for Absolutely: Best Of ABC" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>ABC</td>
@@ -1608,7 +1610,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
       </td>
       <td>2005-12-05</td>
@@ -1626,7 +1628,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22758a41a301c341963179cb5397ea4b.png" alt="Cover for a broken frame (2006 remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -1642,12 +1644,12 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 59</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9243fb513d1f040adb90a291328d3a52.png" alt="Cover for Viena" style="max-width:120px; height:auto;" />
       </td>
@@ -1667,7 +1669,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/GYA9O-xSxycJbarv2WRWAMoLetBY0MU09qxzGbdQeng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzg4/LTE0NzUxODQ1MDkt/ODA5MC5qcGVn.jpeg" alt="Cover for The Best of Visage" style="max-width:120px; height:auto;" />
       </td>
@@ -1685,7 +1687,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53d2d74cbd6b7ca48e399a6d9ea7da1f.png" alt="Cover for Aeon 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1725,7 +1727,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e4ae1d696c74528bb007cfa1c1715af.png" alt="Cover for Aloneluna" style="max-width:120px; height:auto;" />
       </td>
@@ -1746,7 +1748,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7e18e5924593f3d1a62ef1e82469570.png" alt="Cover for Catching Rays On Giant" style="max-width:120px; height:auto;" />
       </td>
@@ -1784,7 +1786,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e698bd77de9d44e914b4d523c45ae00.png" alt="Cover for STARSHIPS" style="max-width:120px; height:auto;" />
       </td>
@@ -1806,7 +1808,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c2b60754668eee323aff261d979abc8.png" alt="Cover for Exposure Therapy" style="max-width:120px; height:auto;" />
       </td>
@@ -1838,7 +1840,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bf5f81f8595e570fea0217eb9d04e2c.png" alt="Cover for Cutting Room Floor" style="max-width:120px; height:auto;" />
       </td>
@@ -1870,7 +1872,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f193f9b9c578f36fa30a5e48005947b.png" alt="Cover for New Earth Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1899,7 +1901,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8fc326a43981e96603029cfbb063646.png" alt="Cover for The Decline of Pleasure" style="max-width:120px; height:auto;" />
       </td>
@@ -1926,7 +1928,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ce9f692e43b355cbf19842a5a2092df.png" alt="Cover for Bitter Reflection" style="max-width:120px; height:auto;" />
       </td>
@@ -1947,14 +1949,14 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 21</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 19</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 43</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>61</td>
       <td>
       </td>
       <td></td>
@@ -1980,13 +1982,13 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 15</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 14</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -2002,7 +2004,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1f67a720a0f2c2b9c19e4fc7bde7a0f.png" alt="Cover for Mecano" style="max-width:120px; height:auto;" />
       </td>

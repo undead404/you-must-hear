@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T10:14:04.830Z
+date: 2025-11-13T16:36:05.006Z
 permalink: tags/house
 title: house
 ---
 
 ## house
 
-Last updated: <time datetime="2025-11-11T10:14:04.830Z">Tue Nov 11 2025 12:14:04 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T16:36:05.006Z">Thu Nov 13 2025 18:36:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
   </thead>
   <tbody>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcdd3f71d14b4c656857f9e1f095a114.png" alt="Cover for Surprise" style="max-width:120px; height:auto;" />
       </td>
@@ -82,7 +82,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 73</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 74</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 95</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 97</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 99</li>
@@ -103,7 +103,6 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 52</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 92</li>
         </ul>
       </td>
@@ -145,7 +144,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 78</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 79</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 88</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 91</li>
             <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 93</li>
@@ -153,7 +152,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/103be84c9a4f28f05b0fa60c53130ffc.png" alt="Cover for The Secret Garden" style="max-width:120px; height:auto;" />
       </td>
@@ -213,13 +212,13 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 31</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 55</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 34</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 56</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 77</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 86</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 86</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 87</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 91</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 92</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 96</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 97</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 98</li>
@@ -242,8 +241,8 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 43</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 70</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 47</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 71</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 84</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 94</li>
         </ul>
@@ -274,8 +273,8 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 10</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 27</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 12</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 28</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 69</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 76</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 81</li>
@@ -288,7 +287,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/362dbb8ff23fcde8d95b089f40d962a1.png" alt="Cover for Scarborough Fair" style="max-width:120px; height:auto;" />
       </td>
@@ -324,7 +323,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 40</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 43</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 51</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 55</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 70</li>
@@ -332,23 +331,23 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 73</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 74</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 83</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 85</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 86</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 87</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 89</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 93</li>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 95</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 96</li>
             <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/DEau0E0gs-KAGnZ_hxJJeF5rapQ9lJJh7Qb5eFqrYIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk0/LTExODQ1MTQ3MzIu/anBlZw.jpeg" alt="Cover for Another Chance" style="max-width:120px; height:auto;" />
       </td>
@@ -363,7 +362,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 58</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -385,14 +384,14 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 69</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 70</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 85</li>
             <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d2ebd899ab6ed502059575933dea805.png" alt="Cover for Conqueror" style="max-width:120px; height:auto;" />
       </td>
@@ -429,9 +428,9 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 71</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 72</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 81</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 83</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 83</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 83</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 83</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 84</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 85</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 87</li>
@@ -440,7 +439,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4729ee0f72ef41a0819e55b3caa6d639.png" alt="Cover for The Woman I Am" style="max-width:120px; height:auto;" />
       </td>
@@ -476,10 +475,10 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 73</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 75</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 76</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 86</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 86</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 86</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 87</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 90</li>
@@ -518,7 +517,8 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 22</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 1</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 23</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 66</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 70</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 78</li>
@@ -527,10 +527,10 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 83</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 89</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 90</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 90</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 90</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 90</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 90</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 90</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 92</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 96</li>
         </ul>
@@ -561,8 +561,8 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 5</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 25</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 7</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 26</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 68</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 73</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 80</li>
@@ -599,8 +599,8 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 28</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 47</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 31</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 48</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 72</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 84</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 85</li>
@@ -644,22 +644,22 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 38</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 58</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 42</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 59</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 79</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 88</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 88</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 88</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 88</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 92</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 92</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 93</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 93</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 93</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 93</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 93</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 93</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 93</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 97</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 99</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 99</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 99</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -735,7 +735,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
         <ul>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 46</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 60</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 63</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -776,8 +776,8 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 50</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 56</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 57</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 95</li>
             <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 100</li>
         </ul>
@@ -820,8 +820,8 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 35</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 70</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 44</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 72</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 97</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 97</li>
         </ul>
@@ -847,7 +847,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eae9c349324e0376f5d3167d91ccc010.png" alt="Cover for Shooting Stars" style="max-width:120px; height:auto;" />
       </td>
@@ -871,7 +871,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/abea43811c0c48278574f036235c273f.png" alt="Cover for One More Love" style="max-width:120px; height:auto;" />
       </td>
@@ -885,8 +885,8 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 10</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 59</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 12</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -903,6 +903,24 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
             <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2009-09-09</td>
+      <td>Vitalic</td>
+      <td>Flashmob</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
         </ul>
       </td>
       <td>
@@ -928,9 +946,9 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 23</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 27</li>
             <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 28</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 65</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 68</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 82</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 87</li>
             <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 99</li>
@@ -972,7 +990,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 67</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -992,7 +1010,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 89</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 92</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 98</li>
         </ul>
       </td>
@@ -1013,27 +1031,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 63</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>16</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a6b786a21c3a0966ca22bd64f5b8b5d.png" alt="Cover for Bag Raiders" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-10-01</td>
-      <td>Bag Raiders</td>
-      <td>Bag Raiders</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 25</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1053,7 +1051,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 60</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1075,7 +1073,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 38</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 42</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 94</li>
         </ul>
       </td>
@@ -1114,7 +1112,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 47</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1153,7 +1151,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 88</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1195,7 +1193,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86880e316b76ac33bb039e2c67c71afe.png" alt="Cover for Nothing But The Beat (Ultimate Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1259,7 +1257,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 6</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 14</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 90</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 94</li>
         </ul>
@@ -1307,7 +1305,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 18</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1329,7 +1327,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 6</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 18</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 98</li>
             <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 100</li>
         </ul>
@@ -1352,7 +1350,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       <td>
         <ul>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 15</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 91</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 93</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 95</li>
         </ul>
       </td>
@@ -1395,8 +1393,8 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 23</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 62</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 36</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1415,7 +1413,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 42</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1467,7 +1465,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a4741127240caac8177d2dd298311d8.png" alt="Cover for Animals" style="max-width:120px; height:auto;" />
       </td>
@@ -1510,10 +1508,10 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 23</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 53</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 78</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 91</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 44</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 56</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 82</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 90</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 99</li>
         </ul>
       </td>
@@ -1533,14 +1531,14 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 60</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 61</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 70</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 64</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ad2ac581bb529b2e6d9627df817d4fd.png" alt="Cover for High You Are (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1576,7 +1574,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 61</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 97</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 98</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 99</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 100</li>
         </ul>
@@ -1599,8 +1597,8 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 5</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 67</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 6</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1660,7 +1658,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 42</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 44</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 100</li>
         </ul>
       </td>
@@ -1684,8 +1682,8 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 3</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 52</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 16</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 56</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 94</li>
             <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 100</li>
         </ul>
@@ -1709,7 +1707,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 49</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 56</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 94</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 96</li>
         </ul>
@@ -1738,7 +1736,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 85</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 86</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 98</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 99</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 99</li>
@@ -1769,8 +1767,8 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 32</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 81</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 87</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 83</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 88</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 97</li>
         </ul>
       </td>
@@ -1792,7 +1790,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 79</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 81</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 97</li>
         </ul>
       </td>
@@ -1828,18 +1826,18 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 12</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 28</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 14</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 29</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 70</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 77</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 82</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 83</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 85</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 87</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 92</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 92</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 92</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 92</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 92</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 92</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 93</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 94</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 96</li>
@@ -1866,8 +1864,8 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 55</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 78</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 60</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 80</li>
             <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 100</li>
         </ul>
       </td>
@@ -1915,10 +1913,10 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 10</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 18</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 85</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 87</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 89</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1943,8 +1941,8 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 36</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 84</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 88</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 85</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 89</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 98</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 100</li>
         </ul>
@@ -1969,8 +1967,8 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 4</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 53</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 17</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1992,8 +1990,8 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 3</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 84</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 12</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2056,15 +2054,15 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 7</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 35</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 83</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 15</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 39</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 84</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/l9SmKtpD66t0tJSE2jM6lSGSHfoJYfhQ4I9tE4TD3qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODg2/NTM5LTE1NDM4NjAz/NDctNjE2Ny5qcGVn.jpeg" alt="Cover for Channel Tres" style="max-width:120px; height:auto;" />
       </td>
@@ -2112,22 +2110,22 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 41</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 59</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 45</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 60</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 80</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 89</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 89</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 89</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 93</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 89</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 89</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 93</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 94</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 94</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 94</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 94</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 94</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 94</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 98</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 100</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 100</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 100</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2170,7 +2168,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 43</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 47</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 89</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 92</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 93</li>
@@ -2179,7 +2177,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/GDwyWOor8ffKKhiAXSNXA-dpetMC5xGkBiIwi5vIyGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDM2/NDk4LTE1NzQ1MDcw/MTktMTQ4NC5qcGVn.jpeg" alt="Cover for The Seed" style="max-width:120px; height:auto;" />
       </td>
@@ -2216,8 +2214,8 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 72</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 73</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 82</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 84</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 84</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 84</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 84</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 85</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 86</li>
@@ -2251,8 +2249,8 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 1</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 23</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 3</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 24</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 67</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 71</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 79</li>
@@ -2287,7 +2285,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 80</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 82</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 96</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 98</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 98</li>
@@ -2355,7 +2353,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5320fc05f2783387f94ce82a0918c52d.png" alt="Cover for Phonkageddon" style="max-width:120px; height:auto;" />
       </td>
@@ -2368,6 +2366,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 7</li>
             <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 19</li>
         </ul>
       </td>
@@ -2390,7 +2389,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 36</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 45</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 93</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 95</li>
         </ul>
@@ -2416,7 +2415,7 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       <td>
         <ul>
             <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 65</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 76</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 75</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 77</li>
             <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 91</li>
         </ul>
@@ -2440,8 +2439,8 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
         <ul>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 58</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 60</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 61</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 87</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 62</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2485,14 +2484,14 @@ House is an electronic dance music genre born in 1980s Chicago, characterized by
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 70</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 73</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 77</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/eY1WC2M6FO-ZfYs6KfHmg6PMVDLHDM5rR07M55Ap2wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODkz/NzYzLTE3MTc3Mzc1/ODQtMTgwMi5qcGVn.jpeg" alt="Cover for Timeless" style="max-width:120px; height:auto;" />
       </td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T04:59:14.323Z
+date: 2025-11-13T16:39:04.562Z
 permalink: tags/pop-latino
 title: pop latino
 ---
 
 ## pop latino
 
-Last updated: <time datetime="2025-10-28T04:59:14.323Z">Tue Oct 28 2025 06:59:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T16:39:04.562Z">Thu Nov 13 2025 18:39:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -24,12 +24,14 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3aacfdd7c06c57672d48b579b585243.png" alt="Cover for Resistiré" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -41,10 +43,15 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4660888bab194d6ca7942180fac0d37b.png" alt="Cover for Fiebre De Amor" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Luis Miguel</td>
@@ -63,11 +70,19 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 14</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 51</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 64</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 85</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/iE6RDJ03NWNvf0XofYHnnGiqq6fcSPfGgEtiMV4ibuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDMy/Ny0xMjg3Mjk4MzIx/LmpwZWc.jpeg" alt="Cover for No Me Dejes Ir - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d108d0445494b169a5c6ab0d2cf3ef0.png" alt="Cover for No Me Dejes Ir - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Lucero</td>
@@ -89,6 +104,11 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 9</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>51</td>
@@ -102,6 +122,10 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -121,6 +145,12 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 4</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 22</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>50</td>
@@ -137,6 +167,12 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 25</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -166,11 +202,17 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 26</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 28</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/vObspu6jS6HgdTo8cn9pe69VvpBOJjsKmmZXwJC_kMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODIx/MzUtMTQ2NDQ5NTU2/Ni0zMjMxLmpwZWc.jpeg" alt="Cover for Lucerito" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5aea0cd8bba82c072fe1256e4f8f0435.png" alt="Cover for Lucerito" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-07-01</td>
       <td>Lucero</td>
@@ -194,6 +236,13 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 8</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 16</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 62</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>5</td>
@@ -208,18 +257,8 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-          <img src="https://i.discogs.com/_d6uMb52GeaMWRLZXZHrGrX2UY_VvUEf3DUZLiwn-PQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTM5/ODItMTMzMjYxNjI3/Ni5qcGVn.jpeg" alt="Cover for We Love Disney (Latino)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993</td>
-      <td>Eros Ramazzotti</td>
-      <td>We Love Disney (Latino)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
     </tr>
@@ -246,11 +285,37 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 12</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 46</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 60</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/_d6uMb52GeaMWRLZXZHrGrX2UY_VvUEf3DUZLiwn-PQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTM5/ODItMTMzMjYxNjI3/Ni5qcGVn.jpeg" alt="Cover for We Love Disney (Latino)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Eros Ramazzotti</td>
+      <td>We Love Disney (Latino)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/ObK_7qt4Q9BZh4OYDaRvXOIAVmi7R4-E5DXJBwnVAls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Nzcx/MTEtMTQ2Mzg0NDUw/NC0zNzQ5LnBuZw.jpeg" alt="Cover for Siempre Contigo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1459cbba0975cf3b394ae66582931c5.png" alt="Cover for Siempre Contigo" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Lucero</td>
@@ -265,6 +330,10 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -289,6 +358,11 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 32</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>92</td>
@@ -304,6 +378,12 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 44</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -331,6 +411,11 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 27</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>59</td>
@@ -343,6 +428,10 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -362,6 +451,11 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 29</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>47</td>
@@ -379,6 +473,11 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 30</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>23</td>
@@ -391,6 +490,10 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -408,6 +511,10 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -434,6 +541,11 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 34</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>76</td>
@@ -451,27 +563,15 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>66</td>
-      <td>
-          <img src="https://i.discogs.com/2XYky8LtI4amG0826SY69G9BVsMBgeLr7yOF9_tn_4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTEz/NzktMTM4NzEwNTcy/MS03ODc3LmpwZWc.jpeg" alt="Cover for Baby Blue" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000-07-17</td>
-      <td>Anahí</td>
-      <td>Baby Blue</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/kexJYdzJzi662flZuGsnCY7TshAuYUPqXaZSoiGG2kw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTMy/MDgtMTMwODg4NDEz/Mi5qcGVn.jpeg" alt="Cover for Una Rebelde en Solitario" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/615b8e9c6cf5178f96986fa0e7b364d6.png" alt="Cover for Una Rebelde en Solitario" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-07-17</td>
       <td>Anahí</td>
@@ -484,6 +584,31 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 11</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46a2e40cca2552b5267af8f78092e453.png" alt="Cover for Baby Blue" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-07-17</td>
+      <td>Anahí</td>
+      <td>Baby Blue</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -503,6 +628,29 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/Li4fRBTS2o7wenyTAZoGjgTJE-ugsRdzoXGS3yPu71o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTEz/NTAtMTI5NDA1NTQz/NC5qcGVn.jpeg" alt="Cover for We Love Disney (Latino)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>David Bisbal</td>
+      <td>We Love Disney (Latino)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>8</td>
@@ -517,10 +665,15 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df744b5c87e7479183f71cf6f999c2e1.png" alt="Cover for Programa" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Lulu Santos</td>
@@ -532,10 +685,15 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/141a2e8342d848728e743ff12744043f.png" alt="Cover for Baile de los Sueños" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-01-27</td>
       <td>Maia</td>
@@ -543,6 +701,10 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -559,6 +721,10 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>84</td>
@@ -571,6 +737,12 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 31</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -589,6 +761,10 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>69</td>
@@ -605,11 +781,17 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trio" | relative_url }}">trio</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 70</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 98</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/4Xwv5nXIwyE-jRcAFZmUN_3s-1S1yQ39PDFLRmXZLjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDIy/NTItMTMzMDU0MDQy/MS5qcGVn.jpeg" alt="Cover for Fora da Memória" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d110be1cadb73509ffa29b67712fc0f6.png" alt="Cover for Fora da Memória" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Tribalistas</td>
@@ -625,36 +807,9 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
-          <img src="https://i.discogs.com/JYlyWd-Ls3nQZJtMcsqU5ClvRn1MeYFKgopHCAWxj_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTEz/OTAtMTUzNDA5MTk0/MC04MDM2LmpwZWc.jpeg" alt="Cover for Antologia" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Anahi</td>
-      <td>Antologia</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>
-          <img src="https://i.discogs.com/04jfplZaN-75EVpspBhe_Z3ProFyuwzetZ-eHf3_mNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDg3/NjAzLTE2MDMyMDcy/ODItMzgwMS5qcGVn.jpeg" alt="Cover for Aquí Estaré" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Kudai</td>
-      <td>Aquí Estaré</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -675,6 +830,75 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/JYlyWd-Ls3nQZJtMcsqU5ClvRn1MeYFKgopHCAWxj_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTEz/OTAtMTUzNDA5MTk0/MC04MDM2LmpwZWc.jpeg" alt="Cover for Antologia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Anahi</td>
+      <td>Antologia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35c44e9b47bf459701f436c70c9c2fa9.png" alt="Cover for Aquí Estaré" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Kudai</td>
+      <td>Aquí Estaré</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37084e559565a46732a78a03a2230ba9.png" alt="Cover for À Vontade" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Ivete Sangalo</td>
+      <td>À Vontade</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 59</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>10</td>
@@ -687,6 +911,10 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -703,29 +931,15 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>67</td>
-      <td>
-          <img src="https://i.discogs.com/JuRw14pQgzNm6932U2Mhn20K3w-ObhvmJ3eGjywG1nA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzc5/MDctMTY5MTE0ODcw/NS00MDcxLmpwZWc.jpeg" alt="Cover for À Vontade" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Ivete Sangalo</td>
-      <td>À Vontade</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa9399d57b1449cac95e713a4736c466.png" alt="Cover for Nada Más" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-04</td>
       <td>Conchita</td>
@@ -733,7 +947,11 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -752,6 +970,11 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -778,9 +1001,17 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 13</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 47</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 61</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 77</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/7EBbB0Z8SKnMY0KnlYrG8db2hGl0qiVcsinMYFOqWr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzU0/ODAzLTE1ODA5NDUz/NjUtNzQzOC5qcGVn.jpeg" alt="Cover for Secretos" style="max-width:120px; height:auto;" />
       </td>
@@ -792,6 +1023,10 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -807,11 +1042,16 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 95</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/xb4Rv0WrdpGmpLWK21ltLrwql-zTkURPqUMW-44SHKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjg2/NDYtMTQ4OTgwNjE1/MS03MTgzLmpwZWc.jpeg" alt="Cover for Mi Plan" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72fdf070a24917c01b9a8f93d3ee9f9c.png" alt="Cover for Mi Plan" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-11</td>
       <td>Nelly Furtado</td>
@@ -821,18 +1061,9 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>
-          <img src="https://i.discogs.com/xtPm5c6JdJp3Zuhu0_92zwjBM5tuzbQJQTPpCJGVjeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzky/NzMwLTE2MjY2NjAz/NTQtMzA2Mi5qcGVn.jpeg" alt="Cover for Evolucion" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Luis Enrique</td>
-      <td>Evolucion</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -853,10 +1084,34 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 21</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>11</td>
       <td>
+          <img src="https://i.discogs.com/xtPm5c6JdJp3Zuhu0_92zwjBM5tuzbQJQTPpCJGVjeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzky/NzMwLTE2MjY2NjAz/NTQtMzA2Mi5qcGVn.jpeg" alt="Cover for Evolucion" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Luis Enrique</td>
+      <td>Evolucion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6931e7c2fd7842f8b23d643d473bf52d.png" alt="Cover for Almas Transparentes" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-23</td>
       <td>Christian Chávez</td>
@@ -864,13 +1119,17 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 70</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -890,21 +1149,27 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-          <img src="https://i.discogs.com/Z_fmCr2RyhQwf15VY-AbARRzPpdNyh5YQjcXQfo3gU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjQw/MTItMTM0MTgzMjQ3/Mi0zMzg2LmpwZWc.jpeg" alt="Cover for Tu Nombre" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012</td>
-      <td>Cali Y El Dandee</td>
-      <td>Tu Nombre</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/jGRjLS9VTKXrtDD-g1F5U_LbDaxInbtleOWarFTEWwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzMz/NTQtMTM0OTcwNzEz/NC0xMDUzLnBuZw.jpeg" alt="Cover for A Quien Corresponda, cartas abiertas y otros asuntos de la correspondencia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Santiago Cruz</td>
+      <td>A Quien Corresponda, cartas abiertas y otros asuntos de la correspondencia</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -923,15 +1188,28 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 22</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/jGRjLS9VTKXrtDD-g1F5U_LbDaxInbtleOWarFTEWwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzMz/NTQtMTM0OTcwNzEz/NC0xMDUzLnBuZw.jpeg" alt="Cover for A Quien Corresponda, cartas abiertas y otros asuntos de la correspondencia" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/Z_fmCr2RyhQwf15VY-AbARRzPpdNyh5YQjcXQfo3gU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjQw/MTItMTM0MTgzMjQ3/Mi0zMzg2LmpwZWc.jpeg" alt="Cover for Tu Nombre" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
-      <td>Santiago Cruz</td>
-      <td>A Quien Corresponda, cartas abiertas y otros asuntos de la correspondencia</td>
+      <td>Cali Y El Dandee</td>
+      <td>Tu Nombre</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -953,6 +1231,32 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c390347b77fa4b31cb50e8f82adfbfce.png" alt="Cover for Inevitable" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Samo</td>
+      <td>Inevitable</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 43</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>9</td>
@@ -967,20 +1271,8 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>56</td>
-      <td>
-          <img src="https://i.discogs.com/u6-8NmU3Oar0LI9xtGdf_yN6WwFR1ZPCwKvdMuSyDjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTU1/MjYtMTM3NDQ5NTcw/NS0xNTk0LmpwZWc.jpeg" alt="Cover for Inevitable" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013</td>
-      <td>Samo</td>
-      <td>Inevitable</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
     </tr>
@@ -1001,6 +1293,10 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>3</td>
@@ -1016,6 +1312,10 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>6</td>
@@ -1028,6 +1328,10 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1045,9 +1349,14 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 33</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>80</td>
       <td>
       </td>
       <td>2013-08-27</td>
@@ -1058,10 +1367,15 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50a188e146264945c975577052ded11f.png" alt="Cover for De Película" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-24</td>
       <td>Gloria Trevi</td>
@@ -1076,9 +1390,14 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 88</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/BN639TciwGz8d4H55J4NkqO3gJfLKbbf910Epf5q_zA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzY1/NzAtMTQxNDQyOTc0/My01OTU5LmpwZWc.jpeg" alt="Cover for Esqueci Como Namora" style="max-width:120px; height:auto;" />
       </td>
@@ -1095,11 +1414,16 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 78</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/yi0bMZKeRK7eSKNB4zwf5GHa8wZRozwOcwYpef8Wh38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTQy/NzQtMTM1MTcwNTY0/NS03NTE4LmpwZWc.jpeg" alt="Cover for Sólo pienso en ti" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1b9a87d1e3649e1c96081939a3073b8.png" alt="Cover for Sólo pienso en ti" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-12</td>
       <td>Lucero</td>
@@ -1116,11 +1440,17 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 18</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 63</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/iJM0uQm-Sf5ul_8DZiLDSyg-9X0SXKHIo86yE8RKbwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzIx/ODctMTQxNTI5MTI1/NS0yNDI1LmpwZWc.jpeg" alt="Cover for Can&#39;t Stop Dancin&#39;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49fadf838d954a14478bc6bb8e35f749.png" alt="Cover for Can&#39;t Stop Dancin&#39;" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-04</td>
       <td>Becky G</td>
@@ -1134,24 +1464,9 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/15TtBqU0CltV2QZxLVze3lPZJGjaBhE5lwPexo7gtG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDY5/MDY4LTE2MDI4NzYx/MjktOTg2Mi5qcGVn.jpeg" alt="Cover for Touch Me - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015</td>
-      <td>Vesta Lugg</td>
-      <td>Touch Me - Single</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/canada" | relative_url }}">canada</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1172,6 +1487,13 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 53</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 78</li>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 86</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>41</td>
@@ -1189,6 +1511,10 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1211,6 +1537,11 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 73</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>38</td>
@@ -1227,11 +1558,16 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a> # 78</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/Rhezk7gakI-ENCdI0DR6AuvY4GUAJ_ePAP95r-sk89Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjI5/MzAwLTE2Mzg2NDcy/ODYtMTMyMC5qcGVn.jpeg" alt="Cover for Me Rehúso" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c32eec6c756a0cf790c22a5948e9c84.png" alt="Cover for Me Rehúso" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Danny Ocean</td>
@@ -1244,11 +1580,17 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 71</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 86</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/CD8TUaJEUFjlCbOB_diwty3b4OArIv5zru_gzFaHMn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTUz/NzM0LTE1NDg5ODcx/ODMtNjE2My5qcGVn.jpeg" alt="Cover for Fénix" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff4799ef4ac97487f2d09c3592cae6ea.png" alt="Cover for Fénix" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-01-20</td>
       <td>Nicky Jam</td>
@@ -1259,11 +1601,16 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 63</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/6QupWZaUYgYmaObZw6TzKGFuI5BEOkPxCdc3hKQ8WIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI3/MjUtMTQ4NzcyNDE3/Ni05MDczLmpwZWc.jpeg" alt="Cover for Deja vu" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/957936fa990b294bc3e837a572e534b4.png" alt="Cover for Deja vu" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-24</td>
       <td>Prince Royce</td>
@@ -1276,11 +1623,15 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/Ms_ATwJSpu7ysqxjlskTnTvI_un1eW8Z1KxfmEuZt_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA1/NjI2LTE1MDI3NjI5/ODMtMzc5My5qcGVn.jpeg" alt="Cover for Baldin de Gelo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8789143ee41eae758abfa6d77eef5974.png" alt="Cover for Baldin de Gelo" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-04</td>
       <td>Claudia Leitte</td>
@@ -1295,11 +1646,17 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 18</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 86</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/IcRgt13wyiecOi6N5I5mRJzs2XbX855MlPVd5ud73ok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjYz/OTQtMTQzOTkyMDM2/OS0xMTAxLmpwZWc.jpeg" alt="Cover for Paradinha" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5316f26025d55be38fa1bf0dd5852df0.png" alt="Cover for Paradinha" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-31</td>
       <td>Anitta</td>
@@ -1312,6 +1669,14 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 82</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 93</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 93</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1332,6 +1697,11 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 2</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>90</td>
@@ -1350,6 +1720,12 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 13</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 40</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>85</td>
@@ -1362,6 +1738,10 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1379,11 +1759,15 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/FKJaqCl1UhQYV5l_Ya0a-TCdrM4iC1jn8L44Xstlxc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY5/MzI4LTE1OTkyOTQ2/OTMtMTUwMC5qcGVn.jpeg" alt="Cover for Um Só" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3dd8a843e8033aa477150c4e5756572e.png" alt="Cover for Um Só" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-15</td>
       <td>Tribalistas</td>
@@ -1399,11 +1783,16 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 50</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/FKJaqCl1UhQYV5l_Ya0a-TCdrM4iC1jn8L44Xstlxc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY5/MzI4LTE1OTkyOTQ2/OTMtMTUwMC5qcGVn.jpeg" alt="Cover for Diáspora" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/324194b25e523dc59630a8670dcb5f80.png" alt="Cover for Diáspora" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-15</td>
       <td>Tribalistas</td>
@@ -1419,11 +1808,16 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 57</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/FKJaqCl1UhQYV5l_Ya0a-TCdrM4iC1jn8L44Xstlxc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY5/MzI4LTE1OTkyOTQ2/OTMtMTUwMC5qcGVn.jpeg" alt="Cover for Aliança" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2243037ee8daa6e55a74971a68441ef.png" alt="Cover for Aliança" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-15</td>
       <td>Tribalistas</td>
@@ -1437,6 +1831,11 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1455,11 +1854,15 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/kQIJc6oDkTU4PL56LmxcDyitBqcbE_fXQ3hEtxRZtd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjA4/MDQ5LTE1OTQ0NjEz/NzYtMjM0OC5qcGVn.jpeg" alt="Cover for Mayores" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80452521cdc50670ddc353bb5d07115c.png" alt="Cover for Mayores" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-13</td>
       <td>Becky G</td>
@@ -1472,11 +1875,17 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 70</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 84</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/R5e_AGEflLYd19EK2R2X6NO2WIxWHuAMdoHFw5n1swQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjM1/MjEtMTMwOTM4NTg4/MS5qcGVn.jpeg" alt="Cover for Shakira In Concert: El Dorado World Tour" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ad3ac753db049874d1f83678337abee.png" alt="Cover for Shakira In Concert: El Dorado World Tour" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-13</td>
       <td>Shakira</td>
@@ -1487,6 +1896,11 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1504,11 +1918,36 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04354c20f107c1c52c0e7bc6746b10a6.png" alt="Cover for ENTROPÍA" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-03-12</td>
+      <td>Humbe</td>
+      <td>ENTROPÍA</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 41</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/rpJEiYOevSNWQuCCMTiIKr7ehNual7Ez8Z-o9uSRiBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzIw/NTg4LTE2NzMzMTg0/NjMtNTIzNS5qcGVn.jpeg" alt="Cover for AURORA" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1db354c87f4327429c44a6a211f88bd.png" alt="Cover for AURORA" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-12</td>
       <td>Humbe</td>
@@ -1518,19 +1957,8 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>91</td>
-      <td>
-          <img src="https://i.discogs.com/rpJEiYOevSNWQuCCMTiIKr7ehNual7Ez8Z-o9uSRiBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzIw/NTg4LTE2NzMzMTg0/NjMtNTIzNS5qcGVn.jpeg" alt="Cover for ENTROPÍA" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-03-12</td>
-      <td>Humbe</td>
-      <td>ENTROPÍA</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
     </tr>
@@ -1552,6 +1980,11 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 37</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>53</td>
@@ -1571,11 +2004,16 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 41</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/0EJ_nq9k1Shcj8cNfx7DYx74N2S3tipMZ5kobBW7OmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTc5/MTAwLTE2MjM5NjYx/OTItMjIwNy5qcGVn.jpeg" alt="Cover for Você Não Presta" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f94396e817c4e087defc4368ce964e48.png" alt="Cover for Você Não Presta" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-15</td>
       <td>Mallu Magalhães</td>
@@ -1590,6 +2028,11 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1607,6 +2050,11 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1628,6 +2076,11 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 23</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>100</td>
@@ -1644,6 +2097,12 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 72</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 88</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>98</td>
@@ -1658,6 +2117,56 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 80</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a1d71596646d809774c33513dc098c6.png" alt="Cover for Voy a Ti" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Lucah</td>
+      <td>Voy a Ti</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1945b8f99c29cdba999ee33182d3f642.png" alt="Cover for Quédate Conmigo" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Chyno Miranda</td>
+      <td>Quédate Conmigo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 84</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1677,6 +2186,10 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>24</td>
@@ -1688,6 +2201,10 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1709,6 +2226,10 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>39</td>
@@ -1722,35 +2243,8 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>54</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Lucah</td>
-      <td>Voy a Ti</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Chyno Miranda</td>
-      <td>Quédate Conmigo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a></li>
         </ul>
       </td>
     </tr>
@@ -1766,6 +2260,6 @@ Pop latino is a contemporary Latin music genre that blends pop melodies with rhy
 - [latino]({{ "/tags/latino" | relative_url }})
 - [mexico]({{ "/tags/mexico" | relative_url }})
 - [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
-- [dance]({{ "/tags/dance" | relative_url }})
 - [brazilian pop]({{ "/tags/brazilian-pop" | relative_url }})
 - [brazilian]({{ "/tags/brazilian" | relative_url }})
+- [dance]({{ "/tags/dance" | relative_url }})
