@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:26:15.727Z
+date: 2025-11-13T06:28:48.717Z
 permalink: tags/yacht-rock
 title: yacht rock
 ---
 
 ## yacht rock
 
-Last updated: <time datetime="2025-11-11T04:26:15.727Z">Tue Nov 11 2025 06:26:15 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T06:28:48.717Z">Thu Nov 13 2025 08:28:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
   </thead>
   <tbody>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/957c1c7a66364f90955977e43fc824db.png" alt="Cover for Jaye P.Morgan" style="max-width:120px; height:auto;" />
       </td>
@@ -90,7 +90,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/ydHCdrrRBwubBXq30RaCS6SKAgK5ipu-tTPu5jkQPw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODkx/NzctMTQyMzQ5MzM4/NS0yMjU5LmpwZWc.jpeg" alt="Cover for The Original Hits Of Daryl Hall &amp; John Oates" style="max-width:120px; height:auto;" />
       </td>
@@ -134,7 +134,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td>1976</td>
@@ -171,7 +171,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f430961f966fc32547aea88b82251a9.png" alt="Cover for Takin&#39; It to the Streets" style="max-width:120px; height:auto;" />
       </td>
@@ -189,7 +189,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19e269c8426c24d5f709780d63b7287b.png" alt="Cover for Luna Sea" style="max-width:120px; height:auto;" />
       </td>
@@ -270,7 +270,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9577c49c8a96c41dbc682be9fc04c829.png" alt="Cover for Jerry Corbetta" style="max-width:120px; height:auto;" />
       </td>
@@ -293,7 +293,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/227f3a3fc2654e10a3681c3e5bf71aea.png" alt="Cover for Mannequin" style="max-width:120px; height:auto;" />
       </td>
@@ -385,7 +385,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f31ce1a205ba6eca014ef4dc29a1c4d.png" alt="Cover for Life Beyond L.A." style="max-width:120px; height:auto;" />
       </td>
@@ -403,9 +403,27 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/QRkLXLQGpXJyN94bQeeLt7bjG2HqFsG4-uy9VhRv0Ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTI5/MDQtMTMxMTYzMDc4/Mi5qcGVn.jpeg" alt="Cover for Forever" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efe8bc6e11a3e52b46abf886a89f4c4a.png" alt="Cover for George Harrison" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979-02-14</td>
+      <td>George Harrison</td>
+      <td>George Harrison</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7c6e183dd064eeb8ac1dafb4e7a9bc4.png" alt="Cover for Forever" style="max-width:120px; height:auto;" />
       </td>
       <td>1979-04-06</td>
       <td>Orleans</td>
@@ -421,7 +439,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/T8y0pIJ-1QBS4UuEL2vB19uXcaq36U9GFKhxUh713D0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTI4/MjAtMTI2NDcxMzU3/MS5qcGVn.jpeg" alt="Cover for Robert John" style="max-width:120px; height:auto;" />
       </td>
@@ -458,7 +476,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c691fc5cf5b447f9852588008e8e17ff.png" alt="Cover for Christopher Cross" style="max-width:120px; height:auto;" />
       </td>
@@ -472,13 +490,13 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 68</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 70</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/ZyK23NUOAiA1s5LUDxPcrVHv6F29_0HqCd4MDGcs9ME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MDkx/MS0xMTc2NTAyMzMy/LmpwZWc.jpeg" alt="Cover for Sailing" style="max-width:120px; height:auto;" />
       </td>
@@ -546,9 +564,9 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/E-a_3FmrldxAPFUmS2A-tYuzakuGiWkKQwzZeJBFrkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODE3/ODItMTU3NzQwNTEy/OS0xNDcwLmpwZWc.jpeg" alt="Cover for Airplay" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d96d07e6c9dda5d526441f54919f1c9f.png" alt="Cover for Airplay" style="max-width:120px; height:auto;" />
       </td>
       <td>1980-01-15</td>
       <td>Airplay</td>
@@ -582,13 +600,13 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 62</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 65</li>
             <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td>1980-12-08</td>
@@ -647,28 +665,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcaf914ab934ccb820abcfc9c6e87a09.png" alt="Cover for Street Corner Heroes" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1981</td>
-      <td>Robbie Dupree</td>
-      <td>Street Corner Heroes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/R5TcHg7BQybayLsJqon-Kn2YZGm-CkzRtZo8FuEuDas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTk1/NzQtMTIzNzc3OTQ1/NC5qcGVn.jpeg" alt="Cover for Reflector" style="max-width:120px; height:auto;" />
       </td>
@@ -732,7 +729,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/YgfkWhx4CbJI_vgU5zxsIa8iP5OCnia2nWJEPw6x_rc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTU3/NjItMTQyNjQzMDAy/Ny01MzEzLmpwZWc.jpeg" alt="Cover for Eye to Eye" style="max-width:120px; height:auto;" />
       </td>
@@ -796,7 +793,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/ihKkCTxJiZ9kOYHvrDZmIm6v5WFHoR4SresGWkRu1yM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTYx/MDktMTQ5NTIyMzI5/Ni0xOTIyLmpwZWc.jpeg" alt="Cover for Wild Heart Of The Young" style="max-width:120px; height:auto;" />
       </td>
@@ -819,7 +816,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/jxa7oGGwz4FZlZ90IbOrygVgMXaP-WCyNtt-6lb28DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MzY4/OTAtMTQ4Mzk5NjUw/NS04MTE3LmpwZWc.jpeg" alt="Cover for A Night In Paris" style="max-width:120px; height:auto;" />
       </td>
@@ -843,7 +840,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
       </td>
       <td>1983</td>
@@ -867,7 +864,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/jxa7oGGwz4FZlZ90IbOrygVgMXaP-WCyNtt-6lb28DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MzY4/OTAtMTQ4Mzk5NjUw/NS04MTE3LmpwZWc.jpeg" alt="Cover for A Night in Paris (Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -933,7 +930,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/965db84badca7ab75d5f465b691597a0.png" alt="Cover for CSN" style="max-width:120px; height:auto;" />
       </td>
@@ -950,7 +947,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/uVvohYpjJEwqqnramCDP3KpEgF5aPZ5_3fSGhIqXqXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzk5/NzAtMTUxMDgzNjc4/OC04NDA4LmpwZWc.jpeg" alt="Cover for Rendezvous" style="max-width:120px; height:auto;" />
       </td>
@@ -971,7 +968,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f54e9e2591f92d24c463762d82332cb7.png" alt="Cover for On Your Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -993,9 +990,9 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/5Vtf4BzRTynyvqximxWRq3BPMcnTef-2Owu8CG5WyW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjUx/MTQtMTU5ODY2MjE3/Mi00NjIxLmpwZWc.jpeg" alt="Cover for Remastered: The Best Of Steely Dan - Then And Now" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b39aba52d9fa1c76459aa2a9e11ce843.png" alt="Cover for Remastered: The Best Of Steely Dan - Then And Now" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Steely Dan</td>
@@ -1012,7 +1009,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c216e6633c5c5246c8f70ee3838e6a90.png" alt="Cover for Blink of an Eye" style="max-width:120px; height:auto;" />
       </td>
@@ -1032,7 +1029,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td>1994-08-25</td>
@@ -1055,7 +1052,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/C8Q20vDhiM2Tp18CWNAPPaZ5eZU4AN1kQI8PSI1sh10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjcw/MTgtMTQxMDE5OTg0/OS02MzgzLmpwZWc.jpeg" alt="Cover for Smoke and Mirrors" style="max-width:120px; height:auto;" />
       </td>
@@ -1079,7 +1076,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/27c4b7185853035310a0a9b0b45d25a1.png" alt="Cover for Parcels" style="max-width:120px; height:auto;" />
       </td>
@@ -1128,7 +1125,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/evIdGDiTyEn37fmJDprYF19uXXJx4-1ijCKCNQK6wR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQw/MjU1LTE1NzIwMDU3/NTktOTAzNi5qcGVn.jpeg" alt="Cover for Ride Like the Wind - The Best of Christopher Cross" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,7 +1149,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/kKHsQmuSz_T_Afz1LIFP3NhjKTJzvvSPljoKmMDDmm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjc0/MjItMTI1OTQxMDYw/My5qcGVn.jpeg" alt="Cover for The Definitive Christopher Cross" style="max-width:120px; height:auto;" />
       </td>
@@ -1176,7 +1173,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1a037575e2b4351929d0180bd051bff.png" alt="Cover for Classic Masters" style="max-width:120px; height:auto;" />
       </td>
@@ -1225,31 +1222,28 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/GOyb9mESfUNlvPG69R4XtSdt_bMeFhyHi68aeqqQp9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjI5/OC0xNTUyNTAzNDAw/LTcxMzQuanBlZw.jpeg" alt="Cover for The Trials Of Van Occupanther" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb537061481842e488a6425e2940c8a8.png" alt="Cover for The Trials Of Van Occupanther" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-25</td>
       <td>Midlake</td>
       <td>The Trials Of Van Occupanther</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a></li>
+            <li style="font-size: calc(1rem * 55.00000000000001 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 6</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 36</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 78</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 38</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 80</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/MtINpXr3NBG8pu4E7fq2VT2rER09A6owxHOpYx4vWEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg2/MTUtMTI5ODA3MzYz/MS5qcGVn.jpeg" alt="Cover for Everytime I See Your Face" style="max-width:120px; height:auto;" />
       </td>
@@ -1273,7 +1267,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/nKL9uAxIrIrLTPCj106zD6qHMvRwx9Fkt1L-HQFi89E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE5/ODM5LTE1MjY2Nzg0/NTQtOTY4OS5qcGVn.jpeg" alt="Cover for Rollercoaster" style="max-width:120px; height:auto;" />
       </td>
@@ -1291,7 +1285,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/hkLnRFA2DcPb386r5QLzLG1xtGkbJz8g29Md7VPjwJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTI3/MTAtMTM2NzAwMTU2/Mi03NjEzLmpwZWc.jpeg" alt="Cover for This is life" style="max-width:120px; height:auto;" />
       </td>
@@ -1309,7 +1303,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c2846d2b0f74529838e27570aa87387.png" alt="Cover for Musically Adrift" style="max-width:120px; height:auto;" />
       </td>
@@ -1352,7 +1346,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9adf4babd33f4f178638bab30f4e6182.png" alt="Cover for State Cows" style="max-width:120px; height:auto;" />
       </td>
@@ -1376,7 +1370,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcde6e40e7f3435f8f69741890eee338.png" alt="Cover for Somewhere Down The Road You&#39;ll Listen" style="max-width:120px; height:auto;" />
       </td>
@@ -1425,7 +1419,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
       </td>
       <td>2011-02-24</td>
@@ -1444,7 +1438,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/xXyMiM2m3pcyrRE2_phjt_8-33QoPCP4OvFO8QleUCA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTI3/MTQtMTM2Njk5OTkx/Ni01MDEzLmpwZWc.jpeg" alt="Cover for It&#39;s The Journey" style="max-width:120px; height:auto;" />
       </td>
@@ -1462,7 +1456,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5586d6d55124493a8e5167ffc178515e.png" alt="Cover for Rhino Hi-Five: Robbie Dupree" style="max-width:120px; height:auto;" />
       </td>
@@ -1511,7 +1505,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/ZOeCeDcPhl_WBItlxoR_2SGQHzKtvYV6JgIAXi7KK_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA4/MjU3LTE1MjI3MzU5/MjQtOTkwMC5qcGVn.jpeg" alt="Cover for Red (Taylor&#39;s Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1539,7 +1533,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/Cnyns0HQmNmZKRey4Y6fwG-l-DgGGOCzVPPRMawxl6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA4/NDU1LTE1MjI3Mzk3/OTYtNjcwMy5qcGVn.jpeg" alt="Cover for Red (Taylor&#39;s Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1677,11 +1671,11 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 73</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 75</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 80</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 83</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 83</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 85</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 83</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 85</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 86</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 86</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 87</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 90</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 90</li>
@@ -1721,7 +1715,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/tOgRZQHru1xoB8JsFSNaGuvCzLfuzPe6Kp3k4sUQwpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjg1/MDItMTQ0OTczODYx/Ni05OTg5LmpwZWc.jpeg" alt="Cover for Secret Ladder" style="max-width:120px; height:auto;" />
       </td>
@@ -1740,7 +1734,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/mvTBw8ZeNldO5u_WPXBtdIue4ZJEyR47Np08Bqvjuao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzI4/MjEtMTM5NDEwMjc5/Ni01MTYwLnBuZw.jpeg" alt="Cover for Oasis" style="max-width:120px; height:auto;" />
       </td>
@@ -1800,7 +1794,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdc51aedc6ac8799f6fb0dc3ccff00af.png" alt="Cover for Perpetual Gateways" style="max-width:120px; height:auto;" />
       </td>
@@ -1824,7 +1818,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f97b3feeb2fc46d48e4deb2a831a98c4.png" alt="Cover for Cuts" style="max-width:120px; height:auto;" />
       </td>
@@ -1866,7 +1860,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1816e5b0e9a71009a98aa5bcb8c0aa13.png" alt="Cover for Criterion of the Senses" style="max-width:120px; height:auto;" />
       </td>
@@ -1889,7 +1883,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/4qohcOVAoVqskiDW_ruQYyz-y6GGcSzcXb1AHjB4AoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIx/MTgwLTE1NzYyNTQ2/NTUtNzQ1OS5qcGVn.jpeg" alt="Cover for Challenges" style="max-width:120px; height:auto;" />
       </td>
@@ -1925,7 +1919,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d3e972f776759525ee9fe3fe391b21e.png" alt="Cover for Time to Decide" style="max-width:120px; height:auto;" />
       </td>
@@ -2026,8 +2020,8 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 2</li>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 2</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 2</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 3</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 3</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 6</li>
@@ -2039,61 +2033,61 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 43</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 50</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 67</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 72</li>
             <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 72</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 72</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 75</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 78</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 79</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 80</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 87</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 89</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 90</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 92</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 90</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 92</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 92</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 93</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 95</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 97</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 97</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/Hu9PtDLb0O8BwCTXIut28nfrAWtZ5nUUYfFdyCqvUGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzEy/MTIxLTE1ODk1Njkz/MDItMTE3OS5qcGVn.jpeg" alt="Cover for Companionship" style="max-width:120px; height:auto;" />
       </td>
@@ -2112,7 +2106,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/K3LUcNJZX44-P5YN4J8UqMV2NbhylFFH0AIZMu1BGLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMx/NDA5LTE1OTg2MDkw/NjItNzUyMC5qcGVn.jpeg" alt="Cover for GONG!" style="max-width:120px; height:auto;" />
       </td>
@@ -2147,7 +2141,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 35</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -2172,7 +2166,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/GJdHnTxV9Vc6NOSHQWaQXG3eDjHmoSiA0GttpGArrLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjY1/ODY1LTE2Mjc1NTcw/NzEtODIyNy5qcGVn.jpeg" alt="Cover for Ophilia" style="max-width:120px; height:auto;" />
       </td>
@@ -2190,7 +2184,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/D3m4UbHqXuqmt01kw7VgAkE_7b5OKGkUsWquwnUyK1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjg4/MjA4LTE2MzkwNjk0/ODktOTM3NS5qcGVn.jpeg" alt="Cover for Red (Taylor&#39;s Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -2310,22 +2304,22 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 83</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 84</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 85</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 88</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 88</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 88</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 88</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 89</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 90</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 91</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 91</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 92</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 93</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 93</li>
             <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 93</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 94</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 93</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 93</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 94</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 94</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 95</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 95</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 94</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 95</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 95</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 95</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 96</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 96</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 96</li>
@@ -2352,7 +2346,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/LaXn6WpA9QBOp31pEt538Y6_5qrCt2eqR_ijdKJMIT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM5/NDY0LTE2MzY4NDY1/NDUtNzUwNi5qcGVn.jpeg" alt="Cover for Red (Taylor&#39;s Version) [Clean]" style="max-width:120px; height:auto;" />
       </td>
@@ -2506,77 +2500,77 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 1</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 2</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 2</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 3</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 20</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 46</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 46</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 55</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 46</li>
             <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 55</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 55</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 61</li>
             <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 66</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 72</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 81</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 83</li>
             <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 83</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 83</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 85</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 89</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 90</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 90</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 92</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 93</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 94</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 94</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 95</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -2651,7 +2645,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -2727,7 +2721,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
       </td>
       <td></td>
@@ -2775,7 +2769,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
       </td>
       <td></td>
@@ -2793,7 +2787,7 @@ Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerge
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/899e7311e843a4f578e50e868517d8ea.png" alt="Cover for The Album" style="max-width:120px; height:auto;" />
       </td>

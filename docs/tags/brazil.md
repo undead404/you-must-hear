@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:27:09.862Z
+date: 2025-11-13T06:29:50.558Z
 permalink: tags/brazil
 title: brazil
 ---
 
 ## brazil
 
-Last updated: <time datetime="2025-11-11T04:27:09.862Z">Tue Nov 11 2025 06:27:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T06:29:50.558Z">Thu Nov 13 2025 08:29:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -61,7 +61,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 9</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -84,7 +84,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>1969</td>
@@ -112,7 +112,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>1973</td>
@@ -169,7 +169,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/Yy_zNPZKwa3a3PxqH7HBpvGKbpvEPcvjVD_Aq0G3ql8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjc4/MDQwLTE0OTQ1NjE5/NDUtNTI3MS5qcGVn.jpeg" alt="Cover for Nightingale" style="max-width:120px; height:auto;" />
       </td>
@@ -222,7 +222,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>1983</td>
@@ -240,7 +240,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 36</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 37</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 63</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 66</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 66</li>
@@ -420,15 +420,15 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 38</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 39</li>
             <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/2MTzCQ9fNXLZjDqwhts8xXTQOnjP2wibiQIaCryE5cU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Nzc0/NjItMTQ4NzgwNzI0/MC02ODc2LmpwZWc.jpeg" alt="Cover for Sol e Chuva" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/636d21e1af15e2882a10d3286a97eb3f.png" alt="Cover for Sol e Chuva" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Alceu Valença</td>
@@ -504,7 +504,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 44</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 45</li>
             <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 61</li>
         </ul>
       </td>
@@ -512,6 +512,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a058a1c53eb46f5842eaa27d2692893.png" alt="Cover for Lado B Lado A" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-09-15</td>
       <td>O Rappa</td>
@@ -565,9 +566,8 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 4</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 15</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 40</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 9</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 43</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 51</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 55</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 70</li>
@@ -575,14 +575,15 @@ Brazilian music blends indigenous, African, and European influences into diverse
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 73</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 74</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 83</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 85</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 85</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 86</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 87</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 89</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 93</li>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 95</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 96</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
         </ul>
@@ -647,7 +648,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e51d9b517ea442ac4ab0c06a845f88a.png" alt="Cover for Ventura" style="max-width:120px; height:auto;" />
       </td>
@@ -667,6 +668,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7649dd96430eb9ffb52d878e49d9489.png" alt="Cover for Áudio-Retrato" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Leoni</td>
@@ -711,7 +713,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/65ec86fcbfcc8122ab6f931198a96f7c.png" alt="Cover for Skylab IV" style="max-width:120px; height:auto;" />
       </td>
@@ -789,7 +791,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       <td>
         <ul>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 65</li>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 65</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -838,7 +840,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/q7Yzuy4YtJ65oJcpLVKmaeR9nH_mjVobSM3tY-WCVLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjcw/MzAtMTYxMTI3NDMy/MC00MTgyLnBuZw.jpeg" alt="Cover for B.R.3" style="max-width:120px; height:auto;" />
       </td>
@@ -858,7 +860,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e90fd2fc7b9407bc0c3e415d5142b30.png" alt="Cover for Adriana Partimpim" style="max-width:120px; height:auto;" />
       </td>
@@ -929,7 +931,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 36</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -950,7 +952,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 70</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 71</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 94</li>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 99</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 100</li>
@@ -999,7 +1001,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/kzK5xBpRuHZGm21bli3L0x6NNLvp4ewivZP5GtPXvbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODQ5/ODItMTM5MjA1NTIw/My03ODAyLmpwZWc.jpeg" alt="Cover for A Voz e o Violão" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e05d5362764d9aa99236d39498d42c40.png" alt="Cover for A Voz e o Violão" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Djavan</td>
@@ -1036,7 +1038,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e0c5887b28544c0acec4c33414514eb.png" alt="Cover for Seu Minuto, Meu Segundo" style="max-width:120px; height:auto;" />
       </td>
@@ -1091,7 +1093,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
         <ul>
             <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 47</li>
             <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 63</li>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 87</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1152,7 +1154,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6926efa9d6f4285997cb22e0647dbe0.png" alt="Cover for Maré" style="max-width:120px; height:auto;" />
       </td>
@@ -1166,12 +1168,12 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 2</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/wB7I5938MKJDrNr-U9BBrdVSEuz8LFHEhtMzOV0KM8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM1/NTUwLTE0OTA0OTAw/NDUtNjkzNS5qcGVn.jpeg" alt="Cover for Versátil" style="max-width:120px; height:auto;" />
       </td>
@@ -1214,7 +1216,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd40c3255b8d4615b9aa42a1ddd0e383.png" alt="Cover for Das Kapital" style="max-width:120px; height:auto;" />
       </td>
@@ -1235,7 +1237,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/HuNFOBc_ZbiB7ixg96Qq-Y1z_knInnhdSfI6mNzSX9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTkx/MTEtMTQ1MzIwNzU2/My04NTc3LmpwZWc.jpeg" alt="Cover for Acústico" style="max-width:120px; height:auto;" />
       </td>
@@ -1251,7 +1253,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 14</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 16</li>
             <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 20</li>
             <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 45</li>
             <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 98</li>
@@ -1370,28 +1372,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 41</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>
-      </td>
-      <td>2013-04-30</td>
-      <td>Clarice Falcão</td>
-      <td>Monomania</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 72</li>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 93</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1438,7 +1419,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/Sqfs8HvnCkF3Owh2AV1zI6Lpt_qUA536c809D33tEEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTg3/NjcxLTE1MjIwMTE3/NjMtODMyNC5qcGVn.jpeg" alt="Cover for Lugar Comum" style="max-width:120px; height:auto;" />
       </td>
@@ -1514,7 +1495,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/srBrJN7dm-9D1gNdOPJsJLAfpaeAMi7Em7qOgK9ZmCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTY1/ODgtMTQ0NjkyOTQ2/NC00MjE3LmpwZWc.jpeg" alt="Cover for Acústico MTV Tiago Iorc (Ao Vivo)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c16c44c83ea9366df513323105564a4e.png" alt="Cover for Acústico MTV Tiago Iorc (Ao Vivo)" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-07-10</td>
       <td>Tiago Iorc</td>
@@ -1573,12 +1554,12 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 55</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/k9Djymi5ebmbZoto7-o4PSWoY6hcdipJN_2ErM22Mtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDAx/MDItMTQyMDY3MzM4/Mi0zODYwLmpwZWc.jpeg" alt="Cover for Paradinha - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1619,7 +1600,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/2yuvKys3ZibLTS2yL-4bHa0MqWLDqWQ99rnektgxeT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQz/NzAzLTE2NDQ3Njg2/MjEtNjg3OS5qcGVn.jpeg" alt="Cover for Pode chorar" style="max-width:120px; height:auto;" />
       </td>
@@ -1679,7 +1660,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 67</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 68</li>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 75</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 90</li>
         </ul>
@@ -1701,7 +1682,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 8</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 9</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 74</li>
         </ul>
       </td>
@@ -1764,6 +1745,31 @@ Brazilian music blends indigenous, African, and European influences into diverse
       <td>
         <ul>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/CV-3_1SieG8ZbIRP4p2wM0CVrrb_FsNlwXvdjIiRRbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzg3/ODM1LTE2MTg5NzEz/MjMtMzE0NC5qcGVn.jpeg" alt="Cover for wierd" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>sonhos tomam conta</td>
+      <td>wierd</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1833,7 +1839,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/pVRC59_rdwQqjr6T-0IbuSJPef3aORgIrm_CtCSZ1rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODYy/OTYtMTQ1Njc1NTQ2/OS01MTQ3LmpwZWc.jpeg" alt="Cover for D" style="max-width:120px; height:auto;" />
       </td>
@@ -1854,7 +1860,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 44</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 45</li>
             <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 92</li>
         </ul>
       </td>
@@ -1921,7 +1927,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/6UuxCMO2ybZBwNQZ12bCJzptKuyBxSSleLlupcOTyC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTU0/NzYtMTQ4MTU2NzU2/Mi03NDA4LmpwZWc.jpeg" alt="Cover for Luau MTV" style="max-width:120px; height:auto;" />
       </td>
@@ -1940,7 +1946,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/256c00b22449f427132e730d501b2ea9.png" alt="Cover for As Quatro Estações (Ao Vivo)" style="max-width:120px; height:auto;" />
       </td>
@@ -1958,13 +1964,13 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 14</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 16</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/62da9ecd66e313ce4dfdf43a81193aeb.png" alt="Cover for Girassol" style="max-width:120px; height:auto;" />
       </td>
@@ -1984,7 +1990,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -2002,7 +2008,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/201b2d0478e3f2b4ac8b514f8ae440e5.png" alt="Cover for Holocausto Urbano" style="max-width:120px; height:auto;" />
       </td>
@@ -2022,7 +2028,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a480cebd5046ca6a456ca24dafcc074.png" alt="Cover for TBT Da POCAH" style="max-width:120px; height:auto;" />
       </td>
@@ -2060,7 +2066,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aad124f9139e842301ea35f876d7ee71.png" alt="Cover for Kikadão, Vol. 1" style="max-width:120px; height:auto;" />
       </td>

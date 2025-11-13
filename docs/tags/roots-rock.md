@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T23:59:01.309Z
+date: 2025-11-13T06:27:42.677Z
 permalink: tags/roots-rock
 title: roots rock
 ---
 
 ## roots rock
 
-Last updated: <time datetime="2025-11-03T23:59:01.309Z">Tue Nov 04 2025 01:59:01 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T06:27:42.677Z">Thu Nov 13 2025 08:27:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
   </thead>
   <tbody>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0eb9d5c81259f1506b7c819758e959e.png" alt="Cover for Music From Big Pink" style="max-width:120px; height:auto;" />
       </td>
@@ -43,14 +43,13 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 60</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e73d538be45fb3f7238a05858927e5dd.png" alt="Cover for Creedence Clearwater Revival" style="max-width:120px; height:auto;" />
       </td>
       <td>1968-07-05</td>
       <td>Creedence Clearwater Revival</td>
@@ -62,13 +61,13 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 18</li>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 71</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 25</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/986c398b32723c1582c4bfbca84e9f92.png" alt="Cover for Pendulum" style="max-width:120px; height:auto;" />
       </td>
@@ -83,8 +82,8 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 4</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 24</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 6</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -105,12 +104,12 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 74</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/12Sq4_cOC_USaqKCpc1IAHxEp0cqZfA1SSgJ4UXj3JA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzU1/MTQtMTM2Nzg0OTE1/Ni04MDYyLmpwZWc.jpeg" alt="Cover for Northern Lights-Southern Cross" style="max-width:120px; height:auto;" />
       </td>
@@ -130,7 +129,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/hf78kcdjWDFJuBi_SbsRmSa_iBZS-4WzzvFSkAUhFww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTUz/MjUtMTYzMzI3MDM0/NC01NTIxLmpwZWc.jpeg" alt="Cover for Northern Lights - Southern Cross" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/423960e79d3a9696fededf6170b6fe01.png" alt="Cover for Northern Lights - Southern Cross" style="max-width:120px; height:auto;" />
       </td>
       <td>1975-11-01</td>
       <td>The Band</td>
@@ -162,7 +161,25 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 71</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8d9d4ab343a19d9456c83cb99793ee5.png" alt="Cover for Chronicle: The 20 Greatest Hits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>Creedence Clearwater Revival</td>
+      <td>Chronicle: The 20 Greatest Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -250,7 +267,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/zpKmrzzA5boGanU1-7LkrQeQ6qcptZEUjzyTAHRihMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODI2/Ni0xMjkzNDAzNTA2/LmpwZWc.jpeg" alt="Cover for Long After Dark" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5300502c342ead6e4ae65ea2af462ae2.png" alt="Cover for Long After Dark" style="max-width:120px; height:auto;" />
       </td>
       <td>1982-11</td>
       <td>Tom Petty and The Heartbreakers</td>
@@ -302,7 +319,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/tTDzNOEj_L-oxuYUaj1Y8OI-nZi8QNWMB6aPUb5AE_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE0/NjQ2LTE2MTQyODUx/ODgtODM3MC5qcGVn.jpeg" alt="Cover for Nightshift" style="max-width:120px; height:auto;" />
       </td>
@@ -318,7 +335,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 53</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -363,7 +380,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/m8No4wM42m_JX_JV97YQDz09o99cYkPtyk1cHcTstzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzk0/ODctMTQwMDE0Mjc2/OC0yNTA5LmpwZWc.jpeg" alt="Cover for The Lonesome Jubilee" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5901789b64f4643b76316c9df15f73d.png" alt="Cover for The Lonesome Jubilee" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>John Mellencamp</td>
@@ -380,7 +397,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/Xh_OrQDoH32aXS1bEVBX4dPzU8ICamAeDRjrHOJ1SwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzU1/NDgtMTQyNDY5Mjgz/MC05MzM5LmpwZWc.jpeg" alt="Cover for Save My Love" style="max-width:120px; height:auto;" />
       </td>
@@ -432,13 +449,14 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
         <ul>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 20</li>
             <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 64</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 83</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29615dc2e2ab5a056aabe327e2e6782d.png" alt="Cover for Into the Great Wide Open" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-07-02</td>
       <td>Tom Petty and The Heartbreakers</td>
@@ -452,7 +470,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 3</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -491,15 +509,15 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 9</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 63</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 14</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/dGroebMZQC1STQ-t7vSO467w_75sPTafQkwD-W_0AYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTE5/MDAtMTQ5MDgwOTM4/MS0yNzI0LmpwZWc.jpeg" alt="Cover for Letter To You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/242e1b0ba5e6d26bfc499326637aef64.png" alt="Cover for Letter To You" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-05-11</td>
       <td>Bruce Springsteen</td>
@@ -517,7 +535,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/sDOoRJ3bGGNlPG9vfWvNh8rCVLKXxjKLTmm52vSANrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Njgw/MC0xMjcwMzI4ODk5/LmpwZWc.jpeg" alt="Cover for Human Wheels" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e56fb63ded75422db5af9b567432a5c6.png" alt="Cover for Human Wheels" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>John Mellencamp</td>
@@ -535,7 +553,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/CgWSz9dx7TL9h-Pb_3B3dU0PiT4JlW5SmDIcIJYd6o8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQ2/NDYtMTUzNzk3MDQ1/Ny0yODIxLmpwZWc.jpeg" alt="Cover for Scarecrow (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -555,7 +573,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/_TkbVaExTTt5_HTk7eJwdZ4DsksOigZNvsDZYwZ6Xm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTcz/MjEtMTUwMTM1NTE4/OC00NTAxLmpwZWc.jpeg" alt="Cover for Cracked Rear View (25th Anniversary Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba46aba920eb77632ce6ff71d55fbaf3.png" alt="Cover for Cracked Rear View (25th Anniversary Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-07-05</td>
       <td>Hootie &amp; The Blowfish</td>
@@ -590,7 +608,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/HoAIhj4YzuK6BeCJf5R1Sy_GTM_6YGwhRhldQ35nqI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTcy/Ni0xNTA0MTQ3NTc2/LTYyOTYuanBlZw.jpeg" alt="Cover for Carl &amp; The Passions - So Tough (Remastered)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7c42a07cbbd24e95c99207585021582.png" alt="Cover for Carl &amp; The Passions - So Tough (Remastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-06-28</td>
       <td>The Beach Boys</td>
@@ -605,12 +623,12 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 25</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>1996</td>
@@ -628,9 +646,9 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/Jz2uVlQfs_0TVQ2liHMMTOIYigiq05hD5SgPE_rX4zA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Njgw/Ni0xNjUwMzc1NDIx/LTgyMDcuanBlZw.jpeg" alt="Cover for Mr. Happy Go Lucky" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e799ae24c7b583c4e7249c957482994f.png" alt="Cover for Mr. Happy Go Lucky" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-09-10</td>
       <td>John Mellencamp</td>
@@ -649,7 +667,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b660f45366339e5703858d2bd8feaf74.png" alt="Cover for One Headlight" style="max-width:120px; height:auto;" />
       </td>
@@ -764,7 +782,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/dn_d8b04C0p_Myq_OW1l5Gb91qlg4rO4eJya4tIdw58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQ2/OTItMTUwNDEyNjgz/OC0zMTU4LmpwZWc.jpeg" alt="Cover for Echo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88410a084ea846d7843270978f48cd8c.png" alt="Cover for Echo" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-04-13</td>
       <td>Tom Petty and The Heartbreakers</td>
@@ -781,7 +799,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>1999-09-13</td>
@@ -817,7 +835,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 23</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 27</li>
             <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 94</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 95</li>
         </ul>
@@ -826,7 +844,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/4u-T1K2ibynV_HVpgsSXNja7-uWVhyU8ir1oMiEwS4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Nzg5/MDgtMTQ5NTAxMzIx/OC00NDU3LmpwZWc.jpeg" alt="Cover for Breach" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f419c55ad102e729e6f4cab9a6a5c7d3.png" alt="Cover for Breach" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-09-26</td>
       <td>The Wallflowers</td>
@@ -862,7 +880,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2001-03-27</td>
@@ -898,6 +916,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/250e62c7b2b07952285f95e892fc4500.png" alt="Cover for Demolition" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-09-23</td>
       <td>Ryan Adams</td>
@@ -909,7 +928,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 76</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -932,7 +951,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2003-06-03</td>
@@ -1047,8 +1066,9 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0fd604ba04afc9d258fc39e3fafa6fb.png" alt="Cover for Looking For Lucky" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-08-09</td>
       <td>Hootie &amp; The Blowfish</td>
@@ -1064,7 +1084,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/n-7uPks4mrYc4iAEmsCBmsz8Srk5-d1ZKmw958X7e9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE2/MzMtMTI5NDk1OTE1/Ni5qcGVn.jpeg" alt="Cover for Laurel St. Demo 2005" style="max-width:120px; height:auto;" />
       </td>
@@ -1083,8 +1103,9 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa51689b41b7aa19cdd9d0d35e71d211.png" alt="Cover for Freedom&#39;s Road" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01-23</td>
       <td>John Mellencamp</td>
@@ -1102,7 +1123,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>2007-04-24</td>
@@ -1152,12 +1173,12 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 78</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/apYV1OHzrNUIdrJgWQJM8xPVGlPSW38vgnql7Qa8xmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Mjg5/OS0xNTEwNjU3NzIw/LTI1MDEuanBlZw.jpeg" alt="Cover for Strangers Almanac [Deluxe Edition]" style="max-width:120px; height:auto;" />
       </td>
@@ -1195,7 +1216,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/RvSbE_0O47hjiTNXR5SZgXosSzpE2RtiapavPEVNsso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzA2/MTctMTYxMTk2MzY0/MC03MjE0LmpwZWc.jpeg" alt="Cover for Beg Steal or Borrow" style="max-width:120px; height:auto;" />
       </td>
@@ -1255,8 +1276,9 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00260272c988462090f213da79fb7847.png" alt="Cover for No Better Than This" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-17</td>
       <td>John Mellencamp</td>
@@ -1273,7 +1295,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2010-11-26</td>
@@ -1309,7 +1331,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2012-09-18</td>
@@ -1341,7 +1363,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 77</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1403,9 +1425,9 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/C72jhM_ObjK7U0OX_vInY8vjvRRUpc9-_fXnnx3vDqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTQ0/MTAtMTQ0NDgzMDAz/MS01MjY2LmpwZWc.jpeg" alt="Cover for Sermon on the Rocks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc03e20147dfcadda42a98f1278b47fb.png" alt="Cover for Sermon on the Rocks" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Josh Ritter</td>
@@ -1480,7 +1502,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a396002093efdccf99838ed5d4773f47.png" alt="Cover for Higher Truth" style="max-width:120px; height:auto;" />
       </td>
@@ -1498,7 +1520,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/jdXSZeiAzN-nF0ani_lEw4ITG6uGBCYTBOZerpkVd9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMzM1/MDUtMTQ1Mzg0NzM3/MC00MjExLmpwZWc.jpeg" alt="Cover for Let Me Get By (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1536,24 +1558,6 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>33</td>
-      <td>
-          <img src="https://i.discogs.com/V4R8A-BeZOTheUMza9ITQm_pInS7sv1jDSQg9dDbGbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODgz/NTQtMTMzMjkxNDk4/MS5qcGVn.jpeg" alt="Cover for American Fool" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-08-31</td>
-      <td>John Mellencamp</td>
-      <td>American Fool</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>88</td>
       <td>
           <img src="https://i.discogs.com/AJ7lniJQahorHpfzv_mJbix5i4rxDfF1IZfqT8Fvf2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDY3/Ny0xMzg2OTU3Mzgz/LTQ3OTQuanBlZw.jpeg" alt="Cover for Prisoner" style="max-width:120px; height:auto;" />
@@ -1569,12 +1573,14 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13844351eec9a0c716093a50f1b17536.png" alt="Cover for Be Myself" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-06</td>
       <td>Sheryl Crow</td>
@@ -1646,7 +1652,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/z_0kQHHjAvHzKBcjUEfI82AdzUmq_eT5MhzH7PBLWh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDY4/NjY4LTE1MTY4NzY1/MTQtODUzMC5qcGVn.jpeg" alt="Cover for The Thread That Keeps Us" style="max-width:120px; height:auto;" />
       </td>
@@ -1668,7 +1674,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/kvjhSPPG_bjkGGfz5E4cxNRUINh_4hheeeGb4Y0PFi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDMw/NTEyLTE1NjY2NjEy/OTAtNTgyMS5qcGVn.jpeg" alt="Cover for Lover" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffdb794eff56fec3bf188f978b8ec257.png" alt="Cover for Lover" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Noah Gundersen</td>
@@ -1687,7 +1693,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/SU5fJ7vcKax70iq0NojCEbLtsBdTAkhBQaMG71wFhuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQ0/OTYxLTE2MTA5MjA1/NDMtMzcxMC5qcGVn.jpeg" alt="Cover for Terms of Surrender" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a09aa734d5971a435832cfe4d19dadc.png" alt="Cover for Terms of Surrender" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Hiss Golden Messenger</td>
@@ -1705,9 +1711,9 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/d5kFlSW3jSLybqnCRvudTEjb_8T8y-vdWCxLqN8rtwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQx/MTQtMTYyMjQ0NTMz/OS04NTc1LmpwZWc.jpeg" alt="Cover for Threads" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/250fd938e52fb5dc7a728c923847fcb7.png" alt="Cover for Threads" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-08-30</td>
       <td>Sheryl Crow</td>
@@ -1726,7 +1732,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/vOBgDejRtDxrF7Gv6JyHiOAX6Y0VjAbbGKeOMThKlKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjU1/Mzg3LTE2NDU0ODY2/MDItMzg3OC5qcGVn.jpeg" alt="Cover for Seventeen Going Under (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/877921d7ed9c6f96a79da586e65a6121.png" alt="Cover for Seventeen Going Under (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Sam Fender</td>
@@ -1739,14 +1745,14 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 66</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/TwZSiNpWJPLD63vjCRaJv5rPeLQBHwEPBXIr9Jveefg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTYx/NTIxLTE2MTg1NjU5/NDYtMjI2MS5qcGVn.jpeg" alt="Cover for Quietly Blowing It" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2cdd3f1b4187cf864d98e658f018337.png" alt="Cover for Quietly Blowing It" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-26</td>
       <td>Hiss Golden Messenger</td>
@@ -1764,7 +1770,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/N5T5NWG0YqytlYlRIaSnKoAJbsUsh7otUZvW3Un2rCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODU4/MDA2LTE2MzEzNjg1/MzAtMzA4My5qcGVn.jpeg" alt="Cover for the horses and the hounds" style="max-width:120px; height:auto;" />
       </td>
@@ -1785,7 +1791,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/-zlBnx_pB_rxQ5on0U7iR11kiB36-xveq5EwNGY64B4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTA1/OTA0LTE2NjUyNDQ1/MDAtMzQzMi5qcGVn.jpeg" alt="Cover for Seventeen Going Under" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14873b96c75250f1ee19a9f694b8d8df.png" alt="Cover for Seventeen Going Under" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-10-08</td>
       <td>Sam Fender</td>
@@ -1821,7 +1827,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6eeade131218457098d3ce01735ac4b3.png" alt="Cover for Communique" style="max-width:120px; height:auto;" />
       </td>
@@ -1836,7 +1842,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 28</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 35</li>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 36</li>
         </ul>
       </td>
@@ -1844,7 +1850,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/Z-YFT_L7stoiZxp8DcDonU4g7rnbPFbS9mPzPfFzAHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDQ0/MzItMTQ4NjkxOTc1/Ny03ODgyLmpwZWc.jpeg" alt="Cover for Big Colors" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a0f9266355a1888bc9244ffef2f5375.png" alt="Cover for Big Colors" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-31</td>
       <td>Ryan Adams</td>
@@ -1861,9 +1867,9 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/UE-lnsRffHuikeWdpxwrCKTUNKSdLbOUuHnix506jVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njk0/Njg5LTE2ODEwNzE0/NTAtNTMyNS5qcGVn.jpeg" alt="Cover for The Weakness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5349a5e001ec422d1ddc45f0cfaf8878.png" alt="Cover for The Weakness" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-04-07</td>
       <td>Ruston Kelly</td>
@@ -1895,13 +1901,14 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 24</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04df22e167db60364ae37cd9ea65a42a.png" alt="Cover for Live Drugs Again" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-09-13</td>
       <td>The War on Drugs</td>
@@ -1919,7 +1926,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b53c8f428085a7e552672d72849ebb94.png" alt="Cover for Weathervanes" style="max-width:120px; height:auto;" />
       </td>

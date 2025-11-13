@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:28:30.093Z
+date: 2025-11-13T06:31:18.565Z
 permalink: tags/mediterranean
 title: mediterranean
 ---
 
 ## mediterranean
 
-Last updated: <time datetime="2025-11-11T04:28:30.093Z">Tue Nov 11 2025 06:28:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T06:31:18.565Z">Thu Nov 13 2025 08:31:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -83,7 +83,7 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td>1976</td>
@@ -101,7 +101,6 @@ Mediterranean music refers to the music styles that originate from the countries
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/Lo85DtPQXplPcLl6Xms4blqazcdxNpLNHk_Q5w8nW8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTcx/ODY0LTE2NDUwNDcz/NDktODQwOS5qcGVn.jpeg" alt="Cover for novembre 2007" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Guillem Joan</td>
@@ -275,14 +274,13 @@ Mediterranean music refers to the music styles that originate from the countries
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/F7SrB2G5sE92cmCUh2O7FMgupDcud5eSxuZseOScUVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjAy/MjM2LTE1Mzg0MDA5/MzMtMzgyMy5qcGVn.jpeg" alt="Cover for Chansons Corses (A tribbiera)" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/6m75UEGWtuwWtvmzi-Bm6IoSdro2VLSX5iHS_neywmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODk5/MTgtMTY0ODI3NzQ0/OC05MjUwLmpwZWc.jpeg" alt="Cover for Chansons Corses (Corsica)" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Petru Guelfucci</td>
-      <td>Chansons Corses (A tribbiera)</td>
+      <td>Chansons Corses (Corsica)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
@@ -297,13 +295,14 @@ Mediterranean music refers to the music styles that originate from the countries
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/6m75UEGWtuwWtvmzi-Bm6IoSdro2VLSX5iHS_neywmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODk5/MTgtMTY0ODI3NzQ0/OC05MjUwLmpwZWc.jpeg" alt="Cover for Chansons Corses (Corsica)" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/F7SrB2G5sE92cmCUh2O7FMgupDcud5eSxuZseOScUVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjAy/MjM2LTE1Mzg0MDA5/MzMtMzgyMy5qcGVn.jpeg" alt="Cover for Chansons Corses (A tribbiera)" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Petru Guelfucci</td>
-      <td>Chansons Corses (Corsica)</td>
+      <td>Chansons Corses (A tribbiera)</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
@@ -1029,7 +1028,7 @@ Mediterranean music refers to the music styles that originate from the countries
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/bHMJxqKoa-f8RfynjzElqShUqTtGrBK306DS81gXDAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjIy/NzEyLTE1NTc3MTE5/OTItMTEyOS5qcGVn.jpeg" alt="Cover for Terra e sale" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9ac6b5a59644d1b930800c3ad8183ba.png" alt="Cover for Terra e sale" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Ghetonia</td>
@@ -1194,7 +1193,7 @@ Mediterranean music refers to the music styles that originate from the countries
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for Folk Songs and Music from Malta" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a191682d6a7fce322b5d9cdc38fda4e2.png" alt="Cover for Folk Songs and Music from Malta" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Various Artists</td>
@@ -1363,7 +1362,7 @@ Mediterranean music refers to the music styles that originate from the countries
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/zjoZQMwC7dpZ34X99m6B9npkES2rR04XJL4u6D8MJn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzE1/NTItMTM1NDI3NzI3/NC02MTIxLmpwZWc.jpeg" alt="Cover for Un Giorno in Una Piazza del Mediterraneo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7d9e87f945bab794346b381128c8420.png" alt="Cover for Un Giorno in Una Piazza del Mediterraneo" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Zeit</td>
@@ -1381,7 +1380,7 @@ Mediterranean music refers to the music styles that originate from the countries
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/twQPppiL63yt0AEzCzoYToRnkYcuBpT-xrHMYPoToHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTE5/NjgzLTE1OTI5MDk3/NjAtNTUwOS5qcGVn.jpeg" alt="Cover for Σάμπα Τσικίτα" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2378bf7b97d2535a26604c07539eba75.png" alt="Cover for Σάμπα Τσικίτα" style="max-width:120px; height:auto;" />
       </td>
       <td>2020</td>
       <td>Ρένα Μόρφη</td>
@@ -1420,27 +1419,9 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2023</td>
-      <td>Various Artists</td>
-      <td>Folk Songs Of The Greek Islands Vol. 4</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/greek" | relative_url }}">greek</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg" alt="Cover for Music Of Spain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6540dcb7eac4de0deeaac5540ad96de9.png" alt="Cover for Music Of Spain" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1484,7 +1465,7 @@ Mediterranean music refers to the music styles that originate from the countries
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Italian Folk Music, Vol.5: Naples and Campania" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/010edbb7a7d647ce8325fcc0a51dc1bd.png" alt="Cover for Italian Folk Music, Vol.5: Naples and Campania" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1561,6 +1542,25 @@ Mediterranean music refers to the music styles that originate from the countries
         <ul>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 14</li>
             <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td></td>
+      <td>RedJapanese</td>
+      <td>RedJapanese|יפניאדום| يابانية أحمر|日本赤</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/protest" | relative_url }}">protest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>

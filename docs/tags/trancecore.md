@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-05T12:06:50.967Z
+date: 2025-11-13T06:30:08.309Z
 permalink: tags/trancecore
 title: trancecore
 ---
 
 ## trancecore
 
-Last updated: <time datetime="2025-11-05T12:06:50.967Z">Wed Nov 05 2025 14:06:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T06:30:08.309Z">Thu Nov 13 2025 08:30:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -85,8 +85,9 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12a1a8195daff339cfcb720431994312.png" alt="Cover for Everything Perfect On the Wrong Day" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-01</td>
       <td>Sky Eats Airplane</td>
@@ -109,7 +110,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/c41j3qFWB4rXCjreoE6MJFF4kuKhuCPzt_OJBen-Jbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NzE2/NzAtMTQ4NDUxOTcx/OC04Mjk1LmpwZWc.jpeg" alt="Cover for Sorry You&#39;re Not A Winner &#x2F; OK! Time for Plan B" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb03de7780b646c2b68f2e88dbfc2df8.png" alt="Cover for Sorry You&#39;re Not A Winner &#x2F; OK! Time for Plan B" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-30</td>
       <td>Enter Shikari</td>
@@ -188,7 +189,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/JQZ3Vmpx0NiaMxNi7-0MUFNryGnSt763cb8JUi5WZPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODg1/MTEtMTMxOTcxMjg1/MC5qcGVn.jpeg" alt="Cover for Attack Attack! (Deluxe Reissue)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e31452b604884dbdbb848d15358be379.png" alt="Cover for Attack Attack! (Deluxe Reissue)" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Attack Attack!</td>
@@ -238,7 +239,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       <td>
         <ul>
             <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 45</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 61</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 62</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 87</li>
         </ul>
       </td>
@@ -246,7 +247,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/7N9cBChAKYJcPkVQKp9CBmS8INlPRQdoh2EMGMHW12k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjA0/NjUtMTI5MDQ2MDA0/NC5qcGVn.jpeg" alt="Cover for The Zone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77ae2068a4004f71cfe2ca4a755dc1b9.png" alt="Cover for The Zone" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-12</td>
       <td>Enter Shikari</td>
@@ -319,6 +320,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5972074deffd8e61eaa4f4e33ce425f8.png" alt="Cover for Someday Came Suddenly" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-11</td>
       <td>Attack Attack!</td>
@@ -330,7 +332,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 10</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 12</li>
             <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 95</li>
         </ul>
       </td>
@@ -359,7 +361,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/P6_4Xrc9rrrGrGhvGQrygciPAy-4HAWgBksMyZUOb3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzI4/MTUtMTQ1ODAzMTE4/OS05NTI4LmpwZWc.jpeg" alt="Cover for Shivers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c1f2163382e4a05a4bbbca4304a3c8b.png" alt="Cover for Shivers" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Helia</td>
@@ -391,7 +393,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       <td>
         <ul>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 38</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 44</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -421,21 +423,19 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19e4128679a1470f834a6fca0c37dccf.png" alt="Cover for 3D" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-14</td>
       <td>I See Stars</td>
       <td>3D</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 46</li>
             <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 90</li>
         </ul>
       </td>
@@ -485,7 +485,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/Czl5Bfhd5B28NDx-C9xGjxfEDLCfFmKILZ5vqybE9a4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTcz/ODgtMTYxNDExMzc5/My03NDYwLmpwZWc.jpeg" alt="Cover for Common Dreads (Standard DMD)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/232839db929152d6f22286b565e37805.png" alt="Cover for Common Dreads (Standard DMD)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-15</td>
       <td>Enter Shikari</td>
@@ -546,6 +546,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2d9c6598abefab938048dc5eeebc955.png" alt="Cover for Stand Up And Scream" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-15</td>
       <td>Asking Alexandria</td>
@@ -558,7 +559,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 13</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 15</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 85</li>
         </ul>
       </td>
@@ -604,6 +605,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ccd90f8fd424c61ae8a0d16bdf2ee4c.png" alt="Cover for For Kings &amp; Queens" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-02-16</td>
       <td>Casino Madrid</td>
@@ -655,12 +657,30 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 19</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2010-06-08</td>
+      <td>Attack Attack!</td>
+      <td>Attack Attack!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 24</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/dA3a5ntjNGKFVLHra7sn5m3fLlic2To1eh_3X2nv1xo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA5/Mjg5LTE1MjMyNjMx/NTAtNjEzNi5qcGVn.jpeg" alt="Cover for Eskimo Callboy" style="max-width:120px; height:auto;" />
       </td>
@@ -683,6 +703,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e283f5aa5e3745daad60264a3cae9fa3.png" alt="Cover for Geeving" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-05</td>
       <td>Abandon All Ships</td>
@@ -697,7 +718,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 22</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 32</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 57</li>
         </ul>
       </td>
@@ -740,7 +761,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/xLIYPAkTXLNr2e4DkZg7wGE73Pui3pwZ_WSgvfrR7ls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTcx/NTItMTMyOTA3NTUw/NC5qcGVn.jpeg" alt="Cover for End Of The World Party" style="max-width:120px; height:auto;" />
       </td>
@@ -754,12 +775,12 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 24</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2011</td>
@@ -791,25 +812,6 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-      </td>
-      <td>2011-02-22</td>
-      <td>I See Stars</td>
-      <td>The End Of The World Party</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 8</li>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -888,6 +890,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9572615e5cd840e68350c72a75a9a0f6.png" alt="Cover for Burn This World" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-03</td>
       <td>The Browning</td>
@@ -964,7 +967,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/vMuOYGjEO1YYmYeNya0IOlQsr3wG_GTPRXo542eo3k8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTgw/NTctMTMyOTgxMzIw/MS5qcGVn.jpeg" alt="Cover for A Flash Flood of Colour (Redux Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b42b27c67df6415cb12ad2681424751a.png" alt="Cover for A Flash Flood of Colour (Redux Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Enter Shikari</td>
@@ -980,9 +983,9 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
-          <img src="https://i.discogs.com/mnQtOSCf1YtdPx8dfG2-lGplPql4a1a-NKTbSKhftl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODA3/NzEtMTQ1ODQ1Mzkx/My0xMzQ2LmpwZWc.jpeg" alt="Cover for Zion EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2acab9091af0edd231c811f98124828c.png" alt="Cover for Zion EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Crossfaith</td>
@@ -1014,14 +1017,15 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 21</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 37</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 22</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f72b207ddca48b38e05ee7d81be5ab4.png" alt="Cover for Bury Me in Vegas" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-23</td>
       <td>Eskimo Callboy</td>
@@ -1040,6 +1044,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4d4d7e29e014fbd852adf5d9e3f1274.png" alt="Cover for Mistaken For Trophies" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-20</td>
       <td>His Statue Falls</td>
@@ -1154,7 +1159,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcd4f68046bd58216a92af9b269d4d95.png" alt="Cover for Outcasts" style="max-width:120px; height:auto;" />
       </td>
@@ -1209,6 +1214,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f24aa1a968a74174a4a6a6cc4b76a681.png" alt="Cover for I Am The Architect" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-18</td>
       <td>His Statue Falls</td>
@@ -1233,6 +1239,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61afacf69a914328d567fd228ef7d89a.png" alt="Cover for New Demons" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-22</td>
       <td>I See Stars</td>
@@ -1246,7 +1253,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 27</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 25</li>
             <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 89</li>
         </ul>
       </td>
@@ -1288,7 +1295,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d20d4b6f42f4817c83e8e6f7d19ec56.png" alt="Cover for Rat Race" style="max-width:120px; height:auto;" />
       </td>
@@ -1404,9 +1411,9 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/wYWcpN_EHZzfCXa9k-3ve_qaHC2N9IpsvyJzTnP919Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjE5/MTYtMTQ2Mjc5NjM5/MS02MDczLmpwZWc.jpeg" alt="Cover for The Mindsweep: Hospitalised" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0506949a18ab1ac8ec263a66b6deb1e.png" alt="Cover for The Mindsweep: Hospitalised" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-19</td>
       <td>Enter Shikari</td>
@@ -1452,9 +1459,9 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/oWvZw8Rrw739dndavgCPkRp3dRk9iAhvO94bpMYdGxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjI3/OTAtMTQ0MTk3Nzky/My05MjE2LmpwZWc.jpeg" alt="Cover for Neverland" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01f11d82e437ad188703d0ae7bf5d385.png" alt="Cover for Neverland" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-01</td>
       <td>To the Rats and Wolves</td>
@@ -1476,9 +1483,9 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/aISx4J9_h59UfKpgOxsCp3bWmVR8agXi60DVD3-tG-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTkw/MjEtMTQ0MTEzMTM1/NC0yMDI0LmpwZWc.jpeg" alt="Cover for Phases" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/264bf35e534d75d0408a242213339dca.png" alt="Cover for Phases" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-08-28</td>
       <td>I See Stars</td>
@@ -1525,9 +1532,9 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
-          <img src="https://i.discogs.com/OebYJ4cuGY5hY5d4sjdyn0ImgY1nlZPx7-2YWHFP4ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTE1/MDQtMTQ1MDE2Mjcx/OS04ODY5LmpwZWc.jpeg" alt="Cover for The Resistance (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49e20ed4bcc14e846096dbb60e0e378e.png" alt="Cover for The Resistance (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-30</td>
       <td>Crown the Empire</td>
@@ -1549,9 +1556,9 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/CYirZ6pkVFeoZcEuRmRzi2I4m7uOOOq3jD1uhHt7Dtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTg2/MzgtMTQ4NjgxODYw/Mi00MjYyLmpwZWc.jpeg" alt="Cover for Metalcore Superstars" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e57bb5562e3d22921c0e7a6a40773f42.png" alt="Cover for Metalcore Superstars" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01-22</td>
       <td>One Morning Left</td>
@@ -1597,7 +1604,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/-el-unWNf6Cdj6wTkrFfw-1Am3wdztoUiyIJrZy3lvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDQx/NzAtMTQ3MTk2Mjk0/My01NzQ1LmpwZWc.jpeg" alt="Cover for Dethroned" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44506dde606ddef3d0b68cba163710e3.png" alt="Cover for Dethroned" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-02</td>
       <td>To the Rats and Wolves</td>
@@ -1619,7 +1626,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/LDRctMj6LVBMizFsRnwHSM36FXbYp_gUr_j3CXE_aYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjgz/OTcxLTE1NzQwNTM2/ODAtMTA2My5qcGVn.jpeg" alt="Cover for These Tides, Our Tombs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/784679cb5b269f05db082aff9d7d7825.png" alt="Cover for These Tides, Our Tombs" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-01</td>
       <td>Shark Infested Daughters</td>
@@ -1637,7 +1644,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/r7H_MVlBASLzKEoNVR2P7tydhNdHVepuo_YGZm1U7AM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODU4/OTgtMTMxMDQ3ODAx/OC5qcGVn.jpeg" alt="Cover for Live at Alexandra Palace" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bee135c8ed9344aaa22e4e5aaaa3d5a1.png" alt="Cover for Live at Alexandra Palace" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-18</td>
       <td>Enter Shikari</td>
@@ -1655,7 +1662,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/UDCTuY-sH_osFIX_0dWtZY146A670QBpXrdtSPnTFJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MDYw/MjctMTQ2MDk4NzM5/Ny0xMzk5LmpwZWc.jpeg" alt="Cover for Suicide Season Cut Up" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0eea52b77af64ab5bda3fa5044e8f589.png" alt="Cover for Suicide Season Cut Up" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Bring Me the Horizon</td>
@@ -1691,7 +1698,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/rGK_umKvoaAyWfj_gnuQQTa46Ww6rq_nuozBWdXN-hk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzQ5/MTgwLTE1MDQwMDU2/MTgtOTkxMi5qcGVn.jpeg" alt="Cover for The Scene" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bee14f697968b90791d544dc7d6d87fc.png" alt="Cover for The Scene" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-08-25</td>
       <td>Eskimo Callboy</td>
@@ -1711,7 +1718,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/mPdj3WnrP0DvB2OzmsFEaZuVoy88o9B9CQMJbByoIvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTgx/NTI2LTE1MjU5NTU4/NzAtNDM3My5qcGVn.jpeg" alt="Cover for You Have to Die a Few Times" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b17943061c066c39f161bd8e688df8e7.png" alt="Cover for You Have to Die a Few Times" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>The Bunny the Bear</td>
@@ -1742,8 +1749,8 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 3</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 16</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 10</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 21</li>
             <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 45</li>
             <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 87</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 94</li>
@@ -1753,7 +1760,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/cpG7bv7mAOi14KlMJ2aLAVwKoLZyCEcOP5AszN-f-Og/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTg1/Nzc4LTE2NDU4MjUy/NTAtMzQyNC5qcGVn.jpeg" alt="Cover for The Heartless" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf49092ad9ad255182464fae55e23ab7.png" alt="Cover for The Heartless" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Cabin Boy Jumped Ship</td>
@@ -1792,7 +1799,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/s7coG9_a4GhZqBVKThCBwppyLJKiAljEHvoAwdpuL8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUw/ODE1LTE1NzI3NzUw/NDktOTA1NC5qcGVn.jpeg" alt="Cover for Best Day" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98f21af281f54a92ca8c3cb5ca473969.png" alt="Cover for Best Day" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-01</td>
       <td>Eskimo Callboy</td>
@@ -1857,7 +1864,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/aZoremY76BUuMyXgaPV4lzXoJUZVyu0NUcS0StFQMt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTQy/OTAyLTE2NDA4ODQw/MDMtNjM3MC5qcGVn.jpeg" alt="Cover for No Walls" style="max-width:120px; height:auto;" />
       </td>
@@ -1903,7 +1910,7 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/mhRBZZVoy9Q0mYLF6BXOr2vZKV63pq2ZWMd4NlFoZFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTE5/MDMyLTE2ODI3NjA0/MjQtNDU2OC5qcGVn.jpeg" alt="Cover for 20&#x2F;20" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26ad7a2d03b5a6d912c800ea92e3195f.png" alt="Cover for 20&#x2F;20" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-04-28</td>
       <td>Crown the Empire</td>
@@ -1925,9 +1932,9 @@ Trancecore fuses the aggressive breakdowns and screamed vocals of metalcore with
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
-          <img src="https://i.discogs.com/SKWf2EzbbVtTgAYf3O6wAsk0k5RSzje4-1LPqX53Ync/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTE4/OTk5LTE2ODMzMDQ2/MjctODEzNy5qcGVn.jpeg" alt="Cover for what i am" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/230e3406dd5cefeb2be02eb521fca1b2.png" alt="Cover for what i am" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-04-28</td>
       <td>Crown the Empire</td>

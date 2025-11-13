@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:26:10.131Z
+date: 2025-11-13T06:28:43.892Z
 permalink: tags/baritone
 title: baritone
 ---
 
 ## baritone
 
-Last updated: <time datetime="2025-11-11T04:26:10.131Z">Tue Nov 11 2025 06:26:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T06:28:43.892Z">Thu Nov 13 2025 08:28:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -65,7 +65,7 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/5ZJMB83xSvhYXxrWi6EiAH0iMnMUuwdhINZPTYFSnmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjQ1/MDQtMTQzOTg0Mzgz/OC03MDE3LmpwZWc.jpeg" alt="Cover for Inimitable" style="max-width:120px; height:auto;" />
       </td>
@@ -123,7 +123,7 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/We5SH4_--UG8dH6hMXl4FcTi2VE1lyq4N64U82JHjzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDkw/MzItMTQ4MDA2NDk2/MC04NjIzLmpwZWc.jpeg" alt="Cover for Ole Man River" style="max-width:120px; height:auto;" />
       </td>
@@ -211,7 +211,24 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>1960</td>
+      <td>Paul Robeson</td>
+      <td>The Best Of...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
       <td>
       </td>
       <td>1960</td>
@@ -228,30 +245,13 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/xko_CUkZvOw0DyToRDp92VlvF9VV4upyFg720X5mM4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTkx/NTAtMTQxNDAwNjM5/OS01MDYyLmpwZWc.jpeg" alt="Cover for Lonesome Road" style="max-width:120px; height:auto;" />
       </td>
       <td>1960</td>
       <td>Paul Robeson</td>
       <td>Lonesome Road</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-      </td>
-      <td>1960</td>
-      <td>Paul Robeson</td>
-      <td>The Best Of...</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
@@ -389,7 +389,7 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/xko_CUkZvOw0DyToRDp92VlvF9VV4upyFg720X5mM4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTkx/NTAtMTQxNDAwNjM5/OS01MDYyLmpwZWc.jpeg" alt="Cover for A Celebration" style="max-width:120px; height:auto;" />
       </td>
@@ -568,7 +568,7 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/CmZWLsU2vOvx4hnwrhPxqRjnfobpjlhU4AtUs37ubI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTMx/MDUtMTQxMjE1NzM5/NS01OTE3LmpwZWc.jpeg" alt="Cover for The Great Paul Robson" style="max-width:120px; height:auto;" />
       </td>
@@ -681,7 +681,7 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/om6helHYEQpUnPWjiMkUEJqJ_XFsq0I3quUYZehjmQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTg1/OTYtMTYzMDA0NjEw/Ni02MTE3LmpwZWc.jpeg" alt="Cover for Golden Voice of" style="max-width:120px; height:auto;" />
       </td>
@@ -843,13 +843,13 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/QNVTXmWselBcD8nCaEvzEoVgZzlrNzNAkr4qOO1tp0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDQ3/MTgtMTM2OTY5NDk5/Mi0zNTgxLmpwZWc.jpeg" alt="Cover for Paece Arch Concerts" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/QNVTXmWselBcD8nCaEvzEoVgZzlrNzNAkr4qOO1tp0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDQ3/MTgtMTM2OTY5NDk5/Mi0zNTgxLmpwZWc.jpeg" alt="Cover for Great Paul Robeson" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Paul Robeson</td>
-      <td>Paece Arch Concerts</td>
+      <td>Great Paul Robeson</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
@@ -861,7 +861,7 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/QNVTXmWselBcD8nCaEvzEoVgZzlrNzNAkr4qOO1tp0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDQ3/MTgtMTM2OTY5NDk5/Mi0zNTgxLmpwZWc.jpeg" alt="Cover for Dear Old Southland" style="max-width:120px; height:auto;" />
       </td>
@@ -1116,12 +1116,12 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 32</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/3TBPRT_AwIp9aer6x-Z8FAJyT6x3otR4BRkPqcZQ-Yg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTg5/MjYtMTQzODgxODgw/OC0yMjcwLmpwZWc.jpeg" alt="Cover for Songs from Their Films" style="max-width:120px; height:auto;" />
       </td>
@@ -1139,7 +1139,7 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/3TBPRT_AwIp9aer6x-Z8FAJyT6x3otR4BRkPqcZQ-Yg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTg5/MjYtMTQzODgxODgw/OC0yMjcwLmpwZWc.jpeg" alt="Cover for Voice Of The Mississippi" style="max-width:120px; height:auto;" />
       </td>
@@ -1157,7 +1157,7 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/3TBPRT_AwIp9aer6x-Z8FAJyT6x3otR4BRkPqcZQ-Yg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTg5/MjYtMTQzODgxODgw/OC0yMjcwLmpwZWc.jpeg" alt="Cover for Great Voices of the 20th Century" style="max-width:120px; height:auto;" />
       </td>
@@ -1175,7 +1175,7 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/_PeqOyQH3KWVz5sJze_9gbuLTExHaCZWfYS3rumu0ck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MzE1/OTEtMTQzOTI4NjA3/OS02NjI0LmpwZWc.jpeg" alt="Cover for Great Voice of the Century Vol" style="max-width:120px; height:auto;" />
       </td>
@@ -1267,7 +1267,7 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/3UwEtECf-hOVFEYuMBNvVQRG-rEw4DNPNr2dgG8kw60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTQ4/NzctMTMwMTQ4NjI3/NC5qcGVn.jpeg" alt="Cover for Roll Away Clouds: Songs from Shows &amp; Films&#x2F;Original Recordings 1928-1937" style="max-width:120px; height:auto;" />
       </td>
@@ -1295,6 +1295,24 @@ Baritone music refers to a specific vocal range for male singers, characterized 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/81LtN9OtpkKi1bfODfjqbTD8G_ySp9zFhn1IiV35GRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNjE2/NDMtMTQ1ODE3MTYx/Ny01MzI4LmpwZWc.jpeg" alt="Cover for Essential Paul Robeson" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Paul Robeson</td>
+      <td>Essential Paul Robeson</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
       <td>
@@ -1512,7 +1530,7 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/QNVTXmWselBcD8nCaEvzEoVgZzlrNzNAkr4qOO1tp0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDQ3/MTgtMTM2OTY5NDk5/Mi0zNTgxLmpwZWc.jpeg" alt="Cover for Glorious Voice of.." style="max-width:120px; height:auto;" />
       </td>
@@ -1636,32 +1654,9 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/uIaV89tm1zbur7T17C_GeLe-UPfhNBjACf1jY7Q4hYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjY3/NzEzLTE1OTU1NjYz/NzctMzU0My5qcGVn.jpeg" alt="Cover for Brooms and Mops - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-05-08</td>
-      <td>Terry Blade</td>
-      <td>Brooms and Mops - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/uIaV89tm1zbur7T17C_GeLe-UPfhNBjACf1jY7Q4hYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjY3/NzEzLTE1OTU1NjYz/NzctMzU0My5qcGVn.jpeg" alt="Cover for Strange Fruit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5cedfa7a60f99bb0a744f2bd1b0d4f6.png" alt="Cover for Strange Fruit" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-19</td>
       <td>Terry Blade</td>
