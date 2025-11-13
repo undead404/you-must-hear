@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T06:47:39.396Z
+date: 2025-11-12T21:53:59.549Z
 permalink: tags/chamber-jazz
 title: chamber jazz
 ---
 
 ## chamber jazz
 
-Last updated: <time datetime="2025-10-22T06:47:39.396Z">Wed Oct 22 2025 09:47:39 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-12T21:53:59.549Z">Wed Nov 12 2025 23:53:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
   </thead>
   <tbody>
     <tr>
-      <td>41</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/q_Ew9vhWO4FcuiqSUlZK8y-w8R-vq2mQKbDjvKDhrTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDc3/OTYtMTU1MDcyMDQ4/MS01MzEwLmpwZWc.jpeg" alt="Cover for Blues on Bach" style="max-width:120px; height:auto;" />
       </td>
@@ -61,12 +61,12 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 16</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/FSDrWnU5bFr3sTZTmlXEzJ4k6O3B-3cWXI55ubAg3cY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTMz/ODUtMTI0NTU5OTA2/NS5qcGVn.jpeg" alt="Cover for Concerto Grosso In D Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -105,7 +105,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 40</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 42</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 82</li>
             <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 84</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 96</li>
@@ -150,7 +150,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/RKa7gw8LbmscFr6Jd-eABZUNbOFR4Mv6oOS-BrKdN8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mjc3/MTctMTU4Mzg1NjMw/NS0xNjQyLmpwZWc.jpeg" alt="Cover for Soul Believer" style="max-width:120px; height:auto;" />
       </td>
@@ -170,7 +170,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/cgw58TkPXrGc-F4r9U4kEMFjPL0IFWkmbkpGmFaMoRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjYx/MTktMTM1Mjc2NTQx/MC02MjQxLmpwZWc.jpeg" alt="Cover for Out patients" style="max-width:120px; height:auto;" />
       </td>
@@ -250,7 +250,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/9MEyhHO8I3_ZoVsGFxO6OeuD0UtgZZL6UlYGC5k9udQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjQy/NS0xMzIwNzkyMzY1/LmpwZWc.jpeg" alt="Cover for City of Eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -268,7 +268,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/dXqfoNn9AZqzLjW4lJmMwJywW6XPJzYwwz-wvKsrBgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTAy/ODgwLTE2MDE5OTYz/NDUtOTgyMS5qcGVn.jpeg" alt="Cover for Full Nelson" style="max-width:120px; height:auto;" />
       </td>
@@ -288,7 +288,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/SVnK8RCUjtxPbSCRxXmMQf7ClAG89ZJMABruiitfa-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODE1/MDQtMTY0NTEzNDMw/Ny0xMjA0LnBuZw.jpeg" alt="Cover for Crossed and Recrossed" style="max-width:120px; height:auto;" />
       </td>
@@ -310,7 +310,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/CxBDiRYxHsLF466d1AMM-KUk7ni3elBBTSwDF09GpVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njcz/MDYtMTMwMDEyMzYw/MS5qcGVn.jpeg" alt="Cover for Volume 2" style="max-width:120px; height:auto;" />
       </td>
@@ -329,7 +329,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/zwO1tZTQRKeAxcw2jtv8gyWpt49Ao1RrV54Sv9Osz9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDI2/NjEtMTM4NTQ5OTE3/My05NDQxLmpwZWc.jpeg" alt="Cover for Andando el Tiempo" style="max-width:120px; height:auto;" />
       </td>
@@ -348,7 +348,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>47</td>
       <td>
       </td>
       <td>1995</td>
@@ -387,7 +387,26 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>77</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9c71f09de0389d947500311b2cfaa41.png" alt="Cover for Mark Hollis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-02-02</td>
+      <td>Mark Hollis</td>
+      <td>Mark Hollis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/A49Lmb8JYyenkbglKsO-k_2SNfiE7iw4BU62pZljtc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mzcx/Ni0xNDE2MDEwNjc3/LTUyMjcuanBlZw.jpeg" alt="Cover for Masada - The Circle Maker" style="max-width:120px; height:auto;" />
       </td>
@@ -407,7 +426,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>12</td>
       <td>
       </td>
       <td>1999</td>
@@ -425,7 +444,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/Kn0FDY46jQoGSVwNJCLzCVYSgrvdooaXSJrZXP5xKIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDYx/MDMtMTUxNTg3NTk2/MS02MTM1LmpwZWc.jpeg" alt="Cover for Double Exposure" style="max-width:120px; height:auto;" />
       </td>
@@ -444,7 +463,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/rSie6OgGuq09Kn9bXh_iFiC_So5hKqiOt44s9zaeWbo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTMz/NDUtMTE4ODM5Mjg5/MC5qcGVn.jpeg" alt="Cover for Took the Ass for a Drive" style="max-width:120px; height:auto;" />
       </td>
@@ -465,7 +484,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/8LFkwA9G2RTqtvZujh6JMEviiR2_lLaCzu7BjrRV0cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI4/NzQ1LTE2NjQ3MjU5/OTEtMTE0Ni5qcGVn.jpeg" alt="Cover for Lucifer: Book of Angels Volume 10" style="max-width:120px; height:auto;" />
       </td>
@@ -484,7 +503,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/e47jQxKGIn2Qchuotyx664gbEZ2PaH-IW64dy4ec2hY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTY1/MTEtMTQ5MjQxNDMx/MS0yMDIwLm1wbw.jpeg" alt="Cover for The Modern Sound of Finland" style="max-width:120px; height:auto;" />
       </td>
@@ -504,7 +523,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/RaN0P0Nbv6FTZcWhs5cBJrVBCDe1ukixaJJYlAiwB_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjYz/MzU1LTE0OTQzMjE0/MTMtMzMwMC5qcGVn.jpeg" alt="Cover for The Process" style="max-width:120px; height:auto;" />
       </td>
@@ -539,7 +558,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/Lki2jHzVuBngPX5mkiuOChiK9SBzgh5fdXkITodb_QM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzY3/ODgtMTQ0Mjg2Njgz/Mi0xNTkzLmpwZWc.jpeg" alt="Cover for Introducing... Talk Talk" style="max-width:120px; height:auto;" />
       </td>
@@ -560,7 +579,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/CMYrvJbbdGnHRyuCvbc9Shx_E0hnz0SwVo6CqwEd9Qc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzMz/MS0xMTQ5NjMwMDky/LmpwZWc.jpeg" alt="Cover for Séances" style="max-width:120px; height:auto;" />
       </td>
@@ -598,7 +617,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/_KSMfjmMYZOqwMYn9Y_RyRSjOliNFPzmOO4Ho68OO9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjM5/NDgtMTI4MzI4NTc0/Mi5qcGVn.jpeg" alt="Cover for Time Remembers One Time Once" style="max-width:120px; height:auto;" />
       </td>
@@ -618,7 +637,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/rXlYFfmcAYtzVEfNbfYcnTFuIN2J2fuUmBK4siXzO5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjY2/NC0xNzMzODIxOTU0/LTM0ODcuanBlZw.jpeg" alt="Cover for Sange fra en væg" style="max-width:120px; height:auto;" />
       </td>
@@ -636,7 +655,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/H_qszmzTS5bwN7ZSS8j4Upz1LGLNeV4t6IpN1GvIlA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjI4/MDItMTQxMDUwODM2/NC02MjI1LmpwZWc.jpeg" alt="Cover for Quartetinho" style="max-width:120px; height:auto;" />
       </td>
@@ -655,7 +674,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/TX9PwFVTyoQspzujgDGuBuHKuQ1kPTg5dvYoPWX--3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDE5/NjItMTY2NDIwODE0/NS0zNDgxLmpwZWc.jpeg" alt="Cover for Velho Retrato" style="max-width:120px; height:auto;" />
       </td>
@@ -674,7 +693,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/dHFB_-FYBCnSkvN873zQj6TqJjK75bRBDd1bs8biXq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjgx/NTUtMTI2NDM1NDEw/Mi5qcGVn.jpeg" alt="Cover for Lucifer: Book of Angels Volume 10" style="max-width:120px; height:auto;" />
       </td>
@@ -693,7 +712,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/dHFB_-FYBCnSkvN873zQj6TqJjK75bRBDd1bs8biXq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjgx/NTUtMTI2NDM1NDEw/Mi5qcGVn.jpeg" alt="Cover for Lucifer: Book of Angels Volume 10" style="max-width:120px; height:auto;" />
       </td>
@@ -715,7 +734,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/XZ8SjTuVStZcDBBLvMtV11u0WTJvy57r27uRAqvqOvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjgw/MzgtMTM3OTkzNTMw/OC0zODYyLmpwZWc.jpeg" alt="Cover for Live At Belleville" style="max-width:120px; height:auto;" />
       </td>
@@ -734,7 +753,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>18</td>
       <td>
       </td>
       <td>2009</td>
@@ -754,7 +773,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/zAQIYyvPbIgLiLBKiZx3Aro7zi5xiBMZqP4YlVivERk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTIw/NDY4LTE2MjM1Mzk0/MzItNjk1OC5qcGVn.jpeg" alt="Cover for McGolrick" style="max-width:120px; height:auto;" />
       </td>
@@ -773,7 +792,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/ji0F97pwriEVXxThjwgVGw2wfz4YaY7waQMO0XV5pvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Nzkx/OTctMTUwMjk4MjYw/My00MzMzLmpwZWc.jpeg" alt="Cover for Après L&#39;orage" style="max-width:120px; height:auto;" />
       </td>
@@ -792,7 +811,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/LBZKPU1Rn7i2HkAe2WW9eKfdpgBLkrUhDlMln-0JtaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjQy/NjMtMTM5MDU3MjU1/OC01MzAxLmpwZWc.jpeg" alt="Cover for OPRA CHINA" style="max-width:120px; height:auto;" />
       </td>
@@ -817,13 +836,13 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
         <ul>
             <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 7</li>
             <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 47</li>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 88</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 87</li>
             <li> <a href="{{ "/tags/european-jazz" | relative_url }}">european jazz</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/LBZKPU1Rn7i2HkAe2WW9eKfdpgBLkrUhDlMln-0JtaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjQy/NjMtMTM5MDU3MjU1/OC01MzAxLmpwZWc.jpeg" alt="Cover for Oprachina" style="max-width:120px; height:auto;" />
       </td>
@@ -845,15 +864,15 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 35</li>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 38</li>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 34</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 37</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 64</li>
             <li> <a href="{{ "/tags/european-jazz" | relative_url }}">european jazz</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/FY0neLsZOcCwSpQ7pMXWpNOlCI_-j3fie8TPZaog7Qw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk5/NTY5LTE1MzI0NDYy/NzYtNTA2My5qcGVn.jpeg" alt="Cover for Idegael" style="max-width:120px; height:auto;" />
       </td>
@@ -874,9 +893,9 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/naB2J8f5sD0sUYDIsk5ySLwEzPn-xNp1-_QbZmuEhKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzA0/NjYtMTM4MDk2MjQw/MC04MjIwLmpwZWc.jpeg" alt="Cover for Le Parole Al Vento" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0feb62c638cb47deacd3fe1705b831c5.png" alt="Cover for Le Parole Al Vento" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-24</td>
       <td>Démodé</td>
@@ -896,7 +915,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/Eu2RSP2zVjcSt_yL8e2yQc6OqoaK-P42tyv6BKVMPws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDM4/MjUtMTQ2Mzc0MDkw/NS04MTUyLmpwZWc.jpeg" alt="Cover for Narrante" style="max-width:120px; height:auto;" />
       </td>
@@ -922,7 +941,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>
       </td>
       <td>2013</td>
@@ -941,7 +960,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/_qyS1j9hjK4cUxZkz0Iz15-uXpoDNEp5awKS_hsfgvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzU1/NTU2LTE3MDQwMTc2/NjItMzU1Ni5qcGVn.jpeg" alt="Cover for Persian Side of Jazz, Vol.2" style="max-width:120px; height:auto;" />
       </td>
@@ -958,8 +977,9 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6988e93906c42939d0892061944f6bd.png" alt="Cover for Loud City Song" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-19</td>
       <td>Julia Holter</td>
@@ -971,16 +991,16 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 3</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 5</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 7</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 28</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 7</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 7</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 11</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 30</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/6aPujxkrckVeDxaSLY38GWhi3cOQFTlGrCN_MevpYM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTEx/OTY4LTE1NjM4OTk2/NzctODMwNy5wbmc.jpeg" alt="Cover for 박지하: 자전적 소리의 기록 Park Jiha: A Record of Autobiographical Sounds" style="max-width:120px; height:auto;" />
       </td>
@@ -1001,7 +1021,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/l7j5KQLjO8Veu354GjWwvasWg7V-Vz3aRlQ_gJBiP28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzIy/Mzk2LTE1OTY1NzU5/NzAtNjk5Mi5qcGVn.jpeg" alt="Cover for Week Off" style="max-width:120px; height:auto;" />
       </td>
@@ -1020,7 +1040,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>28</td>
       <td>
       </td>
       <td>2014-06-23</td>
@@ -1036,7 +1056,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/aj7zp37qOJdLYeXgceSnD9cKANPxBj23F8IzTfrFxxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTQx/NDctMTQ0ODA5NzQw/OC0yODkyLmpwZWc.jpeg" alt="Cover for Beauteous Tales and Offbeat Stories" style="max-width:120px; height:auto;" />
       </td>
@@ -1057,7 +1077,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/92xZRScLX6YOwqbhhjvin9WA3z66rdhm_l0A7Tzkj5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTUy/NzEtMTQ2NDcxNzk4/NS01MDMzLmpwZWc.jpeg" alt="Cover for Im Treibhaus" style="max-width:120px; height:auto;" />
       </td>
@@ -1077,9 +1097,9 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/92xZRScLX6YOwqbhhjvin9WA3z66rdhm_l0A7Tzkj5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTUy/NzEtMTQ2NDcxNzk4/NS01MDMzLmpwZWc.jpeg" alt="Cover for For You Alone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38fb623a8c04c8d6f9f8e866ddd86ad7.png" alt="Cover for For You Alone" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Håkon Kornstad</td>
@@ -1090,6 +1110,24 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a945dab2a13aaa3bcba6e04ba6b9c08c.png" alt="Cover for Singing Saw" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-04-15</td>
+      <td>Kevin Morby</td>
+      <td>Singing Saw</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
@@ -1112,14 +1150,14 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 54</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 59</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 82</li>
             <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/6yQKohmpvazhpy_lXbb7JedjSWUuNPIKz1Qx0P59MHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU3/NjE5LTE1MTA5MzI4/MjQtNzYzMi5wbmc.jpeg" alt="Cover for Letters to Handenberg" style="max-width:120px; height:auto;" />
       </td>
@@ -1139,7 +1177,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/Y4Ft4wuZN7nStfOpqNvyBhdUT3zljclLWbyrva_-R8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njc5/MDA0LTE1OTU3NzE4/MTItMTg2My5qcGVn.jpeg" alt="Cover for Too Hot to Sleep" style="max-width:120px; height:auto;" />
       </td>
@@ -1158,7 +1196,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/N8357WSvj6bIEmWDbV4ysw7EYPmUEcxW9RQo16LKHaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzc5/MzcyLTE1MzQwNzgx/NzgtNDIwMC5qcGVn.jpeg" alt="Cover for Abisko Lights" style="max-width:120px; height:auto;" />
       </td>
@@ -1178,7 +1216,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/O_DMubEdqEzZsFz1SfOsQs9KtFP6fufJyxOo0Xm2XpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTgw/MjgxLTE1MTg4NzIz/NDMtMTYwMS5qcGVn.jpeg" alt="Cover for Refocus" style="max-width:120px; height:auto;" />
       </td>
@@ -1217,7 +1255,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/0-3vgRfpXHpE38dRTAteVC18EJENXLEDnxxt2Km7EkA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg0/OTk5LTE1MTM0MzMw/NTItMTE3OS5qcGVn.jpeg" alt="Cover for Moondog New Sounds" style="max-width:120px; height:auto;" />
       </td>
@@ -1237,7 +1275,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/SLSVYvfJ_zmZkUR_wRpD752p9ObuzvAcivAJhgjdnpQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzM2/MjY1LTE2NDMxNjgy/MzMtMTU1My5qcGVn.jpeg" alt="Cover for Birdsongs" style="max-width:120px; height:auto;" />
       </td>
@@ -1254,12 +1292,12 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 28</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/wAARYXhK3KGZ3dqWS_RHUUvvuJbLjRSAF7-IwEod148/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjc4/Mzc2LTE2NTI5NTE4/MzktMjg3OS5qcGVn.jpeg" alt="Cover for Melodyterranean" style="max-width:120px; height:auto;" />
       </td>
@@ -1279,7 +1317,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/Ydv5upBIUJ1ljSWY92YTvoawUvaXdIjUslv3iYElouA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk0/MzMyLTE1Nzk3OTAz/NTAtNTI3Ny5wbmc.jpeg" alt="Cover for Impressions" style="max-width:120px; height:auto;" />
       </td>
@@ -1299,7 +1337,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/ZN2HO1_nRoixxJ6J4za_-mxn-3bvvkLD2T9DS-qE7Jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU2/MjUzLTE1NjY5ODEx/MDEtNzYxMC5qcGVn.jpeg" alt="Cover for Echoes Of Bucharest" style="max-width:120px; height:auto;" />
       </td>
@@ -1317,7 +1355,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/ru3gPhaUFyQ-R4qWyGSIAkRTA7qYOfdR1MU_SaNEVB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTM3/MzYxLTE1MTgxMDYw/NDAtNjUzNy5qcGVn.jpeg" alt="Cover for Cinema Scenes" style="max-width:120px; height:auto;" />
       </td>
@@ -1337,7 +1375,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/7hkINM74JR6hVf_uWjmdZ5vTPRZR1ZQwwSKl-RKsNdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjgz/NDIxLTE1MjA2MDkw/NjQtOTMwMC5qcGVn.jpeg" alt="Cover for Zeuhl Jazz" style="max-width:120px; height:auto;" />
       </td>
@@ -1371,13 +1409,13 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 6</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 18</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 10</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/HDp37ZUVwBIMSVa_KkfGWY8QCmLoqsdv0NBj_DUXtJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg0/NjM3LTE1NTEzNzE5/OTEtOTc2Ni5qcGVn.jpeg" alt="Cover for Augmented Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1396,7 +1434,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/rClCr6Z0qOT-q0ypt5SfUV19ZAMSDB3FbVe86zoprE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE3/MzAyLTE2NDg5MTM2/MzEtNjA0Mi5qcGVn.jpeg" alt="Cover for Séances" style="max-width:120px; height:auto;" />
       </td>
@@ -1417,7 +1455,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/PiVrGeucuTKbvxw2QsiPs1BVJfT_Z3TnHPyx0ixWqeY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMy/NTE4LTE1NzIzOTQz/MTItMTUxOS5qcGVn.jpeg" alt="Cover for Delicate Charms" style="max-width:120px; height:auto;" />
       </td>
@@ -1435,7 +1473,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/atXyf5wn9FtQiRGf_EuMNTJ0E2SM_B8lKX5vdPugxw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzAx/MzA3LTE2MDY4NjE1/MTQtMjMyMy5qcGVn.jpeg" alt="Cover for Haave" style="max-width:120px; height:auto;" />
       </td>
@@ -1456,7 +1494,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/VV_EZ115jwB4-XodwAJA-_7Zm-F0syB_69g8Iic5tCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc1/MjI3LTE2MDY0MDkw/NDQtNDM3NC5qcGVn.jpeg" alt="Cover for Sternschnuppen - Falling Stars" style="max-width:120px; height:auto;" />
       </td>
@@ -1501,7 +1539,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/3oF-t4fOYO526gFPyMvP-uVxYgpeQJA4jdM-s3nz6iY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzk5/OTU3LTE1OTA5MTY2/ODQtNDkwNC5qcGVn.jpeg" alt="Cover for Rivages" style="max-width:120px; height:auto;" />
       </td>
@@ -1542,7 +1580,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/SKSiB7vvKEWDEJL_s7EkpPw3Q127i-ixoDhX1b8JmLw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE1/NTIzLTE0OTM1NDE5/ODUtMTU4OS5qcGVn.jpeg" alt="Cover for Lucifer: The Book of Angels Volume 10" style="max-width:120px; height:auto;" />
       </td>
@@ -1580,7 +1618,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/ExUA0YjjEHoHJhFlxFOmTlFQ6lZcM3w-veGyhz6IT2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTg2/MjA0LTE2MTY1ODE5/NjctNjUwNS5qcGVn.jpeg" alt="Cover for The Urge of Night (Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -1600,7 +1638,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/UHrSZyNDv465X1eLiYAwWfoe0q8HlovAUg9l1Iox__Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDc2/ODI2LTE2NzYyMTEy/NzEtODEwNS5qcGVn.jpeg" alt="Cover for Drimia" style="max-width:120px; height:auto;" />
       </td>
@@ -1640,13 +1678,13 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 10</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 13</li>
             <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/JCv951y8C6TJ2ocurGH8c-6_cYPuDCO_EFdy5RJ8LZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTE3/NDA2LTE2MzM3MDQ4/MjctNDA2MC5qcGVn.jpeg" alt="Cover for Planets" style="max-width:120px; height:auto;" />
       </td>
@@ -1664,7 +1702,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/NDB_UH4LCixZyUbcweRyeBy34sTIwS9Z-1VC594KdZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDUz/ODMzLTE2MTEzNTE5/NDItNjQ0NS5qcGVn.jpeg" alt="Cover for Fade In" style="max-width:120px; height:auto;" />
       </td>
@@ -1706,7 +1744,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/LRoiCZEKGN8Ui_GSmKpuXjdUIAreJteov2JMmnYEKfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzg1/NzEwLTE2NDI1MDA2/NDAtNTc1NS5qcGVn.jpeg" alt="Cover for Drive My Car" style="max-width:120px; height:auto;" />
       </td>
@@ -1726,7 +1764,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/9O3mR2FcoaqyuVq6DCqphD6VRe3P_yQoSUEBt4qZQcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTY2/Mzg2LTE2NTIxMDQx/MDItMjcxNi5qcGVn.jpeg" alt="Cover for Ancient Myths" style="max-width:120px; height:auto;" />
       </td>
@@ -1745,7 +1783,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/wEBPWHSikNyUg4neH49zC4Q7cmS4u-RykLyICTBa0EU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQz/NzU0LTE1NDg4MzMx/NTktOTE1Mi5qcGVn.jpeg" alt="Cover for An Eight Out of Nine" style="max-width:120px; height:auto;" />
       </td>
@@ -1763,7 +1801,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/Wl-lsjBPFBVMH7nndWsf5AFx7XtMIe2e5Plmlno-dnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODcx/OTIzLTE2ODIzNjk0/NDAtNjE4OS5qcGVn.jpeg" alt="Cover for The Last Quiet Place" style="max-width:120px; height:auto;" />
       </td>
@@ -1804,7 +1842,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/jjkh8_1OtCl6POPoDPQgTznr27O0X26VajjkN0lR2_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODMw/MDg4LTE3MTcxNTMw/ODAtNjMwNS5qcGVn.jpeg" alt="Cover for Night Reign" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35fa6df9084713f076e69e5037ead58a.png" alt="Cover for Night Reign" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-31</td>
       <td>Arooj Aftab</td>
@@ -1844,7 +1882,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/d7VKqbIQNkkoBGgVi8akprKsXY45LLvzMBp1ATnbySc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDY0/Njc3LTE3MjM0OTIy/OTAtMjU4Mi5qcGVn.jpeg" alt="Cover for Milton + esperanza" style="max-width:120px; height:auto;" />
       </td>
@@ -1883,25 +1921,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Perséides</td>
-      <td>Fleur persane</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/canada" | relative_url }}">canada</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1920,7 +1940,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -1937,7 +1957,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>38</td>
       <td>
       </td>
       <td></td>
@@ -1958,7 +1978,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>46</td>
       <td>
       </td>
       <td></td>
@@ -1979,7 +1999,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>65</td>
       <td>
       </td>
       <td></td>
@@ -2001,23 +2021,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Kirsti Huke, Ola Kvernberg, Erik Nylander</td>
-      <td>Rags &amp; Silks</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
+      <td>45</td>
       <td>
       </td>
       <td></td>
