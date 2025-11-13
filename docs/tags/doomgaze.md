@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T03:52:13.255Z
+date: 2025-11-12T18:02:21.895Z
 permalink: tags/doomgaze
 title: doomgaze
 ---
 
 ## doomgaze
 
-Last updated: <time datetime="2025-10-22T03:52:13.255Z">Wed Oct 22 2025 06:52:13 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-12T18:02:21.895Z">Wed Nov 12 2025 20:02:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
   </thead>
   <tbody>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/AaiyEw9kfF_lhCuV9ISb80GlIIP8X17tVM_qQQm5EgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMjY3/NzMtMTQzNjYyMDg5/NC0zNzE1LmpwZWc.jpeg" alt="Cover for Horizonte de Eventos" style="max-width:120px; height:auto;" />
       </td>
@@ -108,7 +108,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/U_UhJE6CfxpOr9x73kLx9gcU84MqbXg4eWl49aU44k4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMi0x/MjQ2NTI0OTM5Lmpw/ZWc.jpeg" alt="Cover for Change Is the Only Constant" style="max-width:120px; height:auto;" />
       </td>
@@ -223,7 +223,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       <td>
         <ul>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 33</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 46</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -367,7 +367,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td>2007-10-09</td>
@@ -380,12 +380,13 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 1</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/oNWqhf7xeNatsBfG3HSkIUvZlyJHkdoE2c7UecJSP8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDQ5/NzgtMTIzMjczOTIy/My5qcGVn.jpeg" alt="Cover for Llange" style="max-width:120px; height:auto;" />
       </td>
@@ -444,8 +445,8 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 58</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 94</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 64</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 95</li>
             <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 97</li>
             <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 99</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 100</li>
@@ -492,7 +493,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/hn_PMxc7-Iy7q8q7FmGEijLWoMg96NnAbBbX1BW2WVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDk1/NzQtMTMxNjIxOTky/NS5wbmc.jpeg" alt="Cover for Let&#39;s Get It Straight" style="max-width:120px; height:auto;" />
       </td>
@@ -641,7 +642,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/p4uKp1bm0clClQwfvBcIuQFFTej2TjcRQmli41KbRQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjQ3/NzMtMTM1OTI5MTYw/My04MDY0LmpwZWc.jpeg" alt="Cover for Dark Offering XI - 353 Parasomatic Daydreams &amp; 329 Sleepsickening Nights" style="max-width:120px; height:auto;" />
       </td>
@@ -720,14 +721,14 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 88</li>
+            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/884B2c2lzeibSl2weIgQxajbc_GRhn47oNseenSmdPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTA4/MjgtMTQyMzg3MjU3/OC04Nzc4LmpwZWc.jpeg" alt="Cover for Doubt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ea8eebabd07bb6aad9afb555929b77c.png" alt="Cover for Doubt" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-02-17</td>
       <td>King Woman</td>
@@ -765,7 +766,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/zvEL2ARuiIN6xiSsgV15xNfTrDpSIDQMB8yExEWcDBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODky/Njk2LTE2NTAwNDU4/MjAtMzY1Ni5qcGVn.jpeg" alt="Cover for Pt. 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0abc4d36f1fc55947d28910e744a368.png" alt="Cover for Pt. 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-31</td>
       <td>Warm</td>
@@ -783,7 +784,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/19MXHS3LROhs4-1D6iZvNdj8lXZ70uMkLAWgkwv_-WE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTE4/MzgxLTE2MjkzODU3/NDgtNDMxMS5qcGVn.jpeg" alt="Cover for While Investigating the Coffin of My Ghostly Beloved...I Found this Lost Recollection" style="max-width:120px; height:auto;" />
       </td>
@@ -828,25 +829,6 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/CbVKjv4z7CBy_lt5R3w2P9hWXILd4gaaYQXXf8QOcPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDcw/ODItMTQ0Mjg5NjMz/Ny00NjIyLmpwZWc.jpeg" alt="Cover for War In Paradise II" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-07-30</td>
-      <td>Mindless Paradise</td>
-      <td>War In Paradise II</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
           <img src="https://i.discogs.com/97H67Gl80-cTMwq_Xo8yylF-SV9YGDu4FnPD1FRDLeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Njg4/MDItMTQ0NjMzNTEw/Mi0xNDM1LmpwZWc.jpeg" alt="Cover for Dark Offering VII - The Night 13 Daemons Cried..." style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-27</td>
@@ -863,7 +845,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/97H67Gl80-cTMwq_Xo8yylF-SV9YGDu4FnPD1FRDLeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Njg4/MDItMTQ0NjMzNTEw/Mi0xNDM1LmpwZWc.jpeg" alt="Cover for Dark Offering VIII - As the family tree breaks, I fall..." style="max-width:120px; height:auto;" />
       </td>
@@ -960,7 +942,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/SBmR2QS7OivzfWUkyJ45PvlMXtIV0B5ctl7UwqrEwtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA2/MjE4LTE1NzgwNTk3/NDctOTI0Ni5qcGVn.jpeg" alt="Cover for is your truth carved in the sand?" style="max-width:120px; height:auto;" />
       </td>
@@ -997,6 +979,24 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
     </tr>
     <tr>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8acd892fd683a67dbb8a87734c1eb94d.png" alt="Cover for Marked For Death" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-09</td>
+      <td>Emma Ruth Rundle</td>
+      <td>Marked For Death</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>39</td>
       <td>
           <img src="https://i.discogs.com/7-0UNIGOpiaW2Oyhb351iLrG2ZsSeqiUIPbrb4UEGwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY2/ODIyLTE2MDYyNTk0/MDYtMzQ5OS5qcGVn.jpeg" alt="Cover for Take Turns b&#x2F;w I&#39;ll Get Mine Too" style="max-width:120px; height:auto;" />
@@ -1015,7 +1015,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/gF0ol3kU61Ubw6VfMIWUNd30L40VlTEyluyR1e8IU6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTE2/MzM4LTE1MDY0NjY5/ODMtMjA4MC5qcGVn.jpeg" alt="Cover for Desolate" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,7 +1052,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 12</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 22</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 85</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 88</li>
         </ul>
@@ -1113,7 +1113,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/9W3L2f7pxo4VjMB_kVuQjx4T1z6tPRTptvvJKRPR7cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzYw/NjcwLTE1MDM4MzU0/MzAtMTYwOS5qcGVn.jpeg" alt="Cover for Nocturnalia&#39;s Bliss - Dismiss the Crisis of a Hopeless Romantic&#39;s Last Midnight Kiss" style="max-width:120px; height:auto;" />
       </td>
@@ -1187,7 +1187,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/GcNp2y8pp2ggeOwDkqgwtDh1ad0fSkhIGMsmtRw3V58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDgx/MDcwLTE1MDk5MTQ4/MjAtNTk5Ny5qcGVn.jpeg" alt="Cover for Below The House (version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1244,7 +1244,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/iEiwQRAObXxtN4ozNY9k9c9INdsLN0_0vE62ikrnMkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjg2/NTA4LTE1MzIxODgx/NDQtOTQ2OS5qcGVn.jpeg" alt="Cover for Sometimes They Come Back" style="max-width:120px; height:auto;" />
       </td>
@@ -1284,7 +1284,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19de4607dd2b8b87fa3ed9fa78d2ce57.png" alt="Cover for When I Go Deaf" style="max-width:120px; height:auto;" />
       </td>
@@ -1661,7 +1661,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/42CabvlMJxwexMaQUPNMc7XvJMGbmHwWWyZgEmTeUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODIw/MTUwLTE2NTEyMzU3/ODEtNTUzOS5qcGVn.jpeg" alt="Cover for Nocturne" style="max-width:120px; height:auto;" />
       </td>
@@ -1718,7 +1718,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/wyiZDlFDX25f7ce7B6U4AkNpsnJB8FiWRlyfJP3iBvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDYz/NjA2LTE2Njc2NjM1/MTctNzkxMC5qcGVn.jpeg" alt="Cover for Faerie&#39;s Aire and Death Waltz" style="max-width:120px; height:auto;" />
       </td>
@@ -1744,7 +1744,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/p6TSWjp4idQt-9oaUkRsqc7fPDVIv2kghWZE2gxlMJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU4/MzU4LTE2NzM2NDY3/MTAtOTYzMC5wbmc.jpeg" alt="Cover for duas rosas florescentes &#x2F; nunca dirá" style="max-width:120px; height:auto;" />
       </td>
@@ -1762,7 +1762,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>2023-03-07</td>
@@ -1821,7 +1821,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td>2024</td>
@@ -1891,18 +1891,19 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 1</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 8</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 47</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 52</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 67</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 77</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 76</li>
             <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1b5e798a6159dab51b45d83a4773b62.png" alt="Cover for There Are Gardens in The Abyss" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>death was a mistake</td>
@@ -1923,7 +1924,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -1943,7 +1944,7 @@ Doomgaze merges the crushing heaviness and glacial pace of doom metal with shoeg
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>

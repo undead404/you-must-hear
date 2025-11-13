@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T02:17:09.202Z
+date: 2025-11-12T18:01:00.982Z
 permalink: tags/harpsichord
 title: harpsichord
 ---
 
 ## harpsichord
 
-Last updated: <time datetime="2025-10-22T02:17:09.202Z">Wed Oct 22 2025 05:17:09 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-12T18:01:00.982Z">Wed Nov 12 2025 20:01:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
   </thead>
   <tbody>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/gzlZMic_5iXqGCNnoC3wX4nA6wctZ36SHH1VKhSyCOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA2/NzIyLTE1MDI3OTI5/MDgtMTE4Mi5wbmc.jpeg" alt="Cover for Bach: Goldberg Variations etc." style="max-width:120px; height:auto;" />
       </td>
@@ -109,7 +109,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/CjJ-ZrHGKSE2Uhh0cTqGAJEgzmPh9qevyx7ecmPCRKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTY1/MDMtMTQ4ODU0NTk0/MS00NjAyLmpwZWc.jpeg" alt="Cover for Scarlatti: Fourteen Sonatas for Harpsichord" style="max-width:120px; height:auto;" />
       </td>
@@ -128,7 +128,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/hSFxT6ATeDQGC_-oM3oe-Dcd2OyQ5Qnm00PmfutU77k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIx/ODkyLTE1NzAyOTA2/MDAtNzQ0My5qcGVn.jpeg" alt="Cover for Pescetti: Sonate per Gravicembalo" style="max-width:120px; height:auto;" />
       </td>
@@ -146,7 +146,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/E3V6rD7gIW7lvIBL49Of_DN-fy79jjc0K3I0PkFsOMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjMw/NzEtMTQ4ODYyNzc1/MS0yMDQ4LmpwZWc.jpeg" alt="Cover for Purcell: Suites for Harpsichord" style="max-width:120px; height:auto;" />
       </td>
@@ -164,7 +164,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/V24kzP0ait7jFItOnAkMOUuPdf6WiITABJnkDvFCroY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njg0/OTUtMTU4OTgxMDgy/My0yOTE3LmpwZWc.jpeg" alt="Cover for Complete Harpsichord Concertos" style="max-width:120px; height:auto;" />
       </td>
@@ -206,7 +206,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/87kHN-CQrxIPmy4W2HxEaZrj6HHHchMQ8G7cjPSc0Uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjQ1/NzUtMTQ3NzYxMTA5/Ni04ODQ4LmpwZWc.jpeg" alt="Cover for Bach: 6 Sonatas for Violin &amp; Harpsichord" style="max-width:120px; height:auto;" />
       </td>
@@ -246,7 +246,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/uDHLi5Kz6LNIfm1X0YWIbB7Wv-Bz99GBXPLxNzIw4Jc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njky/NzAyLTE1OTYwMjI0/NzctNDE1NC5qcGVn.jpeg" alt="Cover for Bach: Konzerte" style="max-width:120px; height:auto;" />
       </td>
@@ -265,7 +265,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/iCkiy5OaNb9S0SAPA2KbzxzGCQOEMJo_qPKdeChvCZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjA4/OTAtMTU4MTQ3OTc2/My01NDY3LmpwZWc.jpeg" alt="Cover for Masterpieces Of French Harpsichord Music" style="max-width:120px; height:auto;" />
       </td>
@@ -285,7 +285,25 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>57</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/575eb98a2ea15ee0c8e0a3dcf6b5e24f.png" alt="Cover for July" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1968</td>
+      <td>July</td>
+      <td>July</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/b6VmlknRzc6PhpK66gMDhUg_CTHm08Gk__s8IwspAEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDcy/NzE4LTE2Mzc1Mjkz/NTgtNjUyOC5qcGVn.jpeg" alt="Cover for Jacques Du Phly: Complete Works for Harpsichord" style="max-width:120px; height:auto;" />
       </td>
@@ -310,7 +328,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/iY4lsAKgkK6_OSP0Ldg1jWiUrNuzQ79UX013PG_99BY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MDIx/NDktMTQ2MDkwODgy/OS0yMDQyLmpwZWc.jpeg" alt="Cover for Harpsichord Variations for Johann Gottlieb Goldberg" style="max-width:120px; height:auto;" />
       </td>
@@ -367,7 +385,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/ePKNgIb13UWoJM_xMO0y8GrGuwn8vA8XuGC0thV4sDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjk5/OTQtMTQ5Nzc3MTI1/My0zMDg5LmpwZWc.jpeg" alt="Cover for Bach, J.S.: Harpsichord Concertos, Bwv 1055-1058" style="max-width:120px; height:auto;" />
       </td>
@@ -384,7 +402,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/V24kzP0ait7jFItOnAkMOUuPdf6WiITABJnkDvFCroY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njg0/OTUtMTU4OTgxMDgy/My0yOTE3LmpwZWc.jpeg" alt="Cover for Bach, J.S.: Harpsichord Concertos, Bwv 1052-1054" style="max-width:120px; height:auto;" />
       </td>
@@ -401,7 +419,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/hZHyAQ4DrImeD9rKt9s50rQET3yEiqMdctQWitmDTfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDkw/Nzg1LTE2MjYyNzM3/NDQtODA1MS5qcGVn.jpeg" alt="Cover for Bach, J.S.: Art of Fugue (The), Bwv 1080" style="max-width:120px; height:auto;" />
       </td>
@@ -435,7 +453,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>1973</td>
@@ -453,7 +471,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/xN_YBaIouYC-nbE1_vgixGsfs3iAH8jPnA51USyD0IU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI5/ODQ1LTE1NDg1OTU3/NjMtNjQ1NS5qcGVn.jpeg" alt="Cover for Sweelinck: Works for Organ" style="max-width:120px; height:auto;" />
       </td>
@@ -493,7 +511,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/rjwyrZbixKsQ8xoJvYuCXbtVxaNbRmQRhMmbd6DE0DI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzYw/ODctMTM5MTg2MjE3/My03Mzg1LmpwZWc.jpeg" alt="Cover for Opera Omnia I - Buxtehude: Harpsichord Works I" style="max-width:120px; height:auto;" />
       </td>
@@ -512,7 +530,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/tGw7xoNVAqGnNBXn6fZyMAH_U3Y_lx1v5DmiplugxOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg0/MzE2LTE1NTY5Njk4/ODAtMzIyMS5qcGVn.jpeg" alt="Cover for Bach - English Suites" style="max-width:120px; height:auto;" />
       </td>
@@ -530,7 +548,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/rjwyrZbixKsQ8xoJvYuCXbtVxaNbRmQRhMmbd6DE0DI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzYw/ODctMTM5MTg2MjE3/My03Mzg1LmpwZWc.jpeg" alt="Cover for Bach, JS : Harpsichord Concertos Nos 1, 2, 5 &amp; 6" style="max-width:120px; height:auto;" />
       </td>
@@ -585,7 +603,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/bYr1ry6ARBwzXMVc0AEz944LrpUOldOozAoZPIGAnP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjE1/MzgyLTE1MTk0NzMx/MjgtNTIzMS5qcGVn.jpeg" alt="Cover for Handel: Chaconne In G Major For Harpsichord, HWV 435; Keyboard Suites" style="max-width:120px; height:auto;" />
       </td>
@@ -602,7 +620,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/cB6Zrh2k0Ebl6_rOm2mreAkqQqKkLbthlQ56LuyPeZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjI0/OTEtMTM5MDUxNDUy/MS04OTcxLmpwZWc.jpeg" alt="Cover for Bach: The Complete Keyboard Works" style="max-width:120px; height:auto;" />
       </td>
@@ -681,7 +699,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/EMjjNEynP7sANbn08GlPRIkG1qlh3LqLA5Dw9H9v0Gw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzMx/MTMtMTQ3NzEyNjc2/Ny01NDMyLmpwZWc.jpeg" alt="Cover for BACH, J.S.: The Well-Tempered Clavier, Book I (Landowska) (1949-1951)" style="max-width:120px; height:auto;" />
       </td>
@@ -733,7 +751,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/6eFLJjUihMf7eemYh0uQ0RjnErgeMaZlBiWFWcejRMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA3/MjM2LTE1NDgxNzc0/MjEtOTUyOC5qcGVn.jpeg" alt="Cover for Bach: Die Kunst Der Fuge" style="max-width:120px; height:auto;" />
       </td>
@@ -752,7 +770,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/sJvwqyKkTVsKYd8wkYEQTBqW87tTaJ4exLnHFoIx-1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjM3/NDQ3LTE1MzkwOTA2/NzctMjM5NS5qcGVn.jpeg" alt="Cover for Tudo ou Nada" style="max-width:120px; height:auto;" />
       </td>
@@ -775,7 +793,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/MdURrlaD65V7bFQvcisOEfuXV5EbcDUy0FlIgmyjxyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzIw/NTQtMTQ3NzczNTM3/OS02ODM5LmpwZWc.jpeg" alt="Cover for Rameau: Pieces de clavecin" style="max-width:120px; height:auto;" />
       </td>
@@ -794,7 +812,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/8QqKOP-Fd6heFmVsOHxukEGyDkBOc8v8bMp-gTRRU8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTQ1/MjM2LTE2MTA3NDMy/MzEtMjc0Mi5qcGVn.jpeg" alt="Cover for Renúncia" style="max-width:120px; height:auto;" />
       </td>
@@ -817,7 +835,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
       </td>
       <td>1984</td>
@@ -856,7 +874,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/lxjr9WPeieCIYq9rOjaxg_94r--UK3IwRFQu437ALBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA4/MTE3LTE0OTg4OTE0/MzAtMTA0NS5qcGVn.jpeg" alt="Cover for Bach: Harpsichord Partitas Nos. 1, 2 &amp; 4" style="max-width:120px; height:auto;" />
       </td>
@@ -962,7 +980,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/Xp2CXRax0de23YSSXbkEM7W531wZTpzl-pVqWC6rv8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYz/OTQ3LTE1OTU1MDEw/NDUtMTczMC5wbmc.jpeg" alt="Cover for shamblin´Man" style="max-width:120px; height:auto;" />
       </td>
@@ -992,7 +1010,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/P79RfZs3teTNhmMj9Or-LlN63UbzSjXW5Aztu-wvr58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzYx/NjM2LTE2MzU0MzQ2/NTEtMzY0NC5qcGVn.jpeg" alt="Cover for Bach Sonatas" style="max-width:120px; height:auto;" />
       </td>
@@ -1032,7 +1050,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/eWatma6JbFMvkjRCJ0kDJVMyPwRc2717HM2nbtz8_ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODgy/Njc1LTE1MjQwNTY3/OTktMzEyNi5qcGVn.jpeg" alt="Cover for Bach, J.S.: Harpsichord Concertos, Bwv 1063-1065 &#x2F; Bwv 1044, Bwv 1050A" style="max-width:120px; height:auto;" />
       </td>
@@ -1049,7 +1067,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/sQY1-LrFSUBTnMgGG51uroaB-dJR-kLCQ0Jy9ItgfUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODk1/NDI5LTE1MDYxODY2/NDEtODE2Mi5qcGVn.jpeg" alt="Cover for Couperin: Pieces De Clavecin" style="max-width:120px; height:auto;" />
       </td>
@@ -1068,7 +1086,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/MLADATr4N_DHcGw4yS4ikL9bN0HJgT6ttYvaTDC1VLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg5/NzAzLTE2Mjc3MzM1/ODctMjAxOC5qcGVn.jpeg" alt="Cover for Bach: The Well-Tempered Clavier, Book 1 - BWV 846-869" style="max-width:120px; height:auto;" />
       </td>
@@ -1085,7 +1103,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/qwFgD0qS2QaXH0yUPrbETTEFyr8cCvOuVUX3tnMd8vk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODM3/OTcyLTE2Mjg3OTAx/NDEtNTAxNS5qcGVn.jpeg" alt="Cover for Pancrace Royer : Premier Livre de pièces pour clavecin (1746)" style="max-width:120px; height:auto;" />
       </td>
@@ -1181,7 +1199,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/fb0mLZSbSUO6Vk1VhLYqCpQFsA-hxIHlPY-wHFRs2uM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDgx/NzYtMTU4MzM2MDc1/Mi00NjE2LmpwZWc.jpeg" alt="Cover for Forqueray: Harpsichord Suites Nos. 1, 3, 4 and 5" style="max-width:120px; height:auto;" />
       </td>
@@ -1232,7 +1250,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/pYZK7ukZla63a44St9H-MUARliqJSsLUFfrtUQDx_zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTE1/MTIzLTE2MzYzNzc3/NzAtMTA1NS5qcGVn.jpeg" alt="Cover for Haydn, J.: Keyboard Concertos" style="max-width:120px; height:auto;" />
       </td>
@@ -1249,7 +1267,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/A7P-AQwz1cvLpC43Gck2xX5CeYW1STXNHn_lsXWOph8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDgw/ODQ3LTE1NTUwMzE2/MzktMzI3MS5qcGVn.jpeg" alt="Cover for FROBERGER &#x2F; BULL &#x2F; BACH: Harpsichord Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1329,7 +1347,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/37haFRjmAiAUZqRwOmfSTpuaLIh1VooEsE0-gAc8jq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Nzk3/MzAtMTQ2MjQzNTYy/NC0xMTM0LmpwZWc.jpeg" alt="Cover for Bach, J.C.: 6 Harpsichord Concertos, Op. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1346,7 +1364,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/ePKNgIb13UWoJM_xMO0y8GrGuwn8vA8XuGC0thV4sDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjk5/OTQtMTQ5Nzc3MTI1/My0zMDg5LmpwZWc.jpeg" alt="Cover for The Harpsichord Concertos" style="max-width:120px; height:auto;" />
       </td>
@@ -1401,13 +1419,13 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 54</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 69</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 55</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/_zWLU9SwQU_jdxVXx8fX2nrmW7BDRAlcAMMKoafE4tc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTY1/Njc1LTE2MzY4MjU2/MzktOTM5NC5qcGVn.jpeg" alt="Cover for Sweelinck, J.P.: Harpsichord Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1424,7 +1442,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/vqzUZsPXWMDxfhW8bKjHFFtQEi3LR7_YKtO3FHuijlg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTA3/NDAtMTMwMjA3NzQy/NS5qcGVn.jpeg" alt="Cover for Strange ways to ancient times" style="max-width:120px; height:auto;" />
       </td>
@@ -1445,9 +1463,8 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/dutbmukUV0SMAtHRKr-3DpKqOLcjHiJtYqg38ckXX5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzAw/MDU1LTE2MTg0NDAx/NzktOTc1MC5qcGVn.jpeg" alt="Cover for Freddy" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Prussia</td>
@@ -1466,7 +1483,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/csgU-1x1uvh8j5_Y9R2qR_waY3Wslhwb-Dh28W8iPUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU1/MDE4LTE1ODQ2ODg2/NzQtOTYzNS5qcGVn.jpeg" alt="Cover for Dr. Bull&#39;s Jewel - Keyboard Music of John Bull" style="max-width:120px; height:auto;" />
       </td>
@@ -1484,7 +1501,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/5_mQtBwe-nnQTAvEyVZb1pT6vINkhxgyurESY62dsWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQ4/OTc4LTE1Mjk0MTQy/MDktODc0MC5qcGVn.jpeg" alt="Cover for Bach: Goldberg Variations" style="max-width:120px; height:auto;" />
       </td>
@@ -1504,7 +1521,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/CjJ-ZrHGKSE2Uhh0cTqGAJEgzmPh9qevyx7ecmPCRKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTY1/MDMtMTQ4ODU0NTk0/MS00NjAyLmpwZWc.jpeg" alt="Cover for Works For Harpsichord" style="max-width:120px; height:auto;" />
       </td>
@@ -1522,7 +1539,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/xFU1sUZN74vpTX--G1uaHWUYWA9v4zKya-Bxly7KZdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjY0/NTQzLTE2NDgzOTU5/OTYtNDA3Ni5qcGVn.jpeg" alt="Cover for Purcell, H.: Harpsichord Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1539,7 +1556,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/oJLBIOn03mfGsZZeRRMcB6d70UpJZD9-_CZSMwsutZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTIw/NDYtMTQ2NDY4ODUx/Mi0yNDU2LmpwZWc.jpeg" alt="Cover for Bach Goldberg Variations" style="max-width:120px; height:auto;" />
       </td>
@@ -1557,7 +1574,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/j3R7l9HxSQZiM_HxLzts7Q5SjTQ2eeznK3iqhRqvU-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODMx/MDY2LTE2NzQzMjM0/OTgtODUwOS5qcGVn.jpeg" alt="Cover for Rameau: Opera &amp; Ballet Transcriptions" style="max-width:120px; height:auto;" />
       </td>
@@ -1600,26 +1617,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/jjcBK1yqm0lCn_Tn6T67bn2drGcAFxiN0_CndmNJBzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjcx/Mjg2LTE2MDM1NDUy/MzItNjc1Ni5qcGVn.jpeg" alt="Cover for Il cembalo di Partenope" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017</td>
-      <td>Catalina Vicens</td>
-      <td>Il cembalo di Partenope</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harpsichord" | relative_url }}">harpsichord</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/K18a22bFiQe2y8JNnYGr51xL6MOB6KfEQAn4OzgoTPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDM5/NTQwLTE1ODkxMjQ5/NTgtNzk3Ny5qcGVn.jpeg" alt="Cover for The Art of the Baroque Harpsichord" style="max-width:120px; height:auto;" />
       </td>
@@ -1659,7 +1657,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/hvZZl5YTRE9J-ycwWB2-2V8Z45zZrK1Dfmwma5n15Ao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTYz/Mzg3LTE2MDUzNjAx/OTEtMjI1Ni5qcGVn.jpeg" alt="Cover for Scarlatti, D.: Sonatas" style="max-width:120px; height:auto;" />
       </td>
@@ -1718,7 +1716,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1737,7 +1735,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -1754,7 +1752,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
       </td>
       <td></td>
@@ -1791,7 +1789,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -1808,7 +1806,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
@@ -1825,7 +1823,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
       </td>
       <td></td>
@@ -1843,7 +1841,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
       </td>
       <td></td>

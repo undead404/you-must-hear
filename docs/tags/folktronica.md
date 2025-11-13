@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T03:41:39.733Z
+date: 2025-11-12T18:01:46.295Z
 permalink: tags/folktronica
 title: folktronica
 ---
 
 ## folktronica
 
-Last updated: <time datetime="2025-11-11T03:41:39.733Z">Tue Nov 11 2025 05:41:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-12T18:01:46.295Z">Wed Nov 12 2025 20:01:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,7 +50,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 8</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 12</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 78</li>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 97</li>
         </ul>
@@ -75,7 +75,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 35</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 37</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 62</li>
         </ul>
       </td>
@@ -83,7 +83,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/tBM00xx-ZeIme993R-N5r0omf-D2NjVckbKAWOVacLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzU1/OC0xMjM1OTE0NDIz/LmpwZWc.jpeg" alt="Cover for American Life (PA Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/138f977c0515048c720b18c942c09923.png" alt="Cover for American Life (PA Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Madonna</td>
@@ -123,8 +123,8 @@ Folktronica is a genre of music that combines elements of traditional folk music
       <td>
         <ul>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 7</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 15</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 58</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 18</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -177,7 +177,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/L7rGxLCd-zKotR8ZiyIIqbYbaANRN4PI05SKNHo9MKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzc1/NTAwLTE1NTMwMjAw/MjItOTMwMi5qcGVn.jpeg" alt="Cover for Lonely Mountain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77a5e34edbe03a1b7ab90c8c8ecbf743.png" alt="Cover for Lonely Mountain" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-10</td>
       <td>Mugison</td>
@@ -210,15 +210,16 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 40</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 78</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 6</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 47</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 78</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 78</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3435b62044af4394a802f93b33d73dc5.png" alt="Cover for Rounds (Special Anniversary Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -256,7 +257,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 24</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -274,15 +275,15 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 2</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 24</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 58</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 25</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb7fd3ad15c619e2b0e9f5dc618e2b99.png" alt="Cover for Ether Teeth" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-12</td>
       <td>FOG</td>
@@ -328,10 +329,10 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 4</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 48</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 14</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 53</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 79</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 82</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 84</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 88</li>
         </ul>
       </td>
@@ -352,12 +353,12 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 92</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2004</td>
@@ -397,7 +398,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/nnAsEk0B80MZ0DP_GTeFCWN8O4khmB-v5TiVxATUmMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDUx/Ny0xMTA4NTA4OTU3/LmpwZw.jpeg" alt="Cover for Mother&#39;s Daughter and Other Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83423442e4f55e72cfd6e39bb6f83e79.png" alt="Cover for Mother&#39;s Daughter and Other Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-01-10</td>
       <td>Tunng</td>
@@ -409,28 +410,6 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6550ba259337d73982d89bc93e5de2b.png" alt="Cover for Wind in the Wires" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-06-13</td>
-      <td>Patrick Wolf</td>
-      <td>Wind in the Wires</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 1</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 9</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -455,7 +434,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/R84oVV1RyydJozfsdg1GtL_lMOBVHum4ngRUMbONROg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjI5/My0xMTQ2NDAwMzk3/LmpwZWc.jpeg" alt="Cover for The Pioneers EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f82bdfa3393444ebd365130d07055e1.png" alt="Cover for The Pioneers EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-23</td>
       <td>Tunng</td>
@@ -474,7 +453,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/znsvibnYL7jpvs6KKRNNLKyppyZpiGFm4QYdhzvy-zs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MjMw/My0xMjY0MTg4NDAy/LmpwZWc.jpeg" alt="Cover for Lump" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6344a5b5e089a43ae0688e3acf6dee72.png" alt="Cover for Lump" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-24</td>
       <td>Lump</td>
@@ -491,8 +470,9 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca68061c9c584883b79811bb01ba600f.png" alt="Cover for Comments of the Inner Chorus" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-05-22</td>
       <td>Tunng</td>
@@ -555,12 +535,11 @@ Folktronica is a genre of music that combines elements of traditional folk music
       <td>Fur and Gold</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 63</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -604,8 +583,9 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b26c5a885ff648f1b8821541c246cf38.png" alt="Cover for Beautiful Sleepyhead and the Laughing Yaks" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-12</td>
       <td>Emily Wells</td>
@@ -619,7 +599,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 23</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -664,7 +644,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be01c032f58e6b643d33275f64b7d263.png" alt="Cover for Seventh Tree" style="max-width:120px; height:auto;" />
       </td>
@@ -677,12 +657,12 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 67</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/cqybCBeO1gxmT6sPJryCLfmzEhqIWlrFVYWKMeDEkgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA5/NTUtMTIxMzcyNTUz/Mi5qcGVn.jpeg" alt="Cover for Celebrating Life" style="max-width:120px; height:auto;" />
       </td>
@@ -724,6 +704,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bd2b8e8405c452cf44bfaa4d6bc7c9c.png" alt="Cover for God Has a Voice, She Speaks Through Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-13</td>
       <td>CocoRosie</td>
@@ -734,6 +715,24 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2008-05-14</td>
+      <td>Paavoharju</td>
+      <td>Laulu laakson kukista</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -776,7 +775,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/uWSfW4uHrhv6A3d6us5y_SIMnoo1kN2HMNCNFKZ_TNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODY4/NDMtMTM0MTc4MDEz/MS02NTE5LmpwZWc.jpeg" alt="Cover for Frontier" style="max-width:120px; height:auto;" />
       </td>
@@ -871,9 +870,9 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/pnAsabe36mQKF0U-vsMtllgPUF6HhaKTdoSEId_lLHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTIz/MjAtMTQwMTY3MzQ5/NS0yMjY4LmpwZWc.jpeg" alt="Cover for Dirty" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/088212fe11c1452393c739573e860d87.png" alt="Cover for Dirty" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-03</td>
       <td>Emily Wells</td>
@@ -891,7 +890,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/lHBUhjcBboGt1ZyEb8Xid4ODncEXtM_Ie1N7zx3-nUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg0/NzEtMTI0NDY3OTgy/NS5qcGVn.jpeg" alt="Cover for Ambivalence Avenue" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45fc50722e8e41c3bfa0c5b95c5d795a.png" alt="Cover for Ambivalence Avenue" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-22</td>
       <td>Bibio</td>
@@ -950,12 +949,8 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 7</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 38</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 57</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 66</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 77</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 84</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 19</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -973,7 +968,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 42</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 45</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 87</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 96</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 99</li>
@@ -981,7 +976,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/49b7d666f85381b3499582cc784ee771.png" alt="Cover for Lights 10" style="max-width:120px; height:auto;" />
       </td>
@@ -1014,12 +1009,12 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 43</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57bca49f838ad1c7476d49ba9c911adb.png" alt="Cover for Lights" style="max-width:120px; height:auto;" />
       </td>
@@ -1053,8 +1048,8 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 72</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 88</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 76</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1074,15 +1069,15 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 2</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 81</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 9</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 83</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 89</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/tnAo7IbR3DxzneZYmfy3ginNfLlaBgippSoUdwZr0Lg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODU1/LTExOTY2MTM4NTku/anBlZw.jpeg" alt="Cover for Life Is Full of Possibilities (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1101,7 +1096,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 44</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1130,9 +1125,27 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 4</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 5</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 90</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/O6rE5hZsaPyhfFb22i368xYTDTOl1QYC7F2c6mFbVaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzA1/MjAtMTMzMTY1MzQz/Ny5qcGVn.jpeg" alt="Cover for Iradelphic" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-04-02</td>
+      <td>Clark</td>
+      <td>Iradelphic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1153,18 +1166,18 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 2</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 38</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 60</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 76</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 22</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 41</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 66</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 78</li>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/F3ApBdZXA6vmdjA0rFAcnCCqfr3ySyuKH_85t2K5O7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTky/MTEtMTM1NTE4Mjcy/Ny0yMTE1LmpwZWc.jpeg" alt="Cover for Mtn Tune" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0e4f1086a4a40148eca423af2d9f430.png" alt="Cover for Mtn Tune" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-23</td>
       <td>Trails and Ways</td>
@@ -1184,6 +1197,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5c427bc794447a4a783f59f430e63bf.png" alt="Cover for The Olllam" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-25</td>
       <td>The Olllam</td>
@@ -1199,36 +1213,15 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 11</li>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 24</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 14</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>9</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/625956594c15450b86c92e8119b78bc1.png" alt="Cover for The Haunted Man" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-10-12</td>
-      <td>Bat for Lashes</td>
-      <td>The Haunted Man</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 6</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 25</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>
-          <img src="https://i.discogs.com/5_w5-V40ESU9mozFtRCOXy9GdWGfa6rdKVluDvByck4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDk2/MTgtMTM4MTk2MzM2/Ny0yMjgwLmpwZWc.jpeg" alt="Cover for Nunca" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52e830ac829d4215a612b610ff8589f9.png" alt="Cover for Nunca" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Trails and Ways</td>
@@ -1279,7 +1272,6 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 43</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 86</li>
         </ul>
       </td>
@@ -1302,8 +1294,8 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 20</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 42</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 33</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1328,7 +1320,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 50</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 51</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 73</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 96</li>
         </ul>
@@ -1366,32 +1358,28 @@ Folktronica is a genre of music that combines elements of traditional folk music
       <td>All My Demons Greeting Me As A Friend (Deluxe)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 35</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 47</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 3</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 38</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 49</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 61</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 65</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 68</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 69</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 67</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 72</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 76</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 81</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 84</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 87</li>
@@ -1405,7 +1393,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/DUMJU7_jEOnW5bSGqm0TKINVl7bP9jTQWry8bw7aUfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODI3/NTctMTU0MDUyMjY1/MS0yODM4LmpwZWc.jpeg" alt="Cover for Face Always Toward The Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -1439,13 +1427,15 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 1</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/9NiJ-Gtf8PVtJTQhzku8kCA9OWJaYEDY0jSV8yx5g2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTU3/NTY1LTE0OTI2NDEy/NTEtNzcxNy5qcGVn.jpeg" alt="Cover for Halo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0982191003d1a3b6550712b1c2c34dc5.png" alt="Cover for Halo" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Juana Molina</td>
@@ -1497,7 +1487,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 64</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 69</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 75</li>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 95</li>
             <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 97</li>
@@ -1556,9 +1546,9 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/EMuCtCSE8AdIg0GrVlLiATPVKJ3JznOR6f0BmcoGyZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjI3/MDk1LTE1NzAyNjkw/OTItNzcwOC5qcGVn.jpeg" alt="Cover for Solpor" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/891d765154b560091a703152aaf6bdb9.png" alt="Cover for Solpor" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-06</td>
       <td>baiuca</td>
@@ -1578,7 +1568,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed5b25fa35210b228fa4e54f6cc5102b.png" alt="Cover for El Origen" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,15 +1606,15 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 6</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 65</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 65</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 67</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 10</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 66</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 69</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8b8b9b390402feff3a04c4e65540b03.png" alt="Cover for Crumbling 무너지기" style="max-width:120px; height:auto;" />
       </td>
@@ -1641,7 +1631,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/bOlovZ6zg_ZuhXl9omWlWM-2lcJe6HOOUS5c4OzqxHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc1/Njg4LTE1MzkzMDI3/MjQtOTE1Mi5qcGVn.jpeg" alt="Cover for Dionysus" style="max-width:120px; height:auto;" />
       </td>
@@ -1659,18 +1649,18 @@ Folktronica is a genre of music that combines elements of traditional folk music
         <ul>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 57</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 76</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 77</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 77</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 85</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 77</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 85</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 85</li>
             <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 88</li>
             <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 93</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 94</li>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 94</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 96</li>
             <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 98</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 99</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 99</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 99</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 100</li>
         </ul>
       </td>
@@ -1678,7 +1668,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/IIMjtxcgkpKbWYuXxuTwYjyeamtKLdi0IhfEqkq8_DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODY1/NzI3LTE1NjI4NzAx/MjktODAzNC5qcGVn.jpeg" alt="Cover for i,i" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75742b5f137e73e3157dd2499455ed7a.png" alt="Cover for i,i" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-08-09</td>
       <td>Bon Iver</td>
@@ -1689,7 +1679,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 57</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 62</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 91</li>
         </ul>
       </td>
@@ -1712,7 +1702,8 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 36</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 7</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 37</li>
             <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 95</li>
         </ul>
       </td>
@@ -1739,7 +1730,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 47</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 48</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 66</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 95</li>
             <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 96</li>
@@ -1780,8 +1771,8 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 1</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 32</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 5</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 45</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 80</li>
         </ul>
       </td>
@@ -1830,7 +1821,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/BV-ZcQ5g64YZri-pFZEX0a6EHd8qtU-ovLvUV92fTFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njg0/MDcyLTE2ODk0NDA0/ODktMTk2MC5qcGVn.jpeg" alt="Cover for Cansar de Dançar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95ce547b998eaaabab6523b8382cfaff.png" alt="Cover for Cansar de Dançar" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-05-06</td>
       <td>Juliette</td>
@@ -1845,7 +1836,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 79</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 81</li>
             <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 85</li>
         </ul>
       </td>
@@ -1878,7 +1869,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/_Oql-4r9bNQIEaASWO6G8pErl23PaZ2Uh1nLxU7c1T0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NzQ0/NjYtMTQ0MjIxNzM2/My0yNTM2LmpwZWc.jpeg" alt="Cover for Solar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9cc7b6033ad525de37106757fb3c8f4.png" alt="Cover for Solar" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-06-03</td>
       <td>Juliette</td>
@@ -1932,12 +1923,12 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 77</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/ls7tjEmUp3l_TH3bT_N8_EdkE5lvqlhRjpZx_o48oR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTk2/NjgxLTE2NjM4NjA2/NjktNzQzNS5qcGVn.jpeg" alt="Cover for Nascent" style="max-width:120px; height:auto;" />
       </td>
@@ -1956,7 +1947,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2991fc0e93baeef532995ad65e5dae64.png" alt="Cover for Cult of the Lamb (Original Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -2014,9 +2005,9 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 4</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 23</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 90</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 8</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 25</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2057,13 +2048,13 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 24</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 75</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 26</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/CbyCYbH4h7WoVmR_mCbotxqQ2RR3TQHuKAIN1WtBmSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDY1/MTE5LTE3MTQ1MjAy/NDUtNzczOS5qcGVn.jpeg" alt="Cover for Three" style="max-width:120px; height:auto;" />
       </td>
@@ -2102,14 +2093,15 @@ Folktronica is a genre of music that combines elements of traditional folk music
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 9</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 11</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 25</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 77</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/8dF9QJ3NihCPe4WVXuBisGORAytzio8EeyXRyzizYzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzA2/Njg2LTE3MjE4MzA2/MzctNDI1My5qcGVn.jpeg" alt="Cover for Mahōgakkō" style="max-width:120px; height:auto;" />
       </td>
@@ -2130,7 +2122,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
       <td>
         <ul>
             <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 12</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 46</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 49</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 60</li>
         </ul>
       </td>
@@ -2138,6 +2130,7 @@ Folktronica is a genre of music that combines elements of traditional folk music
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a151a26c2b98a3d9e9774999f8e5bc4.png" alt="Cover for Gongjoong Doduk" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mid-Air Thief</td>
@@ -2150,12 +2143,12 @@ Folktronica is a genre of music that combines elements of traditional folk music
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 66</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 78</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b15493decf2166c8d0ba42845857107.png" alt="Cover for Segundo (Remastered)" style="max-width:120px; height:auto;" />
       </td>
