@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:19:35.257Z
+date: 2025-11-13T06:07:16.794Z
 permalink: tags/college-rock
 title: college rock
 ---
 
 ## college rock
 
-Last updated: <time datetime="2025-11-11T04:19:35.257Z">Tue Nov 11 2025 06:19:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T06:07:16.794Z">Thu Nov 13 2025 08:07:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,7 +62,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 17</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -88,6 +88,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8a45149da23a799411ca553e8837c82.png" alt="Cover for Trust" style="max-width:120px; height:auto;" />
       </td>
       <td>1981-01-23</td>
       <td>Elvis Costello &amp; The Attractions</td>
@@ -159,6 +160,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ee75bb2ef7be4ab870fc68846401fcc.png" alt="Cover for Imperial Bedroom" style="max-width:120px; height:auto;" />
       </td>
       <td>1982-07-02</td>
       <td>Elvis Costello &amp; The Attractions</td>
@@ -189,9 +191,9 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 14</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 31</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 90</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 19</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 36</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 91</li>
             <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 92</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 93</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 94</li>
@@ -199,7 +201,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f6f49a275c7455fc5e708adc2dc07ea.png" alt="Cover for Reckoning" style="max-width:120px; height:auto;" />
       </td>
@@ -213,8 +215,8 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 86</li>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 86</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -233,12 +235,12 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 3</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 29</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 37</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 23</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 39</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 45</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 76</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 82</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 85</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 86</li>
             <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 99</li>
         </ul>
       </td>
@@ -297,14 +299,14 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 13</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 14</li>
             <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 91</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 92</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a37156fbac2e4f0ecf7c7cdd6d8848b2.png" alt="Cover for Little Creatures" style="max-width:120px; height:auto;" />
       </td>
@@ -318,7 +320,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 58</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -337,13 +339,13 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 23</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 25</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcf815b737cc4654879fb1e88a240123.png" alt="Cover for Life&#39;s Rich Pageant" style="max-width:120px; height:auto;" />
       </td>
@@ -358,7 +360,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 76</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -376,7 +378,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 11</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -421,10 +423,10 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 74</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 82</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 90</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 94</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 83</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 89</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 97</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 97</li>
             <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 98</li>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 100</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 100</li>
@@ -446,8 +448,8 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 41</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 61</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 45</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -469,7 +471,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b82824b1e4e761b40cb2a8aa81d473cb.png" alt="Cover for Camper Van Beethoven" style="max-width:120px; height:auto;" />
       </td>
@@ -509,7 +511,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec494eab44b35595aabaa8c70c6b7c0b.png" alt="Cover for Document" style="max-width:120px; height:auto;" />
       </td>
@@ -540,8 +542,8 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 49</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 51</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 50</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 52</li>
             <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 82</li>
         </ul>
       </td>
@@ -561,7 +563,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 24</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -647,7 +649,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2f239b2eef59bd4e483c6ff15b851b8.png" alt="Cover for The Innocents" style="max-width:120px; height:auto;" />
       </td>
@@ -680,7 +682,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 78</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -704,7 +706,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df4762e57b954f5e847125e0d91d34db.png" alt="Cover for Paradise Circus" style="max-width:120px; height:auto;" />
       </td>
@@ -723,7 +725,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5078801aed03ec9bc933a736349f143.png" alt="Cover for Technique" style="max-width:120px; height:auto;" />
       </td>
@@ -736,8 +738,8 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 92</li>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 94</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 49</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -860,7 +862,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/Q7p1UXcXzF-4w7EORGK8mdalKAsHCAvkO-ZAkml2vto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjc3/OS0xMTUzNTA5MTE1/LmpwZWc.jpeg" alt="Cover for Mystical Shit &#x2F; Fluting on the Hump" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce3b8334f2058837c9d45ce93264d401.png" alt="Cover for Mystical Shit &#x2F; Fluting on the Hump" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>King Missile</td>
@@ -914,7 +916,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0dd729f4e6aa4345ae742a28fd43af39.png" alt="Cover for 458489 A Sides" style="max-width:120px; height:auto;" />
       </td>
@@ -928,7 +930,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 13</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -947,8 +949,8 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 10</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 18</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 11</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1048,7 +1050,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb9e62d4d2a3bc515378a04338584756.png" alt="Cover for Hot Potatoes: The Best of Devo" style="max-width:120px; height:auto;" />
       </td>
@@ -1066,7 +1068,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td>1994</td>
@@ -1084,7 +1086,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/631845997640490ebf41f6edf8c3558d.png" alt="Cover for Amplified Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1097,13 +1099,11 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 57</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b191eb80ea92654bc2b163d6a211559.png" alt="Cover for Singles Collected" style="max-width:120px; height:auto;" />
       </td>
@@ -1227,7 +1227,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/PJTMCsg7gzIUN7GVHXXwCJ0S3SBhco9QLdlPeAkgQjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTUz/MzEtMTUyOTMwOTI2/Ny05MzY0LmpwZWc.jpeg" alt="Cover for Con Limon" style="max-width:120px; height:auto;" />
       </td>
@@ -1246,7 +1246,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e1f905d4c55b71f973eb3f37c06f17a.png" alt="Cover for Handsome Western States" style="max-width:120px; height:auto;" />
       </td>
@@ -1321,7 +1321,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d8b7d44df2c1365918fccef438e2640.png" alt="Cover for A Place in the Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -1336,7 +1336,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 50</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1448,7 +1448,25 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e67ef54bba29dbf11555b5bf863f4b9b.png" alt="Cover for Collection" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-09-17</td>
+      <td>Tracy Chapman</td>
+      <td>Collection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/2JNRQvNl_9uY6mDNipqEu7dog9KAq8sn9VjyRBql5iU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDIx/MzctMTQwOTU4MTMz/NC0xODAzLmpwZWc.jpeg" alt="Cover for Live At The House Of Blues New Orleans" style="max-width:120px; height:auto;" />
       </td>
@@ -1492,7 +1510,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/8QS7aa7Y5fkAqVt_Bp9rje0-WGRgCy0EW12T-2tTdzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTA3/NS0xNjk0NjY3NTQz/LTgxNDguanBlZw.jpeg" alt="Cover for I&#39;m Not There" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/300e4f0f74b04396b49dc92bcf6491f1.png" alt="Cover for I&#39;m Not There" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Sufjan Stevens</td>
@@ -1511,7 +1529,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/fzRYWGaLlB44pC283gr3911c03ixutP4L9WHdkoKf-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTQ5/MjItMTU3NzIwNTgy/NS0yMjIxLmpwZWc.jpeg" alt="Cover for Sway EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1591,7 +1609,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 42</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1632,7 +1650,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c4e6b787b214cf1b48b67c1a8e66f6d.png" alt="Cover for Don&#39;t You Know Who I Think I Was?: The Best Of The Replacements" style="max-width:120px; height:auto;" />
       </td>
@@ -1647,13 +1665,13 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 30</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 34</li>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c099a506f5294bedb169044de76952a1.png" alt="Cover for The Head On The Door - Deluxe Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -1667,7 +1685,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 36</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1691,7 +1709,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/F7Lp6kzwrySfdiArzPiQCmsrKGHuZX_MCeRnPif_Yqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkw/NzM4LTE1MDk2OTA4/NjUtMjUwMC5qcGVn.jpeg" alt="Cover for Pink In The Sink" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ecc50497e776e6acaef97afb1af83e1.png" alt="Cover for Pink In The Sink" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-12</td>
       <td>Novi Split</td>
@@ -1730,7 +1748,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/jNBucANm0XqH_xhXvMDJZ0gCBV4I9DdV4oHkl3puzPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjA0/MDEtMTMwNjAwNTYz/OS5qcGVn.jpeg" alt="Cover for Kiss Me, Kiss Me, Kiss Me - Deluxe Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -1743,13 +1761,13 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 51</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 55</li>
             <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/_csbLduzeviCbkImdSj9M8hBbVXEUYzabsBatamZF88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTQ5/MTYtMTI5MjI1OTQ4/NC5qcGVn.jpeg" alt="Cover for The Space Between" style="max-width:120px; height:auto;" />
       </td>
@@ -1771,6 +1789,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7af15621712b4510deb86bd187188a01.png" alt="Cover for Anthology" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-05</td>
       <td>Throwing Muses</td>
@@ -1810,9 +1829,9 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>79</td>
       <td>
-          <img src="https://i.discogs.com/24vkcPnNwUjTStWI6PL5gVNvhwNKu6Y-jE444Hwi4Lo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjQ4/NTAtMTUwOTEzNDYw/NS02MDczLmpwZWc.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/743d773d73d89c3eb9789ff40a633c36.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-11-20</td>
       <td>Tracy Chapman</td>
@@ -1845,29 +1864,6 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       <td>
         <ul>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 81</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/SwNk4jLjsHjx3MJrX_bvvbhuN64prt6RGgyVyVvUU1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzA0/NzgyLTE2Njk2MDQ4/MjUtNTc1MS5qcGVn.jpeg" alt="Cover for Stay Young Forever" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022</td>
-      <td>Seaholm</td>
-      <td>Stay Young Forever</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -1928,7 +1924,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -1981,7 +1977,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -2031,7 +2027,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -2054,7 +2050,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -2076,7 +2072,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>

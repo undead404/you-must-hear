@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:20:43.791Z
+date: 2025-11-13T06:23:24.942Z
 permalink: tags/quartet
 title: quartet
 ---
 
 ## quartet
 
-Last updated: <time datetime="2025-11-11T04:20:43.791Z">Tue Nov 11 2025 06:20:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T06:23:24.942Z">Thu Nov 13 2025 08:23:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -316,7 +316,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
         <ul>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 23</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 69</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 72</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -616,7 +616,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/qkAdOKaxHBIZiV_drPA3Jb64EXr4L8ElN3wDBz52_Cs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTgz/OS0xMzk3NzY4NDA0/LTI3NTcuanBlZw.jpeg" alt="Cover for シューベルト:「死と乙女」「ロザムンデ」　85" style="max-width:120px; height:auto;" />
       </td>
@@ -1393,7 +1393,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 11</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 8</li>
             <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 34</li>
         </ul>
       </td>
@@ -1570,7 +1570,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -1592,14 +1592,13 @@ A quartet is a musical composition for four instruments or voices, also referrin
       <td>
       </td>
       <td></td>
-      <td>Tim Woodson and The Heirs of Harmony</td>
-      <td>Live In Newport News - &quot;Millionaire&quot;</td>
+      <td>Led Zeppelin</td>
+      <td>Led Zeppelin: Greatest Hits</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
         </ul>
       </td>
       <td>

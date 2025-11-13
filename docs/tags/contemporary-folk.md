@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:18:59.081Z
+date: 2025-11-13T05:16:52.903Z
 permalink: tags/contemporary-folk
 title: contemporary folk
 ---
 
 ## contemporary folk
 
-Last updated: <time datetime="2025-11-11T04:18:59.081Z">Tue Nov 11 2025 06:18:59 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T05:16:52.903Z">Thu Nov 13 2025 07:16:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,24 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
   </thead>
   <tbody>
     <tr>
-      <td>20</td>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d32067be15956c98d8db5a8420a30655.png" alt="Cover for Wednesday Morning, 3 A.M." style="max-width:120px; height:auto;" />
+      </td>
+      <td>1964-10-19</td>
+      <td>Simon &amp; Garfunkel</td>
+      <td>Wednesday Morning, 3 A.M.</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/lWlxS7zY-sWX3GVaSAYgl9utRJPmffgPh8lPqmPWO_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTU0/MTMtMTMxNzYzOTA1/NS5qcGVn.jpeg" alt="Cover for Come My Way" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +64,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/ebEsd_dho0L8tUZe4moL3VJnntpXG1cpUERMuo69Spw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzQ0/MTQtMTM1OTI5MTE4/OS05NDQ3LmpwZWc.jpeg" alt="Cover for The Voice of Scott McKenzie (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -65,8 +82,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c08d46acc1ceaf2b54f3364ffcbba32f.png" alt="Cover for Mr. Bojangles" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>Jerry Jeff Walker</td>
@@ -85,8 +103,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1263de179af340c8bd173eb93c5085af.png" alt="Cover for For the Sake of the Song" style="max-width:120px; height:auto;" />
       </td>
       <td>1968-12</td>
       <td>Townes Van Zandt</td>
@@ -103,12 +122,12 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 15</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/rJ-p_A8Yd2ICMGM_ewuSHFimqNlqk5RGS98e2s9ImXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgx/NzkzLTE0OTg2ODAx/NTAtMzU5NS5qcGVn.jpeg" alt="Cover for Wide Open Spaces" style="max-width:120px; height:auto;" />
       </td>
@@ -134,8 +153,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/536f577b1d82ba666149b9622fdf6203.png" alt="Cover for Five Years Gone" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Jerry Jeff Walker</td>
@@ -152,29 +172,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/8gdl5_PCgz1o9QIBVk88LIKEfjVdk-0tK-n9YCXarvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDY0/MTctMTQ1ODE2ODgx/NC0yMTM1LmpwZWc.jpeg" alt="Cover for Our Mother the Mountain" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1969-04</td>
-      <td>Townes Van Zandt</td>
-      <td>Our Mother the Mountain</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>
-          <img src="https://i.discogs.com/N5XaRHW3vEwkwpuM60t_CC9LKwvnFmPe-irqQ4CMzh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI4/MjYtMTQyNDIwNDcy/My0yMjU5LmpwZWc.jpeg" alt="Cover for Townes Van Zandt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9337d8992cb242a1c2c24eaa6f324ce8.png" alt="Cover for Townes Van Zandt" style="max-width:120px; height:auto;" />
       </td>
       <td>1969-09</td>
       <td>Townes Van Zandt</td>
@@ -193,7 +193,25 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af7be626b1491f67167dad44cb224142.png" alt="Cover for Ladies of the Canyon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1970-04</td>
+      <td>Joni Mitchell</td>
+      <td>Ladies of the Canyon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af64a60672508bf213cfc4aa1da33c61.png" alt="Cover for Confesiones De Invierno" style="max-width:120px; height:auto;" />
       </td>
@@ -211,8 +229,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04036a3638615c001c9438aabb2d3c20.png" alt="Cover for Artaud" style="max-width:120px; height:auto;" />
       </td>
       <td>1973-10</td>
       <td>Pescado Rabioso</td>
@@ -226,7 +245,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 23</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 26</li>
             <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 65</li>
             <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 74</li>
             <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 99</li>
@@ -234,7 +253,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee2f7c5e1b6836f0284d9702730729a4.png" alt="Cover for Pequeñas Anecdotas Sobre Las Instituciones" style="max-width:120px; height:auto;" />
       </td>
@@ -258,9 +277,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/xcYRjfBJhrGds5jqMubb6gnsevY3BEP1AN-9rTMgXHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDY4/NTctMTQzODYxNjky/Ny01NTQxLmpwZWc.jpeg" alt="Cover for New Sounds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eccd46ae1a6a415cc1b89ea24c2675d4.png" alt="Cover for New Sounds" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Bob Desper</td>
@@ -278,8 +297,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78913ed3bc9d4be9b2098ac7e7da4da2.png" alt="Cover for Benimle Oynar Mısın" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Bülent Ortaçgil</td>
@@ -296,7 +316,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76c233f9ae5c7d036a25e6bd3ae59cc2.png" alt="Cover for Pequeñas Anécdotas Sobre las Instituciones" style="max-width:120px; height:auto;" />
       </td>
@@ -320,8 +340,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3d438abbc68480fb5e084f396027b73.png" alt="Cover for Live at The Old Quarter, Houston, Texas" style="max-width:120px; height:auto;" />
       </td>
       <td>1977-03</td>
       <td>Townes Van Zandt</td>
@@ -338,25 +359,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td>1981</td>
-      <td>Maggie and Terre Roche</td>
-      <td>Seductive Reasoning</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/2uvyKWLqS2y3poirwUaRqoXla7iYXAjl9iJEpyx_5_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTcx/MjctMTQzNjM4ODgw/MC04NjAzLmpwZWc.jpeg" alt="Cover for Fairytale (Deluxe Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -374,8 +377,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ed617023cfb45d18d6dc03d39b1aea4.png" alt="Cover for The Times They Are A-Changin&#39;" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Bob Dylan</td>
@@ -387,12 +391,12 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 29</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bcebbb56b1ef810dc3a84f3432ccd1e.png" alt="Cover for Tracy Chapman" style="max-width:120px; height:auto;" />
       </td>
@@ -406,14 +410,14 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 33</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/y0Kbq2r2n1XBmihEFpAV5V9Ny4q7OrwpEM62K7EOuIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzA4/OC0xNDUyMzY3NjIy/LTkxNDcuanBlZw.jpeg" alt="Cover for Pink Moon ((Remastered))" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12700c8b8543a90a031bcc9f0be5c730.png" alt="Cover for Pink Moon ((Remastered))" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Nick Drake</td>
@@ -431,8 +435,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07441d66b4e0aba40c7108b572549774.png" alt="Cover for Roman Candle" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-07-14</td>
       <td>Elliott Smith</td>
@@ -445,15 +450,15 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       <td>
         <ul>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 44</li>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 62</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 74</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 63</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/OwM5hk7o0L310s7RZgwdNFhAoNnrVSUrbnulQ7liNO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjg0/Ni0xMTc0MzQxNzAw/LmpwZWc.jpeg" alt="Cover for I Love Everybody" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9031ac9aa38f41eec10a7d2f47391d77.png" alt="Cover for I Love Everybody" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-09-27</td>
       <td>Lyle Lovett</td>
@@ -474,8 +479,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1d85425f050936293d91b2269c6856f.png" alt="Cover for Wolfways" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-10</td>
       <td>Michael Hurley</td>
@@ -493,17 +499,15 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b4416b021ef0b20e4256a5855e9b0ae.png" alt="Cover for A Few Small Repairs" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-08-26</td>
       <td>Shawn Colvin</td>
       <td>A Few Small Repairs</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
@@ -566,7 +570,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09eb7a0c04fc4daacd61a9f9ee0797a4.png" alt="Cover for III" style="max-width:120px; height:auto;" />
       </td>
@@ -585,7 +589,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
       </td>
       <td>2000-05-24</td>
@@ -626,9 +630,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
         <ul>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 31</li>
             <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 50</li>
+            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 57</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 57</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 57</li>
-            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 57</li>
             <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 58</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 73</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 78</li>
@@ -640,8 +644,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4430ad94950d2eafedea4147cd7fe9ca.png" alt="Cover for Protection Spells" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-09-01</td>
       <td>Songs: Ohia</td>
@@ -657,7 +662,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86bd65c0d5c871a628f79171cba57816.png" alt="Cover for Myloveilove" style="max-width:120px; height:auto;" />
       </td>
@@ -679,13 +684,13 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       <td>
         <ul>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 50</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 60</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 61</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef3c38c5c33a49e2c96166223c87a15c.png" alt="Cover for The Rose" style="max-width:120px; height:auto;" />
       </td>
@@ -703,7 +708,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
       </td>
       <td>2003</td>
@@ -723,9 +728,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>71</td>
       <td>
-          <img src="https://i.discogs.com/_UXLCcdZw59FHU8FoT1E0Y8_iTWs5q9kjE8MuYt5RCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTIz/MTctMTQxMTM3Njg3/Ny05ODM1LmpwZWc.jpeg" alt="Cover for cLASSICS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99e383a71c39e30fba0f907bf5b7cd09.png" alt="Cover for cLASSICS" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-02-14</td>
       <td>Nina</td>
@@ -742,13 +747,13 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 30</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 51</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 38</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/aQKnvkg5uxwniLvUkHhae63ISc0xxLZicwU5mckOKwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjky/NjktMTI1OTUxMTU2/My5qcGVn.jpeg" alt="Cover for Seize The Day" style="max-width:120px; height:auto;" />
       </td>
@@ -766,8 +771,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5ada39af5fb3e8a7ff14fe20d08c7a3.png" alt="Cover for Krákan" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-10</td>
       <td>Eivør Pálsdóttir</td>
@@ -783,9 +789,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/7mDnrtmvyR-Zk2peTye-P4t7YJmhTTGUV2DB63Nb4Uw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI5/MTItMTI1Njg0NTUy/Mi5qcGVn.jpeg" alt="Cover for Jackson C. Frank (2001 - Remaster)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71cf4da22996eb97ffd95ab1c8cbb0cf.png" alt="Cover for Jackson C. Frank (2001 - Remaster)" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Jackson C. Frank</td>
@@ -804,9 +810,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>90</td>
       <td>
-          <img src="https://i.discogs.com/7mDnrtmvyR-Zk2peTye-P4t7YJmhTTGUV2DB63Nb4Uw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI5/MTItMTI1Njg0NTUy/Mi5qcGVn.jpeg" alt="Cover for Jackson C. Frank (2001 Remastered Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a9a06f39dc5ca0a4057a2269fa2ddd0.png" alt="Cover for Jackson C. Frank (2001 Remastered Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Jackson C. Frank</td>
@@ -828,7 +834,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9215b9747378f56012c2aafb7828a07.png" alt="Cover for Newborn" style="max-width:120px; height:auto;" />
       </td>
@@ -850,9 +856,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/_8qTRmkuS-5zVimcEucadMENFAldRT5D1Dg3eIC-s4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjc2/Ny0xMTk2Mzg3NDU1/LmpwZWc.jpeg" alt="Cover for Fortune &amp; Folly, Vol. II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec7ca95a0b46d3536911739ac6eb8fd8.png" alt="Cover for Fortune &amp; Folly, Vol. II" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Birch Book</td>
@@ -867,9 +873,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/zOBk6259v0dxUIBH9iclkkO6yzl_XtgX-jdOVgXawAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQ1/MDgtMTIxNzcwNTE2/Ny5qcGVn.jpeg" alt="Cover for Wykorzenienie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c8b96555e7fe4408f358418dc815e29.png" alt="Cover for Wykorzenienie" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-01-24</td>
       <td>Kapela ze wsi Warszawa</td>
@@ -886,7 +892,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2005-02-11</td>
@@ -954,8 +960,8 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       <td>
         <ul>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 4</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 37</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 37</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 37</li>
             <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 52</li>
             <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 55</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 71</li>
@@ -969,7 +975,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/U8sA-xyNBUyLNFeWXoQpvC_P8aT1IavCBm7nd48e4jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTY4/NzUtMTU3NDg4OTkx/OC01OTUzLmpwZWc.jpeg" alt="Cover for The Swell Season" style="max-width:120px; height:auto;" />
       </td>
@@ -989,7 +995,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/qZlPMgpRJ_gG3dO1-89gNbk15rFJIi4LbEATrcElGBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODUx/Mi0xMTc1ODE4ODI0/LmpwZWc.jpeg" alt="Cover for Let Me Go Let Me Go Let Me Go" style="max-width:120px; height:auto;" />
       </td>
@@ -1011,8 +1017,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/042bc7593471142529aa8309eea4dcf1.png" alt="Cover for The Slow Bang" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01-07</td>
       <td>Madeline</td>
@@ -1030,7 +1037,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>2007-07-17</td>
@@ -1048,9 +1055,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/-i2Ob6pEURnTay6G_xu-1O4CJxPxn7g-PAKn9KQHmo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTk3/MjEtMTMwMjYwMTQz/Mi5qcGVn.jpeg" alt="Cover for The Road To Ruin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/373af823e039dab031232d4178ce0523.png" alt="Cover for The Road To Ruin" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>John Martyn</td>
@@ -1069,26 +1076,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/xI5_equuvh-wUccFt_MTBQOQ6yfSPfZCwAqEPhvZtdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjM4/MTM5LTE1ODg1MTMw/NDgtNzE1NC5qcGVn.jpeg" alt="Cover for The Bootleg Series Vol. 4: Bob Dylan Live 1966, The &quot;Royal Albert Hall&quot; Concert" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Bob Dylan</td>
-      <td>The Bootleg Series Vol. 4: Bob Dylan Live 1966, The &quot;Royal Albert Hall&quot; Concert</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
-      <td>
-          <img src="https://i.discogs.com/UywOhX61dwaACypgX2tzOHjV5ZeCHM-4elbbYWpwL10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzI4/ODctMTQ1ODYzMjAz/NS03OTY0LmpwZWc.jpeg" alt="Cover for Laukinis Šuo Dingo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28b19960fb6e4dbcb9506ed4ef75bec1.png" alt="Cover for Laukinis Šuo Dingo" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-01-22</td>
       <td>Alina Orlova</td>
@@ -1107,7 +1097,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/G_-hlZctGVtzEOA5yT-RXkSNUX9oTICd6FOPPDCAZJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDE5/MzItMTI2MDM2ODA5/OC5qcGVn.jpeg" alt="Cover for A Crow Looked at Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1122,15 +1112,15 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 8</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 9</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
-          <img src="https://i.discogs.com/lHBUhjcBboGt1ZyEb8Xid4ODncEXtM_Ie1N7zx3-nUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg0/NzEtMTI0NDY3OTgy/NS5qcGVn.jpeg" alt="Cover for Ambivalence Avenue" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45fc50722e8e41c3bfa0c5b95c5d795a.png" alt="Cover for Ambivalence Avenue" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-22</td>
       <td>Bibio</td>
@@ -1154,9 +1144,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/FerRtUFW8NXAV2MzQlWNxsanmhFtrFnlnd7CQVGHU5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzQ1/MTEtMTI3MTQwODY2/NC5qcGVn.jpeg" alt="Cover for Ida Con Snock" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6aeff8dacfd050649dd1cec2d3882a4c.png" alt="Cover for Ida Con Snock" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11-27</td>
       <td>Michael Hurley</td>
@@ -1174,9 +1164,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>67</td>
       <td>
-          <img src="https://i.discogs.com/UlZP3DfU85u0WHAAs5E176glOXD9Sv-PVBRuFK0VFDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzA1/NDUxLTE2MTU0MTk5/MDAtNjY1MS5qcGVn.jpeg" alt="Cover for First Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8f99fd3432f4f6d945c2f52aa17bca7.png" alt="Cover for First Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Michael Hurley</td>
@@ -1198,9 +1188,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/VS6Y62R5XYbPtXP56BTvd5lQKT98_PIl_Jny9PMaGws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTc1/MTUtMTM5OTQ4NDYy/Mi03OTY0LmpwZWc.jpeg" alt="Cover for Sittin&#39; by the Road" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2cd056b5e756474d8ce722489ac4bd78.png" alt="Cover for Sittin&#39; by the Road" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Blaze Foley</td>
@@ -1223,9 +1213,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/r9erw72Cx76rrz4krRuC0W32Dj510WH2yFmBionfLSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzMy/ODYtMTI5NDIyNDQ1/My5qcGVn.jpeg" alt="Cover for The Dawg Years (1975-1978)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef9b33134cd7d2da3b3f9af6bff5fe7b.png" alt="Cover for The Dawg Years (1975-1978)" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Blaze Foley</td>
@@ -1262,8 +1252,26 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa91d7e25b194b20e06e9093f5350327.png" alt="Cover for Admiral Fell Promises" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-07-13</td>
+      <td>Sun Kil Moon</td>
+      <td>Admiral Fell Promises</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa32b619fb264aa0ad63115bc1bacefd.png" alt="Cover for Strange Tourist" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-01</td>
       <td>Gareth Liddiard</td>
@@ -1282,9 +1290,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
-          <img src="https://i.discogs.com/RwKWn6BEe25aNQocBQyaUVEjXmiYjhIRCKKgmbLOw5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTQ1/ODItMTQyNTkzMjQ2/MS0yNTY2LmpwZWc.jpeg" alt="Cover for Folksongs &amp; Ballads" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b180e31fc83a41208b191b03db8f0b47.png" alt="Cover for Folksongs &amp; Ballads" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Tia Blake</td>
@@ -1309,29 +1317,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>25</td>
       <td>
-      </td>
-      <td>2011-03-01</td>
-      <td>Giles Corey</td>
-      <td>Giles Corey</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
-            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 47</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 89</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b58984a373c449a86a7639cb5be9b5b.png" alt="Cover for The Forgiven Ghost In Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Scott Kelly and the Road Home</td>
@@ -1349,7 +1337,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>2012-02-20</td>
@@ -1367,9 +1355,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/f1y2Ei6L8JuU0BOZFS7bOLUnab9K_lz5nzGqHd8eLuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDAx/NzEtMTM0MDg3NTY2/NS03MTI3LmpwZWc.jpeg" alt="Cover for Ground Of Its Own" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37145110520b4de79e3db5d051e35b70.png" alt="Cover for Ground Of Its Own" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-02</td>
       <td>Sam Lee</td>
@@ -1386,16 +1374,15 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8820bf2adcdc48939adc4d3b38303e7b.png" alt="Cover for Jessica Pratt" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-06</td>
       <td>Jessica Pratt</td>
       <td>Jessica Pratt</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
@@ -1404,9 +1391,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/cyITz6DRDnpp_qxC5_y5br3dxLYZbd8EPaw5uAir6SI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODIx/MzAtMTM4Njc1OTkx/MC04ODUyLmpwZWc.jpeg" alt="Cover for Against The Sun" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/779676c6e0ed4ac49eadaab38dfbe7b5.png" alt="Cover for Against The Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-01</td>
       <td>Rykarda Parasol</td>
@@ -1425,8 +1412,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ba0d0e1ae435d6082f83055b6fed9ff.png" alt="Cover for Once I Was An Eagle" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-24</td>
       <td>Laura Marling</td>
@@ -1446,6 +1434,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10714e893e7c4ef4ada22b2686729eb6.png" alt="Cover for Scott Walker - The Collection 1967-1970" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-03</td>
       <td>Scott Walker</td>
@@ -1464,9 +1453,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/rbx5tjYcBp0a4uRFInzLEwr7wVvvKWCxZdzo6qgozK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODYx/NjI2LTE2NjYxNTI2/NTgtOTcxNS5qcGVn.jpeg" alt="Cover for Invisible Empire &#x2F;&#x2F; Crescent Moon (Deluxe Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/558f13e91214436e949a7f46fcd5698a.png" alt="Cover for Invisible Empire &#x2F;&#x2F; Crescent Moon (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-10</td>
       <td>KT Tunstall</td>
@@ -1484,9 +1473,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
-          <img src="https://i.discogs.com/MJDlTqRUD0EKsseELWzHnH0aLKGrTQ59JAUvIiKB5so/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzM1/MDEtMTM4MTM4OTY4/My04MzkyLmpwZWc.jpeg" alt="Cover for 0" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7494c9ce6859b64cddb71a6768bec012.png" alt="Cover for 0" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-23</td>
       <td>Ichiko Aoba</td>
@@ -1505,8 +1494,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de9c38ad3ec944d9c472356064d77ec7.png" alt="Cover for Benji" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-11</td>
       <td>Sun Kil Moon</td>
@@ -1523,7 +1513,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/wucatq5qAmiODa_hGowqexo16HgCA_6kz0AHjvO8-PE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE2/MzUxLTE1MjY2MjI1/NDgtMzg5My5qcGVn.jpeg" alt="Cover for Kanata" style="max-width:120px; height:auto;" />
       </td>
@@ -1542,16 +1532,15 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>74</td>
       <td>
-          <img src="https://i.discogs.com/qlV8raV6a-c304bl_eKPImyl353rVwls9tQraOgO6F0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NjY0/NjMtMTQzNjQ0OTk0/Mi01MTg1LmpwZWc.jpeg" alt="Cover for On Your Own Love Again" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5b992060f6edfd26f4252a3d02268da.png" alt="Cover for On Your Own Love Again" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-27</td>
       <td>Jessica Pratt</td>
       <td>On Your Own Love Again</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
@@ -1562,9 +1551,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/3wR4Ng02BPUKvgC2lfHjrL30CzK6O-jDV_MZ_xkwyFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDky/MTUtMTQyMTgxOTEw/Mi03NTY3LmpwZWc.jpeg" alt="Cover for Carrie &amp; Lowell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7568c8fa48cc4fb6cf688fe89161f8a5.png" alt="Cover for Carrie &amp; Lowell" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-31</td>
       <td>Sufjan Stevens</td>
@@ -1582,9 +1571,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>85</td>
       <td>
-          <img src="https://i.discogs.com/RK8MqCsFclG3jXNWw706IzDfWjGp5dodM-CIn-SWj-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Mjgz/NTktMTQyOTcxNTkx/MC0yMDU0LmpwZWc.jpeg" alt="Cover for Alabursy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86d12a5257ef5e53625f8c769587781d.png" alt="Cover for Alabursy" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-15</td>
       <td>Daniel Norgren</td>
@@ -1602,7 +1591,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/iqrYELHkphlexqbhU-0MpDFD5z6o6wZbdHuME1TqBvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzM5/MDYtMTU4ODM1NjUx/Ni0zNzA0LnBuZw.jpeg" alt="Cover for The Bell That Never Rang" style="max-width:120px; height:auto;" />
       </td>
@@ -1620,9 +1609,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/qP4a6nMMu5q1m7TG2xSxXKO9UGKZmEg-mmb1oLYG-5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODk4/MjEtMTQzMTEzMDYw/Ni04OTAyLmpwZWc.jpeg" alt="Cover for Songs from Suicide Bridge" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1aaaa4a6cb0c0e1bdd3d3d1e42f59676.png" alt="Cover for Songs from Suicide Bridge" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-12</td>
       <td>David Kauffman</td>
@@ -1640,9 +1629,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>82</td>
       <td>
-          <img src="https://i.discogs.com/41daLlNTGwFlSZm7PC2uODANhtrQtOXr9FLrS8Nn4Fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzQ2/NTktMTQ0NzE5NTcw/NC0yMTI0LmpwZWc.jpeg" alt="Cover for Dark Bird Is Home" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb53e4a589dfde106ddffeb6edde9194.png" alt="Cover for Dark Bird Is Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-12</td>
       <td>The Tallest Man on Earth</td>
@@ -1658,7 +1647,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/94ccffdb66aca8e18460ba1e93c79401.png" alt="Cover for Universal Themes" style="max-width:120px; height:auto;" />
       </td>
@@ -1679,7 +1668,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/kUs8Zu6YbNssf1AItJu1quvtEuv8Of8cefBgvTjB5_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjYz/MjktMTMwNDcwMDEw/MS5qcGVn.jpeg" alt="Cover for Simple Songs of Freedom: the Tim Hardin Collection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/675f73c2b5c29f682b6cab66e4db1474.png" alt="Cover for Simple Songs of Freedom: the Tim Hardin Collection" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Tim Hardin</td>
@@ -1697,9 +1686,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
-          <img src="https://i.discogs.com/fEh7C5DMPIOwPbsVxAGaUAclMsJSceQZP5xfTloTJQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY5/MzU0LTE1Mzg0MDU0/MjQtMTA4Ni5qcGVn.jpeg" alt="Cover for Colter Wall" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6baa524578479e33a69c7cff6205e0f.png" alt="Cover for Colter Wall" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-12</td>
       <td>Colter Wall</td>
@@ -1715,15 +1704,15 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 80</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 81</li>
             <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/lFvsaMGNhegnE9QaCbnqLVT9jpe0Gx9fJQnYdT2tirM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzcz/NDEzLTE0OTYxOTU4/OTEtMTM0NS5qcGVn.jpeg" alt="Cover for The Following Mountain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2d6446d31ab07cd0cebeadae20cc2fd.png" alt="Cover for The Following Mountain" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-26</td>
       <td>Sam Amidon</td>
@@ -1740,7 +1729,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/lycD9OuVt8eYdweckHVeLL95YPgcpaK9uc10AYVwEz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODIz/MDEwLTE1MDY2MTk5/NTgtNDc3Ni5qcGVn.jpeg" alt="Cover for Music For People In Trouble" style="max-width:120px; height:auto;" />
       </td>
@@ -1759,9 +1748,27 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/G75AquZYwODdzPAzuNWbTJdupjnDx-oQqhTN_Vq_P9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ5/MzQyLTE1NjI2MTI4/NDktNjkxMC5qcGVn.jpeg" alt="Cover for Down in Dublin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83ca4c1dbbc856cf61cb73f0a4078dc1.png" alt="Cover for Phases" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-11-10</td>
+      <td>Angel Olsen</td>
+      <td>Phases</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae5822b9f7784abda289c885041d765c.png" alt="Cover for Down in Dublin" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Michael Hurley</td>
@@ -1781,9 +1788,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/EXS5fDHOfAibhMOA87czcHyZ-HwXlUHLrPFKszJPHmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjM3/MTE4LTE2NDg5MTk1/NDUtNzk3OC5qcGVn.jpeg" alt="Cover for Songs of the Plains" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/276abf968a3263976563c6f2d7314670.png" alt="Cover for Songs of the Plains" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-12</td>
       <td>Colter Wall</td>
@@ -1799,14 +1806,14 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 5</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 8</li>
             <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 92</li>
             <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bb57d7923c2844ab7b0ace52c4f7119.png" alt="Cover for qp" style="max-width:120px; height:auto;" />
       </td>
@@ -1827,9 +1834,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/oRo2Jqs2jJl4DlOfgwq5Y0Ib2O54bZd5q5HHT_9I3SI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTg5/Mzk3LTE1NDk2Mzk3/NTgtNTQwNy5qcGVn.jpeg" alt="Cover for Quiet Signs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7be44d84ca765a71e9648e39fb9cd6f.png" alt="Cover for Quiet Signs" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-08</td>
       <td>Jessica Pratt</td>
@@ -1841,14 +1848,14 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 11</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/iaSucULymnn28KLBwH0_cCvLZiu535EWunkRbtV0Ur8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDgz/NDU2LTE1NTkwNDYz/OTgtNDI0OS5qcGVn.jpeg" alt="Cover for Designer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0453ad71988a95402cd6495dd0630587.png" alt="Cover for Designer" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-26</td>
       <td>Aldous Harding</td>
@@ -1864,7 +1871,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3e243011a13bc9a6b6b433d9a3c2090.png" alt="Cover for ballerini" style="max-width:120px; height:auto;" />
       </td>
@@ -1886,7 +1893,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/MCk_QZ4xzcgjj4l0bn4wYny-YYEeeOAEX6BTuWBR4zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY4/MTkxLTE1OTM3NzYy/NDQtNTk3Ny5qcGVn.jpeg" alt="Cover for The Faintest Hint" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efe1eb3ac7a5c181a5b24279cf8f3675.png" alt="Cover for The Faintest Hint" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-03</td>
       <td>Ai Aso</td>
@@ -1903,9 +1910,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/KOQuNz7cu3vIE3FZwJJ-gvcIAEiVGQIxdzCH758zX84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjA0/NzY5LTE1OTQ0MDAy/NzItMzEzNi5qcGVn.jpeg" alt="Cover for Eight Gates" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c37609bf66f9c82239d1fc4191af8ec.png" alt="Cover for Eight Gates" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-08</td>
       <td>Jason Molina</td>
@@ -1944,9 +1951,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>72</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bda1fe1948b1afab36686c743a65b232.png" alt="Cover for Chemtrails Over the Country Club" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4f81460440ee620da5906ad28be0f6d.png" alt="Cover for Chemtrails Over the Country Club" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-19</td>
       <td>Lana Del Rey</td>
@@ -1960,7 +1967,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       <td>
         <ul>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 47</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 52</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 63</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 92</li>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 97</li>
         </ul>
@@ -1969,7 +1976,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/p5R_cd5m589QEjrExGukg-HLl9SeqPjb_7tR3C1VDPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTIy/NjQ5LTE2MTk3Njg4/MzItOTIzNC5qcGVn.jpeg" alt="Cover for Guitar Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/951a8387b598c0bbe4aa53b3627c0f35.png" alt="Cover for Guitar Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-02</td>
       <td>Billie Eilish</td>
@@ -1987,17 +1994,15 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/7QZrPxV37oKEECEeOoFmJQQPRnvKs8Ug6ThJWVZ6iBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjgz/NDA1LTE2MzQ4ODgw/MjEtODExMy5qcGVn.jpeg" alt="Cover for Shade" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/852432add16d5b8ebee29e5056c6ce8b.png" alt="Cover for Shade" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-10-22</td>
       <td>Grouper</td>
       <td>Shade</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
         </ul>
       </td>
       <td>
@@ -2006,28 +2011,27 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/5UgSxpwWO9c2r0jhkuRcZF7VT3wdk9uBp4vpScuSiOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjY3/ODQxLTE2MzkwMDA0/MDYtMTI4OS5qcGVn.jpeg" alt="Cover for Windswept Adan" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6efb42262bfc472019a0ee886a9edecc.png" alt="Cover for Good Riddance" style="max-width:120px; height:auto;" />
       </td>
-      <td>2021-11-19</td>
-      <td>Ichiko Aoba</td>
-      <td>Windswept Adan</td>
+      <td>2023-02-24</td>
+      <td>Gracie Abrams</td>
+      <td>Good Riddance</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 99</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/ESUM-BNhYkqmoL1gXTBI2XAjThuk0JdE45SCVklpZ3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njc2/Mzk4LTE2ODA4NTU3/MzItMjA1OC5qcGVn.jpeg" alt="Cover for Ichiko Aoba with 12 Ensemble (Live at Milton Court)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bd73480450b609d03af5f0ecea37ea9.png" alt="Cover for Ichiko Aoba with 12 Ensemble (Live at Milton Court)" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-31</td>
       <td>Ichiko Aoba</td>
@@ -2047,7 +2051,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/ZeRxzKoZVWQTXvbc4vpaf7eGU3zt8ChDuHp7uYJhWLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQ2/NDUzLTE2ODIxODMz/MTYtNTA2MS5qcGVn.jpeg" alt="Cover for Cadence" style="max-width:120px; height:auto;" />
       </td>
@@ -2068,7 +2072,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/syftrT-xZzobMuRLkqgf_MtshK_AsBBspGEnc4aC91M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA1MDMy/NTEtOTQyNS5qcGVn.jpeg" alt="Cover for Bright Future" style="max-width:120px; height:auto;" />
       </td>
@@ -2086,33 +2090,29 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/ju3WGu1OvM0l6EuIh5rPzR5s7pKMKOA99xy3ym8qMyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTY0/NDYzLTE3MTQ2NjU3/ODUtNTQxNy5qcGVn.jpeg" alt="Cover for Here In The Pitch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f69480fee2359e865a1857dd87bb288.png" alt="Cover for Here In The Pitch" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-03</td>
       <td>Jessica Pratt</td>
       <td>Here In The Pitch</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 55</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 66</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 67</li>
             <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/091bd004d75491e76ca8a0c3e345091e.png" alt="Cover for Borrowed Tongue" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Minhwi Lee</td>
@@ -2129,12 +2129,12 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 1</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -2151,7 +2151,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>86</td>
       <td>
       </td>
       <td></td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:21:00.688Z
+date: 2025-11-13T06:23:41.576Z
 permalink: tags/trip-hop
 title: trip-hop
 ---
 
 ## trip-hop
 
-Last updated: <time datetime="2025-11-11T04:21:00.688Z">Tue Nov 11 2025 06:21:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T06:23:41.576Z">Thu Nov 13 2025 08:23:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -120,7 +120,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10815a6149bc50fee04abbca6afe616c.png" alt="Cover for Do You Like My Tight Sweater?" style="max-width:120px; height:auto;" />
       </td>
@@ -139,30 +139,13 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8e6db9877f9438eab4e833e234cf789.png" alt="Cover for A New Stereophonic Sound Spectacular" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Hooverphonic</td>
       <td>A New Stereophonic Sound Spectacular</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93e625af62a34e1a81fd9afac9320b6f.png" alt="Cover for Who Can You Trust?" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996-04-08</td>
-      <td>Morcheeba</td>
-      <td>Who Can You Trust?</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
@@ -207,7 +190,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 9</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 22</li>
             <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 39</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 88</li>
             <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 94</li>
@@ -233,7 +216,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3209f997622444b6a5784223fe6a8ffa.png" alt="Cover for Pre-Millennium Tension" style="max-width:120px; height:auto;" />
       </td>
@@ -252,7 +235,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/MYZ7frOaPAL2020EoRAg5LOzKYdA031S81S_Kcp23Lo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjAy/LTEyNTE4MzQwNTEu/anBlZw.jpeg" alt="Cover for Pre-Millenium Tension" style="max-width:120px; height:auto;" />
       </td>
@@ -287,8 +270,8 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 54</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 75</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 59</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -311,7 +294,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e36ae9b48e382e4b91e851ebb217535f.png" alt="Cover for A Grand Love Story" style="max-width:120px; height:auto;" />
       </td>
@@ -327,8 +310,8 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 44</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 74</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 50</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -363,7 +346,8 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 31</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 3</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -382,6 +366,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -424,7 +409,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/624a1e343ef845059bfa9a7ad4c95bd0.png" alt="Cover for I Am Not a Doctor" style="max-width:120px; height:auto;" />
       </td>
@@ -479,7 +464,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfc9168a4f474ed098d01677e6fd65ad.png" alt="Cover for Take My Head" style="max-width:120px; height:auto;" />
       </td>
@@ -498,7 +483,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/ig8s1xHNWG1_KnTHrCUVhaK848GhVfqAlD81HQ-DBqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODUt/MTIzMTEwODIxNy5q/cGVn.jpeg" alt="Cover for Fear Of Fours" style="max-width:120px; height:auto;" />
       </td>
@@ -534,7 +519,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2000</td>
@@ -586,12 +571,12 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 52</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
       </td>
       <td>2000-02-21</td>
@@ -627,7 +612,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       <td>
         <ul>
             <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 5</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 8</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -647,13 +632,13 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 55</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 95</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 61</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/091e602cc4c947f3c739237c4b1ce67d.png" alt="Cover for The Mirror Conspiracy" style="max-width:120px; height:auto;" />
       </td>
@@ -670,13 +655,13 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       <td>
         <ul>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 1</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 35</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 84</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 40</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecdfa526d2b27698d8773c26664e1b78.png" alt="Cover for The Magnificent Tree" style="max-width:120px; height:auto;" />
       </td>
@@ -689,11 +674,12 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecf57990ef4dfffe8c36d15cec7820ba.png" alt="Cover for Felt Mountain" style="max-width:120px; height:auto;" />
       </td>
@@ -706,13 +692,11 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 4</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/741dcae3d0584851ab881c90fbd5d098.png" alt="Cover for Jaku" style="max-width:120px; height:auto;" />
       </td>
@@ -749,7 +733,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2071513bc23073a84bbfe3a7b28f36d9.png" alt="Cover for Genetic World" style="max-width:120px; height:auto;" />
       </td>
@@ -766,13 +750,13 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 66</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 68</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 71</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/487131c63dafa5ca8c8d4cdf7e490c7a.png" alt="Cover for Gorillaz" style="max-width:120px; height:auto;" />
       </td>
@@ -787,13 +771,13 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 89</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 88</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a28dbd31f5194e16816122f644654997.png" alt="Cover for Blowback" style="max-width:120px; height:auto;" />
       </td>
@@ -812,7 +796,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d6bd3921021452b8892dd626fb303ca.png" alt="Cover for Resist" style="max-width:120px; height:auto;" />
       </td>
@@ -827,12 +811,12 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 12</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0edb99f2e63409680cc8b8f63696cea.png" alt="Cover for What Sound" style="max-width:120px; height:auto;" />
       </td>
@@ -849,7 +833,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0abe5d2198be3e3ec336aed2e639febe.png" alt="Cover for G-Sides" style="max-width:120px; height:auto;" />
       </td>
@@ -922,12 +906,12 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 27</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/219891d6df4a4aa8a3ad23851a09e945.png" alt="Cover for Fast Asleep" style="max-width:120px; height:auto;" />
       </td>
@@ -942,13 +926,14 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 5</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2f62b3d575823ce106889382dbb3b67.png" alt="Cover for Out of Season" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-10-28</td>
       <td>Beth Gibbons &amp; Rustin Man</td>
@@ -961,7 +946,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 3</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -984,7 +969,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2724280d850476bb1d30cc5d5103850.png" alt="Cover for Something Wrong" style="max-width:120px; height:auto;" />
       </td>
@@ -1021,13 +1006,31 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 59</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 64</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ed5484065afb7b847e2db5ce3dc07e4.png" alt="Cover for Vulnerable" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-05-19</td>
+      <td>Tricky</td>
+      <td>Vulnerable</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b082712ed8bb45f1c53c02e17bd96c04.png" alt="Cover for Dial &#39;M&#39; for Monkey" style="max-width:120px; height:auto;" />
       </td>
@@ -1041,7 +1044,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 92</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1066,7 +1069,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f37f4e45f14420458d039a85eab5157f.png" alt="Cover for Kokopelli" style="max-width:120px; height:auto;" />
       </td>
@@ -1115,11 +1118,12 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d85e850db2b4c28cc193574ab9d01fd.png" alt="Cover for Music By Cavelight" style="max-width:120px; height:auto;" />
       </td>
@@ -1134,12 +1138,12 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 79</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/465a6bbb9c1247819c6e0f221b62aeb3.png" alt="Cover for Babylon Rewound" style="max-width:120px; height:auto;" />
       </td>
@@ -1156,7 +1160,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 24</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1178,12 +1182,30 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 32</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2005-03-22</td>
+      <td>Gorillaz</td>
+      <td>Feel Good Inc</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cf2383ce65564754b2a8bd13f2fd5cd.png" alt="Cover for Silent Treatment" style="max-width:120px; height:auto;" />
       </td>
@@ -1201,7 +1223,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7dd8278d8df9408dac8422c14f160ad7.png" alt="Cover for Downtown Science" style="max-width:120px; height:auto;" />
       </td>
@@ -1217,12 +1239,12 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 22</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2005-10-21</td>
@@ -1236,7 +1258,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 39</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1258,7 +1280,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3498a73a6623402dc00e805a49cec3de.png" alt="Cover for In A Space Outta Sound" style="max-width:120px; height:auto;" />
       </td>
@@ -1274,8 +1296,8 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 77</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 89</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 81</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1294,12 +1316,12 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 23</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
       </td>
       <td>2006-05-23</td>
@@ -1316,7 +1338,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/41a19ee3a83c46a3becca1fa2c92a6a4.png" alt="Cover for Ganglion" style="max-width:120px; height:auto;" />
       </td>
@@ -1335,7 +1357,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ae6976eaaff48878f635c05a0774a55.png" alt="Cover for Catalogue" style="max-width:120px; height:auto;" />
       </td>
@@ -1355,25 +1377,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbf0a48a76c1440bc47d4d72aa2a6e8f.png" alt="Cover for Dark Night of the Soul" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Danger Mouse</td>
-      <td>Dark Night of the Soul</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/45b22ad119944e69ce0fa309b7902710.png" alt="Cover for The Blue God" style="max-width:120px; height:auto;" />
       </td>
@@ -1385,6 +1389,25 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
             <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
             <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 8</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbf0a48a76c1440bc47d4d72aa2a6e8f.png" alt="Cover for Dark Night of the Soul" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Danger Mouse</td>
+      <td>Dark Night of the Soul</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
       <td>
@@ -1411,7 +1434,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/854a3b09e1a649c28fcb626502b9e27d.png" alt="Cover for Personal Stereo" style="max-width:120px; height:auto;" />
       </td>
@@ -1426,7 +1449,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 19</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1450,7 +1473,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1ca96e045084bd4b8956825d228343b.png" alt="Cover for Stateless" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,7 +1492,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2dd26884a4d843e9c3f4f311d6ba40b3.png" alt="Cover for The Antidote" style="max-width:120px; height:auto;" />
       </td>
@@ -1504,7 +1527,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be01c032f58e6b643d33275f64b7d263.png" alt="Cover for Seventh Tree" style="max-width:120px; height:auto;" />
       </td>
@@ -1517,7 +1540,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 17</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1553,13 +1576,12 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 25</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 81</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a90d783e31e74610c61fb9d26090a28e.png" alt="Cover for Splitting the Atom" style="max-width:120px; height:auto;" />
       </td>
@@ -1577,7 +1599,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>2009-09</td>
@@ -1594,7 +1616,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a716f69c36474a84b8788df11da77650.png" alt="Cover for safe in the steep cliffs" style="max-width:120px; height:auto;" />
       </td>
@@ -1608,7 +1630,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 88</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1670,7 +1692,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1e96f217c4c4d15a6d00fff66e21226.png" alt="Cover for How Do You Do" style="max-width:120px; height:auto;" />
       </td>
@@ -1712,9 +1734,9 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       <td>
         <ul>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 60</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 71</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 81</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 89</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 73</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 82</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 92</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 99</li>
         </ul>
       </td>
@@ -1742,7 +1764,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
       </td>
       <td>2012-02-11</td>
@@ -1778,7 +1800,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/74deae6b70374a79ca2c1d39d4c8ad8e.png" alt="Cover for Tales of Us" style="max-width:120px; height:auto;" />
       </td>
@@ -1796,7 +1818,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       <td>
         <ul>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 33</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 42</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1819,30 +1841,6 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>26</td>
-      <td>
-      </td>
-      <td>2014-01-17</td>
-      <td>Warpaint</td>
-      <td>Warpaint</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 30</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 45</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 54</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c66345183fc6af02b42bf1ad9fd0668.png" alt="Cover for Voices" style="max-width:120px; height:auto;" />
@@ -1859,14 +1857,14 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 12</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/_0HjMrOzNb1qH49W34K8f7BgoikRGk1GGG-7zheWaZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDQ2/MzItMTQ0MDc5MDM0/My04NTQ2LmpwZWc.jpeg" alt="Cover for Honeymoon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b3d4ac5794f1fd14d96e9c7f915cb8b.png" alt="Cover for Honeymoon" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-09-17</td>
       <td>Lana Del Rey</td>
@@ -1882,8 +1880,8 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       <td>
         <ul>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 70</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 90</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 92</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1911,8 +1909,8 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 56</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 68</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 67</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 69</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 96</li>
             <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 98</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 100</li>
@@ -1922,7 +1920,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0a90155ce0521d95e61fb8304da51d7.png" alt="Cover for Filoxiny" style="max-width:120px; height:auto;" />
       </td>
@@ -1937,12 +1935,12 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 48</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/PSpiqCzzB2jOW5hC27pNnAF34Fm5oDC_uqlqQJR5Qag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDc0/NDg5LTE1NjY0MDcw/OTgtODIxMy5qcGVn.jpeg" alt="Cover for Starburster" style="max-width:120px; height:auto;" />
       </td>
@@ -1959,8 +1957,8 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 79</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 79</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 80</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 95</li>
         </ul>
       </td>
@@ -1983,7 +1981,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 64</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 65</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 94</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 98</li>
         </ul>
@@ -2006,7 +2004,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 9</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 20</li>
         </ul>
       </td>
     </tr>
