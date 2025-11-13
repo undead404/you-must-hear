@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:42:16.705Z
+date: 2025-11-13T06:33:25.936Z
 permalink: tags/alternative-folk
 title: alternative folk
 ---
 
 ## alternative folk
 
-Last updated: <time datetime="2025-11-11T04:42:16.705Z">Tue Nov 11 2025 06:42:16 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T06:33:25.936Z">Thu Nov 13 2025 08:33:25 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -87,7 +87,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/WHbsZuI1n0ouQcgVopY5cW9wv2FPiy2ViysH_Cocgv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjA5/OTMtMTU5MDgzODAw/MC03MTk0LmpwZWc.jpeg" alt="Cover for Engine" style="max-width:120px; height:auto;" />
       </td>
@@ -105,14 +105,33 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 26</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 27</li>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df10a8fd134c15bc383db73dba757d38.png" alt="Cover for Not a Pretty Girl" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-07-01</td>
+      <td>Ani DiFranco</td>
+      <td>Not a Pretty Girl</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6df29902d011d203e26f31b28eaa789b.png" alt="Cover for Luuta ja nahkaa" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Tuomari Nurmio</td>
@@ -151,6 +170,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7152b511dda34699999f3248778e9b9a.png" alt="Cover for Red Apple Falls" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-05-20</td>
       <td>Smog</td>
@@ -165,9 +185,9 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 2</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 54</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 59</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 56</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 58</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 61</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 64</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 98</li>
@@ -217,7 +237,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/aDIqfD_CB9PIe9wsTU5-627GpcNXV694slllEPB_aeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ2/LTE2MDQyNzM5OTQt/MTk0OS5qcGVn.jpeg" alt="Cover for Thank You" style="max-width:120px; height:auto;" />
       </td>
@@ -268,7 +288,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/KItehpguXGqwV-d1bNGsrKahG_Zo0TOLFES5HvaWMEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTg3/NTU4LTE2MDg2NTc1/NTYtOTE2My5qcGVn.jpeg" alt="Cover for Goodbye Different Oceans" style="max-width:120px; height:auto;" />
       </td>
@@ -302,8 +322,8 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       <td>
         <ul>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 21</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 26</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 55</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 27</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 56</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 62</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 65</li>
         </ul>
@@ -338,6 +358,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
     <tr>
       <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f10a5832aebcce184e89c742ff7f541.png" alt="Cover for 廃墟と楽園" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-24</td>
       <td>志方あきこ</td>
@@ -356,7 +377,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       <td>
         <ul>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 18</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 20</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 21</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 35</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 60</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 69</li>
@@ -396,18 +417,19 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 8</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 40</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 10</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 41</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 54</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 61</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 63</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 67</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/512c58c0859b3bdefc05a510d31cb62d.png" alt="Cover for Goodnight Nobody" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-07</td>
       <td>Julie Doiron</td>
@@ -439,17 +461,17 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       <td>
         <ul>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 19</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 60</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 68</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 62</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 69</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 73</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>65</td>
       <td>
-          <img src="https://i.discogs.com/mok1bCKAbF1D4Z2SflN0yF6r2SQDvmPuBkoQCvGh8jU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzky/ODctMTY4Mzg2OTI4/OC0yNDM0LmpwZWc.jpeg" alt="Cover for Gulag Orkestar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d60ccb0abc0b4adeca8964e59981760b.png" alt="Cover for Gulag Orkestar" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Beirut</td>
@@ -462,7 +484,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       <td>
         <ul>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 62</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 82</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 76</li>
             <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 91</li>
             <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 93</li>
         </ul>
@@ -491,7 +513,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 10</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -523,7 +545,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/TOIDAIDdioyKNE7gIMtMUzJxKdSotICBWHGl62SlwPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzcy/MDM0LTE1OTc1MDk1/MzAtMzczMS5qcGVn.jpeg" alt="Cover for Where You Been So Long" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6897f530be362319861203e4ae22db76.png" alt="Cover for Where You Been So Long" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Tangleweed</td>
@@ -548,7 +570,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/cSJ08LI5O723IP-epZPW_o9E9zZ2jAMGFnKVxvNuxhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU2/ODAzLTE1ODc0MDg1/NTgtMTYzNC5qcGVn.jpeg" alt="Cover for Why are you still here?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e15ad18eaa745d2ba5931753607a5d2.png" alt="Cover for Why are you still here?" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Emma Forman</td>
@@ -579,7 +601,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/noEmI1q8GnOcrvbB_bZcz0QcMwZ-6YtAAd61XvL_K9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc2/MzItMTIwOTk2Nzk4/NS5qcGVn.jpeg" alt="Cover for Hapless" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b297f5aa4dbf441a842b605f7cfa23d1.png" alt="Cover for Hapless" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-19</td>
       <td>Flowers From the Man Who Shot Your Cousin</td>
@@ -609,8 +631,9 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca68061c9c584883b79811bb01ba600f.png" alt="Cover for Comments of the Inner Chorus" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-05-22</td>
       <td>Tunng</td>
@@ -622,7 +645,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 24</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 25</li>
             <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 35</li>
         </ul>
       </td>
@@ -655,13 +678,14 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 31</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73b5e1e50171c27c6efe1778837c375b.png" alt="Cover for Let Me Go, Let Me Go, Let Me Go" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-08-22</td>
       <td>Jason Molina</td>
@@ -672,7 +696,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 47</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 49</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 54</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 58</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 61</li>
@@ -683,6 +707,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50205cac72229726303253e3809dfdf7.png" alt="Cover for And Now That I&#39;m In Your Shadow" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-10</td>
       <td>Damien Jurado</td>
@@ -711,8 +736,8 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 43</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 45</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 45</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 46</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 55</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 58</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 96</li>
@@ -720,9 +745,9 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
-          <img src="https://i.discogs.com/6P_VzTdnunEEbZP2pLtqXrOiA8PZZlaGRmvlT639ew0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTI0/Mi0xMTY3MzkyNTE1/LmpwZWc.jpeg" alt="Cover for The Unsung Colony" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ef4081e35cdb357334f1dbae22c6af7.png" alt="Cover for The Unsung Colony" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-24</td>
       <td>Norfolk &amp; Western</td>
@@ -751,9 +776,9 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 2</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 4</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 20</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 30</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 31</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 33</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 37</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 74</li>
@@ -820,14 +845,14 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
         <ul>
             <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 12</li>
             <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 52</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 70</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/IxZs1W-fmsgrm1_DhIp8H6h6YIHb1xGNfiS1EVfShns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU0/MjktMTYxMjIxNTQx/MS05NDEzLmpwZWc.jpeg" alt="Cover for I See a Darkness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79bd22e03e8f46bebd3a5b07d6605030.png" alt="Cover for I See a Darkness" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Bonnie &#39;Prince&#39; Billy</td>
@@ -840,20 +865,20 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 21</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 24</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 44</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 24</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 28</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 45</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 56</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 74</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 79</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 81</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
-          <img src="https://i.discogs.com/F7Lp6kzwrySfdiArzPiQCmsrKGHuZX_MCeRnPif_Yqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkw/NzM4LTE1MDk2OTA4/NjUtMjUwMC5qcGVn.jpeg" alt="Cover for Pink In The Sink" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ecc50497e776e6acaef97afb1af83e1.png" alt="Cover for Pink In The Sink" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-12</td>
       <td>Novi Split</td>
@@ -877,7 +902,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/cfDIbUQpZErwBSy13-tN62ndEbAQ5Os8CBKvK8Y3fj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjQ4/Ny0xMTc1NTE1MDgy/LmpwZWc.jpeg" alt="Cover for Chapel Hill" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0090c6f5d154214939404ae5a9efeef.png" alt="Cover for Chapel Hill" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-14</td>
       <td>My Broken Frame</td>
@@ -923,11 +948,11 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 2</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 1</li>
             <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 19</li>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 30</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 31</li>
             <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 51</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 64</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 65</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 74</li>
             <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 81</li>
             <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 85</li>
@@ -937,7 +962,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/nysi9L0DHMqSNb5rwzNvRJPiVGmwZ4pnSrubgltYv9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODgz/Ni0xMTgyNDQ1NzQ3/LmpwZWc.jpeg" alt="Cover for How the way is long..." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc6b629b0c934f88b2d2c40c17847387.png" alt="Cover for How the way is long..." style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06-30</td>
       <td>El Boy Die</td>
@@ -961,8 +986,9 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e4ca07e3351e883215a32deb325607d.png" alt="Cover for Orgamilk" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-07-05</td>
       <td>Fresh Body Shop</td>
@@ -990,14 +1016,14 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 31</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 35</li>
             <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 39</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 41</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 40</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 59</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 62</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
       </td>
       <td>2007-08-06</td>
@@ -1077,10 +1103,10 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 9</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 15</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 16</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 18</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 29</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 45</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 46</li>
             <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 70</li>
         </ul>
       </td>
@@ -1088,7 +1114,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/5IKMA9q2eXznSyJFWCzuyowL6JFga1o1bYLEcvWGxp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIx/MTMtMTI4ODEyNjc2/OS5qcGVn.jpeg" alt="Cover for Transfiguration of Vincent" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d7c74824284475ec715750d0e207105.png" alt="Cover for Transfiguration of Vincent" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>M. Ward</td>
@@ -1096,15 +1122,14 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 13</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 36</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 39</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 41</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 40</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 43</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 46</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 50</li>
         </ul>
@@ -1113,6 +1138,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f8ad0f3c39e40218303399a015f379e.png" alt="Cover for Cancer And Delirium" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>J. Tillman</td>
@@ -1141,9 +1167,9 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 27</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 31</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 64</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 66</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 68</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 70</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 71</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 99</li>
@@ -1153,7 +1179,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/uUxblfD3-fKQNcAi1_fDf_pYfn9MwaG1xSKB23AN3ZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzc4/NzQtMTIyNjg4NTc4/OS5qcGVn.jpeg" alt="Cover for EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1321750217dcbfad13660d25304d4a68.png" alt="Cover for EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Broken Records</td>
@@ -1173,6 +1199,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/992e316750ff9ba0619d37e16b2e1c96.png" alt="Cover for 東京では少女歌手なんて" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04-13</td>
       <td>三村京子</td>
@@ -1191,8 +1218,9 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8e42d90382cccaba6c5a896a62c1106.png" alt="Cover for Big Blood &amp; the Bleedin&#39; Hearts" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-25</td>
       <td>Big Blood</td>
@@ -1210,7 +1238,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Folks Pop In at the Waterhouse" style="max-width:120px; height:auto;" />
       </td>
@@ -1302,7 +1330,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 64</li>
             <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 66</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 66</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 74</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 73</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 75</li>
         </ul>
       </td>
@@ -1310,7 +1338,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/5vErm23l-PbjkPSTMToTskJDm9_KNmP4H-OwGp1TB5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTM1/MTAtMTQ5Mjg3Nzk5/Ny03MzQzLmpwZWc.jpeg" alt="Cover for Black Heart, Blue Eyes EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/69c0d2ada9806951e694f8cf6057dbca.png" alt="Cover for Black Heart, Blue Eyes EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-08</td>
       <td>Tigers That Talked</td>
@@ -1469,6 +1497,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f8895b45eb14192a02921e3e2ac3a0a.png" alt="Cover for Istoria~Kalliope~" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-31</td>
       <td>志方あきこ</td>
@@ -1579,7 +1608,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>2014-01-01</td>
@@ -1597,9 +1626,9 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
-          <img src="https://i.discogs.com/naDLJcqlHSh624GfdbfZyzPUbWoP1hGfWv7azn6_9zA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjEz/OC0xMDg1ODU0MDM4/LmpwZw.jpeg" alt="Cover for Sleep Has Its house" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68c11974e24c4fbca6f762c3c4e17764.png" alt="Cover for Sleep Has Its house" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-03</td>
       <td>Current 93</td>
@@ -1621,7 +1650,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
         <ul>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 9</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 37</li>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 67</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 68</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 79</li>
             <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 82</li>
         </ul>
@@ -1637,8 +1666,6 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       <td>July</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
         </ul>
       </td>
       <td>
@@ -1650,8 +1677,9 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67122a1ae8914fb9cf95c329b849131b.png" alt="Cover for Uncharted Lands" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-26</td>
       <td>Pyrates!</td>
@@ -1669,7 +1697,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/798dvDUHOrDgdGSouvwUYiH5L5HfAfieWeVWyEk0i9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTUy/NzUtMTU1MTgxNDIz/OC03NDc0LmpwZWc.jpeg" alt="Cover for Over And Even" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,7 +1718,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0a4477f9ac6d9abd735fc4805af7ec9.png" alt="Cover for Play One We All Know, Vol. II" style="max-width:120px; height:auto;" />
       </td>
@@ -1707,9 +1735,9 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/yI5Y-EKiUZ1DyuvP5dJ4z6NJYTDsHmW3QeJfFuYGAO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTIy/MTMtMTQ2MzEwNTkx/OC00OTM3LmpwZWc.jpeg" alt="Cover for 209" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/287c2219723d42a6d5a7dffe52792f1c.png" alt="Cover for 209" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-05-11</td>
       <td>Sandtimer</td>
@@ -1730,7 +1758,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/3Ht_7ndDJf4vb2l1pPykpZBu_qYbFKKtycsJWPVH_Lk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTM2/NjAtMTQ3MTM1NTc0/Ny0yMjQwLmpwZWc.jpeg" alt="Cover for The Baby Panda" style="max-width:120px; height:auto;" />
       </td>
@@ -1761,14 +1789,14 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       <td>
         <ul>
             <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 32</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 57</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 59</li>
             <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 63</li>
             <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64f503ca87ba199fb49e2a2e29ca4bf6.png" alt="Cover for The Visitor" style="max-width:120px; height:auto;" />
       </td>
@@ -1806,7 +1834,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/XzmNxisPM-PmDJUSZrYxU2l_XsMNzV1nR1BGNdwcqW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzE4LTE1NzYwMjg5/MjUtNzgzNy5qcGVn.jpeg" alt="Cover for Hazard &amp; Fate" style="max-width:120px; height:auto;" />
       </td>
@@ -1849,7 +1877,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/p7iZnu9MVpbmXVjQFtfI_hyWL6zL-PpDOn0HIUOOEdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU5/ODI1LTE1MDkxMDk2/MDUtMTUzMS5qcGVn.jpeg" alt="Cover for II. Providence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b358503fc4501c3a90b0ab5ee4cf727.png" alt="Cover for II. Providence" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-01</td>
       <td>American Murder Song</td>
@@ -1891,7 +1919,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/8dXii0yc3tkukF_MMTIJ5lnET0dnnvJ9GrM4yHQ3UZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc5/NDgzLTE1NDE4MDY3/NzItNTMzMS5qcGVn.jpeg" alt="Cover for Varsovie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f240ea7a81564be09910a6a956d01449.png" alt="Cover for Varsovie" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-09</td>
       <td>Saez</td>
@@ -1929,9 +1957,9 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/5Nllo1Y8oSmOVF7XokNqxlxv09jIo-rujmzMpJh2S9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDc2/MTk1LTE2MTM2NjYy/ODQtNzgxNi5qcGVn.jpeg" alt="Cover for everything is on hold" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4239f1a47ac38e7696a27d2f503f3104.png" alt="Cover for everything is on hold" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-08-08</td>
       <td>Sandtimer</td>
@@ -1969,7 +1997,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92c75b773ed0670fa567d9a873964b88.png" alt="Cover for Waterways" style="max-width:120px; height:auto;" />
       </td>
@@ -2036,9 +2064,9 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
-          <img src="https://i.discogs.com/ZuDDpUglGYrirj114yah-trnwmAsdNTCOx0SuU-fKqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDUx/NzE4LTE2MzczOTc1/NjQtNTY1OS5qcGVn.jpeg" alt="Cover for Echo Echo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2384d9f982982d02ed48525ecf96c0e.png" alt="Cover for Echo Echo" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03-13</td>
       <td>IAMX</td>
@@ -2060,7 +2088,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 12</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 13</li>
             <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 38</li>
             <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 47</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 53</li>
@@ -2143,7 +2171,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/2gcW4Ci2eWAyBirzrwNRS3QS2f_yxfa6jj8-0KCVy14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzYz/NjYxLTE2MTUzMDEz/MDUtNTI2OS5tcG8.jpeg" alt="Cover for The Falling" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/024739868d1444077974a1b605236dbb.png" alt="Cover for The Falling" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-12</td>
       <td>The Underground Youth</td>
@@ -2163,16 +2191,16 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 32</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 47</li>
             <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
-          <img src="https://i.discogs.com/hupvGE980g5YD-6Fu8uoSZN6ZEPYBPrPXZzvM4DuFgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzc2/MTE3LTE2MzU2Mjkz/OTEtNDczMS5qcGVn.jpeg" alt="Cover for The Wrath of the Clouds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40bc2e7902120ba5f4f089895edcffe3.png" alt="Cover for The Wrath of the Clouds" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-02-04</td>
       <td>Marissa Nadler</td>
@@ -2194,8 +2222,8 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 8</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 67</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 9</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 69</li>
             <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 79</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 79</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 84</li>
@@ -2205,7 +2233,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/1StUhAi-ONhqIgrZx9XJb4t2MXHQIcVwLMAbXe6yB9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjQz/MDYzLTE2NDgyMzQ4/MzEtMzQ4NS5qcGVn.jpeg" alt="Cover for Orpheus Looking Back" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e2e482e749d4235ade99c7e30410a28.png" alt="Cover for Orpheus Looking Back" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-25</td>
       <td>Emma Ruth Rundle</td>
@@ -2227,7 +2255,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1847ba4823b5ca3f46ad3fc07d322558.png" alt="Cover for Play One We All Know" style="max-width:120px; height:auto;" />
       </td>
@@ -2246,7 +2274,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/Rmib6X0TpI0TPCS--Uzz_hz1TjfLoPMEQD6gzDHk4Bc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTI3/MTkxLTE2NTE3OTc2/MzEtMTgzOS5qcGVn.jpeg" alt="Cover for One + One" style="max-width:120px; height:auto;" />
       </td>
@@ -2267,6 +2295,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf596c22966442779d5b259d73a5b662.png" alt="Cover for Fits and Starts: Volume One" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Kevin Cryderman</td>
@@ -2434,6 +2463,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f2d770541c442bc8852143b32849add.png" alt="Cover for Haunted By the Scent of Unseen Roses" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Only in the Mornings</td>
@@ -2456,6 +2486,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cd608d5adaf4ab5944b40090c508bb3.png" alt="Cover for Six Songs" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mark timmins</td>
@@ -2485,22 +2516,6 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Ben Rusch</td>
-      <td>OH, YES!!</td>
-      <td>
-        <ul>
         </ul>
       </td>
       <td>

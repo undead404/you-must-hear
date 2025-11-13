@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-07T19:07:45.399Z
+date: 2025-11-13T06:35:05.487Z
 permalink: tags/sweden
 title: sweden
 ---
 
 ## sweden
 
-Last updated: <time datetime="2025-11-07T19:07:45.399Z">Fri Nov 07 2025 21:07:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T06:35:05.487Z">Thu Nov 13 2025 08:35:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
   </thead>
   <tbody>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/901ab33da45e0f4902ad09ba65554b8c.png" alt="Cover for ABBA Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -43,7 +43,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 96</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -66,12 +66,12 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 58</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9669591438fa40869420f91c617de999.png" alt="Cover for Arrival" style="max-width:120px; height:auto;" />
       </td>
@@ -85,9 +85,8 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 16</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 52</li>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 89</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 15</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -106,9 +105,8 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 48</li>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 55</li>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 77</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 34</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -161,7 +159,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td>1990</td>
@@ -203,26 +201,6 @@ Swedish pop music blends infectious melodies with electronic production, creatin
     </tr>
     <tr>
       <td>41</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fdc228b5a4290e4ea6b6d0c66d30b3e.png" alt="Cover for Waterloo (Deluxe Edition)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992-09-21</td>
-      <td>ABBA</td>
-      <td>Waterloo (Deluxe Edition)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
       <td>
           <img src="https://i.discogs.com/UJMI5CEjC6gp-LNnqM5hpCgmLubyWlJETTAM2nmE5co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDM1/MzAtMTQ3MDQyNTAw/OC0xOTAzLmpwZWc.jpeg" alt="Cover for More Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -337,7 +315,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4340afb2b93bdfa9e8649b0101336bf5.png" alt="Cover for Johansen" style="max-width:120px; height:auto;" />
       </td>
@@ -529,12 +507,12 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       <td>
         <ul>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 25</li>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 42</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f706f3a4d0e2902652ec14fc15e1880.png" alt="Cover for Casino" style="max-width:120px; height:auto;" />
       </td>
@@ -577,7 +555,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td>2001-02-01</td>
@@ -776,7 +754,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/mf3qlmFaB9wGsL45VF19n8cSDP82H-1kem1a7_VwMtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTc3/Ni0xMTI2NDI4Nzc4/LmpwZWc.jpeg" alt="Cover for Kiss and Tell" style="max-width:120px; height:auto;" />
       </td>
@@ -814,7 +792,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       <td>
         <ul>
             <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 79</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 87</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -839,12 +817,12 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       <td>
         <ul>
             <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 78</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 86</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/BNkmnJWuKiEQMCEoh5ER2nUnjsJkmL9PqKqvaMz1N0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDQ0/MzAtMTQwNjk5NjU1/Ni01ODA3LmpwZWc.jpeg" alt="Cover for Kongressen" style="max-width:120px; height:auto;" />
       </td>
@@ -865,29 +843,6 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       <td>
         <ul>
             <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 59</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/JWpH3DuXWDsxFdNk-h_RKU2WC9nGMQeTXDgKnqRLPas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI3/OTczLTE0OTM3NDMx/MjUtMzI4MS5qcGVn.jpeg" alt="Cover for Drifting" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>The Milestone Corporation</td>
-      <td>Drifting</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -913,6 +868,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f73997b66924043ae9d0f296c85185c.png" alt="Cover for The World According To Pablo" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-11</td>
       <td>Billie the Vision &amp; the Dancers</td>
@@ -925,12 +881,12 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 52</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/HloHMKscbmaMmKVuBvd6vwMl_0d4XU0I2qPlU7a0uFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzU0/MTQtMTMxMjM4Mzk4/OS5qcGVn.jpeg" alt="Cover for Make way for the ocean floor to fall to the surface" style="max-width:120px; height:auto;" />
       </td>
@@ -952,7 +908,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/SaA7fpJR1CzpuG3utsXQM780DX-srViScrwnDyTj1Po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjU0/NTQtMTIxMzIwOTYx/MC5qcGVn.jpeg" alt="Cover for Starring; Someone Like You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/468b4b9018ee4d1da4e6c36be9ba463d.png" alt="Cover for Starring; Someone Like You" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>The Tiny</td>
@@ -991,7 +947,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 38</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1034,9 +990,9 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 22</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 23</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 49</li>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 72</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1118,7 +1074,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/KO9VR1GUa5J4HbMYSmeD79v6pfgvGCm_ZVSTIAnoHSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjUy/MjgtMTQ1OTYzNDQ0/Ni02NDcwLmpwZWc.jpeg" alt="Cover for Never Seen The Light Of Day" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bd99a2e16dc4a699368cb4b1b182312.png" alt="Cover for Never Seen The Light Of Day" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-22</td>
       <td>Mando Diao</td>
@@ -1131,7 +1087,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 41</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1150,7 +1106,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 67</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1182,15 +1138,12 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       <td>Youth Novels</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 5</li>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 98</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1217,7 +1170,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/Y4udu_vJejtT0ehmulfQcOHl9Z7G4qxj4eg0H-inbks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzYz/NDAtMTMzNTkxNDg2/MC5qcGVn.jpeg" alt="Cover for It&#39;s Getting Clearer" style="max-width:120px; height:auto;" />
       </td>
@@ -1299,7 +1252,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/8-_SbQVVIhhifR5Lr1TI7TdGsKBGdjHtICB2LH7Om0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDIw/NjYtMTI5ODk4MDU0/My5qcGVn.jpeg" alt="Cover for Gravity &amp; Grace" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/33068baa37b74d6db4ec3ac4419fe90b.png" alt="Cover for Gravity &amp; Grace" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>The Tiny</td>
@@ -1404,7 +1357,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>2012-03-21</td>
@@ -1442,7 +1395,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 45</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 46</li>
             <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 94</li>
             <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 100</li>
         </ul>
@@ -1462,8 +1415,6 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 18</li>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1558,7 +1509,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 11</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1583,7 +1534,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td>2013-09-23</td>
@@ -1649,7 +1600,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ad4943fa46e4530c5e4a2b563aae7f6.png" alt="Cover for They Worshipped Cats" style="max-width:120px; height:auto;" />
       </td>
@@ -1665,12 +1616,30 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 36</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>39</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7edc18559194a1acaf2b01ddb77531f.png" alt="Cover for Stay Gold" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-06-06</td>
+      <td>First Aid Kit</td>
+      <td>Stay Gold</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/5JcBwk55EjZdRI7CB0kO-8d9noLb8N5kZWAnV-Jb1H0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzQ5/OTMtMTUxMDQzNzk0/OS00NjMzLmpwZWc.jpeg" alt="Cover for On My Way" style="max-width:120px; height:auto;" />
       </td>
@@ -1717,7 +1686,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/oBHZETGXnTG8rPp7bpBxi87v9coaIPOz8J8-LqBmua0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMjYz/MjgtMTUxNDg0MTg2/OC0zNTYzLmpwZWc.jpeg" alt="Cover for Pale Honey" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dee8e031a28cb0b2ad1b9952ffe13e7c.png" alt="Cover for Pale Honey" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-06-12</td>
       <td>Pale Honey</td>
@@ -1774,8 +1743,8 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 18</li>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 54</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 38</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1796,7 +1765,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 13</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1818,7 +1787,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 14</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 21</li>
             <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 97</li>
         </ul>
       </td>
@@ -1886,7 +1855,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/kv0vvthkNQPgKoG1-aYBxASskc3S-_rqIv7RX90lLEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDQ1/NjQzLTE2MTEzMjA0/NDMtOTE4NS5qcGVn.jpeg" alt="Cover for II" style="max-width:120px; height:auto;" />
       </td>
@@ -1950,7 +1919,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/3osBL5Rr6jhgdYx2MlWp3sWYW9AWOfTN7bqV6rZ_aVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODAz/MDU1LTE3MTczMTQz/NDgtODQwNS5qcGVn.jpeg" alt="Cover for HELLBUTCHER" style="max-width:120px; height:auto;" />
       </td>
@@ -1970,8 +1939,9 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bec32d0de4249ec9963f03102262644.png" alt="Cover for Prenzlauer Berg" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Fort Fairfield</td>
@@ -2082,6 +2052,23 @@ Swedish pop music blends infectious melodies with electronic production, creatin
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e7b89c44b9c2e2065b110073bea1020.png" alt="Cover for ABBA Gold Anniversary Edition" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>ABBA</td>
+      <td>ABBA Gold Anniversary Edition</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
