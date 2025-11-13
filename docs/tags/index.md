@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-12T16:16:33.203Z
+date: 2025-11-12T17:26:19.880Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-12T16:16:33.203Z">Wed Nov 12 2025 18:16:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-12T17:26:19.880Z">Wed Nov 12 2025 19:26:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [leeds]({{ "tags/leeds" | relative_url }}) | <time datetime="2025-11-12T17:26:19.880Z">Wed Nov 12 2025 19:26:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [folk pop]({{ "tags/folk-pop" | relative_url }}) | <time datetime="2025-11-12T16:16:33.203Z">Wed Nov 12 2025 18:16:33 GMT+0200 (Eastern European Standard Time)</time> |
 | [ska punk]({{ "tags/ska-punk" | relative_url }}) | <time datetime="2025-11-12T15:56:51.100Z">Wed Nov 12 2025 17:56:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [midwest emo]({{ "tags/midwest-emo" | relative_url }}) | <time datetime="2025-11-12T12:58:37.465Z">Wed Nov 12 2025 14:58:37 GMT+0200 (Eastern European Standard Time)</time> |
@@ -724,7 +725,6 @@ Last updated: <time datetime="2025-11-12T16:16:33.203Z">Wed Nov 12 2025 18:16:33
 | [hungarian]({{ "tags/hungarian" | relative_url }}) | <time datetime="2025-10-28T15:33:48.021Z">Tue Oct 28 2025 17:33:48 GMT+0200 (Eastern European Standard Time)</time> |
 | [polish jazz]({{ "tags/polish-jazz" | relative_url }}) | <time datetime="2025-10-28T15:16:13.306Z">Tue Oct 28 2025 17:16:13 GMT+0200 (Eastern European Standard Time)</time> |
 | [german thrash metal]({{ "tags/german-thrash-metal" | relative_url }}) | <time datetime="2025-10-28T15:16:00.804Z">Tue Oct 28 2025 17:16:00 GMT+0200 (Eastern European Standard Time)</time> |
-| [leeds]({{ "tags/leeds" | relative_url }}) | <time datetime="2025-10-28T15:10:39.255Z">Tue Oct 28 2025 17:10:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [anthem emo]({{ "tags/anthem-emo" | relative_url }}) | <time datetime="2025-10-28T15:10:22.615Z">Tue Oct 28 2025 17:10:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [turkish pop]({{ "tags/turkish-pop" | relative_url }}) | <time datetime="2025-10-28T15:09:59.994Z">Tue Oct 28 2025 17:09:59 GMT+0200 (Eastern European Standard Time)</time> |
 | [german punk]({{ "tags/german-punk" | relative_url }}) | <time datetime="2025-10-28T15:09:55.617Z">Tue Oct 28 2025 17:09:55 GMT+0200 (Eastern European Standard Time)</time> |

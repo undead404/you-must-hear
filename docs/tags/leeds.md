@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T15:10:39.255Z
+date: 2025-11-12T17:26:19.880Z
 permalink: tags/leeds
 title: leeds
 ---
 
 ## leeds
 
-Last updated: <time datetime="2025-10-28T15:10:39.255Z">Tue Oct 28 2025 17:10:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-12T17:26:19.880Z">Wed Nov 12 2025 19:26:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -66,6 +66,24 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de635b6e56608033a2f887f25363a4b3.png" alt="Cover for A Brief History Of The 20th Century" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Gang of Four</td>
+      <td>A Brief History Of The 20th Century</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>93</td>
       <td>
       </td>
@@ -108,6 +126,24 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6ea7f3a28e4046b6934a5cffaa1caac.png" alt="Cover for The Good Will Out" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-06-08</td>
+      <td>Embrace</td>
+      <td>The Good Will Out</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>99</td>
       <td>
           <img src="https://i.discogs.com/kvT0fvx0p0f-nwrjCr0zwQTd4iSwp67bCGVx0C_f6tg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjUw/MDktMTMyNzQ5NTU3/MS5qcGVn.jpeg" alt="Cover for Take The Long Road And Walk It" style="max-width:120px; height:auto;" />
@@ -127,7 +163,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/VPzt6k5oc94Ca77FstXCzObj_y2ZxdflMR3N2Bn1s7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njc2/ODItMTMwMDEzMzM2/OS5qcGVn.jpeg" alt="Cover for The Somatics" style="max-width:120px; height:auto;" />
       </td>
@@ -219,7 +255,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/Mw51lJuguRzKzW09M8TkBij4Fcox6voTh3g8Wj98E_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MzA0/OTQtMTM3MzY3MDc0/OS0zNDc4LmpwZWc.jpeg" alt="Cover for Doyousee? Doyou?" style="max-width:120px; height:auto;" />
       </td>
@@ -298,7 +334,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/yUqDzaXAgWC0cDrf3FvOktWAePrwLXsRWyuyMxyWL8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDIy/NjUtMTUzOTAzMzA3/Mi0xOTgzLmpwZWc.jpeg" alt="Cover for Illegal Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -317,7 +353,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/9hO48MifoPY6GNkGPrMeazQ1sreeJYpqB1pmISlNDBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDc1/NjAzLTE1MzYwMjU2/ODUtNjY5OC5qcGVn.jpeg" alt="Cover for Horrible Face" style="max-width:120px; height:auto;" />
       </td>
@@ -393,7 +429,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/bgktVQtE9rp4wcFMn8Ok4c0bfMgJpM4YUOS2X1foAD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjY1/MzM1LTE1NzkyMDI5/MTktNTczOC5qcGVn.jpeg" alt="Cover for Pure Dirt" style="max-width:120px; height:auto;" />
       </td>
@@ -497,7 +533,6 @@ Leeds represents the diverse musical output from the northern English city, span
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/jOUMc3pBEJo9aQC03G-7hKJcgDLKF6nntxRksXuWgDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjE5/OC0xMTQ2MjY0NTMz/LmpwZWc.jpeg" alt="Cover for NY2LON" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-10</td>
       <td>Duels</td>
@@ -758,7 +793,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/CVEyfdqgYu4aSPGds7m1yLurIc8nozc9RAM2sn9fK38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTgx/MTc4LTE3Mjg4MjQ5/OTUtNDU0OS5wbmc.jpeg" alt="Cover for BBC Raw Talent Acoustic Session Jan 08" style="max-width:120px; height:auto;" />
       </td>
@@ -778,7 +813,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/CVEyfdqgYu4aSPGds7m1yLurIc8nozc9RAM2sn9fK38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTgx/MTc4LTE3Mjg4MjQ5/OTUtNDU0OS5wbmc.jpeg" alt="Cover for Allons-y! EP" style="max-width:120px; height:auto;" />
       </td>
@@ -797,7 +832,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/QIVA48PH-9pgV4NlvHNP00G0FMl9YA82tBnA4bJtpE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDY1/OTAtMTU2MjUyNjU1/NS01NDk3LmpwZWc.jpeg" alt="Cover for Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1024,13 +1059,13 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 4</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 3</li>
             <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/MN3yAEcHapybyDPoUURhccqlDVeS5DZaG3ukJKsBzdw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY2/MTUxLTE0OTYwNzI4/NjUtMTMwMS5qcGVn.jpeg" alt="Cover for Act Of Defiance" style="max-width:120px; height:auto;" />
       </td>
@@ -1054,7 +1089,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/GN3t4Q2bFynAIyTkZs8d4ii0RKpbM4DqrIw95vQ85aA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQ2/MTU4LTE1OTMzNzM5/OTgtOTgzMy5qcGVn.jpeg" alt="Cover for Retaliation Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1073,9 +1108,9 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/mGwnwMsIHfco_PG8s_KXlIr2e63l6KKABc0QP3JZN_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTEy/NzgtMTMyODEwOTU3/Ni5qcGVn.jpeg" alt="Cover for Ten Tales of Looming Darkness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8227c5d9edde80e9079d31793077596f.png" alt="Cover for Ten Tales of Looming Darkness" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Silverlode</td>
@@ -1190,29 +1225,6 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/anv077VgiXFuO5TTQei9IT9604rJaunyrawoPOu9e8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODE5/MTYtMTI4Nzg4MTMy/Ny5qcGVn.jpeg" alt="Cover for When Sound Generates Light - Album (released 21&#x2F;06&#x2F;10)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Laboratory Noise</td>
-      <td>When Sound Generates Light - Album (released 21&#x2F;06&#x2F;10)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>95</td>
       <td>
       </td>
@@ -1274,7 +1286,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/lk3xDHonduHKuGE26PHaEnvIR6ojXLF1JQW3VprvEeA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODI5/ODktMTM3NTM3MDk0/Ny00NzgxLmpwZWc.jpeg" alt="Cover for The Starseed" style="max-width:120px; height:auto;" />
       </td>
@@ -1372,7 +1384,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/VpCvf_OLPAyXcsf2c9TP3B5M8ILeMCUQsyoD3MScDzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDQw/MTEtMTMwMzYzMzcx/NS5qcGVn.jpeg" alt="Cover for CHiP-POP" style="max-width:120px; height:auto;" />
       </td>
@@ -1392,16 +1404,15 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/rIkTObM4nHHXLAjjCPRoXAigUzKMrz-Oa3Mtd-P5ZWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjQy/MjItMTMwNzU0Mjc5/NC5qcGVn.jpeg" alt="Cover for Unknown Pleasures - Live in Leeds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce5af8469d9b9f9d36d3aa00ad2fc283.png" alt="Cover for Unknown Pleasures - Live in Leeds" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-24</td>
       <td>Peter Hook and the Light</td>
       <td>Unknown Pleasures - Live in Leeds</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a></li>
         </ul>
       </td>
       <td>
@@ -1469,7 +1480,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/Lfcmip2L8BrBYKUgUt7MUCNhRuGTDS32xYrtEW_CoCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTky/MjU1LTE1MDc4MTg2/MTgtOTc0MS5qcGVn.jpeg" alt="Cover for Pedant" style="max-width:120px; height:auto;" />
       </td>
@@ -1489,7 +1500,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/r9K7zSBLSNQ5Ks3YUGFSRB8B-fAZBa_TfuDsKF-sE3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODcy/NTAtMTM3MjI3ODk3/NC0zMjk1LmpwZWc.jpeg" alt="Cover for Operation Thunderbolt" style="max-width:120px; height:auto;" />
       </td>
@@ -1508,7 +1519,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>24</td>
       <td>
       </td>
       <td>2014-01-14</td>
@@ -1544,7 +1555,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/ONzah4O54KuW9M6pUB-ZPrf7CvQRFxZvqjqAQKBhmk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU3/MzE2LTE1MTA5MjYx/MDUtMzY3My5qcGVn.jpeg" alt="Cover for I Love ... I Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1587,7 +1598,7 @@ Leeds represents the diverse musical output from the northern English city, span
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/tgpqxqMlyJ5TrqaQGGvQjvviSSQgbJ3LTOwGCBSER7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDkz/MzcxLTE1MjgxNDcw/MzMtNzQ1MC5wbmc.jpeg" alt="Cover for Rex Manning Day" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73248bd5a94d42419afe5661f45e6922.png" alt="Cover for Rex Manning Day" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-10</td>
       <td>Rex Manning Day</td>
@@ -1610,7 +1621,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/XMPXpt7VuZpHaWicOY6nagnYZlwhbRPuI9Ykt_SKc6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTU2/MjQzLTE2MTk5NTA1/NDItODA2MC5qcGVn.jpeg" alt="Cover for Untitled Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1631,9 +1642,9 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/i4j7VXHXwKgjPClaQacL6ASUD1aCvvEETBmrCQNUCxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzY4/LTEyOTQzNjY3MjUu/anBlZw.jpeg" alt="Cover for A Word of Science" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/973ad21e76e2f3d9a3cee8c734024d44.png" alt="Cover for A Word of Science" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-01-25</td>
       <td>Nightmares on Wax</td>
@@ -1670,7 +1681,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/Jb4EpTJuXutNMphB1DsWDcjJb97cknNkvywIvdRXHa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDU0/NjI0LTE2Njc1OTMx/MDUtMjYwMi5qcGVn.jpeg" alt="Cover for Small Beer" style="max-width:120px; height:auto;" />
       </td>
@@ -1689,8 +1700,9 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5e5acadac1649728f5c42487ab36f90.png" alt="Cover for Synecdoche" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Shaun Herrington</td>
@@ -1722,24 +1734,6 @@ Leeds represents the diverse musical output from the northern English city, span
       <td>
       </td>
       <td></td>
-      <td>Danny Cope</td>
-      <td>Month of Sundays</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>
-      </td>
-      <td></td>
       <td>Cicerone Dead</td>
       <td>Escape Rope</td>
       <td>
@@ -1757,7 +1751,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -1775,7 +1769,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1796,7 +1790,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -1813,7 +1807,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -1835,8 +1829,9 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b59d3d29ebf19ed3df98cc5d776f05c5.png" alt="Cover for Live 2009" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Hoover Dams</td>
@@ -1911,7 +1906,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
       </td>
       <td></td>
@@ -1928,8 +1923,9 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/faba9d1a055d2bebc5e6ab53d5b4a935.png" alt="Cover for Month by Month" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Hoover Dams</td>
@@ -1949,6 +1945,7 @@ Leeds represents the diverse musical output from the northern English city, span
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ff0ad414507406698b417571c552808.png" alt="Cover for Coming Back Home - Single" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Ellen And The Escapades</td>
