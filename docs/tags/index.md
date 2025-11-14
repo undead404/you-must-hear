@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-14T11:04:53.057Z
+date: 2025-11-14T13:57:20.845Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-14T11:04:53.057Z">Fri Nov 14 2025 13:04:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T13:57:20.845Z">Fri Nov 14 2025 15:57:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [midwest emo]({{ "tags/midwest-emo" | relative_url }}) | <time datetime="2025-11-14T13:57:20.845Z">Fri Nov 14 2025 15:57:20 GMT+0200 (Eastern European Standard Time)</time> |
+| [new york]({{ "tags/new-york" | relative_url }}) | <time datetime="2025-11-14T12:23:02.327Z">Fri Nov 14 2025 14:23:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [emoviolence]({{ "tags/emoviolence" | relative_url }}) | <time datetime="2025-11-14T11:04:53.057Z">Fri Nov 14 2025 13:04:53 GMT+0200 (Eastern European Standard Time)</time> |
 | [oriental]({{ "tags/oriental" | relative_url }}) | <time datetime="2025-11-14T10:25:32.819Z">Fri Nov 14 2025 12:25:32 GMT+0200 (Eastern European Standard Time)</time> |
 | [psydub]({{ "tags/psydub" | relative_url }}) | <time datetime="2025-11-14T10:24:41.846Z">Fri Nov 14 2025 12:24:41 GMT+0200 (Eastern European Standard Time)</time> |
@@ -271,9 +273,7 @@ Last updated: <time datetime="2025-11-14T11:04:53.057Z">Fri Nov 14 2025 13:04:53
 | [leeds]({{ "tags/leeds" | relative_url }}) | <time datetime="2025-11-12T17:26:19.880Z">Wed Nov 12 2025 19:26:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [folk pop]({{ "tags/folk-pop" | relative_url }}) | <time datetime="2025-11-12T16:16:33.203Z">Wed Nov 12 2025 18:16:33 GMT+0200 (Eastern European Standard Time)</time> |
 | [ska punk]({{ "tags/ska-punk" | relative_url }}) | <time datetime="2025-11-12T15:56:51.100Z">Wed Nov 12 2025 17:56:51 GMT+0200 (Eastern European Standard Time)</time> |
-| [midwest emo]({{ "tags/midwest-emo" | relative_url }}) | <time datetime="2025-11-12T12:58:37.465Z">Wed Nov 12 2025 14:58:37 GMT+0200 (Eastern European Standard Time)</time> |
 | [experimental folk]({{ "tags/experimental-folk" | relative_url }}) | <time datetime="2025-11-12T11:38:52.664Z">Wed Nov 12 2025 13:38:52 GMT+0200 (Eastern European Standard Time)</time> |
-| [new york]({{ "tags/new-york" | relative_url }}) | <time datetime="2025-11-12T11:38:11.008Z">Wed Nov 12 2025 13:38:11 GMT+0200 (Eastern European Standard Time)</time> |
 | [pagan]({{ "tags/pagan" | relative_url }}) | <time datetime="2025-11-12T11:36:11.771Z">Wed Nov 12 2025 13:36:11 GMT+0200 (Eastern European Standard Time)</time> |
 | [ska]({{ "tags/ska" | relative_url }}) | <time datetime="2025-11-12T11:04:57.110Z">Wed Nov 12 2025 13:04:57 GMT+0200 (Eastern European Standard Time)</time> |
 | [piano]({{ "tags/piano" | relative_url }}) | <time datetime="2025-11-12T08:47:07.271Z">Wed Nov 12 2025 10:47:07 GMT+0200 (Eastern European Standard Time)</time> |

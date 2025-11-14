@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T11:38:11.008Z
+date: 2025-11-14T12:23:02.327Z
 permalink: tags/new-york
 title: new york
 ---
 
 ## new york
 
-Last updated: <time datetime="2025-11-12T11:38:11.008Z">Wed Nov 12 2025 13:38:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T12:23:02.327Z">Fri Nov 14 2025 14:23:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
   </thead>
   <tbody>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
       </td>
       <td>1964</td>
@@ -40,6 +40,24 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york" | relative_url }}">new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20414ceba2f84280870b0c4f1a5d94dd.png" alt="Cover for Plastic Letters" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Blondie</td>
+      <td>Plastic Letters</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
         </ul>
       </td>
       <td>
@@ -110,7 +128,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2dadefc55a7ba28ef09dbf321bb44b69.png" alt="Cover for Tales of Brave Ida" style="max-width:120px; height:auto;" />
       </td>
@@ -165,7 +183,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d780a778e9d4b0b4b115bd6bd50e7717.png" alt="Cover for Lifestylez Ov Da Poor &amp; Dangerous" style="max-width:120px; height:auto;" />
       </td>
@@ -189,7 +207,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25c92211a1744a4d8a2d7854dd1d5fae.png" alt="Cover for The Infamous" style="max-width:120px; height:auto;" />
       </td>
@@ -204,7 +222,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 5</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 6</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 34</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 56</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 66</li>
@@ -246,14 +264,14 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 4</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 6</li>
             <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 25</li>
             <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
       </td>
       <td>1996-10-01</td>
@@ -272,7 +290,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f351d12a8006a35c2a30bec7d14282eb.png" alt="Cover for Ironman" style="max-width:120px; height:auto;" />
       </td>
@@ -290,7 +308,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/ytSkZn-meBgbGQy3LjmOt87onqUWwYbydHBN_IWtXWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTct/MTUyNTIyNzgzMS02/OTMzLmpwZWc.jpeg" alt="Cover for Lets Get Killed" style="max-width:120px; height:auto;" />
       </td>
@@ -334,7 +352,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/74b324ea0f30444586504994dff0da8f.png" alt="Cover for The Pick, The Sickle &amp; The Shovel" style="max-width:120px; height:auto;" />
       </td>
@@ -351,7 +369,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td>1998</td>
@@ -371,7 +389,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf620778745f6b001e238a6f470052e9.png" alt="Cover for Mimosa" style="max-width:120px; height:auto;" />
       </td>
@@ -389,7 +407,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11b30c3cbd8f5b4611c683e3504de461.png" alt="Cover for Lets Get Free" style="max-width:120px; height:auto;" />
       </td>
@@ -408,7 +426,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
       </td>
       <td>2000</td>
@@ -445,7 +463,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/484790869cfb882caf4fbb980adcce9a.png" alt="Cover for For All Seasons" style="max-width:120px; height:auto;" />
       </td>
@@ -465,7 +483,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/edf0fcb559f8e183cf476dd984b4d0af.png" alt="Cover for Daylight" style="max-width:120px; height:auto;" />
       </td>
@@ -542,7 +560,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
       </td>
       <td>2001-09-18</td>
@@ -559,7 +577,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a8b542903b34aabca8262bb4c6f2004.png" alt="Cover for Stillmatic" style="max-width:120px; height:auto;" />
       </td>
@@ -576,25 +594,6 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
         <ul>
             <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 23</li>
             <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 56</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae78f2f02ccf47fdb4c6453096a8bfe1.png" alt="Cover for Infamy" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001-12-11</td>
-      <td>Mobb Deep</td>
-      <td>Infamy</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -692,7 +691,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c466a56717fe431c9d26ebf442e64b7a.png" alt="Cover for The Doomilation Bootleg" style="max-width:120px; height:auto;" />
       </td>
@@ -731,7 +730,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/loH7Zt6AqBNqVSBnmBbLhkJIxwTuLmm_o7_9Tl6plWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTAz/MC0xNDU4ODcxMzEz/LTE2MjgucG5n.jpeg" alt="Cover for Look Mom No Hands" style="max-width:120px; height:auto;" />
       </td>
@@ -748,7 +747,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/9zAV9Cgf4pbxZtFb7PDmgCXzsbiAcKNqHZn3_oiLH2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTM3/NjItMTQyMzEwNjQy/NC03MTY3LmpwZWc.jpeg" alt="Cover for Scissor Tounge Bootleg" style="max-width:120px; height:auto;" />
       </td>
@@ -766,7 +765,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/64rhdHb0aQUO3BAH9x9qT9mJGm3NS-e4ZgU2_jksyn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU3/MTAtMTIwNDE0NTIx/NS5qcGVn.jpeg" alt="Cover for Slow Suicide Stimulus" style="max-width:120px; height:auto;" />
       </td>
@@ -853,7 +852,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
       </td>
       <td>2006</td>
@@ -872,7 +871,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/R461J_i0lQH0mPcIUaALWqrMvwWRxXxXI8qx4U37sLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjQw/MS0xMjcwODA4MjAx/LmpwZWc.jpeg" alt="Cover for Rewind &lt;&lt; Deja Screw" style="max-width:120px; height:auto;" />
       </td>
@@ -960,7 +959,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/818b6cf1994f0b0b7ad11ab0889e87c3.png" alt="Cover for I&#39;ll Sleep When You&#39;re Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -979,7 +978,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/2GW-CoMdd5lU3gac_rtlaynezKoVOR1K6V4WFSM4Hbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzM3/NjItMTI1NjAzNjE3/Ny5qcGVn.jpeg" alt="Cover for The Hood Is Back" style="max-width:120px; height:auto;" />
       </td>
@@ -1046,7 +1045,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/42YUsMLs9tssgRNBdJTB2n8aiuaFw6CeUsqNYsL2Fy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY5/Mjg5LTE1MTMwNTk3/OTYtOTA2MC5qcGVn.jpeg" alt="Cover for Be The Change" style="max-width:120px; height:auto;" />
       </td>
@@ -1111,7 +1110,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/UaS4wA-rR-aTZji4dsjTc9yjwfQ1zfsHRqPDwqB8gVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTAz/MjctMTI2Mzk3NTA4/MS5qcGVn.jpeg" alt="Cover for Trying Got Us Nowhere" style="max-width:120px; height:auto;" />
       </td>
@@ -1137,7 +1136,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/4JozuuIomffY3r5kHYpsTa8jEHjCz5AmJfGIKtQQBI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjEw/MjctMTI2MjA1ODk5/MC5qcGVn.jpeg" alt="Cover for White Birds" style="max-width:120px; height:auto;" />
       </td>
@@ -1169,7 +1168,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/xqSpT8XYj2aqmhHqLNJQi-CI3niScv7cVWXMfbornPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDc4/ODEtMTMzODc3MTgx/Ny00ODQ3LmpwZWc.jpeg" alt="Cover for Get In Line Or Get Lined Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1192,7 +1191,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/vZKetDe2tkvyArSrPttqHJBzU9lLtHEqJjhqoBB0E6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjMz/MzMtMTM1MDgyMTMw/Mi04MzE1LmpwZWc.jpeg" alt="Cover for I Love New York &#x2F; New York, New York (Glee Cast Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1293,7 +1292,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/dYjmV_Lz8BKiNCJGnF8ck8Mh8p8NJNRTrx26FK9SAZc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDMw/OTctMTI1NDAxNjI1/MC5qcGVn.jpeg" alt="Cover for Red Yellow Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -1338,7 +1337,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36ae770081a5c2f54d17f15042a34fdf.png" alt="Cover for No Clothes on Ragged Island" style="max-width:120px; height:auto;" />
       </td>
@@ -1354,13 +1353,13 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 67</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 66</li>
             <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fb23c8c8ca040d296a71e1353320661.png" alt="Cover for Return of the Devil&#39;s Son" style="max-width:120px; height:auto;" />
       </td>
@@ -1380,7 +1379,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/BCussi9aWG3gDn2AbDj47jEA_mX3gLw4MIqhi5-7UaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/MDEtMTI5ODkzNjQ0/NC5qcGVn.jpeg" alt="Cover for Waco Taco Combo" style="max-width:120px; height:auto;" />
       </td>
@@ -1406,6 +1405,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4e189f9393f11d12626163a1f248e30.png" alt="Cover for Bearable" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-25</td>
       <td>Timeshares</td>
@@ -1469,7 +1469,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/DWYAzTzQcXHimROY3fNNM0DQAcwgbNLf7O9yh5rnPlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDc5/NjktMTU4OTAzNTQz/MS0xMzM0LmpwZWc.jpeg" alt="Cover for Ravipops" style="max-width:120px; height:auto;" />
       </td>
@@ -1535,7 +1535,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
       </td>
       <td>2013-08-06</td>
@@ -1578,7 +1578,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/5W1Hc2XyD5z6owt0fYktJquNFlPkbjU6LofQBFvtjwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQx/MTIyLTE2NjM4MzAw/MzUtODQwNi5qcGVn.jpeg" alt="Cover for premeditated murder" style="max-width:120px; height:auto;" />
       </td>
@@ -1635,7 +1635,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/TUAUH9usNEaYUPjrT7MNTwEZ4GWPr4XezGNVg_YGG_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTIz/Ni0xMTUyNzAzNDY5/LmpwZWc.jpeg" alt="Cover for When the Smoke Clears" style="max-width:120px; height:auto;" />
       </td>
@@ -1678,7 +1678,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/JRNsaeZ-2HxydUZ4YHNZ-LIhL7-zpUQ3EyKiPMNW2Kw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY0/Njk0LTE0OTk5ODQx/ODEtNjY2MS5qcGVn.jpeg" alt="Cover for EP #260" style="max-width:120px; height:auto;" />
       </td>
@@ -1699,7 +1699,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/VnmExa3e_3HNTvwCpPGNAHPmKKI2Fsg35buN-OOm6lU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjU0/NDk3LTE1MTI4MjU3/ODQtNDMyMy5qcGVn.jpeg" alt="Cover for QTY" style="max-width:120px; height:auto;" />
       </td>
@@ -1720,7 +1720,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e5d05a970967d661fdc7d3c2ae19bad.png" alt="Cover for God&#39;s Favorite Customer" style="max-width:120px; height:auto;" />
       </td>
@@ -1733,14 +1733,12 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 54</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 69</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 76</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8e3b80c0fd81edd37dd3e5ee5635426.png" alt="Cover for Moon Moon Baby" style="max-width:120px; height:auto;" />
       </td>
@@ -1872,7 +1870,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/4EqIxfhNcCPDyPTjO91pogPd_WgDpq3-zatDrCOAi7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/MTAwLTE1OTczNzk0/MzYtNzg1MC5qcGVn.jpeg" alt="Cover for My Favorite Shrine" style="max-width:120px; height:auto;" />
       </td>
@@ -1891,7 +1889,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/228842243deda0f72daa8ef01f85ba4d.png" alt="Cover for GUMMO - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1937,7 +1935,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 9</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 8</li>
             <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 84</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 92</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 93</li>
@@ -1983,7 +1981,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f73ccb6d15acd6e551afd3e815c3b291.png" alt="Cover for The Ghost Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -2038,7 +2036,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/Q5HjmiYLKCjPTH-xhLhcW1llTo9Hl6LUnOLBvXi96kI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNDc5/NjAtMTQ3NzAwODc3/Ny03MzE1LnBuZw.jpeg" alt="Cover for Metal Fingers Presents: Special Herbs 9+0" style="max-width:120px; height:auto;" />
       </td>
@@ -2058,7 +2056,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b2a234ccaf5cd449dd611ac38042848.png" alt="Cover for words that end with wh(y)" style="max-width:120px; height:auto;" />
       </td>
@@ -2079,7 +2077,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b5138ddb988110c424308eccde136d8.png" alt="Cover for In The Nude" style="max-width:120px; height:auto;" />
       </td>
@@ -2105,7 +2103,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
       </td>
       <td>2022-08-19</td>
@@ -2145,7 +2143,7 @@ The &quot;New York&quot; music genre represents the diverse hip-hop sound that e
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b96c148333848adc8f5f0128b1c369c2.png" alt="Cover for gardens" style="max-width:120px; height:auto;" />
       </td>
