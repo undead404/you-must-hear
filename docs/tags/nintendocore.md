@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T00:12:38.273Z
+date: 2025-11-13T23:41:12.312Z
 permalink: tags/nintendocore
 title: nintendocore
 ---
 
 ## nintendocore
 
-Last updated: <time datetime="2025-10-29T00:12:38.273Z">Wed Oct 29 2025 02:12:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T23:41:12.312Z">Fri Nov 14 2025 01:41:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
   </thead>
   <tbody>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg" alt="Cover for EQUIP" style="max-width:120px; height:auto;" />
       </td>
@@ -52,7 +52,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e173f971e87c8f0062e967dee0b681c4.png" alt="Cover for Pac-Man Fever" style="max-width:120px; height:auto;" />
       </td>
@@ -72,7 +72,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>1992</td>
@@ -146,15 +146,15 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 7</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 17</li>
-            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 21</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 22</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 19</li>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 22</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 23</li>
             <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/YgFaQfAhWsCdu7juLhFdun7nNZ-wjwVC5RQI7RXA3y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzI3/NS0xNjE4NjExNTIx/LTExMTMuanBlZw.jpeg" alt="Cover for Get With The Program... Before The Program Gets You!" style="max-width:120px; height:auto;" />
       </td>
@@ -172,12 +172,12 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       <td>
         <ul>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 25</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 31</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/Lw22DsYtVMm2Ebj-NC7L9xB_ZJ3ap7ttUVnBje2m0ls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTE2/NjgtMTM2MTQzNzEw/MC04MzIzLmpwZWc.jpeg" alt="Cover for Beautiful Songs By Men (Summer Tour 2002)" style="max-width:120px; height:auto;" />
       </td>
@@ -215,6 +215,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed6e4247f0e4533d6cf54401229302f0.png" alt="Cover for R. Borlax" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-03-03</td>
       <td>HORSE the band</td>
@@ -231,7 +232,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/qo3Y7lRrS1eZ3qBdCebafhcgpUqT13w3A1VBgd32L9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODc4/NTM1LTE1ODMzMjk3/ODEtNDY4NS5qcGVn.jpeg" alt="Cover for Heavy Man X" style="max-width:120px; height:auto;" />
       </td>
@@ -329,7 +330,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 7</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 12</li>
             <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 90</li>
         </ul>
       </td>
@@ -353,7 +354,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 11</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 16</li>
             <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 92</li>
         </ul>
       </td>
@@ -402,6 +403,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12a1a8195daff339cfcb720431994312.png" alt="Cover for Everything Perfect On the Wrong Day" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-01</td>
       <td>Sky Eats Airplane</td>
@@ -416,7 +418,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 58</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 60</li>
             <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 77</li>
         </ul>
       </td>
@@ -454,12 +456,12 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 24</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>2006-08-26</td>
@@ -472,7 +474,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 55</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 58</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 74</li>
             <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 89</li>
         </ul>
@@ -493,7 +495,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 2</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -518,7 +520,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3586f17a823422c258fd5dd99189b2af.png" alt="Cover for For Derek" style="max-width:120px; height:auto;" />
       </td>
@@ -537,7 +539,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/OOw1-fhuc5rJ2_v8SJXE-AazEqjidi7GogOQSi6R5yk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAy/NjY5LTE2NjM5MDYx/ODUtMzg4Ni5qcGVn.jpeg" alt="Cover for Tales Of Lust And Revenge" style="max-width:120px; height:auto;" />
       </td>
@@ -573,13 +575,13 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       <td>
         <ul>
             <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 45</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 61</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 70</li>
             <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2007-04</td>
@@ -625,6 +627,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fa7822bd1cf14341b58bec591ae78c3.png" alt="Cover for A Natural Death" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-28</td>
       <td>HORSE the band</td>
@@ -660,7 +663,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 23</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 27</li>
             <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 92</li>
         </ul>
       </td>
@@ -668,7 +671,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/59g158Qiq3T8-WUdpomfT6m3o3e5xkEBEy2jOYGpzqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQz/MTAtMTQ4MzA1NDcz/OS0yMjYwLmpwZWc.jpeg" alt="Cover for Populuxxe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef5ccc00cb8a48cdc8d98ff006f728c5.png" alt="Cover for Populuxxe" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-24</td>
       <td>Cutting Pink With Knives</td>
@@ -805,7 +808,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2008-10-07</td>
@@ -818,7 +821,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 59</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 58</li>
             <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 73</li>
         </ul>
       </td>
@@ -840,7 +843,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 29</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -865,7 +868,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2009</td>
@@ -883,9 +886,9 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/KIvLMpTUR8l8uQi0vZVVmDEKVEustljY0MzBTJRBNbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTYz/NDUtMTM4MjIyOTk5/MS0xOTIwLmpwZWc.jpeg" alt="Cover for Metapodestroyer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52deb9ba95a23703cb4feaab200ae646.png" alt="Cover for Metapodestroyer" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Love Through Cannibalism</td>
@@ -957,7 +960,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e5eabf9415c4ae5ca81889a37cb22b7.png" alt="Cover for Common Dreads" style="max-width:120px; height:auto;" />
       </td>
@@ -972,14 +975,15 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 44</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 58</li>
             <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79a1a8e1bbe642e3babca48d1797b46f.png" alt="Cover for NES Cult Armageddon" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-23</td>
       <td>ThePlasmas</td>
@@ -998,7 +1002,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be1e9ef7fc994ec19804b929b2b6cd69.png" alt="Cover for Invaders" style="max-width:120px; height:auto;" />
       </td>
@@ -1019,7 +1023,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/Czl5Bfhd5B28NDx-C9xGjxfEDLCfFmKILZ5vqybE9a4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTcz/ODgtMTYxNDExMzc5/My03NDYwLmpwZWc.jpeg" alt="Cover for Common Dreads (Standard DMD)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/232839db929152d6f22286b565e37805.png" alt="Cover for Common Dreads (Standard DMD)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-15</td>
       <td>Enter Shikari</td>
@@ -1037,12 +1041,12 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 74</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/R5BvtJ-cnuFYeJUFXwsxrC5xYPIGY49jx-rMfFdotd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzM2/NzQtMTI4MDMxNTA0/My5qcGVn.jpeg" alt="Cover for Portals" style="max-width:120px; height:auto;" />
       </td>
@@ -1062,7 +1066,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2ce53e641b548eb99b53a25541eaf10.png" alt="Cover for Act II: The Father of Death" style="max-width:120px; height:auto;" />
       </td>
@@ -1098,7 +1102,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/0pzdUpRVQleMPBe7VWJXes2rnkmAVt_bRgcrSwGrPWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTc0/NzktMTUyNjA3Nzg2/Mi02NTk0LmpwZWc.jpeg" alt="Cover for Random Encounter" style="max-width:120px; height:auto;" />
       </td>
@@ -1120,7 +1124,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/bu_VWHlmU44hVrgUUlhnpDoSqDAA1Y08RKmTBsQu0Rw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0ODg3/MzgtMTM5NDY5Mzc2/Mi05MjQ0LmpwZWc.jpeg" alt="Cover for Protoplasm" style="max-width:120px; height:auto;" />
       </td>
@@ -1138,7 +1142,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/zjWsCe3u05fM5tzey4a-vDRGb_hDd3AQRfVA9Y9IvnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODk5/NDIxLTE2NzQ4MDQ4/MDgtNzA1OC5wbmc.jpeg" alt="Cover for The Sounds Of End Game" style="max-width:120px; height:auto;" />
       </td>
@@ -1227,7 +1231,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/VhPtjkD8pjh-6MkjzdPNbsik7BQX-0rObS54QMd3O0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjYx/MDctMTY4MDU4Njgz/MS00MTI4LnBuZw.jpeg" alt="Cover for Astral Rejection (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c560a6395aa40ebb31e0c0e3c21c416.png" alt="Cover for Astral Rejection (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>I Set My Friends on Fire</td>
@@ -1250,8 +1254,9 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a28e405a2feb46099b6c0160c35838da.png" alt="Cover for Unavenged" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-27</td>
       <td>Random Encounter</td>
@@ -1291,27 +1296,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>17</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8b1a7de6b6f4dafb2aa7a324e2244bb.png" alt="Cover for KABOOM!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-10-24</td>
-      <td>I Fight Dragons</td>
-      <td>KABOOM!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 56</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/iKCMrVQhKaHnMi13oqkp_tG8SXa_DOw8wILXx83uR3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTQ2/MjUtMTMzNTA4NDA4/MS5qcGVn.jpeg" alt="Cover for Finally" style="max-width:120px; height:auto;" />
       </td>
@@ -1334,7 +1319,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/BumDG6-DhhfgqYh4TNAXA6PzodaHzPi5qw53OHyKvNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjcz/MTAxLTE2MzE5MjY5/MzktMjYzNS5qcGVn.jpeg" alt="Cover for Dancehate" style="max-width:120px; height:auto;" />
       </td>
@@ -1355,7 +1340,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/9PpcskzNhKGV_NKmzPWvaZDYBA9uev7CtF3JcX_taZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTU3/OTY4LTE1NDkwOTU0/MTAtMjU1MC5qcGVn.jpeg" alt="Cover for The Bearded Bird Broke a Bottle of Bear&#39;s Beer" style="max-width:120px; height:auto;" />
       </td>
@@ -1374,9 +1359,9 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/zzJ98ZZ22IsNJzxxHlAx6vtEEgiPLkP_LuOKkfdJtM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTc1/NDYtMTUyNjA3Nzk5/MC02MzcyLmpwZWc.jpeg" alt="Cover for Let Me Tell You a Story" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e595d27c01044b8ecb993a00a54251b3.png" alt="Cover for Let Me Tell You a Story" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Random Encounter</td>
@@ -1396,9 +1381,9 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/og6ex7z2uyIzwENMZk2WfhKVYwyTo07tmfzVet0bGKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjMw/NzAtMTY2OTY3NjI0/Mi03MjUyLmdpZg.jpeg" alt="Cover for 2 Le Chip 2 Quit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c1daed21ecd4fbaa675378fabb95d5b.png" alt="Cover for 2 Le Chip 2 Quit" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-05</td>
       <td>Radlib</td>
@@ -1418,8 +1403,8 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 2</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 46</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 1</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1437,7 +1422,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 46</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 47</li>
             <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 66</li>
         </ul>
       </td>
@@ -1445,6 +1430,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44ef188de96373fdeb560be12886d8bc.png" alt="Cover for Endless Fantasy" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-14</td>
       <td>Anamanaguchi</td>
@@ -1458,9 +1444,9 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 20</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 23</li>
             <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 86</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 89</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1482,7 +1468,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 28</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 33</li>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 47</li>
         </ul>
       </td>
@@ -1490,7 +1476,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/wYWcpN_EHZzfCXa9k-3ve_qaHC2N9IpsvyJzTnP919Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjE5/MTYtMTQ2Mjc5NjM5/MS02MDczLmpwZWc.jpeg" alt="Cover for The Mindsweep: Hospitalised" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0506949a18ab1ac8ec263a66b6deb1e.png" alt="Cover for The Mindsweep: Hospitalised" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-19</td>
       <td>Enter Shikari</td>
@@ -1511,7 +1497,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 62</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 64</li>
             <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 65</li>
             <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 79</li>
         </ul>
@@ -1520,7 +1506,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/aISx4J9_h59UfKpgOxsCp3bWmVR8agXi60DVD3-tG-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTkw/MjEtMTQ0MTEzMTM1/NC0yMDI0LmpwZWc.jpeg" alt="Cover for Phases" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/264bf35e534d75d0408a242213339dca.png" alt="Cover for Phases" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-08-28</td>
       <td>I See Stars</td>
@@ -1540,7 +1526,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 64</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 66</li>
             <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 80</li>
         </ul>
       </td>
@@ -1564,7 +1550,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/X83rMoIK2scYOZLqRmP5yqiOmmnVCaRdPN1c7tGli_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDE1/NDQxLTE1MzQ4MzMy/NTUtMjE2Mi5qcGVn.jpeg" alt="Cover for The Legend of Zelda V2" style="max-width:120px; height:auto;" />
       </td>
@@ -1585,7 +1571,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/Yhs2Zbk_MRbVnkfWwSCqmwBZYI89gccOxHVcnJ9MgOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjky/NjQ1LTE2MzU1MTUz/NDMtNTY0Mi5qcGVn.jpeg" alt="Cover for Misc. Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1605,9 +1591,9 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/vzThqIwLNQqNklHEkDGAKVbcS22XJmRzRGgpBbFKsXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzYz/MTE3LTE1NzMwMDQ5/NzgtMzc4Mi5qcGVn.jpeg" alt="Cover for Phoenix Down" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9623958f5d86187498031ca76943f87.png" alt="Cover for Phoenix Down" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Shark Infested Daughters</td>
@@ -1626,14 +1612,14 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 8</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/WJF8KJBzd1ZoxFT95c1fbCannPnRJumJmkMzh5lcW8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzAy/NjQ5LTE2NTMxMzAx/MzAtNDk2Ny5qcGVn.jpeg" alt="Cover for Don&#39;t Take Me for Pomegranate" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ab2338e0e500c0f5eee3b69786d1994.png" alt="Cover for Don&#39;t Take Me for Pomegranate" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>I Set My Friends on Fire</td>
@@ -1656,7 +1642,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/WJF8KJBzd1ZoxFT95c1fbCannPnRJumJmkMzh5lcW8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzAy/NjQ5LTE2NTMxMzAx/MzAtNDk2Ny5qcGVn.jpeg" alt="Cover for My Uzi Holds a Hundred Round Conscience" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74b9b8bf17e150f0f1eb97bbb0d8cae2.png" alt="Cover for My Uzi Holds a Hundred Round Conscience" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>I Set My Friends on Fire</td>
@@ -1677,7 +1663,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/DUUhgx3jdGEyqlcVxRwu0gkYMcFaYxzXhEh_kDoHWVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDc4/OTY1LTE2MzA1MjUy/MDQtNDAxNS5qcGVn.jpeg" alt="Cover for Skateelsya" style="max-width:120px; height:auto;" />
       </td>
@@ -1697,7 +1683,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/KwIl5Q_04Id4LquwzDlISFjdgKZGcRSbUvCXJRpvlfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjY3/NjE3LTE2ODkyODg5/NTQtNzM1Ny5qcGVn.jpeg" alt="Cover for The Devil-Faces of My Old Friends, Beneath Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36adb5886e230e682c0f8368dd1c040c.png" alt="Cover for The Devil-Faces of My Old Friends, Beneath Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Heccra</td>
@@ -1708,11 +1694,11 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 3</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 16</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 10</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 21</li>
             <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 45</li>
             <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 84</li>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 87</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1760,7 +1746,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/LyK3NJoTpJDmMzBBuFE-kIdmxulFzJhHgUrKme84zDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI0/OTQyLTE1OTEzOTc5/ODEtOTk0Ny5qcGVn.jpeg" alt="Cover for Baja Blasted" style="max-width:120px; height:auto;" />
       </td>
@@ -1791,7 +1777,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2020-07-25</td>
@@ -1835,7 +1821,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/gRlS179FjRKPhbzFgwL7gUbnwtimZDnEDrQtgrVxqfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjI3/OTM3LTE2NDgxNTM0/OTgtNTIyNS5qcGVn.jpeg" alt="Cover for Greetings from Ska Shores" style="max-width:120px; height:auto;" />
       </td>
@@ -1857,7 +1843,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/92SO5ncsz73DcJsPoHSVlzRA3EFRn7B5xZ7O7zoVTDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDE2/MjUwLTE2NzU3MjA3/NjItOTE3NS5qcGVn.jpeg" alt="Cover for VIII" style="max-width:120px; height:auto;" />
       </td>
@@ -1893,8 +1879,9 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad8cc6d7fc0440d1a9cdf81408fb0a70.png" alt="Cover for Eftos!rx I" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Eftos!rx</td>
@@ -1938,6 +1925,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5b53f46f158f0394d55b68a72bd84b3.png" alt="Cover for The End Is Close. Almost No Need For Money." style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>GO! With Fourteen O</td>
@@ -1985,7 +1973,30 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73da415e04c59aa6daecdf3ef33a2eb7.png" alt="Cover for Marsmensch" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Cookiebreed</td>
+      <td>Marsmensch</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -2005,7 +2016,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -2023,7 +2034,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -2063,7 +2074,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>
@@ -2081,7 +2092,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td></td>
@@ -2105,7 +2116,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td></td>
