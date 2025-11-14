@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T06:30:05.035Z
+date: 2025-11-14T02:02:38.955Z
 permalink: tags/metalcore
 title: metalcore
 ---
 
 ## metalcore
 
-Last updated: <time datetime="2025-11-03T06:30:05.035Z">Mon Nov 03 2025 08:30:05 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T02:02:38.955Z">Fri Nov 14 2025 04:02:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
   </thead>
   <tbody>
     <tr>
-      <td>9</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/470263152c334c9787a09608bbc82236.png" alt="Cover for Sounding the Seventh Trumpet" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td>2001-09-04</td>
@@ -69,8 +69,9 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e373815c7d574a46ca222524a8f72e70.png" alt="Cover for The Changing of Times" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-02-26</td>
       <td>Underoath</td>
@@ -83,12 +84,12 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 17</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4001df3ee21040e7a3ce7ebe9a111e54.png" alt="Cover for Alive or Just Breathing" style="max-width:120px; height:auto;" />
       </td>
@@ -106,7 +107,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/JkNIqhPY6FJZ-QVH8rkIIo59-K4L5erF4cGuj2nzN-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjE0/NTMtMTQwMTk1Mzcw/OC01MDY2LmpwZWc.jpeg" alt="Cover for A Snow Capped Romance" style="max-width:120px; height:auto;" />
       </td>
@@ -124,7 +125,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
       </td>
       <td>2003-05-06</td>
@@ -139,13 +140,13 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 29</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 31</li>
             <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/252156bbd807b567f33190499eae3999.png" alt="Cover for Frail Words Collapse" style="max-width:120px; height:auto;" />
       </td>
@@ -163,7 +164,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c152f2f534b449388423c6383f9492d.png" alt="Cover for Waking The Fallen" style="max-width:120px; height:auto;" />
       </td>
@@ -176,12 +177,12 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 11</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/8f4XL1a_9kNpeOjYVuqTG2yRSP5kN6Vjix0bRr97CTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDUz/Ni0xNDM1ODYyNDUy/LTg4MzAuanBlZw.jpeg" alt="Cover for The Fiction We Live" style="max-width:120px; height:auto;" />
       </td>
@@ -201,7 +202,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>5</td>
       <td>
       </td>
       <td>2003-09-29</td>
@@ -218,7 +219,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c01f7b338af4b99b989ec779cf1dca6.png" alt="Cover for The End of Heartache" style="max-width:120px; height:auto;" />
       </td>
@@ -236,7 +237,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/8303JD8osj8AQtjG_ChYpovwLG6z4cyYazxoVkmqy9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjA3/Ni0xMzQ5NjgwMjU0/LTkyNzAuanBlZw.jpeg" alt="Cover for This Darkened Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -254,7 +255,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
       </td>
       <td>2004-03</td>
@@ -271,7 +272,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/td5U_3dRMtNzO598arapOUNwHntheHMgrrzJW1Zxs2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzIw/NS0xMjU0OTM5MDQz/LmpwZWc.jpeg" alt="Cover for The Curse" style="max-width:120px; height:auto;" />
       </td>
@@ -289,7 +290,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/xfGGBy445hs_w9HDcQPxwT5lDEBkJQMksjSLp7ZrLJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzA2/MS0xMzY1MzM0ODg5/LTI2OTkuanBlZw.jpeg" alt="Cover for Ashes Of The Wake" style="max-width:120px; height:auto;" />
       </td>
@@ -308,7 +309,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
       </td>
       <td>2004-11-15</td>
@@ -340,36 +341,12 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 71</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
-      <td>
-          <img src="https://i.discogs.com/ilI04o3YZUttSPFdmvvPbesbmb5i_E9pnhHXS9xmlgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ3/NzEtMTE5MjM2MTY2/NS5qcGVn.jpeg" alt="Cover for And Their Name Was Treason" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-05-10</td>
-      <td>A Day to Remember</td>
-      <td>And Their Name Was Treason</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 6</li>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 14</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 68</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 83</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
       <td>
       </td>
       <td>2005-06-14</td>
@@ -386,7 +363,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>16</td>
       <td>
       </td>
       <td>2005-08-23</td>
@@ -401,12 +378,12 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 61</li>
-            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 75</li>
+            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
       </td>
       <td>2005-09-12</td>
@@ -437,12 +414,12 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 39</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa5a326d01364ba88a96d240f07ae090.png" alt="Cover for The All-Star Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -459,8 +436,25 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 49</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 59</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 50</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2005-11-22</td>
+      <td>Killswitch Engage</td>
+      <td>(Set This) World Ablaze</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -501,9 +495,9 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/wyO5-U2rfUfiZv5655C03UQ6HrHJouXos4d59SryTTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTk1/MDM0LTE1NjU3MDE3/MTUtMjE2Mi5qcGVn.jpeg" alt="Cover for Define the Great Line" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02eaf41d1d0741e781ebf4d57e9b460b.png" alt="Cover for Define the Great Line" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-25</td>
       <td>Underoath</td>
@@ -519,13 +513,13 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
         <ul>
             <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 51</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 52</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 67</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 81</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 76</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
       </td>
       <td>2006-03-28</td>
@@ -542,7 +536,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
       </td>
       <td>2006-08-22</td>
@@ -560,26 +554,27 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>3</td>
       <td>
       </td>
-      <td>2007-01-23</td>
-      <td>A Day to Remember</td>
-      <td>For Those Who Have Heart</td>
+      <td>2007-03-06</td>
+      <td>Emmure</td>
+      <td>Goodbye To The Gallows</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 73</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 86</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 44</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td>2007-04-10</td>
@@ -594,13 +589,13 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 22</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 38</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>2007-06-19</td>
@@ -618,7 +613,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
       </td>
       <td>2007-08-21</td>
@@ -654,7 +649,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>2007-10-06</td>
@@ -712,7 +707,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/97a10fca21f6033ffc2d51d27f839c80.png" alt="Cover for Overcome" style="max-width:120px; height:auto;" />
       </td>
@@ -750,7 +745,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3784b1259ec04ffc8bcb8f73dc051024.png" alt="Cover for Killswitch Engage" style="max-width:120px; height:auto;" />
       </td>
@@ -768,7 +763,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
       </td>
       <td>2009-01-26</td>
@@ -789,6 +784,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee2c1861c992445fa15e43b4af6db55e.png" alt="Cover for Homesick" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-03</td>
       <td>A Day to Remember</td>
@@ -802,15 +798,15 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 55</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 58</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 72</li>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 86</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 94</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 89</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>15</td>
       <td>
       </td>
       <td>2009-05-04</td>
@@ -828,7 +824,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d19113774fe2ccd07841ec5e4a5e8b10.png" alt="Cover for Dead by April" style="max-width:120px; height:auto;" />
       </td>
@@ -843,13 +839,13 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 99</li>
             <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 99</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>2009-07-14</td>
@@ -869,6 +865,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2d9c6598abefab938048dc5eeebc955.png" alt="Cover for Stand Up And Scream" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-15</td>
       <td>Asking Alexandria</td>
@@ -881,13 +878,13 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 12</li>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 47</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 29</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
       </td>
       <td>2009-10-20</td>
@@ -921,14 +918,14 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 51</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 69</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 53</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 71</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>6</td>
       <td>
       </td>
       <td>2010-05-07</td>
@@ -946,7 +943,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
       </td>
       <td>2010-06-05</td>
@@ -963,7 +960,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>4</td>
       <td>
       </td>
       <td>2010-08-23</td>
@@ -981,8 +978,9 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/278d843ca23c37a3f64dbbfea052e6b4.png" alt="Cover for There Is a Hell, Believe Me I&#39;ve Seen It. There Is a Heaven, Let&#39;s Keep It a Secret" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-04</td>
       <td>Bring Me the Horizon</td>
@@ -997,7 +995,31 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/OI5Ocd0GGyua8033EEfgmD0f5eTm_6z8eOpBn-b78oU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDQ0/NjEtMTM0MjYyMDM1/Mi0xNjgyLmpwZWc.jpeg" alt="Cover for Creatures" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-10-12</td>
+      <td>Motionless in White</td>
+      <td>Creatures</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 1</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 2</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 23</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 26</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4c788a75c6a4f77a8b7e50592a70778.png" alt="Cover for For We Are Many" style="max-width:120px; height:auto;" />
       </td>
@@ -1034,17 +1056,18 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 63</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 73</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 68</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 76</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 98</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 99</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 99</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b207a08db6b848b32f3d74abc7c587d.png" alt="Cover for The Here And Now" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-21</td>
       <td>Architects</td>
@@ -1076,15 +1099,16 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 15</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 37</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 46</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 54</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 1</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 20</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 43</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 47</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be3fabce121340c5bee823970d48c04d.png" alt="Cover for In Waves" style="max-width:120px; height:auto;" />
       </td>
@@ -1102,7 +1126,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/87Ay3I3APRP5cbVqfkaQva0DuJl-iQuEqz5OL8tvHmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzI0/MzE5LTE1NDg5NTg0/MzEtNzc1MS5qcGVn.jpeg" alt="Cover for My Own Grave" style="max-width:120px; height:auto;" />
       </td>
@@ -1121,7 +1145,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
       </td>
       <td>2012-08-12</td>
@@ -1138,14 +1162,15 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 44</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 45</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 45</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45aa687b625c486ba7ab3a8bf74541e0.png" alt="Cover for Atlas" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-26</td>
       <td>Parkway Drive</td>
@@ -1161,7 +1186,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dcf074fa4838914841e5b70357aa16a7.png" alt="Cover for As Daylight Dies (Special Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1181,7 +1206,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b665c029fbe8489f8e6a45dde56215d4.png" alt="Cover for Sempiternal" style="max-width:120px; height:auto;" />
       </td>
@@ -1196,13 +1221,13 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 36</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 50</li>
             <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/F-FzIve8VmvY0AphmRoFz41_BtRkOjxFsc6ktsJPUNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjUx/OTQzLTE1MzE0NjU3/NjAtNTU4Ni5qcGVn.jpeg" alt="Cover for Doomsday (Piano Reprise)" style="max-width:120px; height:auto;" />
       </td>
@@ -1217,12 +1242,12 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 81</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>9</td>
       <td>
       </td>
       <td>2014-03-07</td>
@@ -1239,7 +1264,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/93809633376642edc220ccb4099d34f2.png" alt="Cover for Pop Culture" style="max-width:120px; height:auto;" />
       </td>
@@ -1253,12 +1278,12 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 61</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70d1756e390acd9dd6ffc377a6829a18.png" alt="Cover for The Black" style="max-width:120px; height:auto;" />
       </td>
@@ -1277,7 +1302,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/nMvMFY-Ij4wnuqQ-dvFE9XUJ8prMtUh-f4ngJbzQcgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Njg3/NTMtMTU5MDIwOTQz/NS05OTU0LmpwZWc.jpeg" alt="Cover for All Our Gods Have Abandoned Us" style="max-width:120px; height:auto;" />
       </td>
@@ -1296,7 +1321,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/FpItErl3EmKR6L5B4kFVsmwlsyVyOpoEyrrALmlBDcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODc1/MTEtMTUwODk3Nzky/My02NDgzLmpwZWc.jpeg" alt="Cover for Laugh Tracks" style="max-width:120px; height:auto;" />
       </td>
@@ -1310,13 +1335,13 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 48</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 49</li>
             <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/omtx2n8l5qeZxgNrPFWh_97dU0UtJlrJNZjP59sKcYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTY1/MTA5LTE2NDkyMDc2/NDUtMjU4Ny5qcGVn.jpeg" alt="Cover for Bad Omens" style="max-width:120px; height:auto;" />
       </td>
@@ -1335,9 +1360,9 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
-          <img src="https://i.discogs.com/IPLldxSvvA8UhB2BQVDKA-7LgHjbgtf7NLC6A97HZb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NDk3/NzAtMTQ4OTA4NDEz/Ni05ODg1LmpwZWc.jpeg" alt="Cover for Misery" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16cf4defd58e323c1a4d48303f55aec5.png" alt="Cover for Misery" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-10</td>
       <td>The Word Alive</td>
@@ -1355,8 +1380,8 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 59</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 68</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 69</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 71</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 88</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 89</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 98</li>
@@ -1365,9 +1390,9 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/XvsrVY75TYedF7e9AC8idItsTE5tPihb_dGwi3uD3nE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjMz/MTQxLTE0OTQzNjQ1/MTUtNzUzOS5qcGVn.jpeg" alt="Cover for Graveyard Shift" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f6b0512eb2a5a538b10d3578ebd9b73.png" alt="Cover for Graveyard Shift" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-29</td>
       <td>Motionless in White</td>
@@ -1379,14 +1404,14 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 12</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/p7YKCV8ujIDOqwtj7mGLpjnzPQyn0KD7C6Wix553MvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDc4/NzUtMTU2MzQ4MzYy/MS02NzY2LmpwZWc.jpeg" alt="Cover for White Hot &#x2F; Saint Cecilia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3235ca86cd374553eea0ade30f1efa0a.png" alt="Cover for White Hot &#x2F; Saint Cecilia" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-04</td>
       <td>Loathe</td>
@@ -1402,9 +1427,9 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/xsT1E5DdE_uKRSwBFUc-5O_5f2OKLf5Xp8x2MiPeeXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM1/NjU0LTE2NDIxMDQw/NTYtMTA2MS5qcGVn.jpeg" alt="Cover for The Silver Scream" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e5c45c90cef88d8934487451e65a886.png" alt="Cover for The Silver Scream" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-05</td>
       <td>Ice Nine Kills</td>
@@ -1420,15 +1445,15 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 4</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 33</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 47</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 21</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 34</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 48</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/AsFHumjsYywAUckmOTNfzv0fhoVPIoC7r44fmnhL-Cc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ2/MDEwLTE1NDIyODQ3/MDEtODMzMC5qcGVn.jpeg" alt="Cover for Holy Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -1449,7 +1474,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/hiefBWrqCtF-T9bmvLQo__Xgvb3Ug89G1HwQahrqUhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDA4/NTE3LTE1NTM2MzE2/MTQtODcxMi5qcGVn.jpeg" alt="Cover for Trauma" style="max-width:120px; height:auto;" />
       </td>
@@ -1468,7 +1493,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/4Dn6DJibBqXgsx9UB6dEJkKmJxYwuqGu7g0TziXdj8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE5/MzM3LTE2MDI2MDQ5/MjctOTIzMC5qcGVn.jpeg" alt="Cover for Disguise" style="max-width:120px; height:auto;" />
       </td>
@@ -1486,7 +1511,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/VW9A9E2NmUCXQhsKf8vN_zJr5931MjKBOpLLwpuuCTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDg3/OTIzLTE1OTIzNTIz/MzAtMzUyMS5qcGVn.jpeg" alt="Cover for DEMONSTRATION" style="max-width:120px; height:auto;" />
       </td>
@@ -1519,12 +1544,12 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 61</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/FYanyxU5NUFPz_Zb9xRy0s04hP8FakVSPGJSLWS4-2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODE1/ODg4LTE1ODIxNDYw/NjUtOTY0OC5qcGVn.jpeg" alt="Cover for The Death of Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1542,7 +1567,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/hJZvI-SOGy-0f0hvEUC4SjDCNpfjm11W6L1oiTyK65g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODA0/NTA4LTE1OTgxMDk0/MTEtODM2MC5qcGVn.jpeg" alt="Cover for Holy Roller" style="max-width:120px; height:auto;" />
       </td>
@@ -1557,7 +1582,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 80</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1578,18 +1603,18 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 51</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 80</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 83</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 87</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 57</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 83</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 84</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 88</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/4V26pb_-Hz_w9uNvQGUJwZib4E6FihhwQpVMeeooxJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTU4/ODg0LTE2MTU0NDA5/ODEtOTU3OS5qcGVn.jpeg" alt="Cover for For Those That Wish To Exist" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6de1da1f5346edbd6c7f05642d44d7e.png" alt="Cover for For Those That Wish To Exist" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-02-26</td>
       <td>Architects</td>
@@ -1602,12 +1627,12 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 42</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/1s6kb4SU1_IhQXYMHN2avn3KZ-_f-7JyW41XfMr0gaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDc3/NTI5LTE2MjMyNTEw/NjAtMTc5OS5qcGVn.jpeg" alt="Cover for EAT (NXT Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1622,11 +1647,12 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/12tj1BExs-n9QeCsIhijrVWgbcbjpbZJZXW_BUirCf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjQ3/MzQ2LTE2Nzc2NDQ0/NzgtMzY1My5qcGVn.jpeg" alt="Cover for Eternal Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -1645,7 +1671,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/8imoew3iINDSXa5XW5HYJKK9UC-VTxXyf6WI5v0OqVg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTgy/NzA0LTE2MzQxODg2/NjItNzEyNC5qcGVn.jpeg" alt="Cover for A Tear in The Fabric of Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1663,7 +1689,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31247a4412911ac3e8502777d456a5c7.png" alt="Cover for THE DEATH OF PEACE OF MIND" style="max-width:120px; height:auto;" />
       </td>
@@ -1681,7 +1707,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/eI5T50PgRN79hnVbJY5ODVLTrvtXgHwZDQClB48jcbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTE5/NzA1LTE2NTQ3OTE1/ODUtMTk3MC5qcGVn.jpeg" alt="Cover for Scoring the End of the World" style="max-width:120px; height:auto;" />
       </td>
@@ -1696,12 +1722,12 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 32</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/nBKa8bc32Cg_2ZF1JlTvrVE7G_xbITeWMZsEr3iLIBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjk3/OTA1LTE2NTYyNDY2/NDEtMzgxNy5qcGVn.jpeg" alt="Cover for Rotoscope" style="max-width:120px; height:auto;" />
       </td>
@@ -1717,13 +1743,13 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 75</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 76</li>
             <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c0d0738359c4f59a90331ae31c01647.png" alt="Cover for True Power" style="max-width:120px; height:auto;" />
       </td>
@@ -1740,13 +1766,14 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 37</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 38</li>
             <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/FVwt3hU4gKqFawht7cIeYr9NPWy42XJZvAwD9KRswMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDA2/Mzc0LTE3MDA4MzU2/MjQtMjM3NC5qcGVn.jpeg" alt="Cover for Welcome To Horrorwood: The Silver Scream 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1764,7 +1791,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/kh3JEgxmBR8AWj4YIMxxBlOK1Wq4d-VtvDckDc3aWQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTE2/ODUzLTE2OTMzNTIx/NDktODkwMS5qcGVn.jpeg" alt="Cover for Outskirts" style="max-width:120px; height:auto;" />
       </td>
@@ -1843,52 +1870,52 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 1</li>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 1</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 2</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 2</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 3</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 42</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 43</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 52</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 53</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 46</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 46</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 55</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 55</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 61</li>
             <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 66</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 72</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 81</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 83</li>
             <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 83</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 83</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 85</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 89</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 90</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 90</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 90</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 92</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 93</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 94</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 94</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 95</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
             <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
@@ -1897,6 +1924,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
@@ -1907,15 +1935,14 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/DBXFTIrEIyke0-ST8Yv8MdUjvReJnVON5ZKTYJPRPLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTYw/MzIxLTE2ODMxMDU5/NTMtMzg4Mi5qcGVn.jpeg" alt="Cover for Spit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/746e5334fd06624ad03fa025c5cf371b.png" alt="Cover for Spit" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-05-03</td>
       <td>Poppy</td>
@@ -1932,15 +1959,16 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 64</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 18</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 65</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 76</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 79</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 80</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/WiQwMoEhKQ9qKUqGJNhVnK8xC9toFHnjwCDKjy9h0LQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzc4/MTQ3LTE2ODY3Mjc3/MTAtMzQ0Ny5qcGVn.jpeg" alt="Cover for Upon Loss Singles" style="max-width:120px; height:auto;" />
       </td>
@@ -1960,7 +1988,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/pHUQ_mHhxn-Vj5lCIC_STxicCcuJI1ZJapUEKSuhbR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjM3/Mjg4LTE3MTUzMDE3/MDMtMzA1MS5qcGVn.jpeg" alt="Cover for You Won&#39;t Go Before You&#39;re Supposed To" style="max-width:120px; height:auto;" />
       </td>
@@ -2001,9 +2029,9 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/XpXm9vMdWm6KMKRH3slWr9mNFSRayuM5d-4zjWMZ1JA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk3/MDg1LTE1OTI1MDg2/MjYtMTg5MS5wbmc.jpeg" alt="Cover for Popular Monster" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e2fff99ac19fdcfc7ecc7054c429848.png" alt="Cover for Popular Monster" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-08-16</td>
       <td>Falling in Reverse</td>
@@ -2021,7 +2049,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4162988f8299d2bd7314ac97bc8fabb4.png" alt="Cover for The Sky, the Earth &amp; All Between" style="max-width:120px; height:auto;" />
       </td>
@@ -2039,7 +2067,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd931acd3c6a4c5095e8195b86d80efc.png" alt="Cover for Dying Is Your Latest Fashion" style="max-width:120px; height:auto;" />
       </td>
@@ -2060,26 +2088,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
     </tr>
     <tr>
-      <td>52</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef023175fbe22d7533b170ca90e81a10.png" alt="Cover for The Fiction We Live" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>From Autumn to Ashes</td>
-      <td>The Fiction We Live</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 38</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/85334a57b2b2a85bfd61a808add64741.png" alt="Cover for TEKKNO" style="max-width:120px; height:auto;" />
       </td>
@@ -2094,13 +2103,13 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 79</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 80</li>
             <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/60a37d1f71543d9587e4567b101b855b.png" alt="Cover for TRAUMA" style="max-width:120px; height:auto;" />
       </td>
@@ -2116,7 +2125,7 @@ Metalcore is a subgenre of heavy metal that combines elements of hardcore punk a
       <td>
         <ul>
             <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 33</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 72</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 73</li>
         </ul>
       </td>
     </tr>

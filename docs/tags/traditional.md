@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:40:42.598Z
+date: 2025-11-14T01:47:19.589Z
 permalink: tags/traditional
 title: traditional
 ---
 
 ## traditional
 
-Last updated: <time datetime="2025-10-28T06:40:42.598Z">Tue Oct 28 2025 08:40:42 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T01:47:19.589Z">Fri Nov 14 2025 03:47:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
   </thead>
   <tbody>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>1949-06-20</td>
@@ -47,14 +47,14 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 49</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/ixK0_tCfVp_Sg5fpxXD3qstEySa6P3TeW3Ii_kDPc5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDc1/ODIzLTE1ODYzNjgz/MjctMjQ1Ny5qcGVn.jpeg" alt="Cover for Songs From The Depression" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b0edb8aec5544d0b6fd4b9c98224ecd.png" alt="Cover for Songs From The Depression" style="max-width:120px; height:auto;" />
       </td>
       <td>1959</td>
       <td>The New Lost City Ramblers</td>
@@ -75,7 +75,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
       </td>
       <td>1968-02</td>
@@ -102,8 +102,9 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/765db8b68e6400f2640ce7f7682cb09f.png" alt="Cover for Bright Phoebus" style="max-width:120px; height:auto;" />
       </td>
       <td>1972-09</td>
       <td>Lal &amp; Mike Waterson</td>
@@ -119,7 +120,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/q7BzBcNJW5OUjZZw-l_ubdZTvv5xvOxyt4FwldexZlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTgx/NjQtMTI0MTQ0NDQ2/MC5qcGVn.jpeg" alt="Cover for Shankar: Symphony" style="max-width:120px; height:auto;" />
       </td>
@@ -148,7 +149,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/v4GLkYvhA5W8XKNEI5rGLOQGhOdsxtQrF3zpaFPUM1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTI0/NDYyLTE2NTgxNjAz/MzAtOTMyNC5qcGVn.jpeg" alt="Cover for Rendan e Mast" style="max-width:120px; height:auto;" />
       </td>
@@ -176,7 +177,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>1986</td>
@@ -197,7 +198,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/hFuJQb_KEy5OCKa4g5bB3hu45ggQEEaHcHBAezBz__w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Nzkx/MTMtMTQ5NjU5Mjk3/NS01NTA5LmpwZWc.jpeg" alt="Cover for La kora du Sénégal, vol. 2 : Chant et poésie d&#39;Afrique noire" style="max-width:120px; height:auto;" />
       </td>
@@ -215,7 +216,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>1992</td>
@@ -237,26 +238,9 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>10</td>
       <td>
-      </td>
-      <td>1993-10-22</td>
-      <td>Bob Dylan</td>
-      <td>World Gone Wrong</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>
-          <img src="https://i.discogs.com/8-sVJbGkbhvENshIId39WaSr-Y9SHHXook5ThdvYWtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTkz/NjMtMTM4OTk2MTMw/Mi02MTkzLmpwZWc.jpeg" alt="Cover for Un Fuego de Sangre Pura: Los Gaiteros de San Jacinto from Colombia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bb8b012e86b486f8110f0d8c13a8bd9.png" alt="Cover for Un Fuego de Sangre Pura: Los Gaiteros de San Jacinto from Colombia" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Los Gaiteros de San Jacinto</td>
@@ -277,7 +261,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/qcm0dETKRq9X8COLBvS0HcvqUR8zwYCs7QaO4YbhKUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDIw/ODEwLTE1MTYwMzAx/MTAtOTIyNi5qcGVn.jpeg" alt="Cover for Journey Begun" style="max-width:120px; height:auto;" />
       </td>
@@ -314,12 +298,12 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 59</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/7GJiTD5JSktJxqZHB4Pju43tRjoahI64q9OZV-S9pkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTA1/NjgtMTIzMDY2MDg0/MS5qcGVn.jpeg" alt="Cover for The Mansa of Mali...a Retrospective" style="max-width:120px; height:auto;" />
       </td>
@@ -339,7 +323,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>1994</td>
@@ -356,7 +340,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td>1994</td>
@@ -393,7 +377,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/u_vtLf_9OrBE4N-WI0uroizol4r3Ki2lINWWvgSrxvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzU3/NTQtMTM5NDMxODgw/OC05OTQ5LmpwZWc.jpeg" alt="Cover for Guitar A La Hindustan" style="max-width:120px; height:auto;" />
       </td>
@@ -414,8 +398,9 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a04e4a92c4d90f7b7239bf673816b650.png" alt="Cover for Chinese Bamboo Flute Music" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Ming Flute Ensemble</td>
@@ -431,9 +416,9 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/ZZ_aqNAtJNvmQ4_xJB2ukUfsFG4hFs9LKoyTCrdu4bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTAx/NC0xNjQzMjc2NjMz/LTU4MjEuanBlZw.jpeg" alt="Cover for The Legend of Blind Joe Death (Remastered)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90720d8090f461c2018da4204b530470.png" alt="Cover for The Legend of Blind Joe Death (Remastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>John Fahey</td>
@@ -450,12 +435,12 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 77</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/kq3YMdtev5ayeXkJx4VcGHlHQUrwHW8C3ptzuuT06BM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTU1/MDgtMTMzMjY3NTM3/Ny5qcGVn.jpeg" alt="Cover for Dancings des bouts du monde" style="max-width:120px; height:auto;" />
       </td>
@@ -479,7 +464,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>1997</td>
@@ -498,9 +483,9 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/-Zo6qk2K3eHwuewL2DVPQwyPk68S2yOhuf--E1rKMxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mjkw/NTctMTI5ODM4MjU3/Ny5qcGVn.jpeg" alt="Cover for Muleskinner Blues: The Asch Recordings, Vol. 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/feb97ca1421a0b9dbe00b2f982c60bb3.png" alt="Cover for Muleskinner Blues: The Asch Recordings, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Woody Guthrie</td>
@@ -515,7 +500,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
       </td>
       <td>1998</td>
@@ -545,7 +530,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td>1998</td>
@@ -578,7 +563,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/FLxMTAFLT4baky3VuAGeja0MRqyScmVzSkyiv3-2Zaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njcz/MTUtMTQ0NDE3NDYz/NC00MTQ5LmpwZWc.jpeg" alt="Cover for Pray" style="max-width:120px; height:auto;" />
       </td>
@@ -604,7 +589,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/v--RXc_Hdpnrb_AhtySDAqaW3bEgny2QPCEYtkKslrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTI3/MzItMTI1ODQ5NTQ3/NC5qcGVn.jpeg" alt="Cover for Triakel" style="max-width:120px; height:auto;" />
       </td>
@@ -622,7 +607,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/qvwFwu3LPUnMzWk4ypxg3OXr_7XiX2rpLq4dHA_hL9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk4/MjMwLTE0OTY2NjQy/MDEtNjYwMS5qcGVn.jpeg" alt="Cover for Legends Of The 20th Century" style="max-width:120px; height:auto;" />
       </td>
@@ -662,7 +647,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/NVCtE797eVLZE18fSvMQcF1AEWD1_WuloqwiTleTEcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTM5/MzUtMTQwODMxMTYx/MC01MDQ3LmpwZWc.jpeg" alt="Cover for Music Of Kurdistan" style="max-width:120px; height:auto;" />
       </td>
@@ -680,7 +665,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/8VmOmrJdP5qGn57RzlAI-xKuBLB8mVD1is34x0z7meg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODg3/MzUtMTQ4MTQ1NzI5/Ny0xNTcyLmpwZWc.jpeg" alt="Cover for Vietnamese Traditional Music" style="max-width:120px; height:auto;" />
       </td>
@@ -698,8 +683,9 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ece1b84cfad74a57caca83494e9c5933.png" alt="Cover for Divine Music From a Jail" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Oidupaa Vladimir Oiun</td>
@@ -715,7 +701,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>2000</td>
@@ -764,9 +750,9 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/Wtt-oTAJvbFTGRMbIh-i5AyI3MWsCRrMYgqBQkl84gY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjE3/MTktMTMyMjg1MzU2/My5qcGVn.jpeg" alt="Cover for Skyedance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a954fa78578647519446e3bb0702537c.png" alt="Cover for Skyedance" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Alasdair Fraser &amp; Paul Machlis</td>
@@ -787,7 +773,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/S1aZhM942-tX7hOoEbQn40m91lNajO3Ygbi6LHYKb9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDkx/NjgtMTM4MzEyMTY0/OS05NDA4LmpwZWc.jpeg" alt="Cover for Outlaws &amp; Dreamers" style="max-width:120px; height:auto;" />
       </td>
@@ -811,7 +797,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/xgEV6M-bg3BfKUBYTYqRlWX0d3OqT8MkVRl2iN9K280/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDY2/MDUtMTI3NTgwNjUx/MS5qcGVn.jpeg" alt="Cover for Passion" style="max-width:120px; height:auto;" />
       </td>
@@ -836,7 +822,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2002</td>
@@ -853,7 +839,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td>2002</td>
@@ -869,7 +855,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/mt8DUjNmgdLZAdoRGleOHFDQH5YAXEy3-p2yAu1yotM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTI1/Nzc3LTE2NTEwMDIx/ODMtNDA3My5qcGVn.jpeg" alt="Cover for Too Close to the Mirror" style="max-width:120px; height:auto;" />
       </td>
@@ -892,9 +878,9 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
-          <img src="https://i.discogs.com/_UVvHMvfGQkiSIJLPAVxIxD38nS_miCHN8LG8OKa3mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDU0/NDItMTM0OTU5OTIy/Ny02Nzg3LmpwZWc.jpeg" alt="Cover for Rakish Paddies" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fec5b56d6c1540ca91591aaac0d13b3c.png" alt="Cover for Rakish Paddies" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Rapalje</td>
@@ -917,7 +903,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/TBeEXOAgm_xyoK8QArSlBT8wQjwGjzqHO6E4PHvl5x8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODc4/Ni0xMzg1MTYyMDA0/LTgwOTMuanBlZw.jpeg" alt="Cover for The Amfortas Wound" style="max-width:120px; height:auto;" />
       </td>
@@ -953,7 +939,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/aDUvIpeTFGFTd4U9EVBhUS5B32bNUJpo1PeWMAZHLt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzg4/ODctMTU5MzExNTA1/MS03OTU0LmpwZWc.jpeg" alt="Cover for A Secret Gate" style="max-width:120px; height:auto;" />
       </td>
@@ -970,7 +956,27 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/ta_ePfmLqKBPMUFpgxdSHbu603d57d3nKz48l3iFO1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIx/NjA5LTE1NzAxNDY1/OTMtMTMzMC5qcGVn.jpeg" alt="Cover for Capoeira Angola 2: Brincando na Roda" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-07-22</td>
+      <td>Grupo de Capoeira Angola Pelourinho</td>
+      <td>Capoeira Angola 2: Brincando na Roda</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/TvJCopbfNUJG1sri4mYdAqFlw9YJ7-Of54c4KTfQ_gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTIw/MDU1LTE1MTc3Nzkw/ODAtOTgwMS5qcGVn.jpeg" alt="Cover for Bigger is Tough" style="max-width:120px; height:auto;" />
       </td>
@@ -993,7 +999,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/zgY0JxzyXoKrbU4MqO67-7sFdHnWJ81ZmmQ1dWqwmGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDI1/MjctMTYwNjA2MDI0/MC05MzIzLmpwZWc.jpeg" alt="Cover for Les 50 Plus Belles Chansons De Brigitte Bardot" style="max-width:120px; height:auto;" />
       </td>
@@ -1021,7 +1027,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/fVTq7K_pjRDbClqOfMAdw8oLD9La9UXijQ0e8ftzsJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTMw/NDMyLTE2NzUwMzcy/NzUtNzgyMi5qcGVn.jpeg" alt="Cover for Fields O Storied Fame" style="max-width:120px; height:auto;" />
       </td>
@@ -1046,8 +1052,9 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87ffbd25298ce68f9504ec32c39e90f2.png" alt="Cover for Sånger från 63° N" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Triakel</td>
@@ -1063,7 +1070,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/Ru4BtwTHS-vpgzTA0jWcR2jnEuwbhBXgBSn706LX__c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYx/MjYwLTE1NTA5MzU2/NzMtODkwNy5qcGVn.jpeg" alt="Cover for Songs from 63° N" style="max-width:120px; height:auto;" />
       </td>
@@ -1081,7 +1088,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2004-02-10</td>
@@ -1100,7 +1107,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/tOl74o3WH3Dprq0Toi_nGdt30pJgBMmfD3GjMbe__Ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjQ0/MTgtMTMwOTQzOTg1/NC5qcGVn.jpeg" alt="Cover for Sendzirdēju" style="max-width:120px; height:auto;" />
       </td>
@@ -1128,9 +1135,9 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/mtP-I78lDKCUe2gBNSw49iJ_IRAP8byve9sqS6AjaSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzA5/ODYtMTQyMzQ2ODk2/OS00MTk1LmpwZWc.jpeg" alt="Cover for サクラ サクラ" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88e6a5572da923aac320be5d7a7c0b84.png" alt="Cover for サクラ サクラ" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-04-20</td>
       <td>Rin&#39;</td>
@@ -1156,9 +1163,9 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/GcUX3WR3VcQmX4BzJayVRd8hy0idgMQNOo9kwYU4ZbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDcy/MjgtMTQzNDc3ODUz/NS0zNDg2LmpwZWc.jpeg" alt="Cover for Hotel Albania" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09f24de648944f679c0a21e5e8c5ab67.png" alt="Cover for Hotel Albania" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-14</td>
       <td>Opa Cupa</td>
@@ -1181,9 +1188,9 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
-          <img src="https://i.discogs.com/PRXpbGt3a_LJP91AegeaYg73ib-khHWt-pnALA8TDDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjIz/MC0xMjkyODc0MTA1/LmpwZWc.jpeg" alt="Cover for Two Originals of Jack Rose" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38acd8db5b7bc5fd91a8dc6ef2bc16cf.png" alt="Cover for Two Originals of Jack Rose" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Jack Rose</td>
@@ -1203,7 +1210,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/boWQMsAiI-kHy_hNsNdqtiNtIuxY8FgLZ8gpa9Z5LTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTc1/OTMtMTQ4NDk0NzA2/MC00NzA2LmpwZWc.jpeg" alt="Cover for Russian hurdy-gurdy tunes" style="max-width:120px; height:auto;" />
       </td>
@@ -1221,7 +1228,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/N62ubTroMFx_ptKXcT4O2VHTsAbRkpVOtU7qS2bkzq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTA5/OC0xMTc2MjkzNjc4/LmpwZWc.jpeg" alt="Cover for Prigadi-pragadi" style="max-width:120px; height:auto;" />
       </td>
@@ -1247,7 +1254,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2008-07-22</td>
@@ -1267,7 +1274,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>2008-09-26</td>
@@ -1296,7 +1303,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for Balkan Journeys Close to Home" style="max-width:120px; height:auto;" />
       </td>
@@ -1316,7 +1323,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/mTDQnK7u0WJ_5NGySrGVuu-rjp5GnkXEXH37nFYXkpQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjEy/NDEtMTQyMzI2MTcy/My0yMzYyLmpwZWc.jpeg" alt="Cover for Heartbeat of My Land" style="max-width:120px; height:auto;" />
       </td>
@@ -1341,7 +1348,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2010-02-15</td>
@@ -1379,9 +1386,9 @@ Traditional music encompasses culturally rooted sounds passed down through gener
         <ul>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 13</li>
             <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 26</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 26</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 33</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 69</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 74</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1421,22 +1428,22 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 7</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 20</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 11</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 25</li>
             <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 39</li>
             <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 44</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 64</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 77</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 80</li>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 88</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 90</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 90</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/BFtcIpb-8AA_Ymnf1SHfi6I2qE_A7z2qawD6n24L1_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTM1/ODU3LTE2NTk5NTc2/NjUtMzA0Ny5qcGVn.jpeg" alt="Cover for Deadly Buzz | Aoibhinn Crónán" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efc6904e57c34b928babfc15459ed293.png" alt="Cover for Deadly Buzz | Aoibhinn Crónán" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Mick O&#39;Brien &amp; Caoimhín Ó Raghallaigh</td>
@@ -1455,8 +1462,9 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4008b4a78cfb4ef4ce27e4bc4e0ad951.png" alt="Cover for As Fâr" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-11</td>
       <td>Le Trio Joubran</td>
@@ -1502,7 +1510,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>2012-03-24</td>
@@ -1550,7 +1558,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/H5WS4APSGfmJOoHPe7gUNB8751-36bUjes-kREYyD9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDc5/ODM0LTE2MTcxMzk3/NDEtODI1NC5qcGVn.jpeg" alt="Cover for Love Will Go All The Way" style="max-width:120px; height:auto;" />
       </td>
@@ -1571,9 +1579,9 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/zh7BkeiPnmtt21LvS__l6ncM6ffSIpKjnOrbJSg_E2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzE0/NjI3LTE2NzMyNzI2/MDItMjY3Mi5qcGVn.jpeg" alt="Cover for The Ziur Movement" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/771257e7b0e8d9373dda193653e6c8eb.png" alt="Cover for The Ziur Movement" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Maneli Jamal</td>
@@ -1589,14 +1597,14 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 21</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/xM3JO6nfRhffLC5rAs7nxoxOMHNbpXrvfgyUQhsH5oI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTk4/MzAtMTQ0Njk5NjAz/My02MjY5LmpwZWc.jpeg" alt="Cover for FARAN" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/190d460792854e6aced4fbf23c197fa9.png" alt="Cover for FARAN" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-06</td>
       <td>Faran Ensemble</td>
@@ -1619,7 +1627,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/HkaQTm3LU9j8vFZX4y9_SdZprQvoKFz6T20v6HFO5EA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI0/NDIxLTE1Mjg3OTU0/NzUtNzk3Mi5qcGVn.jpeg" alt="Cover for Creation of the World" style="max-width:120px; height:auto;" />
       </td>
@@ -1648,7 +1656,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
         <ul>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 45</li>
             <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 59</li>
-            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 60</li>
+            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 62</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 63</li>
         </ul>
       </td>
@@ -1694,23 +1702,23 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 31</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 33</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 35</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 39</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 49</li>
             <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 58</li>
             <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 60</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 63</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 70</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 74</li>
             <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 84</li>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 85</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 87</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 89</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 90</li>
             <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/j8QKKjn2QdlAV8jEqfaEFpy43WA7tci2-YCHPAjWW74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzUx/NDktMTQwNjczOTA5/Ni0yOTU4LmpwZWc.jpeg" alt="Cover for Cold Old Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -1746,9 +1754,9 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
-          <img src="https://i.discogs.com/sYsnqgJL87QQKkfn-qY55rl83DY_njHrBzA7HvtUnNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjUw/NTgtMTQyOTYzNTQw/MC01ODQyLmpwZWc.jpeg" alt="Cover for In Mixt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ce7c15c73dfb6779469ccc1ba57fda1.png" alt="Cover for In Mixt" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-21</td>
       <td>Folkbeat</td>
@@ -1768,7 +1776,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/MOzUCMSNYNwtgQLqRV3RCip7ekfad4lkwGBpT_NalDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI4/OTk5LTE1MTIzMTI2/NDUtNjg5Ni5qcGVn.jpeg" alt="Cover for The Soil" style="max-width:120px; height:auto;" />
       </td>
@@ -1787,7 +1795,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/YhZSPTxCH43P5UCY2wD73xAH5isfvaoT7_hVDg-IWtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzY5/Mzc0LTE2OTAyMDQ1/MzctOTkwNi5qcGVn.jpeg" alt="Cover for Se Que Soy" style="max-width:120px; height:auto;" />
       </td>
@@ -1813,14 +1821,14 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       <td>
         <ul>
             <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 53</li>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 59</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/c2RsYp0c9J40AWVih4Zc3jGbMzHRSiphU0wlgXXIoAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1ODA0/NDMtMTQ4MzEwMjAx/OC01NjEzLmpwZWc.jpeg" alt="Cover for Nem Kaldi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6749ced6af3d9e2a49a08345e7026774.png" alt="Cover for Nem Kaldi" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-03</td>
       <td>Derya Yildirim</td>
@@ -1842,7 +1850,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/6IpNrao3F9l-W8zpMTnxrwMdwPI4NLPpd4E11CiTXV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU1/NDc2LTE1MDE3ODQz/NzQtOTQzNC5qcGVn.jpeg" alt="Cover for The Image of Melancholy" style="max-width:120px; height:auto;" />
       </td>
@@ -1861,7 +1869,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/F-0YqvNlF0xEgBfog3huAL8LvsZxgslrNN0guNh0RhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTc3/MzA2LTE1MDc1NDUy/NjYtODk2NS5qcGVn.jpeg" alt="Cover for Sweet and Lowdown Traditionals" style="max-width:120px; height:auto;" />
       </td>
@@ -1885,7 +1893,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/W1vLiJXv3UbiphwcgRaA-SexCSm3Qz-9oxvQEDkSA9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTEy/NzEwLTE2MzY0NzQ1/OTctODA3MC5qcGVn.jpeg" alt="Cover for First Noel" style="max-width:120px; height:auto;" />
       </td>
@@ -1923,9 +1931,9 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
-          <img src="https://i.discogs.com/xHU3tmSW18unDQ3x7K6Ms1tY_TxzCLc_VR6aTiRKQvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTEy/OTA3LTE1NTAxNDUw/ODctNjY3My5qcGVn.jpeg" alt="Cover for Vari-Colored Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/797f8d2d535e421fc2aa1bd3381ff8a6.png" alt="Cover for Vari-Colored Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-09-12</td>
       <td>Leyla McCalla</td>
@@ -1947,7 +1955,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -1967,7 +1975,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -1994,7 +2002,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -2014,8 +2022,9 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ce52627dff51369ad55192486a3c076.png" alt="Cover for Chant Of Drums" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Kamkars</td>
@@ -2044,7 +2053,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>
@@ -2071,7 +2080,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -2098,7 +2107,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td></td>
@@ -2125,8 +2134,9 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75cbe7b161a8c65245751464f1d74aa1.png" alt="Cover for Koutev Bulgarian National Ensemble" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Koutev Bulgarian National Ensemble</td>
@@ -2146,7 +2156,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td></td>
@@ -2175,7 +2185,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
       </td>
       <td></td>
@@ -2196,6 +2206,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ed8097e6b6e6148cac9898bd0a5b720.png" alt="Cover for The Lamaj Movement" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Maneli Jamal</td>
@@ -2212,14 +2223,15 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 89</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 90</li>
             <li> <a href="{{ "/tags/fingerstyle-guitar" | relative_url }}">fingerstyle guitar</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2e05eedb264e605d0ff48983b6e0ea2.png" alt="Cover for Zareef" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>El-Funoun Palestinian Popular Dance Troupe</td>
@@ -2239,7 +2251,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
@@ -2257,7 +2269,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td></td>
@@ -2275,7 +2287,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td></td>
@@ -2292,7 +2304,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
       </td>
       <td></td>
@@ -2311,8 +2323,9 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ba1f9e0c8709a0e59bcdd62777dcd39.png" alt="Cover for German Volksongs, Vol. 2 (Die schönsten deutschen Volkslieder - Teil 2)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Die Lustigen Vagabunden</td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T20:29:44.713Z
+date: 2025-11-14T02:53:10.902Z
 permalink: tags/post-rock
 title: post-rock
 ---
 
 ## post-rock
 
-Last updated: <time datetime="2025-11-11T20:29:44.713Z">Tue Nov 11 2025 22:29:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T02:53:10.902Z">Fri Nov 14 2025 04:53:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -61,7 +61,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 96</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -134,13 +134,13 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 71</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 73</li>
             <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b81a00734a2f70b34acde16c61fdfa71.png" alt="Cover for Dots and Loops" style="max-width:120px; height:auto;" />
       </td>
@@ -156,14 +156,14 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 21</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 25</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 24</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 28</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 53</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 32</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 55</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 64</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 87</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 95</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 95</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -252,12 +252,12 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 76</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
       </td>
       <td>2000-03-13</td>
@@ -274,7 +274,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/WIGypRjUE1P4lxVHhMeYkBzX-APnDWBgtgIDXehziO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTU1/MTU4LTE1MjU0MjM1/OTEtNTMyMi5qcGVn.jpeg" alt="Cover for He Has Left Us Alone But Shafts of Light Sometimes Grace the Corners of Our Rooms" style="max-width:120px; height:auto;" />
       </td>
@@ -323,7 +323,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 56</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -345,7 +345,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
       </td>
       <td>2001-05-22</td>
@@ -375,7 +375,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 9</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -397,7 +397,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/1A7hkYQsKPyL6dKG3_bplA63779OkGQO65A1bgl-DHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODAz/LTE1OTU0MDYwMDkt/MjgyMi5qcGVn.jpeg" alt="Cover for Finally We are No One" style="max-width:120px; height:auto;" />
       </td>
@@ -417,7 +417,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
       </td>
       <td>2002-10-02</td>
@@ -449,7 +449,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       <td>
         <ul>
             <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 54</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 67</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -489,7 +489,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/rp2VY-Hfeh6-zsbx6WvnP27T8JQdNO19R2krVeFW53c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTY0/MS0xMTg0OTg2ODcy/LmpwZWc.jpeg" alt="Cover for Winter Hymn Country Hymn Secret Hymn" style="max-width:120px; height:auto;" />
       </td>
@@ -520,12 +520,12 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 94</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
       </td>
       <td>2003-11-04</td>
@@ -564,7 +564,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       <td>
         <ul>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 1</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 42</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 43</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 96</li>
             <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 99</li>
         </ul>
@@ -602,12 +602,12 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 74</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be35d309be8ba2e37f29796435af3606.png" alt="Cover for El Ten Eleven" style="max-width:120px; height:auto;" />
       </td>
@@ -657,7 +657,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 25</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -691,13 +691,14 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/isUlXSEPMiHjL7jxitnXSsFG-lDF_DpwbKoRM0W_Yfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njcw/MDQtMTMzNTU2NDI3/My5qcGVn.jpeg" alt="Cover for Horses in the Sky" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82075a4e93bb4053bc4f43e4a3085b0c.png" alt="Cover for Horses in the Sky" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03-07</td>
       <td>A Silver Mt. Zion</td>
@@ -744,7 +745,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 76</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 77</li>
             <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 83</li>
         </ul>
       </td>
@@ -752,6 +753,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73fe4461077d663e9f160e8e7e4f13a7.png" alt="Cover for the book about my idle plot on a vague anxiety" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-08-31</td>
       <td>toe</td>
@@ -764,7 +766,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 88</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -787,7 +789,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
       </td>
       <td>2005-11-01</td>
@@ -854,7 +856,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 34</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 57</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -877,7 +879,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
       </td>
       <td>2006-09-11</td>
@@ -912,7 +914,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
       </td>
       <td>2007-01-01</td>
@@ -960,7 +962,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 54</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -999,7 +1001,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
       </td>
       <td>2007-05-22</td>
@@ -1017,7 +1019,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
       </td>
       <td>2007-05-22</td>
@@ -1036,7 +1038,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/Pvrs4B3pC3icULcQ_p7YQC9qHUPh89Y8fjcrWoy92DQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjMz/ODYtMTI3MDgwMjY3/My5qcGVn.jpeg" alt="Cover for The Recordings Of The Middle East" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff6a05ad775b4349be869190468bbf55.png" alt="Cover for The Recordings Of The Middle East" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>The Middle East</td>
@@ -1050,7 +1052,8 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 63</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 18</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1090,7 +1093,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 78</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 79</li>
             <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 91</li>
         </ul>
       </td>
@@ -1131,7 +1134,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
         <ul>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 9</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 45</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 70</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1241,7 +1244,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
       </td>
       <td>2009-04-13</td>
@@ -1258,7 +1261,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98f8aba583e549bec915c7e2b210e24c.png" alt="Cover for Avoid The Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1276,7 +1279,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/560a58df7670a9dfbc2c5524ecc45956.png" alt="Cover for All Is Wild, All Is Silent" style="max-width:120px; height:auto;" />
       </td>
@@ -1342,12 +1345,12 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 28</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf587097b1f84ac5b534bcb946a0e82a.png" alt="Cover for A Chorus of Storytellers" style="max-width:120px; height:auto;" />
       </td>
@@ -1367,7 +1370,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/6TVsXfYxNEQ4nqPBt_Z0bpNiHCZpWEw1GUK7Vd_4MTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MjctMTI5NjEyOTkw/NS5qcGVn.jpeg" alt="Cover for Go" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43268be3b3ca1ac982b523d114089ff8.png" alt="Cover for Go" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-02</td>
       <td>Jónsi</td>
@@ -1470,7 +1473,25 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2011-05-09</td>
+      <td>This Will Destroy You</td>
+      <td>Tunnel Blanket</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
       <td>
       </td>
       <td>2011-05-30</td>
@@ -1505,7 +1526,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/103f8340785e4f258d086256a90aacbe.png" alt="Cover for Red Forest" style="max-width:120px; height:auto;" />
       </td>
@@ -1558,7 +1579,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 30</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 33</li>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 82</li>
         </ul>
       </td>
@@ -1566,6 +1587,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58852d2df4a50f1e4f4c91074844ac1b.png" alt="Cover for The Seer" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-12</td>
       <td>Swans</td>
@@ -1579,7 +1601,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       <td>
         <ul>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 19</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 83</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1597,7 +1619,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 50</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1620,26 +1642,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/640a079125b040d7b3a26beebad91a2b.png" alt="Cover for Whenever, If Ever" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-06-18</td>
-      <td>The World Is a Beautiful Place &amp; I Am No Longer Afraid to Die</td>
-      <td>Whenever, If Ever</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 13</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 44</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/da2e2c507ae44887b91f8439dd27464d.png" alt="Cover for Wild Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1676,22 +1679,20 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>1</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/228db2b652dd3adf1783492784f25c86.png" alt="Cover for The Albatross" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43b26eae7b4e43d09970bfdfa7fa0b0c.png" alt="Cover for Ten Rapid" style="max-width:120px; height:auto;" />
       </td>
-      <td>2013-11-12</td>
-      <td>Foxing</td>
-      <td>The Albatross</td>
+      <td>2014-01-20</td>
+      <td>Mogwai</td>
+      <td>Ten Rapid</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1710,12 +1711,12 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 67</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>2015-03-31</td>
@@ -1727,12 +1728,12 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 69</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/yN-SD9ZQbi5msiQCO4y673egkgJkA51ecgQyGwsXdKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzgy/ODctMTQ1Nzg5NDc2/MS0yNjUwLmpwZWc.jpeg" alt="Cover for The Wilderness" style="max-width:120px; height:auto;" />
       </td>
@@ -1783,7 +1784,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       <td>
         <ul>
             <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 48</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 55</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 58</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 99</li>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 100</li>
         </ul>
@@ -1803,7 +1804,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 43</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 46</li>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 94</li>
         </ul>
       </td>
@@ -1829,8 +1830,8 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 69</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 74</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 71</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 75</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 97</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 97</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 98</li>
@@ -1838,7 +1839,7 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/RMFck2YzuuIY13rmnHvTvnRrxmD9Ba4rjjyibaDenf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTE5/NDQwLTE3MDYzMTE3/NTUtNDU5NC5qcGVn.jpeg" alt="Cover for Wall of eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -1854,8 +1855,8 @@ Post-rock is a genre of experimental rock music that emerged in the late 1980s a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 65</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 71</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 69</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 72</li>
             <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 93</li>
         </ul>
       </td>

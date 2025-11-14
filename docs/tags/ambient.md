@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T19:39:17.407Z
+date: 2025-11-14T01:50:05.486Z
 permalink: tags/ambient
 title: ambient
 ---
 
 ## ambient
 
-Last updated: <time datetime="2025-11-11T19:39:17.407Z">Tue Nov 11 2025 21:39:17 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T01:50:05.486Z">Fri Nov 14 2025 03:50:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
   </thead>
   <tbody>
     <tr>
-      <td>24</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/397359542740453fbdbd6ebeb85a5526.png" alt="Cover for Small Craft on a Milk Sea" style="max-width:120px; height:auto;" />
       </td>
@@ -61,12 +61,12 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 26</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>20</td>
       <td>
       </td>
       <td>1975-11</td>
@@ -101,7 +101,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d03d4631bca0cca3580dec5e9cef63d.png" alt="Cover for Ambient 1: Music For Airports (Remastered 2004)" style="max-width:120px; height:auto;" />
       </td>
@@ -135,14 +135,14 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 63</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 84</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 93</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 66</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 90</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b34cb41314829dc0c82698ba8ab47a24.png" alt="Cover for Structures From Silence" style="max-width:120px; height:auto;" />
       </td>
@@ -160,7 +160,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36307d33d9e5025c8f4564748e17a5f8.png" alt="Cover for Selected Ambient Works 85-92" style="max-width:120px; height:auto;" />
       </td>
@@ -179,7 +179,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/27cbbe4e88884b81911699b88c2d5eca.png" alt="Cover for Selected Ambient Works Volume II" style="max-width:120px; height:auto;" />
       </td>
@@ -198,7 +198,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fd94367ab87c69d0427d1d834f7d2af.png" alt="Cover for 76:14" style="max-width:120px; height:auto;" />
       </td>
@@ -232,14 +232,14 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 37</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 40</li>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 72</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 46</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 54</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/oaHcIjxbCSOwSiPspO_4kVwJ2blbhpIwUpZOpE6fNFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLXJfMTIy/NTkzLTAwMS5qcGc.jpeg" alt="Cover for Von" style="max-width:120px; height:auto;" />
       </td>
@@ -254,7 +254,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 46</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 47</li>
             <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 77</li>
         </ul>
       </td>
@@ -276,13 +276,13 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 58</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 59</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>60</td>
       <td>
       </td>
       <td>1998-10-01</td>
@@ -323,7 +323,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/aJD-6nIVH-Ja1U6tKWKQvnmR9ZFCQVOJNXWdJnSsacc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTgy/OS0xNTk4MzQwODE2/LTg0MTEuanBlZw.jpeg" alt="Cover for The Pearl" style="max-width:120px; height:auto;" />
       </td>
@@ -348,10 +348,10 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 2</li>
+            <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 3</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 3</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 3</li>
-            <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 3</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 37</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 39</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 66</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 75</li>
             <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 77</li>
@@ -360,7 +360,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>23</td>
       <td>
       </td>
       <td>2000-02-25</td>
@@ -374,13 +374,13 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 25</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 27</li>
             <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/42QTyg8WStn_ukkf5bc_tHquma_JveudbN9aie9ceNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjIw/LTAwMS5qcGc.jpeg" alt="Cover for Pop" style="max-width:120px; height:auto;" />
       </td>
@@ -398,7 +398,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>32</td>
       <td>
       </td>
       <td>2000-09-11</td>
@@ -415,7 +415,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>59</td>
       <td>
       </td>
       <td>2001-03-06</td>
@@ -429,12 +429,12 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 59</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2412493464a2543a6c92cdbdc0fba419.png" alt="Cover for Opalescent" style="max-width:120px; height:auto;" />
       </td>
@@ -452,7 +452,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5b4bf0d7ab048df86bedeb8fed1fd84.png" alt="Cover for Far Away Trains Passing By" style="max-width:120px; height:auto;" />
       </td>
@@ -472,7 +472,27 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>4</td>
+      <td>
+      </td>
+      <td>2002-09-17</td>
+      <td>Casino Versus Japan</td>
+      <td>Whole Numbers Play the Basics</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2c6601b2cb8ff957f6bc7886ccba946.png" alt="Cover for Conjure One" style="max-width:120px; height:auto;" />
       </td>
@@ -491,7 +511,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5c3645727914ef3d73cf1556b60077b.png" alt="Cover for ( )" style="max-width:120px; height:auto;" />
       </td>
@@ -511,7 +531,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/J9JppDJTIAEhdgRI0N5yWxwzP1qM4K47N2T1remLh9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODA2/MjItMTQxMDU1NTY0/Mi04MDE4LmpwZWc.jpeg" alt="Cover for The Disintegration Loops (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -533,7 +553,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>33</td>
       <td>
       </td>
       <td>2003</td>
@@ -550,28 +570,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>31</td>
-      <td>
-      </td>
-      <td>2003-04-02</td>
-      <td>Animal Collective</td>
-      <td>Campfire Songs</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 34</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 41</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 61</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3027586b95424aecb67f1c3a56841f01.png" alt="Cover for A Strangely Isolated Place" style="max-width:120px; height:auto;" />
       </td>
@@ -590,7 +589,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c689074fdd4411ac179b957820d0fe7.png" alt="Cover for Hydroponic Garden" style="max-width:120px; height:auto;" />
       </td>
@@ -609,7 +608,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/970df2dfc59785f5f1c641f4e0de522d.png" alt="Cover for Before and After Science - Ten Pictures" style="max-width:120px; height:auto;" />
       </td>
@@ -630,7 +629,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b43455b9d934f9b8fa45d556c218b90.png" alt="Cover for Past Is Prologue" style="max-width:120px; height:auto;" />
       </td>
@@ -649,7 +648,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>52</td>
       <td>
       </td>
       <td>2004-10-04</td>
@@ -666,7 +665,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/436df760748b41cbc1c76abf18398b30.png" alt="Cover for Apollo" style="max-width:120px; height:auto;" />
       </td>
@@ -687,7 +686,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/k2DVrZhCed8A7grbz69_ldyjQ9Ll5AgNMh-x0Bjmi0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjIx/MzItMTI0MDc0NTYz/Ni5qcGVn.jpeg" alt="Cover for Inca Ore &#x2F; Grouper" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef4bc8ea1288646d297ecd640374f0fa.png" alt="Cover for Inca Ore &#x2F; Grouper" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Grouper</td>
@@ -700,13 +699,13 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 36</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 92</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 37</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/563342accf594686c6fc1164042b2e8e.png" alt="Cover for Talk Amongst the Trees" style="max-width:120px; height:auto;" />
       </td>
@@ -724,7 +723,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>6</td>
       <td>
       </td>
       <td>2005-03-29</td>
@@ -741,7 +740,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/03M_c79-6_PqQrKLqhsc9D9bT7PRP-e8Y4IAL0pMoEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODU5/NzA1LTE1ODYxMDM0/MDYtOTMxNi5qcGVn.jpeg" alt="Cover for Versions - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -763,7 +762,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
       </td>
       <td>2005-08-22</td>
@@ -797,7 +796,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 18</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 19</li>
             <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 47</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 77</li>
         </ul>
@@ -822,7 +821,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>24</td>
       <td>
       </td>
       <td>2006-10-16</td>
@@ -835,12 +834,12 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 44</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/764f8b683fe7420484f4e02166a645dc.png" alt="Cover for World of Sleepers" style="max-width:120px; height:auto;" />
       </td>
@@ -877,7 +876,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>47</td>
       <td>
       </td>
       <td>2007-03-21</td>
@@ -895,7 +894,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/6nFzi3GsGSarh-Y2EBYivrGVExlyB9oHpwqETaG3_k8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Mzgw/MC0xMzUzMjk0MDcy/LTY0NTkuanBlZw.jpeg" alt="Cover for and Their Refinement of the Decline" style="max-width:120px; height:auto;" />
       </td>
@@ -914,8 +913,9 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b098631edffafae0cb0773f5ddff509.png" alt="Cover for Balmorhea" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04</td>
       <td>Balmorhea</td>
@@ -928,12 +928,12 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 35</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/937e3396777059c22705cfcb5414ac06.png" alt="Cover for Shadows of the Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -952,7 +952,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c7332bc861d406a80c13f0e69d4ba7f.png" alt="Cover for Untrue" style="max-width:120px; height:auto;" />
       </td>
@@ -967,7 +967,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
         <ul>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 35</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 65</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 97</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1014,13 +1014,13 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       <td>
         <ul>
             <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 28</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 29</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 49</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f46bac4e2214fd3b24e0bd9762342d2.png" alt="Cover for Agaetis Byrjun" style="max-width:120px; height:auto;" />
       </td>
@@ -1040,7 +1040,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5bc07e355524e68999d99bf65700516.png" alt="Cover for Ghosts I-IV" style="max-width:120px; height:auto;" />
       </td>
@@ -1056,14 +1056,14 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 8</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 44</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 12</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 47</li>
             <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
       </td>
       <td>2009-04-06</td>
@@ -1082,7 +1082,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c5330748dd94b5aa78632492d82f961.png" alt="Cover for Wait for Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1102,7 +1102,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de51edf693174e10541dee423cd80b48.png" alt="Cover for Ineffable Mysteries From Shpongleland" style="max-width:120px; height:auto;" />
       </td>
@@ -1126,7 +1126,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/74dcc7fcb0e34eea9260cb29c1f0f274.png" alt="Cover for Starry Eyed" style="max-width:120px; height:auto;" />
       </td>
@@ -1147,7 +1147,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9ba668b46c48b82b3e666822b2d9b27.png" alt="Cover for Crooks &amp; Lovers" style="max-width:120px; height:auto;" />
       </td>
@@ -1163,36 +1163,32 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 81</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 84</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/184aed4189474a648a21b7722e70a59b.png" alt="Cover for Rome" style="max-width:120px; height:auto;" />
       </td>
-      <td>2010-09-17</td>
-      <td>Agnes Obel</td>
-      <td>Philharmonics</td>
+      <td>2011</td>
+      <td>Danger Mouse</td>
+      <td>Rome</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 15</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 70</li>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 79</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 81</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 83</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9de43f0a02c8b0a3fe8996b3c75ad2fb.png" alt="Cover for Ravedeath, 1972" style="max-width:120px; height:auto;" />
       </td>
@@ -1246,12 +1242,12 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 50</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00d023a5f10f47b3a06aa6ce46e5b7c8.png" alt="Cover for Bad Vibes" style="max-width:120px; height:auto;" />
       </td>
@@ -1271,7 +1267,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/58416b86c1bb435cac9136db46cfcf46.png" alt="Cover for You Are All I See" style="max-width:120px; height:auto;" />
       </td>
@@ -1286,12 +1282,13 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 79</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 14</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5b5e9a95a77ad52f88b958651074c90.png" alt="Cover for Replica" style="max-width:120px; height:auto;" />
       </td>
@@ -1312,7 +1309,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>12</td>
       <td>
       </td>
       <td>2012-05-01</td>
@@ -1348,6 +1345,23 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td>2012-06-03</td>
+      <td>Fog Lake</td>
+      <td>Inference 3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/852866f5d298bfb1032cea6e9b8704f9.png" alt="Cover for A I A: Alien Observer" style="max-width:120px; height:auto;" />
@@ -1367,7 +1381,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ab979a5983f4513b7a8b7a9131735dd.png" alt="Cover for Truant &#x2F; Rough Sleeper" style="max-width:120px; height:auto;" />
       </td>
@@ -1389,7 +1403,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>38</td>
       <td>
       </td>
       <td>2013-03-04</td>
@@ -1410,7 +1424,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>7</td>
       <td>
       </td>
       <td>2013-08-27</td>
@@ -1424,12 +1438,12 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 71</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e9c162eea4d4e36ab0cb8f0270e60b0.png" alt="Cover for Minecraft - Volume Beta" style="max-width:120px; height:auto;" />
       </td>
@@ -1447,7 +1461,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/4pKuP7oyIVCjHjCoKjrFyLjWnRa5fHM1r8dNaR7n31c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMDQ1/MjEtMTQ4MzYxNzA5/My05MDY5LmpwZWc.jpeg" alt="Cover for Weightless (Ambient Transmission Vol. 2)" style="max-width:120px; height:auto;" />
       </td>
@@ -1465,7 +1479,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>36</td>
       <td>
       </td>
       <td>2014-08-27</td>
@@ -1487,28 +1501,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>58</td>
-      <td>
-      </td>
-      <td>2014-09-22</td>
-      <td>Perfume Genius</td>
-      <td>Too Bright</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 39</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 89</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a71c53e645e445cc42d69db09a5679c.png" alt="Cover for Ruins" style="max-width:120px; height:auto;" />
       </td>
@@ -1522,11 +1515,12 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/89076e3d946641dac18d31fa65dde3c4.png" alt="Cover for 新しい日の誕生" style="max-width:120px; height:auto;" />
       </td>
@@ -1546,30 +1540,9 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>61</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8b1798abf4f517c0bb53e198df3a7b4.png" alt="Cover for &quot;Heroes&quot; (2017 remaster)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-01-08</td>
-      <td>David Bowie</td>
-      <td>&quot;Heroes&quot; (2017 remaster)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
-            <li style="font-size: calc(1rem * 69 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 92</li>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
-      <td>
-          <img src="https://i.discogs.com/tdhyJ-P4Covtg6ee7YE0KW939FWupHoEcCcPnU81DAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcx/ODQ2LTE0OTI4NTMw/MDMtMjc2NS5qcGVn.jpeg" alt="Cover for Meeting of the Waters" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/893e5f7474b2daa27a2214c877bd7c10.png" alt="Cover for Meeting of the Waters" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-19</td>
       <td>Animal Collective</td>
@@ -1582,13 +1555,13 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 81</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 85</li>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/KlUfP99YrIrjFh4wQJSpSiLoXTaMafEVbJLZ-ckmu9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MzQz/NTItMTQ2OTc0OTQ2/MS0yMTcxLmpwZWc.jpeg" alt="Cover for Radial" style="max-width:120px; height:auto;" />
       </td>
@@ -1608,7 +1581,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79131283098b054d6d608560ad5608dd.png" alt="Cover for Epoch" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,7 +1601,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/QdNDEVU3GXyKSbSNuyo4d6NU-dcycSa0b9726EeloiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMDAx/NDUtMTQ3NDc3MDE1/NC0zMTAzLmpwZWc.jpeg" alt="Cover for マホロボシヤ" style="max-width:120px; height:auto;" />
       </td>
@@ -1649,32 +1622,32 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>2</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61bd409e2bb843374716548eb2dff5d0.png" alt="Cover for Arca" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1415b58d856ffe9884607ca67dabc40a.png" alt="Cover for Innocence v2" style="max-width:120px; height:auto;" />
       </td>
-      <td>2017-04-06</td>
-      <td>Arca</td>
-      <td>Arca</td>
+      <td>2017-09-26</td>
+      <td>Yung Sherman</td>
+      <td>Innocence v2</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 36</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 96</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 98</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 27</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 76</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/NK1eJ8-_acT067WwowOyB5SUoyfg4yAt8uNvo-jAvRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk5/NDI4LTE1MjI1OTI2/OTAtNjE2OC5qcGVn.jpeg" alt="Cover for )✧⃛*" style="max-width:120px; height:auto;" />
       </td>
@@ -1695,7 +1668,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ba212cd23d3485d676692b45e5e44b3.png" alt="Cover for Improvisational Loops" style="max-width:120px; height:auto;" />
       </td>
@@ -1713,7 +1686,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7246686e22e7e680a4d7c32a757bbb12.png" alt="Cover for Nothing Is Still" style="max-width:120px; height:auto;" />
       </td>
@@ -1731,7 +1704,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/ww3-pD1ZBTtyQMuqm42m2J-OnDImLSC1ewkbic8jS9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDc2/ODU5LTE1OTIxNjUx/ODktNjg1Mi5qcGVn.jpeg" alt="Cover for Wake Up Calls" style="max-width:120px; height:auto;" />
       </td>
@@ -1772,7 +1745,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/ozvVeKR28DoVsvf3vaHspLEEhB-6eIaqA5w3F2DrCdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDUx/OTE0LTE1ODYwMjk2/MTEtNzg5MC5qcGVn.jpeg" alt="Cover for ~~~" style="max-width:120px; height:auto;" />
       </td>
@@ -1791,7 +1764,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/gv3un6DJoD2XcwEs12Gpu_CfVSGulMFtIBaqFQEwOdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDgw/MTEzLTE1NTUwMDQz/ODMtNjM0OS5qcGVn.jpeg" alt="Cover for The Last Dance" style="max-width:120px; height:auto;" />
       </td>
@@ -1812,7 +1785,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6e2d7e372003fe940a29b332d0cf458.png" alt="Cover for Only Diamonds Cut Diamonds" style="max-width:120px; height:auto;" />
       </td>
@@ -1830,7 +1803,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/GXuNbYwvI4RdWR1lv6-gkfNrjBZ4HK1agh76eRe6D0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjY3/MDMyLTE1OTU1NDYw/MjctOTk0My5qcGVn.jpeg" alt="Cover for Minecraft: Nether Update (Original Game Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1850,7 +1823,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/cMidMI4EHutQAaRlfSdf-E8_tPIcAybFINoLa6eb8Ck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQx/OTk0LTE1OTMzMDcx/MzEtNDk0NC5qcGVn.jpeg" alt="Cover for Drifting Among Strangers" style="max-width:120px; height:auto;" />
       </td>
@@ -1865,12 +1838,12 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 87</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>9</td>
       <td>
       </td>
       <td>2020-11-27</td>
@@ -1887,7 +1860,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/5lDHVe8GbXI5d-i8un3umMiQR47lgdq5cn9P9o4-2r4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njc1/NDg4LTE2MDkxOTI0/NTItNTU4MC5qcGVn.jpeg" alt="Cover for Not Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1902,7 +1875,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 91</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1929,7 +1902,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/lfovrqAczNfE3g-tn8obCgQtotRMZDamrnmA-Vd50Sk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjk2/OTA2LTE2NTYyMzk5/OTEtNDkyOS5qcGVn.jpeg" alt="Cover for Everything Everywhere All at Once (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1949,8 +1922,8 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 48</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 74</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 49</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 75</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 97</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 97</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 98</li>
@@ -1972,12 +1945,12 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 81</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21b87f7dd4ae908bd24bd964645bffa1.png" alt="Cover for Raven" style="max-width:120px; height:auto;" />
       </td>
@@ -1994,12 +1967,12 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 80</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/1YDHwssTjL9kGx4q02S1Xm5Y2r9c0FIHGPp-IOjMFHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQx/NjYxLTE3MDAyMjY5/NjAtMTEwNC5qcGVn.jpeg" alt="Cover for New Blue Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -2020,7 +1993,27 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6dfca1fc6e1f4f91263d5863f7e11f82.png" alt="Cover for hurry up mixtape" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Alvedon</td>
+      <td>hurry up mixtape</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -2034,7 +2027,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 60</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 61</li>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 86</li>
         </ul>
       </td>

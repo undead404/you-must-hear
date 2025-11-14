@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T19:37:57.010Z
+date: 2025-11-14T01:48:56.240Z
 permalink: tags/emo
 title: emo
 ---
 
 ## emo
 
-Last updated: <time datetime="2025-11-11T19:37:57.010Z">Tue Nov 11 2025 21:37:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T01:48:56.240Z">Fri Nov 14 2025 03:48:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,47 +29,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
   </thead>
   <tbody>
     <tr>
-      <td>21</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/538408f6acf94ef1ba652aa5a685e7f3.png" alt="Cover for Diary" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994-05-10</td>
-      <td>Sunny Day Real Estate</td>
-      <td>Diary</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 52 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 17</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>31</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6fdc2677c0e0e3405922bfc08af3a47.png" alt="Cover for Dear You" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995-09-12</td>
-      <td>Jawbreaker</td>
-      <td>Dear You</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
       <td>
           <img src="https://i.discogs.com/0kjKE6MpvNIUKTbqBQklOM_L7wYnl8EcnrRxDUwWESA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NzM0/MC0xMzY5MTg1MTEy/LTkzOTEuanBlZw.jpeg" alt="Cover for Power of Failing" style="max-width:120px; height:auto;" />
       </td>
@@ -88,7 +48,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cef1f1d0756184860c3c8f60d91aba64.png" alt="Cover for Pinkerton" style="max-width:120px; height:auto;" />
       </td>
@@ -102,35 +62,33 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 68</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 71</li>
             <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>10</td>
       <td>
-          <img src="https://i.discogs.com/_h-TBzR-NNCKoHJFgW7hkBziWhEjBVHbHXojvOZ-4WY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjc1/NTktMTI2ODk1MTIw/NC5qcGVn.jpeg" alt="Cover for Diary (2009 Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/280efe186cb2ec302673419911184947.png" alt="Cover for Analphabetapolothology" style="max-width:120px; height:auto;" />
       </td>
-      <td>1998</td>
-      <td>Sunny Day Real Estate</td>
-      <td>Diary (2009 Edition)</td>
+      <td>1998-01-13</td>
+      <td>Cap&#39;n Jazz</td>
+      <td>Analphabetapolothology</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/k1cdMS7oCtTtA7SIgV5LrKJCw6ZT5I6On-7uSNt70Uw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NzA0/My0xMzU3NjY4ODUy/LTYwODEuanBlZw.jpeg" alt="Cover for Letting Off the Happiness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9088461720cc4d9eba417ad9d76fdfdd.png" alt="Cover for Letting Off the Happiness" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-09-02</td>
       <td>Bright Eyes</td>
@@ -147,65 +105,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e61535c3b4a9b99c3f3db0b5f28ebc65.png" alt="Cover for Orange Rhyming Dictionary" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998-10-27</td>
-      <td>Jets to Brazil</td>
-      <td>Orange Rhyming Dictionary</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 56</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19386256a88767be3f3768455663527f.png" alt="Cover for Clarity" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999-02-23</td>
-      <td>Jimmy Eat World</td>
-      <td>Clarity</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 87 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/447d0cf750c4459fac1c2f4bdf627ea8.png" alt="Cover for Through Being Cool" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999-11-02</td>
-      <td>Saves the Day</td>
-      <td>Through Being Cool</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 40</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f269517ad4d043c7a5c7a7c9dda91a13.png" alt="Cover for The Places You Have Come To Fear The Most" style="max-width:120px; height:auto;" />
       </td>
@@ -224,7 +124,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79e84c0c10c79a1a25859919e351028d.png" alt="Cover for Full Collapse" style="max-width:120px; height:auto;" />
       </td>
@@ -234,17 +134,15 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 93 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f6bed4795106f6a5ace9295accf4493.png" alt="Cover for Bleed American" style="max-width:120px; height:auto;" />
       </td>
@@ -259,13 +157,13 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 40</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 85</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 46</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5213af72e5bf4e539681c49b5b721445.png" alt="Cover for Tell All Your Friends" style="max-width:120px; height:auto;" />
       </td>
@@ -274,18 +172,16 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       <td>Tell All Your Friends</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 78 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 67</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55c3874f5b1446bc9b4f60e87bf9b298.png" alt="Cover for The Used" style="max-width:120px; height:auto;" />
       </td>
@@ -300,13 +196,13 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 75</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 88</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 76</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac347cf3cda7e91e0d837220f6bb63ea.png" alt="Cover for I Brought You My Bullets, You Brought Me Your Love" style="max-width:120px; height:auto;" />
       </td>
@@ -319,14 +215,32 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 51</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 93</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 63</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>16</td>
       <td>
+      </td>
+      <td>2002-08-12</td>
+      <td>Bright Eyes</td>
+      <td>Lifted or The Story Is in the Soil, Keep Your Ear to the Ground</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dde6992817b4ac18df99b85b3a2e38f.png" alt="Cover for For All Of This" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-11-05</td>
       <td>The Early November</td>
@@ -343,7 +257,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3afca400fc829b0f8c9e2006f99af261.png" alt="Cover for Take This to Your Grave" style="max-width:120px; height:auto;" />
       </td>
@@ -358,27 +272,6 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 85</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6e00707a3f4a53bf4b4cf9cdf058112.png" alt="Cover for Dream to Make Believe" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003-06-03</td>
-      <td>Armor for Sleep</td>
-      <td>Dream to Make Believe</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 83 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -398,12 +291,12 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 25</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dded1153068c4f14ad6d0fb5f3f7c487.png" alt="Cover for Page Avenue" style="max-width:120px; height:auto;" />
       </td>
@@ -418,14 +311,33 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 78</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/_urKx19jGE6rQAoUoLwYNhknh5lzSrEcDEteCKF6dTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTkx/Nzg2LTE2MjcwMTY2/OTctNzMxOS5wbmc.jpeg" alt="Cover for MASK" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c88fdbc56d6813df8a3bfe50ad52512.png" alt="Cover for Life In Dreaming" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Hidden in Plain View</td>
+      <td>Life In Dreaming</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3857664e7e0cf3c18661531a348ce132.png" alt="Cover for MASK" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-03-10</td>
       <td>Dream</td>
@@ -438,9 +350,9 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       <td>
         <ul>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 74</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 86</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 100</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 87</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -460,14 +372,14 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 36</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 49</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 82</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 91</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e434920ed881486bb74d0685def0dfe5.png" alt="Cover for Where You Want to Be" style="max-width:120px; height:auto;" />
       </td>
@@ -482,57 +394,14 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 70</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>41</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e5fe778cbbede2be56661d6fab4b6f0.png" alt="Cover for Let It Enfold You" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004-09-07</td>
-      <td>Senses Fail</td>
-      <td>Let It Enfold You</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 40</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 73</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b27a8ac03452494e9b773cae5e22451c.png" alt="Cover for In Love and Death" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004-09-27</td>
-      <td>The Used</td>
-      <td>In Love and Death</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 61 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 14</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 85</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>
-          <img src="https://i.discogs.com/9sePU06dwa14a4xaV8TmmT2Soo9I_59F8llIHSnjm5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjAx/Ny0xNjUyMTIyMTI4/LTkxNTUuanBlZw.jpeg" alt="Cover for Almost Here" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/85da21e829cd4bf78d539432149e53f5.png" alt="Cover for Almost Here" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-08</td>
       <td>The Academy Is...</td>
@@ -545,14 +414,14 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 51</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/ARt4E1BXGdy1GnhreT7hu2mAmvTxb-wiBTttQkiEWxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDkz/NzMtMTY1MDcyMzQw/OC01NzcxLmpwZWc.jpeg" alt="Cover for Ten Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/59c9d352a3e04440966e158842427aea.png" alt="Cover for Ten Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-08</td>
       <td>I Hate Myself</td>
@@ -568,7 +437,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/53as3FAiO5GOmlyvDWYdrLCupj0zzky58wEMb89rH90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODU4/MTUtMTQ3MjkyNjcy/Ny0xNjIyLmpwZWc.jpeg" alt="Cover for What To Do When You Are Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -586,26 +455,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ff0fa8bf2c74ebda7c16138725dceb8.png" alt="Cover for Phantoms" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-04-26</td>
-      <td>Acceptance</td>
-      <td>Phantoms</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73ff2d6aea6d465ac6b9a697ce4c6168.png" alt="Cover for From Under the Cork Tree" style="max-width:120px; height:auto;" />
       </td>
@@ -620,13 +470,31 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 51</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 54</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>22</td>
+      <td>
+      </td>
+      <td>2005-05-24</td>
+      <td>Amber Pacific</td>
+      <td>The Possibility And The Promise</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
       </td>
       <td>2005-06-08</td>
@@ -640,15 +508,15 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 47</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 56</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/qLYOcYVrtFhovyHLpm-G8JjLIL57m7urt4fvN5pqk-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjkw/NjAtMTIyNTQxNDUz/NS5qcGVn.jpeg" alt="Cover for &quot;All We Know Is Falling&quot;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebaed695916749e1b3a0d425eaa5cb6f.png" alt="Cover for &quot;All We Know Is Falling&quot;" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07-26</td>
       <td>Paramore</td>
@@ -666,30 +534,26 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>2</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03fb53b1b6164f2ca52f3c8d474369ba.png" alt="Cover for Good Apollo I&#39;m Burning Star IV Volume One: From Fear Through The Eyes Of Madness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1958e8cdfa17448cbbb7f3ccb49247d9.png" alt="Cover for Plans" style="max-width:120px; height:auto;" />
       </td>
-      <td>2005-09-20</td>
-      <td>Coheed and Cambria</td>
-      <td>Good Apollo I&#39;m Burning Star IV Volume One: From Fear Through The Eyes Of Madness</td>
+      <td>2005-08-29</td>
+      <td>Death Cab for Cutie</td>
+      <td>Plans</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 72</li>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 90</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/249a926fbef4487eb39bbb93d4a0618d.png" alt="Cover for A Fever You Can&#39;t Sweat Out" style="max-width:120px; height:auto;" />
       </td>
@@ -705,7 +569,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 49</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 51</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 53</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 93</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 98</li>
@@ -713,7 +577,26 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cff42aafacc4f2b8d0b49a3fe37cfcc.png" alt="Cover for Ciano" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Fresno</td>
+      <td>Ciano</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbbfffdb6896f562264bef91f16c9f3b.png" alt="Cover for Don&#39;t You Fake It" style="max-width:120px; height:auto;" />
       </td>
@@ -728,14 +611,14 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 2</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 25</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 13</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 34</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0ef2630eb3f4c158fa54b8d7e80801d.png" alt="Cover for The Devil and God Are Raging Inside Me" style="max-width:120px; height:auto;" />
       </td>
@@ -750,7 +633,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 42</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -773,8 +656,9 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7622392c1bd5417eb4c3bb5fb31f6945.png" alt="Cover for Infra-Red" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06-19</td>
       <td>Placebo</td>
@@ -790,7 +674,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/8f8OkuxUKknFFjD0RerQTpFxwMz_Mgn7xR484cUCOI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODgz/ODYtMTIwNjY3NDU4/Ny5qcGVn.jpeg" alt="Cover for Dusk And Summer" style="max-width:120px; height:auto;" />
       </td>
@@ -809,27 +693,45 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>18</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba660472294a4475b5ff77f714ba89a7.png" alt="Cover for I&#39;m Like A Virgin Losing A Child" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb9c1ef099fc47beba182893453edcf0.png" alt="Cover for Boys Like Girls" style="max-width:120px; height:auto;" />
       </td>
-      <td>2006-10-14</td>
-      <td>Manchester Orchestra</td>
-      <td>I&#39;m Like A Virgin Losing A Child</td>
+      <td>2006-08-22</td>
+      <td>Boys Like Girls</td>
+      <td>Boys Like Girls</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c742e78645bb176365e4f1273bdf0cb.png" alt="Cover for Saosin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-09-26</td>
+      <td>Saosin</td>
+      <td>Saosin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7675defb2787ce67cd030081eb8ff77c.png" alt="Cover for The Black Parade" style="max-width:120px; height:auto;" />
       </td>
@@ -846,14 +748,14 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
         <ul>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 51</li>
             <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 89</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 91</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 95</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 94</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 96</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b01817dacd044f7d9389e6b69933330b.png" alt="Cover for Infinity on High" style="max-width:120px; height:auto;" />
       </td>
@@ -868,13 +770,13 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 68</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 69</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>51</td>
       <td>
       </td>
       <td>2007-05-18</td>
@@ -888,12 +790,12 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 11</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7963ff0efd99b90783edfae24b15b88a.png" alt="Cover for On Letting Go" style="max-width:120px; height:auto;" />
       </td>
@@ -910,27 +812,9 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>30</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23b12a81a8dd426081dd3064eac3723b.png" alt="Cover for Calling The World" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007-07-17</td>
-      <td>Rooney</td>
-      <td>Calling The World</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6ea6cb02d85815a143085d3f49e90f4.png" alt="Cover for No Really, I&#39;m Fine" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-02</td>
       <td>The Spill Canvas</td>
@@ -945,9 +829,9 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
-          <img src="https://i.discogs.com/w-GYre8rPH3wA8YnjCysdGG0sckDydtAG-G3X2gj_LY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTE0/NDEtMTYzMDA4MjA0/MS0yMTcxLmpwZWc.jpeg" alt="Cover for Practice Makes Perfect" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe15a83cf97c45d1aad0d24b4bdcd777.png" alt="Cover for Practice Makes Perfect" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Cute Is What We Aim For</td>
@@ -961,30 +845,12 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 36</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/981417be59c642368c460e9a46ff06a2.png" alt="Cover for Redenção" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Fresno</td>
-      <td>Redenção</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/81b6a5c78e2442cab7c77fcbd1ac82c9.png" alt="Cover for A Twist in My Story" style="max-width:120px; height:auto;" />
       </td>
@@ -998,32 +864,12 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 20</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3eb1e0c8c138440cc0d700e636d5434.png" alt="Cover for The Glass Passenger" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-09-30</td>
-      <td>Jack&#39;s Mannequin</td>
-      <td>The Glass Passenger</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 84</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>2009-12-29</td>
@@ -1046,7 +892,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d5492b077500a23e77d472375717b03.png" alt="Cover for Witness" style="max-width:120px; height:auto;" />
       </td>
@@ -1064,14 +910,14 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 13</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 14</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 84</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/fa5ga63FfoUZ8J0HaL6d9d0FekLTloubDXi8N1ECDbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzk4/MDAtMTQyNzE4MzU2/MC03NTk4LmpwZWc.jpeg" alt="Cover for Punk Goes Pop Volume Two" style="max-width:120px; height:auto;" />
       </td>
@@ -1089,16 +935,57 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 18</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 83</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 33</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 84</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 92</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cc4c696f205d894fbc4d940e2467ee6.png" alt="Cover for The Nameless Ranger" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-11-20</td>
+      <td>Modern Baseball</td>
+      <td>The Nameless Ranger</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc0e04fdc50a4faacf5673d5339b1e4b.png" alt="Cover for Dark World" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-03-20</td>
+      <td>Pity Sex</td>
+      <td>Dark World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bffa9d08c28ed495ef14979b1bc68c87.png" alt="Cover for Couples Therapy" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-10</td>
       <td>Modern Baseball</td>
@@ -1114,69 +1001,56 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/fxGI-nOnPZOSLiB8kse4Er6VWEYpA7oCCsGM7YU9ucw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTMy/MjgtMTM3ODY3MjU4/Mi02MjI4LmpwZWc.jpeg" alt="Cover for still bummed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67f71f3da87029c0ed5d5adda0506581.png" alt="Cover for Just Married" style="max-width:120px; height:auto;" />
       </td>
-      <td>2013</td>
-      <td>Nouns</td>
-      <td>still bummed</td>
+      <td>2012-07-10</td>
+      <td>Glocca Morra</td>
+      <td>Just Married</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 12</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 82</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 84</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>26</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/246c94841393822ba41ba0f22ea67834.png" alt="Cover for Youth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/350f522e11b14b156c0f07130a00eb12.png" alt="Cover for Miles Away (Acoustic) (feat. Kellin Quinn)" style="max-width:120px; height:auto;" />
       </td>
-      <td>2013-06-11</td>
-      <td>Citizen</td>
-      <td>Youth</td>
+      <td>2013-08-05</td>
+      <td>Memphis May Fire</td>
+      <td>Miles Away (Acoustic) (feat. Kellin Quinn)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 70</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 74</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>49</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/640a079125b040d7b3a26beebad91a2b.png" alt="Cover for Whenever, If Ever" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-06-18</td>
-      <td>The World Is a Beautiful Place &amp; I Am No Longer Afraid to Die</td>
-      <td>Whenever, If Ever</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 17</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 44</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0886601f18499aa2f0487f3e3a74eb0.png" alt="Cover for Summer Death" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-21</td>
       <td>Marietta</td>
@@ -1189,13 +1063,13 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 32</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 94</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 37</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6926a2e4ee964192c1b2705f191b5244.png" alt="Cover for You&#39;re Gonna Miss It All" style="max-width:120px; height:auto;" />
       </td>
@@ -1210,13 +1084,14 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 16</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34ea601d6add42eec2e3480a9f00b549.png" alt="Cover for Home, Like Noplace Is There" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-25</td>
       <td>The Hotelier</td>
@@ -1231,8 +1106,9 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9a07790f2b39e4a35ec249bc45ac996.png" alt="Cover for Forgettable" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-13</td>
       <td>Sorority Noise</td>
@@ -1248,8 +1124,9 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a330a95350fbbbb18fd4a65d44d9f5ff.png" alt="Cover for The Silence in Black and White" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-20</td>
       <td>Hawthorne Heights</td>
@@ -1261,12 +1138,12 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 23</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9987dfb168c4efdce194c349a9e1798.png" alt="Cover for Never Hungover Again" style="max-width:120px; height:auto;" />
       </td>
@@ -1281,12 +1158,12 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 47</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
       </td>
       <td>2014-08-04</td>
@@ -1311,8 +1188,9 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f723c1be923cbe0accd2bb5d76688cfc.png" alt="Cover for Those Days Are Gone" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-16</td>
       <td>Free Throw</td>
@@ -1328,7 +1206,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51d3a5ccf7814eaece8323547ebaef29.png" alt="Cover for I&#39;ll Keep You In Mind, From Time to Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1341,11 +1219,12 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dbcfe01619268a48492ad9e84421f59.png" alt="Cover for DiE4u" style="max-width:120px; height:auto;" />
       </td>
@@ -1364,7 +1243,40 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47f9826de01a3f9db2fab3a85df05431.png" alt="Cover for The Suspended Kid" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-01-28</td>
+      <td>Sevdaliza</td>
+      <td>The Suspended Kid</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 46</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 49</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 52</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 57</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 82</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/BGSYb9qlWI6lc84nTMcoWkcxQVJ4K2a--zjfr4M8zXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODQ4/NDEtMTQyNjU2MjU4/My0yNzUzLmpwZWc.jpeg" alt="Cover for Madness (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1383,9 +1295,9 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/jASvqmaJLrsPPm6UGELq8Pcv3nQs9k5OAUPB1MO1Fag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjMy/MjMtMTQzMDUxMTk0/MC01MzEzLmpwZWc.jpeg" alt="Cover for Ours Is Chrome" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f39f76ecae8df3ff430565f17b7f448c.png" alt="Cover for Ours Is Chrome" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-04</td>
       <td>Superheaven</td>
@@ -1399,37 +1311,66 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 36</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 43</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>17</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e22fffff8b2d431e24b85fbe6dd1fb5d.png" alt="Cover for Sprained Ankle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20abfcc6e4e543c40b545abac556afa7.png" alt="Cover for Joy, Departed" style="max-width:120px; height:auto;" />
       </td>
-      <td>2015-10-23</td>
-      <td>Julien Baker</td>
-      <td>Sprained Ankle</td>
+      <td>2015-06-16</td>
+      <td>Sorority Noise</td>
+      <td>Joy, Departed</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/8RuVRx070uz_GtzsHFgwdJkoQMAzHmWi5mZaiaqwU8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNjU5/NjUtMTQ1ODI2NTIx/NS05NDAzLmpwZWc.jpeg" alt="Cover for Adult Summers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d595a456dfa24a808dc7efb1e21784d1.png" alt="Cover for Apokalypsis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-08-07</td>
+      <td>Chelsea Wolfe</td>
+      <td>Apokalypsis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a></li>
+            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a></li>
+            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
+            <li style="font-size: calc(1rem * 55.00000000000001 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 50</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 58</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 68</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 81</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 83</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 95</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df7cd7bfb887c6e5bdd2ae4f7785a428.png" alt="Cover for Adult Summers" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-26</td>
       <td>Prince Daddy &amp; The Hyena</td>
@@ -1445,35 +1386,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>54</td>
-      <td>
-          <img src="https://i.discogs.com/9drYxnXwYGfIM3BiluuAcojtKWkfJcdko5fckMdkmL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTM1/MzAtMTQ0ODA3NTY3/OC05MTM3LmpwZWc.jpeg" alt="Cover for dc snuff film &#x2F; waste yrself" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-12-11</td>
-      <td>Teen Suicide</td>
-      <td>dc snuff film &#x2F; waste yrself</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 54</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 79</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 86</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 94</li>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ceb6e421a0247bee08992981cf17faf.png" alt="Cover for Best Buds" style="max-width:120px; height:auto;" />
       </td>
@@ -1491,7 +1404,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/EPjbYz13ApCmvpUH72odIXJqYHPxvrCIP0AFQ_u-aw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc5/MjA5LTE1MTg4NTUx/NDYtMjQzNi5qcGVn.jpeg" alt="Cover for FALLING DOWN" style="max-width:120px; height:auto;" />
       </td>
@@ -1518,7 +1431,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/EPjbYz13ApCmvpUH72odIXJqYHPxvrCIP0AFQ_u-aw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc5/MjA5LTE1MTg4NTUx/NDYtMjQzNi5qcGVn.jpeg" alt="Cover for HELLBOY" style="max-width:120px; height:auto;" />
       </td>
@@ -1540,9 +1453,9 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
-          <img src="https://i.discogs.com/IPLldxSvvA8UhB2BQVDKA-7LgHjbgtf7NLC6A97HZb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NDk3/NzAtMTQ4OTA4NDEz/Ni05ODg1LmpwZWc.jpeg" alt="Cover for Misery" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16cf4defd58e323c1a4d48303f55aec5.png" alt="Cover for Misery" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-10</td>
       <td>The Word Alive</td>
@@ -1560,7 +1473,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 60</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 69</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 78</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 88</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 89</li>
@@ -1570,9 +1483,9 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/PMGftLXpQfGcPRWjC26z3G0MyQe9l3dnaUqms3vz26s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTY5/OTM4LTE0OTI4MTUy/MjMtMjQ3Ni5qcGVn.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e2994ffc00d101ba38a4529c221069c.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-16</td>
       <td>Remo Drive</td>
@@ -1580,7 +1493,6 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
         </ul>
       </td>
       <td>
@@ -1590,7 +1502,26 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c302ad0b500e647f344a76ff1d3ec5c.png" alt="Cover for I Spoke to the Devil in Miami, He Said Everything Would Be Fine (Remix)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-04-14</td>
+      <td>Erikthemc</td>
+      <td>I Spoke to the Devil in Miami, He Said Everything Would Be Fine (Remix)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 46</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/CqZ-1P65wygysp6AqjAk_mKY0SmLqPplezLu5DKi3DE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc4/OTI3LTE1OTY2NjQx/MDQtMzM5Ni5qcGVn.jpeg" alt="Cover for Castles II" style="max-width:120px; height:auto;" />
       </td>
@@ -1608,27 +1539,10 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 24</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 6</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 23</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 34</li>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 46</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b83ad2561639445da263470bbc7c06e5.png" alt="Cover for Science Fiction" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-08-17</td>
-      <td>Brand New</td>
-      <td>Science Fiction</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -1652,17 +1566,17 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
         <ul>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 22</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 52</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 66</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 65</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 71</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 73</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 74</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/nDXueepMmDuD4ywVNkntuD0yMDglJW7zKa2eNojtfBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU5/ODQ5LTE1MDkxMTAw/MzgtNTI4Ni5qcGVn.jpeg" alt="Cover for Feel Something" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d302c20bb191e7c5bf537748e1d091b.png" alt="Cover for Feel Something" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-20</td>
       <td>Movements</td>
@@ -1675,12 +1589,12 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 32</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/gfkd7cg8HKNq3xhbSonX-qAZMPjoLv4-TLAYu0l4qmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUy/MTQzLTE1MDM2NzI3/OTEtNTk1NS5qcGVn.jpeg" alt="Cover for Come Over When You&#39;re Sober, Pt. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1698,9 +1612,9 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/Mi0fu8ZrDKVxTFkd2F9Olnkc7VfY6tJuOQDOpW45snw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk1/NzkxLTE1NTUwNDQy/MDEtODg4MC5qcGVn.jpeg" alt="Cover for Shine On" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7624a2c3cc50693efaf035f0080f5371.png" alt="Cover for Shine On" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-24</td>
       <td>The Amity Affliction</td>
@@ -1720,11 +1634,11 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 69</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 72</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 77</li>
             <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 87</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 89</li>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 91</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 94</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 100</li>
         </ul>
       </td>
@@ -1743,7 +1657,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 23</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 22</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 90</li>
         </ul>
       </td>
@@ -1767,7 +1681,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 21</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 22</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 74</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 89</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 92</li>
@@ -1775,28 +1689,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ccbf57075fece0ea1bcf678bea2da8d6.png" alt="Cover for Somewhere at the Bottom of the River Between Vega and Altair (10th Anniversary)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-11-09</td>
-      <td>La Dispute</td>
-      <td>Somewhere at the Bottom of the River Between Vega and Altair (10th Anniversary)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 44</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 54</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/pix7gZe97hbI4kW_cs2_OAVRspU8MKs817u56mzxotE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAx/Mjk5LTE2NDgwNjcy/ODItMjAzNi5qcGVn.jpeg" alt="Cover for SAD!" style="max-width:120px; height:auto;" />
       </td>
@@ -1817,7 +1710,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/918c9f0c331c27d9de86236ef06418ae.png" alt="Cover for MANTRA" style="max-width:120px; height:auto;" />
       </td>
@@ -1842,7 +1735,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/T2abFfw9szdZYYyDGHdf0Pt-9-c45Cg54OQolnYv_ng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDM5/NDEwLTE1NTAzMTA2/NTYtODM2OC5qcGVn.jpeg" alt="Cover for Lost" style="max-width:120px; height:auto;" />
       </td>
@@ -1852,6 +1745,24 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/UOVdwTwAefNv5B0WaU4gbSwm3EXqsrhbPmHc5F1KLuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzc2/NTUyLTE1ODEwODg5/MjEtMzQ0NS5qcGVn.jpeg" alt="Cover for Death Race For Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-03-08</td>
+      <td>Juice WRLD</td>
+      <td>Death Race For Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
         </ul>
       </td>
       <td>
@@ -1884,31 +1795,6 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>62</td>
-      <td>
-          <img src="https://i.discogs.com/Eemd6QdEPOGZzIWGwKaKHCGnwC_tkueZmq8R-7hODfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODc4/NzA3LTE1NjMxNDUz/NTUtMTU5Ny5qcGVn.jpeg" alt="Cover for Come In" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-04-29</td>
-      <td>Weatherday</td>
-      <td>Come In</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 49</li>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 70</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 88</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 88</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>95</td>
       <td>
           <img src="https://i.discogs.com/fZ5Grth_3wNsLQI8F8lI9qC_WGnTyZWk0I43L_kcOA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTE0/NTEyLTE2NjY0NTAz/MDctMjI2NS5qcGVn.jpeg" alt="Cover for ?" style="max-width:120px; height:auto;" />
@@ -1926,14 +1812,14 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 65</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 64</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 70</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/ZEnkvhuCGQgaNV0-Nx44oSJQdfHihG_qZGlhATTMM8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTc4/OTQ0LTE2NzY5OTgz/OTEtMTA4Ni5qcGVn.jpeg" alt="Cover for Stay Away (feat. Machine Gun Kelly &amp; Goody Grace)" style="max-width:120px; height:auto;" />
       </td>
@@ -1954,7 +1840,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e0d5935add81cd82f95e8645b447d99.png" alt="Cover for The Bastards" style="max-width:120px; height:auto;" />
       </td>
@@ -1974,7 +1860,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfb4a4c8ed2c9ae98ed33449a77a97cb.png" alt="Cover for The Party Never Ends" style="max-width:120px; height:auto;" />
       </td>
@@ -1991,51 +1877,137 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 34</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 33</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/ELyE1BS-WhKMUmdEnlW6o-EVk5_rJUI_BfiIIG32BVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzc0/MDMwLTE2MDczNTY2/NDQtNjAwOC5qcGVn.jpeg" alt="Cover for your arms are my cocoon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ee08bda639c3df913e1a4a37508a841.png" alt="Cover for To See the Next Part of the Dream" style="max-width:120px; height:auto;" />
       </td>
-      <td>2020-11-20</td>
-      <td>Your Arms Are My Cocoon</td>
-      <td>your arms are my cocoon</td>
+      <td>2021-02-23</td>
+      <td>Parannoul</td>
+      <td>To See the Next Part of the Dream</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 74 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 40</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 76</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 99</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/hOWFehvIkBbtBa_xnyeT0k3FyGaZOYNMr6Cnh4OUwSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODQy/NzcxLTE2NjY0NzY1/OTUtNzc3MC5qcGVn.jpeg" alt="Cover for Where the Heart Is" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24a3345f82b784fc700425a472202841.png" alt="Cover for DigitalLung.EXE" style="max-width:120px; height:auto;" />
       </td>
-      <td>2022</td>
-      <td>Sweet Pill</td>
-      <td>Where the Heart Is</td>
+      <td>2021-03-08</td>
+      <td>Hey, Ily</td>
+      <td>DigitalLung.EXE</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 88</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 38</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 64</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 67</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2021-03-29</td>
+      <td>MGK</td>
+      <td>Tickets To My Downfall</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61cdafbb850cce0c33348b9df963e2ef.png" alt="Cover for Tell Me About Tomorrow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-06-02</td>
+      <td>jxdn</td>
+      <td>Tell Me About Tomorrow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/vbRapNvdhMPWrSl7AXYekytlpO-sBfj7L6sO6DitEIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTA1/NDA4LTE2MzY3MjEz/OTEtNDM5OC5qcGVn.jpeg" alt="Cover for Friends" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-11-05</td>
+      <td>LIL PEEP</td>
+      <td>Friends</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 42</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b0a7000d5f53779cd208d4702035c83.png" alt="Cover for Weatherglow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-11-26</td>
+      <td>Asian Glow</td>
+      <td>Weatherglow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 29</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2058,7 +2030,56 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5d000597eeb99650fc6671e64d26aa8.png" alt="Cover for misery" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-09-30</td>
+      <td>EKKSTACY</td>
+      <td>misery</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bfb778e3c035d07291e963b6382838c.png" alt="Cover for Drown (Live from Maida Vale)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-01-05</td>
+      <td>Bring Me the Horizon</td>
+      <td>Drown (Live from Maida Vale)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 34</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 67</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 67</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1a4c4830a309694dde2736e27a1053a.png" alt="Cover for Freak Show" style="max-width:120px; height:auto;" />
       </td>
