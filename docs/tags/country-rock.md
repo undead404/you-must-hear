@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T01:58:19.587Z
+date: 2025-11-14T05:14:10.579Z
 permalink: tags/country-rock
 title: country rock
 ---
 
 ## country rock
 
-Last updated: <time datetime="2025-11-12T01:58:19.587Z">Wed Nov 12 2025 03:58:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T05:14:10.579Z">Fri Nov 14 2025 07:14:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Country rock is a genre of popular music that combines elements of country and r
   </thead>
   <tbody>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/thUSxoaqNA0wQrvxjIWfKG93n5KQPcd053XRUTwCaMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzU1/NDQtMTI5NDA1OTky/Ny5qcGVn.jpeg" alt="Cover for Meet the Searchers" style="max-width:120px; height:auto;" />
       </td>
@@ -127,7 +127,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>1969-03</td>
@@ -145,13 +145,13 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 22</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 23</li>
             <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dad18057aa89ba5105cd9a973e3ec2f.png" alt="Cover for Nashville Skyline" style="max-width:120px; height:auto;" />
       </td>
@@ -170,7 +170,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d7d1d7f5ae842cb9f9404689206e8f5.png" alt="Cover for Green River" style="max-width:120px; height:auto;" />
       </td>
@@ -185,13 +185,13 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 33</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 36</li>
             <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12edef2c458da9f11430af6607d9b81e.png" alt="Cover for Self Portrait" style="max-width:120px; height:auto;" />
       </td>
@@ -209,7 +209,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/fmdpEE4hIGNdnWLn8oHEOSBC0KgsuVT3ZzZgdoJLZqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzk3/NjMtMTU1NTIyNzQ3/NS01MzA2LmpwZWc.jpeg" alt="Cover for Songs You Know By Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -245,28 +245,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>58</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/874557ee3bcb413ea64be8587a180895.png" alt="Cover for New Morning" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1970-10-21</td>
-      <td>Bob Dylan</td>
-      <td>New Morning</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 13</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 75</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/986c398b32723c1582c4bfbca84e9f92.png" alt="Cover for Pendulum" style="max-width:120px; height:auto;" />
       </td>
@@ -281,31 +260,13 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 28</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 31</li>
+            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 29</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e027207518bdb852583c08986016a2c0.png" alt="Cover for Link Wray" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1971</td>
-      <td>Link Wray</td>
-      <td>Link Wray</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 23</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>1971</td>
@@ -341,7 +302,24 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>16</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e027207518bdb852583c08986016a2c0.png" alt="Cover for Link Wray" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971</td>
+      <td>Link Wray</td>
+      <td>Link Wray</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04608e4ca2bb737f07155e4c344b7ae3.png" alt="Cover for If I Could Only Remember My Name" style="max-width:120px; height:auto;" />
       </td>
@@ -355,12 +333,12 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 4</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>1971-05</td>
@@ -377,7 +355,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/05e0396357037f7e5c976264456369c3.png" alt="Cover for Manassas" style="max-width:120px; height:auto;" />
       </td>
@@ -413,14 +391,14 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 36</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 45</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 63</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 40</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 48</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/beffcdaa1584499e9cc54291d8a8698a.png" alt="Cover for Mardi Gras" style="max-width:120px; height:auto;" />
       </td>
@@ -440,8 +418,9 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efd0dff9591f48c3c8dcfbf6a1ffed52.png" alt="Cover for GP" style="max-width:120px; height:auto;" />
       </td>
       <td>1973-01</td>
       <td>Gram Parsons</td>
@@ -476,7 +455,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/PlBpc9yE1u_mlidjWnz2op6co6bCoSzLas2DqfKImUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY2/MTMtMTQyNjA2OTE5/OC05OTgxLmpwZWc.jpeg" alt="Cover for Don&#39;t Cry Now" style="max-width:120px; height:auto;" />
       </td>
@@ -498,6 +477,7 @@ Country rock is a genre of popular music that combines elements of country and r
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf106f6b3f404768c764e02b08476f36.png" alt="Cover for Grievous Angel" style="max-width:120px; height:auto;" />
       </td>
       <td>1974-01</td>
       <td>Gram Parsons</td>
@@ -553,7 +533,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>1975</td>
@@ -573,9 +553,9 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/ChGUfd4Ww5vp0j_aHPINKsM0yztzYrhWPL7exjvcGkY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzI3/ODUtMTU5MzI1NzY5/MS0yNjkwLmpwZWc.jpeg" alt="Cover for Firefall" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68907db1a92e4df7bae866991e85e88b.png" alt="Cover for Firefall" style="max-width:120px; height:auto;" />
       </td>
       <td>1976</td>
       <td>Firefall</td>
@@ -596,7 +576,25 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9e630d86fcd46ec92a0361085726abb.png" alt="Cover for Hasten Down the Wind" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Linda Ronstadt</td>
+      <td>Hasten Down the Wind</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bcc0ba90c5745b6975e5135f3e6de13.png" alt="Cover for Seed Of Memory" style="max-width:120px; height:auto;" />
       </td>
@@ -615,7 +613,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/6sDrc2L9iYVjVcvvLt29ytX6RC48hsQbDtHlNn1tAaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDEx/NC0xMTI0MjM5OTY2/LmdpZg.jpeg" alt="Cover for Sleepless Nights" style="max-width:120px; height:auto;" />
       </td>
@@ -672,7 +670,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>1977-03-15</td>
@@ -689,7 +687,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/H3vuZRUE4gHUV_sikDHHKLaWA8dXm3aH1nQx5uSCC4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDUz/NzYtMTU1Nzk1MDMw/MS0xNDk4LmpwZWc.jpeg" alt="Cover for Natural Force" style="max-width:120px; height:auto;" />
       </td>
@@ -707,7 +705,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c083e0b346b429ab22145780eca2fb8.png" alt="Cover for The Long Run" style="max-width:120px; height:auto;" />
       </td>
@@ -726,7 +724,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/SWwhuX6B7DLroiHOk6NguwtC2qmcCGrg0kibHBLR_Fo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDMx/NTctMTI3NTU1NjYy/Ni5qcGVn.jpeg" alt="Cover for Ozark Mountain Daredevils" style="max-width:120px; height:auto;" />
       </td>
@@ -762,7 +760,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa019592bd675c1d03dab628fd72cdf6.png" alt="Cover for A Decade of Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -800,9 +798,9 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/tOTDjEnMOdPRoxe4UlEfy9TgFzShC86nYEvmYHl7X-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk0/OTEtMTI5NjAwMjk1/NS5qcGVn.jpeg" alt="Cover for Guitar Town" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9df10b40e0e695f0d92ef347e8b3ec9c.png" alt="Cover for Guitar Town" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-03-05</td>
       <td>Steve Earle</td>
@@ -814,7 +812,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 44</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -834,12 +832,12 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 67</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/611ec2e4ddf41e7413a3bad63f7ca39e.png" alt="Cover for Farther Along: The Best of the Flying Burrito Brothers" style="max-width:120px; height:auto;" />
       </td>
@@ -859,7 +857,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/yqQs5K9Ia6VtcyAewSalzMO9RsJr8Ra7i8BbRGtR5LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDA5/ODctMTQzMTU1Mjk0/MC03ODQwLmpwZWc.jpeg" alt="Cover for Basher: The Best of Nick Lowe" style="max-width:120px; height:auto;" />
       </td>
@@ -879,7 +877,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 62</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -903,7 +901,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>1992</td>
@@ -921,7 +919,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>1993-05-11</td>
@@ -973,7 +971,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4e999563a60f4cf67816946904dd93a.png" alt="Cover for Wildflowers" style="max-width:120px; height:auto;" />
       </td>
@@ -1010,9 +1008,9 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/HoAIhj4YzuK6BeCJf5R1Sy_GTM_6YGwhRhldQ35nqI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTcy/Ni0xNTA0MTQ3NTc2/LTYyOTYuanBlZw.jpeg" alt="Cover for Carl &amp; The Passions - So Tough (Remastered)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7c42a07cbbd24e95c99207585021582.png" alt="Cover for Carl &amp; The Passions - So Tough (Remastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-06-28</td>
       <td>The Beach Boys</td>
@@ -1032,7 +1030,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/8YrCNiDNC1YpQr0CSryf_vucr0juJLuqH9CPpexsF3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzU3/OTktMTQwNzg0NTcw/MC00MjA1LmpwZWc.jpeg" alt="Cover for Natural Force (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1051,7 +1049,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>1998-06-02</td>
@@ -1086,7 +1084,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td>2001-01-02</td>
@@ -1104,7 +1102,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>2002</td>
@@ -1121,7 +1119,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/rrJ-2vmK98rl7iCkb1R1w0YQAlcUQWkwWs5kh3G1yIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTMw/NS0xNTUzMzQ5MjQ5/LTQ0NjguanBlZw.jpeg" alt="Cover for Universal Truths and Cycles" style="max-width:120px; height:auto;" />
       </td>
@@ -1142,7 +1140,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 50</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 49</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 81</li>
         </ul>
       </td>
@@ -1165,7 +1163,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2002-09-10</td>
@@ -1184,7 +1182,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8ac5405bceb012f92751a84dde3c4ac.png" alt="Cover for The Very Best of Linda Ronstadt" style="max-width:120px; height:auto;" />
       </td>
@@ -1223,8 +1221,9 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce0cb937c169c4dc6a7b9aa9c65e751f.png" alt="Cover for The Magnolia Electric Co." style="max-width:120px; height:auto;" />
       </td>
       <td>2003-03-04</td>
       <td>Songs: Ohia</td>
@@ -1236,12 +1235,12 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 70</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/E4SoIk_rpE3Zu_WXyMGXccgpc47zmAZJDtX1FSafSEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMy/NzMtMTM0MTYxMjMz/NC0zNTgyLmpwZWc.jpeg" alt="Cover for Fate&#39;s Right Hand" style="max-width:120px; height:auto;" />
       </td>
@@ -1260,7 +1259,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f92e155f1674a58b822461afcccbc8e.png" alt="Cover for The Complete Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1319,8 +1318,8 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 45</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 64</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 49</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1341,13 +1340,13 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 1</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 4</li>
             <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>2006-04-04</td>
@@ -1384,7 +1383,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e94ec4c5e6748dbc8ea9c4f60baa51f.png" alt="Cover for The Wolf" style="max-width:120px; height:auto;" />
       </td>
@@ -1405,7 +1404,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/67cfa8661bf19264fee8fbcc6d28788d.png" alt="Cover for Denim &amp; Rhinestones" style="max-width:120px; height:auto;" />
       </td>
@@ -1423,7 +1422,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/473a8dfba853e7df9517b5c4d0e0265a.png" alt="Cover for Long Road Out of Eden" style="max-width:120px; height:auto;" />
       </td>
@@ -1441,7 +1440,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2008-10-28</td>
@@ -1461,7 +1460,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/SWrE-M-jUrzTkMZN64OfYpBHrzai_OggcnSGpI7chS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzM5/MzUtMTUyOTY2OTk2/NC02ODIxLmpwZWc.jpeg" alt="Cover for The Climb - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1481,7 +1480,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/eLHmaT_FjFMLkkV3djYhoj7co3kVqKELdNyzgtvjWM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDk4/NzktMTQ2NTA2Nzc2/My04MTQwLmpwZWc.jpeg" alt="Cover for Lucky" style="max-width:120px; height:auto;" />
       </td>
@@ -1520,7 +1519,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7efa5dcd548c448bc4a9b3f5a40887b5.png" alt="Cover for Space Oddity [Space Oddity 40th Anniversary Edition]" style="max-width:120px; height:auto;" />
       </td>
@@ -1565,7 +1564,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9eb638c9526e448e87f7086564f7aca2.png" alt="Cover for The Tarnished Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -1604,7 +1603,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/P50C2TNz3KgY4VXdiUMW_nO0z05p7VZvCDPqu7lU9WU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODA2/OTctMTQ2NDk0MDUz/NC0xMTg0LmpwZWc.jpeg" alt="Cover for Move With Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1622,7 +1621,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2013-09-10</td>
@@ -1640,9 +1639,9 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/OHKo_j8TXbjk5eigtFBB4w_kN82GZOwf9Xn-c2Ci2QA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTEx/OTYtMTQ2MjM3NjQ3/OC01NjI5LmpwZWc.jpeg" alt="Cover for Fear and Saturday Night" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7902a56f84ea0af977e5663ca781be69.png" alt="Cover for Fear and Saturday Night" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-20</td>
       <td>Ryan Bingham</td>
@@ -1662,7 +1661,7 @@ Country rock is a genre of popular music that combines elements of country and r
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/mPe1CBclW9FNcytIoZHsn54ImqqDCmqfTtd0oC3O6Qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMTk0/NjgtMTQ3NTEwNTgz/OS00MDk3LmpwZWc.jpeg" alt="Cover for Shine on Rainy Day" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf93a261dcac11fe8bead2d398559c81.png" alt="Cover for Shine on Rainy Day" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Brent Cobb</td>
@@ -1740,7 +1739,7 @@ Country rock is a genre of popular music that combines elements of country and r
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 79</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 89</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 91</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 95</li>
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 97</li>
         </ul>
@@ -1814,7 +1813,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/US_oFQ38IC7T4GGotAfxfMZlWlK8179u8wBF7naKSvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjQx/NzIwLTE2MTkxNjQy/MTgtMzY4OS5qcGVn.jpeg" alt="Cover for Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1833,7 +1832,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/1CJ_gOm918NIqHqfDLbdC_5yfz1-8WQ4LLqoG0NT-HA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzA5/NTIwLTE2MTkyNjEz/MjUtOTk4Ni5qcGVn.jpeg" alt="Cover for Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -1893,9 +1892,9 @@ Country rock is a genre of popular music that combines elements of country and r
       <td>
         <ul>
             <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 61</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 76</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 77</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 88</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 88</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 90</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 99</li>
         </ul>
       </td>
@@ -1924,7 +1923,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2023</td>
@@ -1966,8 +1965,9 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e2d190125884060c01597aa94fcffba.png" alt="Cover for Wild &amp; Free (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>A Rocket to the Moon</td>
