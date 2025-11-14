@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-23T10:21:49.044Z
+date: 2025-11-14T01:41:59.702Z
 permalink: tags/minimal-wave
 title: minimal wave
 ---
 
 ## minimal wave
 
-Last updated: <time datetime="2025-10-23T10:21:49.044Z">Thu Oct 23 2025 13:21:49 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-14T01:41:59.702Z">Fri Nov 14 2025 03:41:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -24,11 +24,12 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>28</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/xCXWBfLTpWh2Y8jJMcu9h5h3o22lyejBL2cz2Dt1kIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODAz/NjE5LTE3MTY5MTA1/NTktNTQxNC5qcGVn.jpeg" alt="Cover for Classic Electro" style="max-width:120px; height:auto;" />
       </td>
@@ -42,9 +43,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 37</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 70</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for The Hidden Tapes" style="max-width:120px; height:auto;" />
       </td>
@@ -57,24 +64,35 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-          <img src="https://i.discogs.com/6zCfCHSd5hkN2GGHNWThUMlAX-s-G6c_ymcOvnml_yI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDc5/OS0xMzUyNjcxNzkx/LTU0MTEuanBlZw.jpeg" alt="Cover for Life In A Goldfish Bowl" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1982</td>
-      <td>Baard</td>
-      <td>Life In A Goldfish Bowl</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>2</td>
       <td>
+          <img src="https://i.discogs.com/Z-Nff4w4613Ufkt1HReKYO7wAxLLlN4dAkbsDf89uhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzQy/MC0xNTM4NTM3NjQ1/LTU3NTguanBlZw.jpeg" alt="Cover for Anonym" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979-10</td>
+      <td>Tolerance</td>
+      <td>Anonym</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cb85c5555a0c7ce8db469371864e110.png" alt="Cover for Exploded view" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>The Actor</td>
@@ -89,9 +107,14 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 79</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d722355b5c4b516920afb29b1fab60bb.png" alt="Cover for space museum" style="max-width:120px; height:auto;" />
       </td>
@@ -101,14 +124,19 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
-          <img src="https://i.discogs.com/Yf7N_RpAx0bb9e3ELaK5eFippWTAHFfS5VSwbmwmql4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mzg2/ODYtMTQyNzIxODA2/My03NTc4LmpwZWc.jpeg" alt="Cover for New Mexico" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b17892ba3e074700a50e28085df8c577.png" alt="Cover for New Mexico" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Oppenheimer Analysis</td>
@@ -120,9 +148,32 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 98</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/6zCfCHSd5hkN2GGHNWThUMlAX-s-G6c_ymcOvnml_yI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDc5/OS0xMzUyNjcxNzkx/LTU0MTEuanBlZw.jpeg" alt="Cover for Life In A Goldfish Bowl" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982</td>
+      <td>Baard</td>
+      <td>Life In A Goldfish Bowl</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/v6Fwn1QQu95NwNSXK6weA_csXTwo7qZNlJ0-rBR7tJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjYy/My0xNTk1NTE1Mjc2/LTc3NTYuanBlZw.jpeg" alt="Cover for Or So It Seems" style="max-width:120px; height:auto;" />
       </td>
@@ -135,9 +186,13 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/h1LJAAudYcsoB80SO3t24z5EsB8M_gogVX0KbbHdBHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODg5/OTktMTI2MzY2NzUx/My5qcGVn.jpeg" alt="Cover for Mayu" style="max-width:120px; height:auto;" />
       </td>
@@ -151,10 +206,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/781a66212394be0ad5d525f9eef80b33.png" alt="Cover for Just Because" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Martin Dupont</td>
@@ -169,9 +229,13 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>88</td>
       <td>
       </td>
       <td>1984-03-01</td>
@@ -186,25 +250,17 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>
-      </td>
-      <td>1985</td>
-      <td>Martin Dupont</td>
-      <td>Sleep is a Luxury</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 88</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>79</td>
       <td>
-          <img src="https://i.discogs.com/Jc45qXmsGf6mKLRgMFc7YrF-90MktQwMAC7QADBW68o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTk3/Ni0xMTk2NzA1OTI2/LmpwZWc.jpeg" alt="Cover for Polaroïd&#x2F;Roman&#x2F;Photo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/312252613c584b13978596c699d1e375.png" alt="Cover for Polaroïd&#x2F;Roman&#x2F;Photo" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Ruth</td>
@@ -216,11 +272,35 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 61</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/o2R0SmCseI0E9IqdvQsTZ6DMo-MHKhU_mQk22IU05uw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTQw/MzQtMTQ3MjY0ODg5/Ni0xMzI4LmpwZWc.jpeg" alt="Cover for Sacred Islands Of The Mad" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3082686e07d395b6aacbf7ca5067cfcf.png" alt="Cover for Sleep is a Luxury" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985</td>
+      <td>Martin Dupont</td>
+      <td>Sleep is a Luxury</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02bb7c3426d646f7b685e25bb0917f75.png" alt="Cover for Sacred Islands Of The Mad" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Nagamatzu</td>
@@ -231,11 +311,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>72</td>
       <td>
-          <img src="https://i.discogs.com/NqGMvcCE4Koqlvg11yQcH25Ji34jZ36URlR7gl4InZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTg0/Ni0xMTc1ODE1MzEy/LmpwZWc.jpeg" alt="Cover for Elevator To Eden" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b105f4290d51466889a4155549796306.png" alt="Cover for Elevator To Eden" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Lives Of Angels</td>
@@ -245,10 +329,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09a31f8d10b64465b468b65a3c676e6e.png" alt="Cover for Bas Relief" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-10-10</td>
       <td>Eleven Pond</td>
@@ -259,9 +348,13 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/rbQMjlcinCm4hOSQA1Jw3S4DwrDLUpb9cjC83Wa8yk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjY3/MzEtMTM3MTU4OTk4/MS02Mjk0LmpwZWc.jpeg" alt="Cover for Assemblage" style="max-width:120px; height:auto;" />
       </td>
@@ -273,11 +366,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/UmdMPEXIJ-_9LpYSnkbz2HABLgPTEGJG8IeheR7Ic-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/MDgtMTQxMzE1NzI0/NS0zMjE0LmpwZWc.jpeg" alt="Cover for It&#39;s Cosy Inside (Remastered)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0936e2783a28eb40a1740ef2836ddedf.png" alt="Cover for It&#39;s Cosy Inside (Remastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Woo</td>
@@ -294,11 +391,18 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 18</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 37</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 97</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/wz2sAIkwTshbR2fJoH9h0_ppgu-8gxpxcVPhddYBhnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjcx/Mi0xMzg2ODU2MzA3/LTM4MDYuanBlZw.jpeg" alt="Cover for Sparks in a Dark Room" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fda5a7c74319aaba4fa08f78679dbf7.png" alt="Cover for Sparks in a Dark Room" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Minny Pops</td>
@@ -308,11 +412,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/QRTxJ4ww3pnYHLq0XbN-dMmVNhx_utnoxF7VA_BtK7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjk1/MDAxLTE2NTYyMjA0/MTYtMTE1OS5qcGVn.jpeg" alt="Cover for The Minimal Wave Tapes: Volume One" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58ae5f263d9f4ffca859b1469cda92f8.png" alt="Cover for The Minimal Wave Tapes: Volume One" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Various Artists</td>
@@ -323,11 +431,16 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 11</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/B4VZwwk5qhVWH6Ih-sXDHfbtkk4dPgDZs8qlrBLLook/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM0/ODI0LTE1MTI0MTk1/NTYtMjQ0OC5qcGVn.jpeg" alt="Cover for Sabine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca4b85befd0855fd084f20a1a9c9c486.png" alt="Cover for Sabine" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Eye</td>
@@ -340,9 +453,13 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/8BUGcZrztRln_Uv4XrCNQntMQYgAiPaDnJ4z2A_41Ns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDcy/MS0xNjA3NTg2ODgw/LTQzMzcuanBlZw.jpeg" alt="Cover for Words once said" style="max-width:120px; height:auto;" />
       </td>
@@ -354,11 +471,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/M6gC5yEeVkkJUw1nX8z-GDVwI4nCKzpZovdRnaSb6uU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzMy/Mi0xNTkwODYyNzQ5/LTg1MzQuanBlZw.jpeg" alt="Cover for Confusing Outsides" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2842e07ac10c5ceba3121b7c015a8445.png" alt="Cover for Confusing Outsides" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03-01</td>
       <td>Martial Canterel</td>
@@ -369,11 +490,16 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 17</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/HgnCCSceLq85FIVrHo-HTaPvurgXiIwi_I3S3XRowjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjA3/NS0xMTQ1MzM5MDQw/LmpwZWc.jpeg" alt="Cover for Tender Buttons" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e590e8f326426606396f68f2d31eaf02.png" alt="Cover for Tender Buttons" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-19</td>
       <td>Broadcast</td>
@@ -386,10 +512,23 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 52</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 54</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 54</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 60</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 61</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 66</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 90</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 90</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9cfdbc2826f51820cb12e32ce7dade9.png" alt="Cover for These Things Take Time" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09</td>
       <td>Molly Nilsson</td>
@@ -399,10 +538,16 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 85</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e006b93bb2ed0817672970db468df55.png" alt="Cover for Alternative Strategies" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Turquoise Days</td>
@@ -417,10 +562,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0269ac1e0a547178cf11007243c7a11.png" alt="Cover for On the Screen" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-09</td>
       <td>Linear Movement</td>
@@ -430,11 +580,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/PPVaSCG05sOIjXHiCf5QjoilYBpPbrOPxDvfPLDH9Ss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI1/MDEtMTI1NzI2NTQx/Mi5qcGVn.jpeg" alt="Cover for Fleurs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12f780d4a69d4a2397bdd47fe150f9f9.png" alt="Cover for Fleurs" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-20</td>
       <td>Former Ghosts</td>
@@ -446,9 +600,13 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>51</td>
       <td>
       </td>
       <td>2009-12-08</td>
@@ -459,9 +617,13 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/jVtEuTJwwIDgNuvZXcxYkpimGMyutXT5e44is9onT4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODcy/MDktMTI2ODcwMDUw/OC5qcGVn.jpeg" alt="Cover for Everytime" style="max-width:120px; height:auto;" />
       </td>
@@ -473,9 +635,13 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/_ihsZ7teTesxAAhtnEKbLu2CuB-hgUKpv_prrabDQkA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM0/NjctMTQ1MzIyMjI5/OS04NDg1LnBuZw.jpeg" alt="Cover for Preludes" style="max-width:120px; height:auto;" />
       </td>
@@ -488,9 +654,13 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>71</td>
       <td>
       </td>
       <td>2011</td>
@@ -502,11 +672,16 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 68</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/1hAoa0dVaLaqWe1nH8FdY2OIpOfHjcXjzTfVMU4jCx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODUy/MzQtMTQ0OTc4ODg3/OS00NjI3LmpwZWc.jpeg" alt="Cover for 20 Jazz Funk Greats (Remastered)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fb045a9d135f07bebe9c420f06c8c0e.png" alt="Cover for 20 Jazz Funk Greats (Remastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-24</td>
       <td>Throbbing Gristle</td>
@@ -521,9 +696,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 57</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 78</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>42</td>
       <td>
       </td>
       <td>2011-12-01</td>
@@ -538,23 +719,13 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>75</td>
-      <td>
-          <img src="https://i.discogs.com/RrtuxaRJItseGM9IGbh7_8AFFO3rb5_Z0EUO04SxCg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjE1/OTctMTMzMDI5NjQ5/Ny5qcGVn.jpeg" alt="Cover for The World Is Getting Colder" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-02-17</td>
-      <td>Lebanon Hanover</td>
-      <td>The World Is Getting Colder</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/xrpnTIwDkjvt54SZybw9ws1syfefUV4AzdwcfmeItOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODY5/MzUtMTMzNjM1NDUw/NC5qcGVn.jpeg" alt="Cover for Permissions Of Love" style="max-width:120px; height:auto;" />
       </td>
@@ -566,9 +737,13 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>40</td>
       <td>
       </td>
       <td>2012-08-23</td>
@@ -579,9 +754,13 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/2RXckBm104BLowNs4BFdE5tca0cMddK1OCBLX8XV9Ss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjY1/NjUtMTM0OTQ4NDY5/OS02NTQwLmpwZWc.jpeg" alt="Cover for I Feel Nothing" style="max-width:120px; height:auto;" />
       </td>
@@ -594,11 +773,33 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 63</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/ZIAEiAwNkh_wU26RTkYLTgBNO-1D8BDRpo90ScwCNiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzcy/OTktMTQxNzczNDky/NC05NzczLmpwZWc.jpeg" alt="Cover for SD Killwave" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-10-06</td>
+      <td>Ohama</td>
+      <td>The Potato Farm Tapes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22210d0c533a641cf11f844c67d5afed.png" alt="Cover for SD Killwave" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Prayers</td>
@@ -612,9 +813,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 81</li>
+            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 85</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/IIu_QgN6z4tsKdRh_6qZJ3pCQMaavW5okanlYFkyUhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTk0/MjItMTM2MTgxODYy/Ni02ODExLmpwZWc.jpeg" alt="Cover for Fugue" style="max-width:120px; height:auto;" />
       </td>
@@ -626,9 +833,13 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/FVvo5c0l2LtYwTBbiBegjbRLsrLb-nqssRiSwtWdtg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE4/NTAxLTE2MTkxNTYw/NjYtMjYzOC5qcGVn.jpeg" alt="Cover for Basic Needs" style="max-width:120px; height:auto;" />
       </td>
@@ -647,10 +858,21 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 35</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 68</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 81</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 88</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 98</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 100</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb8a9f1826594dc194629c70a6d22fd1.png" alt="Cover for Figure Study" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-12</td>
       <td>Figure Study</td>
@@ -664,9 +886,13 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/NSyrzl2z7kt2BJmrL8hmJ0MRmPmmou7V5Q9u0itsPog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDY0/NDYtMTMzODcyNjcz/Ny03MDA1LmpwZWc.jpeg" alt="Cover for Рептильки" style="max-width:120px; height:auto;" />
       </td>
@@ -677,11 +903,16 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 3</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
-          <img src="https://i.discogs.com/-VDxhFALA7E8PQWKiSWnJ1IAwhKcsU5pZgIQHic30NU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDU2/MzctMTQzMjc0ODEx/My0zMTQ1LmpwZWc.jpeg" alt="Cover for Gothic Summer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d60a1aef539659005740cad3407cc063.png" alt="Cover for Gothic Summer" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Prayers</td>
@@ -693,6 +924,13 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 14</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 56</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -715,10 +953,21 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 11</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 97</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 97</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 98</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 98</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 100</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cedca2d0a1c4066c06d83ef58d773e1.png" alt="Cover for Here Comes Now" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-04</td>
       <td>Stephon Alexander &amp; Rioux</td>
@@ -735,24 +984,16 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>62</td>
-      <td>
-      </td>
-      <td>2014-11-03</td>
-      <td>Dean Blunt</td>
-      <td>Black Metal</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>65</td>
       <td>
-          <img src="https://i.discogs.com/CUdMsQhnAgSPIx_qfP3xKL3iCrluDjOb3GOdwAJ8bK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDA0/MjAtMTQxNDg0ODYw/NC0xNDI2LmpwZWc.jpeg" alt="Cover for Black Is Beautiful" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0417a5db2e3268951a437d1b389794ec.png" alt="Cover for Black Is Beautiful" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-04</td>
       <td>Dean Blunt</td>
@@ -768,9 +1009,16 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 21</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 57</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 66</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/XVZ9am-oW6SmrtPbOQiwYnKmYleQDhA_axVYojAwJX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjE0/OTItMTQxNDA3MTc4/Mi0zMzk3LmpwZWc.jpeg" alt="Cover for Ξ" style="max-width:120px; height:auto;" />
       </td>
@@ -787,26 +1035,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>
-          <img src="https://i.discogs.com/viwkI4SUWq24al3B8hz_1FUKfaKk3iauW7zv9yZVd5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjUw/NjMtMTQzMDU2NDgy/Ny00MzQ3LmpwZWc.jpeg" alt="Cover for THIRD SIDE OF TAPE" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-04-29</td>
-      <td>Lil Ugly Mane</td>
-      <td>THIRD SIDE OF TAPE</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>59</td>
       <td>
-          <img src="https://i.discogs.com/U-D7VRiKg_9-j4vf79wEThZuQKXTQ0zDlLn5IhoXK0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDMx/NDgtMTQzNjA3Mjcz/My04NjEyLnBuZw.jpeg" alt="Cover for Young Gods" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e5075b984fdb77a4621f438ef736608.png" alt="Cover for Young Gods" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-06-23</td>
       <td>Prayers</td>
@@ -821,9 +1058,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 44</li>
+            <li> <a href="{{ "/tags/chicano-rap" | relative_url }}">chicano rap</a> # 95</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/NYQ7nnXTdui9fEiM4UcUrNRP5SUMk3KvgEANopejXbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc3/MzQxLTE0OTEyMTQ0/OTctNzk3My5qcGVn.jpeg" alt="Cover for Movements II" style="max-width:120px; height:auto;" />
       </td>
@@ -838,30 +1081,32 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/RsrL8WXvsE1oHB9A3lLIXqW51qZ4uCWbNtseK7NL_aU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTg3/NjUtMTQ2NDgxOTQ3/NS02NzU0LmpwZWc.jpeg" alt="Cover for Soaring" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06484917f56aa0c92879fde4cbfc3d6c.png" alt="Cover for Soaring" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-09</td>
       <td>Puzzle</td>
       <td>Soaring</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/3e4pIKLBGuWCzVwfr9vR68MTX0Wj3FSR_5ZQgfimX50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjcw/MzMtMTYxMzE3MDI3/MC0zNzQ5LmpwZWc.jpeg" alt="Cover for Heimat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aee92ce63dd33a942d32ffd17e530850.png" alt="Cover for Heimat" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-11</td>
       <td>Heimat</td>
@@ -872,11 +1117,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
-          <img src="https://i.discogs.com/DhzutPn2wnK4etFwd-C--OuF1NKkOt2whzdVu2E_Qmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MTIy/NTItMTQ4MzY0MDEw/MC02ODQ1LmpwZWc.jpeg" alt="Cover for Yr Body Is Nothing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02cd8a939dedf332b8aa03992f5a690f.png" alt="Cover for Yr Body Is Nothing" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-20</td>
       <td>Boy Harsher</td>
@@ -891,9 +1140,17 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 80</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 92</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 94</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 97</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/PlKwXusDIR5DKlbECrpPOIqZfSXdg5xIhIQqlqao8sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjIx/NjgtMTU5ODUxNTU1/Ni05NjEyLmpwZWc.jpeg" alt="Cover for Ursprung" style="max-width:120px; height:auto;" />
       </td>
@@ -912,9 +1169,13 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/Avq2FVTRFCcwtNFUVExBqyHZ_OywPtCj5s58qz5lNDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDUx/OTEtMTQ3NjM4Njg1/Ni0zNzcyLmpwZWc.jpeg" alt="Cover for Babes of the 80&#39;s" style="max-width:120px; height:auto;" />
       </td>
@@ -930,9 +1191,17 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 59</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 74</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 92</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 95</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/PQ7P-W5v5E6Mv2D5Kq1rVrMB5yKvnWhY7-Qqj1l47-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MzY1/NjUtMTQ4ODY0OTM4/OS02MjE0LmpwZWc.jpeg" alt="Cover for Cine Romance" style="max-width:120px; height:auto;" />
       </td>
@@ -949,11 +1218,17 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 22</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 41</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/z21itp6nMUK1BhyKqZWlfSaS3eHpjHKMFIWFiTHW_ic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg1/NjIxLTE1NTY3MzE0/NTAtMjc2My5wbmc.jpeg" alt="Cover for Imaginary Veil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8d55311dc2365fba73e75cc4c356de8.png" alt="Cover for Imaginary Veil" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-18</td>
       <td>Poison Point</td>
@@ -968,11 +1243,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>67</td>
       <td>
-          <img src="https://i.discogs.com/i9wDzDHp_QomNRiNir-YeOt2UqaF-nVBtwoU8wheiqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODM3/OTU0LTE1MjU2Mjgw/MTktNDY4OC5qcGVn.jpeg" alt="Cover for Country Girl (extended version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad847b09e14fd0a8e107a7d0615b6138.png" alt="Cover for Country Girl (extended version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-24</td>
       <td>Boy Harsher</td>
@@ -987,11 +1266,17 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 41</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 63</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/jSEF0amDOZ15jgF_Ht_GrW9Kl0m2o5BB4tvdgW2c5a8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ5/NjczLTE1MzUzMDcx/MzgtNTQxMi5qcGVn.jpeg" alt="Cover for Perspektive" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/101ad02aa118d5ad6bb8a6bfec29b429.png" alt="Cover for Perspektive" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Ash Code</td>
@@ -1006,11 +1291,16 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 14</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/ArLnokQNIWUgYDE4_AuCaGK0pk14I2t41sDuspAPD40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYx/OTIxLTE1MjU1NTIx/MTQtMjgzMS5qcGVn.jpeg" alt="Cover for To The Core" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cdb847e35e2dbd7db186a306109e432.png" alt="Cover for To The Core" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Zanias</td>
@@ -1028,11 +1318,22 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 27</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 65</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 79</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 87</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 92</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 97</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 99</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/G5j2LcW1N5tGpgwstD_ojzy7TOdjboXTAKPsBvOHNKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTUy/NjU2LTE1MTgzNzI2/MTAtMzc4Mi5qcGVn.jpeg" alt="Cover for Six Archetypes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4343c224abe00246ebe9ac4c4935d988.png" alt="Cover for Six Archetypes" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-01-19</td>
       <td>Soho Rezanejad</td>
@@ -1048,11 +1349,41 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/CM7EIvf51JF_91WS7Cz2Jx7OVolXsWp55vEe9vtyckU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjAz/MDgxLTE1MjQ0MTA0/NDgtNDc0OS5qcGVn.jpeg" alt="Cover for Vitrioli" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd5e1b17a932c4486f869724a2d14bd4.png" alt="Cover for Waveclash" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-03-02</td>
+      <td>Rue Oberkampf</td>
+      <td>Waveclash</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/728773ece226295deef474ce2b6e04ad.png" alt="Cover for Vitrioli" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-13</td>
       <td>Selofan</td>
@@ -1067,9 +1398,17 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 45</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 72</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 82</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 91</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/InFoFlDT6JqV0eTpqV2FXdzG4U-C4pOOM7iL3SeTPIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcz/MjM3LTE1MjM5OTU5/MzgtNzEyOC5qcGVn.jpeg" alt="Cover for Undone" style="max-width:120px; height:auto;" />
       </td>
@@ -1086,11 +1425,18 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 66</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 77</li>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 97</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/9teVPhHACcIoZhWNhqpBlPQwenaFnPhiSui8grJouKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA4/ODI5LTE1MjY0Nzcz/MDMtNzU3Mi5qcGVn.jpeg" alt="Cover for You &amp; Me &amp; Infinity" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/707fd93ded9683a7b3c32ff4d04737ec.png" alt="Cover for You &amp; Me &amp; Infinity" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-27</td>
       <td>Cold Cave</td>
@@ -1109,11 +1455,19 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 57</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 72</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 74</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 92</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
-          <img src="https://i.discogs.com/6vs1YN04NGXmSRVROR7lxnZdR5A7xPFrw0nFcsigxIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODEw/NzA0LTE2ODE2Njg2/NDMtNjYzOS5qcGVn.jpeg" alt="Cover for Lesser Man (extended version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddaf1c55a1f5648b7ac0224e8123a8df.png" alt="Cover for Lesser Man (extended version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-27</td>
       <td>Boy Harsher</td>
@@ -1129,9 +1483,18 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 39</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 49</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 74</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 83</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 92</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/QJO9617cgYqLLg53TJ5sqhWq0dmdDGbUo-McSuFSGWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTAx/OTQ4LTE2MTQ1MDIz/NTMtMzAwOC5qcGVn.jpeg" alt="Cover for Parallels" style="max-width:120px; height:auto;" />
       </td>
@@ -1149,11 +1512,16 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 42</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/nN0oqzvmpI1dGKQyfGe6HUiHwzwRMd52_Lkulj2QgOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTU2/NTQzLTE1NDUyOTY1/MzAtMzA3Mi5qcGVn.jpeg" alt="Cover for Pseudopop" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11a5a541e0329d1ba010549d4ce02f2a.png" alt="Cover for Pseudopop" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-20</td>
       <td>Black Nail Cabaret</td>
@@ -1175,11 +1543,18 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 22</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 25</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 63</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/ccTC7S9JsvG7S7GbehY8dcAYrqmjWmDREtnigmQkt4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQz/OTY5LTE1NDcwNDY1/NDctMzMwMS5qcGVn.jpeg" alt="Cover for Into the All" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab3f0e10481fca74737ed7af82fc45f9.png" alt="Cover for Into the All" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-03</td>
       <td>Zanias</td>
@@ -1203,11 +1578,21 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 18</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 20</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 31</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 66</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 82</li>
+            <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 84</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/nGnI3JuE9-v9AX2Mni02RGozgIGlnsAvuT-vQeg8SK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/MDA5LTE1NzY2Mjcy/NTQtNTkwNy5qcGVn.jpeg" alt="Cover for Sounds of Serfdom" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e96790de0e6233d18cd5229eb09f7a9.png" alt="Cover for Sounds of Serfdom" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>The Serfs</td>
@@ -1219,11 +1604,16 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 11</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>83</td>
       <td>
-          <img src="https://i.discogs.com/xSWjRjKyy91AnY67P_SIFPuIwpmvTlYF1Fgb1P21IhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/MjgwLTE1NDgzMzYx/NzEtMjQ0MC5qcGVn.jpeg" alt="Cover for Fantastic Planet" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8ddde0c1a3bd9fc2a4d177a597ef380.png" alt="Cover for Fantastic Planet" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-01-18</td>
       <td>Lealani</td>
@@ -1236,10 +1626,16 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 78</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f667dfb99f980b7bc667f7ff600e3e9.png" alt="Cover for Is That All There Is" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-01-26</td>
       <td>S Y Z Y G Y X</td>
@@ -1257,9 +1653,16 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 27</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 47</li>
+            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 71</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/M1KhlnPvhHe_ae1tVfhjKsS2vjY4YKKWNJjISqeI2Dk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjM2/MjE5LTE1NTA0NzAw/OTgtMTQzNC5qcGVn.jpeg" alt="Cover for Shari Vari &#x2F; 122 Hours of Fear" style="max-width:120px; height:auto;" />
       </td>
@@ -1274,9 +1677,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 1</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 34</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/S7PxqoN20x9Jw5MoAmI-8XRHdlolqxeTPuRtqfiTZb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjU3/NzY1LTE1NTA4NjQ5/MzItMzc3NS5qcGVn.jpeg" alt="Cover for Now That I&#39;m Real" style="max-width:120px; height:auto;" />
       </td>
@@ -1296,9 +1705,41 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 18</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 39</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 66</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86216cd1968cd6823e830e83807a29d1.png" alt="Cover for Country Girl" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-09-03</td>
+      <td>Boy Harsher</td>
+      <td>Country Girl</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 46</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/oY4ekxo__KyK86aOQkBEy5SGGYpkgQlwljNXWR3ci-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU5/MzM4LTE1OTc2MjA2/OTUtNDA1MS5qcGVn.jpeg" alt="Cover for Country Girl EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1315,30 +1756,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>
-          <img src="https://i.discogs.com/iEf9CVzukF8i3PLKq8qzH8DwgwuvCnqGZZSmKupLDsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc0/MTg0LTE1MTI5Mjc0/ODEtODA3Ny5qcGVn.jpeg" alt="Cover for Country Girl" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-09-03</td>
-      <td>Boy Harsher</td>
-      <td>Country Girl</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/9WhTz-G95iXPtfSDT7jt8DvwVW8mvECQnkR0KVvMhuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE5/OTM1LTE2NTM1NTYz/ODctNzg2Ni5qcGVn.jpeg" alt="Cover for Christophe-Philippe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47aaea738cbe3a9afedeaf62d6bb9010.png" alt="Cover for Christophe-Philippe" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-04</td>
       <td>Rue Oberkampf</td>
@@ -1356,10 +1782,19 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 37</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 59</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 75</li>
+            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 100</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12d7e65582cacb8d910a05e083211064.png" alt="Cover for Fading Bodies" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-11</td>
       <td>S Y Z Y G Y X</td>
@@ -1377,9 +1812,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 4</li>
+            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 41</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/z_NB-rU7QNHDalTooGGGFJMoAUGP4XOq77QGu_Hgdxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAw/ODY3LTE1NzM3Njcx/NDktMjc0NC5qcGVn.jpeg" alt="Cover for Suicide Disco" style="max-width:120px; height:auto;" />
       </td>
@@ -1401,28 +1842,38 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 23</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 39</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 50</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 84</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 85</li>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 85</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/yKQRkoPMs7i5G-V1rAsSKPeN_x6xCq80RSjWYPL-SNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ1/Mjk0LTE1ODI2ODg4/MTYtMTA2NC5qcGVn.jpeg" alt="Cover for Zone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e365dbf2f5d25cf9a892c895082c78db.png" alt="Cover for Zone" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-02-20</td>
       <td>The Mall</td>
       <td>Zone</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/P_86Ajr4qU9MBocU75Eq_5XNOndd1yoUDxhF1WuWxbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODc0/ODM3LTE2MjE5NDAz/NTQtMTQ0OS5qcGVn.jpeg" alt="Cover for Иллюзия любви" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a64112aa188f686e70f4829c7df632c3.png" alt="Cover for Иллюзия любви" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-02-21</td>
       <td>Где Фантом?</td>
@@ -1433,11 +1884,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/HTyvSKIwE_re3GyukDK89b1JgQUEYFRJEGQe0yP_SUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTM1/NTc3LTE1ODQzNjI3/NTMtNDE2OC5qcGVn.jpeg" alt="Cover for Harmaline" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/416dfbc56b7b08804ca03db733200541.png" alt="Cover for Harmaline" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03-16</td>
       <td>Zanias</td>
@@ -1454,11 +1909,17 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 10</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 16</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/ROB0fHs-vBoiidOmhBH8WXrxLYCd7o3tX1IRLq7J4UA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTE1/NDU1LTE1ODY4NzQz/NTQtMzM4OC5qcGVn.jpeg" alt="Cover for Perception is&#x2F;as&#x2F;of Deception" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/571fdb8cba922db1ac83f9fe2d998457.png" alt="Cover for Perception is&#x2F;as&#x2F;of Deception" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-10</td>
       <td>ADULT.</td>
@@ -1476,11 +1937,19 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 19</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 30</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 50</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 81</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/7d_fm2PTD73ByBeE_Iy3vgftuI4xtFbmDnAJtkVZ6Vc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY2/NTczLTE1ODg5MjU2/NDctNTAxMS5qcGVn.jpeg" alt="Cover for Gods Verging On Sanity" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e24ef52dc22dd98e94a86cc48f03f0e6.png" alt="Cover for Gods Verging On Sanity" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-08</td>
       <td>Black Nail Cabaret</td>
@@ -1502,9 +1971,17 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 46</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 57</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 75</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 81</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/syUfGpJDaGOyiUzHPqqJ_89W-zC8B6ZH55Z9ZB5loqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDY2/ODE3LTE2MTE2NjM3/NjktNTcxNi5qcGVn.jpeg" alt="Cover for Don&#39;t Run From The Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -1525,9 +2002,20 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 14</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 65</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 68</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 80</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 91</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 98</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 99</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/aGujqHGujvYx9wLCkaCx7iWQ8ceSy84nGcPHeT0bljI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQx/ODg2LTE2MTAxNTE3/NDAtMzYzOS5qcGVn.jpeg" alt="Cover for Im Institut Für Strömungstechnik" style="max-width:120px; height:auto;" />
       </td>
@@ -1545,9 +2033,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 7</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 67</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/cOsoFbbbcmclZ7tgB15ZkvXcqS_AAhcL_JggjPGmzbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjk2/MjI1LTE2MTI2NzEz/NTMtNjgxMy5tcG8.jpeg" alt="Cover for Courses of Action" style="max-width:120px; height:auto;" />
       </td>
@@ -1567,11 +2061,19 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 31</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 49</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 87</li>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 89</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>80</td>
       <td>
-          <img src="https://i.discogs.com/S4qzBokQqN6esMAQGfSWussUBu1kYEW0QFrQdFEXTIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDkz/MzczLTE2MTE1NjMy/MzQtODA1MC5qcGVn.jpeg" alt="Cover for Leviosa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc89a711ca2fa424145278f21d0d130e.png" alt="Cover for Leviosa" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-02-01</td>
       <td>Reymour</td>
@@ -1585,11 +2087,17 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 62</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 76</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>82</td>
       <td>
-          <img src="https://i.discogs.com/cFAFH1FieVuqHZuIzKlL9SzJxIpxxdSgA7Ud-b2l2DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDc1/MTQwLTE2NzY3MDUx/NDYtMTA1OS5qcGVn.jpeg" alt="Cover for New Earth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f566c9863e11488a0ea8bb37e08c1b67.png" alt="Cover for New Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-30</td>
       <td>Nuovo Testamento</td>
@@ -1610,9 +2118,20 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 5</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 19</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 63</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 77</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 86</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 94</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 94</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/PoK_B0NswvU-zPM4k6cFfAnR3sgfxiftyum3BF8_dtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYy/MTAyLTE2MjgyNTgx/NDYtMTEyNy5qcGVn.jpeg" alt="Cover for Softic" style="max-width:120px; height:auto;" />
       </td>
@@ -1625,9 +2144,14 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 94</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/ne4ZUEZL6l9XSLcvPK0CwDd4cBoHbH4dAKiyj3NJLQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODY3/NjY4LTE2MzYxNTAz/NzMtODA5MS5qcGVn.jpeg" alt="Cover for Salt Water" style="max-width:120px; height:auto;" />
       </td>
@@ -1647,9 +2171,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 9</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 48</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/6Ku435Vb1uL8FZOKw40fKYg-gGUgI3Wym9WHEcn_w-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgz/MDYyLTE1MjI2Njcw/MjEtNTczOS5qcGVn.jpeg" alt="Cover for The Way Through" style="max-width:120px; height:auto;" />
       </td>
@@ -1665,9 +2195,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 3</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 71</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/SNRgKreceW62oRAw7af6oH-HUd0_MkeiTeVH_eeEODQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDA2/ODU0LTE2NzA1MjIw/OTktNjY5NS5qcGVn.jpeg" alt="Cover for Sent From My Telephone" style="max-width:120px; height:auto;" />
       </td>
@@ -1683,11 +2219,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/4w3ExUByhtn0FN76esMaHVRGLhC2uJeYZmydK0FeqD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQ1/NzQ4LTE2NjkyODEz/OTctMzMyOS5qcGVn.jpeg" alt="Cover for Fascination" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/764cc71e42b22f7937460e15464e7776.png" alt="Cover for Fascination" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11-25</td>
       <td>Buzz Kull</td>
@@ -1708,11 +2248,20 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 26</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 43</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 85</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 86</li>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 87</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/HcMkUNQ5oZUL9PPd1SV_cHnWiuCoFwp5flLsIxWKz-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTE4/NzI0LTE2NzE1NDQ1/ODktMzEwMS5qcGVn.jpeg" alt="Cover for Rabatt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/638d966c11feb9b38ac5b8e4d418bc80.png" alt="Cover for Rabatt" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-12</td>
       <td>Salò</td>
@@ -1730,42 +2279,19 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Gótia</td>
-      <td>Antes Que Eu Morra</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 55</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 72</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 88</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>39</td>
       <td>
-      </td>
-      <td></td>
-      <td>Gótia</td>
-      <td>Estava Apenas Amando</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/224b8683c15717c6321dd748aa636257.png" alt="Cover for Semiotics Department Of Heteronyms" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>SDH (Semiotics Department of Heteronyms)</td>
@@ -1781,10 +2307,17 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 18</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 28</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f10284bdb0af601e012358edeff04198.png" alt="Cover for Against Strong Thinking" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>SDH (Semiotics Department of Heteronyms)</td>
@@ -1800,10 +2333,18 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 28</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 48</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 67</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61be620f081949f4b7943d30d6ece5ad.png" alt="Cover for Cold Waves And Minimal Electronics Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Various Artists</td>
@@ -1813,6 +2354,54 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 35</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdeabdeb0d5806a0d861f22e0eee58db.png" alt="Cover for Antes Que Eu Morra" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Gótia</td>
+      <td>Antes Que Eu Morra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5d2f5a2637e45862aca91f057089d2b.png" alt="Cover for Estava Apenas Amando" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Gótia</td>
+      <td>Estava Apenas Amando</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>

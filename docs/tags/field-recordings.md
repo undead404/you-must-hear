@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T02:06:00.713Z
+date: 2025-11-14T01:41:35.790Z
 permalink: tags/field-recordings
 title: field recordings
 ---
 
 ## field recordings
 
-Last updated: <time datetime="2025-10-29T02:06:00.713Z">Wed Oct 29 2025 04:06:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T01:41:35.790Z">Fri Nov 14 2025 03:41:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -67,7 +67,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/TMdAnXd9tXs1dIQHKC9ywcMDwGaEjU4lpTOe2ZGkBDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDYx/Mi0xMTYxOTgxNTY5/LmpwZWc.jpeg" alt="Cover for Buyer&#39;s Market" style="max-width:120px; height:auto;" />
       </td>
@@ -86,7 +86,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/WHbsZuI1n0ouQcgVopY5cW9wv2FPiy2ViysH_Cocgv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjA5/OTMtMTU5MDgzODAw/MC03MTk0LmpwZWc.jpeg" alt="Cover for Engine" style="max-width:120px; height:auto;" />
       </td>
@@ -104,8 +104,8 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 26</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 70</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 27</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -127,9 +127,9 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/DZQInZTZ9uLRiCQzmb_f5rXpE9GP-4fUUMFFJ5gGzmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDg4/My0xNjgzMjAxMTM1/LTkzNDYucG5n.jpeg" alt="Cover for Doopee Time" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c973571c6d1b0ce55351095510712149.png" alt="Cover for Doopee Time" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-10-20</td>
       <td>Doopees</td>
@@ -141,15 +141,15 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 15</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 17</li>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 34</li>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 56</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 57</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/WRofE49qT5DHqr912Lr-rkVGJObw2i_-O6GMsTnXHiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjIy/My0xMTc1ODc2MDk5/LmpwZWc.jpeg" alt="Cover for Stepping Into the Dark" style="max-width:120px; height:auto;" />
       </td>
@@ -169,6 +169,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3db2c40a4f112ab469ce394b6af5abaf.png" alt="Cover for Return Of Black September" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-08-07</td>
       <td>Muslimgauze</td>
@@ -188,14 +189,14 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 43</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 41</li>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 81</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/oG_1iE3z01_rfP-YuId28zVFCRtevFXsYzEFA3D8EoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTI5/MS0xMTY5MDIyOTg0/LmpwZWc.jpeg" alt="Cover for Outside the Circle of Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -218,7 +219,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/pxRU-hzZSB8ixh1W8_CQ_o9JpLy_GY_gTMYunSGLkYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkz/NTctMTM5OTM0Njgx/NS0yMzkyLmpwZWc.jpeg" alt="Cover for El Avión Ya Se Estrelló Y Yo Sigo Volando" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/577f4c1c31d0c541e6810cfe63bad874.png" alt="Cover for El Avión Ya Se Estrelló Y Yo Sigo Volando" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Jaime Sin Tierra</td>
@@ -239,15 +240,15 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 6</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 20</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 9</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 29</li>
             <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 69</li>
             <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
       </td>
       <td>1999-06-11</td>
@@ -267,14 +268,14 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 19</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 20</li>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 66</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/V0-s3gIXNHcVDtVFmRAouflZD0lyZFOObHP9W4kpcsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc5/OC0xMTc5NDA5NDE5/LmpwZWc.jpeg" alt="Cover for Crescent" style="max-width:120px; height:auto;" />
       </td>
@@ -295,7 +296,6 @@ Field recordings capture environmental sounds from the real world—nature, urba
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/CRgNL2ukskpQ2ANULMHP_LWj0kBSsuLBaNbVNaPOdNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTI0/NjItMTM0Mjg4MjY3/MC00OTgwLmpwZWc.jpeg" alt="Cover for Atom Heart Mother (2011 Remastered Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-05-25</td>
       <td>Pink Floyd</td>
@@ -312,16 +312,18 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 26</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 53</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 5</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 49</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 57</li>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 94</li>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 99</li>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f93d05ce678644fe26b4d49ee101653c.png" alt="Cover for An Untamed Sense Of Control" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-03-25</td>
       <td>Roscoe Holcomb</td>
@@ -342,7 +344,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
       </td>
       <td>2003-04-07</td>
@@ -379,7 +381,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/xzlljobqEYjb9BSxumIkbHuo2VU-dspA4smRFvNOSk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODg0/NjgwLTE2MjIzMzUw/NjUtNDE0My5qcGVn.jpeg" alt="Cover for Wet Land" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97edba4beb5c2bb74bdffd0a8a02b70b.png" alt="Cover for Wet Land" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Hiroshi Yoshimura</td>
@@ -398,7 +400,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
       </td>
       <td>2005-03</td>
@@ -416,7 +418,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
       </td>
       <td>2006</td>
@@ -433,7 +435,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
       </td>
       <td>2006-03</td>
@@ -450,7 +452,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/K0F-qLYDt1Tsj1kVJ4zvpfUrB9dTGwrV-mPmQO_sAc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjMy/Ni0xMTkzNDQ1MDg1/LmpwZWc.jpeg" alt="Cover for Hidden Name" style="max-width:120px; height:auto;" />
       </td>
@@ -471,7 +473,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/siEW7aLmHZBagx2mUfbdDf5hTJfYtKNEw1Fnz2iSKJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDcw/MC0xNTE3NzYyNTA0/LTgxMjIuanBlZw.jpeg" alt="Cover for Cho Oyu 8201m: Field Recordings from Tibet" style="max-width:120px; height:auto;" />
       </td>
@@ -529,7 +531,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
       </td>
       <td>2008-02</td>
@@ -548,7 +550,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/v1UVvQeqBgugvtopXXc770xSdUicEZPGQssAwW-Mi-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA4/NDMtMTIxMzcyMDE1/NC5qcGVn.jpeg" alt="Cover for Cima Verde" style="max-width:120px; height:auto;" />
       </td>
@@ -606,7 +608,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/UBDqftclfqjatHBped2evSlJb-qo7fK15AYK137-8yE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njgy/OTAtMTIzNzMyODU3/OC5qcGVn.jpeg" alt="Cover for The Noisiest Guys On The Planet" style="max-width:120px; height:auto;" />
       </td>
@@ -681,13 +683,14 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 36</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04724e238acf497ab5fd7b0252cfa615.png" alt="Cover for Amateur Doubles" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Graham Lambkin</td>
@@ -705,8 +708,8 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 18</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 51</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 23</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 52</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 73</li>
             <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 93</li>
         </ul>
@@ -729,7 +732,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 13</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -754,7 +757,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/ZlnSDepc1azHhGTus_ZXnMDrxMY-k01FnzCfSvx4-XM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mzc1/MDAtMTM2NzcxNDgw/MC00NzgzLmpwZWc.jpeg" alt="Cover for Another Quiet Day" style="max-width:120px; height:auto;" />
       </td>
@@ -774,8 +777,27 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 28</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 30</li>
             <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e65785b5b9b443dfb154c0ff0b828991.png" alt="Cover for The Narcissist II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-02-19</td>
+      <td>Dean Blunt</td>
+      <td>The Narcissist II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -800,8 +822,9 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f382df5e2dff4dfd8b2d9fb537d1f99c.png" alt="Cover for Urbs" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-11</td>
       <td>Bruno Sanfilippo</td>
@@ -838,7 +861,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/L9C141EuJoCPT60_NOOc0t9DVO991GYian_a7EH94mI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzA4/MTgtMTM1NDgwMzQ3/NC00MTM0LmpwZWc.jpeg" alt="Cover for Confluences" style="max-width:120px; height:auto;" />
       </td>
@@ -859,7 +882,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/NmpkVAFdU4FnecwfQL_5E0rZMVMoOOtE1p71a8oo1T0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTQ0/NDUtMTM2NjQ5MDcz/Ni03MTUyLmpwZWc.jpeg" alt="Cover for Soft Steps EP" style="max-width:120px; height:auto;" />
       </td>
@@ -878,7 +901,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/ZOeCeDcPhl_WBItlxoR_2SGQHzKtvYV6JgIAXi7KK_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA4/MjU3LTE1MjI3MzU5/MjQtOTkwMC5qcGVn.jpeg" alt="Cover for Red (Taylor&#39;s Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -892,23 +915,23 @@ Field recordings capture environmental sounds from the real world—nature, urba
       <td>
         <ul>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 1</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 4</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 16</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 6</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 17</li>
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 18</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 30</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 31</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 30</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 31</li>
             <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 36</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 38</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 40</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 37</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 41</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 45</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/POgouMd8t3dVMWReWPA_ZbKuEE5v4eTxVSWcyFo_d50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTE4/NTMtMTM4NzAzMjQ1/NC0yNDYxLmpwZWc.jpeg" alt="Cover for No Time To Hurry" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0da61fcae723422787a17b5d81624ba3.png" alt="Cover for No Time To Hurry" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-15</td>
       <td>Foresteppe</td>
@@ -927,7 +950,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/l3Lcdio4ZftnnqqnmFSydeVqy70lNQZeSUAYE164B1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjQ4/MDktMTM3MzIwMjk1/NS0yODY3LmpwZWc.jpeg" alt="Cover for In St Cuthbert&#39;s Time" style="max-width:120px; height:auto;" />
       </td>
@@ -947,7 +970,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/aR47IDAa4Ckdcohzv9N3kLCdpDlitTwkaeIoQevGr5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTc1/NzktMTY1MzE2NDMw/NC04MjUxLmpwZWc.jpeg" alt="Cover for I Love You..." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9b4e02b17754b3d9df7059f72d38dba.png" alt="Cover for I Love You..." style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-01</td>
       <td>Oh, Yoko</td>
@@ -962,9 +985,9 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/x5g4_rHS81_oXQF6TYb9fJU2hvYaPZmkUz0EJvqOqPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDgw/MzQtMTQ4MDc2MDk2/NC0yMzgxLmpwZWc.jpeg" alt="Cover for Double Dream of Spring" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75257c5c1026952a102019a6ff4ad207.png" alt="Cover for Double Dream of Spring" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-05</td>
       <td>Deerhunter</td>
@@ -984,7 +1007,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/sGuxMJOMgdQd_pxDQDm1G9az2fJs4Yiq8bxwkLtcGM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDUx/NjItMTM4MDIwMjg0/NC05NTA5LmpwZWc.jpeg" alt="Cover for fieldz and towns" style="max-width:120px; height:auto;" />
       </td>
@@ -1005,6 +1028,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ee92c13bbcb45e3c578a1885e219335.png" alt="Cover for Hinterland" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-11</td>
       <td>Recondite</td>
@@ -1022,13 +1046,14 @@ Field recordings capture environmental sounds from the real world—nature, urba
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 75</li>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 90</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a62b18bddb5d4c5dcc3388be5d67cc3c.png" alt="Cover for Three Love Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-01-01</td>
       <td>Ricky Eat Acid</td>
@@ -1046,8 +1071,8 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 18</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 90</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 28</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 91</li>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 98</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 100</li>
         </ul>
@@ -1074,7 +1099,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/2YhcmEpYf-aaEOot1bHgyeK9bnXBW-BZ5JZ5r2jd4Mg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzE4/OTktMTU4OTc0NDY1/OC0yNzk1LmpwZWc.jpeg" alt="Cover for Christening Summer" style="max-width:120px; height:auto;" />
       </td>
@@ -1096,7 +1121,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/LqKt3Mj-kwNCaDc2Rjb4X_W5dmpgJkOJwAwqiJDyNsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDI0/NjEtMTQxOTI0MTM1/Ni0zOTkxLmpwZWc.jpeg" alt="Cover for Mare Nostrum" style="max-width:120px; height:auto;" />
       </td>
@@ -1115,7 +1140,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/bngKMjxc8fgsTUin-f-DRvUoInE9fzEuhqZPVMifaNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjU2/NDAtMTQ0MDAzMzEw/NC0yMjAzLnBuZw.jpeg" alt="Cover for ルートバックホーム" style="max-width:120px; height:auto;" />
       </td>
@@ -1130,14 +1155,14 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 21</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/tdhyJ-P4Covtg6ee7YE0KW939FWupHoEcCcPnU81DAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcx/ODQ2LTE0OTI4NTMw/MDMtMjc2NS5qcGVn.jpeg" alt="Cover for Meeting of the Waters" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/893e5f7474b2daa27a2214c877bd7c10.png" alt="Cover for Meeting of the Waters" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-19</td>
       <td>Animal Collective</td>
@@ -1150,13 +1175,13 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 50</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 79</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 59</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/fdlTWkICFvVVWy7jnMP3lwXfKCVKxbdiWUAbAWNLDEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjM2/MjUtMTQ4MTA0OTEy/OC0xMDEwLmpwZWc.jpeg" alt="Cover for Remnants" style="max-width:120px; height:auto;" />
       </td>
@@ -1205,7 +1230,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/Vg0P1IbNbm38UyVm5fwr0WE4qfnaXXV48cNbgV-kj14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzc3/MzEtMTQ3NjEzMDQw/Mi0zNTc5LmpwZWc.jpeg" alt="Cover for Bumblin&#39; Creed" style="max-width:120px; height:auto;" />
       </td>
@@ -1262,13 +1287,13 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 34</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 33</li>
             <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/V3dN74jTTo2Ia4fhGSTGg1z-MS88_BlfO_9RX8SMqgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU2/ODMwLTE1MjAxNDY3/OTQtODc4OC5wbmc.jpeg" alt="Cover for GOT LOST" style="max-width:120px; height:auto;" />
       </td>
@@ -1291,7 +1316,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/tCfBLWCCYgs9HPfvrpcOMGXP4PVZE1Gxq8iM22z06F4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjgx/MTMxLTE2NDM5NDYx/MDktNTc1MS5qcGVn.jpeg" alt="Cover for The Holy Crag" style="max-width:120px; height:auto;" />
       </td>
@@ -1316,7 +1341,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/8DEUuXqlOPVNzZoWLh8rhuB7AZHpucdEXYC8PTbLK6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjIy/MDc4LTE2NTI1MjQ3/ODItMTg2OC5qcGVn.jpeg" alt="Cover for Death In Haiti: Funeral Brass Bands &amp; Sounds from Port Au Prince" style="max-width:120px; height:auto;" />
       </td>
@@ -1335,7 +1360,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/UB-wjfabWKFFFn0w9R_9phe-K9moBQyojx0lv8dezvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjE1/NjU1LTE2NzcyNzg1/MTItOTI1MS5qcGVn.jpeg" alt="Cover for Levegő" style="max-width:120px; height:auto;" />
       </td>
@@ -1356,7 +1381,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/B05IupdFTKCJ2HaN2sUbLC2pvXFkk8Ng9LrSt5wrook/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ1/NTQ1LTE1NjAyMTQw/OTYtOTY0Mi5qcGVn.jpeg" alt="Cover for hello kitty skates to the fuckin CEMETARY" style="max-width:120px; height:auto;" />
       </td>
@@ -1403,9 +1428,9 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/yuy1hxoqNbGa0TXXJ3n4bQo14jwBJl7O9Oac6J_ahaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEy/NTQyLTE1NDA1NjQw/MjYtNjYzOS5qcGVn.jpeg" alt="Cover for Penelope Two" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8dcb5546c38c821494141c4a39a77b0.png" alt="Cover for Penelope Two" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-26</td>
       <td>Penelope Trappes</td>
@@ -1425,7 +1450,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 8</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 5</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 43</li>
         </ul>
       </td>
@@ -1446,14 +1471,14 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 38</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 54</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 41</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 55</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/bc8eWbwvjPlhfz5OXjit4QknpzQQfZjDh1MJ-zy2124/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDg5/NDQ5LTE1ODUyNTEy/OTctMTI4MS5qcGVn.jpeg" alt="Cover for K–12" style="max-width:120px; height:auto;" />
       </td>
@@ -1474,9 +1499,9 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/SejFC3dP0zsp8T8Rz9-nSjfugD43MWowo2Pd9ABTM-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg2/ODQ3LTE1OTU5MTEz/MjUtNzU1My5qcGVn.jpeg" alt="Cover for Call Me Maybe - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13ee94230f8630f8795c07b6eb11aef9.png" alt="Cover for Call Me Maybe - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2020</td>
       <td>JPEGMAFIA</td>
@@ -1499,7 +1524,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/wPFfmS0aoYgd9dwFgDKWdr7tItpOg-8MDXITf8iOjG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzk4/MDAyLTE1ODE3OTg5/NzctNDc2OS5qcGVn.jpeg" alt="Cover for Rainforest Hill, Vol. I + II" style="max-width:120px; height:auto;" />
       </td>
@@ -1516,7 +1541,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/UmIPzwaAaRpQHBvHEBa7djNt_Y2-j6pde02HYSDYwxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQx/ODcyLTE1ODQ0NjY2/NjEtNTU0Ny5qcGVn.jpeg" alt="Cover for a heavenly touch" style="max-width:120px; height:auto;" />
       </td>
@@ -1539,7 +1564,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/mU2pm2pGEvPNCMOlmN_SJ4FgbTL9gomTHNyKlNFYM0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMz/MDQ4LTE1OTY4MDM0/MDYtMTc2OC5qcGVn.jpeg" alt="Cover for Green (SFX Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c22f185b5724c7d2e477edddaba12773.png" alt="Cover for Green (SFX Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-31</td>
       <td>Hiroshi Yoshimura</td>
@@ -1555,7 +1580,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 60</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1581,10 +1606,10 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 58</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 85</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 87</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 91</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 60</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 86</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 90</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 92</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 99</li>
         </ul>
       </td>
@@ -1609,8 +1634,8 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 25</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 60</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 30</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 61</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 87</li>
         </ul>
       </td>
@@ -1633,7 +1658,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 66</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 74</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 78</li>
             <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 82</li>
@@ -1641,7 +1666,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/WoxbNiVQLrMXZXivDqVg4-dd9AL7U7Z8VuNjoOdOoi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjcw/NjExLTE2MTM2MzU0/OTUtNTA4My5qcGVn.jpeg" alt="Cover for &gt;(decrescendo)" style="max-width:120px; height:auto;" />
       </td>
@@ -1681,8 +1706,8 @@ Field recordings capture environmental sounds from the real world—nature, urba
       <td>
         <ul>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 2</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 58</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 71</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 63</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1707,14 +1732,14 @@ Field recordings capture environmental sounds from the real world—nature, urba
         <ul>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 84</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 89</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 95</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/T3y8nk1kXhA_mtqjGDhiqnXQgWv5rV5dQAZzgWFyrds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTI5/NTY5LTE2MjIyNzk5/OTQtNDEyNi5qcGVn.jpeg" alt="Cover for Penelope Three" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a43dfce41797efd46cfb11e3d126eb8.png" alt="Cover for Penelope Three" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-28</td>
       <td>Penelope Trappes</td>
@@ -1734,34 +1759,8 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 42</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 72</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/AOVgAWm73ChYHn1Z8x3bFLh_Q9O7_faCI-Pm4JmVmu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQz/NzAyLTE1NzI2MjUx/MDMtNzI0Mi5qcGVn.jpeg" alt="Cover for Drift Episode 1" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-10-28</td>
-      <td>Underworld</td>
-      <td>Drift Episode 1</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 21</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 43</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1788,12 +1787,12 @@ Field recordings capture environmental sounds from the real world—nature, urba
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 59</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 59</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/1fDSib8edPB8t4uEcTF0KEAqPaB5nkchqvN0HPN_xz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjA2/MTM0LTE2MzQzNTQ5/NDMtODA2Ny5qcGVn.jpeg" alt="Cover for Tempelhof" style="max-width:120px; height:auto;" />
       </td>
@@ -1815,7 +1814,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/VBi5Eup6Phu5ECfMmg_hm5-CPI-Z8T9efOmuVzZ0VPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM5/ODI0LTE2NDY5MzQ5/MDEtMTcwMy5qcGVn.jpeg" alt="Cover for Recordings from the Åland Islands" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c29074e66c6331423842b37d34e32a84.png" alt="Cover for Recordings from the Åland Islands" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-11</td>
       <td>Jeremiah Chiu</td>
@@ -1832,13 +1831,13 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 72</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 77</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/l9wQNE-o2PxmXSE77LaTTFcxR7sbUCVPBXU7cyiGGXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTky/MDYzLTE1ODMwMTA5/MDItNDU1MS5qcGVn.jpeg" alt="Cover for City Lights Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -1877,8 +1876,8 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 45</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 56</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 47</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 58</li>
             <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 72</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 98</li>
         </ul>
@@ -1900,12 +1899,12 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 85</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/Qq7-PuLb8W7EdVdn6R80RuUmdulL3M9BHCtuNbSuLsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Mjc4/NDQtMTQxODk3Njk3/MC05NzU1LmpwZWc.jpeg" alt="Cover for Functional Extraits 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1928,7 +1927,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/u6Ghgi_rPNcuXmGr_wnrxnaInN9RaG2ruwE2klzwRwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njg1/NDcyLTE2ODgyMjYx/NjctMzgyNy5qcGVn.jpeg" alt="Cover for Living Room" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2ef39c3239926b3dea508fdc07ede67.png" alt="Cover for Living Room" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-01</td>
       <td>Roméo Poirier</td>
@@ -1952,7 +1951,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td>2023</td>
@@ -1969,9 +1968,9 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/DTaqWxCJ45WYSLlJS0v9Olo3poGCkgknrl9fUHsQTjg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODI3/MTA5LTE3MDE0MDgy/MzAtOTE0MS5qcGVn.jpeg" alt="Cover for Cold Reading" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbdc3b0d28bc9eff19b7ceda5bda5d75.png" alt="Cover for Cold Reading" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-10-27</td>
       <td>Flora Yin-Wong</td>
@@ -1989,40 +1988,32 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 1</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 38</li>
             <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/T5JfZNEfF-6Hq5j8MTxYh8CE1Mfywoppt4UysUprBUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTY3/NDYxLTE3MzA0NzE0/NzItODk3NS5qcGVn.jpeg" alt="Cover for Night Palace" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31bfb9c860a50183ff80f829e04842cd.png" alt="Cover for Night Palace" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-11-01</td>
       <td>Mount Eerie</td>
       <td>Night Palace</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 39</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 55</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -2034,20 +2025,21 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 11</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 2</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 12</li>
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 15</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 26</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 29</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 27</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 28</li>
             <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 32</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 35</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 36</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 33</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 37</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 43</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td></td>
@@ -2070,7 +2062,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
       </td>
       <td></td>
@@ -2091,8 +2083,8 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 7</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 28</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 5</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 29</li>
             <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 32</li>
         </ul>
       </td>
@@ -2112,13 +2104,15 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 59</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 5</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e83a0610a87e05b3f864b0f0bf9d629.png" alt="Cover for I Wish Shit Would Stop Spinning" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Loners With Parentheses</td>
@@ -2134,12 +2128,12 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 22</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -2158,7 +2152,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -2175,7 +2169,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -2212,7 +2206,7 @@ Field recordings capture environmental sounds from the real world—nature, urba
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td></td>

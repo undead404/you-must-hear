@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T17:07:45.086Z
+date: 2025-11-14T01:39:59.232Z
 permalink: tags/indie-rock
 title: indie rock
 ---
 
 ## indie rock
 
-Last updated: <time datetime="2025-11-11T17:07:45.086Z">Tue Nov 11 2025 19:07:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T01:39:59.232Z">Fri Nov 14 2025 03:39:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
   </thead>
   <tbody>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36624d58d60c2571e52257f3243f253c.png" alt="Cover for On Avery Island" style="max-width:120px; height:auto;" />
       </td>
@@ -44,13 +44,13 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 75</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 94</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 76</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a073ac85e2fb427e99cb2d154af8935b.png" alt="Cover for I Can Hear the Heart Beating as One" style="max-width:120px; height:auto;" />
       </td>
@@ -64,7 +64,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 81</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -83,13 +83,14 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 22</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 54</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 1</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 24</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fccb0991edd409fb822d711298eaabe.png" alt="Cover for Keep It Like a Secret" style="max-width:120px; height:auto;" />
       </td>
@@ -107,7 +108,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79b6a429167c4514c58b8525bcc86bd0.png" alt="Cover for The Moon &amp; Antarctica" style="max-width:120px; height:auto;" />
       </td>
@@ -139,14 +140,14 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 31</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 69</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 38</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 71</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55292eb15e7e442a9f40f09625d6e111.png" alt="Cover for Turn on the Bright Lights" style="max-width:120px; height:auto;" />
       </td>
@@ -160,13 +161,13 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 8</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 12</li>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a220f4b102c7a571e94cc9b85aaa5b6f.png" alt="Cover for You Forgot It In People" style="max-width:120px; height:auto;" />
       </td>
@@ -184,7 +185,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c28ba426e7d84037b3dbee0c043ff991.png" alt="Cover for Old World Underground, Where Are You Now?" style="max-width:120px; height:auto;" />
       </td>
@@ -201,7 +202,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dbfd75d7b8941edbde5e1b58948f9c4.png" alt="Cover for Transatlanticism" style="max-width:120px; height:auto;" />
       </td>
@@ -233,9 +234,9 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 34</li>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 35</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 56</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 41</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 59</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 83</li>
         </ul>
       </td>
@@ -260,7 +261,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63934c8eb75c4b649821ae02e564239a.png" alt="Cover for Good News For People Who Love Bad News" style="max-width:120px; height:auto;" />
       </td>
@@ -296,7 +297,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c9ab9db318a4f4a8be314c7af54ef44.png" alt="Cover for Antics" style="max-width:120px; height:auto;" />
       </td>
@@ -315,7 +316,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ee54223204ef5f13d0c71cb1b7d82e4.png" alt="Cover for The Back Room" style="max-width:120px; height:auto;" />
       </td>
@@ -334,7 +335,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/912efdc838584d69873450f9c1bfb033.png" alt="Cover for Silent Alarm" style="max-width:120px; height:auto;" />
       </td>
@@ -352,7 +353,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/245b232cde684c23b6531acf5086a0db.png" alt="Cover for Employment" style="max-width:120px; height:auto;" />
       </td>
@@ -366,11 +367,12 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d6d6ec5e48b620154c74fbf81084809.png" alt="Cover for The Bravery" style="max-width:120px; height:auto;" />
       </td>
@@ -388,7 +390,25 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e442034b94c5573f7dc855fd87d62351.png" alt="Cover for Alligator" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-04-11</td>
+      <td>The National</td>
+      <td>Alligator</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1958e8cdfa17448cbbb7f3ccb49247d9.png" alt="Cover for Plans" style="max-width:120px; height:auto;" />
       </td>
@@ -406,7 +426,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/996a3f46b6494165b4cec60776509d15.png" alt="Cover for You Could Have It So Much Better" style="max-width:120px; height:auto;" />
       </td>
@@ -424,7 +444,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/37888bff15dcb61bd2619ee226dcd605.png" alt="Cover for Clap Your Hands Say Yeah" style="max-width:120px; height:auto;" />
       </td>
@@ -442,7 +462,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/193874ada8c7425b95513e0429d6616b.png" alt="Cover for With Love And Squalor" style="max-width:120px; height:auto;" />
       </td>
@@ -460,7 +480,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f51768726b92fac71f82d2cb9a50b0b.png" alt="Cover for Marvin&#39;s Marvelous Mechanical Museum" style="max-width:120px; height:auto;" />
       </td>
@@ -475,13 +495,14 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 55</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 19</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 58</li>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f41698e47228486ac81690028794f18d.png" alt="Cover for First Impressions of Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -501,7 +522,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c60fc091b1a44a4b9363d1b8006b36ec.png" alt="Cover for Inside In&#x2F;Inside Out" style="max-width:120px; height:auto;" />
       </td>
@@ -533,13 +554,13 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 46</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 61</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 67</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 63</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dcd787b239c84a1ab805c282257b7663.png" alt="Cover for Everything All the Time" style="max-width:120px; height:auto;" />
       </td>
@@ -553,12 +574,11 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>2006-07-03</td>
@@ -575,7 +595,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc14f9bce48e430862cad26439a0056f.png" alt="Cover for Empire" style="max-width:120px; height:auto;" />
       </td>
@@ -593,7 +613,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ea4dad3c3614770bca41a29c2e53b3d.png" alt="Cover for Costello Music" style="max-width:120px; height:auto;" />
       </td>
@@ -613,7 +633,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d241fee8375510f22a5a7aafa3723b95.png" alt="Cover for Robbers And Cowards" style="max-width:120px; height:auto;" />
       </td>
@@ -632,7 +652,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86954b7ea272ab9800fa36c65eea4fb9.png" alt="Cover for Wincing the Night Away" style="max-width:120px; height:auto;" />
       </td>
@@ -650,7 +670,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f1ad2ef153d4280c21cebdf62f9e04f.png" alt="Cover for Neon Bible" style="max-width:120px; height:auto;" />
       </td>
@@ -669,7 +689,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/UU4lj4DGIUTEkjEP08un25QIPReEk6vuRRadXOUjNLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDEz/NTQtMTE4MjcwMTMy/My5qcGVn.jpeg" alt="Cover for An End Has A Start" style="max-width:120px; height:auto;" />
       </td>
@@ -703,12 +723,12 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 44</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 90</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee8a78424bc41b190c85a3cc3e6aaf17.png" alt="Cover for The Reminder" style="max-width:120px; height:auto;" />
       </td>
@@ -727,10 +747,11 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 7</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 61</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 8</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 9</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 62</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 70</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 70</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 73</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 82</li>
         </ul>
       </td>
@@ -754,7 +775,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1718c111d11bce147b42e6ec6b922414.png" alt="Cover for Boxer" style="max-width:120px; height:auto;" />
       </td>
@@ -773,7 +794,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c5e54cd3414f98ed8ee76b46cf6ab2d.png" alt="Cover for Our Love to Admire" style="max-width:120px; height:auto;" />
       </td>
@@ -788,12 +809,12 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 7</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 96</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cdffee4073d4859858256a103a75591.png" alt="Cover for Cease to Begin" style="max-width:120px; height:auto;" />
       </td>
@@ -812,7 +833,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8a208b90f244c20cca7732f80edac97.png" alt="Cover for Cage the Elephant" style="max-width:120px; height:auto;" />
       </td>
@@ -831,7 +852,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/981259785d6c6e48da9f85b5c3c69eaf.png" alt="Cover for Konk" style="max-width:120px; height:auto;" />
       </td>
@@ -845,12 +866,12 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 53</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aba0fe52a686d388ae8c7e5073517f5b.png" alt="Cover for The Age of the Understatement" style="max-width:120px; height:auto;" />
       </td>
@@ -864,12 +885,12 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 50</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8ba5d91a7474ca69d6d08cc71d4829b.png" alt="Cover for Narrow Stairs" style="max-width:120px; height:auto;" />
       </td>
@@ -887,7 +908,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e89eb016a00f516b6bd2641a3ae838f.png" alt="Cover for Only by the Night" style="max-width:120px; height:auto;" />
       </td>
@@ -903,13 +924,13 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       <td>
         <ul>
             <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 84</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 87</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 94</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 88</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/470828adec954593c563799066e2286d.png" alt="Cover for Hospice" style="max-width:120px; height:auto;" />
       </td>
@@ -927,7 +948,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98939bf5d8dc0e59c89dbe7e303f5c6c.png" alt="Cover for Fantasies" style="max-width:120px; height:auto;" />
       </td>
@@ -945,7 +966,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b06defa449863fea6a78434c268dff47.png" alt="Cover for Wolfgang Amadeus Phoenix" style="max-width:120px; height:auto;" />
       </td>
@@ -964,7 +985,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/65012e1ca8374dd5cdeddb8fa90a1919.png" alt="Cover for Conditions" style="max-width:120px; height:auto;" />
       </td>
@@ -983,7 +1004,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70163676ea2e4c44959c3af0f71b30d8.png" alt="Cover for Humbug" style="max-width:120px; height:auto;" />
       </td>
@@ -1000,14 +1021,14 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
         <ul>
             <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 42</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 58</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 64</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 74</li>
             <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 98</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c370fa4e163d132bbf0b6879f3851614.png" alt="Cover for Gorilla Manor" style="max-width:120px; height:auto;" />
       </td>
@@ -1022,13 +1043,13 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 4</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 30</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15a3c007660349338c98bb9e25d54a08.png" alt="Cover for Say Anything" style="max-width:120px; height:auto;" />
       </td>
@@ -1062,12 +1083,12 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
         <ul>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 55</li>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 64</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 86</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>2010-03-14</td>
@@ -1082,13 +1103,13 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 85</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 86</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/87b2a567d5a6ca1fb8508a0229fa8b95.png" alt="Cover for Total Life Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -1102,12 +1123,12 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 19</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a57d0017a28de64e1c97c7cdae300e9.png" alt="Cover for High Violet" style="max-width:120px; height:auto;" />
       </td>
@@ -1126,7 +1147,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/acee4ac8894e7ef1ba04d5ede795343f.png" alt="Cover for Young Blood" style="max-width:120px; height:auto;" />
       </td>
@@ -1144,7 +1165,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/17afeed886cd4df7b0137ef51ced4679.png" alt="Cover for The Suburbs" style="max-width:120px; height:auto;" />
       </td>
@@ -1162,7 +1183,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dde3bc26f77f483bb520c6089c592ee1.png" alt="Cover for What Did You Expect from The Vaccines?" style="max-width:120px; height:auto;" />
       </td>
@@ -1178,12 +1199,12 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 15</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 18</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/65d41ffa467f4d16adf8bf876c586c78.png" alt="Cover for Angles" style="max-width:120px; height:auto;" />
       </td>
@@ -1197,12 +1218,12 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 41</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
       </td>
       <td>2011-09-02</td>
@@ -1220,7 +1241,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8faaf58a491491ea00e6d3b7ac5d7db.png" alt="Cover for Suck It and See" style="max-width:120px; height:auto;" />
       </td>
@@ -1235,11 +1256,12 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/vOu4DphcNFbne1DUvQ8wNS8fmjs3G5mM90eeASaaXqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTU2/MjAtMTQ3NjQ2NTA2/OC0zNTI0LmpwZWc.jpeg" alt="Cover for overcompensATE" style="max-width:120px; height:auto;" />
       </td>
@@ -1255,13 +1277,13 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 24</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 41</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 33</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd2e7feedfee4f6ab095c0eb9d82beaa.png" alt="Cover for Continued Silence EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1279,7 +1301,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/03efe17b5025448fafda0915227d850a.png" alt="Cover for Beacon" style="max-width:120px; height:auto;" />
       </td>
@@ -1297,7 +1319,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecae82853b784726c7e2c4e2ba55a4fd.png" alt="Cover for Night Visions" style="max-width:120px; height:auto;" />
       </td>
@@ -1312,12 +1334,12 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 42</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b8520054cfd8af493b44a8bed0a2361.png" alt="Cover for TRICK" style="max-width:120px; height:auto;" />
       </td>
@@ -1342,7 +1364,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c34e1968d7e8082fa0f42a9960976e4f.png" alt="Cover for Holy Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -1360,7 +1382,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36a064d8029e4b9c9d52c07961fbeed2.png" alt="Cover for Comedown Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -1393,12 +1415,13 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 4</li>
             <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2666bdc9b7264b799f8a882e471cd62e.png" alt="Cover for The 1975" style="max-width:120px; height:auto;" />
       </td>
@@ -1412,13 +1435,13 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 12</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 28</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 15</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bc0ff68aeb8414897e6f0d13908fdd8.png" alt="Cover for Reflektor" style="max-width:120px; height:auto;" />
       </td>
@@ -1432,12 +1455,12 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 54</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d070e505cdab4b27cb39bfe28eb63343.png" alt="Cover for Melophobia" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,7 +1478,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/537a68a2dc6a418fc1acf47f894f8146.png" alt="Cover for Living While Starving" style="max-width:120px; height:auto;" />
       </td>
@@ -1472,14 +1495,14 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 12</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 96</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 25</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 97</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/28ffd87a1e554022c0065398979894c4.png" alt="Cover for Salad Days" style="max-width:120px; height:auto;" />
       </td>
@@ -1494,16 +1517,16 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 1</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 9</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 29</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 2</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 16</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 33</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 80</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7c6566aab7f8c89bc79b581030cb70f.png" alt="Cover for Hozier" style="max-width:120px; height:auto;" />
       </td>
@@ -1519,7 +1542,8 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 94</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 5</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 95</li>
             <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 97</li>
         </ul>
       </td>
@@ -1540,12 +1564,12 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
         <ul>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 46</li>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 95</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 96</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fee8351f9424cb78d67ac5af0a75b52.png" alt="Cover for Talking Is Hard" style="max-width:120px; height:auto;" />
       </td>
@@ -1563,7 +1587,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13ee0be2ab6b75d2c0a5605e644b9dcc.png" alt="Cover for Cavetown" style="max-width:120px; height:auto;" />
       </td>
@@ -1586,7 +1610,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/UXgp6rQ6emVS2YXwAUWzdK_fFZwKr-0m_TUOEYQU4MA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDQy/NTUtMTQ1NTk3ODY3/NS03NjU5LmpwZWc.jpeg" alt="Cover for I Like It When You Sleep, For You Are So Beautiful Yet So Unaware Of It" style="max-width:120px; height:auto;" />
       </td>
@@ -1603,7 +1627,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdf3c233814e9097fa835bda19e7d482.png" alt="Cover for Future Present Past" style="max-width:120px; height:auto;" />
       </td>
@@ -1621,7 +1645,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/703616fde4bec426d7819777f11e2e98.png" alt="Cover for Puberty 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1635,13 +1659,13 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 68</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 72</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 69</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/lT-wUNFhlr5lCATA69LcBxwx7sVdpr41NqrAzBwlQsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTQ4/MjItMTQ2MzkzNDUw/Ny05MjE4LmpwZWc.jpeg" alt="Cover for Teens Of Denial" style="max-width:120px; height:auto;" />
       </td>
@@ -1655,14 +1679,15 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 74</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 75</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 1</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 74</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 75</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/rEDoWKQl-i7a7yeh6PnPOcPvZSdxr8YLpUwVyj4WOdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjAx/NTcwLTE1NzU4MTU4/NjctNDQwNS5qcGVn.jpeg" alt="Cover for What Do You Think About The Car?" style="max-width:120px; height:auto;" />
       </td>
@@ -1680,7 +1705,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13d604e0980e3c3aa9a06ab413a89bdd.png" alt="Cover for Being so Normal" style="max-width:120px; height:auto;" />
       </td>
@@ -1698,7 +1723,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/Ea_An-ds96PrMzORNsw0mXEQNo6yJOm82GpVsdR82zM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTM3/Mzc4LTE1Njg1MzYy/NTAtOTE3My5qcGVn.jpeg" alt="Cover for 11 Minutes (with Halsey feat. Travis Barker)" style="max-width:120px; height:auto;" />
       </td>
@@ -1715,14 +1740,14 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 67</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 70</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 87</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9b9c68a6ecb979e1ac95e28bb28e06b.png" alt="Cover for Be the Cowboy" style="max-width:120px; height:auto;" />
       </td>
@@ -1731,22 +1756,19 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       <td>Be the Cowboy</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 10</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 34</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 17</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 36</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 91</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/Y1g7FIiS83kvvtgcbM66Dk3wx0TT6QpFcPDocVU8lXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA0/NTI4LTE1NDI4NzAx/OTEtMjkyOC5qcGVn.jpeg" alt="Cover for BoyGenius" style="max-width:120px; height:auto;" />
       </td>
@@ -1761,12 +1783,12 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 78</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ded366c8a5919f4e55999762079e4c7a.png" alt="Cover for Nothing Happens" style="max-width:120px; height:auto;" />
       </td>
@@ -1797,7 +1819,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 91</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 90</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 92</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 97</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 100</li>
@@ -1805,7 +1827,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/576554c542da76c08f0e80c129afcb0e.png" alt="Cover for The New Abnormal" style="max-width:120px; height:auto;" />
       </td>
@@ -1819,14 +1841,14 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 52</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 59</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 88</li>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e31f6b52ff52b99a93650badd19b2c5.png" alt="Cover for Punisher" style="max-width:120px; height:auto;" />
       </td>
@@ -1849,7 +1871,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9efc83368bf5ec624dcf258499d8051c.png" alt="Cover for summer flows 0.02" style="max-width:120px; height:auto;" />
       </td>
@@ -1867,7 +1889,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/rwO1b9-gFzDSLK14I9CtC-ASP_bCmCVtEDV-NO7Rh7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTk5/NzE4LTE2ODQ1MjM3/ODItNzAyNy5qcGVn.jpeg" alt="Cover for The Record" style="max-width:120px; height:auto;" />
       </td>
@@ -1882,13 +1904,13 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 56</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 85</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 58</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12f706c62bf69111cd7b33f1a34a592f.png" alt="Cover for Petals to Thorns" style="max-width:120px; height:auto;" />
       </td>
@@ -1903,12 +1925,12 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 78</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e39eb31f874f4a5c4afa836845141437.png" alt="Cover for GUTS" style="max-width:120px; height:auto;" />
       </td>
@@ -1928,30 +1950,6 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb3bde22a87ff8b31c0dd915206aa38f.png" alt="Cover for APT." style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024-12-06</td>
-      <td>Rosé</td>
-      <td>APT.</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 53</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 65</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7645386e75e465b9a9b5335bc9115ba.png" alt="Cover for Sam&#39;s Town" style="max-width:120px; height:auto;" />
@@ -1967,12 +1965,12 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 81</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc5c9fd7fedc4cd39360dc66b38eb304.png" alt="Cover for An End Has a Start" style="max-width:120px; height:auto;" />
       </td>

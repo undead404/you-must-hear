@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-18T23:59:00.825Z
+date: 2025-11-14T01:38:53.886Z
 permalink: tags/spain
 title: spain
 ---
 
 ## spain
 
-Last updated: <time datetime="2025-10-18T23:59:00.825Z">Sun Oct 19 2025 02:59:00 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-14T01:38:53.886Z">Fri Nov 14 2025 03:38:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,9 +42,9 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 15</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 37</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 43</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 51</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 83</li>
         </ul>
       </td>
@@ -88,7 +88,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
       </td>
       <td>1975</td>
@@ -122,7 +122,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/-_r8spYtH2umJglq7YdXzMLiBh5QFVf1ekGW_KEqD1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY1/MjktMTUzMDI3ODI4/NS02NTExLmpwZWc.jpeg" alt="Cover for Arrebato (Música per a vetllades d&#39;intriga)" style="max-width:120px; height:auto;" />
       </td>
@@ -163,7 +163,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/sy0OeXTkmb9wZsfv9b7FUMnFXyGxyFZk-jK8XBDW1cQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzYz/MzEtMTQ3ODI1NDMy/OC0zMjA1LmpwZWc.jpeg" alt="Cover for El Sur También Existe" style="max-width:120px; height:auto;" />
       </td>
@@ -187,7 +187,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/16d7a4c5b5da13dab82fcf0d636289f6.png" alt="Cover for Ese Día Piensa En Mí" style="max-width:120px; height:auto;" />
       </td>
@@ -224,7 +224,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/4pdY4wx5Z4KHY2Rqjb8GHpCDFtIdM6RN6TZziD_HBMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTEz/NDItMTMxMzQyNjcz/MS5qcGVn.jpeg" alt="Cover for Herederos de una Historia" style="max-width:120px; height:auto;" />
       </td>
@@ -245,7 +245,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 30</li>
+            <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -270,7 +270,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/GWRLEAOeI1-R-zsTW_Xze4dTskXNUh7dXCdvpBFbgPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTQw/OS0xMTYzNjY3ODcx/LmpwZWc.jpeg" alt="Cover for For Centuries Left Behind" style="max-width:120px; height:auto;" />
       </td>
@@ -309,7 +309,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/DZbqRZuZ2RnuH5wKneW0DpAJ79yO1jWIoxDUkc6u58U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc4/ODgxLTE1NjA5MzQ5/MTgtNTA4Ny5qcGVn.jpeg" alt="Cover for Soy Esa Mujer" style="max-width:120px; height:auto;" />
       </td>
@@ -329,7 +329,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/4_RcBBZ1jbQfh0vPnr1cWUdl-bzgPNVnlS2xzpbBmC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODUx/MzQtMTM3MjE3NTM2/Mi04ODc5LmpwZWc.jpeg" alt="Cover for Arc-en-ciel" style="max-width:120px; height:auto;" />
       </td>
@@ -383,26 +383,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/Evk1Rjg1sxQfcxJMc1AH0EjefGUljFr3IxDvwjwdJgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTU0/NjIzLTE2MTM2NTk4/MjUtNjY4Mi5qcGVn.jpeg" alt="Cover for Gitano" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>Moncho</td>
-      <td>Gitano</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spain" | relative_url }}">spain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/9LitWq7Mgw7Wu780muhs08js6LD2IBjSnC8D5jFgV28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODQw/Mi0xMTQ0MjY2OTE4/LmpwZWc.jpeg" alt="Cover for Amén" style="max-width:120px; height:auto;" />
       </td>
@@ -423,9 +404,9 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/U3MxnDorXrdTa7wSWurGlEh3C6f9oUGFXxEV0yVopTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDg5/NDM3LTE2MTM3NDU2/NDktNTI5Mi5qcGVn.jpeg" alt="Cover for Frida y Diego vivieron en esta casa (Home Demos)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31c4cd64de34401b85d7b4084cf00162.png" alt="Cover for Frida y Diego vivieron en esta casa (Home Demos)" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Little Toys</td>
@@ -442,7 +423,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 34</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -464,7 +445,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
       </td>
       <td>2001</td>
@@ -480,7 +461,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td>2002</td>
@@ -501,7 +482,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/sEpPVUudoX_guTKLmC5BjhfC5X34LmkVPv6mdy8w010/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDg4/MDMtMTI1MTczNjQz/Mi5qcGVn.jpeg" alt="Cover for Encuentro" style="max-width:120px; height:auto;" />
       </td>
@@ -524,7 +505,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td>2002-10-21</td>
@@ -544,7 +525,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/c9R3qTY78wnkr4d0cO6HOJ3CtrliskbU5sF7tvrv190/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQy/MzA0LTE0OTc1Mjgz/MzUtNzc2MC5qcGVn.jpeg" alt="Cover for Luces y Sombras" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea9c46461120b586dec6f53e1387dab2.png" alt="Cover for Luces y Sombras" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Soraya</td>
@@ -566,7 +547,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/sZMZiLUFTyWqqAgsQh0251Bbd-8ueMzuKNRvf8jEe8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDc2/MTEtMTI5OTIzNzkz/MS5qcGVn.jpeg" alt="Cover for Qué Bonito" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c3c681bd916b4d7fba44a1c3e2ae91b.png" alt="Cover for Qué Bonito" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Soraya</td>
@@ -587,7 +568,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/m1Ox9YX-Y1RnM9XbaconOApuu9lsFd4US48Z0m1ci48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzg2/OTgwLTE1MTUzOTQ5/MzktMTExNS5qcGVn.jpeg" alt="Cover for El Arte de Amar" style="max-width:120px; height:auto;" />
       </td>
@@ -607,7 +588,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/K1alHOXLHOW39d92lZ6Xg4oCbZIqjPH8OEJxENAdfqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTI5/MS0xMjg2NzEzNjY2/LmpwZWc.jpeg" alt="Cover for Mi Son" style="max-width:120px; height:auto;" />
       </td>
@@ -647,7 +628,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/7BeHhSLpLo4VOzCp5h_8SDIyograWJECyUUudDlIn9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjM0/MzctMTM3Nzg3Nzk2/Ny05NzA5LmpwZWc.jpeg" alt="Cover for A Roda" style="max-width:120px; height:auto;" />
       </td>
@@ -718,7 +699,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/4Hg_uFdDiKD7Bl4n4srp8trUYApKuvDv8uy_DI_P43A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzE4/OS0xMTYyMDQ5OTIw/LmdpZg.jpeg" alt="Cover for Herramientas Para Abrir Un Libro" style="max-width:120px; height:auto;" />
       </td>
@@ -739,8 +720,9 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd6c07bda3d9ebf553f8cd9c3085c58e.png" alt="Cover for Mujeres" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Estrella Morente</td>
@@ -753,6 +735,24 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       <td>
         <ul>
             <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6c9b6f67e274a3a87f9b51c073e7113.png" alt="Cover for Utopia 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Belinda</td>
+      <td>Utopia 2</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -796,7 +796,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
       </td>
       <td>2006-03-01</td>
@@ -816,7 +816,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/k0oH5CsLR_Nj027xknDSMrYsm6Wlg00MY9S6r3pRP9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTEz/NjEtMTIyNzEyNzY2/OS5qcGVn.jpeg" alt="Cover for Reel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92751243be7d4634abec6233bd9ac018.png" alt="Cover for Reel" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-05-03</td>
       <td>CatPeople</td>
@@ -834,9 +834,9 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/olsTLqw4w1Shu4-m8kzOxSQHhB8UHGPtvE4gv_WjAyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODAx/NzYxLTE1MDQ1NDU0/NTYtMTAxOS5qcGVn.jpeg" alt="Cover for Agua" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/556f753f1c965255c906c5ffa722b3d9.png" alt="Cover for Agua" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06-13</td>
       <td>Vanesa Martín</td>
@@ -856,7 +856,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/v39SfCorwLXsVdVVxmjqBqaAO1jBBGZDmQqCTC4PiWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjUw/MTgtMTQzMDk0NzAx/Ny0xNzg0LmpwZWc.jpeg" alt="Cover for Wild Honey EP" style="max-width:120px; height:auto;" />
       </td>
@@ -900,7 +900,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/mLg2wcFb700tLch7wDjXEVmi742G4KLCq-Ck2D09vEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA5/Nzk0LTE2NDk0Mzcw/NjMtNjM5NC5qcGVn.jpeg" alt="Cover for Namouche" style="max-width:120px; height:auto;" />
       </td>
@@ -922,7 +922,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/zHUv7tlA4wOuKxllQmvl10FXwF6ZOHintFzKf2kQ5Ng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/OTIyLTE0OTQwMTc2/MzQtNDk5My5qcGVn.jpeg" alt="Cover for Instrumental Social" style="max-width:120px; height:auto;" />
       </td>
@@ -966,7 +966,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/zAIwDbrBYhjOhr7TKHY1ZC1RfYzazNeQiLf_NAE5d88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgz/OTUtMTI2MjUwNDQ1/MC5qcGVn.jpeg" alt="Cover for Cerca" style="max-width:120px; height:auto;" />
       </td>
@@ -1004,7 +1004,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/edT83yZCohh6hXWEE4eil4yNUX6SbdiborcZAJUMMho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk5/NTM1LTE1MTc0MjA4/OTEtMTkwMS5qcGVn.jpeg" alt="Cover for Fight Against Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1044,7 +1044,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/A2XjcUFwXJFq5gabAKzsOrhBOvwq8yVm_OtePeTBsGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMjkx/MjAtMTQzOTAzNDMx/MS0yNTY3LmpwZWc.jpeg" alt="Cover for Mentiras y azar" style="max-width:120px; height:auto;" />
       </td>
@@ -1065,7 +1065,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/eID6UZUaOW4MMz2Ek1kJIh6IF0lC1PpHWm1dq4ginwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njcx/NDUtMTI0ODg1OTE0/OC5qcGVn.jpeg" alt="Cover for Demo #1" style="max-width:120px; height:auto;" />
       </td>
@@ -1114,9 +1114,9 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/1E5ZHP8pPU4L1SPIltKlMbIlCc8gVSI_j0uAYGARf8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODgx/NDQtMTI2ODc2MDQw/Ni5wbmc.jpeg" alt="Cover for Demos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c8262f83cc54491b530d9a0d6d11920.png" alt="Cover for Demos" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-13</td>
       <td>Glez.</td>
@@ -1136,7 +1136,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/SUUuXyZKUfxMMQ2YuqTVZRKRAZeGM7Kk43iQa9Q8hX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Mjc2/ODMtMTU2MzMxMTU3/Ni03Njc2LmpwZWc.jpeg" alt="Cover for Tarrega, F.: Guitar Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1153,7 +1153,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/Y77MIqVhee6OIuLdsY9DvSZnmdffzaTHEt0iuNnYQiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTQz/NzItMTQ4MzU0MDEw/OC02NzIwLmpwZWc.jpeg" alt="Cover for Un caso sin resolver" style="max-width:120px; height:auto;" />
       </td>
@@ -1171,7 +1171,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/8lZDKNVt3Y2EnyVwwNMZTCseDNAbrPFvXDJ_88sw-CY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTAy/ODMtMTUyMzIyNjcw/Mi02MDgxLmpwZWc.jpeg" alt="Cover for The Relief Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -1189,7 +1189,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/G-bNN_c6dqo7-jMsknTkFhXHVhbu_qNftKuIstDM9dU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc5/MzM0LTE1Mzk5MDYz/MTgtMzkyMy5qcGVn.jpeg" alt="Cover for La Niña Que Llora En Tus Fiestas" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,7 +1234,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/877e131b565a4fbc93199225ca938387.png" alt="Cover for Armageddon" style="max-width:120px; height:auto;" />
       </td>
@@ -1257,7 +1257,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/hwGbsXVYsHUA0-1Y1Je4Aa41EWZOil49DpC24G9uh2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MzI3/MzgtMTM3Mzc0NjUw/MS05MzQ2LmpwZWc.jpeg" alt="Cover for Las Orillas" style="max-width:120px; height:auto;" />
       </td>
@@ -1302,7 +1302,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td>2012-03-01</td>
@@ -1320,7 +1320,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/-hFgL3T0rUc7PkTVMJTwU3o-eCasfFJdJVeqXZaO_8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzA0/NTktMTQyMTM0OTI0/Ny00NzYxLmpwZWc.jpeg" alt="Cover for Discovery" style="max-width:120px; height:auto;" />
       </td>
@@ -1384,7 +1384,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
       </td>
       <td>2013-03-05</td>
@@ -1403,7 +1403,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3bb22e05bbd40888525449a43cb2bdb.png" alt="Cover for asil liseli" style="max-width:120px; height:auto;" />
       </td>
@@ -1433,7 +1433,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/U9wg528yAgo0wP-lrPYjSTiN90BuGf1RkIC6XKQJaDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI5/ODgzLTE2Njk4MjU0/NzQtNDIxNi5qcGVn.jpeg" alt="Cover for Respeto" style="max-width:120px; height:auto;" />
       </td>
@@ -1478,7 +1478,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/o1HsQJ0OlH2QPz6GW_d2istzuT1GPICcr6u7G2lxbQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQ3/ODk4LTE1ODU5OTMy/ODUtODEzMy5qcGVn.jpeg" alt="Cover for Noites de agosto con Ataque Escampe" style="max-width:120px; height:auto;" />
       </td>
@@ -1505,7 +1505,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/-AYq6XsILIUsX2pOsWBuql94VZJwZZQ6Vg10Ftpd5No/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjEz/NTYtMTQ1Mjg1OTA2/NS00ODMzLmpwZWc.jpeg" alt="Cover for Eterno Agosto" style="max-width:120px; height:auto;" />
       </td>
@@ -1540,14 +1540,14 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 6</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/pP1BKgMv85S_SHAq7CejVreSCsRGE9yMYz0ocoVDDsA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAy/ODEwLTE1MDgwMTk2/NDctMzc3Mi5qcGVn.jpeg" alt="Cover for Terry vs. Tori" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb4eaa6f33ea7993bca90c079b44d872.png" alt="Cover for Terry vs. Tori" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-15</td>
       <td>Terry vs. Tori</td>
@@ -1565,14 +1565,14 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 20</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/Kd_qUrU5UEEhPn8YLdOdkF38xtmc0g3AtNI7xeB-OlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjM4/MTctMTQ3MzQ2Mjc4/Ny0yOTU3LmpwZWc.jpeg" alt="Cover for Ulises" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bfbc17f87f056434a22b865057cba46.png" alt="Cover for Ulises" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-29</td>
       <td>Viva Belgrado</td>
@@ -1614,7 +1614,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/8mzQmp2xRssaZviaryHFTu3xsFo_rZgW7jd4z0TYJfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzkx/ODMyLTE0OTY1NTA2/NDctNDI5Mi5qcGVn.jpeg" alt="Cover for Leap Day" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc28955be4ecd9d4fd73edd1998dcfcc.png" alt="Cover for Leap Day" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-11</td>
       <td>Terry vs. Tori</td>
@@ -1650,9 +1650,9 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/NjXMaN9eTrI3rNp21Jm4zb2MDyzlTdmroYG0QDrODMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUw/MjEwLTE1Njg3NjMy/NzItNjIwMy5qcGVn.jpeg" alt="Cover for Epicentro" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88cdcd8106f17970dca1c0cb7d6839db.png" alt="Cover for Epicentro" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-20</td>
       <td>Mantra</td>
@@ -1686,14 +1686,14 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 9</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/D-WeGBaGLbFZFBLZzR4AZSjgWV33SOQlrXQkl502umI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzUw/MTIxLTE1OTcxMTE0/NDEtMjczNC5qcGVn.jpeg" alt="Cover for Homenaje 50 Aniversario The Beatles" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40fef6efc5d94d03b4f718cb59df6fec.png" alt="Cover for Homenaje 50 Aniversario The Beatles" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Super Ratones</td>
@@ -1710,7 +1710,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/PB6XLNP79LEN5bZ4Hz4U_BMhIgXX04Xf6yD6eMJNC8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjI5/Mjk5LTE1ODgzOTc1/MzYtOTczOC5qcGVn.jpeg" alt="Cover for Barely Buried Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1733,7 +1733,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/yG4E_jqPz6TcZaEu36xJjJQxN3f709VVRf1LdUFIQos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTU5/MjM5LTE2MDQ0Mzk1/MTItMzAwNy5qcGVn.jpeg" alt="Cover for Heathers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51a6a6a31fdef6b8855dcc4f824c02fd.png" alt="Cover for Heathers" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-30</td>
       <td>Terry vs. Tori</td>
@@ -1750,7 +1750,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/izFxrdAOnA8VhfjWuWVwYGInlLnvCBEu3j-907K5Zvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTQ4/ODUyLTE2Mjk2MDE3/NjktNTExOS5qcGVn.jpeg" alt="Cover for Fajos" style="max-width:120px; height:auto;" />
       </td>
@@ -1828,7 +1828,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/M2fL6Ti6RqxuqIsRFM7WGSMmnNxjoezg6vxC2vnX5fY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTcy/Njk0LTE2NzQ0ODM2/MjQtNTA3Mi5qcGVn.jpeg" alt="Cover for Casanova" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/914030165d3e96a1a9925ca7325274de.png" alt="Cover for Casanova" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-05-27</td>
       <td>Soolking</td>
@@ -1849,7 +1849,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/KQnumFH-g6SRNCbO9gjXHA_KypEjGjDc5smbnjihgMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDI2/MjM3LTE2NzA3MDA5/OTQtMTk5Ni5qcGVn.jpeg" alt="Cover for YO TENGO UN NOVIO" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c90fe458b132295bbc6bfb6205aab7a.png" alt="Cover for YO TENGO UN NOVIO" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-12-09</td>
       <td>Lola Indigo</td>
@@ -1866,7 +1866,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/c7wVSWlGT0aW6QKArXn3mcYNNdrWvjBpM6z5Lv4qDlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/ODQtMTUwNTMxMjA0/My0xMzI4LmpwZWc.jpeg" alt="Cover for 30 Años De La Movida" style="max-width:120px; height:auto;" />
       </td>
@@ -1886,7 +1886,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/9xOoe6Mbp_WhFG-BxecV9zLVgnmMD2dHV8t4YqQiVKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjM2/NTU4LTE2NzI2MjIx/MDctMTQyOC5qcGVn.jpeg" alt="Cover for The Blissful Sounds of Miracula" style="max-width:120px; height:auto;" />
       </td>
@@ -1927,7 +1927,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/O6mrpdaCFCObOAOpq_E14OeSfByuG9ooKg-3jQc9Y80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ1/NTg3LTE3MDI1OTc4/OTktNzYzNi5qcGVn.jpeg" alt="Cover for Esta vida que elegí" style="max-width:120px; height:auto;" />
       </td>
@@ -1945,7 +1945,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/uJikw14vT82hVKvXIT9DoXVyYsM_-MJswhV56WI8x4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjY2/MDA2LTE3MDU2ODEy/NTktOTY4My5qcGVn.jpeg" alt="Cover for Cancionero de los Cielos" style="max-width:120px; height:auto;" />
       </td>
@@ -1963,9 +1963,9 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/T0kS6BG6-VNlW2x6FIs840k80Mw8MweI87Xg98C_MsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODMw/MzQzLTE3MTc0MDI4/OTktMzUwMi5qcGVn.jpeg" alt="Cover for Los manantiales" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/429f513db81c0ca1a4226969a8906b3a.png" alt="Cover for Los manantiales" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-17</td>
       <td>Daga Voladora</td>
@@ -1982,9 +1982,9 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/1QxEUte0VOeDWPIkocm-TH5n-a7MwxHG0yijB_ZNDzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTc3/ODc4LTE3MTg1NDEy/MTUtODczNS5qcGVn.jpeg" alt="Cover for Antes de Conocerte (Parte I: Premonición)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e142afec7f5d392059138ead043ae642.png" alt="Cover for Antes de Conocerte (Parte I: Premonición)" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-31</td>
       <td>Juicy BAE</td>
@@ -2002,7 +2002,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -2015,14 +2015,14 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       <td>
         <ul>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 9</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 22</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 47</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 23</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 48</li>
             <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -2056,13 +2056,13 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
             <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 4</li>
             <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 21</li>
             <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 27</li>
-            <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 54</li>
+            <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 53</li>
             <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
       </td>
       <td></td>
@@ -2109,7 +2109,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -2129,7 +2129,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>
@@ -2146,7 +2146,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
       </td>
       <td></td>
