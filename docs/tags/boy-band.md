@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T22:10:07.167Z
+date: 2025-11-14T04:24:43.566Z
 permalink: tags/boy-band
 title: boy band
 ---
 
 ## boy band
 
-Last updated: <time datetime="2025-11-08T22:10:07.167Z">Sun Nov 09 2025 00:10:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T04:24:43.566Z">Fri Nov 14 2025 06:24:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Boy band music is a genre of pop music that features a group of young male singe
   </thead>
   <tbody>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db0960a62cd212154383bf80161a0a01.png" alt="Cover for New Start" style="max-width:120px; height:auto;" />
       </td>
@@ -52,9 +52,9 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/hO4FglTthgBnnArreWNCLiBysafOAqfdOEsIgqBRb2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTI3/MTkyLTE0OTIwOTY4/MTQtNTIwOC5qcGVn.jpeg" alt="Cover for Get Wild" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05d72a2387a470468c257b4ef040265a.png" alt="Cover for Get Wild" style="max-width:120px; height:auto;" />
       </td>
       <td>1987-04-08</td>
       <td>TM NETWORK</td>
@@ -76,7 +76,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/HBvZGN3tOHMMzuIlHgEZ8Ex0ePCnXjXI_rThCAfMZ9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODkz/NTMtMTYyNjcyOTk1/MC02MzM5LmpwZWc.jpeg" alt="Cover for SPEED ON" style="max-width:120px; height:auto;" />
       </td>
@@ -101,7 +101,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5d4c4365ecf3b195f69466196b33dc3.png" alt="Cover for 0325" style="max-width:120px; height:auto;" />
       </td>
@@ -124,7 +124,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/046f1c88f3552a3b3b01406a9854dd75.png" alt="Cover for Refreshing time" style="max-width:120px; height:auto;" />
       </td>
@@ -147,7 +147,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/lWLwBhhlQQqtFqBVnudxf1pddFz9VJ3gaivRs--hyRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODA0/NC0xMzEwNzI3OTE0/LmpwZWc.jpeg" alt="Cover for Take That and Party (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -171,7 +171,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/iyV1Rwy2gxD8T9OpYcCCIPLShBea22G6gSS-mAwHgXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDkw/OTg5LTE2MjYyNzQ2/NTEtODQzOS5qcGVn.jpeg" alt="Cover for 世界に一つだけの花" style="max-width:120px; height:auto;" />
       </td>
@@ -209,8 +209,8 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 25</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 30</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 31</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -234,15 +234,15 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 36</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 42</li>
             <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 78</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 81</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 84</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
       </td>
       <td>1997-05-06</td>
@@ -259,7 +259,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77bca31d5907e234cf8fe1d4fcce9bbd.png" alt="Cover for *NSYNC" style="max-width:120px; height:auto;" />
       </td>
@@ -274,7 +274,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 36</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -297,7 +297,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bdbe45cc0a4efb12d923a6a7578472f.png" alt="Cover for Westlife" style="max-width:120px; height:auto;" />
       </td>
@@ -311,7 +311,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 29</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -336,7 +336,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d13d2de869455c6faa68d203c91282f.png" alt="Cover for No Strings Attached" style="max-width:120px; height:auto;" />
       </td>
@@ -350,13 +350,13 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 46</li>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 72</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 50</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td>2000-04-21</td>
@@ -375,7 +375,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
       </td>
       <td>2000-11-20</td>
@@ -442,7 +442,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ba78bd1a1ae4bc66cf52d4262827c71.png" alt="Cover for All Rise" style="max-width:120px; height:auto;" />
       </td>
@@ -513,7 +513,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/Jbyl4Gg-b11X-CF7JsXO36mGVK8KVhP46_xsc_ngvcs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTEx/OS0xMjM0NDg0NzU3/LmpwZWc.jpeg" alt="Cover for Daisy" style="max-width:120px; height:auto;" />
       </td>
@@ -537,7 +537,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/bCooue3cnxYh1nR1Z3hYHJxqGm3DvOw72jY-zsggXcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDk3/OC0xNTA2MDY3OTU2/LTgyNjcuanBlZw.jpeg" alt="Cover for O2" style="max-width:120px; height:auto;" />
       </td>
@@ -582,7 +582,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/4bTS5UFS6EossVrYFn8Kuqthyl3u0NpH7VY1_7I2TUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDYw/NDgtMTYyNTk5MjA4/Mi05ODg4LmpwZWc.jpeg" alt="Cover for ゆるぎないものひとつ" style="max-width:120px; height:auto;" />
       </td>
@@ -624,7 +624,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/P4aZdPJwVTkLA684oH7wrVrPGs_vnaVUasM5kmi_Pe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDM2/ODc2LTE2MTkyNTY2/ODUtODgwNC5qcGVn.jpeg" alt="Cover for 月光花" style="max-width:120px; height:auto;" />
       </td>
@@ -650,7 +650,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/-25RiA87L7UU8rx4F7GUf7rLg6AoNy7ZpOWUIhg24hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTU3/NDI5LTE2MzgxMjQ2/MzMtNzMyNy5qcGVn.jpeg" alt="Cover for ファンタスティポ" style="max-width:120px; height:auto;" />
       </td>
@@ -672,7 +672,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/v8LeODSHZgrEjJoU4mR93-JQbY1M06SKu5u0ckSPPl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM2/NTQ3LTE2MzcyOTc5/MTEtMTIzNi5qcGVn.jpeg" alt="Cover for No More Cry" style="max-width:120px; height:auto;" />
       </td>
@@ -695,7 +695,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/fT38K0GpT8mSXq3eaEnonMyy-RrEXtBLl_Q6-PrwV7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODQz/Ni0xNjU2MTg2MjI1/LTc3NDAuanBlZw.jpeg" alt="Cover for ダイヤモンドヴァージン" style="max-width:120px; height:auto;" />
       </td>
@@ -721,7 +721,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/fj03QelUMuI-86R5onMCKraoFvj5q4y6q-Yiz70NyeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjQ2/MDYtMTM2NzMzODUy/OS04NTUyLmpwZWc.jpeg" alt="Cover for ラヴ・パレード" style="max-width:120px; height:auto;" />
       </td>
@@ -744,7 +744,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/TlkdFxY5P9pkwV7IYQiaMu4s4k5DRlN6gYC1neHiqZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTUw/ODkxLTE2NTE5NzAx/NDYtOTkzMS5qcGVn.jpeg" alt="Cover for Deracine" style="max-width:120px; height:auto;" />
       </td>
@@ -770,7 +770,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/_MxY5Zcojl1ReVUIM1axc4ExV-7h7hSv0QUr10mwYY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDIx/ODk1LTE1MTYwNDQw/MjQtNTIxNC5qcGVn.jpeg" alt="Cover for キズナ" style="max-width:120px; height:auto;" />
       </td>
@@ -867,7 +867,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/sKcXFCSUY_5_LPo9vrI7YxLJeiPMsIbTOfihk7MxUOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDc4/Mjk3LTE2NTE0MjY4/OTAtMjc5MC5qcGVn.jpeg" alt="Cover for Dear WOMAN" style="max-width:120px; height:auto;" />
       </td>
@@ -913,7 +913,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td>2006-05-24</td>
@@ -934,7 +934,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
       </td>
       <td>2006-11-15</td>
@@ -976,15 +976,16 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 5</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 29</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 58</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 59</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 60</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/JKNzUrgtPoT3ECfmCxQCwyJGV3hBbO53rJvd91P5t6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjA4/MDItMTQwOTE3NDIw/OC00OTEzLmpwZWc.jpeg" alt="Cover for 僕らの街で" style="max-width:120px; height:auto;" />
       </td>
@@ -1006,7 +1007,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td>2006-12-13</td>
@@ -1044,13 +1045,13 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 52</li>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 65</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 56</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/iQV3AZmsBnZ6d3VSmNmQhBYqJ0PAS0WDma1YgGAimrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjcw/NDY1LTE1NzExNDkw/ODktODk1OC5qcGVn.jpeg" alt="Cover for Twenty&#x60;s Noir" style="max-width:120px; height:auto;" />
       </td>
@@ -1073,7 +1074,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/mic2Opon4l8xbq_VJNRaxCPBGTW9RxQF5e0zEBvVzFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU0/NjA4LTE2NzI1MjQx/NDItOTE3NS5wbmc.jpeg" alt="Cover for Face In The Hall" style="max-width:120px; height:auto;" />
       </td>
@@ -1092,7 +1093,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/wiGH0FUZsy6pPqQbHqa46M_czeBTMj26zOoJSQhXVD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjE1/OTM0LTE2MDU0MTgy/OTktNTg2MS5qcGVn.jpeg" alt="Cover for Lovers Again" style="max-width:120px; height:auto;" />
       </td>
@@ -1114,7 +1115,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/JWjF04F-kTdZgv6tqQTneL7TJw4R5QGYm6Fvt6iLxPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTQx/MTUtMTI2NjkzNjUz/OC5qcGVn.jpeg" alt="Cover for 桜花咲きそめにけり" style="max-width:120px; height:auto;" />
       </td>
@@ -1140,7 +1141,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/2I-EizS5LxPmvhC4ZGQUfPwxLogQI5x4nBcD84ZDeKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDkx/NDUtMTIwODQ2NDIx/NC5qcGVn.jpeg" alt="Cover for I Don&#39;t Want To Go To School" style="max-width:120px; height:auto;" />
       </td>
@@ -1181,7 +1182,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/qYAD3LawosjwxQq5tBoeUxtEOgbNl6ZgwZRK7i0PKxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzA4/MDgwLTE2MzUwNDk0/MzMtMzUxNC5qcGVn.jpeg" alt="Cover for 扉" style="max-width:120px; height:auto;" />
       </td>
@@ -1231,7 +1232,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
       </td>
       <td>2009-05-13</td>
@@ -1375,7 +1376,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/hNKjsBy5gexEPj2GDYSq2gYGPw0JX2qMcgpNUQKyV1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDgz/NzctMTQ3MjA0Nzg4/Mi04OTg4LmpwZWc.jpeg" alt="Cover for 虹の雪" style="max-width:120px; height:auto;" />
       </td>
@@ -1425,30 +1426,6 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2013-01-15</td>
-      <td>Speed</td>
-      <td>Superior Speed</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 38</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>48</td>
       <td>
           <img src="https://i.discogs.com/U4MNExoo9cLsuSSfeboErTP2GZQt7OtsAMN01JcVxdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAy/MDU0LTE1NzM4MDEw/NzUtNDg4MS5qcGVn.jpeg" alt="Cover for Up the sky : 飛" style="max-width:120px; height:auto;" />
@@ -1488,8 +1465,8 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 60</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 95</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 64</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1510,14 +1487,14 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 54</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 58</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 85</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 94</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/b-YE_3uFWSWRCUzYS4VXZWus-CtQE2PJcU9M1ldX9so/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTA3/Mjk3LTE2MDM1NTAw/MTQtNTAzNS5qcGVn.jpeg" alt="Cover for Look At Me Now" style="max-width:120px; height:auto;" />
       </td>
@@ -1544,7 +1521,7 @@ Boy band music is a genre of pop music that features a group of young male singe
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/MLoqdKeWX30wJQa9lwRVuMP6GA-HelIcpMvGXDcGsfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjQ2/NTItMTQwMjAwNTcz/Mi01NjUzLmpwZWc.jpeg" alt="Cover for Meet The Vamps (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79be22ff8eddad44fbcc5f954c14061a.png" alt="Cover for Meet The Vamps (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-14</td>
       <td>The Vamps</td>
@@ -1558,7 +1535,26 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 28</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdd6ecd970739e3634f26b7472cfe273.png" alt="Cover for 5 Seconds of Summer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-06-27</td>
+      <td>5 Seconds of Summer</td>
+      <td>5 Seconds of Summer</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 18</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1585,7 +1581,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/ludhVxomVgW2_AeHCmS3N8uUINel7dy6ddrzC74bFAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjU0/NDAtMTQ3NzYzMTky/OC05MjEwLmpwZWc.jpeg" alt="Cover for TRESPASS" style="max-width:120px; height:auto;" />
       </td>
@@ -1627,6 +1623,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 1</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 53</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 53</li>
         </ul>
@@ -1651,7 +1648,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/WIjnhsCvNbVcawOfytgzoluu7Iel8u4YVb0zd4HoFv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODky/MzgxLTE1OTk2OTU0/MDAtNjUzMC5qcGVn.jpeg" alt="Cover for Canvas" style="max-width:120px; height:auto;" />
       </td>
@@ -1674,7 +1671,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/0hicnSJDZOLrq5jrBERL62VDXOpEHXri5_Sk_YEFtrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDM1/Mjg4LTE1NzQ0NzQ0/MDYtNjE0NS5wbmc.jpeg" alt="Cover for FEELING SENSATION" style="max-width:120px; height:auto;" />
       </td>
@@ -1716,14 +1713,14 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 23</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 27</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 37</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c317cc6e61d3f1282ba284b383c62444.png" alt="Cover for HIGH FIVE" style="max-width:120px; height:auto;" />
       </td>
@@ -1746,7 +1743,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/qPU4De6eQsU5zUjDxNs2ueKmv2I0PKgtLgzTcd6qDio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzYx/NDgxLTE1NTI3NjMw/MzItNzgyOC5qcGVn.jpeg" alt="Cover for 桃源境 (도원경)" style="max-width:120px; height:auto;" />
       </td>
@@ -1814,15 +1811,15 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 27</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 84</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 90</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 40</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 87</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 92</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/hpBVtRlwyFYYPRxbuqFjKvqz4my5kLbMtay4eEemuGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ1/NjUyLTE1MjcxODg1/NTctMjUwMC5qcGVn.jpeg" alt="Cover for Starry Night (prod. dress)" style="max-width:120px; height:auto;" />
       </td>
@@ -1971,7 +1968,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 72</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2116,7 +2113,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 1</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 2</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 55</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 55</li>
         </ul>
@@ -2291,7 +2288,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>

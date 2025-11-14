@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T23:20:43.099Z
+date: 2025-11-14T04:26:45.768Z
 permalink: tags/rap
 title: rap
 ---
 
 ## rap
 
-Last updated: <time datetime="2025-11-08T23:20:43.099Z">Sun Nov 09 2025 01:20:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T04:26:45.768Z">Fri Nov 14 2025 06:26:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 87</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 89</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 99</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 99</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 99</li>
@@ -73,7 +73,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 94</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 95</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 100</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 100</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 100</li>
@@ -81,7 +81,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/34db22461c7631fcae50f8b641f44d6f.png" alt="Cover for Cat Girls Are Ruining My Life!" style="max-width:120px; height:auto;" />
       </td>
@@ -99,7 +99,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 55</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 57</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 95</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 96</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 96</li>
@@ -107,33 +107,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>64</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61c5453abb82afdf9532b94d06853902.png" alt="Cover for Miss YOU!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993</td>
-      <td>Corpse</td>
-      <td>Miss YOU!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 67</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 96</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 97</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a14387b869f98a6739bd567afb1b80e1.png" alt="Cover for Rockstar" style="max-width:120px; height:auto;" />
       </td>
@@ -151,7 +125,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f31f2812b854b228bf9f03f4c0cbf28.png" alt="Cover for It Was Written" style="max-width:120px; height:auto;" />
       </td>
@@ -166,14 +140,14 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 23</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 25</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 53</li>
             <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e49b712404ab22af61953e8ac07c822e.png" alt="Cover for Cabin Fever" style="max-width:120px; height:auto;" />
       </td>
@@ -191,7 +165,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 24</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 27</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 91</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 91</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 93</li>
@@ -199,7 +173,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5563530edc715985d12aa83ab17cae43.png" alt="Cover for White Tee" style="max-width:120px; height:auto;" />
       </td>
@@ -217,7 +191,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 48</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 50</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 94</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 95</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 95</li>
@@ -244,8 +218,8 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 72</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 94</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 74</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 95</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 97</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 98</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 98</li>
@@ -253,7 +227,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ca8269cfa0a4e0bb9a08aedfb645ed6.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -267,15 +241,15 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 4</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 32</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 13</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 33</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 53</li>
             <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b71796a5a734c2f97a0daddd12115fe.png" alt="Cover for The Slim Shady LP" style="max-width:120px; height:auto;" />
       </td>
@@ -295,6 +269,30 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f56d238345e49e8c9906e892984c187.png" alt="Cover for Doggystyle" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Snoop Dogg</td>
+      <td>Doggystyle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 73</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 91</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff3e66b5f1d4158b14bfdd36413f3719.png" alt="Cover for The Marshall Mathers LP" style="max-width:120px; height:auto;" />
@@ -309,13 +307,13 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 47</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 49</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/-Kw2gMu9I6ll8dePXDm23cULhXuFhrjrbSd8NOVFKek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDg5/Mi0xMzg5MDg1MzMw/LTYxMDQuanBlZw.jpeg" alt="Cover for Music To Be Murdered By" style="max-width:120px; height:auto;" />
       </td>
@@ -351,7 +349,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>2003-02-04</td>
@@ -366,12 +364,12 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       <td>
         <ul>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 19</li>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 49</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61d5e94c9aa712b29e283325bc5ae87f.png" alt="Cover for The College Dropout" style="max-width:120px; height:auto;" />
       </td>
@@ -386,14 +384,14 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 54</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 56</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 64</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 75</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/h-zwe7KMKGz8HdAHe4qKIMPthxNmOoUjcUXYBspXacc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTIz/Mi0xMjY2NDcyMjI3/LmpwZWc.jpeg" alt="Cover for MM..Food" style="max-width:120px; height:auto;" />
       </td>
@@ -408,14 +406,14 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 52</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 54</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 54</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 57</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/MHvbJVhxn2EJWU4VAGm_3FN5ZBn46ZuxR0iP-fWii7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODQy/Ny0xMjcyNzM0Mjg3/LmpwZWc.jpeg" alt="Cover for Massacre" style="max-width:120px; height:auto;" />
       </td>
@@ -434,7 +432,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b1baa15415786b7219a997a497cbe07.png" alt="Cover for Don&#39;t Wanna Know" style="max-width:120px; height:auto;" />
       </td>
@@ -452,7 +450,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 50</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 57</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 84</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 95</li>
             <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 100</li>
@@ -481,7 +479,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/06836ba24f25105969a19a1be4061d56.png" alt="Cover for Paper Trail" style="max-width:120px; height:auto;" />
       </td>
@@ -495,13 +493,13 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 45</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 46</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/erZSxkEgTOZO0TUqGrPhZAbSz8_SGtuF0g7NwNWeyF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTE3/NjAtMTQ5NjcxMDI2/OC02NzM2LmpwZWc.jpeg" alt="Cover for The Blueprint 3" style="max-width:120px; height:auto;" />
       </td>
@@ -516,7 +514,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 89</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -539,7 +537,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/M9byBEQWbH3qRCYKeBbpPWUWowSt_hSSsAS6e6WomwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDk0/NzYzLTE2MzU0NTIw/ODMtMzEyNC5qcGVn.jpeg" alt="Cover for CERTIFIED LOVER BOY" style="max-width:120px; height:auto;" />
       </td>
@@ -555,7 +553,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 64</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 66</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 73</li>
         </ul>
       </td>
@@ -576,12 +574,12 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 74</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cc406a032e2418daa5a768e3391820c.png" alt="Cover for K.I.D.S." style="max-width:120px; height:auto;" />
       </td>
@@ -599,7 +597,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8846e8beccef6f15d58d87df91239d9.png" alt="Cover for Pink Friday" style="max-width:120px; height:auto;" />
       </td>
@@ -617,7 +615,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a071c4b073625018de5f0ac58727511.png" alt="Cover for My Beautiful Dark Twisted Fantasy" style="max-width:120px; height:auto;" />
       </td>
@@ -636,7 +634,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/220fe98af6fc4283a8f543f0697dbba6.png" alt="Cover for Rolling Papers" style="max-width:120px; height:auto;" />
       </td>
@@ -654,7 +652,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/YY0AaAg6_5Eo262xxA3_bP7xJaCYxcFxiHcONO54XoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM5/NjMyLTE2NDc4MjA4/MjUtNDM2MC5qcGVn.jpeg" alt="Cover for Igor" style="max-width:120px; height:auto;" />
       </td>
@@ -667,15 +665,15 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 29</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 57</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 31</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 60</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 63</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>2011-05-10</td>
@@ -688,15 +686,15 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       <td>
         <ul>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 1</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 14</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 45</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 15</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 47</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e16b68c3a464068adf15d6d4ce5be9d.png" alt="Cover for Cole World: The Sideline Story" style="max-width:120px; height:auto;" />
       </td>
@@ -714,7 +712,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee716520f1d244d990d5f6c8783375fe.png" alt="Cover for Camp" style="max-width:120px; height:auto;" />
       </td>
@@ -729,12 +727,12 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 78</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0dd274618456b2059893f0cc09d3f74.png" alt="Cover for Never Satisfied" style="max-width:120px; height:auto;" />
       </td>
@@ -752,7 +750,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 43</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 45</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 93</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 94</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 94</li>
@@ -760,7 +758,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/58b3f7a642d3939ba25be36220444e1d.png" alt="Cover for 1991 - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -776,13 +774,13 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 45</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 49</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 48</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>2013-04-01</td>
@@ -794,10 +792,10 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 26</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 49</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 28</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 52</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 60</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -817,8 +815,8 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 57</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 71</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 61</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 74</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 92</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 93</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 96</li>
@@ -842,8 +840,8 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 80</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 82</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 79</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -866,7 +864,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf4805d65212d64e2de22f82d98c8ea9.png" alt="Cover for PARTYNEXTDOOR TWO" style="max-width:120px; height:auto;" />
       </td>
@@ -882,12 +880,12 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 8</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/953cd190168c19e6708af5e5716faadf.png" alt="Cover for Broke with Expensive Taste" style="max-width:120px; height:auto;" />
       </td>
@@ -903,12 +901,12 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 38</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e5dfc556d4a44fcc4967721f258e8ea.png" alt="Cover for Globalization" style="max-width:120px; height:auto;" />
       </td>
@@ -924,14 +922,15 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 16</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 80</li>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 94</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 16</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 17</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 84</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f29ed74d75ec8c5ccc07d46ec3ba7841.png" alt="Cover for My Liver Will Handle What My Heart Can&#39;t" style="max-width:120px; height:auto;" />
       </td>
@@ -946,11 +945,11 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 54</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 55</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 56</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 61</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 83</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 87</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -972,8 +971,8 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
         <ul>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 40</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 55</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 71</li>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 92</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 70</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -996,15 +995,15 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 82</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 85</li>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 100</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 81</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 87</li>
             <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 100</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f990d085bca3182dfe436c098eed36c8.png" alt="Cover for untitled unmastered." style="max-width:120px; height:auto;" />
       </td>
@@ -1021,14 +1020,14 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       <td>
         <ul>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 15</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 52</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 77</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 90</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 54</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 78</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56f99650b0478d05f79ac8958bcf37fa.png" alt="Cover for The Sun&#39;s Tirade" style="max-width:120px; height:auto;" />
       </td>
@@ -1045,16 +1044,16 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 57</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 58</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 73</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 60</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 76</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 88</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01a34a66db612b2a0bf049525c325654.png" alt="Cover for 4 Your Eyez Only" style="max-width:120px; height:auto;" />
       </td>
@@ -1069,8 +1068,8 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 48</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 60</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 47</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1095,7 +1094,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71a28691e3ede34259b7ada3819aa7e7.png" alt="Cover for ALL-AMERIKKKAN BADA$$" style="max-width:120px; height:auto;" />
       </td>
@@ -1129,6 +1128,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 8</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 45</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 81</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 90</li>
@@ -1137,7 +1137,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/CqZ-1P65wygysp6AqjAk_mKY0SmLqPplezLu5DKi3DE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc4/OTI3LTE1OTY2NjQx/MDQtMzM5Ni5qcGVn.jpeg" alt="Cover for Castles II" style="max-width:120px; height:auto;" />
       </td>
@@ -1155,9 +1155,37 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 11</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 24</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 44</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 87</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 46</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/85540f3f9e225b93de5972556ceb97d6.png" alt="Cover for Big Fish Theory" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-06-23</td>
+      <td>Vince Staples</td>
+      <td>Big Fish Theory</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 18</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 57</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 82</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 88</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 89</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1180,16 +1208,16 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       <td>
         <ul>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 22</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 48</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 66</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 70</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 52</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 65</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 74</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 95</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/84WWO5xwv72szeM9SXrM34NRiUZspKen6aF0TlR-4oQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzU0/NzI0LTE1MDM3MjYx/ODktNDI5OC5qcGVn.jpeg" alt="Cover for Saturation II" style="max-width:120px; height:auto;" />
       </td>
@@ -1205,11 +1233,11 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 21</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 23</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 60</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 66</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 70</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 80</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 71</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1229,12 +1257,12 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 69</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/KavZx-vh6THT4qBD8cnR5-X8VbGmH4JW_BE5WYR7egM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTc5/NzQtMTQyOTAzNzgy/MC03MjM4LmpwZWc.jpeg" alt="Cover for Flower Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -1247,19 +1275,19 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 37</li>
             <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 37</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 42</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 38</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 43</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 46</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 75</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 44</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 50</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 76</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 95</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/qMOk9UcxKqbc-7Wb0G_umECfoOJtbesr-_ozA8p8Ylc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjky/MDIwLTE1MTM1NTEw/ODAtNTEzMS5qcGVn.jpeg" alt="Cover for Saturation III" style="max-width:120px; height:auto;" />
       </td>
@@ -1274,14 +1302,14 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 19</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 19</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 20</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 23</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2de29268f9757d801dde7b6b682d15c.png" alt="Cover for KOD" style="max-width:120px; height:auto;" />
       </td>
@@ -1315,9 +1343,9 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 3</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 62</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 65</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 4</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 63</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1342,7 +1370,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/05ed3fae3b45b2fcda6c80e76c4c8aed.png" alt="Cover for Agust D" style="max-width:120px; height:auto;" />
       </td>
@@ -1378,12 +1406,12 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       <td>
         <ul>
             <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 19</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 77</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/vb9UxaXdga5JDfRjhqgf6NfhD87C3HtLGWxcwHZmWQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIy/ODMyLTE1ODM0MjE3/MDctNDE4OC5qcGVn.jpeg" alt="Cover for Invasion Of Privacy" style="max-width:120px; height:auto;" />
       </td>
@@ -1397,12 +1425,12 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 75</li>
+            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/-vrxNNl4vQVCsn3cy6zHTouDPde9zbER0mNGTS4j-5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTIz/MzM5LTE1ODc0Njgy/MDctNjY5Ny5qcGVn.jpeg" alt="Cover for Beerbongs &amp; Bentleys" style="max-width:120px; height:auto;" />
       </td>
@@ -1421,7 +1449,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15df301898a48aa2a8c13632e38f6ca9.png" alt="Cover for DAYTONA" style="max-width:120px; height:auto;" />
       </td>
@@ -1435,7 +1463,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 26</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1457,10 +1485,10 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 34</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 44</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 71</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 84</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 73</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 85</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 87</li>
         </ul>
       </td>
@@ -1482,14 +1510,14 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       <td>
         <ul>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 6</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 9</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 15</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 41</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/RtuZWGD5G7eJAe1ZXQfNtMm4sXNoTfer2jABy_KJCiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTA4/NzU5LTE1ODQxMzA0/NjUtMzI5Mi5qcGVn.jpeg" alt="Cover for Kids See Ghosts" style="max-width:120px; height:auto;" />
       </td>
@@ -1504,17 +1532,17 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 62</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 67</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 70</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 76</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 67</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 69</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 74</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 77</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 85</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 86</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/Zveuo7n5bRuOuNZWu901uigpOgrOc5Pi_Aoezpq3cPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQ3/NzQyLTE2NDcxMDYw/OTYtNjQ5OS5qcGVn.jpeg" alt="Cover for Everything is Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1534,7 +1562,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3db7c5937887fe0ab5cfc9cc464d927c.png" alt="Cover for Scary Hours" style="max-width:120px; height:auto;" />
       </td>
@@ -1552,7 +1580,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b42f8bf1987f3e1e4dc55d46d9c7bc3d.png" alt="Cover for Scorpion" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,12 +1616,12 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       <td>
         <ul>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 88</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 91</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/9Sgh_dfPJfqUakivNHYsFikmkK1wL5nfL-2JXPU-W9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc5/MTk2LTE1NDM3MDc3/MDktMTQ4MS5qcGVn.jpeg" alt="Cover for Stokeley" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,14 +1640,14 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       <td>
         <ul>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 20</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 42</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 44</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 77</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b2acd9a5df76d2d700aa0504214cdb9.png" alt="Cover for Fetish (feat. Gucci Mane)" style="max-width:120px; height:auto;" />
       </td>
@@ -1634,12 +1662,12 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 74</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d8c6b5ea4a34c222a9a8069687c12e9.png" alt="Cover for Amala" style="max-width:120px; height:auto;" />
       </td>
@@ -1656,12 +1684,12 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 45</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4172cfad0e4900cd93c961c33133ff1d.png" alt="Cover for MAP OF THE SOUL : PERSONA" style="max-width:120px; height:auto;" />
       </td>
@@ -1682,7 +1710,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4c27e4034a8109c16fdb02fb488cd77.png" alt="Cover for 7 EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1697,7 +1725,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 54</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1718,7 +1746,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 93</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 94</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 99</li>
         </ul>
       </td>
@@ -1742,7 +1770,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       <td>
         <ul>
             <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 63</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 73</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 72</li>
             <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 90</li>
         </ul>
       </td>
@@ -1765,7 +1793,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 65</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 64</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 79</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 95</li>
         </ul>
@@ -1790,7 +1818,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c65212f8bdeea5ce8bac4f9470ae1fc.png" alt="Cover for Mercy" style="max-width:120px; height:auto;" />
       </td>
@@ -1803,7 +1831,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 59</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1891,17 +1919,17 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 61</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 64</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 86</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 62</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 63</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 88</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 97</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 99</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 100</li>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 100</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 100</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 100</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 100</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 100</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 100</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 100</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 100</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 100</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1923,13 +1951,13 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 66</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 68</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/956783bb3694e4296a6cdd6170ff083b.png" alt="Cover for The Off-Season" style="max-width:120px; height:auto;" />
       </td>
@@ -1943,7 +1971,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 28</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1986,7 +2014,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/wqxfY53jtsQnj73eiSOfqkT7uou0xZXzGewPDXG6nfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDQ2/NjgxLTE2NjI1OTY0/NjktNzc5NC5qcGVn.jpeg" alt="Cover for LONDON (feat. J. Cole)" style="max-width:120px; height:auto;" />
       </td>
@@ -2008,7 +2036,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d85ed310602fc299541268758854e273.png" alt="Cover for Vince Staples" style="max-width:120px; height:auto;" />
       </td>
@@ -2047,14 +2075,14 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       <td>
         <ul>
             <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 65</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 76</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 75</li>
             <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 91</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/LWxqUuWg-WwKX23FYCMqeEcwgj7IxI_Ix3y38Vyy3zI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDk4/NDUxLTE2ODQyNjAw/MzAtMjk1Mi5wbmc.jpeg" alt="Cover for Just Wanna Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -2092,33 +2120,13 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 54</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 87</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 86</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47dbda956c44d06fc1a4f8dbf1c77f00.png" alt="Cover for Scarlet" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-09-22</td>
-      <td>Doja Cat</td>
-      <td>Scarlet</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 46</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/C0hc1XCicG5_wbJoNlPbin7ribRpwh2H-f3aXp-aR_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTQ5/NzY4LTE2OTY5MTU1/NTMtNTMzNC5qcGVn.jpeg" alt="Cover for on the street (with J. Cole)" style="max-width:120px; height:auto;" />
       </td>
@@ -2134,13 +2142,13 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 58</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 57</li>
             <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
       </td>
       <td>2024-07-19</td>
@@ -2157,7 +2165,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4af739fc6614ecb9a7f00b62039c0586.png" alt="Cover for Her" style="max-width:120px; height:auto;" />
       </td>
@@ -2177,7 +2185,7 @@ Rap is a vocal style where artists rhythmically speak or chant lyrics over beats
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
