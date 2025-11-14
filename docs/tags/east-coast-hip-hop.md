@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-10T22:45:22.232Z
+date: 2025-11-14T10:11:59.316Z
 permalink: tags/east-coast-hip-hop
 title: east coast hip hop
 ---
 
 ## east coast hip hop
 
-Last updated: <time datetime="2025-11-10T22:45:22.232Z">Tue Nov 11 2025 00:45:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T10:11:59.316Z">Fri Nov 14 2025 12:11:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
   </thead>
   <tbody>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>1990</td>
@@ -66,7 +66,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ab8ee8d7a7ff8bfb0c00afb89a38c16.png" alt="Cover for The Low End Theory" style="max-width:120px; height:auto;" />
       </td>
@@ -80,15 +80,15 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 24</li>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 34</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 27</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 35</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 38</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 59</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fc0be8a14ede285ec63e8c9368ae04b.png" alt="Cover for A Wolf In Sheep&#39;s Clothing" style="max-width:120px; height:auto;" />
       </td>
@@ -124,7 +124,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dce63c224a643b78b39caeb27aadf8b.png" alt="Cover for Illmatic" style="max-width:120px; height:auto;" />
       </td>
@@ -139,14 +139,14 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       <td>
         <ul>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 34</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 44</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 48</li>
             <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 69</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 79</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bf84fda4fbe2421aa9f8604721171ca.png" alt="Cover for The Sun Rises In The East" style="max-width:120px; height:auto;" />
       </td>
@@ -166,7 +166,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22cd48a13d1b4609c6d9dabc22186ef4.png" alt="Cover for Tical" style="max-width:120px; height:auto;" />
       </td>
@@ -182,7 +182,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 3</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 31</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -204,7 +204,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
         <ul>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 6</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 34</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 40</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 41</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 56</li>
             <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 98</li>
         </ul>
@@ -223,13 +223,13 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 11</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 89</li>
             <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/sZueU4qnsX6BzrHWXl94mcNtepcIL9cdBDRKyMjyxls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ0/NTQtMTU3MjU1MzU2/My0yMjQ2LmpwZWc.jpeg" alt="Cover for ElCamino 2" style="max-width:120px; height:auto;" />
       </td>
@@ -255,7 +255,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/sZueU4qnsX6BzrHWXl94mcNtepcIL9cdBDRKyMjyxls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ0/NTQtMTU3MjU1MzU2/My0yMjQ2LmpwZWc.jpeg" alt="Cover for Don&#39;t Eat the Fruit" style="max-width:120px; height:auto;" />
       </td>
@@ -282,7 +282,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/woB6F3fFTPF5oX8aecb1AHp63TdnkPcanYTPdhqG6wA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUz/Ni0xMzkxODA3MjU3/LTQ3NTguanBlZw.jpeg" alt="Cover for The Psycho-social, Chemical, Biological, And Electro-magnetic Manipulation Of Human Consiousness" style="max-width:120px; height:auto;" />
       </td>
@@ -332,13 +332,13 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       <td>
         <ul>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 44</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 78</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 84</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 79</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5520cd4c7fff46bbe8baaa1fd31a9867.png" alt="Cover for Operation: Doomsday" style="max-width:120px; height:auto;" />
       </td>
@@ -351,7 +351,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 10</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 15</li>
             <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 25</li>
         </ul>
       </td>
@@ -377,8 +377,8 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 67</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 75</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 70</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 77</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 87</li>
         </ul>
       </td>
@@ -398,8 +398,8 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 15</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 26</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 29</li>
             <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 55</li>
         </ul>
       </td>
@@ -415,7 +415,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
         </ul>
       </td>
       <td>
@@ -424,7 +424,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>2001-02-16</td>
@@ -438,7 +438,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 21</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -494,9 +494,9 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 21</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 53</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 68</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 22</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 34</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -578,14 +578,14 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 12</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 54</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 14</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 57</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/noeaax4s4fxMlZB60NrlUAzlTAvVNssdXqnlZBg3AbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzE0/MTgzLTE2MDcwMTAx/OTYtNDIzOC5qcGVn.jpeg" alt="Cover for Life After Death (2014 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -605,9 +605,9 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 18</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 21</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 22</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 21</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 23</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 29</li>
         </ul>
       </td>
@@ -640,7 +640,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/5a3qspevHGqnqXjxOU7x-PakW3VoI6N0mr6RRNlpSBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjU0/MzYtMTM5MTgxMTM5/NS02NTk0LmpwZWc.jpeg" alt="Cover for MARCIOLOGY" style="max-width:120px; height:auto;" />
       </td>
@@ -655,12 +655,12 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 15</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/TbOR5jyuON_M01q5SqTadoitqqRtpN8hYZbbfW5xxKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU5/MzctMTQ5NjQ1OTA4/Ni02Njg4LmpwZWc.jpeg" alt="Cover for Operation: Doomsday." style="max-width:120px; height:auto;" />
       </td>
@@ -673,13 +673,14 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 11</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 1</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 16</li>
             <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>2013-01-11</td>
@@ -712,7 +713,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 25</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 26</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 86</li>
         </ul>
       </td>
@@ -720,7 +721,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/E1pk1iw2mWyvK9o6_OKMw_5SGNTD3eVNG3Ce3inwzHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Njc5/NDItMTM3MTY0MzU5/OC0xMDAwLmpwZWc.jpeg" alt="Cover for Born Sinner (Deluxe Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5de1881985334258853f628825d1310e.png" alt="Cover for Born Sinner (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-14</td>
       <td>J. Cole</td>
@@ -734,7 +735,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 58</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 59</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 95</li>
         </ul>
       </td>
@@ -756,6 +757,29 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2013-10-22</td>
+      <td>Armand Hammer</td>
+      <td>RACE MUSIC</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 2</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -792,14 +816,14 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 14</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 31</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 15</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 36</li>
             <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>2014-09-02</td>
@@ -815,12 +839,12 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 41</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2014-11-28</td>
@@ -853,13 +877,13 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 85</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 86</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/NPSYoZISk6v6YsMpT_t6SJcOKM4UsBrAmbx-eeLcxlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjcw/MTItMTY0NjA2ODA2/OS01OTg3LmpwZWc.jpeg" alt="Cover for Days With Dr. Yen Lo" style="max-width:120px; height:auto;" />
       </td>
@@ -878,7 +902,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 12</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 17</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 69</li>
         </ul>
       </td>
@@ -907,6 +931,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d85289d98720c4121f519cd3a6339ac.png" alt="Cover for Yamborghini High (feat. Juicy J) - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01-29</td>
       <td>A$AP Mob</td>
@@ -923,13 +948,13 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 4</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 73</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 5</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8037643d59078129104a7f43c47a0e6.png" alt="Cover for Petestrumentals 2" style="max-width:120px; height:auto;" />
       </td>
@@ -963,12 +988,12 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 81</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/W4ugSEZhHjLTRY-QUBUCypfgYjgIObgPEa4bBYWR5QY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkw/NjQ0LTE1MzYzMjg4/MTMtNzA1NS5qcGVn.jpeg" alt="Cover for Poorboy" style="max-width:120px; height:auto;" />
       </td>
@@ -986,8 +1011,8 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 14</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 26</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 16</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1007,7 +1032,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 30</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1040,6 +1065,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23468c7fe385feb0a6d262a279490b17.png" alt="Cover for Raf (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert &amp; Frank Ocean)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-15</td>
       <td>A$AP Mob</td>
@@ -1050,7 +1076,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 73</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 75</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 88</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 89</li>
         </ul>
@@ -1116,13 +1142,13 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 63</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 74</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 64</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/S7aA9_68fNvBTzjbAVC5vcbg8PMedd9bYTzKzUHlBYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjY2/NTY3LTE1Mzk2NDc2/NTctNjIxNy5qcGVn.jpeg" alt="Cover for Behold a Dark Horse" style="max-width:120px; height:auto;" />
       </td>
@@ -1163,10 +1189,10 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 34</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 44</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 66</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 71</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 73</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 87</li>
         </ul>
       </td>
@@ -1191,16 +1217,16 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 19</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 46</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 48</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 18</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 47</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 51</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 78</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/LmA30CroWiGduUdPxoCCOZj4-C1CPckPFnqhYYSzw5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY4/NDk0LTE1NDM1MDY4/ODAtMzcwOS5qcGVn.jpeg" alt="Cover for Ba Suba, Ak Jamm" style="max-width:120px; height:auto;" />
       </td>
@@ -1213,8 +1239,8 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 9</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 37</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 14</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1238,7 +1264,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 51</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 52</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 55</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 68</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 86</li>
@@ -1246,7 +1272,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/LF3F3qYtzCdw16oRnHWrohT4d4zWpPokDOv-MHPtUQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ0/OTk4LTE1NTQzMzY2/NTctMzA1Ny5qcGVn.jpeg" alt="Cover for Hiding Places" style="max-width:120px; height:auto;" />
       </td>
@@ -1263,8 +1289,8 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 5</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 31</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 10</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1288,7 +1314,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 10</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 11</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 39</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 40</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 49</li>
@@ -1316,9 +1342,9 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 16</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 31</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 20</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 30</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 67</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 83</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 92</li>
         </ul>
@@ -1360,7 +1386,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 37</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1385,7 +1411,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/J0og1BX-c7UTQBnP28Rn_0onnQOrYGl4rwCNFfVeSmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTE4/NjUtMTM2MzY2ODcw/NS03NDYwLmpwZWc.jpeg" alt="Cover for Marcielago" style="max-width:120px; height:auto;" />
       </td>
@@ -1403,7 +1429,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 26</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 27</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 27</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 74</li>
         </ul>
@@ -1424,8 +1450,8 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 52</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 77</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 53</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 78</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 96</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 96</li>
         </ul>
@@ -1451,7 +1477,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 13</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 14</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 42</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 54</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 79</li>
@@ -1459,7 +1485,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/XDgHTRUbg_Z_cvQUW-bkbKClsx3q6miLA2FN94QzahQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcx/NTQ2LTE2MDYzNDEy/MzgtOTE3Mi5qcGVn.jpeg" alt="Cover for True Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -1498,13 +1524,13 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 21</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 20</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dd374b985a13be971caf32a2a5f174f.png" alt="Cover for Dog Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -1519,7 +1545,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 28</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 30</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 42</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 64</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 88</li>
@@ -1527,32 +1553,9 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
     </tr>
     <tr>
-      <td>35</td>
-      <td>
-          <img src="https://i.discogs.com/xsb_cskc82Yfzaf2W37m4JB6nURrsvSJcNDgwmh-1gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODMz/MDYzLTE2OTIzNzEz/NDctNDYwNy5qcGVn.jpeg" alt="Cover for 100 Miles &amp; Walk&#39;in" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-02-19</td>
-      <td>Rx Papi</td>
-      <td>100 Miles &amp; Walk&#39;in</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 2</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/xsb_cskc82Yfzaf2W37m4JB6nURrsvSJcNDgwmh-1gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODMz/MDYzLTE2OTIzNzEz/NDctNDYwNy5qcGVn.jpeg" alt="Cover for The Root Of All Evil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b5000614a49abb17df60bb0c44c1716.png" alt="Cover for The Root Of All Evil" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-02-19</td>
       <td>Rx Papi</td>
@@ -1575,6 +1578,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/925b923218c5e138bac2f1b0d256bdba.png" alt="Cover for Slitherman Activated" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-28</td>
       <td>RXKNephew</td>
@@ -1617,8 +1621,9 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3675a9a33837a9540c725316b3457485.png" alt="Cover for Continuous Improvement" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-08-12</td>
       <td>Papo2oo4</td>
@@ -1656,14 +1661,14 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 27</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/5v8f-KLCScQsMgeOOhUlRCcrmZnVOXeWnx9KAgXL5cM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI0/MTY4LTE2Mjk4NjQ4/NTYtMzY4NS5wbmc.jpeg" alt="Cover for install" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1607d2336b96088bcaf0614b8c1c3eda.png" alt="Cover for install" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-08</td>
       <td>xaviersobased</td>
@@ -1679,6 +1684,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 4</li>
             <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 76</li>
         </ul>
       </td>
@@ -1702,8 +1708,8 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 59</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 71</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 60</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 72</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 91</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 97</li>
         </ul>
@@ -1728,15 +1734,15 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 70</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 76</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 71</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 78</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 93</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/cmXdfG1_dnVZyxAuiEM363dxQBTqjL85Nrz767lKbsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU4/ODY4LTE2OTIzNzk3/ODMtNTIxOC5qcGVn.jpeg" alt="Cover for Foreign Exchange" style="max-width:120px; height:auto;" />
       </td>
@@ -1757,7 +1763,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       <td>
         <ul>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 18</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 32</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1780,14 +1786,14 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       <td>
         <ul>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 21</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 63</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 65</li>
             <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 81</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 88</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/L6VusPjOSz4qjcQU5fsRorvi913oUreoPVyS4TysbhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTkw/MTAxLTE2NDUwODMy/NjAtMzg2MC5qcGVn.jpeg" alt="Cover for Make Drunk Cool Again" style="max-width:120px; height:auto;" />
       </td>
@@ -1848,9 +1854,9 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 51</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 63</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 67</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 53</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1874,10 +1880,10 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 26</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 55</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 29</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 57</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 85</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 87</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 88</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 93</li>
         </ul>
       </td>
@@ -1901,15 +1907,15 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 28</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 49</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 27</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 52</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 65</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/wWbRA_QAuEyGqTVN3aLgMOuvyrAMpmZ7PtqqUtowItY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMy/NTM0LTE2NjgxOTQw/MzQtNjQzNC5qcGVn.jpeg" alt="Cover for Spirit Roaming" style="max-width:120px; height:auto;" />
       </td>
@@ -1924,11 +1930,12 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/jhN-3Kts28ExnZUfjraC8Goyr2ID3nP2h4lXM4aFupc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDkz/OTExLTE2NzEyOTk4/ODItNzkxMy5qcGVn.jpeg" alt="Cover for Club Godfather" style="max-width:120px; height:auto;" />
       </td>
@@ -1966,10 +1973,10 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 30</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 32</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 59</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 64</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 67</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -2010,7 +2017,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/-gzeLpOqdHuUgPIR11RGEMNvWyfIKgKXt4lzSJfwKpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTgx/NTMxLTE2ODQwMDgy/MTktNjY1My5qcGVn.jpeg" alt="Cover for Maps" style="max-width:120px; height:auto;" />
       </td>
@@ -2027,7 +2034,7 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 27</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -2071,9 +2078,9 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 28</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 30</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 58</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 68</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 87</li>
         </ul>
       </td>
@@ -2098,16 +2105,16 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 38</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 74</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 40</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 74</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 75</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 75</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 77</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -2126,13 +2133,14 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 39</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2beaf8b6ff534f683e4cabe46720799c.png" alt="Cover for Crack Therapy 3" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>RXKNephew</td>
@@ -2147,13 +2155,14 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 14</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c2d2301ef4d86de377b8b2fb210c81c.png" alt="Cover for Yamborghini High (feat. Juicy J)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>A$AP Mob</td>
@@ -2162,21 +2171,20 @@ East Coast hip hop, also known as East Coast rap, is a subgenre of hip hop music
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 87 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 69</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 84</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/303559464c066ba31a7a82068be0644a.png" alt="Cover for Shawty RXK Too 3" style="max-width:120px; height:auto;" />
       </td>
