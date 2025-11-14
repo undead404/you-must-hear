@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-10T02:56:14.799Z
+date: 2025-11-14T04:30:06.487Z
 permalink: tags/bossa-nova
 title: bossa nova
 ---
 
 ## bossa nova
 
-Last updated: <time datetime="2025-11-10T02:56:14.799Z">Mon Nov 10 2025 04:56:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T04:30:06.487Z">Fri Nov 14 2025 06:30:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
   </thead>
   <tbody>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>1958</td>
@@ -46,7 +46,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td>1959</td>
@@ -63,7 +63,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/RAUIoPUCkDlTOIRyhFkYxy0d8pXrHNT1TWyuhFTwb48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODE4/OS0xNTUxNTc1NDYw/LTgzMzkuanBlZw.jpeg" alt="Cover for Jazz Samba" style="max-width:120px; height:auto;" />
       </td>
@@ -82,7 +82,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>1963</td>
@@ -98,7 +98,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/CG_XRrJE8orrLX7ePPaN6N7suxgQ47OXRU061mR21RI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDI5/MjgtMTMxMzA2Mzg0/NC5wbmc.jpeg" alt="Cover for Bossa Antigua" style="max-width:120px; height:auto;" />
       </td>
@@ -134,12 +134,12 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       <td>
         <ul>
             <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 77</li>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 90</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>1965</td>
@@ -156,7 +156,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>1966</td>
@@ -175,7 +175,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>1966</td>
@@ -193,7 +193,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/l9Yw-SoaHGFAIn0Oj-ne3oKt70FLMUa6epYV-XXr1xQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTA5/NjEtMTQ4MzI3NDUz/Mi00NjA2LmpwZWc.jpeg" alt="Cover for Sinatra&#x2F;Jobim: The Complete Reprise Recordings" style="max-width:120px; height:auto;" />
       </td>
@@ -208,12 +208,12 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 39</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>1967</td>
@@ -232,7 +232,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/T_Yy2Qi6s6FEEEDpoY0VEzUWQRzH_tSECZxxjZ8dwUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDUx/ODctMTYwOTYwMjg3/MS04NjkwLmpwZWc.jpeg" alt="Cover for Nara" style="max-width:120px; height:auto;" />
       </td>
@@ -287,7 +287,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/fZd698j26QEdszl6PZ-YIF-AUQ5f87AN6WunDPceOso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjU4/MS0xNTk1ODA3Nzgw/LTc5MzcuanBlZw.jpeg" alt="Cover for Stone Flower" style="max-width:120px; height:auto;" />
       </td>
@@ -305,7 +305,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/zo2eoJZ7EjuWsuotVv6PtaHKuTkaNzVMktRa2v7vbRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTE2/ODQtMTMyNTIzOTEy/OC5qcGVn.jpeg" alt="Cover for João Gilberto" style="max-width:120px; height:auto;" />
       </td>
@@ -323,7 +323,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/fZd698j26QEdszl6PZ-YIF-AUQ5f87AN6WunDPceOso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjU4/MS0xNTk1ODA3Nzgw/LTc5MzcuanBlZw.jpeg" alt="Cover for Finest Hour" style="max-width:120px; height:auto;" />
       </td>
@@ -341,7 +341,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/-eR-_v-JGl9WZmWtpuPXRGtc6jXGeDHkETxc6rFOQBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzc3/MDAtMTQ4NzgxNDU5/MS0yOTE1LmpwZWc.jpeg" alt="Cover for Ela" style="max-width:120px; height:auto;" />
       </td>
@@ -359,9 +359,9 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/aTfgKUBQwNBd2HXFIU7PN6rK-2_v0swpCNCHhS9sBBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODk0/NjUtMTM2NzQ2MDI1/NC03NzkwLmpwZWc.jpeg" alt="Cover for Introspection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ff42fcc85d9afc12079aa663a1e41d4.png" alt="Cover for Introspection" style="max-width:120px; height:auto;" />
       </td>
       <td>1972-10</td>
       <td>Luiz Bonfá</td>
@@ -377,7 +377,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/aNMhLFWyXEky6-WvO2_FhMG_T9-og8HBAVF4mwi2Nik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDQ2/ODctMTQ2NTA2Mjkw/MC02MjI3LmpwZWc.jpeg" alt="Cover for Joao Gilberto" style="max-width:120px; height:auto;" />
       </td>
@@ -397,7 +397,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>1973</td>
@@ -414,7 +414,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/aNMhLFWyXEky6-WvO2_FhMG_T9-og8HBAVF4mwi2Nik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDQ2/ODctMTQ2NTA2Mjkw/MC02MjI3LmpwZWc.jpeg" alt="Cover for Getz&#x2F;Gilberto" style="max-width:120px; height:auto;" />
       </td>
@@ -433,7 +433,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/JE4doX59VYrSOzCvRMKFXfgykoXkNsgX_Z4DynLf_mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzEx/OTQ1LTE2MzE3MzQw/NjAtNDE0Ny5qcGVn.jpeg" alt="Cover for Little Pepper - The Definitive Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -447,7 +447,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 91</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -504,7 +504,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 81</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 82</li>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 93</li>
         </ul>
       </td>
@@ -527,14 +527,14 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 66</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 67</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 67</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 68</li>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/es7rAvaq2j6KRfPeYau--zPkSJx5qcYCoA25fiXQshk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTQx/ODQtMTM4NDMxMDM5/OS0xMTA0LmpwZWc.jpeg" alt="Cover for Inédito" style="max-width:120px; height:auto;" />
       </td>
@@ -585,7 +585,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 54</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -609,7 +609,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/b2XWLWCwVzm7jgSrJYaGs7Olzkgph_41-wY0fHUNBdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjM4/OTUtMTI5ODE1NTA1/MC5qcGVn.jpeg" alt="Cover for Justiça Social" style="max-width:120px; height:auto;" />
       </td>
@@ -631,7 +631,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       <td>
         <ul>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 38</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 59</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 60</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 81</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 82</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 82</li>
@@ -674,13 +674,13 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 71</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 72</li>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>1993-11-08</td>
@@ -698,7 +698,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>1994</td>
@@ -716,7 +716,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/eUmbUKYub4_FzHWTyPPUXx2J3LcFnkGD3ETeg6jSSxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDIw/NDk3LTE1MjY2OTQx/MjItNzgxMi5qcGVn.jpeg" alt="Cover for Getz&#x2F;Gilberto" style="max-width:120px; height:auto;" />
       </td>
@@ -735,7 +735,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/-lR9OswATgkPtWxjeUv49ycEwhADjrPQZaJhEfGz7XA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODUy/NzkwLTE1NjI1OTA4/ODItNTY5OC5qcGVn.jpeg" alt="Cover for Joao" style="max-width:120px; height:auto;" />
       </td>
@@ -753,7 +753,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/JO5Cpdod-jJ51PNjYAmU2_WrJO3s7GH_o4Q7uWqSHRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTgz/NjctMTI3MjgxMDI4/Ni5qcGVn.jpeg" alt="Cover for Prenda Minha" style="max-width:120px; height:auto;" />
       </td>
@@ -771,9 +771,9 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/jz0omMHv6IDrMJkBfyCktWNv3hIkSG7NVzFJHBYNehY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjQy/MjYtMTQ0MjczNDQ3/NC0zMjE5LmpwZWc.jpeg" alt="Cover for João Voz E Violão" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2167649b3ce4d531217ca27b44543029.png" alt="Cover for João Voz E Violão" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>João Gilberto</td>
@@ -789,7 +789,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/A11_vudNgOYIHAal_JZyVeHEVF0eHUdct2BcpXmyfx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTI3/MDUtMTQyNjcyNTUw/OC03NjgwLmpwZWc.jpeg" alt="Cover for CINCO" style="max-width:120px; height:auto;" />
       </td>
@@ -811,7 +811,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/uULbMGp-Ojj59unmO21349EvDTH-KrokT_N_4jJkKcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjc5/MTYtMTM2NDU5MjMz/NS03NTk2LmpwZWc.jpeg" alt="Cover for Composer of Black Orpheus Plays and Sings Bossa Nova" style="max-width:120px; height:auto;" />
       </td>
@@ -829,7 +829,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9314d73cd1b014b1c6bffb1000f69b28.png" alt="Cover for Tanto Tempo" style="max-width:120px; height:auto;" />
       </td>
@@ -847,7 +847,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>2000-10-16</td>
@@ -880,15 +880,15 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 48</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 86</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 50</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 87</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 95</li>
             <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2001</td>
@@ -918,12 +918,12 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 22</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2001-05-15</td>
@@ -940,7 +940,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e8644ab57ff21134465de60afdbdaad.png" alt="Cover for Tanto Tempo Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -980,7 +980,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/-8LUly1fUhvNNOKkWQXmkJOpru6SMnVNCdZVCVydBb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjIz/MjgtMTM5Mjk2NDE5/Mi04Mzc5LmpwZWc.jpeg" alt="Cover for Maricotinha Ao Vivo" style="max-width:120px; height:auto;" />
       </td>
@@ -1001,7 +1001,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/akYWArf3_2fKXZQ9nFpxa1uOJZWFblFthvJ9aRoYWd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzky/Mi0xMTMxMzQyNzYy/LmpwZWc.jpeg" alt="Cover for Natural" style="max-width:120px; height:auto;" />
       </td>
@@ -1019,7 +1019,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2004</td>
@@ -1039,7 +1039,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/060a0d9d9bb6321e37e61f96efcfec7c.png" alt="Cover for Djavan &quot;Ao Vivo&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -1062,9 +1062,9 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 47</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 48</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 65</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 69</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 71</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 81</li>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 82</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 96</li>
@@ -1072,7 +1072,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/agXbGJuNUGiPY5iCg4R24sSNpKb1DljcCedmhkAsdz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTcx/MTAtMTM1OTkwNTQy/Ni01ODMwLmpwZWc.jpeg" alt="Cover for Uma Batida Diferente" style="max-width:120px; height:auto;" />
       </td>
@@ -1090,7 +1090,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/WELW7M6a02DNKOqSZsagx-tRBClVsH1WXBP72cpkdns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTAw/MDYtMTM0Mjg2MjIw/My0xNjg4LmpwZWc.jpeg" alt="Cover for Cantiga de Longe" style="max-width:120px; height:auto;" />
       </td>
@@ -1124,12 +1124,12 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 94</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ac4d0986da44eb480ea89b465157c8d.png" alt="Cover for Bebel Gilberto" style="max-width:120px; height:auto;" />
       </td>
@@ -1148,7 +1148,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/wsh3igbdI7mh-p8DxBBcQ2qzLZCTA36J2cbeby3QilI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTI5/OC0xMjc5NTUwMzY0/LmpwZWc.jpeg" alt="Cover for Melancholisch Schon" style="max-width:120px; height:auto;" />
       </td>
@@ -1169,7 +1169,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6ef6cccf59243ada65fc7063dd4dd4a.png" alt="Cover for CéU" style="max-width:120px; height:auto;" />
       </td>
@@ -1190,7 +1190,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2005-02-22</td>
@@ -1208,7 +1208,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 2</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 4</li>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 57</li>
             <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 81</li>
             <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 100</li>
@@ -1231,7 +1231,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 9</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1250,6 +1250,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1271,15 +1272,16 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 67</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 68</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 68</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 69</li>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/926af06da38a4af0933bf5913e146e48.png" alt="Cover for Bande à Part" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06-12</td>
       <td>Nouvelle Vague</td>
@@ -1292,7 +1294,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 72</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1315,7 +1317,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/RdJB9y8t3cJZk0OGtrGmxW29KSi8vqpNGh68ePgeXss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjI4/NjctMTQxNDA5NjMx/MS00MDk3LmpwZWc.jpeg" alt="Cover for Carioca" style="max-width:120px; height:auto;" />
       </td>
@@ -1334,7 +1336,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19166eb4b39a4b05b8a94d29dbcf5b70.png" alt="Cover for Sim" style="max-width:120px; height:auto;" />
       </td>
@@ -1351,13 +1353,13 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       <td>
         <ul>
             <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 63</li>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 87</li>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 98</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 88</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>2007</td>
@@ -1371,14 +1373,14 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 55</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/dYM3rzsDWmKSBZhwE5Kw-86AeEW7WuYa6dVh-jZlmfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjQz/MDgtMTY2OTEzNzgw/My00MTgxLmpwZWc.jpeg" alt="Cover for América Brasil O Disco" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cccd5dbbbeca5469fecb2c169ecf433d.png" alt="Cover for América Brasil O Disco" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Seu Jorge</td>
@@ -1395,14 +1397,14 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 58</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 59</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 59</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 60</li>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/NTS7M2VyOqX_UTbeyqGOmjlThoAOGNQD271fVJzexzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDY1/MDctMTQ3NTI1MzE0/My03NTkwLmpwZWc.jpeg" alt="Cover for Day By Day" style="max-width:120px; height:auto;" />
       </td>
@@ -1420,7 +1422,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/nk-xGJrnuR1WfCNGhN7TYbXEuq5ff8-ppMFlft7o6vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDcy/MDctMTM2MjUwNjcy/Ny05MjQyLmpwZWc.jpeg" alt="Cover for Belo E Estranho Dia Pra Se Ter Alegria" style="max-width:120px; height:auto;" />
       </td>
@@ -1439,7 +1441,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>2007-02-12</td>
@@ -1456,7 +1458,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2007-03-16</td>
@@ -1493,8 +1495,8 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 57</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 58</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 58</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 59</li>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 85</li>
         </ul>
       </td>
@@ -1519,7 +1521,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2010</td>
@@ -1539,6 +1541,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba5a3178260febcc227b00614bd3bc82.png" alt="Cover for Canções de Apartamento" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Cícero</td>
@@ -1557,7 +1560,24 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2011</td>
+      <td>Carlos Lyra</td>
+      <td>Pure Bossa Nova</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/wZqZnkQPBcz5MblEpA3DUizoAVpSbVXN5NZPTt4pfes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzg3/NzEwLTE1MjE1NjIy/NTAtMTk1NC5qcGVn.jpeg" alt="Cover for Amore Mio Aiutami (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1576,14 +1596,14 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 33</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 61</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 34</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 62</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/bq3xbKjI3CRvovbq_GICSD0f3HvGLoNw4mKQ5N8QEfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTIw/NTctMTQ0NTEyODg5/OC0yNDA1LmpwZWc.jpeg" alt="Cover for Modern Times – Epilogue" style="max-width:120px; height:auto;" />
       </td>
@@ -1604,7 +1624,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>2014-03-11</td>
@@ -1618,7 +1638,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 1</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1662,7 +1682,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/VZsrLV5gjmBLQEjKxVxRgv-njcSSmFp-Kgs2qlxHDxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTg5/NTMtMTI1MzI2OTYz/Ni5qcGVn.jpeg" alt="Cover for Bossa Nova Soul Samba" style="max-width:120px; height:auto;" />
       </td>
@@ -1680,7 +1700,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbade6badaad92ba5870bede349c3fd4.png" alt="Cover for OO" style="max-width:120px; height:auto;" />
       </td>
@@ -1702,7 +1722,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/c-syHzGvff9_f13UsOA2dlJjuMol3NHbegUq5mxIbzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MzMy/MzMtMTQ2NzU5MDI4/NC0xNDM0LmpwZWc.jpeg" alt="Cover for Compact Jazz" style="max-width:120px; height:auto;" />
       </td>
@@ -1717,12 +1737,12 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 7</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3db0458c0d5f754e35059ac26ba3004.png" alt="Cover for Vérité" style="max-width:120px; height:auto;" />
       </td>
@@ -1741,12 +1761,12 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 39</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/hqIzwQGUoRBWfaILPpBRNWGvvqB0-MQt-GntJpKZ6VU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM0/NTg3LTE1NzI0NDYy/NzAtNDE1Ny5qcGVn.jpeg" alt="Cover for Little Electric Chicken Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1761,13 +1781,13 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 81</li>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 86</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 84</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ebd8b6f8ac6766fb26303245a265a2e.png" alt="Cover for Happier Than Ever" style="max-width:120px; height:auto;" />
       </td>
@@ -1783,9 +1803,9 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 17</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 46</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 52</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 23</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 53</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 59</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 99</li>
             <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 100</li>
         </ul>
@@ -1794,7 +1814,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/_LF_jhFz1KDmWb-qV0L4vPN8_Y7Tej-Fzd3T57JzxkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzUx/OTMyLTE2MzI0OTUy/NTItMjMzNi5qcGVn.jpeg" alt="Cover for Cure for Me (Acoustic)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca12c443d6857858bb8b6b34ea91656a.png" alt="Cover for Cure for Me (Acoustic)" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-08-06</td>
       <td>Aurora</td>
@@ -1807,11 +1827,12 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/jHAHkh3Or_Nh9vUgxRKp9W85iosHHcerol27c1g5m58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjYw/MTMyLTE2MzE4Mzg5/ODEtNDc2NC5qcGVn.jpeg" alt="Cover for Going Going Gone" style="max-width:120px; height:auto;" />
       </td>
@@ -1829,7 +1850,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/60169f6d194041abbb37537264929d63.png" alt="Cover for In the Meantime" style="max-width:120px; height:auto;" />
       </td>
@@ -1866,7 +1887,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc4202b19c488be8ca759874faa8548a.png" alt="Cover for Everything I Know About Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1879,11 +1900,13 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 87</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e73723f480e88719ea0293a86d499fd.png" alt="Cover for Silva Canta Marisa" style="max-width:120px; height:auto;" />
       </td>
@@ -1906,10 +1929,10 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 32</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 36</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 42</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 33</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 37</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 43</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 44</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 56</li>
         </ul>
       </td>
@@ -1957,32 +1980,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>70</td>
-      <td>
-          <img src="https://i.discogs.com/ju3WGu1OvM0l6EuIh5rPzR5s7pKMKOA99xy3ym8qMyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTY0/NDYzLTE3MTQ2NjU3/ODUtNTQxNy5qcGVn.jpeg" alt="Cover for Here In The Pitch" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024-05-03</td>
-      <td>Jessica Pratt</td>
-      <td>Here In The Pitch</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 55</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 66</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 80</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/gZP0zGxxdpYLQ20RAkLrt5pZS1cLoJ7kABBBZ5-a210/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzY0/NzY2LTE3MTY1MTU5/MjEtODE4NS5qcGVn.jpeg" alt="Cover for Flower of the soul" style="max-width:120px; height:auto;" />
       </td>
@@ -2000,7 +1998,7 @@ Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending s
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/28ed2311b6152b1c0952a930992e07d1.png" alt="Cover for Chega de Saudade" style="max-width:120px; height:auto;" />
       </td>

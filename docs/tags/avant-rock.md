@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T08:13:48.492Z
+date: 2025-11-14T04:31:53.118Z
 permalink: tags/avant-rock
 title: avant-rock
 ---
 
 ## avant-rock
 
-Last updated: <time datetime="2025-10-28T08:13:48.492Z">Tue Oct 28 2025 10:13:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T04:31:53.118Z">Fri Nov 14 2025 06:31:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/Nnn75B_q30MbNjcQ6O1Oq0bOQgQ9Xby0szALfIS-Qjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzY1/Ni0xNDA0NTUzNDMw/LTQzMjMuanBlZw.jpeg" alt="Cover for God Bless the Red Krayola and All Who Sail With It" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff5d38e11e6ea6d14b4f7b43d6591c5f.png" alt="Cover for God Bless the Red Krayola and All Who Sail With It" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>The Red Krayola</td>
@@ -48,7 +48,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>1977</td>
@@ -68,9 +68,8 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/SPAbZzVsXWIetOvPpFFh2dwTXb86V-EZcWTzkYu9PTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjQx/MTItMTQ4NTA4NzQ5/Ny02MTA1LmpwZWc.jpeg" alt="Cover for Meat Light: The Uncle Meat Project&#x2F;Object" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Frank Zappa</td>
@@ -108,8 +107,9 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e27ee78af83c50ce57fb163f49371a7f.png" alt="Cover for Deceit" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>This Heat</td>
@@ -123,12 +123,12 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 66</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 68</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/IAR0ycNtTj8JHf0Y6LLZxztyofUcpUNGr7cWjY6pimk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MzU2/NTktMTQ2NzY0OTk4/My04OTcxLmpwZWc.jpeg" alt="Cover for London Symphony Orchestra" style="max-width:120px; height:auto;" />
       </td>
@@ -148,7 +148,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5676e5dd25840428c9784b49d538de1.png" alt="Cover for Odyshape" style="max-width:120px; height:auto;" />
       </td>
@@ -162,12 +162,12 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 2</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/OhuROzwBq_lVxY_crkTMFq9ypYwRzCIH3rwNIox0a7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzc0/NTgtMTQ2NzI4NzYy/OC0yODA2LmpwZWc.jpeg" alt="Cover for ...A Thinking Plague" style="max-width:120px; height:auto;" />
       </td>
@@ -187,7 +187,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/M-5b5Zvgyd1hBn-75qeLIkod2I5HMGvX_kFhRs78ql8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDMw/MjM2LTE2NTQwODQ1/MjYtMTk2Mi5qcGVn.jpeg" alt="Cover for London Symphony Orchestra Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -206,7 +206,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/2JGumryHcgdfG_37tGls7nNNeVhT-7QIZOt7ITbcM34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDYy/OC0xNjc1MjU4MjQ2/LTU4ODMuanBlZw.jpeg" alt="Cover for Learn to Talk" style="max-width:120px; height:auto;" />
       </td>
@@ -229,7 +229,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>1984</td>
@@ -266,7 +266,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/9puHag5cqRWWoEHjl9_DgN9Eir-_m2A59Ek0OOfmZ6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTY2/Mi0xMzg2OTMxNjAx/LTY2NDkuanBlZw.jpeg" alt="Cover for Moonsongs" style="max-width:120px; height:auto;" />
       </td>
@@ -280,7 +280,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 1</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -307,7 +307,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>1987</td>
@@ -328,7 +328,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>1987-11-04</td>
@@ -347,7 +347,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td>1988-11-11</td>
@@ -364,9 +364,9 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/XKdLEWecHeQjCPeEPws07HfcEu-Nd8kfDMzLNgXNY5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjk2/NS0xMzY4MjE1OTQ1/LTcyNjcuanBlZw.jpeg" alt="Cover for kansas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89de68a474c350f2ff6ebde9627fda2d.png" alt="Cover for kansas" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>The Wolfgang Press</td>
@@ -467,7 +467,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/Oi42MnHD4QQ-0aR6ABCZUIHt7qyVeDRFYRvG_qD2-RM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODAx/ODUtMTYyNzg5NjU1/My05MTg0LmpwZWc.jpeg" alt="Cover for London Symphony Orchestra, Vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecee7f048ec443df89a98088f3772290.png" alt="Cover for London Symphony Orchestra, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Frank Zappa</td>
@@ -521,7 +521,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 43</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -542,12 +542,12 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 19</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/iAk1e4_9m2KXYk150hZf7QVXzZe4qB8mxkbjqd_DnoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTEx/NDYtMTMwNjg3OTEw/Ni5qcGVn.jpeg" alt="Cover for the owls and eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -589,7 +589,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/sN5gBLODJWpJWVgUPLU693ULhj4AO987dFw4nWhNLxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODg5/NS0xMzQ0NjM5OTM5/LTU2ODQuanBlZw.jpeg" alt="Cover for The Luv Show" style="max-width:120px; height:auto;" />
       </td>
@@ -607,7 +607,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td>1996</td>
@@ -641,7 +641,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/EoTmDERxuCNvzull0DoywBLdh0N6wSJx0se4l9Ho1XE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTI1/NjktMTI2MTYwOTM4/Ni5qcGVn.jpeg" alt="Cover for Erewhon" style="max-width:120px; height:auto;" />
       </td>
@@ -659,7 +659,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8916656167648a1b7a1d2e109a6066e.png" alt="Cover for Revenge" style="max-width:120px; height:auto;" />
       </td>
@@ -677,7 +677,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/IkOpdSngzCZZmu1TMeUaQ1D3nAKtEUtwUkj7K_68b4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njcx/OTItMTIzNjY5MTQ5/MS5qcGVn.jpeg" alt="Cover for Sinus" style="max-width:120px; height:auto;" />
       </td>
@@ -715,8 +715,8 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 32</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 54</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 33</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 52</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 55</li>
             <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 60</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 76</li>
@@ -724,25 +724,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>63</td>
-      <td>
-          <img src="https://i.discogs.com/OVwpwyUGW97InVRpIx6WGl9UJBS2t-FfmOvGaOLdiZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTM4/My0xNDkzODYwNTEy/LTE0MjEuanBlZw.jpeg" alt="Cover for Mark Hollis" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998-02-02</td>
-      <td>Mark Hollis</td>
-      <td>Mark Hollis</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>1999</td>
@@ -759,7 +741,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>1999-02</td>
@@ -806,8 +788,9 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3dfc58a015e6efe0a3fa8e0e5faff83.png" alt="Cover for Early Plague Years" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Thinking Plague</td>
@@ -847,9 +830,9 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
-          <img src="https://i.discogs.com/RcsjhiBRo7a9w0tRQ9rFk_eF5s9E8XGy3TlC-zgQ5i8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDg5/MC0xNjUxNTgxOTYx/LTQzMzYuanBlZw.jpeg" alt="Cover for Tanz der Lemminge [2002 Reissue]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fdc2d2bb2d644789fe0a6e1fcb26c8f.png" alt="Cover for Tanz der Lemminge [2002 Reissue]" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Amon Düül II</td>
@@ -868,7 +851,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>2002</td>
@@ -884,7 +867,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 7</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -927,7 +910,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/eP6uk_mLz5hngPYWdUwC4byvgmHmlRRXPOanRG4m-MQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMw/MDgtMTIyNjU3MDc1/MC5qcGVn.jpeg" alt="Cover for 18 Monkeys On A Dead Man&#39;s Chest" style="max-width:120px; height:auto;" />
       </td>
@@ -948,7 +931,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/ztTrBQESxA5lLv6azafPhzwY7OFhAVP0KozCwDJYll0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTUx/OC0xMzE3MjMwNjgz/LmpwZWc.jpeg" alt="Cover for Another Time Ep" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6798c3f2cd64428e9870e1370a21369f.png" alt="Cover for Another Time Ep" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-06-09</td>
       <td>A Beautiful Machine</td>
@@ -968,7 +951,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 14</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 15</li>
             <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 94</li>
         </ul>
       </td>
@@ -994,7 +977,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>2005</td>
@@ -1029,7 +1012,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2006-04</td>
@@ -1067,8 +1050,9 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5370c1dbdbd040f937a285861ae6d286.png" alt="Cover for Honey Slides" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Adam Gnade &amp; Youthmovies</td>
@@ -1089,7 +1073,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/09z3mws6ehQY1bUdzwsU6SQ67s5KBcDecop3r7zWfrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI3/NTEtMTU0ODEzODY4/Ni02NTY0LmpwZWc.jpeg" alt="Cover for Famous Asthma" style="max-width:120px; height:auto;" />
       </td>
@@ -1165,12 +1149,12 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 50</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/taJ8eIsTlbohZKG-PAFdPsqtSVamffTfxPcS_v73lEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODIw/MTMtMTI5MTU3MTcx/Mi5qcGVn.jpeg" alt="Cover for Misbegotten Man" style="max-width:120px; height:auto;" />
       </td>
@@ -1189,7 +1173,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/sLcKNECOAQeYaHvGhGrpx-vateXrhUbxZ00YmR1zWEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI5/OTQtMTI3ODk3Njgw/Ny5wbmc.jpeg" alt="Cover for Ego-God" style="max-width:120px; height:auto;" />
       </td>
@@ -1211,7 +1195,26 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/UFw5UI2FRW_qCILaW1Y1SvFC2gRSZzEi6A9XbKF59Ko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODIx/ODYtMTMyODIwNzg4/OC5qcGVn.jpeg" alt="Cover for Hit the Fractal Road" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Molloy and his bike</td>
+      <td>Hit the Fractal Road</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/cwaiw6tDn3zLe0vRMf6rzwKvr4Aa0yq_xgVVBRfFwMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODIy/OTEtMTM2MDYwNzQ2/My05NzI2LmpwZWc.jpeg" alt="Cover for Univers Zero" style="max-width:120px; height:auto;" />
       </td>
@@ -1229,7 +1232,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/liVUoN-zLlkGiq1UpCvCWfLVRHclC5zwpSs7U-GS5Zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTUz/NDEwLTE1MDcxMjE3/NDYtNDMzNy5qcGVn.jpeg" alt="Cover for Cracking The Whip" style="max-width:120px; height:auto;" />
       </td>
@@ -1288,6 +1291,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/029299e78be8dfbb1d8749323059fdf3.png" alt="Cover for Blue Lambency Downward" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-06</td>
       <td>Kayo Dot</td>
@@ -1304,7 +1308,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td>2008-05-24</td>
@@ -1348,7 +1352,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/13hO-hWogkvtkel9-vsTO7Ds_gXNe0PoVEoH5lBgjcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDgx/NTItMTI1NDM2MTMx/MC5qcGVn.jpeg" alt="Cover for 104.6 WTEL" style="max-width:120px; height:auto;" />
       </td>
@@ -1389,7 +1393,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/Qlcx_CmcaJNwUGSVuR7pwbOzE6KdD2e0PaISJ4arBuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDEy/NDMtMTQzODk3MTYz/NS01ODc0LmpwZWc.jpeg" alt="Cover for Meat Light: The Uncle Meat Project &#x2F; Object" style="max-width:120px; height:auto;" />
       </td>
@@ -1432,9 +1436,9 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/EBzBGl0kqP3LPTlP1Lp3KwHUiU5iFM0SH_G7VkwgrKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzU3/MzgtMTQ4MTIzMzM0/MC03MDk5LmpwZWc.jpeg" alt="Cover for Part the Second" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84938908fad3148fe2a51058d8391528.png" alt="Cover for Part the Second" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-14</td>
       <td>maudlin of the Well</td>
@@ -1447,11 +1451,12 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/ZBab7JClFdEFmwAe5P0ZJX7RemAig4tMQMlcwfvVVvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDgx/NTktMTI1NDM2MjQz/NS5naWY.jpeg" alt="Cover for Infinite" style="max-width:120px; height:auto;" />
       </td>
@@ -1479,7 +1484,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/EoMjdOm8agaOPVpEJ3Ggz_8ckU28Yc5frqZrPmwTJJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM0/NjYtMTI5NTExMDA5/NS5qcGVn.jpeg" alt="Cover for The Modular Explanation" style="max-width:120px; height:auto;" />
       </td>
@@ -1503,7 +1508,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/xs6RfgGusi_N2hdRPtJXOuCUOMSs_dYlSdS3fTqa7nQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/NjQtMTI1MzQ1MDEz/Mi5qcGVn.jpeg" alt="Cover for Slow Country for Old Men" style="max-width:120px; height:auto;" />
       </td>
@@ -1524,9 +1529,8 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/oVr5F3S9aOeMyaNKIF03juKgDmyNfXuHAJeJ_bpHM00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzUz/OTAtMTI1NjEzNzI5/MC5qcGVn.jpeg" alt="Cover for ca119 - Magical Unicellular Music - Monospring" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-07</td>
       <td>Magical Unicellular Music</td>
@@ -1550,7 +1554,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/BDwC61xiK_dsxq6FB7n7NHsqPtV0O5mUlKyv_3-CCn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjMx/ODAtMTMwNzQ3NjYy/MC5qcGVn.jpeg" alt="Cover for &amp; New Past Tense" style="max-width:120px; height:auto;" />
       </td>
@@ -1579,7 +1583,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/VF2_cWNmPPlfQZXwSy-tsnXdMelxNyC0Kd9SIsH4ToI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTY0/MzMtMTM5NTI2MzI3/Ni00NjY5LmpwZWc.jpeg" alt="Cover for Amnemonic" style="max-width:120px; height:auto;" />
       </td>
@@ -1598,7 +1602,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/CmtpvPX_-lQdxjB3i7qPr_r0xIRBnDWnYIlqUfn_tKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTI4/OTAtMTI4OTM0NzA0/Mi5qcGVn.jpeg" alt="Cover for Universal Sprache" style="max-width:120px; height:auto;" />
       </td>
@@ -1633,7 +1637,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa9c4a8bbdcb46e1b26fe09fee1c8c2c.png" alt="Cover for 12&#x2F;31&#x2F;09 40 Watt Club - Athens, GA" style="max-width:120px; height:auto;" />
       </td>
@@ -1651,7 +1655,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/fmaVgi1e20Nldlpgtz-vTUh8jiwaQqAKdKRqTJj2fpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODAx/NDgtMTMwMDcwODI0/NC5qcGVn.jpeg" alt="Cover for Invisible Bells" style="max-width:120px; height:auto;" />
       </td>
@@ -1676,7 +1680,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>2011-05-15</td>
@@ -1730,7 +1734,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/cexxnKCtUfoevOQHt0MsmqkkUNC0sASvZjXHB7rdZyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjg0/MzMtMTU4MDg4NjI4/Mi04NjEwLmpwZWc.jpeg" alt="Cover for SWAPS" style="max-width:120px; height:auto;" />
       </td>
@@ -1750,7 +1754,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/gMNu69KEmHSkesr2KZhssnZiRD5D3kxIf7xgop5Lgc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjk4/NzctMTM1NDIxMzAw/My03NjE5LmpwZWc.jpeg" alt="Cover for No Fiction Now!" style="max-width:120px; height:auto;" />
       </td>
@@ -1777,7 +1781,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/zO1P8M2Sw9jLe9oVp1daZkXyorKI8Siz8YHH0AKktxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTEy/OTktMTQ2MDcxNjk3/MS02NjM5LmpwZWc.jpeg" alt="Cover for Untitled" style="max-width:120px; height:auto;" />
       </td>
@@ -1813,9 +1817,8 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/ayVtDz2RwJx1ckyXrg8ermTcsxZP0mJ_K_vCjc2jut0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTY4/MzYtMTMzMTEwODE0/MS5qcGVn.jpeg" alt="Cover for Static Raw Power Kraut (demo)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-07</td>
       <td>Hisko Detria</td>
@@ -1841,9 +1844,8 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/q2Jkn2PH5VPJMuVRgOP35PNMpEEFsIXisJ92Ee32Hp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTY1/MTMtMTM0MTUxNzU0/OS0xODkxLmpwZWc.jpeg" alt="Cover for Amur" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-04</td>
       <td>taras bul&#39;ba</td>
@@ -1870,7 +1872,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/066f1cbeed0f4cc18dc25041135a9ac2.png" alt="Cover for Oracle" style="max-width:120px; height:auto;" />
       </td>
@@ -1893,7 +1895,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>2013-02-27</td>
@@ -1926,7 +1928,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/7cvHpGOQS9fYbOw9fMfsGsKi6YxOGxeFryfCQeysznI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzY2/NDctMTM3MTkxODc4/NC05ODIxLmpwZWc.jpeg" alt="Cover for beko_21" style="max-width:120px; height:auto;" />
       </td>
@@ -1947,7 +1949,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 4</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 6</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 7</li>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 49</li>
         </ul>
@@ -1956,7 +1958,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/V7g70on7bB-wzRprScRUXi6nXshfWAMDAj_lMFdpuL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDU4/ODAtMTM3NjA4MzMx/MS01NTEwLmpwZWc.jpeg" alt="Cover for To The Happy Few" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7764b3d45394ebfb0cdf3d4913367bd.png" alt="Cover for To The Happy Few" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-06</td>
       <td>Medicine</td>
@@ -2052,9 +2054,9 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/NsgXFoP_Vi8QyYS0qPJXHsAjiCI-HH9ALvGJDtlRbqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTgx/MzUtMTQ1NTk2NzIw/OC05NzkyLmpwZWc.jpeg" alt="Cover for hh" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a722ce42a47dab9a3d5b9ed51eb9ccd.png" alt="Cover for hh" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-22</td>
       <td>Jakob Juhkam</td>
@@ -2082,7 +2084,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/RUVbMFAykrZ5IhGRw99gQ8Gst48wf7aZl48i5YyhHZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NzEzLTE1MzQ5NzU0/ODMtMTA3OC5qcGVn.jpeg" alt="Cover for Live In Krefeld" style="max-width:120px; height:auto;" />
       </td>
@@ -2103,9 +2105,9 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/62mZfXPtet6APX9w2LbpZdoG4f_FPKa0wSzJX63lsj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODI4/MDUxLTE1OTg1NDQ5/NDYtNjY4Ny5qcGVn.jpeg" alt="Cover for A alma" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31c0b186e028dcd29074051067d3fab9.png" alt="Cover for A alma" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-12-13</td>
       <td>Ataque Escampe</td>
@@ -2130,7 +2132,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/c3an30fnwERAI60xG3DxdhPt0n9ETeFmEe97ns1hvMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTUw/NjA5LTE2NzYwNDU4/MDMtNzk2OS5wbmc.jpeg" alt="Cover for The Decriminalization Of Country Music" style="max-width:120px; height:auto;" />
       </td>
@@ -2153,7 +2155,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -2175,7 +2177,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>

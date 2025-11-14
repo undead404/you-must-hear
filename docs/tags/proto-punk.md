@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-10T04:53:29.140Z
+date: 2025-11-14T04:30:38.166Z
 permalink: tags/proto-punk
 title: proto-punk
 ---
 
 ## proto-punk
 
-Last updated: <time datetime="2025-11-10T04:53:29.140Z">Mon Nov 10 2025 06:53:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T04:30:38.166Z">Fri Nov 14 2025 06:30:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 64</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -86,7 +86,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 23</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -126,7 +126,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3543d351b716462487954921490d0484.png" alt="Cover for Quick One" style="max-width:120px; height:auto;" />
       </td>
@@ -139,7 +139,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 91</li>
+            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -161,7 +161,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 17</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -181,7 +181,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       <td>
         <ul>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 40</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 90</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -221,6 +221,23 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>1969-03</td>
+      <td>The Velvet Underground</td>
+      <td>The Velvet Underground</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2997007d858d444092b77b0a1d2882f1.png" alt="Cover for The Stooges" style="max-width:120px; height:auto;" />
@@ -235,7 +252,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 76</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -318,7 +335,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/_axvDrjcJAzzu7Ps7sSWPmux0n0OWkePFgyV2Jf0FKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MzI3/OTgtMTQ4MjIxODU3/NC02NjQxLmpwZWc.jpeg" alt="Cover for Stay With Me: The Faces Anthology" style="max-width:120px; height:auto;" />
       </td>
@@ -373,7 +390,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>1972</td>
@@ -395,6 +412,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c17bf6341d684c46cc293e2a18a0cf2f.png" alt="Cover for Squeeze" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>The Velvet Underground</td>
@@ -414,6 +432,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebdf8435a761cc37c452fd41a6ce4f76.png" alt="Cover for Approximately Infinite Universe" style="max-width:120px; height:auto;" />
       </td>
       <td>1973-01-08</td>
       <td>Yoko Ono</td>
@@ -450,7 +469,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 65</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 66</li>
             <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 86</li>
         </ul>
       </td>
@@ -476,6 +495,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 2</li>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 87</li>
         </ul>
       </td>
@@ -498,7 +518,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>1975</td>
@@ -589,7 +609,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d36a4769bb1b4063974ead028691675d.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -607,7 +627,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 62</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -635,6 +655,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b39580d8ee00477bcb443bafeb74f25.png" alt="Cover for The Modern Lovers" style="max-width:120px; height:auto;" />
       </td>
       <td>1976-08</td>
       <td>The Modern Lovers</td>
@@ -664,15 +685,15 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 37</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 78</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 47</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/GoDxTsLGtQfGeGP_yklbY8IN_MNMl5QJdt4yn59K6Zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzE2/OTQtMTU2OTc4NTAz/My0yOTU2LmpwZWc.jpeg" alt="Cover for Blank Generation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0040fc49f892da48fb74383b041df774.png" alt="Cover for Blank Generation" style="max-width:120px; height:auto;" />
       </td>
       <td>1977-10-21</td>
       <td>Richard Hell and the Voidoids</td>
@@ -707,24 +728,6 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/136d6474b5a36d61c4be750a096a4925.png" alt="Cover for Adventure" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1978-04</td>
-      <td>Television</td>
-      <td>Adventure</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a567c450ae82c6863d867f2cbf09dbb.png" alt="Cover for So Alone" style="max-width:120px; height:auto;" />
@@ -742,7 +745,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>1979</td>
@@ -759,7 +762,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/CIfl4nlBYS_EB0r2Flx9okV13v5VNud169r_nVRQ3uU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU0/OTQ5LTE1NDEzMzI5/NzEtMjczMy5qcGVn.jpeg" alt="Cover for Roadrunner: The Beserkley Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -810,15 +813,15 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 28</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 91</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 39</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 93</li>
             <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 97</li>
             <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/SdfN3zaPQSnx8tPf1JabonKiQx971j_NCq4Pqp33_Bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDEy/OC0xNDUzNDAxMTE2/LTY0NDkuanBlZw.jpeg" alt="Cover for White Light&#x2F;White Heat (45th Anniversary Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -945,12 +948,12 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 19</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>1986</td>
@@ -1025,7 +1028,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/Nnn75B_q30MbNjcQ6O1Oq0bOQgQ9Xby0szALfIS-Qjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzY1/Ni0xNDA0NTUzNDMw/LTQzMjMuanBlZw.jpeg" alt="Cover for God Bless the Red Krayola and All Who Sail With It (2011 Sonic Boom Remaster)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b13893c2fc72f8b72f9609c2fa3046e.png" alt="Cover for God Bless the Red Krayola and All Who Sail With It (2011 Sonic Boom Remaster)" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>The Red Krayola</td>
@@ -1061,7 +1064,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/5lPOhsG4TaKEbhnQaXuKJ4wuIESw4FUnwT1x7lY0rYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTQ3/NjMtMTQ1NTQwNzM2/Mi00MDEzLmpwZWc.jpeg" alt="Cover for Precise Modern Lovers Order" style="max-width:120px; height:auto;" />
       </td>
@@ -1135,7 +1138,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 8</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1174,11 +1177,12 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/dwTyt0ECWw6W-CslBw6QrOwJUGZJFsYyAN92xx5DFZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE2/NDItMTY5NTE4ODE1/My01Mjk4LmpwZWc.jpeg" alt="Cover for 67-69 Studio Et Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1451,6 +1455,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f54081fe37042c1904b81b0fc73b7f1.png" alt="Cover for The Very Best Of The Velvet Underground" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>The Velvet Underground</td>
@@ -1538,7 +1543,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/sbPzJcyAM5boygmKfptL0mjQevQwmTv6kLkhTYL1Ds4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzkz/OTYtMTIzNjQzNDYx/Ny5qcGVn.jpeg" alt="Cover for FUGITIVES FROM THE LAUGHING HOUSE (Tarock)" style="max-width:120px; height:auto;" />
       </td>
@@ -1620,7 +1625,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/uDrOkpTJ5oWtcSkv3J7BjYunU2QWVPACTNQeEr6C_4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzUx/NDctMTMxMjcxMjIz/OC5qcGVn.jpeg" alt="Cover for Lipstick Killers" style="max-width:120px; height:auto;" />
       </td>
@@ -1636,7 +1641,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 75</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1679,6 +1684,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f24e89827b04a4eb9d6ec1cc2014d62.png" alt="Cover for ...For the Whole World To See" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-17</td>
       <td>Death</td>
@@ -1715,6 +1721,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ffa6e173fb1823667108c6521f61878.png" alt="Cover for The Stooges (50th Anniversary Deluxe Edition) [2019 Remaster]" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>The Stooges</td>
@@ -1772,6 +1779,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbe42205bc0f818e681548330eea29d4.png" alt="Cover for Outside Society" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-12</td>
       <td>Patti Smith</td>
@@ -1791,7 +1799,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2012</td>
@@ -1812,7 +1820,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2012</td>
@@ -1829,7 +1837,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/Tnk4G25JPVOZBJjSTBUVBfQlJ3aYKrQ1KnRfb-SBbWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTM2/NzItMTM5ODAwNTU0/NC00MjQ4LmpwZWc.jpeg" alt="Cover for III" style="max-width:120px; height:auto;" />
       </td>
@@ -1849,6 +1857,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/268e82ec2b354bb5cb22a89243acf196.png" alt="Cover for The Anthology 1964 - 1971" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-14</td>
       <td>The Kinks</td>
@@ -1864,7 +1873,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 74</li>
+            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1886,7 +1895,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/dwTyt0ECWw6W-CslBw6QrOwJUGZJFsYyAN92xx5DFZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE2/NDItMTY5NTE4ODE1/My01Mjk4LmpwZWc.jpeg" alt="Cover for 67-69 Studio et Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1927,7 +1936,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>

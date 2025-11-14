@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T21:05:59.005Z
+date: 2025-11-14T04:32:20.892Z
 permalink: tags/indietronica
 title: indietronica
 ---
 
 ## indietronica
 
-Last updated: <time datetime="2025-11-11T21:05:59.005Z">Tue Nov 11 2025 23:05:59 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T04:32:20.892Z">Fri Nov 14 2025 06:32:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,14 +45,14 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 25</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 26</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 27</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 28</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 53</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 32</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 55</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 64</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 87</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 95</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 95</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -73,12 +73,12 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       <td>
         <ul>
             <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 41</li>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 75</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9c4b1bfabf158dbc2d264111f6c1324.png" alt="Cover for Turning Into Small" style="max-width:120px; height:auto;" />
       </td>
@@ -98,14 +98,14 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 24</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 25</li>
             <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 82</li>
             <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bb9f84745b8cc379be1ccb1529cf1dd.png" alt="Cover for Tridecoder" style="max-width:120px; height:auto;" />
       </td>
@@ -154,8 +154,8 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 39</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 70</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 40</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -200,7 +200,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ee2ef8052b7931d6346fc1ba14a0f13.png" alt="Cover for HIGHVISION" style="max-width:120px; height:auto;" />
       </td>
@@ -219,7 +219,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/389d32ab089b72c3f9aee307664b1919.png" alt="Cover for No P. or D." style="max-width:120px; height:auto;" />
       </td>
@@ -255,10 +255,10 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       <td>
         <ul>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 3</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 6</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 39</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 9</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 45</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 69</li>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 73</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 77</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 82</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 98</li>
         </ul>
@@ -316,8 +316,8 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 6</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 59</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 7</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -360,7 +360,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c9180b2238747418f3feef56647d5a7.png" alt="Cover for Twinkle Echo" style="max-width:120px; height:auto;" />
       </td>
@@ -397,7 +397,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb3e5d391cbc42adab0badaec32d8ce5.png" alt="Cover for Daft Punk Is Playing At My House" style="max-width:120px; height:auto;" />
       </td>
@@ -440,7 +440,26 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 59</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/824df6bad69f6f1bd74deb9c093d92d0.png" alt="Cover for LCD Soundsystem" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-01-19</td>
+      <td>LCD Soundsystem</td>
+      <td>LCD Soundsystem</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 24</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -481,14 +500,14 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 43</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 48</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 53</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 47</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 52</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 54</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 54</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 60</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 61</li>
             <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 66</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 89</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -530,7 +549,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf745e355283b718ba67fd191d050654.png" alt="Cover for Chunk of Change" style="max-width:120px; height:auto;" />
       </td>
@@ -544,7 +563,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 52</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -566,8 +585,8 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 94</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 94</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -629,7 +648,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07ea643ed3e2407a8766d1cba356483b.png" alt="Cover for Fantasy Black Channel" style="max-width:120px; height:auto;" />
       </td>
@@ -644,7 +663,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 37</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 42</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 83</li>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 92</li>
         </ul>
@@ -686,7 +705,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 29</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -722,7 +741,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 15</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 19</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 45</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 77</li>
         </ul>
@@ -781,8 +800,8 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 79</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 86</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 80</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -803,7 +822,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       <td>
         <ul>
             <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 27</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 41</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 42</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 73</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 80</li>
             <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 88</li>
@@ -811,7 +830,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2010-09-20</td>
@@ -826,7 +845,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 5</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -887,8 +906,8 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 9</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 71</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 10</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -907,8 +926,8 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 17</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 43</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 19</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -952,6 +971,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -972,12 +992,12 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 52</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/94cfdb5f36a7f935b6837f5fe8840ed6.png" alt="Cover for Visions" style="max-width:120px; height:auto;" />
       </td>
@@ -990,7 +1010,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 3</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 4</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 23</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 74</li>
         </ul>
@@ -1012,9 +1032,9 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 9</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 36</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 80</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 10</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 40</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1033,7 +1053,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 20</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1054,32 +1074,10 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 22</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 24</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 74</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 80</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 25</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 75</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 81</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>16</td>
-      <td>
-          <img src="https://i.discogs.com/fxGI-nOnPZOSLiB8kse4Er6VWEYpA7oCCsGM7YU9ucw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTMy/MjgtMTM3ODY3MjU4/Mi02MjI4LmpwZWc.jpeg" alt="Cover for still bummed" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013</td>
-      <td>Nouns</td>
-      <td>still bummed</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 34</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 84</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1107,6 +1105,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/313a14050901457ca73af753b951d7b7.png" alt="Cover for Untogether" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-05</td>
       <td>Blue Hawaii</td>
@@ -1119,7 +1118,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 70</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1157,8 +1156,8 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 15</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 41</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 22</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1180,7 +1179,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 55</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 57</li>
             <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 96</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 98</li>
         </ul>
@@ -1222,8 +1221,8 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 25</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 27</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 26</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 28</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 100</li>
         </ul>
       </td>
@@ -1307,9 +1306,9 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
         <ul>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 21</li>
             <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 32</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 51</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 58</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 63</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 52</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 59</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 65</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 87</li>
         </ul>
       </td>
@@ -1413,7 +1412,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b88ff454ba525999cba9c85ed7871e4.png" alt="Cover for Vikings" style="max-width:120px; height:auto;" />
       </td>
@@ -1453,7 +1452,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 49</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 53</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 81</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 92</li>
         </ul>
@@ -1496,14 +1495,14 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 18</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 64</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 23</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 65</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/d_aMmWJ-Hi2_sjvGEJpOz_sRtr-zVJG7JFxP1U8r868/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5OTM1/MTgtMTQ4OTgzMzEw/Mi0xMDU5LmpwZWc.jpeg" alt="Cover for The Shapes" style="max-width:120px; height:auto;" />
       </td>
@@ -1531,6 +1530,23 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6259a0d6ec6bfcb4c6cda530ae90231.png" alt="Cover for RELAXER" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-06-02</td>
+      <td>alt-J</td>
+      <td>RELAXER</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -1578,16 +1594,17 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 7</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 1</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 8</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 77</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 82</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 87</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 86</li>
             <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/28700d076e5afb3bc0fba47ab8e71975.png" alt="Cover for Little Dark Age" style="max-width:120px; height:auto;" />
       </td>
@@ -1601,7 +1618,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 63</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 66</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 67</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 75</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 94</li>
@@ -1628,9 +1645,9 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 2</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 37</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 39</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 43</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 67</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 68</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 81</li>
         </ul>
       </td>
@@ -1690,8 +1707,8 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 18</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 26</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 19</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1712,11 +1729,11 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 19</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 36</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 63</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 64</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 70</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 21</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 41</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 63</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 69</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1738,8 +1755,8 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 5</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 17</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 6</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 18</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 75</li>
         </ul>
       </td>
@@ -1791,11 +1808,11 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       <td>
         <ul>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 25</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 34</li>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 50</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 61</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 38</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 57</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 62</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 73</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 93</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1822,7 +1839,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       <td>
         <ul>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 45</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 81</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 84</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 87</li>
             <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 91</li>
         </ul>
@@ -1846,7 +1863,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 17</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1875,40 +1892,10 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 62</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 63</li>
             <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 83</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 89</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 95</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>
-          <img src="https://i.discogs.com/MuGTdY6hIWammJ390FmQDpMH9m5f0iGH6OtlehjwkUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODE5/MzUwLTE2MzU4MjY0/NDAtMjE3NC5qcGVn.jpeg" alt="Cover for STOMACH BOOK" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-10-08</td>
-      <td>STOMACH BOOK</td>
-      <td>STOMACH BOOK</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 46</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 54</li>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 56</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 91</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1968,7 +1955,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 84</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1991,7 +1978,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
         <ul>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 37</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 52</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 65</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 69</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 87</li>
         </ul>
       </td>
@@ -2013,7 +2000,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       <td>
         <ul>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 39</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 40</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -2037,7 +2024,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec309c10688c2710df7ff217d61f7ff8.png" alt="Cover for rock candy" style="max-width:120px; height:auto;" />
       </td>
@@ -2071,7 +2058,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 55</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -2091,7 +2078,7 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 79</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2111,13 +2098,13 @@ Indietronica (also known as indie electronic or electro-indie) is a genre of mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 23</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 43</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 64</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 74</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 88</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 94</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 99</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 92</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 96</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 99</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 99</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 100</li>
         </ul>
       </td>
