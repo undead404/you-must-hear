@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-14T10:20:49.663Z
+date: 2025-11-14T10:22:10.058Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-14T10:20:49.663Z">Fri Nov 14 2025 12:20:49 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T10:22:10.058Z">Fri Nov 14 2025 12:22:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [emo rap]({{ "tags/emo-rap" | relative_url }}) | <time datetime="2025-11-14T10:22:10.058Z">Fri Nov 14 2025 12:22:10 GMT+0200 (Eastern European Standard Time)</time> |
+| [icelandic]({{ "tags/icelandic" | relative_url }}) | <time datetime="2025-11-14T10:21:24.077Z">Fri Nov 14 2025 12:21:24 GMT+0200 (Eastern European Standard Time)</time> |
 | [suicidal black metal]({{ "tags/suicidal-black-metal" | relative_url }}) | <time datetime="2025-11-14T10:20:49.663Z">Fri Nov 14 2025 12:20:49 GMT+0200 (Eastern European Standard Time)</time> |
 | [australian]({{ "tags/australian" | relative_url }}) | <time datetime="2025-11-14T10:20:27.504Z">Fri Nov 14 2025 12:20:27 GMT+0200 (Eastern European Standard Time)</time> |
 | [piano rock]({{ "tags/piano-rock" | relative_url }}) | <time datetime="2025-11-14T10:19:48.497Z">Fri Nov 14 2025 12:19:48 GMT+0200 (Eastern European Standard Time)</time> |
@@ -458,7 +460,6 @@ Last updated: <time datetime="2025-11-14T10:20:49.663Z">Fri Nov 14 2025 12:20:49
 | [reggae]({{ "tags/reggae" | relative_url }}) | <time datetime="2025-11-11T01:44:32.795Z">Tue Nov 11 2025 03:44:32 GMT+0200 (Eastern European Standard Time)</time> |
 | [polski rap]({{ "tags/polski-rap" | relative_url }}) | <time datetime="2025-11-11T01:39:25.967Z">Tue Nov 11 2025 03:39:25 GMT+0200 (Eastern European Standard Time)</time> |
 | [alternative hip hop]({{ "tags/alternative-hip-hop" | relative_url }}) | <time datetime="2025-11-11T00:07:04.705Z">Tue Nov 11 2025 02:07:04 GMT+0200 (Eastern European Standard Time)</time> |
-| [emo rap]({{ "tags/emo-rap" | relative_url }}) | <time datetime="2025-11-10T23:51:56.064Z">Tue Nov 11 2025 01:51:56 GMT+0200 (Eastern European Standard Time)</time> |
 | [german rap]({{ "tags/german-rap" | relative_url }}) | <time datetime="2025-11-10T23:07:46.839Z">Tue Nov 11 2025 01:07:46 GMT+0200 (Eastern European Standard Time)</time> |
 | [gypsy jazz]({{ "tags/gypsy-jazz" | relative_url }}) | <time datetime="2025-11-10T22:44:49.236Z">Tue Nov 11 2025 00:44:49 GMT+0200 (Eastern European Standard Time)</time> |
 | [tropical house]({{ "tags/tropical-house" | relative_url }}) | <time datetime="2025-11-10T22:28:30.080Z">Tue Nov 11 2025 00:28:30 GMT+0200 (Eastern European Standard Time)</time> |
@@ -791,7 +792,6 @@ Last updated: <time datetime="2025-11-14T10:20:49.663Z">Fri Nov 14 2025 12:20:49
 | [modern melodic death metal]({{ "tags/modern-melodic-death-metal" | relative_url }}) | <time datetime="2025-10-28T14:31:10.324Z">Tue Oct 28 2025 16:31:10 GMT+0200 (Eastern European Standard Time)</time> |
 | [minimalism]({{ "tags/minimalism" | relative_url }}) | <time datetime="2025-10-28T14:15:36.521Z">Tue Oct 28 2025 16:15:36 GMT+0200 (Eastern European Standard Time)</time> |
 | [canterbury scene]({{ "tags/canterbury-scene" | relative_url }}) | <time datetime="2025-10-28T13:55:14.980Z">Tue Oct 28 2025 15:55:14 GMT+0200 (Eastern European Standard Time)</time> |
-| [icelandic]({{ "tags/icelandic" | relative_url }}) | <time datetime="2025-10-28T13:38:15.057Z">Tue Oct 28 2025 15:38:15 GMT+0200 (Eastern European Standard Time)</time> |
 | [chaotic hardcore]({{ "tags/chaotic-hardcore" | relative_url }}) | <time datetime="2025-10-28T13:37:37.815Z">Tue Oct 28 2025 15:37:37 GMT+0200 (Eastern European Standard Time)</time> |
 | [percussion]({{ "tags/percussion" | relative_url }}) | <time datetime="2025-10-28T13:37:05.597Z">Tue Oct 28 2025 15:37:05 GMT+0200 (Eastern European Standard Time)</time> |
 | [asia]({{ "tags/asia" | relative_url }}) | <time datetime="2025-10-28T13:37:00.490Z">Tue Oct 28 2025 15:37:00 GMT+0200 (Eastern European Standard Time)</time> |
