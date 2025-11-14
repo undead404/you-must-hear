@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T19:40:30.000Z
+date: 2025-11-14T01:37:16.259Z
 permalink: tags/acid-folk
 title: acid folk
 ---
 
 ## acid folk
 
-Last updated: <time datetime="2025-11-08T19:40:30.000Z">Sat Nov 08 2025 21:40:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T01:37:16.259Z">Fri Nov 14 2025 03:37:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfb70b7ee7d449abc97b76cb45e2e36c.png" alt="Cover for The 5000 Spirits or the Layers of the Onion" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>The Incredible String Band</td>
@@ -38,20 +39,18 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 15</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 43</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/dtOdlUxqCFpJ6bL09YqTt3gTgUBU5Q3K-x4WuGRNmmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTgy/NDQtMTQwOTIyNzAx/MC00NzU5LmpwZWc.jpeg" alt="Cover for Indian War Whoop" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36a26c07418001f26bb4bf7770f7f851.png" alt="Cover for Indian War Whoop" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>The Holy Modal Rounders</td>
@@ -70,6 +69,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b9c3e4dd63a48199ab1207f6df19996.png" alt="Cover for The Hangman&#39;s Beautiful Daughter" style="max-width:120px; height:auto;" />
       </td>
       <td>1968-03</td>
       <td>The Incredible String Band</td>
@@ -81,14 +81,13 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/GxhtYHUVHFYS2fd9XVNwN2cFXn6We6rxIE8O86RIGOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTA0/MDItMTI5NDk1ODU3/NS5qcGVn.jpeg" alt="Cover for The Big Huge" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f82895794b148de9e9c4fb435f67a8b.png" alt="Cover for The Big Huge" style="max-width:120px; height:auto;" />
       </td>
       <td>1968-10</td>
       <td>The Incredible String Band</td>
@@ -102,12 +101,12 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 48</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/AHcvGSJDf7hU2zG-2iHk_QbKDAvUtBwynFqQDG4TyRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDI4/ODktMTM4ODQzMzIw/NC0yOTc3LmpwZWc.jpeg" alt="Cover for Alice Through The Looking Glass" style="max-width:120px; height:auto;" />
       </td>
@@ -148,7 +147,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/DR9gNy1OPTBsuBzoKVlBS2VuRE4-KW-vzATaS0rgDM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTcx/Mi0xMzY4ODMwMjc0/LTQ1NTIuanBlZw.jpeg" alt="Cover for Sound of Sunforest" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25e9aa0209c343b9b55a6a2ca9a87d11.png" alt="Cover for Sound of Sunforest" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Sunforest</td>
@@ -182,7 +181,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 58</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 87</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 88</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 90</li>
         </ul>
       </td>
@@ -197,26 +196,20 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       <td>First Utterance</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
-            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a></li>
-            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 4</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 73</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 88</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 98</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 24</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 89</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/RopE6QjRbo9xeKXqJn993rSlQs24p30kb8JOArneC3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDQz/MjEtMTY1MDAzMDE0/MC03MjU2LmpwZWc.jpeg" alt="Cover for Orgia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9061b3c7dfe52e070d3f19185c80ee1.png" alt="Cover for Orgia" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Jaume Sisa</td>
@@ -269,9 +262,9 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/1sgQg3oakpzXC2O8rtN5mSPYrhvJ-3G4NSxhWAUUzGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODU0/NzEtMTQxNjE0MTk1/OS0yMDQxLmpwZWc.jpeg" alt="Cover for Long Orme" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20664dc047fc359350a148b6335b92c4.png" alt="Cover for Long Orme" style="max-width:120px; height:auto;" />
       </td>
       <td>1975</td>
       <td>Long Orme</td>
@@ -311,7 +304,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/bdo62NEoSSAH6Y5H4cl9WHqCgRIPZYEAdnZ0VE9DNec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDEx/NDAtMTUxMDMxNzQ5/NS05NDg0LmpwZWc.jpeg" alt="Cover for 無残の美" style="max-width:120px; height:auto;" />
       </td>
@@ -347,7 +340,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/VxJXDRBvw1leIgTk2oY-7v0k9QZFb-b986xJEa0jo2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTU4/NzctMTUyNDE0OTM4/Mi0yNzU4LmpwZWc.jpeg" alt="Cover for Steve Warner" style="max-width:120px; height:auto;" />
       </td>
@@ -366,7 +359,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/MpqLfHVGj6CcoYnQXPyFKW0pmnrLLO_C2p5-7QEGEy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTg2/ODItMTI3OTM2MjU2/NC5qcGVn.jpeg" alt="Cover for Brainwashing and Heartists Blue Life Stripes" style="max-width:120px; height:auto;" />
       </td>
@@ -410,7 +403,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/wtrHGzjBAPKH34qh5TSI-iBz6XkwHZeR9tzY0FLqp0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTU0/NjItMTQ5MjEyODk0/Ni04NzE2LmpwZWc.jpeg" alt="Cover for Daytrotter Session - 8&#x2F;10&#x2F;2009" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20ee633c3c334b34822304a915885b8d.png" alt="Cover for Daytrotter Session - 8&#x2F;10&#x2F;2009" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Deerhoof</td>
@@ -445,14 +438,14 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 32</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/zSdlX_cHTfG12PfxZcoaKEMmay7mfNnGgyqYukvmAKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzM4/MTUtMTIxMDUxNTUy/NC5qcGVn.jpeg" alt="Cover for Peter Bursch und die Bröselmaschine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/176b35ee6b254448a009adbee13c1826.png" alt="Cover for Peter Bursch und die Bröselmaschine" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>BröselMaschine</td>
@@ -470,7 +463,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/BFnoNTsz8DdBHHnEUHVY4d5kXsWmoBJruJ_v6u3rRJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTg4/NDUtMTI3OTM2MTcw/NS5qcGVn.jpeg" alt="Cover for Don&#39;t Just Sit There...Fly" style="max-width:120px; height:auto;" />
       </td>
@@ -554,7 +547,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       <td>
         <ul>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 22</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 32</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 33</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 38</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 47</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 54</li>
@@ -581,7 +574,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>16</td>
       <td>
       </td>
       <td>2002-05</td>
@@ -603,6 +596,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8b670ca2fefe8360d888b7be97f8fe4.png" alt="Cover for Glastonbury Carol" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Gryphon</td>
@@ -622,7 +616,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/vIH_KxgYUhR8XWZ8jG18Cfm-YjyEpPlmEHk7ihYTb0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzc3/MTE1LTE2NDI0NDA0/MjgtMzMxNy5qcGVn.jpeg" alt="Cover for Origins And Primitives Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -670,6 +664,24 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0109ad7d92534f14798281f676be202e.png" alt="Cover for The Weed Tree" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-10-18</td>
+      <td>Espers</td>
+      <td>The Weed Tree</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
       <td>
@@ -745,8 +757,9 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/992e316750ff9ba0619d37e16b2e1c96.png" alt="Cover for 東京では少女歌手なんて" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04-13</td>
       <td>三村京子</td>
@@ -760,13 +773,14 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 20</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea375c574ba04e09bbe3d19cc562d392.png" alt="Cover for いちにちのながさを、はなうたできめる。" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-23</td>
       <td>たゆたう</td>
@@ -795,7 +809,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>19</td>
       <td>
       </td>
       <td>2008-09-23</td>
@@ -823,7 +837,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/FPyEB632KCYyTANxvI6M5ERz5wZwmb-VmBDJ5W6TBeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTk1/MTktMTMwNjMzMDI4/Ni5qcGVn.jpeg" alt="Cover for Caves Of Holy Light" style="max-width:120px; height:auto;" />
       </td>
@@ -843,7 +857,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/HW14VQKmpAkIKawWtRM55k_ZzF0WM39MetWNrtj0sMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTQ5/MzUtMTM5MTkyMjM4/Ny01NTM5LmpwZWc.jpeg" alt="Cover for Pagan Folk und Apocalyptic Psychedelia, Kapitel II" style="max-width:120px; height:auto;" />
       </td>
@@ -883,7 +897,25 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>46</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/925d23f899034e83b87817b09c1c1aa5.png" alt="Cover for Harmonium" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-05-25</td>
+      <td>The Soundcarriers</td>
+      <td>Harmonium</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/_28qNBq80jXaCB9be07Iwd0aoLxBcQq9oVYWQJeMKWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI4/OTQtMTI3ODk3MDEz/MS5wbmc.jpeg" alt="Cover for Floppy Disk" style="max-width:120px; height:auto;" />
       </td>
@@ -902,7 +934,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
       </td>
       <td>2009-07</td>
@@ -962,7 +994,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/615ec636dffb49bfc90b22088e90fa43.png" alt="Cover for Tidings" style="max-width:120px; height:auto;" />
       </td>
@@ -980,7 +1012,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/yibIl6q3VttcKMcI5mzACxyQZDW5TJGz9lBS90lUmlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQy/NjMxLTE1NzI2MTE2/MjItNDQ1Ni5qcGVn.jpeg" alt="Cover for [LBN007] - Happy song is a happy song" style="max-width:120px; height:auto;" />
       </td>
@@ -1002,7 +1034,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 25</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1023,12 +1055,12 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 69</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/9GqAVfxypToqJFB0yL1b-ovumepsxWgB72qtmdHsvng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODAx/MzYtMTM2MDU0MjA4/Ny0yODU2LmpwZWc.jpeg" alt="Cover for The Lecture Hall Recordings" style="max-width:120px; height:auto;" />
       </td>
@@ -1108,7 +1140,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/TUILjsz2V2ZaKS1SBt02blVqtR-VZe2lcKU18MBlSV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MDc1/NDAtMTQ4NTA5ODYw/Ny00MjA5LmpwZWc.jpeg" alt="Cover for Sister" style="max-width:120px; height:auto;" />
       </td>
@@ -1127,13 +1159,13 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 9</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 8</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/mDf7aS6Nm4GZDZH3Z0_UXU7wpMJLoiXYs_v0KFvk17w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzA1/NzAtMTQ1NzU3MjY4/Mi03MjU0LmpwZWc.jpeg" alt="Cover for Anthology of rainbow fountains" style="max-width:120px; height:auto;" />
       </td>
@@ -1158,7 +1190,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/SgdekpXauYc5uRdcJ5tKqqEhUSzdq8DQmiTj2seSt6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTM5/MTAtMTQwNjE3MjQ1/OC03NTE2LmpwZWc.jpeg" alt="Cover for Oktober Sound Lab" style="max-width:120px; height:auto;" />
       </td>
@@ -1206,7 +1238,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/qCPZ70qRZugznTFrHX2ijZ7TvL0cuKpeR4K4WhtTF74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzkx/MTgxLTE1MTU0NzY3/MzAtNjIyNi5qcGVn.jpeg" alt="Cover for Cosmic Shimmy Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,7 +1266,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/csWh_LJSULq1qOLfuMlsUhuVO3ErxIxoPJXysejX6Q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTY0/NDItMTM4ODg2ODQ3/MS01NDM0LmpwZWc.jpeg" alt="Cover for imitacija života" style="max-width:120px; height:auto;" />
       </td>
@@ -1274,7 +1306,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/LSgGvZ3YDqwF7MgzmnkkFfZ4qzwG0M1qy4JCpwmxzX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjg3/NDQyLTE2MDY2MDY3/ODQtOTg0My5qcGVn.jpeg" alt="Cover for make tracks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7337f09752e666ae32746978d5593597.png" alt="Cover for make tracks" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-06-12</td>
       <td>The Crick</td>
@@ -1312,7 +1344,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/lhX-W1l_V-vsmT28Pan0PZnka9LrooUJDUf7GKuQegw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTI0/ODAtMTQ3OTIyNzc1/NS02MjU3LnBuZw.jpeg" alt="Cover for Within the Country of Falling Cherry Blossoms (Sakura No Kuni No Chiru Naka O&#39;)" style="max-width:120px; height:auto;" />
       </td>
@@ -1322,6 +1354,26 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/3bVs0IVw6W0uWpGhIJGRpxPZcvNGt08rSh2Q_OcVdko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDMz/MjcwLTE1NTQxMTgy/MDAtOTE4Ni5tcG8.jpeg" alt="Cover for Book Of Am Parts I~IV" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019</td>
+      <td>Can Am Des Puig</td>
+      <td>Book Of Am Parts I~IV</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
         </ul>
       </td>
       <td>
@@ -1343,34 +1395,13 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 2</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>
-          <img src="https://i.discogs.com/3bVs0IVw6W0uWpGhIJGRpxPZcvNGt08rSh2Q_OcVdko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDMz/MjcwLTE1NTQxMTgy/MDAtOTE4Ni5tcG8.jpeg" alt="Cover for Book Of Am Parts I~IV" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019</td>
-      <td>Can Am Des Puig</td>
-      <td>Book Of Am Parts I~IV</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/WrGIulmwyanDzeGDr21wy9fUzkh5C-S5MHyTwBBX1nA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM0/NTM1LTE1NjczNDY2/NTItMjQ4Ni5qcGVn.jpeg" alt="Cover for Silent Spring" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cde753f55cfa7024a6099540a8d88376.png" alt="Cover for Silent Spring" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-07-13</td>
       <td>Henry Parker</td>
@@ -1387,7 +1418,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aaaa1176ab5416172838db8188f43578.png" alt="Cover for In Memory Of A Summer Day" style="max-width:120px; height:auto;" />
       </td>
@@ -1448,7 +1479,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/mkRT9LmM08_wnCN52YEoGVvwsFl0oKCI2tI1dQ60Hew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIy/NTExLTE0OTIwMDk3/MTctNjI4Ni5qcGVn.jpeg" alt="Cover for My People Were Fair And Had Sky In Their Hair...But Now They&#39;re Content To Wear Stars On Their Brows (2014 Remaster &#x2F; Mono Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1711eb3449ca6aac770493e00f0ec5f.png" alt="Cover for My People Were Fair And Had Sky In Their Hair...But Now They&#39;re Content To Wear Stars On Their Brows (2014 Remaster &#x2F; Mono Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-09-04</td>
       <td>T. Rex</td>
@@ -1470,6 +1501,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/835416b0e05caf1b488c62df8a44df98.png" alt="Cover for Prophets, Seers and Sages: The Angels of the Ages" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-09-04</td>
       <td>T. Rex</td>
@@ -1484,27 +1516,9 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/aAOBPDb26pK3WgpMdRgVzj-N3fd502lpN31h728nchQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjA3/MzIzLTE2MTIxNzcy/MDYtNDMxNi5qcGVn.jpeg" alt="Cover for Upupayama" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-11-15</td>
-      <td>Upupayama</td>
-      <td>Upupayama</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6400f968f906ff1b48a4d502129c7a46.png" alt="Cover for Scary Aquarius Daughter" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-07-16</td>
       <td>Send Medicine</td>
@@ -1631,7 +1645,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 3</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 5</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 27</li>
         </ul>
       </td>
@@ -1705,31 +1719,13 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
         <ul>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 12</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 12</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 14</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 16</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Plum Flower Embroidery</td>
-      <td>Happy</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -1747,8 +1743,9 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db850553fda10357d011f1a0fc8c3372.png" alt="Cover for Curved Walls" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Curved Walls</td>
@@ -1767,7 +1764,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1785,7 +1782,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -1804,7 +1801,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -1821,7 +1818,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -1838,7 +1835,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -1856,7 +1853,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -1874,7 +1871,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -1891,7 +1888,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -1910,7 +1907,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -1928,7 +1925,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>27</td>
       <td>
       </td>
       <td></td>
@@ -1946,7 +1943,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
       </td>
       <td></td>
@@ -1963,7 +1960,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
       </td>
       <td></td>
@@ -1982,8 +1979,9 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c0b7e029f714819b8f0488bdcba083e.png" alt="Cover for 夢は日々元気に死んでゆく" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>友川かずき</td>
@@ -2003,7 +2001,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
       </td>
       <td></td>
@@ -2109,7 +2107,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -2125,7 +2123,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>
@@ -2141,7 +2139,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
       </td>
       <td></td>

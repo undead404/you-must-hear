@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T14:14:14.516Z
+date: 2025-11-14T01:38:06.633Z
 permalink: tags/italo-disco
 title: italo disco
 ---
 
 ## italo disco
 
-Last updated: <time datetime="2025-11-11T14:14:14.516Z">Tue Nov 11 2025 16:14:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T01:38:06.633Z">Fri Nov 14 2025 03:38:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -124,7 +124,7 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/45a333ccd34a4f3698cd2d743784c375.png" alt="Cover for S-Beat" style="max-width:120px; height:auto;" />
       </td>
@@ -148,7 +148,7 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/Zs1KDAfmggpXYTRC4PkeUf6V-xsfcPlg7QK7FL0i5bc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzgy/NjktMTY3OTAzNzQz/MC05NjIzLmpwZWc.jpeg" alt="Cover for Give Me A Break" style="max-width:120px; height:auto;" />
       </td>
@@ -211,7 +211,7 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>1982</td>
@@ -228,7 +228,7 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/ybAZST2H0Llm0BMYUJKFGUM2QjRzwvXzxspjoHOraKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjY0/MS0xMTMzNTg2NDU0/LmpwZWc.jpeg" alt="Cover for Chinese Revenge" style="max-width:120px; height:auto;" />
       </td>
@@ -305,7 +305,29 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/Ix4brgFzRLJTsrKQzaOfx9U6gIij09dblTtNAaNPtNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjI0/Ny0xMTQ2MTcyMjc3/LmpwZWc.jpeg" alt="Cover for Move a little closer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Camaro&#39;s Gang</td>
+      <td>Move a little closer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/633fffafa3d02fb94a1b0c9d45c82b3a.png" alt="Cover for This Is Your Time" style="max-width:120px; height:auto;" />
       </td>
@@ -328,7 +350,7 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/uJvCAcQlxPDW-JRAAUXTHwRNqD8Dk_z-4PoWku8KXo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTM0/OC0xMzYwMzQyMDAz/LTEzNTUuanBlZw.jpeg" alt="Cover for The MBO Theme" style="max-width:120px; height:auto;" />
       </td>
@@ -720,7 +742,7 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 43</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 44</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 68</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 71</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 71</li>
@@ -747,7 +769,7 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 2</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 6</li>
             <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 100</li>
         </ul>
       </td>
@@ -875,7 +897,7 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 23</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -901,7 +923,7 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>1985</td>
@@ -918,7 +940,7 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be52e935da00f6e21922b4c714b6f58a.png" alt="Cover for Yeti" style="max-width:120px; height:auto;" />
       </td>
@@ -938,7 +960,7 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>1985</td>
@@ -1027,7 +1049,7 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/cAnCklLIUevMnwdFvyO3kdI6vUUvH037q-yw5_SME6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzAw/NC0xNDE4NDkwMzUx/LTQ4NTEuanBlZw.jpeg" alt="Cover for For Your Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1198,7 +1220,7 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/Q8g7p83FNdd5dSU-wK2JMj8cmRoVk5GNlYh7R4-GPGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTUy/OS0xNjA4NDc0MzQ3/LTQzMzEuanBlZw.jpeg" alt="Cover for The Best of Valerie Dore" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,7 +1256,7 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/Qaf9unVOETYDKepY6_oGlY4dX93qbKg-qjeAZSwvJ5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTgw/OS0xMzM3MDc4OTI3/LTk1OTcuanBlZw.jpeg" alt="Cover for The best of Italo Disco" style="max-width:120px; height:auto;" />
       </td>
@@ -1270,7 +1292,7 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/z-XuflUDQAdKGT_bK12TRqgF4WBkFQCmHYRO-4Xo13A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk5/MDgtMTIwNDEzNDk0/NS5qcGVn.jpeg" alt="Cover for Best Of Ryan Paris" style="max-width:120px; height:auto;" />
       </td>
@@ -1585,6 +1607,7 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 4</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 51</li>
         </ul>
       </td>
@@ -1655,8 +1678,8 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 73</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 84</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 75</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 89</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 92</li>
         </ul>
       </td>
@@ -1697,7 +1720,7 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 4</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 8</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 85</li>
         </ul>
       </td>
@@ -1722,7 +1745,7 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 77</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 80</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 87</li>
         </ul>
       </td>
@@ -1782,7 +1805,7 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/BWcuO3I8hP1JTqRPgMAGAzNmxh7B0W11GGCwpAyq1oU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDEy/NTUyLTE1OTEzNTU0/NjMtOTcxOS5qcGVn.jpeg" alt="Cover for Walk On Wire" style="max-width:120px; height:auto;" />
       </td>
@@ -1918,7 +1941,7 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
         <ul>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 5</li>
             <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 19</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 61</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 63</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 77</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 79</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 94</li>
@@ -1927,7 +1950,7 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/uSX_dx5VEJ8JEwWwzF0Na7GUUMi2h7v_E3C8K0Ae5Eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzI0/NDk2LTE2MzkzMjc1/MjAtMzc5OC5qcGVn.jpeg" alt="Cover for Chasing a Feeling" style="max-width:120px; height:auto;" />
       </td>
@@ -1961,28 +1984,6 @@ Italo disco is a synthesizer-driven dance music genre that emerged from Italy in
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>16</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27754440f8cd8c5b3c33cabdbd671188.png" alt="Cover for Girl with No Face" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024-02-23</td>
-      <td>Allie X</td>
-      <td>Girl with No Face</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 63</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 96</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T00:49:28.148Z
+date: 2025-11-14T01:32:30.095Z
 permalink: tags/cumbia
 title: cumbia
 ---
 
 ## cumbia
 
-Last updated: <time datetime="2025-10-29T00:49:28.148Z">Wed Oct 29 2025 02:49:28 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T01:32:30.095Z">Fri Nov 14 2025 03:32:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
   </thead>
   <tbody>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>1964</td>
@@ -43,12 +43,12 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 14</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>1967</td>
@@ -67,7 +67,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/m3Zt3tfcvkB9r_LvHClhWqAvzQ8gmQAuyxfZOvKXMec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDY0/NzgtMTMyMzg5NDIy/Mi5qcGVn.jpeg" alt="Cover for Constelación" style="max-width:120px; height:auto;" />
       </td>
@@ -87,7 +87,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/sZz6hGTeQT7o3KOXfZrlP-x1CUTlG1-Z5QNJQs_dV9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MjQ2/MTEtMTQ4ODEzNjUw/Ni02NzA4LmpwZWc.jpeg" alt="Cover for Manzanita y su conjunto" style="max-width:120px; height:auto;" />
       </td>
@@ -107,7 +107,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/cco-f5iLEg_YeOMoISppoI49g1dM89in5NDHsott9is/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTg4/ODQtMTYzODY0MzU4/My04NzYzLmpwZWc.jpeg" alt="Cover for Solo Ellos... Los Destellos" style="max-width:120px; height:auto;" />
       </td>
@@ -127,7 +127,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/zDRUHfcPzuxNNEEQhKf2jU-Qk15bwpLprhc8aoLh5og/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTE1/NTEtMTQyNTEzNTQx/MS01OTMzLmpwZWc.jpeg" alt="Cover for Los Pakines" style="max-width:120px; height:auto;" />
       </td>
@@ -147,7 +147,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/e-W_WGaIXu83Zd-_W-nRpdiqxFbsFfrWR77ieTKMRT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY1/MjU2LTE1NzQ2ODQx/NjUtNjQ1OS5qcGVn.jpeg" alt="Cover for Mi Sombrero Sabanero" style="max-width:120px; height:auto;" />
       </td>
@@ -165,7 +165,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/8nJazE_bxY5ruN8ejVHXJxDJqXCdyED0X6CG1fdxngQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTMx/MzktMTUwMjk4NjY0/Ni05MDU4LmpwZWc.jpeg" alt="Cover for Los Charapas de Oro" style="max-width:120px; height:auto;" />
       </td>
@@ -186,7 +186,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/kbtXYkZuqnnU_dahGs4Vta_RDhvVzeIuy-y_Uh5YG6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDUy/Mzk3LTE2NDY4NzM3/NTgtODMyMi5qcGVn.jpeg" alt="Cover for Leyenda Amazónica" style="max-width:120px; height:auto;" />
       </td>
@@ -206,7 +206,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/nAsSpTAb5yHLB0flqOFsIGUacKrn6tJSrMHigumuHsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTA3/MDc0LTE2NTgwMDYy/OTgtNzI2OS5qcGVn.jpeg" alt="Cover for Los Ultimos Exitos De Rigo Tovar" style="max-width:120px; height:auto;" />
       </td>
@@ -224,7 +224,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/V5A7C-f2dwpIphaADUZqOGmZrGiNJgcuEZaUrhQlDKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDky/MjQzLTE2NTQ1NzI4/NTAtOTQ0NS5qcGVn.jpeg" alt="Cover for The Roots Of Chicha: Psychedelic Cumbias From Peru" style="max-width:120px; height:auto;" />
       </td>
@@ -246,7 +246,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>1987</td>
@@ -263,7 +263,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/RwLsN11LPvXekklKuKIQS6N-TsFv86frtcY2SRiZISQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzQ0/NjEtMTMyNzg3MzUx/MS5qcGVn.jpeg" alt="Cover for 20 Exitos" style="max-width:120px; height:auto;" />
       </td>
@@ -281,7 +281,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/bDNMklvTlrvWzlPhn_WzGGWbt0u5lCT3gBWoqI0LltM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQ1/NDcyLTE0OTA2NjQ0/NTEtODY3Ny5qcGVn.jpeg" alt="Cover for Navidades con la Sonora Dinamita" style="max-width:120px; height:auto;" />
       </td>
@@ -299,7 +299,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/q_WCzAIINUNtqLIxTybou9_dT8BZQeh7wYBybeCXVK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Njc4/Ni0xMTM3NTk5MjMz/LmpwZWc.jpeg" alt="Cover for Amor Prohibido" style="max-width:120px; height:auto;" />
       </td>
@@ -312,15 +312,15 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 7</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 43</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 10</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/wYpOJHmkfUQHv5Eblmog6P3hxpYJz78ncKkRG0iIWSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDk2/MjQtMTQ1ODU1OTky/NC0xNDA0LmpwZWc.jpeg" alt="Cover for En Extasis" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2ac9cf7c861a818c06cfd95352fe912.png" alt="Cover for En Extasis" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-01-01</td>
       <td>Thalía</td>
@@ -334,12 +334,12 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 58</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>1997</td>
@@ -356,7 +356,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/Z7kVFYeiBOOKhHhsCyQ4I1xUS-VGVUPpo8tY6lXjrMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTk4/OTExLTE1NjU3ODU2/MDctMjQ2Ny5qcGVn.jpeg" alt="Cover for Sentimiento Y Sabor" style="max-width:120px; height:auto;" />
       </td>
@@ -375,7 +375,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/m3nJkm4AwCP3aIKKTErzIPRaBl6lnmFk2JOpm_meRVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDAx/NTQ0LTE2NzgwOTc4/MDgtNTQyNC5qcGVn.jpeg" alt="Cover for Imparables" style="max-width:120px; height:auto;" />
       </td>
@@ -393,7 +393,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/x0t-GjmEIEzxNrtFdCEg6sWa1XTjWO4tJQ6NRvX9URo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzQ3/ODEtMTM5OTU5MTMz/MS02NzUyLmpwZWc.jpeg" alt="Cover for Los Warahuaco - Cumbias, Cumbias" style="max-width:120px; height:auto;" />
       </td>
@@ -410,7 +410,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/cyPHDx_cSZTyn365MCSNbvRb2nzqXkWM5TYoLC37bac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjY3/NTgtMTQ4NDQ0NzE5/Ny0xMzI5LmpwZWc.jpeg" alt="Cover for Soy, Como Soy" style="max-width:120px; height:auto;" />
       </td>
@@ -441,12 +441,12 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 50</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>1999-01-01</td>
@@ -480,7 +480,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2000</td>
@@ -498,7 +498,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/DD1d0nuUf9yotn90bQW20IBrpLCsC5WhYexE6RvTClU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTI4/OTU1LTE1MDczMTk1/NTQtOTExMi5qcGVn.jpeg" alt="Cover for La Lola" style="max-width:120px; height:auto;" />
       </td>
@@ -516,9 +516,9 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/sgTx6_uvKf5Lr1jjD9sZHa_xJgO_1WUiCOy7M9dwDd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI0/MzItMTUzMDM1NjM4/Ni05OTEwLmpwZWc.jpeg" alt="Cover for M.A (Remix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/092d712399412646715777c35c5c2b90.png" alt="Cover for M.A (Remix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>BM</td>
@@ -538,7 +538,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/nU3WUfcEFEHgcbWJFAR6ioS6UfWwwxKYGokprGkjufg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODEy/MDg0LTE1ODAxMjQw/MTUtMzM3OS5qcGVn.jpeg" alt="Cover for 100 % villero" style="max-width:120px; height:auto;" />
       </td>
@@ -556,7 +556,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/pVngfqy_hJqRM5riH4yKvBJ_f9TegzHZiQ3BI_KXjQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzE2/OTk3LTE3MTI0MzYw/NzItNjY4OC5qcGVn.jpeg" alt="Cover for Recuerdos Andinos" style="max-width:120px; height:auto;" />
       </td>
@@ -574,7 +574,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/N1--3zkiUeowyPXCS1uPGfUY6NCknZ-hgeyJkQn4H5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDk5/NTc4LTE1NDgwMzIx/OTgtMTYyNy5qcGVn.jpeg" alt="Cover for jarriba las nalgass!" style="max-width:120px; height:auto;" />
       </td>
@@ -592,7 +592,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/h0ZnonWve02fwgOhTDmQkIIUyaoGMj-QHqJhpoGQIrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTYw/OS0xNjc5MTg2NTYz/LTM5MjIuanBlZw.jpeg" alt="Cover for Telepathic Sonora" style="max-width:120px; height:auto;" />
       </td>
@@ -627,7 +627,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/zC9HV0BXsLYv1KnYdkXGcFFkSJJWAak2S7c_hCQXMvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTE5/ODQtMTMzNzM0Mjk1/NS0zMDE1LmpwZWc.jpeg" alt="Cover for Chúntaros Radio Poder" style="max-width:120px; height:auto;" />
       </td>
@@ -650,7 +650,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/ZcUqIiYc-FeaDE4Jum7ZC8Ny4BvTIDBQTRyYw31FPC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTA3/NjUtMTM5MDIzNTQz/OS02MTM5LmpwZWc.jpeg" alt="Cover for All Mixed Up - Los Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -668,7 +668,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/l9rQ-0UsqiwccsuUMQ91HJI5yBGhu3ILWtjU3USOdnQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQw/MDItMTM4MjA5Mzcx/My02Nzc0LmpwZWc.jpeg" alt="Cover for Los guachos" style="max-width:120px; height:auto;" />
       </td>
@@ -692,7 +692,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/gC7JnLArLxBUG17Yq6n8DY3Bplnlp8ezjGaZPhpyhgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjMw/MTU1LTE2MTQ1MzQ0/OTMtOTcxNS5qcGVn.jpeg" alt="Cover for Volume 4" style="max-width:120px; height:auto;" />
       </td>
@@ -713,9 +713,9 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/3K2roiZeCcgxEn1Td8zleOM8zXmI7ct57nspohln_LA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTc2/MjUtMTI5ODY4MzUz/NC5qcGVn.jpeg" alt="Cover for moonchild mixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f91c4a30f8139c972fa49357a676a5e.png" alt="Cover for moonchild mixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Selena</td>
@@ -730,12 +730,12 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 40</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/rX41l6-gBKuudc7P3sDi47Bbak1bPNptZKmCdp96kf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjc2/NTQzLTE2NDU3MTMz/MzUtNzk4My5qcGVn.jpeg" alt="Cover for El Soltero" style="max-width:120px; height:auto;" />
       </td>
@@ -754,7 +754,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14395a93c6d24abf75f96cb20de95927.png" alt="Cover for Companhia do Calypso, Vol. 6" style="max-width:120px; height:auto;" />
       </td>
@@ -771,7 +771,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/4rGxbXpcxCf7zGg3PcInzATMGA_MasB6_8VlzgHl3iA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDY3/MzA2LTE2MTM2MDk2/NzctMzExMC5qcGVn.jpeg" alt="Cover for El Canto De Un Rebelde Para Un" style="max-width:120px; height:auto;" />
       </td>
@@ -789,7 +789,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/8j2YQDZuPLtXLd84SHOG4SqwR99wYM2NOCsKL0-qb4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzUy/NzAtMTM4ODMzNjE0/My0zNjk0LmpwZWc.jpeg" alt="Cover for Me Gusta" style="max-width:120px; height:auto;" />
       </td>
@@ -810,7 +810,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e318b26091a7b9096e48ecdd4ffbf82.png" alt="Cover for Volume 6" style="max-width:120px; height:auto;" />
       </td>
@@ -831,7 +831,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/iSD3b78Lbhhn71w-QntTizckG_ePviCiKNbz6XTpCnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg2/NzI4LTE1ODc1NzI2/MjctODYzOC5qcGVn.jpeg" alt="Cover for Ao vivo em São Paulo" style="max-width:120px; height:auto;" />
       </td>
@@ -851,7 +851,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/sbTXyAnMBfE8o0AvvbNX85J0dDmHfKLJbWFSnSVULjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDg0/Mjc4LTE2ODc2NDU0/OTktMTkxNy5qcGVn.jpeg" alt="Cover for Nunca Te Olvidare" style="max-width:120px; height:auto;" />
       </td>
@@ -869,7 +869,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/Oy1Sl_Vxjx3zDDWaQRhrLNKxwpxk__XieVoJlUtOSis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDIw/My0xMTYzMTY2ODc4/LmpwZWc.jpeg" alt="Cover for Post Sov Pop" style="max-width:120px; height:auto;" />
       </td>
@@ -894,7 +894,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/Oy1Sl_Vxjx3zDDWaQRhrLNKxwpxk__XieVoJlUtOSis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDIw/My0xMTYzMTY2ODc4/LmpwZWc.jpeg" alt="Cover for PostSovPop" style="max-width:120px; height:auto;" />
       </td>
@@ -919,7 +919,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/kBM4eJ12pLe-E1-SBNw44v4dYhWIGA-YmzcyKC0_eMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjU0/ODI2LTE1ODAzMzA3/NTgtNjQ0OS5qcGVn.jpeg" alt="Cover for Volume 8" style="max-width:120px; height:auto;" />
       </td>
@@ -939,7 +939,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2005-01-10</td>
@@ -969,9 +969,9 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 7</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 9</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 46</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 74</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 75</li>
             <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 90</li>
         </ul>
       </td>
@@ -996,8 +996,9 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5af12b4264ad4592920dc6ac2a7cffd1.png" alt="Cover for Puro Cabas" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-27</td>
       <td>Cabas</td>
@@ -1014,7 +1015,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b58fe8372662b8b24582cb0f911cc654.png" alt="Cover for Companhia do Calypso, Vol. 2 (Ao Vivo)" style="max-width:120px; height:auto;" />
       </td>
@@ -1032,7 +1033,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c477e5fd0edf6a22a7ddd6d70f6f838b.png" alt="Cover for Companhia do Calypso, Vol. 03 (Ao Vivo)" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,7 +1053,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/CDWcVAAf-B-xKxtxzD2TMx0y5KYJ0qsoaAd9h5hVzsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDk0/MTEtMTQ2NDQ3MDQ0/OC01MzY1LmpwZWc.jpeg" alt="Cover for Por Puro Amor" style="max-width:120px; height:auto;" />
       </td>
@@ -1068,12 +1069,12 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 61</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/y2fch13cDLCMpNhaKAsgxTG7TzSqWlsw4Rb9bv-Zh9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTY0/NjUtMTUxNzMxMDIz/MC0xOTQ1LmpwZWc.jpeg" alt="Cover for Sonido Amazonico!" style="max-width:120px; height:auto;" />
       </td>
@@ -1092,7 +1093,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td>2008-03-25</td>
@@ -1110,7 +1111,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2009</td>
@@ -1129,7 +1130,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2009-03-24</td>
@@ -1151,7 +1152,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/aOYKN8GAv6UeNha0zd91z1BL4hUCP8V3IZL_VmLd48M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTkz/MzktMTQwNjMyNDUz/Ni00ODMwLmpwZWc.jpeg" alt="Cover for Ejército de Paz" style="max-width:120px; height:auto;" />
       </td>
@@ -1168,12 +1169,12 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 24</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/Sdvdj_xsFw6t_jltJMkoliQFexR_Kr0ocRyeh4I-9hY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjA2/MTYtMTI5NTQzNjkx/OS5qcGVn.jpeg" alt="Cover for NGUZUNGUZU EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1193,9 +1194,9 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
-          <img src="https://i.discogs.com/RpnF7ESlRmVQ_PutNet6jbt7GmnVzzcZLw3dThv-O9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjM4/NDkwLTE1MzkxMDQ4/NTMtNDIwMS5qcGVn.jpeg" alt="Cover for La Leyenda" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed1a2b118c3a469ec6d9f798f07832e2.png" alt="Cover for La Leyenda" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-09</td>
       <td>Selena</td>
@@ -1215,7 +1216,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>2010-07-19</td>
@@ -1234,7 +1235,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Discos Fuentes All Stars- La Biblia De La Cumbia Vol. 1 &amp; 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1252,7 +1253,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2011</td>
@@ -1271,7 +1272,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>2011</td>
@@ -1290,7 +1291,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2011-02-25</td>
@@ -1308,9 +1309,9 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/mCcz5lWwQdNoXCWWfEmKJ4K2e_pWKFaP-rXcQiw1j3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzg4/MDMtMTMwNTMyODE4/NC5qcGVn.jpeg" alt="Cover for Evelyn Cornejo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6535544fd456873a7b41b5311c2f4818.png" alt="Cover for Evelyn Cornejo" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-20</td>
       <td>Evelyn Cornejo</td>
@@ -1328,9 +1329,9 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/baCC1IAnRD02edOkezfuTy2J7CVaGk2s1NzX7tunGO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk5/MDQ0LTE1ODkzODI1/NTctNDM0My5qcGVn.jpeg" alt="Cover for La Malquerida" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4882cf95c61d15d8fda85513e6c715a7.png" alt="Cover for La Malquerida" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Mariana Seoane</td>
@@ -1348,7 +1349,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/naBOwA0Aov6RSrgmz_A9gcXZo6b9JfYuiQIYBt5CiTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDU2/MzUtMTM4ODYxNDcy/NS0zMTkwLmpwZWc.jpeg" alt="Cover for Me Declaro Culpable" style="max-width:120px; height:auto;" />
       </td>
@@ -1366,7 +1367,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/AWBCZAKe5k2GqDhdQBHsH64G0rCaUhcJZ9O0W73ityE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODQy/MDgtMTM0NDI3Mjk1/Ny05NjU1LmpwZWc.jpeg" alt="Cover for Canibalismo" style="max-width:120px; height:auto;" />
       </td>
@@ -1385,7 +1386,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2012-06-21</td>
@@ -1401,12 +1402,12 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 11</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>2012-07-16</td>
@@ -1423,7 +1424,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/wEB7qeGjm74JniD7t2iYPV05x2Nmr3XLL3fARKlSIas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODU3/MzEtMTM0NDM0MTQ1/OS04NjA3LmpwZWc.jpeg" alt="Cover for Pecados Tropicales" style="max-width:120px; height:auto;" />
       </td>
@@ -1441,7 +1442,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/RUIJZqKSyYodr4LEypPZYqYM7OaEoEJlLfoekK_oao8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjk2/MTM0LTE1MTUxNzUy/MjYtOTUyNC5qcGVn.jpeg" alt="Cover for Planeta Kumbia" style="max-width:120px; height:auto;" />
       </td>
@@ -1459,7 +1460,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/TlumP5G8LuWHnTVK7Vhgt9jzvJxutKCmmwgPKqs_ZaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzU4/MDgtMTM4MTg0NzY2/Mi0xOTE2LmpwZWc.jpeg" alt="Cover for Cuatro Tigres" style="max-width:120px; height:auto;" />
       </td>
@@ -1478,7 +1479,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>2013-04-22</td>
@@ -1496,7 +1497,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/qor1mwi3eS_ibVgdYGKHGG6FFhdIO1zdH3QevuZBEcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQx/ODY5LTE1MDA3NjA2/NjItMTMxMC5qcGVn.jpeg" alt="Cover for Cómo Te Voy a Olvidar ¡Edición de Súper Lujo!" style="max-width:120px; height:auto;" />
       </td>
@@ -1512,12 +1513,12 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 54</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/s6tzyJiPHV_mam_vEGXUE-swVYRsg29Jy30_YPAQvic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NzA3/NTAtMTQyNDI4NjY2/OS0yMzU2LmpwZWc.jpeg" alt="Cover for Cumbia Amazonica" style="max-width:120px; height:auto;" />
       </td>
@@ -1537,7 +1538,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/IlbUwkn978fSbJp-NsMfcqQyj4iS-Yrtb3o_wlW-pxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQ4/MDM3LTE1MTQ2ODUy/MzktNjY3Mi5qcGVn.jpeg" alt="Cover for Balnear" style="max-width:120px; height:auto;" />
       </td>
@@ -1559,7 +1560,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/JFHZh04tdI8H3J5Wu_BpU2w07DMvoTrPfd_TjLDAb4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTQy/MTItMTQwNjMyNDk2/NS0zMjk1LmpwZWc.jpeg" alt="Cover for Dub De Gaita" style="max-width:120px; height:auto;" />
       </td>
@@ -1578,7 +1579,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/rY1Ws9OEJX9_-ltYIUlP1rZgw6dEknlZ5jwHEzS_Etg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkx/NjU4LTE1NTUzMzU2/MjMtNDg3MS5qcGVn.jpeg" alt="Cover for Sicodélicos" style="max-width:120px; height:auto;" />
       </td>
@@ -1598,7 +1599,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/fV28ron-TC-8oz_qlgxHS49ZI48YsFaCsydRmodaqlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTAy/MjM3LTE2MTk2MzY5/MjAtNzkyMy5qcGVn.jpeg" alt="Cover for De Fiesta (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1635,7 +1636,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/Kfc2Xr6amFjrw8kpVF3tAhdMR_K1PMfrKPqItqfWWBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjI4/NDgwLTE2NDUzMTkw/MjctMjQwMS5qcGVn.jpeg" alt="Cover for Los Orientales de Paramonga" style="max-width:120px; height:auto;" />
       </td>
@@ -1655,9 +1656,9 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/02MV2lljS8CzAlqq5nA6CPTMzPmkHllSYlKlxYw9Y64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDky/MTQ1LTE2ODQyMTUy/MzgtNDQ5Ni5wbmc.jpeg" alt="Cover for ¡kirbia!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff47461ebfaf86c5d556d1a90b1fa776.png" alt="Cover for ¡kirbia!" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-17</td>
       <td>Louie Zong</td>
@@ -1675,7 +1676,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/V12yShxkrdepwBTx3IGBwcSzyrUiRuTAshlG-5_MjKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjIx/NzcyLTE1Mzg3NzAz/NDEtODY2MS5qcGVn.jpeg" alt="Cover for Fiesta Nacional (MTV Unplugged)" style="max-width:120px; height:auto;" />
       </td>
@@ -1693,7 +1694,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       <td>
         <ul>
             <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 72</li>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 85</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1714,13 +1715,13 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 57</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 59</li>
             <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/C18wbFCVGqb01QwU4V3kDvPJzBBPJkgMUvQfNR3iyi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODAy/NDA0LTE1OTgwNjkz/MjQtMjI5NS5qcGVn.jpeg" alt="Cover for Hoy" style="max-width:120px; height:auto;" />
       </td>
@@ -1738,33 +1739,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>92</td>
-      <td>
-          <img src="https://i.discogs.com/yg-HXMRMeLw3vRco6Omb1XwZ-FafXlF00vc0nuenIDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE4/Mzk5LTE1MzE4Nzkz/MTUtNTE2MC5qcGVn.jpeg" alt="Cover for AUTOPOIÉTICA" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-05-23</td>
-      <td>Mon Laferte</td>
-      <td>AUTOPOIÉTICA</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tango" | relative_url }}">tango</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 69</li>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 89</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/lS8mLYz0vZ0Z9Ed22DT8TFGpGGrUsffH3FIl-qO-HJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTkz/OTQ0LTE2NzcxMTE3/NTUtODI0NC5qcGVn.jpeg" alt="Cover for lo mejor de los destellos" style="max-width:120px; height:auto;" />
       </td>
@@ -1782,7 +1757,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/vUBNP0ksaeTDlbe0qxgEEnrFmM9SEQLMJQGjOEhLh0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTAw/MDUzLTE1NzU4MTAz/NzUtNzAwOS5qcGVn.jpeg" alt="Cover for Más Futuro Que Pasado" style="max-width:120px; height:auto;" />
       </td>
@@ -1823,7 +1798,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/jD8BAQpdzLZs2yDNLb-Scfd2jSHNyg_6aRitUOIWSMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTU2/MjQ2LTE2MTY0MDAz/NTQtNjc4MC5qcGVn.jpeg" alt="Cover for Cumbia Baby!" style="max-width:120px; height:auto;" />
       </td>
@@ -1841,7 +1816,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/K1IgkgHImDioIlVA791l4CgnHtDNA78YbLPfvzrZ_rI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTkz/MzAyLTE1OTg4NjIx/ODAtMTgzNi5qcGVn.jpeg" alt="Cover for 1804 Kids" style="max-width:120px; height:auto;" />
       </td>
@@ -1863,9 +1838,9 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/B7LpPLnyYeQz51M6sCjRpkjkXvngFUMEzu2tTlG-ScA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTIz/MDU2LTE1ODYyNTQ1/MDAtMzA3My5qcGVn.jpeg" alt="Cover for Al Chile" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef1acd5f54a313fd7c7445828f4862a3.png" alt="Cover for Al Chile" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-05-03</td>
       <td>Lila Downs</td>
@@ -1881,7 +1856,28 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/LnWs0Mo6fEKKZc2wvIdKal-M6agqMy-icaulWLOHtyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODkx/MDI0LTE1NjM0MzAw/NjctODIyMy5qcGVn.jpeg" alt="Cover for PLUG MIXTAPE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-07-05</td>
+      <td>Polus</td>
+      <td>PLUG MIXTAPE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/DskqoqYdy77oBbZ3HetZjmRPEhpyYAlgluFm5MjCSks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjk5/NjktMTU2MjUyOTYx/Ny0zMTY1LmpwZWc.jpeg" alt="Cover for Frente Cumbiero meets Mad Professor" style="max-width:120px; height:auto;" />
       </td>
@@ -1917,14 +1913,14 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 61</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 84</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 62</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 85</li>
             <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/b1iFU1-1qWzlSP-Fm5jK6qLZufQNJQ-fMwm-MEkhtAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTIz/ODQzLTE3MTg3NTk3/MjMtNTkzNi5qcGVn.jpeg" alt="Cover for De Reventon" style="max-width:120px; height:auto;" />
       </td>
@@ -1943,7 +1939,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4deb2f5f764e25f5c664de058b7a43a7.png" alt="Cover for Contém1drama" style="max-width:120px; height:auto;" />
       </td>
@@ -1964,7 +1960,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td></td>
@@ -1982,7 +1978,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td></td>
@@ -2012,4 +2008,4 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
 - [merengue]({{ "/tags/merengue" | relative_url }})
 - [reggaeton]({{ "/tags/reggaeton" | relative_url }})
 - [pop]({{ "/tags/pop" | relative_url }})
-- [electronic]({{ "/tags/electronic" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})

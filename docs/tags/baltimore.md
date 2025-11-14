@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-04T09:12:51.396Z
+date: 2025-11-14T01:37:09.605Z
 permalink: tags/baltimore
 title: baltimore
 ---
 
 ## baltimore
 
-Last updated: <time datetime="2025-11-04T09:12:51.396Z">Tue Nov 04 2025 11:12:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T01:37:09.605Z">Fri Nov 14 2025 03:37:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -52,8 +52,9 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77322bd00b0741f7bb07e62efcd4cd38.png" alt="Cover for I Stumble As the Crow Flies" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Reptile House</td>
@@ -72,7 +73,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/mUeoeN_JjzG1lmoXdmZHehyOuf5taXCygdqFk3RbHr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk2/MDItMTMyNTY5MDYx/OC5qcGVn.jpeg" alt="Cover for Petra Haden and Bill Frisell" style="max-width:120px; height:auto;" />
       </td>
@@ -90,7 +91,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/mUeoeN_JjzG1lmoXdmZHehyOuf5taXCygdqFk3RbHr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk2/MDItMTMyNTY5MDYx/OC5qcGVn.jpeg" alt="Cover for Bill Frisell with Elvin Jones and Dave Holland" style="max-width:120px; height:auto;" />
       </td>
@@ -109,7 +110,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/kM_3sFlD8RQ0nN92FkyYB42UCm1l0Kh0SAPcUhc5RFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU3/MjYtMTIyNDcwODEy/OC5qcGVn.jpeg" alt="Cover for Bombs Over Baltimore Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -129,9 +130,9 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
-          <img src="https://i.discogs.com/x3t__dCIEvhUV581lihPfdncl4ZRZC7b0txi9x4QHls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTAw/MzY3LTE2NTAxMTA2/MjgtNTU2MC5qcGVn.jpeg" alt="Cover for Armatage Shanks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e6da65ef684c0ca2c40ad0639208d13.png" alt="Cover for Armatage Shanks" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Ballyhoo!</td>
@@ -149,7 +150,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/t30upzXQ31VdwKP1AoNLj0pBtoIyk1wmHqerOkRwqhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTY2/MzQtMTM5MjM4Nzc2/Mi05ODk1LmpwZWc.jpeg" alt="Cover for Music For The Films Of Buster Keaton: Go West" style="max-width:120px; height:auto;" />
       </td>
@@ -167,7 +168,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/PpeyRy9CemQjY8_ccb1Ui6QRoup1yAv06TWy5AwRXnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzg3/NzQtMTMzMDQwNDQ0/MS5qcGVn.jpeg" alt="Cover for Make America Strong" style="max-width:120px; height:auto;" />
       </td>
@@ -188,7 +189,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/xJcDy_MyNWu7rrti0s0XzbWCj6ImVftu44JPff2TrXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTk3/NDctMTI5Nzk3Nzc2/OC5qcGVn.jpeg" alt="Cover for All Lesser Devils" style="max-width:120px; height:auto;" />
       </td>
@@ -209,7 +210,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/bQ9GQzCZKE25HnM4Zm4sZn_mWvRwqoceOo7NOEgaFEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDIx/MS0xNTg2NjM1MzAy/LTI4MDUuanBlZw.jpeg" alt="Cover for Lookout for Hope" style="max-width:120px; height:auto;" />
       </td>
@@ -245,7 +246,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>2001-05-29</td>
@@ -264,7 +265,24 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>42</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a45a04c6332077bd451f0467d3a6182c.png" alt="Cover for Change Is A Sound" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-08-07</td>
+      <td>Strike Anywhere</td>
+      <td>Change Is A Sound</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/KNVqL7Nwxx-1oC1FoGORH4S_0tVBqf38brKugzlJ0Ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDE3/NTAtMTQ2Nzg0OTUz/OC00NDU0LmpwZWc.jpeg" alt="Cover for New Wage Slavery - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -284,7 +302,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/kwKXvO3WZ5h8G18c6FVzlhq4QcB6o9CcX72OLPb9P4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzM5/My0xNTc5MTIyNTk3/LTM2MzUuanBlZw.jpeg" alt="Cover for Rarum V &#x2F; Selected Recordings" style="max-width:120px; height:auto;" />
       </td>
@@ -302,7 +320,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/HJOOY18_aChx2i9QlyZSMpscXMDDleOjveQMIzNDjPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTY0/NS0xNTQ1MzAyNzk5/LTMxODguanBlZw.jpeg" alt="Cover for OST - All Hat" style="max-width:120px; height:auto;" />
       </td>
@@ -321,7 +339,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/8j_BGfCc-LIUC7B8iZpdUwcnQmst1B6tQsG4Mwe-v60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjg3/NDgtMTU0NDYyNTE5/Mi01NDgyLmpwZWc.jpeg" alt="Cover for What He Doesn&#39;t Know Won&#39;t Hurt Him" style="max-width:120px; height:auto;" />
       </td>
@@ -341,7 +359,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/0SJbRnF3KCUU070M4N9mSQtqGZjwWzXj1gJaHNg3cHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE5/MzgyLTE1NzAxMDk5/NDUtMTcwMC5qcGVn.jpeg" alt="Cover for Baltimore Revisited" style="max-width:120px; height:auto;" />
       </td>
@@ -359,7 +377,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/xcFmjEE56vRBMPImSGBT2yf_Ww-GSMJk4ZgYRFTKGf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQ1/NTc4LTE1NzA4OTUx/ODYtMjk5MS5qcGVn.jpeg" alt="Cover for The Blue Collar Recital" style="max-width:120px; height:auto;" />
       </td>
@@ -413,7 +431,25 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>85</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43e64799946f485e82a739ff7b614489.png" alt="Cover for Searching for a Former Clarity" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-09-06</td>
+      <td>Against Me!</td>
+      <td>Searching for a Former Clarity</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/PK1HrYgkHv_U8Dx-D7n3q2KAVcDkmKaALPO5lhkS3I4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzk1/Ni0xMTQ1NDY1NzIx/LmpwZWc.jpeg" alt="Cover for YoYoYoYoYoYo" style="max-width:120px; height:auto;" />
       </td>
@@ -426,13 +462,14 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 76</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/309fb7e8ba743810e9de9174e3b24551.png" alt="Cover for YoYoYoYoYo" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-10</td>
       <td>Spank Rock</td>
@@ -443,12 +480,12 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 75</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/gJWFKjLhvPkRCdROC9VbCC0TBomadiDUf59wz6z2tfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjQx/OTA0LTE2MjczODM0/MDQtNDg5Ni5qcGVn.jpeg" alt="Cover for The Art of Distraction" style="max-width:120px; height:auto;" />
       </td>
@@ -466,31 +503,9 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/xpkcuQwc6w6TQmGy6TD_7gARiGPmGKWAy4lYN4CTRfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjU4/OS0xNTg4OTQ2NDQ2/LTgzNTcuanBlZw.jpeg" alt="Cover for Guantanamo Bay &#x2F; 16" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-06</td>
-      <td>Combat</td>
-      <td>Guantanamo Bay &#x2F; 16</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 2</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
-      <td>
-          <img src="https://i.discogs.com/xpkcuQwc6w6TQmGy6TD_7gARiGPmGKWAy4lYN4CTRfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjU4/OS0xNTg4OTQ2NDQ2/LTgzNTcuanBlZw.jpeg" alt="Cover for Gold Lang Syne!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e733a50356515fa5da3cf499d155d6df.png" alt="Cover for Gold Lang Syne!" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06</td>
       <td>Combat</td>
@@ -505,13 +520,35 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 26</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 23</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fa8eb852cc3c0ee32f0a9d43a42b480.png" alt="Cover for Guantanamo Bay &#x2F; 16" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-06</td>
+      <td>Combat</td>
+      <td>Guantanamo Bay &#x2F; 16</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aac7a96e055520ae1c392a6c7d147763.png" alt="Cover for Freckle Wars" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-09-05</td>
       <td>Ecstatic Sunshine</td>
@@ -529,7 +566,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/2hn1yawjmqmiRWhK4s0HEwRjZlVtfDQBWRA4jS4VQSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTg3/MDEtMTM2NDY1MjM3/My04ODk1LmpwZWc.jpeg" alt="Cover for Chemical Trains EP" style="max-width:120px; height:auto;" />
       </td>
@@ -551,7 +588,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/2hn1yawjmqmiRWhK4s0HEwRjZlVtfDQBWRA4jS4VQSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTg3/MDEtMTM2NDY1MjM3/My04ODk1LmpwZWc.jpeg" alt="Cover for Vena Cava&#x2F;Sick Sick Birds split 7&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -571,7 +608,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/8_vT6GSdlyFdENgnOwoDLojBzUXnlKKD8sqMVLSBeis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTQ0/ODYtMTI3NjI5NDg1/NC5qcGVn.jpeg" alt="Cover for Medium Noise" style="max-width:120px; height:auto;" />
       </td>
@@ -615,7 +652,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb82911ec721496480d421c7f1753d97.png" alt="Cover for Super Entertainment System" style="max-width:120px; height:auto;" />
       </td>
@@ -636,7 +673,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/JuKfJQaNdnFi0Ur_thlEi4W_YIzaClo5ex06yVM6qQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDI2/Mzk0LTE2MTkxOTM3/MDgtNTMyOC5qcGVn.jpeg" alt="Cover for Psychology 101 (2006)" style="max-width:120px; height:auto;" />
       </td>
@@ -656,7 +693,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/JuKfJQaNdnFi0Ur_thlEi4W_YIzaClo5ex06yVM6qQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDI2/Mzk0LTE2MTkxOTM3/MDgtNTMyOC5qcGVn.jpeg" alt="Cover for Spirit Avenue (2002)" style="max-width:120px; height:auto;" />
       </td>
@@ -677,7 +714,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/gp_7ghZLpzcRv-WTNhv3D4v3G03OYRH118hXyZ67pfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc5/NzUtMTMzMTE5MzY5/NC5qcGVn.jpeg" alt="Cover for Kerflooey" style="max-width:120px; height:auto;" />
       </td>
@@ -698,7 +735,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>27</td>
       <td>
       </td>
       <td>2008-05-19</td>
@@ -715,7 +752,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/mUeoeN_JjzG1lmoXdmZHehyOuf5taXCygdqFk3RbHr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk2/MDItMTMyNTY5MDYx/OC5qcGVn.jpeg" alt="Cover for Where In The World?" style="max-width:120px; height:auto;" />
       </td>
@@ -735,7 +772,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/0SJbRnF3KCUU070M4N9mSQtqGZjwWzXj1gJaHNg3cHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE5/MzgyLTE1NzAxMDk5/NDUtMTcwMC5qcGVn.jpeg" alt="Cover for Perspective Jukebox" style="max-width:120px; height:auto;" />
       </td>
@@ -753,7 +790,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5127b126f3cf41669f2d6efee257c2d0.png" alt="Cover for Bomber Blue &#x2F; Gallant Green" style="max-width:120px; height:auto;" />
       </td>
@@ -773,7 +810,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/XfCz4bOiflXUuVCjqvnE8LtWa3ts3TM-NndDRmEfUrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjY3/OTYtMTI1OTM1Njcz/Mi5qcGVn.jpeg" alt="Cover for Trollsta EP (Palms Out Sounds)" style="max-width:120px; height:auto;" />
       </td>
@@ -810,7 +847,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
       </td>
       <td>2011-05-13</td>
@@ -835,7 +872,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/a-xxZ4VI7RiPnwfH89EgDX0LihxX5iCx_uORDCMy20w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDQw/NzQtMTMxMTI4MTE2/NS5qcGVn.jpeg" alt="Cover for Still Petals" style="max-width:120px; height:auto;" />
       </td>
@@ -863,7 +900,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/a-xxZ4VI7RiPnwfH89EgDX0LihxX5iCx_uORDCMy20w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDQw/NzQtMTMxMTI4MTE2/NS5qcGVn.jpeg" alt="Cover for Still Petals EP" style="max-width:120px; height:auto;" />
       </td>
@@ -891,7 +928,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/acc57e3360b0450bc5fe64465b7d2f8c.png" alt="Cover for Rock n&#39; Roll Cereal" style="max-width:120px; height:auto;" />
       </td>
@@ -912,7 +949,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/FPWzY4mYfkkScvhMvkXJZPXmQq4DQ18rONpuy-feKbo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzU5/NTktMTMzMTg5NDgw/Ny5qcGVn.jpeg" alt="Cover for Uknown" style="max-width:120px; height:auto;" />
       </td>
@@ -936,7 +973,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/iKCMrVQhKaHnMi13oqkp_tG8SXa_DOw8wILXx83uR3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTQ2/MjUtMTMzNTA4NDA4/MS5qcGVn.jpeg" alt="Cover for Finally" style="max-width:120px; height:auto;" />
       </td>
@@ -954,12 +991,12 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 10</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/qvqcEL9tG9s6lpKz5-UYSy9mV4gS98kIhQiB49yYG10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjY0/MTMtMTQ1OTMzNTU2/NS03OTcxLmpwZWc.jpeg" alt="Cover for Solar" style="max-width:120px; height:auto;" />
       </td>
@@ -1000,7 +1037,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>36</td>
       <td>
       </td>
       <td>2012-06-19</td>
@@ -1017,7 +1054,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
       </td>
       <td>2012-08-29</td>
@@ -1030,13 +1067,13 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 2</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 59</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 14</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/1ioCFL0D7j3wUU9_aiB1SzBFiYj-Ww0hgWcHF-inB5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDE3/OTMtMTM0NTM3ODgy/Ny01MTY0LmpwZWc.jpeg" alt="Cover for wanton Ethers" style="max-width:120px; height:auto;" />
       </td>
@@ -1064,6 +1101,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/819047e7f87442cac20077f7d65f2654.png" alt="Cover for Home Is Where The Art Is" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-04</td>
       <td>Substantial</td>
@@ -1081,7 +1119,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/sw_4V5p0VLV6ograJBRHl4ef6mES2rcfdRwij0m7LcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjEx/NjMtMTM1NTk4MDAy/Mi03NzgzLmpwZWc.jpeg" alt="Cover for One Life To live" style="max-width:120px; height:auto;" />
       </td>
@@ -1101,7 +1139,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/QyFm0-HEGb8U3WXhXWP8bB4ZCmjUt_U39DpWQL2erxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYz/NzUtMTQ1OTMzMTU5/OC05NTQ0LmpwZWc.jpeg" alt="Cover for Mercurial" style="max-width:120px; height:auto;" />
       </td>
@@ -1124,7 +1162,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53b645f593ae4da5b2fa4e5e15c02c14.png" alt="Cover for U NEUTRAL" style="max-width:120px; height:auto;" />
       </td>
@@ -1144,7 +1182,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>11</td>
       <td>
       </td>
       <td>2013-03-30</td>
@@ -1165,7 +1203,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/pBuWmUrMfNDrnewqoGLq0Xkm_KHZmklbmZA3__h3n4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzQ2/NTAtMTQ4MTIxODYz/NS0yMzg0LmpwZWc.jpeg" alt="Cover for The New Mystikal Troubadours" style="max-width:120px; height:auto;" />
       </td>
@@ -1185,12 +1223,12 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 22</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/cT3yr2yCTP4BDmSJG5w7W2UkZ6KMn7xOPuGRxGNsbYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjg3/Njc0LTE1NDAwNjQw/MDQtOTQ1MS5qcGVn.jpeg" alt="Cover for My Society" style="max-width:120px; height:auto;" />
       </td>
@@ -1210,26 +1248,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td>2014-02-19</td>
-      <td>Elagabalus</td>
-      <td>ELAGABALUS</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/nmHcoNCGFxmzpk-noqnP56tO63ou19PJ6RbHR6BTrdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzQ0/MDItMTQ1OTMyNjM4/Mi04MzY2LmpwZWc.jpeg" alt="Cover for Umbral" style="max-width:120px; height:auto;" />
       </td>
@@ -1252,9 +1271,9 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/DBvVJJtllRyE6unqLXBeONY64MttvzUyIYZQ4HChYp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzAy/MzI3LTE1NzE4MDA1/MjgtNTk3NC5qcGVn.jpeg" alt="Cover for Songs in the Key of Blue" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c28215a423713b134b5b1ac97913fdba.png" alt="Cover for Songs in the Key of Blue" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-01</td>
       <td>Matt Pless</td>
@@ -1276,9 +1295,9 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/9bxS9-e9Cq-m75YI8pGhT6IdkyrScI8SXdV-VSAqBEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDgy/MzAtMTQ0NDAwMzc3/Ni0zNTU2LmpwZWc.jpeg" alt="Cover for Agenda" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4beae82b5b47b4428c4514592531b5b.png" alt="Cover for Agenda" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>F City</td>
@@ -1296,7 +1315,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/fxynyJfLYp3CD9-anH35m37sBlCc93rFwXEcoVh9X5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzIw/MzMtMTQyMTM5NDIy/Ny0zMDgwLmpwZWc.jpeg" alt="Cover for Golem&#x2F;Heavy Ether" style="max-width:120px; height:auto;" />
       </td>
@@ -1319,7 +1338,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/0SJbRnF3KCUU070M4N9mSQtqGZjwWzXj1gJaHNg3cHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE5/MzgyLTE1NzAxMDk5/NDUtMTcwMC5qcGVn.jpeg" alt="Cover for Apt. 507" style="max-width:120px; height:auto;" />
       </td>
@@ -1338,7 +1357,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/Nx-1AtFU2WjAfel0_tdkaoG1jDoC3d3WAPF_rVj-hoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDYx/NzktMTQzNjEzNjI5/NS01NjQwLmpwZWc.jpeg" alt="Cover for War" style="max-width:120px; height:auto;" />
       </td>
@@ -1357,9 +1376,9 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/37zaLMRddUYLYO345gm0OynBN6ja3hMvgwQ16fXaOis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTUy/MzYtMTQ0MzkyNDg2/MS00MDMxLmpwZWc.jpeg" alt="Cover for The Mouse Shadow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/019ded1cae966ee234c4473726e3372e.png" alt="Cover for The Mouse Shadow" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-16</td>
       <td>Stoneburner</td>
@@ -1378,9 +1397,9 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>82</td>
       <td>
-          <img src="https://i.discogs.com/Bapwcw6r6kV7SfLwFY7JUZr_1v8KMSnFCOqG-wUypJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjI4/OTUtMTQ2NjIyNTY2/My0yNTAwLmpwZWc.jpeg" alt="Cover for Boybandin&#39; Up" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a68b5dd0f497c384024574af7e52049.png" alt="Cover for Boybandin&#39; Up" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-01</td>
       <td>Sunrise Skater Kids</td>
@@ -1399,15 +1418,15 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 36</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 40</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 37</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/Bapwcw6r6kV7SfLwFY7JUZr_1v8KMSnFCOqG-wUypJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjI4/OTUtMTQ2NjIyNTY2/My0yNTAwLmpwZWc.jpeg" alt="Cover for Still Posi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e6a48887c38f4d1f98de380e3b388b2.png" alt="Cover for Still Posi" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-01</td>
       <td>Sunrise Skater Kids</td>
@@ -1423,7 +1442,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 71</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 76</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 94</li>
             <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 95</li>
         </ul>
@@ -1432,7 +1451,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/S63KMTRVsBqMwCOC5vNIi_zkZ-5WUO-RinpdW-rf_kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMw/ODQ2LTE1MDg1ODI1/NDctMjU1Mi5qcGVn.jpeg" alt="Cover for How Far I&#39;ll Go" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d25fc1b670f7cd898a5108650409c333.png" alt="Cover for How Far I&#39;ll Go" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-10</td>
       <td>Sunrise Skater Kids</td>
@@ -1447,15 +1466,15 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 43</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 58</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 44</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/S63KMTRVsBqMwCOC5vNIi_zkZ-5WUO-RinpdW-rf_kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMw/ODQ2LTE1MDg1ODI1/NDctMjU1Mi5qcGVn.jpeg" alt="Cover for Dear Maria, Count Me In (Japanese Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41d8e8e47df3b48cb79911af2aa0492e.png" alt="Cover for Dear Maria, Count Me In (Japanese Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-10</td>
       <td>Sunrise Skater Kids</td>
@@ -1474,7 +1493,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/Bapwcw6r6kV7SfLwFY7JUZr_1v8KMSnFCOqG-wUypJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjI4/OTUtMTQ2NjIyNTY2/My0yNTAwLmpwZWc.jpeg" alt="Cover for Homeless Millennial" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/091e1711e28051afbf64821001345c29.png" alt="Cover for Homeless Millennial" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-10</td>
       <td>Sunrise Skater Kids</td>
@@ -1490,14 +1509,14 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 69</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 74</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 91</li>
             <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/S63KMTRVsBqMwCOC5vNIi_zkZ-5WUO-RinpdW-rf_kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMw/ODQ2LTE1MDg1ODI1/NDctMjU1Mi5qcGVn.jpeg" alt="Cover for How Far I&#39;ll Go - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1519,9 +1538,9 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/Bapwcw6r6kV7SfLwFY7JUZr_1v8KMSnFCOqG-wUypJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjI4/OTUtMTQ2NjIyNTY2/My0yNTAwLmpwZWc.jpeg" alt="Cover for What&#39;s My Age Again?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b48c8fcb34f538da2079f5cb1d41be6.png" alt="Cover for What&#39;s My Age Again?" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-10</td>
       <td>Sunrise Skater Kids</td>
@@ -1539,9 +1558,9 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/xYA--9VBXjAp-kctIfKkhRothNqxZfMrdUILVLoBsWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMw/MzYzLTE2MDA0MDgy/OTQtNzcyNy5qcGVn.jpeg" alt="Cover for Text" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d129f11b055d497954cc58f193866e4c.png" alt="Cover for Text" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-24</td>
       <td>Combat</td>
@@ -1555,14 +1574,14 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 19</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
-          <img src="https://i.discogs.com/TWtxW6uWqkn7RXKePpwh5xuMVdQp05lpOvrjqerq02U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQ5/MDMtMTQ1ODA0NTU0/OS05NDQ0LmpwZWc.jpeg" alt="Cover for Fun" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c22a9d745474d5f42ba06399ae60b18.png" alt="Cover for Fun" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-24</td>
       <td>Combat</td>
@@ -1577,14 +1596,14 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 33</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/X75sltxtWPGu0dW6MVvt55Y0ZfVDxUIURr3Y11qgijE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY3/ODU4LTE0OTEwNTIy/NzMtNjk3OS5qcGVn.jpeg" alt="Cover for Forced Friendship" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9cf71e69930bc6f7926345fc94ecf1d.png" alt="Cover for Forced Friendship" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-24</td>
       <td>Combat</td>
@@ -1599,14 +1618,14 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 43</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/zsuKi0XKOJj5LukJDA0fsiLD7qbqdaexHqy3v-LV5Z0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEz/MTM5LTE1NTU2MjE0/OTItNTY0OC5qcGVn.jpeg" alt="Cover for Go Home" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/289ee9c855bd4c66947054ed6fe0e9b8.png" alt="Cover for Go Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-28</td>
       <td>Really Really</td>
@@ -1624,7 +1643,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/9hKQhqqDZrESm9XVZ1jTb3D8-U9Rmbl_GPafLfhS5WY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjE2/OTQ1LTE2MjgyMTcx/OTYtMjI0OC5qcGVn.jpeg" alt="Cover for Excerpts from She" style="max-width:120px; height:auto;" />
       </td>
@@ -1644,7 +1663,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/VwOq-Vaakw1aQ8efHcsm07ZdvGY1jt2hwlGG33ngr_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjcz/NzgyLTE1NzEyMjY2/NTAtMTg0NS5qcGVn.jpeg" alt="Cover for S&#x2F;T" style="max-width:120px; height:auto;" />
       </td>
@@ -1665,7 +1684,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/uHrNvd_EtneASCfUiiDXhrgfPnxkKBDjRdJKVB-kwkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDM4/MDU3LTE1NzQ1Mjg2/MTYtNzk5OC5qcGVn.jpeg" alt="Cover for beko_15" style="max-width:120px; height:auto;" />
       </td>
@@ -1694,9 +1713,9 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/OY_trPNRv-hStdE3AxKm4j0ZMADC3Gxxh36tRmrHW-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjA4/Mjg5LTE1ODgxMTM5/NTItNDkwMi5qcGVn.jpeg" alt="Cover for Forced Friendship" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b826dfca9071318e413b9e3fd8f3943.png" alt="Cover for Forced Friendship" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-17</td>
       <td>Hain&#39;s Point</td>
@@ -1712,7 +1731,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/LyK3NJoTpJDmMzBBuFE-kIdmxulFzJhHgUrKme84zDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI0/OTQyLTE1OTEzOTc5/ODEtOTk0Ny5qcGVn.jpeg" alt="Cover for Baja Blasted" style="max-width:120px; height:auto;" />
       </td>
@@ -1737,15 +1756,15 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       <td>
         <ul>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 7</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 24</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 25</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
-          <img src="https://i.discogs.com/odjzz1q9GztsMDkbWxyGDrrqD9sYhwVxG06kGLoVkew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU3/ODEyLTE3MTkzNDQx/NDUtMjgxMC5qcGVn.jpeg" alt="Cover for Turning Over" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/300a9fe15249890338da75a10cb8e38b.png" alt="Cover for Turning Over" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-03</td>
       <td>Combat</td>
@@ -1760,14 +1779,14 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 40</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/88qS8i5Yy9t_UGD0xNTB3XOEfsGKInwpomSDA3xCcI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjAy/OTMzLTE1OTQzNzA1/NDktMTc0MS5qcGVn.jpeg" alt="Cover for Transitional Forms" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e479a86e630a1b478bdf3f70ebf41a35.png" alt="Cover for Transitional Forms" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-10</td>
       <td>Sharptooth</td>
@@ -1786,9 +1805,9 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/i7qV1WtWaiEoYCWt_xT6sFFZ17unNXeZcZ-6pXcxVR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDUx/NTA5LTE2NDY4NjU5/ODgtODY2My5qcGVn.jpeg" alt="Cover for Essex Boys" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7a7777e01cdfa2ac15d9c28de80134b.png" alt="Cover for Essex Boys" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-09-26</td>
       <td>The Dead Ringers</td>
@@ -1806,14 +1825,14 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 16</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/5UjEh09V6R0aQfX87O1lr97XE3f-G_J7-k307bNADu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDA1/NDYxLTE2MDc1Mzk0/NTktMzQxOC5wbmc.jpeg" alt="Cover for Red Hot Cheeto Fingers (Hosted by Fridgidair Karats)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2104229218555cc87b63b0543f66b88c.png" alt="Cover for Red Hot Cheeto Fingers (Hosted by Fridgidair Karats)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-31</td>
       <td>Freaky</td>
@@ -1833,7 +1852,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/thlvVHIe4Z0BA9s23xXGYwcf_Kvn2WSWT-E_aHlKku8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjI5/NTY3LTE2Mzg2NDg0/NDQtNTY2Ni5qcGVn.jpeg" alt="Cover for Behind Me&#x2F;Polaroid Picture" style="max-width:120px; height:auto;" />
       </td>
@@ -1853,7 +1872,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/gvyXBkkh5nwQfDWPCMfdAPX87nxh83V2RMGbq2gSYGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzMz/MDcyLTE2NTMzNDU3/MzgtMjA0Mi5qcGVn.jpeg" alt="Cover for TRIGGER FINGER" style="max-width:120px; height:auto;" />
       </td>
@@ -1874,7 +1893,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/83BuxchFl8hq9Gl13uij0T_e2OH4mVdkgSjKwU6WoX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzE3/MjE0LTE2NDU5MTQx/NTgtOTQ0Ni5qcGVn.jpeg" alt="Cover for ULTIMATE CULPRIT" style="max-width:120px; height:auto;" />
       </td>
@@ -1897,7 +1916,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/b_PjoHXPu6hwKGUYYKW56T_yUFAQCE_Nz4eexPr-MRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjIz/MDE3LTE2NTI1MzEw/ODMtNDIwOS5qcGVn.jpeg" alt="Cover for Text Me When You Get Back" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24a12db9fa854f57a32ff06b28b28772.png" alt="Cover for Text Me When You Get Back" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-18</td>
       <td>Combat</td>
@@ -1913,15 +1932,15 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 52</li>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 61</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 54</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/4hpp7H7nb9sX3f3u54U0TVMbmJhL91pYtTqQMPNAB5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzg2/MDIzLTE2NjU0NjA1/MzUtMzczNS5qcGVn.jpeg" alt="Cover for The Lamb Lies Down in Dundalk" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71e5bd80c75266e78378b04a2be9f522.png" alt="Cover for The Lamb Lies Down in Dundalk" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-07</td>
       <td>Hain&#39;s Point</td>
@@ -1936,12 +1955,12 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 8</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -1971,26 +1990,6 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       <td>
       </td>
       <td></td>
-      <td>White Shadow</td>
-      <td>Panopticon</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>
-      </td>
-      <td></td>
       <td>TopKlasz</td>
       <td>ToP KlaSZ</td>
       <td>
@@ -2004,7 +2003,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -2022,7 +2021,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -2047,7 +2046,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -2072,7 +2071,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -2102,7 +2101,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>32</td>
       <td>
       </td>
       <td></td>
@@ -2121,7 +2120,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
       </td>
       <td></td>
