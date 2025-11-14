@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-14T07:23:57.145Z
+date: 2025-11-14T07:53:41.575Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-14T07:23:57.145Z">Fri Nov 14 2025 09:23:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T07:53:41.575Z">Fri Nov 14 2025 09:53:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [nu jazz]({{ "tags/nu-jazz" | relative_url }}) | <time datetime="2025-11-14T07:53:41.575Z">Fri Nov 14 2025 09:53:41 GMT+0200 (Eastern European Standard Time)</time> |
 | [folk punk]({{ "tags/folk-punk" | relative_url }}) | <time datetime="2025-11-14T07:23:57.145Z">Fri Nov 14 2025 09:23:57 GMT+0200 (Eastern European Standard Time)</time> |
 | [liverpool]({{ "tags/liverpool" | relative_url }}) | <time datetime="2025-11-14T06:38:32.958Z">Fri Nov 14 2025 08:38:32 GMT+0200 (Eastern European Standard Time)</time> |
 | [sasscore]({{ "tags/sasscore" | relative_url }}) | <time datetime="2025-11-14T05:55:17.536Z">Fri Nov 14 2025 07:55:17 GMT+0200 (Eastern European Standard Time)</time> |
@@ -464,7 +465,6 @@ Last updated: <time datetime="2025-11-14T07:23:57.145Z">Fri Nov 14 2025 09:23:57
 | [romantica]({{ "tags/romantica" | relative_url }}) | <time datetime="2025-11-10T18:21:07.728Z">Mon Nov 10 2025 20:21:07 GMT+0200 (Eastern European Standard Time)</time> |
 | [eurodance]({{ "tags/eurodance" | relative_url }}) | <time datetime="2025-11-10T18:20:26.179Z">Mon Nov 10 2025 20:20:26 GMT+0200 (Eastern European Standard Time)</time> |
 | [bass house]({{ "tags/bass-house" | relative_url }}) | <time datetime="2025-11-10T18:18:42.363Z">Mon Nov 10 2025 20:18:42 GMT+0200 (Eastern European Standard Time)</time> |
-| [nu jazz]({{ "tags/nu-jazz" | relative_url }}) | <time datetime="2025-11-10T18:18:28.960Z">Mon Nov 10 2025 20:18:28 GMT+0200 (Eastern European Standard Time)</time> |
 | [french rap]({{ "tags/french-rap" | relative_url }}) | <time datetime="2025-11-10T14:46:00.591Z">Mon Nov 10 2025 16:46:00 GMT+0200 (Eastern European Standard Time)</time> |
 | [motown]({{ "tags/motown" | relative_url }}) | <time datetime="2025-11-10T13:07:12.805Z">Mon Nov 10 2025 15:07:12 GMT+0200 (Eastern European Standard Time)</time> |
 | [country pop]({{ "tags/country-pop" | relative_url }}) | <time datetime="2025-11-10T13:06:22.691Z">Mon Nov 10 2025 15:06:22 GMT+0200 (Eastern European Standard Time)</time> |
