@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T10:25:13.380Z
+date: 2025-11-14T00:18:19.735Z
 permalink: tags/post-punk-revival
 title: post-punk revival
 ---
 
 ## post-punk revival
 
-Last updated: <time datetime="2025-11-11T10:25:13.380Z">Tue Nov 11 2025 12:25:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T00:18:19.735Z">Fri Nov 14 2025 02:18:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -72,14 +72,14 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 39</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38ea284fdebf4822c8e04a721e5041b3.png" alt="Cover for Dig Me Out (Remastered)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55acfdff363ae8ebf8242b1834e21453.png" alt="Cover for Dig Me Out (Remastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-06-09</td>
       <td>Sleater-Kinney</td>
@@ -100,9 +100,9 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 59</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 61</li>
             <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 85</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 88</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 90</li>
             <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 95</li>
             <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 100</li>
         </ul>
@@ -208,8 +208,8 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 8</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 76</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 12</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -284,8 +284,8 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 34</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 56</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 41</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 59</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 83</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 95</li>
         </ul>
@@ -311,7 +311,7 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 31</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -330,7 +330,7 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 91</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -349,7 +349,7 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 77</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -368,7 +368,7 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 35</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -391,7 +391,7 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 61</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -433,7 +433,7 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 16</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 18</li>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 46</li>
         </ul>
       </td>
@@ -511,8 +511,8 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 61</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 67</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 63</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 75</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 99</li>
         </ul>
       </td>
@@ -532,7 +532,7 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       <td>
         <ul>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 60</li>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 82</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -688,7 +688,7 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 21</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -707,7 +707,7 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 90</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 93</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 98</li>
         </ul>
       </td>
@@ -727,7 +727,7 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 36</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -764,8 +764,8 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 67</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 96</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 8</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -806,7 +806,7 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 30</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 31</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 74</li>
         </ul>
       </td>
@@ -844,7 +844,25 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 68</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/SVeWIpxk9yiJFE1iwDOu9Fc7u7B-def3PQrGszClw4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjU2/OTUtMTU4MzA4Mjc4/My03Nzk0LmpwZWc.jpeg" alt="Cover for Two" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-10-31</td>
+      <td>Diego</td>
+      <td>Two</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -884,8 +902,9 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72d3aac2ae91e159911740d6a278cacf.png" alt="Cover for Where Hearts Go Broke" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-10</td>
       <td>Hotels</td>
@@ -953,7 +972,6 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -973,8 +991,8 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 64</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 86</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 89</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 88</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1013,7 +1031,7 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 39</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1031,14 +1049,14 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 82</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/0ITqb2v5D9jgyzL7ApFKJZCHXM125E6ZotsuqNPgnwY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg5/MjQtMTI5MjMwNzcx/My5qcGVn.jpeg" alt="Cover for Wintering EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdb253b0ec814b1a82fc0633d454be6e.png" alt="Cover for Wintering EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12-09</td>
       <td>Chapel Club</td>
@@ -1070,8 +1088,8 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 18</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 23</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 21</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1113,7 +1131,7 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 27</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1132,14 +1150,14 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 52</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/1b6rgH0vdMrN4mgBkBEd46BaOht7W0Rvj2xKPdrfri0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjIy/MzYtMTQyMzI5NTQx/MC0zOTQ0LmpwZWc.jpeg" alt="Cover for Hanged Man" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/707bc8682d6f4a86ab3508b395afe77a.png" alt="Cover for Hanged Man" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-30</td>
       <td>Be Forest</td>
@@ -1194,7 +1212,7 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5e1b60c7b0b60001933417b3fb1a634.png" alt="Cover for N53° E7°" style="max-width:120px; height:auto;" />
       </td>
@@ -1430,7 +1448,7 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 74</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1471,7 +1489,7 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 12</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 13</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 48</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 100</li>
             <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 100</li>
@@ -1512,8 +1530,8 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 52</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 85</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 59</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 86</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 88</li>
         </ul>
       </td>
@@ -1572,7 +1590,7 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 38</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1591,14 +1609,14 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 85</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/Dp2HSozrfYz3Wm-803UGgqxDbp5Tlc4MJK06RgNsvog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTkx/MDc4LTE2NjcxMDAw/MjgtMjY0Mi5qcGVn.jpeg" alt="Cover for Medisina" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/165db162778335f6615d8ce3a1b99bbb.png" alt="Cover for Medisina" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-28</td>
       <td>zild</td>
@@ -1607,24 +1625,6 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50112811db28a3f04845675978b8d618.png" alt="Cover for Bodies" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-07-28</td>
-      <td>AFI</td>
-      <td>Bodies</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
       <td>
@@ -1651,10 +1651,9 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 44</li>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 51</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 59</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 77</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 83</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1719,17 +1718,17 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 22</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 25</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 45</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 78</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 89</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 79</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/ZS3zevjFQjhjEA3hJNhpXEKfgOvq7P9b51aP-KOH_KE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTA2/MjkwLTE2OTQxMzA5/OTQtMTkwMi5qcGVn.jpeg" alt="Cover for Bound By Naked Skies" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/787d6ad73914eed93de9ac57941a0831.png" alt="Cover for Bound By Naked Skies" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Lathe of Heaven</td>
@@ -1748,7 +1747,7 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 19</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 20</li>
             <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 60</li>
             <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 79</li>
         </ul>
@@ -1786,11 +1785,11 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 14</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 35</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 36</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 68</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 78</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 15</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 39</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 39</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 71</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 80</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 96</li>
         </ul>
       </td>
@@ -1818,9 +1817,9 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 38</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 45</li>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 75</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 39</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 46</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1842,7 +1841,7 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 85</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1869,7 +1868,7 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/cFktWT8bT-dtUIode2MXGx0RBd3kATduivvhau2KjQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzQ5/ODU5LTE3MDE0MzEw/NDctMjgwNy5qcGVn.jpeg" alt="Cover for Spiritual Cramp" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31c10b3c3e3469c9c99553735f961fb7.png" alt="Cover for Spiritual Cramp" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-11-03</td>
       <td>Spiritual Cramp</td>
@@ -1935,8 +1934,8 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 60</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 68</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 61</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -2020,7 +2019,7 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 43</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 46</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 61</li>
             <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 98</li>
         </ul>
@@ -2076,7 +2075,7 @@ Post-punk revival is a subgenre of alternative rock music that emerged in the ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 88</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 89</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 93</li>
         </ul>
       </td>

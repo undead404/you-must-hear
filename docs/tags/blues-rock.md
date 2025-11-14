@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T10:22:35.461Z
+date: 2025-11-13T23:41:29.644Z
 permalink: tags/blues-rock
 title: blues rock
 ---
 
 ## blues rock
 
-Last updated: <time datetime="2025-11-11T10:22:35.461Z">Tue Nov 11 2025 12:22:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T23:41:29.644Z">Fri Nov 14 2025 01:41:29 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,8 +29,9 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
   </thead>
   <tbody>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/625af5eb69744810a7f8c0cf41b8638a.png" alt="Cover for For Your Love" style="max-width:120px; height:auto;" />
       </td>
       <td>1965</td>
       <td>The Yardbirds</td>
@@ -47,7 +48,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
       </td>
       <td>1966-12-09</td>
@@ -65,7 +66,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b759d3eaeae5149c0f625fa318361ee.png" alt="Cover for Bee Gees&#39; 1st" style="max-width:120px; height:auto;" />
       </td>
@@ -75,19 +76,16 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>1967-09</td>
@@ -103,7 +101,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
       </td>
       <td>1967-11-02</td>
@@ -116,12 +114,12 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 16</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>1967-12-01</td>
@@ -136,13 +134,13 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 72</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 73</li>
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
       </td>
       <td>1968-06-14</td>
@@ -159,7 +157,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td>1968-07-05</td>
@@ -178,7 +176,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1e9cc74e33401283a20207efd92e113.png" alt="Cover for Truth" style="max-width:120px; height:auto;" />
       </td>
@@ -197,7 +195,26 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/edaa306699d74d3ccd7e013bf1dc26dd.png" alt="Cover for The Rolling Stones" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969</td>
+      <td>The Rolling Stones</td>
+      <td>The Rolling Stones</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db089f1f01dd82f668527454a7ce1257.png" alt="Cover for The Pious Bird Of Good Omen" style="max-width:120px; height:auto;" />
       </td>
@@ -218,7 +235,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e86c1c8e59948b59e4b2c38111fdd49.png" alt="Cover for Blind Faith" style="max-width:120px; height:auto;" />
       </td>
@@ -235,7 +252,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ef9f682db8b9adc5985909d70c34fda.png" alt="Cover for I Got Dem Ol&#39; Kozmic Blues Again Mama!" style="max-width:120px; height:auto;" />
       </td>
@@ -255,7 +272,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>1970-02-20</td>
@@ -268,12 +285,12 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       <td>
         <ul>
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 5</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 71</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b926eafe83ee7f644843c462698ef02d.png" alt="Cover for Fire And Water" style="max-width:120px; height:auto;" />
       </td>
@@ -290,7 +307,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/BQEctWIbLPIYWr41L8r3SmCxH7oeNVjLbuVOKLGK4So/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDY5/OTctMTM3Mzk3MTQz/My04OTgyLmpwZWc.jpeg" alt="Cover for Layla And Other Assorted Love Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -308,7 +325,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a869fc6368444866a5f4328b7402c430.png" alt="Cover for Pearl" style="max-width:120px; height:auto;" />
       </td>
@@ -323,13 +340,13 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 16</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 31</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 18</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>80</td>
       <td>
       </td>
       <td>1971-04</td>
@@ -344,13 +361,13 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       <td>
         <ul>
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 49</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 84</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 85</li>
             <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
       </td>
       <td>1971-08</td>
@@ -368,27 +385,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>81</td>
-      <td>
-          <img src="https://i.discogs.com/vShVC0LSn5_7UVOA5VvxoqFdSYpQOnvhr86Jn6-ZIr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODU5/MTctMTMwNDg3NzY0/NC5qcGVn.jpeg" alt="Cover for Naturally" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1971-12</td>
-      <td>J.J. Cale</td>
-      <td>Naturally</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
-            <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 79</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/Km2bjTrgCbrRlOGCF8PLs4ZuAmONDlQ87Tp0r60Z7nw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTI3/MC0xNDY5Mjc2MDU5/LTY0NzUuanBlZw.jpeg" alt="Cover for Jump Back - The Best Of The Rolling Stones, &#39;71 - &#39;93" style="max-width:120px; height:auto;" />
       </td>
@@ -405,7 +402,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a8ef7f8dbeb47ae87d280bfe5c6ca29.png" alt="Cover for Ooh La La" style="max-width:120px; height:auto;" />
       </td>
@@ -423,7 +420,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea8ef4b59665b3ce35e29b30c770c857.png" alt="Cover for The Smoker You Drink, The Player You Get" style="max-width:120px; height:auto;" />
       </td>
@@ -440,7 +437,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6e0746a0359a72d86a2119e7afcf0f9.png" alt="Cover for 461 Ocean Boulevard" style="max-width:120px; height:auto;" />
       </td>
@@ -458,7 +455,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/mBaBuALtJWA_OiBHx8ZdzD_JLR8NoMade2AcYseunYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDY0/MDYtMTM1NjIyMjE5/NC0zNjQzLmpwZWc.jpeg" alt="Cover for Troubadour" style="max-width:120px; height:auto;" />
       </td>
@@ -473,12 +470,12 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 51</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/559b8f349209404e84c8d8bdccc9d3ff.png" alt="Cover for Slowhand" style="max-width:120px; height:auto;" />
       </td>
@@ -497,7 +494,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>1979</td>
@@ -514,7 +511,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a023c42449e4670a87ec522baaa55af.png" alt="Cover for Layla &amp; Other Assorted Love Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -534,7 +531,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cea19bc24304cfd893b8f2977b3f8c1.png" alt="Cover for Eliminator" style="max-width:120px; height:auto;" />
       </td>
@@ -552,7 +549,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>1984</td>
@@ -570,7 +567,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5621513cd53d46e1c62a93861822cf4a.png" alt="Cover for Dirty Fingers" style="max-width:120px; height:auto;" />
       </td>
@@ -589,7 +586,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a1aad695389cf9ed6cbe9bb74f77b29.png" alt="Cover for Led Zeppelin IV (1994 Remaster" style="max-width:120px; height:auto;" />
       </td>
@@ -608,7 +605,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8101c2ef5ed94986c919f16168748924.png" alt="Cover for Hot Rocks (1964-1971)" style="max-width:120px; height:auto;" />
       </td>
@@ -627,7 +624,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c4c365527f6386be825bd002f282bfe.png" alt="Cover for The Best of Canned Heat" style="max-width:120px; height:auto;" />
       </td>
@@ -642,12 +639,12 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 64</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/GzZHgihVsSTbjashZi5jhtSOfTIxTTe_Z5QhfrdTb50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTE5/OC0xNTI4OTE0OTYy/LTc1NTAuanBlZw.jpeg" alt="Cover for With A Little Help From My Friends" style="max-width:120px; height:auto;" />
       </td>
@@ -665,7 +662,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21930478782aae28f76e06da67630888.png" alt="Cover for Alannah Myles" style="max-width:120px; height:auto;" />
       </td>
@@ -683,7 +680,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e042c0644a6a4acbfbf90591c9cc02bd.png" alt="Cover for Journeyman" style="max-width:120px; height:auto;" />
       </td>
@@ -701,7 +698,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c571d8307f52d6cfc076b428e38854cf.png" alt="Cover for The Joker" style="max-width:120px; height:auto;" />
       </td>
@@ -719,7 +716,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a00376b39654cd3cc4ddbffa7c140a0.png" alt="Cover for Still Got the Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -734,12 +731,12 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 46</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/CKQqZA_jLaHN6r_tcdhn7irJB9fkp5r1z-sgwQW4hjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzI3/NjQtMTUzNTYyNzAx/Mi05NDMxLmpwZWc.jpeg" alt="Cover for Luck Of The Draw" style="max-width:120px; height:auto;" />
       </td>
@@ -755,11 +752,12 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31104006a1dec923a516a1d58157ef62.png" alt="Cover for The Cream of Clapton" style="max-width:120px; height:auto;" />
       </td>
@@ -775,12 +773,12 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 4</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>1994-04-15</td>
@@ -794,33 +792,12 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 72</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2312403b76a4d75b23b2b5134142d58.png" alt="Cover for Highway 61 Revisited" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995</td>
-      <td>Bob Dylan</td>
-      <td>Highway 61 Revisited</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
-            <li style="font-size: calc(1rem * 93 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 87</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f90fb7113a5644b88f7fd56e0e295f98.png" alt="Cover for Stripped" style="max-width:120px; height:auto;" />
       </td>
@@ -839,7 +816,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>1995-10-31</td>
@@ -853,12 +830,30 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 65</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26f70da0527d4132c1640fc3f082da7d.png" alt="Cover for Eric Clapton" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Eric Clapton</td>
+      <td>Eric Clapton</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/94a72e3d35244be594149a6339cd1eda.png" alt="Cover for The White Stripes" style="max-width:120px; height:auto;" />
       </td>
@@ -875,12 +870,12 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       <td>
         <ul>
             <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 37</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 87</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd0826ec2b087119bd774ca02f3ea3c9.png" alt="Cover for Clapton Chronicles: The Best of Eric Clapton" style="max-width:120px; height:auto;" />
       </td>
@@ -899,7 +894,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/LAlM5ZCAcz-9vpfgCrIZ8CAvjTPBllfqG-vxFa0u_G8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjM4/ODYtMTQ0ODI4Njcz/MS01NzQ4LmpwZWc.jpeg" alt="Cover for Love and Theft" style="max-width:120px; height:auto;" />
       </td>
@@ -922,7 +917,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d1778ad5534495a9b269bb4edb98edc.png" alt="Cover for Riding with the King" style="max-width:120px; height:auto;" />
       </td>
@@ -937,12 +932,12 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 73</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5793d892c5ef474892ce126b2c852522.png" alt="Cover for De Stijl" style="max-width:120px; height:auto;" />
       </td>
@@ -959,12 +954,12 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       <td>
         <ul>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 35</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 85</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5d89eba9d1979e1a61a1393ba318f75.png" alt="Cover for Bayou Country (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -984,7 +979,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c27282f060a17dfcdcbf7e9d395a7c3.png" alt="Cover for 12 X 5" style="max-width:120px; height:auto;" />
       </td>
@@ -1016,12 +1011,12 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 33</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>2002-11-12</td>
@@ -1043,7 +1038,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/gyWdslenmINJDHm08eEMOeFdvnvfXm7t_2GGa74QrvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDMz/MTctMTQwMTAzMTQz/My01MTMzLmpwZWc.jpeg" alt="Cover for Climbing" style="max-width:120px; height:auto;" />
       </td>
@@ -1059,12 +1054,12 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       <td>
         <ul>
             <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 17</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 27</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8a319c1765e46ec8d79aec6e3088727.png" alt="Cover for Elephant" style="max-width:120px; height:auto;" />
       </td>
@@ -1078,14 +1073,15 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 17</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 59</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 88</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 5</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 26</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 62</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ded9e0be7d84940c98c0bbc70a3a520.png" alt="Cover for Thickfreakness" style="max-width:120px; height:auto;" />
       </td>
@@ -1103,7 +1099,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/82b68b8267234a289714c0e20c4e288d.png" alt="Cover for Led Zeppelin" style="max-width:120px; height:auto;" />
       </td>
@@ -1121,7 +1117,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/533a973c7779411faca6a4243cf39d18.png" alt="Cover for Rancho Texicano: The Very Best of ZZ Top" style="max-width:120px; height:auto;" />
       </td>
@@ -1157,7 +1153,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4bd9ed207184af23b8199fb41c8eba2.png" alt="Cover for Get Behind Me Satan" style="max-width:120px; height:auto;" />
       </td>
@@ -1172,13 +1168,13 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 23</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 32</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/85849f213e94161a305958adc2a927d5.png" alt="Cover for Try!" style="max-width:120px; height:auto;" />
       </td>
@@ -1215,7 +1211,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b535e46ae388ab246abf8f9600b38e1a.png" alt="Cover for Unchain My Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1233,7 +1229,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/32f153b85b0f477fc7b672aa04db055d.png" alt="Cover for Icky Thump" style="max-width:120px; height:auto;" />
       </td>
@@ -1248,13 +1244,13 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 53</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 84</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 57</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/tipYIZKMZlWwPGN9eTm_ghujhrKSsyN-zr81F_CKYbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk1/ODgtMTQzOTY1NTQ4/Ni04ODg3LmpwZWc.jpeg" alt="Cover for Riding With the King" style="max-width:120px; height:auto;" />
       </td>
@@ -1269,12 +1265,12 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 8</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5286c951a5c5490a8e10f63608ed86f3.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1290,7 +1286,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 42</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1313,7 +1309,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0744d6c04eede267ccf9b7f2d20dcc4b.png" alt="Cover for Most Of The Animals" style="max-width:120px; height:auto;" />
       </td>
@@ -1333,7 +1329,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
       </td>
       <td>2009-02-09</td>
@@ -1352,7 +1348,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aaa608709afe49958f07c977eeacc3e4.png" alt="Cover for The Ballad Of John Henry" style="max-width:120px; height:auto;" />
       </td>
@@ -1384,12 +1380,12 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 55</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>2009-04-19</td>
@@ -1406,7 +1402,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/937535ff8483b5cefa12cd89d2c5fe1b.png" alt="Cover for Delta Kream" style="max-width:120px; height:auto;" />
       </td>
@@ -1420,7 +1416,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 49</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1439,12 +1435,12 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 70</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/aRuAdaerb0n19PNXvyvl4K7NYB90Uo0hm1CGLTgEq_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjQ2/NjYtMTMzMzg2ODc1/Ny5qcGVn.jpeg" alt="Cover for The Bright Lights EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1459,12 +1455,12 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 60</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/rsO7hiUXAdr3iNGdzAkN4n34U4DMy0zdsOSmcljbhlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc4/ODkzLTE1MTcwNjQ3/NTktODIyMC5qcGVn.jpeg" alt="Cover for Layla And Other Assorted Love Songs (Remastered 2010)" style="max-width:120px; height:auto;" />
       </td>
@@ -1496,7 +1492,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 91</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1522,8 +1518,9 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/176d7c267546430db2264bccce48d1bd.png" alt="Cover for Born and Raised" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-18</td>
       <td>John Mayer</td>
@@ -1535,7 +1532,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 57</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 59</li>
             <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 94</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 98</li>
         </ul>
@@ -1559,7 +1556,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
       </td>
       <td>2012-10-19</td>
@@ -1577,7 +1574,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
       </td>
       <td>2013-03-12</td>
@@ -1611,13 +1608,13 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 14</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 17</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d631be95305a4e90ce8fb3f6ee33baac.png" alt="Cover for Lazaretto" style="max-width:120px; height:auto;" />
       </td>
@@ -1632,12 +1629,12 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 86</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2014-07-25</td>
@@ -1654,7 +1651,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2015-09-04</td>
@@ -1670,7 +1667,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/woTCh9pPLOgORG3I1dw9uWJuXTYSoFuNbBGkEIgMG28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/MTItMTQ3NjA2Mzk5/MS03ODQxLmpwZWc.jpeg" alt="Cover for Glitter &amp; Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,7 +1687,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/tNkcxOeSXcz0RczSdjRz9BAVTSfKKtbROq1NZIUB0C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgy/ODE4LTE2MDMxMjU3/MjUtODgyOS5qcGVn.jpeg" alt="Cover for Four Seasons" style="max-width:120px; height:auto;" />
       </td>
@@ -1712,12 +1709,12 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 45</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73b6083496123a7736904f6b77a44895.png" alt="Cover for A&#x2F;B" style="max-width:120px; height:auto;" />
       </td>
@@ -1731,12 +1728,12 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 46</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/xkdyDXSgOgaV5-jw1IjptjCalWexl_IkAy-uQXdlzR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzE0/ODgtMTY4MzkwMTI1/NS0xNTYxLmpwZWc.jpeg" alt="Cover for L.A.Woman" style="max-width:120px; height:auto;" />
       </td>
@@ -1752,14 +1749,15 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       <td>
         <ul>
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 50</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 85</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 86</li>
             <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d61ad1c1a7bc9f08f83a3a0270fa1f5.png" alt="Cover for Waiting on a Song" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-19</td>
       <td>Dan Auerbach</td>
@@ -1775,7 +1773,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/E2gMz3OkWuX3IDdBfUThvWyePqyc8kuej2_rh8eHIR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTI3/Nzk0LTE1MDY2NzY5/OTMtOTcxNC5qcGVn.jpeg" alt="Cover for The Attractions of Youth" style="max-width:120px; height:auto;" />
       </td>
@@ -1795,7 +1793,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/FXr0FLYaFahhqarFixFrM0LZq6rOeHeER8Tuub_GTXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEz/OTE2LTE1MTY5MDQ4/MzMtODUyNS5qcGVn.jpeg" alt="Cover for From the Fires" style="max-width:120px; height:auto;" />
       </td>
@@ -1815,7 +1813,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d45db7dab89e150f5dd1a1028fe49d61.png" alt="Cover for Boarding House Reach" style="max-width:120px; height:auto;" />
       </td>
@@ -1833,7 +1831,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6e430ff0d6aee5fcb45c2ec9d83250d.png" alt="Cover for Hear Me Out" style="max-width:120px; height:auto;" />
       </td>
@@ -1847,12 +1845,12 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 24</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
       </td>
       <td>2019-06-28</td>
@@ -1869,7 +1867,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/Xx7jgBdECDrqVxUxpyibtMfXPBB3JYetI-w1DjfxJ4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjUz/MDUwLTE2MjQ0OTU0/MzEtNDQ2OS5qcGVn.jpeg" alt="Cover for Death Of A Cheerleader" style="max-width:120px; height:auto;" />
       </td>
@@ -1894,15 +1892,15 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       <td>
         <ul>
             <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 4</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 24</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 27</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 27</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 28</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 65</li>
             <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/jyGZ2zPy8wdSCErgCdGk7lepiNE8X9h_pH9VgmyI4VI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzY1/ODU2LTE2NDkyNjc1/NTctMjAzOC5qcGVn.jpeg" alt="Cover for Fear Of The Dawn" style="max-width:120px; height:auto;" />
       </td>
@@ -1917,7 +1915,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 14</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1942,7 +1940,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td></td>
