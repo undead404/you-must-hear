@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-13T16:40:35.168Z
+date: 2025-11-13T16:42:28.310Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-13T16:40:35.168Z">Thu Nov 13 2025 18:40:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T16:42:28.310Z">Thu Nov 13 2025 18:42:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [midwest]({{ "tags/midwest" | relative_url }}) | <time datetime="2025-11-13T16:42:28.310Z">Thu Nov 13 2025 18:42:28 GMT+0200 (Eastern European Standard Time)</time> |
 | [live recording]({{ "tags/live-recording" | relative_url }}) | <time datetime="2025-11-13T16:40:35.168Z">Thu Nov 13 2025 18:40:35 GMT+0200 (Eastern European Standard Time)</time> |
 | [toronto]({{ "tags/toronto" | relative_url }}) | <time datetime="2025-11-13T16:39:26.357Z">Thu Nov 13 2025 18:39:26 GMT+0200 (Eastern European Standard Time)</time> |
 | [pop latino]({{ "tags/pop-latino" | relative_url }}) | <time datetime="2025-11-13T16:39:04.562Z">Thu Nov 13 2025 18:39:04 GMT+0200 (Eastern European Standard Time)</time> |
@@ -466,7 +467,6 @@ Last updated: <time datetime="2025-11-13T16:40:35.168Z">Thu Nov 13 2025 18:40:35
 | [dark cabaret]({{ "tags/dark-cabaret" | relative_url }}) | <time datetime="2025-11-08T14:30:55.505Z">Sat Nov 08 2025 16:30:55 GMT+0200 (Eastern European Standard Time)</time> |
 | [portland]({{ "tags/portland" | relative_url }}) | <time datetime="2025-11-08T14:30:10.436Z">Sat Nov 08 2025 16:30:10 GMT+0200 (Eastern European Standard Time)</time> |
 | [woman]({{ "tags/woman" | relative_url }}) | <time datetime="2025-11-08T14:29:28.225Z">Sat Nov 08 2025 16:29:28 GMT+0200 (Eastern European Standard Time)</time> |
-| [midwest]({{ "tags/midwest" | relative_url }}) | <time datetime="2025-11-08T14:28:04.354Z">Sat Nov 08 2025 16:28:04 GMT+0200 (Eastern European Standard Time)</time> |
 | [cloud rap]({{ "tags/cloud-rap" | relative_url }}) | <time datetime="2025-11-08T14:27:56.999Z">Sat Nov 08 2025 16:27:56 GMT+0200 (Eastern European Standard Time)</time> |
 | [german hip hop]({{ "tags/german-hip-hop" | relative_url }}) | <time datetime="2025-11-08T14:27:42.320Z">Sat Nov 08 2025 16:27:42 GMT+0200 (Eastern European Standard Time)</time> |
 | [country]({{ "tags/country" | relative_url }}) | <time datetime="2025-11-08T10:46:52.627Z">Sat Nov 08 2025 12:46:52 GMT+0200 (Eastern European Standard Time)</time> |
