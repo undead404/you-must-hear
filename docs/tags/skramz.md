@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:48:36.262Z
+date: 2025-11-14T04:24:26.959Z
 permalink: tags/skramz
 title: skramz
 ---
 
 ## skramz
 
-Last updated: <time datetime="2025-10-28T06:48:36.262Z">Tue Oct 28 2025 08:48:36 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T04:24:26.959Z">Fri Nov 14 2025 06:24:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
   </thead>
   <tbody>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/v4tspa9f5_Uj8g2V8c4xPgRr7NFWgWFVVJSRXZOmwDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDky/MDE5LTE2MjMzNDc0/MjQtNDgxMS5qcGVn.jpeg" alt="Cover for coma garden" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for fall split" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +66,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f0dfab319e22be7f94ffebb72446926.png" alt="Cover for 3 songs" style="max-width:120px; height:auto;" />
       </td>
@@ -87,9 +87,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/VyKmH5a7x2e7BUbaDr5jiy9PE0sdKx-ElNtjPCGDoTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDA3/Mi0xMTczNDEyMDQy/LmpwZWc.jpeg" alt="Cover for Destination" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42a1bb302a3ead1ab78fb48dac969216.png" alt="Cover for Destination" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Heroin</td>
@@ -105,7 +105,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/mnPZLBaSmbc0UJhov-77eDOx0Zv92ZcQth4iIsq84sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mjky/NjUtMTQxMDMyNTA4/OS0xNjQ4LmpwZWc.jpeg" alt="Cover for We Hate You" style="max-width:120px; height:auto;" />
       </td>
@@ -124,7 +124,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d30976a2e786101ec23608aac5e0b50.png" alt="Cover for In Love With Jetts &#x2F; The Lady Is a Cat" style="max-width:120px; height:auto;" />
       </td>
@@ -145,7 +145,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c82d4c6ee45de9b7e5fb582e7089333.png" alt="Cover for Revolution Summer" style="max-width:120px; height:auto;" />
       </td>
@@ -164,7 +164,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/GTRrT5abP4pclYx9_9ZYhjOZ2VQntLA1kHUPgJtao7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzk5/OTctMTUzNDExNTQ5/NC0zNTIzLmpwZWc.jpeg" alt="Cover for Document #1" style="max-width:120px; height:auto;" />
       </td>
@@ -183,7 +183,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1c93b79d1d248a3ae5d006e10fb3362.png" alt="Cover for Chaos Is Me" style="max-width:120px; height:auto;" />
       </td>
@@ -198,15 +198,15 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 72</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 74</li>
             <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/5XpDamNHZPo4m0I9lpaoy9YIkQmuY1ZLvyEAz7cIHfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTQ5/OTEtMTQ0OTM0ODY5/My00NzA3LmpwZWc.jpeg" alt="Cover for Document #4" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3d3f2c15381cf484dbf2500ce847e97.png" alt="Cover for Document #4" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-07-07</td>
       <td>Pg.99</td>
@@ -226,7 +226,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/SN9ADp1a6giY9mksQ6YShXPl0JzBz3_YO7t9Z0s-qAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTIx/MDUtMTMzMjUzMDc3/Ny5qcGVn.jpeg" alt="Cover for Violent Resignation: The Great American Teenage Suicide Rebellion 1992-1998" style="max-width:120px; height:auto;" />
       </td>
@@ -266,7 +266,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2000</td>
@@ -283,7 +283,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/007a2e6f543f0d851b3d573a3ebdeb4c.png" alt="Cover for Seeing Means More Than Safety" style="max-width:120px; height:auto;" />
       </td>
@@ -303,7 +303,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72ee3377cad50ffd035f199f7b90e92f.png" alt="Cover for Hassan I Sabbah" style="max-width:120px; height:auto;" />
       </td>
@@ -324,7 +324,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/p5bygAyXgfBuy7iXqlq5R4jNj9mkfX6_1v44KmdBWCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODYz/NDktMTM2NTA2MTE0/My01NTgwLmpwZWc.jpeg" alt="Cover for Jeromes Dream&#x2F;Orchid" style="max-width:120px; height:auto;" />
       </td>
@@ -360,12 +360,12 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 5</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/87Zpjl9fCodRkpbbMm60qw5z5VJk1h4euADf9mZUsGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUx/MDYtMTcxMTA0Nzg1/MS02NjgwLmpwZWc.jpeg" alt="Cover for Discography" style="max-width:120px; height:auto;" />
       </td>
@@ -383,7 +383,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2001</td>
@@ -400,7 +400,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/-CX0kU0cufw2K9YCXC8Vn1tUMTX_0pZBiR6evnhDiSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Mjcx/ODgtMTQzOTY1OTk3/Mi0yMzU2LmpwZWc.jpeg" alt="Cover for three days &#39;til christmas" style="max-width:120px; height:auto;" />
       </td>
@@ -421,7 +421,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/BZ5EUC24Y86b5DYeoJfO_uvHntxK9QJ1R3GTP1C3Ut8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTQ4/MDgyLTE2MDEyNDMw/OTctNDcxNy5qcGVn.jpeg" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
@@ -443,8 +443,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/801806b8f14cb652711515dd0335c509.png" alt="Cover for A Retrospective" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10-01</td>
       <td>Saetia</td>
@@ -458,12 +459,13 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 3</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/Kvb4d05TGE1WcLGcGKWiod8Cti3KhAaOOEfEMwBK53c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTMx/MzE4LTE1ODcwODMw/NDEtMzAzOC5qcGVn.jpeg" alt="Cover for A Days Refrain&#x2F;Neil Perry Split" style="max-width:120px; height:auto;" />
       </td>
@@ -491,7 +493,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/_Y9gtjLJBq5Vho_bFlaeGgO7NnI1vjgCAl0RrHRKwH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTUw/MjMtMTU5NzcyMzk0/My0zNzY1LmpwZWc.jpeg" alt="Cover for Discography" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c60d6abebc116c7cc2cb3ae39906473.png" alt="Cover for Discography" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-09-16</td>
       <td>Maximillian Colby</td>
@@ -511,12 +513,12 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       <td>
         <ul>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 58</li>
-            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 59</li>
+            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59bf37d1a23dfcd6562f591828c37f28.png" alt="Cover for Discography" style="max-width:120px; height:auto;" />
       </td>
@@ -536,7 +538,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5aff0ae327980f72ddaccd4da64b0639.png" alt="Cover for Disinformation Fix" style="max-width:120px; height:auto;" />
       </td>
@@ -576,7 +578,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/_urKx19jGE6rQAoUoLwYNhknh5lzSrEcDEteCKF6dTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTkx/Nzg2LTE2MjcwMTY2/OTctNzMxOS5wbmc.jpeg" alt="Cover for MASK" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3857664e7e0cf3c18661531a348ce132.png" alt="Cover for MASK" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-03-10</td>
       <td>Dream</td>
@@ -588,9 +590,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 51</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 64</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 74</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 86</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 87</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 100</li>
         </ul>
       </td>
@@ -618,9 +620,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/ALWQqpfCafAwv_ZkgHqW0xxFj22vzx0BPL1vJMV129I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjI1/Nzc0LTE1NTc3Nzc4/MTQtNDI4OC5wbmc.jpeg" alt="Cover for Document #7" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82d9e46fa10667c5b51c7fa8b5c3571a.png" alt="Cover for Document #7" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-22</td>
       <td>Pg.99</td>
@@ -639,9 +641,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/mqy01TQL86vR6UGyhronV-AUb9WYRVNF6lCHjaCNL6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzQz/NTUtMTUyNDc5MTEw/Mi03NTgzLmpwZWc.jpeg" alt="Cover for Singles" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98c725cc103a4be894de3de9f070e57d.png" alt="Cover for Singles" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-22</td>
       <td>Pg.99</td>
@@ -657,7 +659,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/dT1RCUUg1enRNG7X4Ls3jGO63C28Y8qqQgVrurrXUDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQ1/NTEtMTQ4MjQzMjEy/Ny01NDMzLmpwZWc.jpeg" alt="Cover for Oh Wow!" style="max-width:120px; height:auto;" />
       </td>
@@ -680,7 +682,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/08ln4TWJBlEllxVskdF3Y6C08CWNkc1VRsbdtjJIhYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODUw/NjMtMTI0MzE2NzM3/Ni5qcGVn.jpeg" alt="Cover for Popozão" style="max-width:120px; height:auto;" />
       </td>
@@ -698,7 +700,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/d2vrYQRwBdXEV9joNLqwNFUQTtcZThM6djo9u3PEANU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Mjk0/MTYtMTYxOTAzMTU5/My00MDk0LmpwZWc.jpeg" alt="Cover for demo" style="max-width:120px; height:auto;" />
       </td>
@@ -718,7 +720,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/102258be87f0fdae552beba52dab8855.png" alt="Cover for All Is Apologized For. All Is Forgiven" style="max-width:120px; height:auto;" />
       </td>
@@ -737,7 +739,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/2MjuBatf1PO-4jx8Df8qWJwmPQlICji9tyDeRgIaJtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDI3/NzEtMTQzODQwNTE4/NS01MjE5LnBuZw.jpeg" alt="Cover for Dead Bergeron" style="max-width:120px; height:auto;" />
       </td>
@@ -756,7 +758,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/kQiv5oOxNUCOWZpLR9DojYJJ5MT3Ed6kc6omCo1k3Ss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTky/NjItMTIzMTc2NDc4/MC5qcGVn.jpeg" alt="Cover for Some Blood" style="max-width:120px; height:auto;" />
       </td>
@@ -778,7 +780,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/sO0hWG5TLXu-NJiajFP6cOROukD4d1fx0Wz1NM-xkeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDY1/NDktMTI5MjQ0MzUy/OC5qcGVn.jpeg" alt="Cover for Shadows" style="max-width:120px; height:auto;" />
       </td>
@@ -796,7 +798,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/IcFM-7d5KkKq0V0HuZNlYMVn6dTf608jshYK-UwBYaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDM4/MzEtMTQ0MDc3OTA2/Ny01OTk2LmpwZWc.jpeg" alt="Cover for So Alone" style="max-width:120px; height:auto;" />
       </td>
@@ -889,31 +891,32 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       <td>
         <ul>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 3</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 9</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 16</li>
             <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 28</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 30</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 42</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 44</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 49</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 51</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 53</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 58</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 62</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 62</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 62</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 63</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 65</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 66</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 67</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 72</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 75</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 81</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 81</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 82</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 85</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 85</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 85</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 87</li>
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 89</li>
@@ -922,9 +925,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/mp-Tm_6yQdU8b9g4Yo9VV9xpPupnkjEMhS9gf8_S6f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI0/OTI3LTE1NDI2NjIw/OTUtMzI0Mi5qcGVn.jpeg" alt="Cover for What do you mean We&#39;re just Friends?!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8f9cae93f864396bdd14c566a46ce15.png" alt="Cover for What do you mean We&#39;re just Friends?!" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-12</td>
       <td>Mane Horse</td>
@@ -973,16 +976,16 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 33</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 51</li>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 65</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 34</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 49</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/mp-Tm_6yQdU8b9g4Yo9VV9xpPupnkjEMhS9gf8_S6f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI0/OTI3LTE1NDI2NjIw/OTUtMzI0Mi5qcGVn.jpeg" alt="Cover for Lord Unicorn &amp; The Masters" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6b6cd6ec1ff42d9b39d8678d213c646.png" alt="Cover for Lord Unicorn &amp; The Masters" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-12</td>
       <td>Mane Horse</td>
@@ -1031,18 +1034,18 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 3</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 7</li>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 44</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 58</li>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 71</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 12</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 45</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 56</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/TAEJG85TwciyhfDEqZSmSf4L0zie6_8oknW1ULUhdOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODE3/MDItMTQ0NDQ5ODAx/Ny0xMzcwLmpwZWc.jpeg" alt="Cover for Things Fall Apart" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/021b9f0a0d5f419dc134ffcb1a8b1689.png" alt="Cover for Things Fall Apart" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Things Fall Apart</td>
@@ -1082,9 +1085,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/seCA0FD-_qNGu_aEv8aTXSwS8OQ7TaFTvqYBosJHl8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTY0/NDItMTQwODM5Mjgz/Ny0xNjM0LmpwZWc.jpeg" alt="Cover for Broken" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f614089f213bf5e01d558814ba9503b6.png" alt="Cover for Broken" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-17</td>
       <td>Fight Fair</td>
@@ -1101,7 +1104,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/5eb3hYgDNGQ63SwRLx5jWL_AIFMfZirXT3kDuB65veU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDE5/NTk5LTE2MzQ5MTgz/MjctNzQ2MC5qcGVn.jpeg" alt="Cover for Pipi caca" style="max-width:120px; height:auto;" />
       </td>
@@ -1130,7 +1133,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/8e7JGWoJAFL2w0k8xRDr5jPZVfQLiVdA4FloRYiszg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTc1/NjctMTQzMDQzNDQ3/Ny0zODkzLmpwZWc.jpeg" alt="Cover for Full of Hell&#x2F;Goldust" style="max-width:120px; height:auto;" />
       </td>
@@ -1153,15 +1156,16 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 4</li>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 5</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 18</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0973610d4ef36b301aeba9f87604757.png" alt="Cover for Hot Problems" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-18</td>
       <td>Double Take</td>
@@ -1258,10 +1262,10 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 13</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 26</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 32</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 37</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 43</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 33</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 40</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 43</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 43</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 44</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 47</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 48</li>
@@ -1269,8 +1273,8 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 57</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 61</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 70</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 72</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 73</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 73</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 75</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 75</li>
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 76</li>
@@ -1281,7 +1285,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e483d19c31fd9844a7da2be235edd75a.png" alt="Cover for Lumens" style="max-width:120px; height:auto;" />
       </td>
@@ -1319,9 +1323,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/XweFblP06qu23x-GUjtMXKGi3ZcC03JTjn7M6YQAXnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDkz/MzAtMTM3MTA0NTI4/My02NTYyLmpwZWc.jpeg" alt="Cover for Live At New Alliance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/812d0344dea14bf3bc9f7d65a715ab03.png" alt="Cover for Live At New Alliance" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-11</td>
       <td>The Saddest Landscape</td>
@@ -1343,7 +1347,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2014-02-26</td>
@@ -1357,29 +1361,29 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 6</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 9</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 8</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 11</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 15</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 31</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 32</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 34</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 38</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 42</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 46</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 50</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 52</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 64</li>
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 71</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 73</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 74</li>
             <li> <a href="{{ "/tags/unblack-metal" | relative_url }}">unblack metal</a> # 79</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 81</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 84</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 85</li>
             <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 92</li>
             <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/xvZCtncdvnJQVlxO5fAppyOMZNFoTzAvneusZuewSYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NzMx/MjktMTQyNDM0Nzg5/Ni05MDg1LmpwZWc.jpeg" alt="Cover for Nightlife" style="max-width:120px; height:auto;" />
       </td>
@@ -1398,7 +1402,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/_POdwFA6s1il1nxGg5-LAQShF_5G760h-D2Vd9dSQyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTAy/MTAtMTQyNzEwNTYw/NC01MzM4LmpwZWc.jpeg" alt="Cover for Le Voyageur Imprudent" style="max-width:120px; height:auto;" />
       </td>
@@ -1419,7 +1423,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/687c20e845a4d816f4ed00bd217e431b.png" alt="Cover for Pee Pee Poo Poo" style="max-width:120px; height:auto;" />
       </td>
@@ -1444,7 +1448,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/9maYFKX979U31K81tG47qR8Okbj1T_8u5tIZ5DVS41s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTUz/ODctMTQ0MzkzMTAw/My0zMzEwLmpwZWc.jpeg" alt="Cover for Self Portrait" style="max-width:120px; height:auto;" />
       </td>
@@ -1463,7 +1467,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fd96f8e428811920f0c10ee907d0371.png" alt="Cover for demo" style="max-width:120px; height:auto;" />
       </td>
@@ -1480,27 +1484,6 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       <td>
         <ul>
             <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 73</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91af045e904dc722d509901be785bfdc.png" alt="Cover for Collected" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016</td>
-      <td>Saetia</td>
-      <td>Collected</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 55</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 59</li>
-            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1525,7 +1508,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/BGyM6NHdnFqX9vETGXTv5efoRZtHs7UTLh0wANIzdIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg3/MjkwLTE1NTE0Mjgw/OTMtNzc5Mi5qcGVn.jpeg" alt="Cover for In Various States of Disassembly" style="max-width:120px; height:auto;" />
       </td>
@@ -1552,9 +1535,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/osxz7i8xgOiIXrgBpsDC98nn-ZwFOEfQFH_BL6TGxoc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTUw/MTYzLTE1Mjk4NTQx/MDMtMTc4NC5qcGVn.jpeg" alt="Cover for I&#39;m Really Not That Upset About It" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bf14db497e193e2283eba4a27cae2ce.png" alt="Cover for I&#39;m Really Not That Upset About It" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-29</td>
       <td>Stars Hollow</td>
@@ -1570,12 +1553,12 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 94</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/tf1jwG4k6A9FnxzJubrkvAyKUt669-broAczdX16EnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Nzkz/MTItMTQ4MTMwMzAy/OS00ODI1LmpwZWc.jpeg" alt="Cover for slow burn" style="max-width:120px; height:auto;" />
       </td>
@@ -1592,13 +1575,13 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 32</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 41</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/21vy9r_ni-4um0A6Rtlc3qbvgoilvecMGqK4gT8jgDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Njk4/NDktMTQ4MTEzMDgw/Mi04OTAxLmpwZWc.jpeg" alt="Cover for Heavenward" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,7 +1599,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/acd511accbaa001e60cde8bd9e5fa2ba.png" alt="Cover for Non è vero che non ho più l&#39;età" style="max-width:120px; height:auto;" />
       </td>
@@ -1636,9 +1619,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/uUAxBozth9sDfsQvehdXnPRa3DfCkXkSaVtBABskJIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY1/MDUzLTE0OTYwNTc5/MjEtMzQyMC5qcGVn.jpeg" alt="Cover for CHEAT DEATH, LIVE DEAD!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/831b22d615e0726980116af6e109f560.png" alt="Cover for CHEAT DEATH, LIVE DEAD!" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-17</td>
       <td>Shizune</td>
@@ -1654,7 +1637,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/fgN7vwv0TuUZ9GY07vrQow4gpfWo2YDXygfSbzyvQpk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODI0/ODkzLTE1MDQ5MjIz/MjctNDc4OC5qcGVn.jpeg" alt="Cover for Burrows &amp; Other Hideouts" style="max-width:120px; height:auto;" />
       </td>
@@ -1675,7 +1658,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/yMben-nQ8xGaNWoX-c1puXBudc9K9Yr2Khpi5_QKzes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU0/NDk0LTE1MTA4NjEx/MzItMjEzMi5qcGVn.jpeg" alt="Cover for Frail Hands" style="max-width:120px; height:auto;" />
       </td>
@@ -1693,7 +1676,27 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2cc3f51abdee73612b689b12ff3f6165.png" alt="Cover for La Fine degli Uomini Faro" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-10-01</td>
+      <td>Radura</td>
+      <td>La Fine degli Uomini Faro</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/SCnwfGksFzI35N-UoUZbjl3Htp9T3aqTh7fmn-lTlkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDAw/ODMzLTE1MjYzMjEx/MTAtMjc1Ni5qcGVn.jpeg" alt="Cover for Prima Che Tutto Bruci" style="max-width:120px; height:auto;" />
       </td>
@@ -1711,9 +1714,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/0hU1m_PC2Oh2jekJBeyPThBKVS_ewn-rE6ACKuc8aNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDI4/OTg4LTE1MTYyMTc0/MzItNzY3Mi5qcGVn.jpeg" alt="Cover for what people call low self-esteem is really just seeing yourself the way that other people see you" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/563340df55711113dd1dde54658212e4.png" alt="Cover for what people call low self-esteem is really just seeing yourself the way that other people see you" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-01-03</td>
       <td>awakebutstillinbed</td>
@@ -1731,7 +1734,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/105cfc150a069d0305deed43c0600d08.png" alt="Cover for The Shackles Of Birth" style="max-width:120px; height:auto;" />
       </td>
@@ -1752,9 +1755,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/vgY_KWoGf28-KvAi1PIOfaSQsBlxl9A8fQFjULi0eJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM3/MTM1LTE1NDI5MDc0/NTMtODAwNS5qcGVn.jpeg" alt="Cover for Burial Etiquette" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1f8e507ac2a6f8da717f5ec67fd9884.png" alt="Cover for Burial Etiquette" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-14</td>
       <td>Burial Etiquette</td>
@@ -1773,7 +1776,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/cVX1ndfgYYI6Ai5UtjLzj4PidMDrjqHRR1xwqVhmFzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTAy/ODIwLTE1NzU4NDU4/MTUtNzY0Ny5qcGVn.jpeg" alt="Cover for Death of Spring" style="max-width:120px; height:auto;" />
       </td>
@@ -1809,9 +1812,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
-          <img src="https://i.discogs.com/4YPmlu_u_-7mQSeIiUxHOVymng3aZJbaXLSDwrkLb6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM1/NjQxLTE1Nzg2MzAy/MzYtODA0MS5wbmc.jpeg" alt="Cover for our mouths to smile" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d9ac6fb89c7c0d048526ea1ee01743b.png" alt="Cover for our mouths to smile" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-23</td>
       <td>home is where</td>
@@ -1833,7 +1836,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5cb8749ef5af8670a26772bf8eb1b36.png" alt="Cover for LP" style="max-width:120px; height:auto;" />
       </td>
@@ -1853,7 +1856,31 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/964a44dd68219d0417f60650dff835a3.png" alt="Cover for bloom" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-10-14</td>
+      <td>Old Pride</td>
+      <td>bloom</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
       <td>
       </td>
       <td>2020-03</td>
@@ -1870,7 +1897,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/tZQrO05xoxa6YDFJfCpMs-Xd6lG-PVMUSjWsNz7tbjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTIw/NzE5LTE2NTQ3OTY4/ODktODk0My5qcGVn.jpeg" alt="Cover for pesadelos" style="max-width:120px; height:auto;" />
       </td>
@@ -1889,9 +1916,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/oSeESpkeiLqNe5K-SQoA1g5zTIju60_QI1U-FuQQWhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzI2/MzYwLTE2MDIzMTIz/MTMtNjkxMS5qcGVn.jpeg" alt="Cover for held tight in fragile embraces" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be0739036014f38b28027bce4318e4ff.png" alt="Cover for held tight in fragile embraces" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-08-04</td>
       <td>Burial Etiquette</td>
@@ -1910,9 +1937,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
-          <img src="https://i.discogs.com/WTQKApkBoStLpClXKKIXJuXC_1M5HkA8B8Dmi4qlXpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIx/NjAxLTE2MDUyMjYx/NDUtNDcxNS5qcGVn.jpeg" alt="Cover for Lament" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d29426fe633519211cee9819b55cbb88.png" alt="Cover for Lament" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-09</td>
       <td>Touché Amoré</td>
@@ -1928,15 +1955,15 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 41</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 48</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/B7N90dpQW87Rgqbw-Ec_LjY59MvNDaBzHjoWR0XtUS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDQz/NDg1LTE2Njc1MTQx/NzgtNjAwMy5qcGVn.jpeg" alt="Cover for the scientific classification of stingrays" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0070fbb6ea06f185926ae7c783da29e4.png" alt="Cover for the scientific classification of stingrays" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-23</td>
       <td>home is where</td>
@@ -1953,38 +1980,33 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 22</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 24</li>
             <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/ELyE1BS-WhKMUmdEnlW6o-EVk5_rJUI_BfiIIG32BVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzc0/MDMwLTE2MDczNTY2/NDQtNjAwOC5qcGVn.jpeg" alt="Cover for your arms are my cocoon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9f0a624749755b373e4a2e34038b29d.png" alt="Cover for your arms are my cocoon" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11-20</td>
       <td>Your Arms Are My Cocoon</td>
       <td>your arms are my cocoon</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 40</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 45</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
-          <img src="https://i.discogs.com/K6vxMq4lg7bWCsaaMzYafoIdewDtv-lUrKQoys3-X9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODEx/OTczLTE2MDk5Njg1/NDEtMTAwNC5qcGVn.jpeg" alt="Cover for The Devil Shining Out Your Eyes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93f6044f3d5a77e9b77643c2ebb2978f.png" alt="Cover for The Devil Shining Out Your Eyes" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-12-31</td>
       <td>Eyelet</td>
@@ -2000,7 +2022,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/VUw2cs95qi_st-Tq30R6sXS2YLniVaWEMM99RRW-5qo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgy/MTM2LTE2MjAxMDYz/NDEtMjgzNy5qcGVn.jpeg" alt="Cover for rainmaking" style="max-width:120px; height:auto;" />
       </td>
@@ -2022,9 +2044,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
-          <img src="https://i.discogs.com/tCKaTGFgWyNryse2zb9FU9WfKN39RdgZxFzhcoLyE5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDgw/MDE3LTE2MTcxMjIw/NjUtNzU0NC5qcGVn.jpeg" alt="Cover for I Became Birds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a55c583dd32b965b46e24963338dc8c.png" alt="Cover for I Became Birds" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-05</td>
       <td>home is where</td>
@@ -2041,14 +2063,14 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 48</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 76</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 54</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 77</li>
             <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/hMqX7pzi2Tj4uMeffxCGPKv6-FHLwJZoGEI8_-Jtrc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg2/NjQxLTE2MTcxNjc5/OTItNzE2OS5qcGVn.jpeg" alt="Cover for Out of Our Hands" style="max-width:120px; height:auto;" />
       </td>
@@ -2071,7 +2093,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/d7vG6cEMp-s9feU49LBcds0aI4z4KWCYM9sDvUxZHXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTI0/ODg3LTE2MTk3NzUx/ODctMzg0Ni5qcGVn.jpeg" alt="Cover for moshimoshi I" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ede77dcd98da6abe5195a9785f99957.png" alt="Cover for moshimoshi I" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-30</td>
       <td>MoshiMoshi</td>
@@ -2086,14 +2108,14 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 43</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/ZUeVYG4ijDfrQj860Dey1ovSqW_N00tjg-i4U5nYX_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDg1/Njc0LTE2MjMzMDk5/MjctNTQxMi5qcGVn.jpeg" alt="Cover for to realize its own, the earth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4590208dfbf2bdba12eb54894d08f621.png" alt="Cover for to realize its own, the earth" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-21</td>
       <td>Dim</td>
@@ -2108,27 +2130,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>89</td>
       <td>
-          <img src="https://i.discogs.com/k4j2RtmINZzrLNUl7TM9eZkN-ePXs5zoayV6R0MBGW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDI1/MTkzLTE2MjU3NzY3/NTEtNDExMy5qcGVn.jpeg" alt="Cover for The Civil War in France" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-05-31</td>
-      <td>The Civil War in France</td>
-      <td>The Civil War in France</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>88</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efe885751feb1c4604da79662aa51a52.png" alt="Cover for the truth about hatsune miku" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-08-31</td>
       <td>That Same Street</td>
@@ -2157,7 +2161,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/GdWihj3H7zu0D2_1z5ulUtWCZqTKYIHCfy8u4c1XHDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzEw/MzgxLTE2NjQ4MjQ1/NjktNTU4Ny5wbmc.jpeg" alt="Cover for it&#39;s more like embracing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1d657ffe41b904ad6e480c16a4e35d2.png" alt="Cover for it&#39;s more like embracing" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-02</td>
       <td>Boxcutter</td>
@@ -2178,7 +2182,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/VWwDwn_IyDapGl2RwsGEjdBfXvmee01oQDFFADNyh3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzc2/NzYzLTE3MDQzODkw/ODctNjI2MC5qcGVn.jpeg" alt="Cover for Happiness Is Hard To Find" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e2ead4e7180c50627dac17641605deb.png" alt="Cover for Happiness Is Hard To Find" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-12-11</td>
       <td>Pyre</td>
@@ -2197,9 +2201,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/twHtGGDFM2_mDe5fnBKG0YUqlMit_S3_VbiLb24ZfnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE2/MDkyLTE2ODg4MjI3/MjktNDYzMC5qcGVn.jpeg" alt="Cover for What Good Does Getting Angry Do?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2113f15b0f786b0bfe01fa17ad7868c4.png" alt="Cover for What Good Does Getting Angry Do?" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-05-12</td>
       <td>Please Don&#39;t Crash</td>
@@ -2236,9 +2240,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
-          <img src="https://i.discogs.com/cVRPIcmOaGNvJV3JJ46a-IEK1b_JspY4O_N3ABvu4K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTUy/Mjc5LTE2NzgyNDg0/MTQtNzYyNy5qcGVn.jpeg" alt="Cover for pecho de algodón de azúcar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9e92bb8a5dfbbc1016b2c858274a82e.png" alt="Cover for pecho de algodón de azúcar" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-09-22</td>
       <td>Basuraastillada</td>
@@ -2256,7 +2260,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f22eb5f73978503549c2acd5b1ce246e.png" alt="Cover for i will be here until the end, and even then, when everything comes crashing." style="max-width:120px; height:auto;" />
       </td>
@@ -2273,8 +2277,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61dd13f3c018617a9b4645a61d87d98a.png" alt="Cover for 3 songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-01-14</td>
       <td>Agile</td>
@@ -2292,9 +2297,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
-          <img src="https://i.discogs.com/m4bdMbFLRiHqSGZXKa8d7YV3WwMvqPsRCqVrDnV1mjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzA5/Nzk0LTE2MzIxODI0/NTItNzEwMS5qcGVn.jpeg" alt="Cover for セラ" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3281bcc941cdda6bfdc368180492a96.png" alt="Cover for セラ" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-09</td>
       <td>That Same Street</td>
@@ -2340,7 +2345,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a8e903caf4949f5b9b3b28359bfcfd5.png" alt="Cover for You Pull The Strings That Make Us Dance" style="max-width:120px; height:auto;" />
       </td>
@@ -2360,7 +2365,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -2379,7 +2384,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>

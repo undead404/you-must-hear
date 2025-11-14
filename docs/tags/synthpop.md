@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T20:36:37.743Z
+date: 2025-11-14T04:23:38.976Z
 permalink: tags/synthpop
 title: synthpop
 ---
 
 ## synthpop
 
-Last updated: <time datetime="2025-11-11T20:36:37.743Z">Tue Nov 11 2025 22:36:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T04:23:38.976Z">Fri Nov 14 2025 06:23:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,8 +49,8 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 15</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 61</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 16</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 62</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 96</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 97</li>
         </ul>
@@ -72,13 +72,13 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 10</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 13</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56d00cdcb0f35d0b0220515c452f9a03.png" alt="Cover for The Safety Dance" style="max-width:120px; height:auto;" />
       </td>
@@ -101,7 +101,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>1982-08-23</td>
@@ -118,7 +118,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/803ce70a1d10d805260f3f51226cc4cc.png" alt="Cover for The Best of New Order" style="max-width:120px; height:auto;" />
       </td>
@@ -150,7 +150,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 4</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -177,7 +177,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b31a29d08d4457bc524f0c0b7886bae.png" alt="Cover for Let&#39;s Talk About Love" style="max-width:120px; height:auto;" />
       </td>
@@ -193,12 +193,12 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 52</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2253901fbb8391cc8e09e7008c19bee0.png" alt="Cover for Actually" style="max-width:120px; height:auto;" />
       </td>
@@ -217,7 +217,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/hvGRSs13_ONe7hgCR9HDiXq4nLYmRu_vJXH_9saruuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDM3/OTItMTI0NDM4Mjk2/My5qcGVn.jpeg" alt="Cover for Music For The Masses (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -233,13 +233,13 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 18</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 19</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/s6ix2JkHq5_RBnVukgjscpQbGIIibRUEIiYK5hILpRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzkw/NjA4LTE1ODE2OTQ4/NTktODA3NS5qcGVn.jpeg" alt="Cover for Froot" style="max-width:120px; height:auto;" />
       </td>
@@ -256,12 +256,12 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 20</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d79c517b44e43e2b14b7e808c863577.png" alt="Cover for Violator" style="max-width:120px; height:auto;" />
       </td>
@@ -279,7 +279,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a50955c73be3cb3b0a644d615c06290d.png" alt="Cover for Substance" style="max-width:120px; height:auto;" />
       </td>
@@ -298,7 +298,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf8e780262306e1d1401130f8679b1b4.png" alt="Cover for Junk" style="max-width:120px; height:auto;" />
       </td>
@@ -317,7 +317,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc9802a07c8ba0a6b4868c08a6c97b11.png" alt="Cover for The Now Now" style="max-width:120px; height:auto;" />
       </td>
@@ -337,7 +337,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/507c3f4c1863a05626a445057871b56e.png" alt="Cover for Cracker Island" style="max-width:120px; height:auto;" />
       </td>
@@ -352,14 +352,14 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 4</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 24</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 69</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 6</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 25</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2001-10-15</td>
@@ -378,7 +378,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/902235125ade85aac02f0bf8f43c1ed6.png" alt="Cover for Caroline&#39;s a Victim" style="max-width:120px; height:auto;" />
       </td>
@@ -396,7 +396,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b636d53ea95e4442be9a6546af8facc0.png" alt="Cover for Teenage color Ep" style="max-width:120px; height:auto;" />
       </td>
@@ -415,7 +415,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db822d6479fb3683562a36524c5c7465.png" alt="Cover for It&#39;s Blitz!" style="max-width:120px; height:auto;" />
       </td>
@@ -431,12 +431,12 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 48</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 60</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/461fe4e8e5ee4eed9cf34766f3541dc8.png" alt="Cover for Walking on a Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -454,7 +454,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f7651f0137440879580990cb31847e7.png" alt="Cover for La Roux" style="max-width:120px; height:auto;" />
       </td>
@@ -497,7 +497,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/599a72e0b532444abe0bf1199bbb6a29.png" alt="Cover for Oh Land" style="max-width:120px; height:auto;" />
       </td>
@@ -513,13 +513,13 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 9</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 26</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 15</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a01fb198f29405bb6c0cc0d43eb2f67.png" alt="Cover for Illumination" style="max-width:120px; height:auto;" />
       </td>
@@ -539,7 +539,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb10f72d8e960ad04d61e53e308e248e.png" alt="Cover for Happiness" style="max-width:120px; height:auto;" />
       </td>
@@ -557,7 +557,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7befa26ee18690384d24f7ff1d07af2.png" alt="Cover for The Fame Monster (International Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -578,7 +578,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1a5a1a5d55043049f0cfc75a2b1fb90.png" alt="Cover for Feel It Break" style="max-width:120px; height:auto;" />
       </td>
@@ -600,7 +600,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c01d472cd7599a480124ab11a2e84347.png" alt="Cover for We Must Become the Pitiless Censors of Ourselves" style="max-width:120px; height:auto;" />
       </td>
@@ -614,12 +614,11 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/16fdad2898a167de51428b9ccbd2317a.png" alt="Cover for Hurry Up, We&#39;re Dreaming" style="max-width:120px; height:auto;" />
       </td>
@@ -633,7 +632,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       <td>
         <ul>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 35</li>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 86</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 87</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 88</li>
         </ul>
       </td>
@@ -687,7 +686,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbc21384018c48bdc85ac1cfc8d15078.png" alt="Cover for The Mother We Share" style="max-width:120px; height:auto;" />
       </td>
@@ -705,7 +704,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2013-04-12</td>
@@ -722,7 +721,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4857b5e7f93d4e1e9bdde4166e7062e6.png" alt="Cover for The Bones of What You Believe" style="max-width:120px; height:auto;" />
       </td>
@@ -741,7 +740,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4774f5ef1874ef59f90a44d562c8e0d.png" alt="Cover for Too Weird to Live, Too Rare to Die!" style="max-width:120px; height:auto;" />
       </td>
@@ -759,7 +758,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5cafce5e257246769aa6f05c6f77724.png" alt="Cover for Night Time, My Time" style="max-width:120px; height:auto;" />
       </td>
@@ -773,14 +772,14 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       <td>
         <ul>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 28</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 38</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 40</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/_6es4SpRP5GPgoSYD1X_O5QzVfLe4795uqM7F9zL8SI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MjM1/NjItMTQyNzM4MzM3/MS0yMTk3LmpwZWc.jpeg" alt="Cover for Lesser Man EP" style="max-width:120px; height:auto;" />
       </td>
@@ -800,17 +799,17 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 95</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 97</li>
             <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 97</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 98</li>
             <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 98</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 100</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 100</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/658d2480b686422ec2d35415c335fd1d.png" alt="Cover for After the Disco" style="max-width:120px; height:auto;" />
       </td>
@@ -848,7 +847,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
         <ul>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 29</li>
             <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 87</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 92</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 94</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 100</li>
         </ul>
       </td>
@@ -871,7 +870,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 69</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 70</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 88</li>
         </ul>
       </td>
@@ -895,7 +894,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/127269c5e31ae830bf2269b54a481077.png" alt="Cover for This Side of Paradise - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -913,14 +912,14 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 8</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 40</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 9</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 44</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e5dfc556d4a44fcc4967721f258e8ea.png" alt="Cover for Globalization" style="max-width:120px; height:auto;" />
       </td>
@@ -944,7 +943,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/X5mQMhasqa9zr4c161WxjQVZEqOk1jVXd9-jCzWZ57Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDcz/MTgtMTQyNTM2MDIz/NC0yNjY3LmpwZWc.jpeg" alt="Cover for Another Eternity" style="max-width:120px; height:auto;" />
       </td>
@@ -984,7 +983,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de4e0824479b1107d11867cc58fe7f0c.png" alt="Cover for CollXtion I" style="max-width:120px; height:auto;" />
       </td>
@@ -1024,7 +1023,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2922d854b939c7ef8ae584552a3ff106.png" alt="Cover for Every Open Eye" style="max-width:120px; height:auto;" />
       </td>
@@ -1058,8 +1057,8 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 28</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 40</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 35</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1082,15 +1081,15 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 3</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 5</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 6</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 22</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 46</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 49</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7793a434d33ac2e08e99db3c76c31cd6.png" alt="Cover for Fit Me In" style="max-width:120px; height:auto;" />
       </td>
@@ -1108,63 +1107,13 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 57</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 58</li>
             <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b34f6f1b339e9857fb276c318cb8b05.png" alt="Cover for All My Demons Greeting Me As A Friend (Deluxe)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016</td>
-      <td>Aurora</td>
-      <td>All My Demons Greeting Me As A Friend (Deluxe)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 1</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 3</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 38</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 49</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 61</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 67</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 76</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 81</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 81</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 84</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 87</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 87</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 88</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 88</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 94</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 95</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a92f8fd5e6ba3d9e9beddd334e75607.png" alt="Cover for Spirit Phone" style="max-width:120px; height:auto;" />
       </td>
@@ -1180,14 +1129,14 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 18</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 23</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 66</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 68</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e41b3efe5953a66c42d06f959a15b2db.png" alt="Cover for Lady Wood" style="max-width:120px; height:auto;" />
       </td>
@@ -1204,12 +1153,12 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 62</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/-e_GPWlZFJcFAHUm4DJLHqAaPRIH9z9ja_HrRAPiiy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM5/MTg4LTE1NDEwMjQ4/NTQtNjY1NS5qcGVn.jpeg" alt="Cover for Am I A Girl?" style="max-width:120px; height:auto;" />
       </td>
@@ -1229,7 +1178,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11c779b98a6b263f55419ce74f70f587.png" alt="Cover for The Weather" style="max-width:120px; height:auto;" />
       </td>
@@ -1251,7 +1200,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc4c4f4eb4fa6e9215ecb6705cbb72de.png" alt="Cover for After Laughter" style="max-width:120px; height:auto;" />
       </td>
@@ -1267,15 +1216,15 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 74</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 77</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 83</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 73</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 79</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 84</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bab88c190c137baffde9f0016af06d94.png" alt="Cover for CollXtion II" style="max-width:120px; height:auto;" />
       </td>
@@ -1318,7 +1267,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbd5c46a0cea1391ddb3db0d33f7bb9f.png" alt="Cover for I Don&#39;t Want It at All" style="max-width:120px; height:auto;" />
       </td>
@@ -1337,7 +1286,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/WUpmiC8VBnKc2iLpaLftEmK8GpgLGSa88Odx1UrHD1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEz/NzEyLTE1MTAyNzkx/OTgtODk3Ni5qcGVn.jpeg" alt="Cover for Reputation" style="max-width:120px; height:auto;" />
       </td>
@@ -1352,14 +1301,14 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 5</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 4</li>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 84</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fa1a8aaa613d1f314a69fd1766e51c6.png" alt="Cover for Solace" style="max-width:120px; height:auto;" />
       </td>
@@ -1381,10 +1330,11 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 1</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 77</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 79</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 82</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 87</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 83</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 86</li>
             <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 94</li>
         </ul>
       </td>
@@ -1426,15 +1376,15 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 2</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 58</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 6</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 63</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 67</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4011770582295fbb2ef56596158e6ed.png" alt="Cover for Love is Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -1449,7 +1399,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 21</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 22</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 68</li>
         </ul>
       </td>
@@ -1476,15 +1426,15 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 59</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 81</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 82</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 86</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 91</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 93</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86269e8cd4f97272e669a41f0e72f7bc.png" alt="Cover for Honey" style="max-width:120px; height:auto;" />
       </td>
@@ -1500,13 +1450,13 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 15</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 19</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bf3a1eac0326073f56978b7f39021e1.png" alt="Cover for A Brief Inquiry Into Online Relationships" style="max-width:120px; height:auto;" />
       </td>
@@ -1520,12 +1470,12 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 80</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/Ji0WxGFDaigTh9w41aB9Cy4jmWsWgCx3m-8DELBN2UU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzE1/MTI1LTE1NzIwNjYx/MjktMjgxOC5qcGVn.jpeg" alt="Cover for Serotonin II" style="max-width:120px; height:auto;" />
       </td>
@@ -1543,7 +1493,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 78</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 82</li>
             <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 83</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 91</li>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 94</li>
@@ -1551,7 +1501,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8e8eb1fab348cff53beb038f0a05210.png" alt="Cover for Emotion" style="max-width:120px; height:auto;" />
       </td>
@@ -1568,13 +1518,13 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       <td>
         <ul>
             <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 43</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 67</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 72</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 68</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4af31a783ede9676743e85db2efb2d4c.png" alt="Cover for Dedicated" style="max-width:120px; height:auto;" />
       </td>
@@ -1595,7 +1545,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3f083370c371a3ba1cddafaf193c27d.png" alt="Cover for Lover" style="max-width:120px; height:auto;" />
       </td>
@@ -1615,7 +1565,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f58d29605321bc6e1ee4da6ae5a0cb4a.png" alt="Cover for 1989 (Taylor&#39;s Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1638,7 +1588,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa61f609215cc93a03f63e8b116001fd.png" alt="Cover for Get Your Wish" style="max-width:120px; height:auto;" />
       </td>
@@ -1655,9 +1605,9 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 5</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 74</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 80</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 6</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 75</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1678,7 +1628,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 59</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 61</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 93</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 95</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 97</li>
@@ -1686,7 +1636,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9bc4e8d03571689a6a7e2c82707fc566.png" alt="Cover for Cape God" style="max-width:120px; height:auto;" />
       </td>
@@ -1705,7 +1655,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d979d9718f6058f9eb60d562b91389be.png" alt="Cover for La vita nuova" style="max-width:120px; height:auto;" />
       </td>
@@ -1780,8 +1730,8 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 53</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 77</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 55</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 81</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 86</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 93</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 95</li>
@@ -1828,7 +1778,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/576554c542da76c08f0e80c129afcb0e.png" alt="Cover for The New Abnormal" style="max-width:120px; height:auto;" />
       </td>
@@ -1842,14 +1792,14 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 86</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 87</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 88</li>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/491fbbd17afccba0df02e62b66e4bc6e.png" alt="Cover for Song Machine, Season One: Strange Timez (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1862,7 +1812,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 75</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1892,7 +1842,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
             <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 42</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 62</li>
             <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 71</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 78</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 80</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 90</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 96</li>
             <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 98</li>
@@ -1900,7 +1850,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/P1JTdGQWF5rJAhX--TIWlDbJTEj7WEc2OhJcyZ2KoYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODU1/ODc5LTE2Mjg5MjU4/MDMtNTk3MS5qcGVn.jpeg" alt="Cover for American Gurl" style="max-width:120px; height:auto;" />
       </td>
@@ -1915,12 +1865,12 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 12</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fce31d4841bc76861f5ff024281c61d6.png" alt="Cover for Music of the Spheres" style="max-width:120px; height:auto;" />
       </td>
@@ -1934,7 +1884,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 70</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1953,7 +1903,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 56</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 57</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 91</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 95</li>
             <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 97</li>
@@ -1961,7 +1911,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/18470d4c595a0a33e852977cc8d0e111.png" alt="Cover for Laurel Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -1979,7 +1929,30 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25ec970ab688358a6720e890fbd6dc1b.png" alt="Cover for Dawn FM (Alternate World)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-03-15</td>
+      <td>The Weeknd</td>
+      <td>Dawn FM (Alternate World)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 10</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 42</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/tNtiG-K20Xl7ciYGO7pXV0Wgrg6OH2mu6V6dPild4LE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTMx/MDk0LTE2NzU1MTg2/NTEtMzU5Ny5qcGVn.jpeg" alt="Cover for CRASH" style="max-width:120px; height:auto;" />
       </td>
@@ -1994,7 +1967,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 3</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 4</li>
             <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 42</li>
         </ul>
       </td>
@@ -2019,12 +1992,12 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
         <ul>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 60</li>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 91</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 97</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33cb0eca356312f66aff3c5357c2d928.png" alt="Cover for Dirt Femme" style="max-width:120px; height:auto;" />
       </td>
@@ -2042,7 +2015,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/aDBvXuviePagr72OMoHJBIaop3wTjrvSxWPG7m9BMYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzgx/MjE5LTE2NzAyODk3/NTEtMTUzOC5qcGVn.jpeg" alt="Cover for Welcome to my Island" style="max-width:120px; height:auto;" />
       </td>
@@ -2060,12 +2033,12 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       <td>
         <ul>
             <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 1</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 68</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2023</td>
@@ -2080,7 +2053,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 6</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -2110,7 +2083,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/JRwk8YhrjWbi1nbOaHYy8g_GDuz428Ok7KwbYW-AjDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTU5/MTEzLTE2OTcwMDA5/OTctNDIwMi5qcGVn.jpeg" alt="Cover for Girls of the Year" style="max-width:120px; height:auto;" />
       </td>
@@ -2128,14 +2101,14 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 86</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 85</li>
             <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 92</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/mChBy1BY8kP413x9IfcWZtiMRil9ZM9K1-P-fGmBsSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTQ2/MzIxLTE3MjQzNDQz/NTktNjkxMC5qcGVn.jpeg" alt="Cover for Imaginal Disk" style="max-width:120px; height:auto;" />
       </td>
@@ -2149,14 +2122,14 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 8</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 10</li>
             <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 14</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 47</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/05df79341035d53b68eb846764365e02.png" alt="Cover for reputation" style="max-width:120px; height:auto;" />
       </td>
@@ -2176,7 +2149,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/82667ed6093b80049d1f62ec45d79953.png" alt="Cover for You&#39;re so Fine" style="max-width:120px; height:auto;" />
       </td>

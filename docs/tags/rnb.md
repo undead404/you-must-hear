@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T22:08:10.499Z
+date: 2025-11-14T04:22:41.844Z
 permalink: tags/rnb
 title: rnb
 ---
 
 ## rnb
 
-Last updated: <time datetime="2025-11-08T22:08:10.499Z">Sun Nov 09 2025 00:08:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T04:22:41.844Z">Fri Nov 14 2025 06:22:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 97</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -81,12 +81,12 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 78</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/67972916324aa930fde11a074e4700b6.png" alt="Cover for RBB - The 5th Mini Album" style="max-width:120px; height:auto;" />
       </td>
@@ -141,7 +141,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b47f9187c57a2ee30abe8116add4c90.png" alt="Cover for Aaliyah" style="max-width:120px; height:auto;" />
       </td>
@@ -173,7 +173,25 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 38</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83f26575c05018e2d03e28a6f37a55ab.png" alt="Cover for Tasty" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-12-08</td>
+      <td>Kelis</td>
+      <td>Tasty</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -192,7 +210,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 30</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -252,7 +270,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 35</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -277,7 +295,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
     <tr>
       <td>54</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/100944bdf25b49069c52d270f78e6ab1.png" alt="Cover for A Girl Like Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cfb951b2e544907be391f887d1132b3.png" alt="Cover for A Girl Like Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-10</td>
       <td>Rihanna</td>
@@ -291,7 +309,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       <td>
         <ul>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 11</li>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 45</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -329,7 +347,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 10</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -389,8 +407,9 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 30</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 44</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 25</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 32</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -447,7 +466,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 16</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -468,8 +487,8 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 54</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 64</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 60</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -489,7 +508,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 39</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -510,7 +529,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 62</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -548,7 +567,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 25</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -569,8 +588,8 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 52</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 94</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 51</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -595,7 +614,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/553678d27570452839aec0fd0cdadd63.png" alt="Cover for channel ORANGE" style="max-width:120px; height:auto;" />
       </td>
@@ -608,10 +627,11 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 1</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 60</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 71</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 89</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 1</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 2</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 52</li>
+            <li> <a href="{{ "/tags/slow-jams" | relative_url }}">slow jams</a> # 71</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -631,8 +651,8 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 41</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 53</li>
+            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 42</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 52</li>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 61</li>
         </ul>
       </td>
@@ -651,8 +671,8 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 4</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 49</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 6</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -693,7 +713,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c25dfe357dea5a00304f055486a2ab4.png" alt="Cover for Christmas Kisses" style="max-width:120px; height:auto;" />
       </td>
@@ -745,13 +765,13 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 28</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 82</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 54</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf4805d65212d64e2de22f82d98c8ea9.png" alt="Cover for PARTYNEXTDOOR TWO" style="max-width:120px; height:auto;" />
       </td>
@@ -767,12 +787,12 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 38</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/44WWJ1Inw9EIpYFMPmxAykuIj5oE5EGOei_cAHpzHyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTg0/MjMtMTQ4ODE1NDU0/NC03MDI3LmpwZWc.jpeg" alt="Cover for deadroses" style="max-width:120px; height:auto;" />
       </td>
@@ -790,7 +810,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 67</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 68</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 80</li>
         </ul>
       </td>
@@ -810,7 +830,6 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -867,13 +886,13 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 40</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 90</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 43</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d69c5ca95d0b1aac216b3cee5d9bf3b3.png" alt="Cover for We BOOM - The 3rd Mini Album" style="max-width:120px; height:auto;" />
       </td>
@@ -891,7 +910,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 27</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 32</li>
             <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 48</li>
         </ul>
       </td>
@@ -911,8 +930,8 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 57</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 75</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 67</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -952,9 +971,9 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 11</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 36</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 43</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 13</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 37</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -992,12 +1011,12 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 62</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f0e333c941c1a0147fc5d347d343e6d.png" alt="Cover for Swimming" style="max-width:120px; height:auto;" />
       </td>
@@ -1011,9 +1030,9 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 62</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 65</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 78</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 63</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 66</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1093,11 +1112,12 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a626370bcbb7ea337e7a9f927e493344.png" alt="Cover for K.T.S.E." style="max-width:120px; height:auto;" />
       </td>
@@ -1111,7 +1131,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 19</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1132,7 +1152,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       <td>
         <ul>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 5</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 35</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1151,7 +1171,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 75</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1173,8 +1193,8 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 8</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 50</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 9</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 54</li>
             <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 100</li>
         </ul>
       </td>
@@ -1194,7 +1214,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 82</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1215,7 +1235,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 85</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 86</li>
             <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 99</li>
         </ul>
       </td>
@@ -1239,7 +1259,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fe9abceab69b5689d1e37a1a2045b5a.png" alt="Cover for Assume Form" style="max-width:120px; height:auto;" />
       </td>
@@ -1254,7 +1274,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 11</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1272,8 +1292,8 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 34</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 67</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 36</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1313,7 +1333,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 17</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1334,7 +1354,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 65</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1359,7 +1379,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7af82f8e4ea4cff2b983f3c5e698e7c.png" alt="Cover for That&#39;s okay" style="max-width:120px; height:auto;" />
       </td>
@@ -1392,12 +1412,12 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 49</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f66b71c47509aa90685f8857915e537.png" alt="Cover for Over It" style="max-width:120px; height:auto;" />
       </td>
@@ -1429,7 +1449,6 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       <td>
         <ul>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 18</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1450,8 +1469,8 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 100</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 100</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1473,12 +1492,12 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 15</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 49</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 76</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 55</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 81</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 86</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 93</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 99</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 99</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1501,7 +1520,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/kwDGPBu0LhCJP_FPjexwobqHM7U571fVEPgU8XW9j2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQ0/MTc2LTE1OTE2MjY1/OTMtNjExNS5qcGVn.jpeg" alt="Cover for City Lights - The 1st Mini Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1537,7 +1556,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b74dc22e72de2839db17e7e04b41e8f8.png" alt="Cover for Nectar" style="max-width:120px; height:auto;" />
       </td>
@@ -1552,7 +1571,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 83</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1615,15 +1634,15 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 42</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 83</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 86</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 46</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 82</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 88</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e98c701e4b0eef8f159c884a5076ac1.png" alt="Cover for Peaches - The 2nd Mini Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1676,7 +1695,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 7</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 16</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 98</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 100</li>
         </ul>
@@ -1706,10 +1725,10 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       <td>
         <ul>
             <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 42</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 69</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 77</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 82</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 88</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 71</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 80</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 84</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 90</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 96</li>
             <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 98</li>
         </ul>
@@ -1751,13 +1770,13 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 66</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 87</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 68</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c250a67a776d919521766f943e8d741e.png" alt="Cover for Life On Earth - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1773,7 +1792,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 2</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1796,14 +1815,14 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 55</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 63</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 54</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 65</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/7w3SWJ_6O0gWgR7-HsDg3i-ISG3Opko8o2jSs-FS3RI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODAz/NDg1LTE2NDkzOTI4/NzEtNzIzMi5qcGVn.jpeg" alt="Cover for Ivory" style="max-width:120px; height:auto;" />
       </td>
@@ -1856,7 +1875,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 54</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1878,9 +1897,9 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 50</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 86</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 87</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 54</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 86</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1899,32 +1918,13 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 24</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 73</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 30</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebb32c8ebf648ac515b5d1b71f093f6a.png" alt="Cover for Perfume - The 1st Mini Album" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-04-17</td>
-      <td>NCT DOJAEJUNG</td>
-      <td>Perfume - The 1st Mini Album</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9ae74decb133ec5b473ccb5466f93d4.png" alt="Cover for NAV" style="max-width:120px; height:auto;" />
       </td>
@@ -1940,7 +1940,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1968,7 +1968,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/c7UloxsYz6bOg6XgjiAxSGxKtNsYwNE7MAS-fE5P3yQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDQ3/NjE3LTE3MTM4MTgz/MzYtMzYxMi5qcGVn.jpeg" alt="Cover for orquídeas" style="max-width:120px; height:auto;" />
       </td>
@@ -1985,8 +1985,8 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 35</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 67</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 41</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 75</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 82</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 94</li>
         </ul>
@@ -2008,12 +2008,12 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 70</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/655875346b507ca00c33e2a72ca788e7.png" alt="Cover for 4 ONLY" style="max-width:120px; height:auto;" />
       </td>
@@ -2028,7 +2028,7 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 51</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -2049,7 +2049,8 @@ R&amp;B, or rhythm and blues, is a genre rooted in African American musical trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 34</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 5</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 42</li>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 76</li>
         </ul>
       </td>
