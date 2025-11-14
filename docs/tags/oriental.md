@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T00:37:20.056Z
+date: 2025-11-14T10:25:32.819Z
 permalink: tags/oriental
 title: oriental
 ---
 
 ## oriental
 
-Last updated: <time datetime="2025-10-22T00:37:20.056Z">Wed Oct 22 2025 03:37:20 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-14T10:25:32.819Z">Fri Nov 14 2025 12:25:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,6 +48,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db913728e2bf4b7ebc1858cf3f0b23ea.png" alt="Cover for Dedicated To The Bird We Love" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Oriental Sunshine</td>
@@ -68,7 +69,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Journey To Osaka" style="max-width:120px; height:auto;" />
       </td>
@@ -175,9 +176,9 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/Ir_nCH2mMiulqRYQLzTGwM3swT3-dNtqsy8oZwo0T90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDQ5/Ni0xNDExOTI4Njc4/LTQ0MDIuanBlZw.jpeg" alt="Cover for Turkish Delight" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa74e134a62a1cbeb1815144cb0c8983.png" alt="Cover for Turkish Delight" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Turkish Delight</td>
@@ -219,7 +220,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>1991</td>
@@ -238,7 +239,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/-HP9RrygXC82s56z-M8oxdUZg4UDBLRtsOsogkNnm6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzM2/NTAtMTU1MzU4NjY4/Ny00NzYzLmpwZWc.jpeg" alt="Cover for Music of the Emperors" style="max-width:120px; height:auto;" />
       </td>
@@ -260,7 +261,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/JlQK0J59aYKvahBFnuj8kLGVcNmtsJQJcLUT5FuQUrI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTY2/NDYtMTM3NTgwNjAz/MS04OTU1LmpwZWc.jpeg" alt="Cover for Conte De L&#39;Incroyable Amour" style="max-width:120px; height:auto;" />
       </td>
@@ -300,9 +301,9 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/Ah5JF-XQty9kYV0x5_TPUpt8bNjogqxeJng6X8vxhWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODIw/MDUtMTM4OTUzNzI1/Ny0xMzE5LmpwZWc.jpeg" alt="Cover for Mechwar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0746c74095881f56bdd203e422c3358c.png" alt="Cover for Mechwar" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Fairuz</td>
@@ -355,7 +356,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>1996</td>
@@ -416,7 +417,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/aTD3Kp2w91weP5AyTTqyFJZSQkXd2YefH6GGldHLnms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODkz/ODItMTQxNjkwMjE1/MS0xNzY1LmpwZWc.jpeg" alt="Cover for 1, 2, 3 Soleils" style="max-width:120px; height:auto;" />
       </td>
@@ -484,7 +485,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 96</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 97</li>
             <li> <a href="{{ "/tags/ghazal" | relative_url }}">ghazal</a> # 99</li>
         </ul>
       </td>
@@ -546,12 +547,12 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 2</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/smS413DbaNDGfiYWe0kOYTLoreUvfgJkreEiMhRJzp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njky/OTAtMTM4MzQzMTky/Ni05ODc2LmpwZWc.jpeg" alt="Cover for Conte de l&#39;Incroyable" style="max-width:120px; height:auto;" />
       </td>
@@ -573,7 +574,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/FRHJQo4rVwwh8_p8-7UfcPpoaVSo5VKYeCYnCEW_QPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjY5/OTUtMTQ3ODQ0NDUz/MC02MTg0LmpwZWc.jpeg" alt="Cover for Okinawa:sanshin and shima uta" style="max-width:120px; height:auto;" />
       </td>
@@ -591,7 +592,27 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/MJ7-ODOeUzkTkVIp4ict4w9nzrOIoWHpLB_CVzQ4rzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODk3/MjQtMTM1NDg5MDc5/Mi03Mjk4LmpwZWc.jpeg" alt="Cover for Orient Express" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-10</td>
+      <td>The Yuri Honing Trio</td>
+      <td>Orient Express</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/tNo_iSfV6ZFE_rqQct3ZxZ6qoa5z76dmK4ofImKcjes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI4/ODQyLTE0OTA3MTA1/NDgtNDA5OS5qcGVn.jpeg" alt="Cover for Dreamin&#39; Istanbul" style="max-width:120px; height:auto;" />
       </td>
@@ -653,7 +674,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>2003-07</td>
@@ -726,28 +747,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-          <img src="https://i.discogs.com/2l0iljMtMXlwzp2dyBvmP0Y_wtGjsj0bn_N6zNCytus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzcy/OTQ3LTE2MTU3ODE3/NjYtMTE5Ni5qcGVn.jpeg" alt="Cover for Behind Closed Doors" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Olivia</td>
-      <td>Behind Closed Doors</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/KS9J6E41100fhXcbrvCdD4eNhCSHaaRoWeBRCfEnu_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NDY4/MTUtMTQyNTgxNDYy/Ni02NDM3LmpwZWc.jpeg" alt="Cover for Red Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -822,14 +822,14 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 2</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 3</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 38</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 42</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 46</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 41</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 47</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 63</li>
             <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 66</li>
             <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 73</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 77</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 76</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 89</li>
             <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 94</li>
             <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 97</li>
@@ -909,8 +909,8 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 3</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 18</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 5</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 19</li>
             <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 34</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 40</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 50</li>
@@ -943,7 +943,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/iqa8NCeBAi5TY85gh_rUQxWK3IXXHaAwqQsoXTLL-e0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTc3/NTQtMTQzNjQwMzIx/NS00OTMwLmpwZWc.jpeg" alt="Cover for Subherban Underdoggin in the WaHi" style="max-width:120px; height:auto;" />
       </td>
@@ -960,7 +960,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 4</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1047,7 +1047,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/rKratHsHlKzRq5Njosu2c80xL2fvZfw6joZ-LXW5D9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTMx/OTgtMTYxMjg4MDM1/My05MTc4LmpwZWc.jpeg" alt="Cover for Best of 60&#39;s Persian Music Vol 5" style="max-width:120px; height:auto;" />
       </td>
@@ -1101,12 +1101,12 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 15</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/oq1aAplTb2qVb4LT6cyCoJvDvSiXDHnFN6vFxyytuuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNjY1/MTgtMTU2NDU0NDQ5/NS00MTcyLmpwZWc.jpeg" alt="Cover for DURGA &amp; HER SMILE OF RADIANT VENGEANCE" style="max-width:120px; height:auto;" />
       </td>
@@ -1161,7 +1161,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/Pz9JFmZS2CSNlhOVdnJ5vJBj5qxc9uR0J3tUkLxNGEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjA5/Mzc5LTE1OTU0Nzc3/NDUtNTY1Ny5qcGVn.jpeg" alt="Cover for Pegate Sexy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fad42f48a009be7a7c36205d0b430bbe.png" alt="Cover for Pegate Sexy" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Mr. Saik</td>
@@ -1206,7 +1206,6 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/g4BhY_J70WzEpblMHLKEESlXuPNHXilFtkPblOPsnn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTAz/MTgtMTQ3NDE1ODA4/My03NDYxLmpwZWc.jpeg" alt="Cover for The Fourth" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-28</td>
       <td>An Emerald City</td>
@@ -1226,7 +1225,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/P6i6OLVP9iZJNPpKpOZIfc88ZF4urY4UuzRjfkP5zto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTkz/NTAtMTQzNjQ0NTU4/Ny0yNDc1LmpwZWc.jpeg" alt="Cover for The Very Best of Sting &amp; the Police [2002]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cf4d7f85da8910a3177be2a5783d9cf.png" alt="Cover for The Very Best of Sting &amp; the Police [2002]" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-09</td>
       <td>Sting</td>
@@ -1251,8 +1250,9 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db32ff5cf6338a7a1b4cfc37c470aaf7.png" alt="Cover for Turaida" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-23</td>
       <td>志方あきこ</td>
@@ -1275,7 +1275,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/QF9JL44uib3A_d5monlpWdCVxmdtp5l_hm1191nsCrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjk2/MzgtMTUyNDIyNDQ4/NC0xMTY2LmpwZWc.jpeg" alt="Cover for Bellydancer" style="max-width:120px; height:auto;" />
       </td>
@@ -1347,14 +1347,14 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       <td>
         <ul>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 23</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 28</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 27</li>
             <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 50</li>
             <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/Ugqh7RKm6K_urKWhXY8YPE41nVkBOR-jRrA_8F1yF10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MDY3/ODAtMTQ4ODMxMDk3/MS0yMjg1LmpwZWc.jpeg" alt="Cover for Station One" style="max-width:120px; height:auto;" />
       </td>
@@ -1430,9 +1430,8 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/SiB-OiRfzfSGe8oNd_ZXcb6PlqYtScY-054s_-8o8Yo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE5/NzM0LTE3MDg2Mjk4/MjQtOTQ4Ny5qcGVn.jpeg" alt="Cover for Grombira" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Grombira</td>
@@ -1450,9 +1449,9 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
-          <img src="https://i.discogs.com/2oKP7o8lINwwavZdNGr7e2t--rXntU0ijxvVzGlOcuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTAz/MjA2LTE1MDYyNTQ1/NTgtNTQyNC5qcGVn.jpeg" alt="Cover for Divinorum" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e40669c43880ddee45b5485555b1021f.png" alt="Cover for Divinorum" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-24</td>
       <td>Mudra</td>
@@ -1471,7 +1470,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/dEcDLOnAMIxJdR492TPsm8qopOKUdnSrUQqIMPXVYeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjEx/NTAzLTE1NzA4ODE4/MjMtNzkyMi5qcGVn.jpeg" alt="Cover for Oriental Chill Out Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1490,9 +1489,9 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/LBud-CBy-8fKTcr59nhj6QiSweKE3PvB0sPfdKWEGGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTIz/OTIzLTE1NTU4MzUx/NDQtMzk3NS5qcGVn.jpeg" alt="Cover for 無常幻想詩" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc2774e7dcd3495d9608f4583c338535.png" alt="Cover for 無常幻想詩" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-10</td>
       <td>Kou Ogata</td>
@@ -1551,7 +1550,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/PqFRfiPUcSg86ZY3s8OjDIJyQxZ-af3vlTMAifHI344/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA3/NzkxLTE1NzgwODIz/MzQtNzg1OC5qcGVn.jpeg" alt="Cover for Dabke On the Moon: Nudbok Al Amar" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,7 +1615,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 29</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 28</li>
             <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 59</li>
         </ul>
       </td>
@@ -1624,7 +1623,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/0V4m4FpylqKDbFCB9_yFrBABLOexYYxJgoimBqHI5ZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTkw/MzAxLTE1Njk1NjAx/NjctNDMxMy5qcGVn.jpeg" alt="Cover for Badakhshan" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cd9fe76ae3185c2d09f77f0cd342cb1.png" alt="Cover for Badakhshan" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-27</td>
       <td>Hashshashin</td>
@@ -1645,7 +1644,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/1pm4Wk_q0KmoaOiTaNqXJycdIPzgFZlVbug1cYtsgQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzAz/NjY2LTE2NDE5NzM2/MzItNDI3MS5qcGVn.jpeg" alt="Cover for Station Three" style="max-width:120px; height:auto;" />
       </td>
@@ -1672,9 +1671,9 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>100</td>
       <td>
-          <img src="https://i.discogs.com/AbAzhN32JqnehLPKNlo-XFLZQ1dFCOENMtgAqHdQ9RE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjc2/ODg0LTE2MTI1Njg0/MjQtODczNS5qcGVn.jpeg" alt="Cover for Samurai Bebop" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc625849b86f21da10ca46913d26e139.png" alt="Cover for Samurai Bebop" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-09-19</td>
       <td>Tophat Panda</td>
@@ -1687,12 +1686,12 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillhop" | relative_url }}">chillhop</a> # 69</li>
+            <li> <a href="{{ "/tags/chillhop" | relative_url }}">chillhop</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/6CyHPke42cmKoCbiYyxV0FiGMVKEiYHZoc9AQFmRaIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjE2/MTkzLTE2NjQwMjMz/MjItODc2OC5qcGVn.jpeg" alt="Cover for Assumption" style="max-width:120px; height:auto;" />
       </td>
@@ -1718,9 +1717,9 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/XFTY0URMaYTHze1JnRCU4cN6tiURgwzZgXmyAERUhGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDkx/NjkwLTE2Mzc2NzA0/MjgtMTE3Ny5qcGVn.jpeg" alt="Cover for FOX HOUND PROJECT VOL.I" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a616392f9832cf1abd073484127025fd.png" alt="Cover for FOX HOUND PROJECT VOL.I" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11-23</td>
       <td>FOX PROJECT</td>
@@ -1824,7 +1823,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/4g7G35BZij_b1QcFWkMJrOu90J00JxiHJlcsq31nA6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDYx/MjAtMTMzMzEzMzUw/NS5qcGVn.jpeg" alt="Cover for suns of arqa mixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1843,7 +1842,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -1861,7 +1860,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>
@@ -1915,7 +1914,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td></td>
@@ -1945,8 +1944,9 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2c316c4c9354dee9ba7f180b0bcf2b6.png" alt="Cover for シェルノサージュ オリジナルサウンドトラック～音と世界の受信記録 Sec.1～" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>志方あきこ</td>
@@ -1983,7 +1983,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -2000,7 +2000,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -2019,7 +2019,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -2037,7 +2037,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -2055,7 +2055,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td></td>
@@ -2077,7 +2077,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td></td>
@@ -2099,7 +2099,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td></td>
@@ -2143,6 +2143,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2943c12ddac4661b95cb0753ca15aadd.png" alt="Cover for Olvídame" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>baiuca</td>
@@ -2180,7 +2181,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>

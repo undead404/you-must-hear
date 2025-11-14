@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T11:04:51.553Z
+date: 2025-11-14T10:24:41.846Z
 permalink: tags/psydub
 title: psydub
 ---
 
 ## psydub
 
-Last updated: <time datetime="2025-11-12T11:04:51.553Z">Wed Nov 12 2025 13:04:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T10:24:41.846Z">Fri Nov 14 2025 12:24:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -229,24 +229,6 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>1997-11</td>
-      <td>Various Artists</td>
-      <td>I In The Sky EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>91</td>
       <td>
       </td>
@@ -378,7 +360,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 44</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -709,7 +691,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 80</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 93</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -880,8 +862,8 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 26</li>
             <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 28</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 31</li>
             <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 35</li>
             <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 87</li>
             <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 100</li>
@@ -2028,6 +2010,28 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>JahPAWO.</td>
+      <td>Worldly.Tales.4.Those.WithOut.Voices</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
       <td>

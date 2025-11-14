@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T15:07:13.571Z
+date: 2025-11-14T11:04:53.057Z
 permalink: tags/emoviolence
 title: emoviolence
 ---
 
 ## emoviolence
 
-Last updated: <time datetime="2025-10-28T15:07:13.571Z">Tue Oct 28 2025 17:07:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T11:04:53.057Z">Fri Nov 14 2025 13:04:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
   </thead>
   <tbody>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/52ace115395480e3a0735c18ff8acd7a.png" alt="Cover for Thank God, Me a Superstar, Trapped in This Fucking Hellhole" style="max-width:120px; height:auto;" />
       </td>
@@ -46,7 +46,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba08510acf3f3dfcf6c75e02a27b21e7.png" alt="Cover for Industry" style="max-width:120px; height:auto;" />
       </td>
@@ -64,7 +64,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eda0f214da7d40d6b8c8437b3b5f7b03.png" alt="Cover for Information Battle to Denounce the Genocide" style="max-width:120px; height:auto;" />
       </td>
@@ -84,7 +84,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/883b7c8903a8ad523de6d3e133b60f7d.png" alt="Cover for Two Hours To Doom" style="max-width:120px; height:auto;" />
       </td>
@@ -105,7 +105,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d30976a2e786101ec23608aac5e0b50.png" alt="Cover for In Love With Jetts &#x2F; The Lady Is a Cat" style="max-width:120px; height:auto;" />
       </td>
@@ -121,12 +121,12 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 10</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d1b908229e82e9202f7d7d12360cdbb.png" alt="Cover for Drome Triler of Puzzle Zoo People" style="max-width:120px; height:auto;" />
       </td>
@@ -146,7 +146,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c82d4c6ee45de9b7e5fb582e7089333.png" alt="Cover for Revolution Summer" style="max-width:120px; height:auto;" />
       </td>
@@ -160,12 +160,12 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 75</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9a316014f12d57334ded8d7518e118c.png" alt="Cover for Orchid" style="max-width:120px; height:auto;" />
       </td>
@@ -179,12 +179,11 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1c93b79d1d248a3ae5d006e10fb3362.png" alt="Cover for Chaos Is Me" style="max-width:120px; height:auto;" />
       </td>
@@ -199,27 +198,8 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 8</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 72</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/154320a5c2bd4b45ac1b90861d02236c.png" alt="Cover for As Years Pass and Feel Like Seconds" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>In Loving Memory</td>
-      <td>As Years Pass and Feel Like Seconds</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 10</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -245,7 +225,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07a4b643b05a47fbc752b8b29a17def3.png" alt="Cover for Love Lost but Not Forgotten" style="max-width:120px; height:auto;" />
       </td>
@@ -296,7 +276,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 67</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -317,12 +297,12 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 51</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/41f675f03bb44d7f9d1db4e7fb694d52.png" alt="Cover for Dance Tonight! Revolution Tomorrow!" style="max-width:120px; height:auto;" />
       </td>
@@ -331,19 +311,17 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       <td>Dance Tonight! Revolution Tomorrow!</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 4</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 30</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5b6b1e6966008b4aa63d8ac6b38dd91.png" alt="Cover for Completed" style="max-width:120px; height:auto;" />
       </td>
@@ -358,12 +336,12 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 19</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15a1cc097bad4f1e883b058f5e5c7fa1.png" alt="Cover for Document #8" style="max-width:120px; height:auto;" />
       </td>
@@ -381,7 +359,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8c0a1ee79be7fdb4ddbab5166fc7742.png" alt="Cover for A Days Refrain&#x2F;Neil Perry split" style="max-width:120px; height:auto;" />
       </td>
@@ -423,7 +401,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59bf37d1a23dfcd6562f591828c37f28.png" alt="Cover for Discography" style="max-width:120px; height:auto;" />
       </td>
@@ -438,12 +416,12 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 93</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5aff0ae327980f72ddaccd4da64b0639.png" alt="Cover for Disinformation Fix" style="max-width:120px; height:auto;" />
       </td>
@@ -458,12 +436,12 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       <td>
         <ul>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 26</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 94</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7a076d65e8835fe80ad9917849cad58.png" alt="Cover for ...And Little Lambs Eat Nations" style="max-width:120px; height:auto;" />
       </td>
@@ -483,7 +461,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/019ca6731bf349939a7f3951fc0872f6.png" alt="Cover for I Wrote Haikus About Cannibalism In Your Yearbook" style="max-width:120px; height:auto;" />
       </td>
@@ -541,7 +519,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/309a603c5c084152a805bcb02a829799.png" alt="Cover for La Violence Thérapeutique" style="max-width:120px; height:auto;" />
       </td>
@@ -578,7 +556,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/901413435037457be523ac4f69d6e7de.png" alt="Cover for Lord Snow" style="max-width:120px; height:auto;" />
       </td>
@@ -598,7 +576,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bfc4cd9ca02e99a23522f42f3336192.png" alt="Cover for Sovngarde" style="max-width:120px; height:auto;" />
       </td>
@@ -618,7 +596,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92aa465e1336007fb4aad9ccef89dcbb.png" alt="Cover for 死の手" style="max-width:120px; height:auto;" />
       </td>
@@ -651,12 +629,32 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 85</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17ea33e9fe5a4255bb31e0445b2b6633.png" alt="Cover for Demo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-08</td>
+      <td>Eyrie</td>
+      <td>Demo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russian-emo" | relative_url }}">russian emo</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91356921bad4f558d51f50940d303e0e.png" alt="Cover for Solitude" style="max-width:120px; height:auto;" />
       </td>
@@ -675,7 +673,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c165fea72ed43f3c31a411c4debed29.png" alt="Cover for Han" style="max-width:120px; height:auto;" />
       </td>
@@ -696,7 +694,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7a83ee21611823c628df9ee0b6e79a6.png" alt="Cover for Discography" style="max-width:120px; height:auto;" />
       </td>
@@ -735,7 +733,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b39451dff5d279a22e09d0674b55122a.png" alt="Cover for Deathless" style="max-width:120px; height:auto;" />
       </td>
@@ -756,7 +754,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4c91933324558d2f1f829f165594b9a.png" alt="Cover for Metaphor Technology" style="max-width:120px; height:auto;" />
       </td>
@@ -791,12 +789,12 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 21</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91af045e904dc722d509901be785bfdc.png" alt="Cover for Collected" style="max-width:120px; height:auto;" />
       </td>
@@ -810,14 +808,13 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 12</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 55</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 14</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07737ea4c584d707ae0855858f80630a.png" alt="Cover for Gravity and Grace" style="max-width:120px; height:auto;" />
       </td>
@@ -838,7 +835,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/89409d6dc1d450931e0c926521fbce75.png" alt="Cover for Faces of the Moving Year" style="max-width:120px; height:auto;" />
       </td>
@@ -859,7 +856,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd3b016b0dca157903c76a6eb6615d5d.png" alt="Cover for KALEIDOSKOP" style="max-width:120px; height:auto;" />
       </td>
@@ -897,7 +894,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2855a6ce0d17a74347a3439650469ab.png" alt="Cover for Fashion Statements of the Socially Aware" style="max-width:120px; height:auto;" />
       </td>
@@ -937,7 +934,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ae477285b4041577f4bae69a6b0e360.png" alt="Cover for Commit More Arson" style="max-width:120px; height:auto;" />
       </td>
@@ -956,7 +953,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/87b1f7c90b54d770a3b5962d27029282.png" alt="Cover for Residue" style="max-width:120px; height:auto;" />
       </td>
@@ -1031,7 +1028,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f77d632ba87b4796543570d518d2466.png" alt="Cover for Shadowmarks" style="max-width:120px; height:auto;" />
       </td>
@@ -1051,7 +1048,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/867dfcf425a9cbc5bcb121c7c7d85b56.png" alt="Cover for My First Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1068,12 +1065,12 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       <td>
         <ul>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 58</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 71</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76cc7b33d91d5242a8b615c06884bcc5.png" alt="Cover for Glorify" style="max-width:120px; height:auto;" />
       </td>
@@ -1114,7 +1111,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4553a6fce8f63a270cf6e3878a60537b.png" alt="Cover for MMXXII" style="max-width:120px; height:auto;" />
       </td>
@@ -1171,7 +1168,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24570c82639dabd274bbdf6baa0d9bd5.png" alt="Cover for The Gray In Between" style="max-width:120px; height:auto;" />
       </td>
@@ -1209,7 +1206,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea2d55a654fbde1debc9a43d260e8c4b.png" alt="Cover for Disaster" style="max-width:120px; height:auto;" />
       </td>
@@ -1249,7 +1246,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c05df9c8cea05c49cf69069499fc057e.png" alt="Cover for Obsidian Wreath" style="max-width:120px; height:auto;" />
       </td>
@@ -1268,7 +1265,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b034e41ca2e65cf1357e961594ca924.png" alt="Cover for Greatest Hits: Vol 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1306,7 +1303,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b397b2dce60bd31f5b700f4f0978e43c.png" alt="Cover for Salt Sermon" style="max-width:120px; height:auto;" />
       </td>
@@ -1327,7 +1324,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd4f2b1ef6400eae306e29e0fa66dfef.png" alt="Cover for Slow Burn" style="max-width:120px; height:auto;" />
       </td>
@@ -1343,13 +1340,13 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 4</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 13</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0f67aeaedd3ae6b04460520b069b808.png" alt="Cover for Circle Thinking" style="max-width:120px; height:auto;" />
       </td>
@@ -1363,7 +1360,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 73</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1404,12 +1401,12 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 52</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/507823b0bd5895f5fac5b21758f7a0f0.png" alt="Cover for Audio Prozac" style="max-width:120px; height:auto;" />
       </td>
@@ -1430,7 +1427,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8760d6e780093cf25a721318be924962.png" alt="Cover for liljekonvalj" style="max-width:120px; height:auto;" />
       </td>
@@ -1450,7 +1447,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a49b849391b53b3fc5d95d06a00f927a.png" alt="Cover for approximation_of_a_human" style="max-width:120px; height:auto;" />
       </td>
@@ -1468,7 +1465,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/444ee48380a8e3dce416a35f0d1d0bda.png" alt="Cover for Hands In The Air!" style="max-width:120px; height:auto;" />
       </td>
@@ -1488,7 +1485,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3f3574c123545517aab89e140dec527.png" alt="Cover for Demo 2025" style="max-width:120px; height:auto;" />
       </td>
@@ -1508,7 +1505,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdf359aa9cbc4fa7ae7b9f7b7c3cab88.png" alt="Cover for La fine non è la fine" style="max-width:120px; height:auto;" />
       </td>
@@ -1526,7 +1523,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92950b79718a6b6fb5bd8e11b150e16f.png" alt="Cover for The History Behind The Mystery: Music To Kill Yourself By" style="max-width:120px; height:auto;" />
       </td>
@@ -1545,7 +1542,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/920b3c970b4dfac737367a748beeba78.png" alt="Cover for demo" style="max-width:120px; height:auto;" />
       </td>
@@ -1566,7 +1563,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2488953b21280938b8a76c29bd644240.png" alt="Cover for калейдоскоп упущенных мгновений" style="max-width:120px; height:auto;" />
       </td>
@@ -1584,7 +1581,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a765b35eaf62ae814ea6288dfbea8eaa.png" alt="Cover for Forged from the Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -1605,7 +1602,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a0109c73095ffadb53862e70a758a71.png" alt="Cover for Минское Море" style="max-width:120px; height:auto;" />
       </td>
@@ -1704,7 +1701,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/185d3eedcaea56679d0da453088c286d.png" alt="Cover for Wilting" style="max-width:120px; height:auto;" />
       </td>
@@ -1725,7 +1722,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dae77646526ba3baab192602cbcdd0e6.png" alt="Cover for This Bitter Garden" style="max-width:120px; height:auto;" />
       </td>
@@ -1745,7 +1742,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01a1a989cfb3e8c4f1b740547ffb6c6a.png" alt="Cover for How This All Ends" style="max-width:120px; height:auto;" />
       </td>
@@ -1766,7 +1763,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83584a3efb43f133897046d62de1fd2c.png" alt="Cover for As Dust Collects" style="max-width:120px; height:auto;" />
       </td>
@@ -1776,25 +1773,6 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d353d637172d58ad908ffe5404d9346.png" alt="Cover for s&#x2F;t" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Iwrotehaikusaboutcannibalisminyouryearbook</td>
-      <td>s&#x2F;t</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
         </ul>
       </td>
       <td>
@@ -1912,7 +1890,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63dd95477eee7943a6d94e0d0b1902e4.png" alt="Cover for Second Nail" style="max-width:120px; height:auto;" />
       </td>
@@ -1929,7 +1907,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d98470114772fd23853d8fa5225539a.png" alt="Cover for All Pain, No Feeling" style="max-width:120px; height:auto;" />
       </td>
@@ -1946,7 +1924,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/448169bc78094a4ea5e8dee5d0912dde.png" alt="Cover for Einerseits, Andererseits" style="max-width:120px; height:auto;" />
       </td>
@@ -1963,7 +1941,24 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>45</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d353d637172d58ad908ffe5404d9346.png" alt="Cover for s&#x2F;t" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Iwrotehaikusaboutcannibalisminyouryearbook</td>
+      <td>s&#x2F;t</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fd41c182c5c864220fdd2cee994f247.png" alt="Cover for Manual para superar el Síndrome de Escapismo, o al menos intentarlo" style="max-width:120px; height:auto;" />
       </td>
@@ -1988,9 +1983,9 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
 - [emo]({{ "/tags/emo" | relative_url }})
 - [skramz]({{ "/tags/skramz" | relative_url }})
 - [hardcore]({{ "/tags/hardcore" | relative_url }})
-- [post-hardcore]({{ "/tags/post-hardcore" | relative_url }})
-- [real screamo]({{ "/tags/real-screamo" | relative_url }})
 - [powerviolence]({{ "/tags/powerviolence" | relative_url }})
+- [real screamo]({{ "/tags/real-screamo" | relative_url }})
+- [post-hardcore]({{ "/tags/post-hardcore" | relative_url }})
 - [grindcore]({{ "/tags/grindcore" | relative_url }})
 - [mathcore]({{ "/tags/mathcore" | relative_url }})
 - [hardcore punk]({{ "/tags/hardcore-punk" | relative_url }})

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T14:31:34.914Z
+date: 2025-11-14T10:23:41.485Z
 permalink: tags/los-angeles
 title: los angeles
 ---
 
 ## los angeles
 
-Last updated: <time datetime="2025-10-28T14:31:34.914Z">Tue Oct 28 2025 16:31:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T10:23:41.485Z">Fri Nov 14 2025 12:23:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -15,108 +15,2215 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 27 |  | 1967 | The Peanut Butter Conspiracy | The Peanut Butter Conspiracy is Spreading |
-| 21 |  | 1978 | The Germs | Lexicon Devil |
-| 6 |  | 1979 | The Plugz | Electrify Me |
-| 29 | ![Cover](https://i.discogs.com/AeiMaClQKGjb1smLrXhP3Pv3PfC2j6L_fOlWAElS6IU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI1/MzItMTU1NTgzODIy/NC03NDY5LmpwZWc.jpeg) | 1984-10 | The Long Ryders | Native Sons |
-| 46 |  | 1989 | Shotgun Messiah | Shotgun Messiah |
-| 48 |  | 1991-11-12 | 2Pac | 2Pacalypse Now |
-| 34 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c1d351b0337642b9af10a5278d11cdb8.png) | 1993 | Eazy-E | It&#39;s on 187um Killa |
-| 45 | ![Cover](https://i.discogs.com/S8Q-ukmmZbFUh-gB6xe8nukj3evdW9c4bO88HsqT_Xc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk2/NjYtMTY3NzQ5MjM5/MS03NzI1LmpwZWc.jpeg) | 1995 | 2Pac | Me Against the World |
-| 24 | ![Cover](https://i.discogs.com/rz-oCaJGLp-tYzAhFCLiIO37KExCHeA8XnJJzFnxckI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDYw/MzUtMTUyMjY1NTM4/MC0yNDkzLmpwZWc.jpeg) | 1995-06 | The Stone Poneys | Evergreen Vol.2 |
-| 2 | ![Cover](https://i.discogs.com/IO7cY2g5CP_bzKVG14JwQfmkG4VjVTzePm7HuMHVbcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTg5/OS0xNDk2NDI1NzYx/LTQ4NTkuanBlZw.jpeg) | 1995-07-18 | Electric Skychurch | Knowoness |
-| 9 |  | 1995-07-18 | Electric Skychurch | Knowoneness |
-| 25 |  |  | Jules Larson | Strangers |
-| 26 |  | 1996-02-13 | 2Pac | All Eyez on Me |
-| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/95c76eb7b1fed28efa262545fcee5690.png) | 1997 | Marvelous 3 | Math and Other Problems |
-| 37 |  | 1997-06-03 | South Central Cartel | All Day Everyday |
-| 22 | ![Cover](https://i.discogs.com/BxADwI_r4xDqmC05-fCn2D-MsGCWjaDWU8yQUqxx7PM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjIw/MDMtMTUzMTY3MjM5/NS04ODI4LmpwZWc.jpeg) | 1998 | 2Pac | Hail Mary |
-| 5 | ![Cover](https://i.discogs.com/-GBtuUHlnaPGHWQWHbnWJRALicrNAwv8-ds4vUKfx78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzQ1/ODMtMTQzMzc2NDE5/Ny01MzQ2LmpwZWc.jpeg) | 1999 | Automatic | Skyscraper |
-| 18 |  | 2001 | Orgone | Orgone |
-| 17 | ![Cover](https://i.discogs.com/01J6E8wiJ-H2yZUKtjBE7xV5MnfG2LjjZ5QQyBmzccY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQy/Mjc4LTE1NTQyOTU4/MjUtOTEzOC5qcGVn.jpeg) | 2008-04-10 | Celeste Lear | Looking Up From underwater |
-| 4 |  | 2008-05-09 | Flying Lotus | Los Angeles |
-| 12 |  |  | Mueller&#x2F;Feldbauer | autorama |
-| 32 |  | 1994 | Bad Religion | 21st Century (Digital Boy) |
-| 14 | ![Cover](https://i.discogs.com/dinns0nTlsXtyWPL6I4_CkKxPiZdwaaYImOAGK-dzHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzU4/MjEtMTI5ODY5MTM2/OS5qcGVn.jpeg) | 2001-08 | Miranda Lee Richards | The Herethereafter |
-| 35 |  | 2003-11-01 | 2Pac | Tupac: Resurrection |
-| 20 | ![Cover](https://i.discogs.com/Hx5t4ncfd0T9U74EWubhO2iGD57dMxz4GmA0ro1kyWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/NjktMTM3MzAxNDcw/Ni0xNDIyLmpwZWc.jpeg) | 2004 | Avengers | The American in Me |
-| 44 |  | 2004-12-14 | 2Pac | Loyal To The Game |
-| 47 |  | 2005-11-01 | 2Pac | Live My Life |
-| 39 | ![Cover](https://i.discogs.com/hAGi857X1zP_O0lHtBoamuMsJChtjyJJywSnQRptHm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg0/NjEwLTE1MTY3MTQz/MjctMjU5NC5qcGVn.jpeg) | 2006 | Poison | The Best of - 20 Years of Rock |
-| 33 | ![Cover](https://i.discogs.com/Q17MwnxgXNXcLWF9zSa9PQ4yBDgo6eDJWIJ-lvu72lw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjIy/ODQtMTY1MzMzMjQ3/OS01NzYyLmpwZWc.jpeg) | 2007 | 2Pac | The Best of 2Pac, Part 1: Thug |
-| 40 |  | 2007 | The Weirdos | Destroy All Music |
-| 41 |  | 2007-02-05 | 2Pac | Pac&#39;s Life |
-| 15 |  | 2007-03-26 | 2Pac | The 10th Anniversary Collection: The Sex, the Soul &amp; the Street |
-| 43 |  | 2008-10-01 | Orgone | Bacano |
-| 23 | ![Cover](https://i.discogs.com/AOZhEsD9chDOfWE3dlI-BnVukGHFANxUkvsluVUJGOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODE0/MjUtMTI3Mzc1Mjg4/MS5qcGVn.jpeg) | 2009-05-25 | Ceschi | Same Old Love Song |
-| 11 | ![Cover](https://i.discogs.com/jMw0FE1p9uG-HSWrvXqoJrwCoCXt36Tk3_p7fyGihUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzIw/MTIxLTE1ODk2ODQx/NzUtODkzNC5qcGVn.jpeg) | 2013 | Beat Club | Something Better - Single |
-| 1 | ![Cover](https://i.discogs.com/NoJbyovTvO52zzbKqtmp2SMGPbbTp4K9CIhT3wwzdZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzYx/ODk3LTE1NzI5ODIy/MTktODkzNy5qcGVn.jpeg) | 2018-09-28 | LP Giobbi | Take My Hand Remixes |
-| 3 |  |  | Loui Sixteen | Baba Cool |
-| 19 | ![Cover](https://i.discogs.com/ShRlq-4tfi92J9_ibochY5Th2kMfigRSd2gdgft15ys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDE0/MjAtMTI0MzYwODE1/Ny5qcGVn.jpeg) | 2009 | Sunn O))) | (初心) Grimmrobes Live 101008 |
-| 30 |  | 2011-04-26 | TRS-80 | Horizons |
-| 7 | ![Cover](https://i.discogs.com/nKTo61W5DEEceN86kdxiZWvE7WKuk4MEmdHOnGTC8BI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUx/MTYtMTMyMDgwMzk2/OS5qcGVn.jpeg) | 2011-10-18 | Freestyle Fellowship | The Promise |
-| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8c2c7468e08c755f7eca7cf7a1d286d7.png) | 2019-09-27 | Automatic | Signal |
-| 10 |  |  | Wil$on | Method Acting act II : The Blue Note |
-| 71 | ![Cover](https://i.discogs.com/-eCghlTv2N0HrZLxDX4wLYZA1-JpiZ9M8XqEt5kw4ys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTg1/NTUzLTE1Nzc2Mzg0/ODktOTYxMi5qcGVn.jpeg) | 1953 | Richard Wagner | Wagner - Dudamel |
-| 73 |  | 1966 | The Music Machine | (Turn On) The Music Machine |
-| 75 |  | 1990 | King Tee | At Your Own Risk |
-| 68 | ![Cover](https://i.discogs.com/uvjfinXT3l0NkQnWtETHPcMEeig3qUuVtWFRFRBmi40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTk4/My0xMTQ1NDE3Mzky/LmpwZWc.jpeg) | 1993 | Automatic | New Beginning |
-| 98 | ![Cover](https://i.discogs.com/kmJdFhx9m3Rv2CmZrCVufV0jY4PiMNX8HlvoCNfvXAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTc2/NjgwLTE2OTIwNjQ2/OTgtNjEzNi5qcGVn.jpeg) | 1993 | Metallica | ...And Justice for All (Remastered) |
-| 84 |  | 1993-02-15 | 2Pac | Strictly 4 My N.I.G.G.A.Z... |
-| 97 | ![Cover](https://i.discogs.com/g9qyIFvmcbZlXSCWz6JVr_svGuJtwzvBnSvAwv-xAHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjU4/NS0xMjk2MjEyMjkx/LmpwZWc.jpeg) | 1995 | 2Pac | California Love |
-| 70 | ![Cover](https://i.discogs.com/f4osCX-FazbD_3wB8cp2pNdudhNK5Seu7YkNE63GhtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDEw/MzEtMTMxMTM2MTEw/Ny5qcGVn.jpeg) | 1995-03-14 | 2Pac | The Don Killuminati: The 7 Day Theory |
-| 94 | ![Cover](https://i.discogs.com/5WUtsYnpMmABVqOJhL4HVNUn4PDcuNwCyfwPAQ-vbMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjY3/OS0xMzMyMDQ1NjM4/LmpwZWc.jpeg) | 1998-02 | 2Pac | R U Still Down? [Remember Me] |
-| 53 | ![Cover](https://i.discogs.com/8F2TfGBgwwY3k4XrJihIWcm5v2ggvxXs6gd-t2bIawY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDAy/NS0xNjc5MTQyODMy/LTI1NjAuanBlZw.jpeg) | 1998-11-24 | 2Pac | Greatest Hits |
-| 99 | ![Cover](https://i.discogs.com/p_yzrwHZFHp-kDvwei9DUF4_nY9RgLeokH_0vzzDTTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzQx/NDQzLTE1MDM0NTcz/MjEtODU5Ny5qcGVn.jpeg) | 1999 | 2Pac | The Best Of 2pac |
-| 56 | ![Cover](https://i.discogs.com/FcqNuNfRfjOuMG19v_SMA7WISHQzhEOqEhm-GqQ-3vQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg2/MDUtMTYzOTA0MjY5/Ni01NDIxLmpwZWc.jpeg) | 2001 | 2Pac | All Eyez On Me (Remastered) |
-| 64 | ![Cover](https://i.discogs.com/2jO0Dp_bZRtSpgO_idAyfZFWdA50D5g-QYgME6RO0dY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDgx/LTE1MzMwNzY2Nzct/Nzk4OS5qcGVn.jpeg) | 2001 | Automatic | Mind Your Own Business |
-| 67 | ![Cover](https://i.discogs.com/0unK7-kkKMV7siqKlQQCyNO8ZYavvqdFc8IyQlHrNuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgy/Ny0xMzA2MTUwNjg5/LmpwZWc.jpeg) | 2001 | Electric Skychurch | Sonic Diary |
-| 66 |  | 2001-03-27 | 2Pac | Until The End Of Time |
-| 62 |  | 2002-11-26 | 2Pac | Better Dayz |
-| 65 | ![Cover](https://i.discogs.com/RXdEKoiye4W98f_YvOQPh7f0NU8xzWOXz5o-K61y0wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njgy/NzctMTMzNTYyMjgx/Mi5qcGVn.jpeg) | 2003 | 2Pac | Resurrection |
-| 77 | ![Cover](https://i.discogs.com/It5q_1G0Tc1tmJZD-fGJL-idYv6a0CnZeHoyMwSYPEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjcw/NzQtMTU5OTIwNDk0/OS0xMTgxLmpwZWc.jpeg) | 2003 | 2Pac | The 7 Day Theory |
-| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/098c9b1693ab374a3de9d45d08e7e98c.png) | 2003-01-01 | BoySetsFire | Tomorrow Come Today |
-| 89 |  | 2003-10-07 | 2Pac | Nu-Mixx Klazzics |
-| 88 |  | 2004-02-03 | The Elected | Me First |
-| 54 | ![Cover](https://i.discogs.com/u2pZCdWrC66VdSnI0D6Aw2U0hz78h3gyQTKJD8HIwwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk2/OC0xMjU2OTI3NDk1/LmpwZWc.jpeg) | 2005 | 2Pac | Still I Rise |
-| 69 | ![Cover](https://i.discogs.com/AGaIr08tB6UlW9ZA1gXJ-AzVIzoyIHXiq0w6m7d-_Lk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM3/Njg4LTE0OTA1MzQ1/MTYtOTI4My5qcGVn.jpeg) | 2005 | 2Pac | Live at the House Of Blues |
-| 90 | ![Cover](https://i.discogs.com/tiFZtm9OkgkThjA4Wfz8H5E8j8aR60-JwFo7haP-LyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDMy/MjAtMTcwODQ1MTkw/My04MDM4LmpwZWc.jpeg) | 2005-06-22 | Alamein | Rhetorical Question EP |
-| 95 | ![Cover](https://i.discogs.com/1unp5fPQqjonlvzhnURPlBMj9sPSFacG-3TA-0nbrLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjg3/MDAtMTU5Mzk2MzAz/OC0zMDQ2LmpwZWc.jpeg) | 2006 | The Submarines | Declare A New State |
-| 51 | ![Cover](https://i.discogs.com/tTsHCfnlUOBfFlmU-b5ofXGlJjsZPoPysoejG8RJj4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzQ3/MTYtMTM0MjI1OTIw/Mi05MTE3LmpwZWc.jpeg) | 2007 | 2Pac | The Rose That Grew from Concrete |
-| 57 |  | 2007-03-20 | The Willowz | Chautauqua |
-| 58 |  | 2007-10-24 | Orgone | The Killion Floor |
-| 61 | ![Cover](https://i.discogs.com/IfSnJckYhRN574kyLfGG-zhDLstib9V-cIxs36Etkuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTMx/NTktMTQyNjgxNzA1/Mi00NzkzLmpwZWc.jpeg) | 2008 | Xu Xu Fang | Seven Days Now |
-| 78 |  | 2008 | Colbie Caillat | The Malibu Sessions |
-| 59 |  | 2008-01-29 | TRS-80 | The New You |
-| 52 | ![Cover](https://i.discogs.com/iU4QuKdFGFMmVmKMEhXC9U7uTczXVMqJrwpV8aPRG2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTEw/OTEtMTUzODIyMzE0/MS02ODI3LmpwZWc.jpeg) | 2009 | AM | Future Sons &amp; Daughters |
-| 74 | ![Cover](https://i.discogs.com/UxBgx_RTewdZgsBDK1tWMrEzoGAlQKRUxAFOp7FoTj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTMw/MDQtMTI5MjE4NDMx/NC5qcGVn.jpeg) | 2009 | The Pussycat Dolls | Doll Domination (International Deluxe Version) |
-| 91 |  | 2009-05-26 | Glasser | Apply EP |
-| 81 |  | 2010-01-01 | Colleen Green | Milo Goes To Compton |
-| 76 | ![Cover](https://i.discogs.com/ghN3cvwKS1H4LFAc_AK70156FRpJBhheCFrhoc7cVrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjEx/OTUtMTMxNTM2MTMz/Mi5qcGVn.jpeg) | 2010-02-16 | Giant Drag | Swan Song |
-| 86 | ![Cover](https://i.discogs.com/TViIkoImt-yQPGAVoy2WNQzGvI0e6JlNQy9FQuFpjeU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDM4/MjctMTM2MTIxMTY4/Ni0xMDkxLmpwZWc.jpeg) | 2010-05-11 | Open Mike Eagle | Hella Personal Film Festival |
-| 63 |  | 2011-01-01 | Lee Noble | No Becoming |
-| 92 | ![Cover](https://i.discogs.com/L-Eq15EDpQJynZ2R7eI6zQhr5SqiaiCLwraLQiWDENk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjM1/OTQtMTQzOTI1NzE3/Ni0yNjYzLmpwZWc.jpeg) | 2011-04-05 | The Submarines | Love Notes&#x2F;Letter Bombs |
-| 13 | ![Cover](https://i.discogs.com/HO-fMKJcTMh5G9YC2peJTawcQQc0JMiKbhjGGgfwRQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjQ4/ODItMTM1NzQxNzUx/Ni04MDIxLmpwZWc.jpeg) | 2013-01-29 | Radar Bros. | Eight |
-| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/88ae9c8d5c54404dd693b814eaff2c01.png) | 2013-03-26 | Wavves | Afraid Of Heights |
-| 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a97b2f491d6988c712b8cd4d53900ec1.png) | 2013-04-02 | IO Echo | Ministry of Love |
-| 93 |  | 2013-07-04 | Froth | Patterns |
-| 79 | ![Cover](https://i.discogs.com/soiXSd8Pkm0j6AxGX-Oq38ol1HkotgVrx6cNHLm7ooM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njgy/NTUtMTUxODgzODU2/Ny01Mjk0LmpwZWc.jpeg) | 2015-10-06 | 2Pac | Nu Mixx Klazzics Vol. 2 (Evolution: Duets And Remixes) |
-| 38 | ![Cover](https://i.discogs.com/dsay5SLCnBvbjq2i1R8BNTHYDhaLAQ-TsxcRxm4zJmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODEw/ODctMTQ3OTU2ODc3/OC00MjIwLmpwZWc.jpeg) | 2016 | John Mayer | On His Own Live in L.A. |
-| 96 | ![Cover](https://i.discogs.com/6yYOjuY93IgNbQH1o8Cmshhjj8x6-V68zJMoWQF9olk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDM5/NzUtMTQ2OTExMTgw/NC01MjUxLnBuZw.jpeg) | 2016-07-18 | Prophets Of Rage | Prophets Of Rage |
-| 85 | ![Cover](https://i.discogs.com/n7f0MpTDmglxBM1Nftb4lKoLJ7juGKLxZAup2Ov9CoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjY5/MzYxLTE1MzE4MzA0/NTctODQ0MS5qcGVn.jpeg) | 2018-07-20 | The Internet | Cocaine EP |
-| 82 | ![Cover](https://i.discogs.com/AXeHkhF-wotnXZgKj9kpc9Byow0ySCiIb-pp4WRVBZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY4/MzQ4LTE1NzUxNDU2/NzQtMjg2NC5qcGVn.jpeg) | 2019-11-30 | beabadoobee | Live in LA |
-| 49 | ![Cover](https://i.discogs.com/MPn3nvHnVxwtvVi2dUhk8qY4Xs83Y1h8A4OVOCMwr_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjcx/MTk5LTE2MzE5MTEz/MTMtMjk0MC5qcGVn.jpeg) | 2020-04-24 | Brendan Eder Ensemble | To Mix With Time |
-| 28 | ![Cover](https://i.discogs.com/mSkBeDpp9u0opGui7WjwskhwJW8qQcPRVc5I0mHo8dw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTk5/ODQ0LTE2NTA4MzQz/MTItOTMwMS5qcGVn.jpeg) | 2020-10-09 | LP Giobbi | LP Giobbi x Insomniac Records Presents Femme House |
-| 60 | ![Cover](https://i.discogs.com/jlle3_YtzXp3_hMj-yHZbBp0ukkr5Gu2b8ReLdYPjD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzY2/ODMtMTQzMzkzNjcw/OS0yMTk1LmpwZWc.jpeg) | 2021-01-28 | Alchemist | Chemical Warfare |
-| 42 | ![Cover](https://i.discogs.com/HlWhvtJBdiRDOQpZ-CSqi8gNTtV9iowVbwok9UxlzDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjYw/MjAxLTE2MTI0ODA4/MjEtNDk2Ny5qcGVn.jpeg) | 2021-02 | hollis | half-life (deluxe) |
-| 72 | ![Cover](https://i.discogs.com/nQRro25m9Wv8cIQhYOA7W9M1jFUiyB05ax3ob90f3N4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzIx/NjgwLTE2MTI4MDUy/MzctNjIwNy5qcGVn.jpeg) | 2021-02 | Automatic | Signal Remixes |
-| 100 | ![Cover](https://i.discogs.com/zwhop3MbOizdnfuK2J0d0jWycyPPPNBEPdbHgu5MRPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTM4/MDE1LTE2NTE4NzMw/NDMtMTY2OS5qcGVn.jpeg) | 2022 | Eyedress | Mulholland Drive |
-| 87 | ![Cover](https://i.discogs.com/jlzqUclFhq3tCK-C7nBGM4ienrK1UmlpATnxfNfl8Fk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTE4/OTMtMTQ2NTk0NDQx/My04MjM3LmpwZWc.jpeg) | 2022-04-15 | Jerry Paper | Toon Time Raw! |
-| 50 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3d73f719827b23cb6295e41e59ca4bac.png) | 2022-06-24 | Automatic | Excess |
-| 55 | ![Cover](https://i.discogs.com/uGA01wc_drMDMzBM-krIAcQsOYP1ywal0JkqLkI8ZSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzYy/NDQ0LTE1NzI5ODkz/NjMtNTU0Ni5qcGVn.jpeg) | 2023-05-12 | LP Giobbi | Togetherness |
-| 83 |  |  | Jules Larson | Let&#39;s Stay Young |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/-eCghlTv2N0HrZLxDX4wLYZA1-JpiZ9M8XqEt5kw4ys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTg1/NTUzLTE1Nzc2Mzg0/ODktOTYxMi5qcGVn.jpeg" alt="Cover for Wagner - Dudamel" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1953</td>
+      <td>Richard Wagner</td>
+      <td>Wagner - Dudamel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td>1966</td>
+      <td>The Music Machine</td>
+      <td>(Turn On) The Music Machine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cbc4c91071a4f3caf6f590ab5775a24.png" alt="Cover for The Peanut Butter Conspiracy is Spreading" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1967</td>
+      <td>The Peanut Butter Conspiracy</td>
+      <td>The Peanut Butter Conspiracy is Spreading</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12a64343beac4dc88f71e9c53a5c13f6.png" alt="Cover for Lexicon Devil" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1978</td>
+      <td>The Germs</td>
+      <td>Lexicon Devil</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e07da319c364317a8467873b579c496.png" alt="Cover for Electrify Me" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>The Plugz</td>
+      <td>Electrify Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/AeiMaClQKGjb1smLrXhP3Pv3PfC2j6L_fOlWAElS6IU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI1/MzItMTU1NTgzODIy/NC03NDY5LmpwZWc.jpeg" alt="Cover for Native Sons" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984-10</td>
+      <td>The Long Ryders</td>
+      <td>Native Sons</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td>1989</td>
+      <td>Shotgun Messiah</td>
+      <td>Shotgun Messiah</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 3</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 26</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>King Tee</td>
+      <td>At Your Own Risk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/214553f614fb41aea68140131e3d14af.png" alt="Cover for 2Pacalypse Now" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991-11-12</td>
+      <td>2Pac</td>
+      <td>2Pacalypse Now</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 43</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/uvjfinXT3l0NkQnWtETHPcMEeig3qUuVtWFRFRBmi40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTk4/My0xMTQ1NDE3Mzky/LmpwZWc.jpeg" alt="Cover for New Beginning" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Automatic</td>
+      <td>New Beginning</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/kmJdFhx9m3Rv2CmZrCVufV0jY4PiMNX8HlvoCNfvXAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTc2/NjgwLTE2OTIwNjQ2/OTgtNjEzNi5qcGVn.jpeg" alt="Cover for ...And Justice for All (Remastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Metallica</td>
+      <td>...And Justice for All (Remastered)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 9</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1d351b0337642b9af10a5278d11cdb8.png" alt="Cover for It&#39;s on 187um Killa" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Eazy-E</td>
+      <td>It&#39;s on 187um Killa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e24fbea15d3644eb96d5d8b1e8c55052.png" alt="Cover for Strictly 4 My N.I.G.G.A.Z..." style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-02-15</td>
+      <td>2Pac</td>
+      <td>Strictly 4 My N.I.G.G.A.Z...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 48</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Bad Religion</td>
+      <td>21st Century (Digital Boy)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec29da1ea284444ba76b9baff0a4f08c.png" alt="Cover for Me Against the World" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>2Pac</td>
+      <td>Me Against the World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 96 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 47</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 89</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/g9qyIFvmcbZlXSCWz6JVr_svGuJtwzvBnSvAwv-xAHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjU4/NS0xMjk2MjEyMjkx/LmpwZWc.jpeg" alt="Cover for California Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>2Pac</td>
+      <td>California Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 16</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58cc90ae1764477cc7cd6ae2013dbe3c.png" alt="Cover for The Don Killuminati: The 7 Day Theory" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-03-14</td>
+      <td>2Pac</td>
+      <td>The Don Killuminati: The 7 Day Theory</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 22</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5d5395a0bae0180fa9407360dec0d38.png" alt="Cover for Evergreen Vol.2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-06</td>
+      <td>The Stone Poneys</td>
+      <td>Evergreen Vol.2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/IO7cY2g5CP_bzKVG14JwQfmkG4VjVTzePm7HuMHVbcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTg5/OS0xNDk2NDI1NzYx/LTQ4NTkuanBlZw.jpeg" alt="Cover for Knowoness" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-07-18</td>
+      <td>Electric Skychurch</td>
+      <td>Knowoness</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td>1995-07-18</td>
+      <td>Electric Skychurch</td>
+      <td>Knowoneness</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bd696cbd4aa4d4eb6d35393232f55e4.png" alt="Cover for All Eyez on Me" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-02-13</td>
+      <td>2Pac</td>
+      <td>All Eyez on Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 14</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95c76eb7b1fed28efa262545fcee5690.png" alt="Cover for Math and Other Problems" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Marvelous 3</td>
+      <td>Math and Other Problems</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/throwaway-grrls" | relative_url }}">throwaway grrls</a> # 21</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>1997-06-03</td>
+      <td>South Central Cartel</td>
+      <td>All Day Everyday</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/BxADwI_r4xDqmC05-fCn2D-MsGCWjaDWU8yQUqxx7PM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjIw/MDMtMTUzMTY3MjM5/NS04ODI4LmpwZWc.jpeg" alt="Cover for Hail Mary" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>2Pac</td>
+      <td>Hail Mary</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/5WUtsYnpMmABVqOJhL4HVNUn4PDcuNwCyfwPAQ-vbMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjY3/OS0xMzMyMDQ1NjM4/LmpwZWc.jpeg" alt="Cover for R U Still Down? [Remember Me]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-02</td>
+      <td>2Pac</td>
+      <td>R U Still Down? [Remember Me]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 29</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 68</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ca8269cfa0a4e0bb9a08aedfb645ed6.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-11-24</td>
+      <td>2Pac</td>
+      <td>Greatest Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 12</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 26</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 33</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/-GBtuUHlnaPGHWQWHbnWJRALicrNAwv8-ds4vUKfx78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzQ1/ODMtMTQzMzc2NDE5/Ny01MzQ2LmpwZWc.jpeg" alt="Cover for Skyscraper" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Automatic</td>
+      <td>Skyscraper</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/p_yzrwHZFHp-kDvwei9DUF4_nY9RgLeokH_0vzzDTTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzQx/NDQzLTE1MDM0NTcz/MjEtODU5Ny5qcGVn.jpeg" alt="Cover for The Best Of 2pac" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>2Pac</td>
+      <td>The Best Of 2pac</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 44</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 76</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50eef2765eae4e4886680d30d28428d0.png" alt="Cover for Orgone" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Orgone</td>
+      <td>Orgone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a></li>
+            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 17</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/FcqNuNfRfjOuMG19v_SMA7WISHQzhEOqEhm-GqQ-3vQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg2/MDUtMTYzOTA0MjY5/Ni01NDIxLmpwZWc.jpeg" alt="Cover for All Eyez On Me (Remastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>2Pac</td>
+      <td>All Eyez On Me (Remastered)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/2jO0Dp_bZRtSpgO_idAyfZFWdA50D5g-QYgME6RO0dY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDgx/LTE1MzMwNzY2Nzct/Nzk4OS5qcGVn.jpeg" alt="Cover for Mind Your Own Business" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Automatic</td>
+      <td>Mind Your Own Business</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/0unK7-kkKMV7siqKlQQCyNO8ZYavvqdFc8IyQlHrNuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgy/Ny0xMzA2MTUwNjg5/LmpwZWc.jpeg" alt="Cover for Sonic Diary" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Electric Skychurch</td>
+      <td>Sonic Diary</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 90</li>
+            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a82827641364d90cd88869b610df7a8.png" alt="Cover for Until The End Of Time" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-03-27</td>
+      <td>2Pac</td>
+      <td>Until The End Of Time</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/dinns0nTlsXtyWPL6I4_CkKxPiZdwaaYImOAGK-dzHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzU4/MjEtMTI5ODY5MTM2/OS5qcGVn.jpeg" alt="Cover for The Herethereafter" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-08</td>
+      <td>Miranda Lee Richards</td>
+      <td>The Herethereafter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98b5579e41e24209b291d8d23e9c9cb8.png" alt="Cover for Better Dayz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-11-26</td>
+      <td>2Pac</td>
+      <td>Better Dayz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74faafcc8e214cb8cc22b6b85c42cc3f.png" alt="Cover for Resurrection" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>2Pac</td>
+      <td>Resurrection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 24</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/It5q_1G0Tc1tmJZD-fGJL-idYv6a0CnZeHoyMwSYPEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjcw/NzQtMTU5OTIwNDk0/OS0xMTgxLmpwZWc.jpeg" alt="Cover for The 7 Day Theory" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>2Pac</td>
+      <td>The 7 Day Theory</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 33</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 41</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/098c9b1693ab374a3de9d45d08e7e98c.png" alt="Cover for Tomorrow Come Today" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-01-01</td>
+      <td>BoySetsFire</td>
+      <td>Tomorrow Come Today</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td>2003-10-07</td>
+      <td>2Pac</td>
+      <td>Nu-Mixx Klazzics</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 55</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c48b0949bd3640989b1399f7f32c46fc.png" alt="Cover for Tupac: Resurrection" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-11-01</td>
+      <td>2Pac</td>
+      <td>Tupac: Resurrection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 17</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/Hx5t4ncfd0T9U74EWubhO2iGD57dMxz4GmA0ro1kyWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/NjktMTM3MzAxNDcw/Ni0xNDIyLmpwZWc.jpeg" alt="Cover for The American in Me" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Avengers</td>
+      <td>The American in Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>2004-02-03</td>
+      <td>The Elected</td>
+      <td>Me First</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c52dab1180fa46389fd1d9b24890b4f4.png" alt="Cover for Loyal To The Game" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-12-14</td>
+      <td>2Pac</td>
+      <td>Loyal To The Game</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 7</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 11</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/u2pZCdWrC66VdSnI0D6Aw2U0hz78h3gyQTKJD8HIwwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk2/OC0xMjU2OTI3NDk1/LmpwZWc.jpeg" alt="Cover for Still I Rise" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>2Pac</td>
+      <td>Still I Rise</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 17</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/AGaIr08tB6UlW9ZA1gXJ-AzVIzoyIHXiq0w6m7d-_Lk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM3/Njg4LTE0OTA1MzQ1/MTYtOTI4My5qcGVn.jpeg" alt="Cover for Live at the House Of Blues" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>2Pac</td>
+      <td>Live at the House Of Blues</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/tiFZtm9OkgkThjA4Wfz8H5E8j8aR60-JwFo7haP-LyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDMy/MjAtMTcwODQ1MTkw/My04MDM4LmpwZWc.jpeg" alt="Cover for Rhetorical Question EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-06-22</td>
+      <td>Alamein</td>
+      <td>Rhetorical Question EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australian" | relative_url }}">australian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 15</li>
+            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>2005-11-01</td>
+      <td>2Pac</td>
+      <td>Live My Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 8</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/hAGi857X1zP_O0lHtBoamuMsJChtjyJJywSnQRptHm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg0/NjEwLTE1MTY3MTQz/MjctMjU5NC5qcGVn.jpeg" alt="Cover for The Best of - 20 Years of Rock" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Poison</td>
+      <td>The Best of - 20 Years of Rock</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/1unp5fPQqjonlvzhnURPlBMj9sPSFacG-3TA-0nbrLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjg3/MDAtMTU5Mzk2MzAz/OC0zMDQ2LmpwZWc.jpeg" alt="Cover for Declare A New State" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>The Submarines</td>
+      <td>Declare A New State</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>2Pac</td>
+      <td>The Rose That Grew from Concrete</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 9</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c26a61fecd90b8ea44beb70909a59025.png" alt="Cover for Destroy All Music" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>The Weirdos</td>
+      <td>Destroy All Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/Q17MwnxgXNXcLWF9zSa9PQ4yBDgo6eDJWIJ-lvu72lw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjIy/ODQtMTY1MzMzMjQ3/OS01NzYyLmpwZWc.jpeg" alt="Cover for The Best of 2Pac, Part 1: Thug" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>2Pac</td>
+      <td>The Best of 2Pac, Part 1: Thug</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54138952a55243b6c30286c587951ad5.png" alt="Cover for Pac&#39;s Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-02-05</td>
+      <td>2Pac</td>
+      <td>Pac&#39;s Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 4</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>2007-03-20</td>
+      <td>The Willowz</td>
+      <td>Chautauqua</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td>2007-03-26</td>
+      <td>2Pac</td>
+      <td>The 10th Anniversary Collection: The Sex, the Soul &amp; the Street</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56b2ee6c03764eefa867c23a87168e69.png" alt="Cover for The Killion Floor" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-10-24</td>
+      <td>Orgone</td>
+      <td>The Killion Floor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Colbie Caillat</td>
+      <td>The Malibu Sessions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/IfSnJckYhRN574kyLfGG-zhDLstib9V-cIxs36Etkuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTMx/NTktMTQyNjgxNzA1/Mi00NzkzLmpwZWc.jpeg" alt="Cover for Seven Days Now" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Xu Xu Fang</td>
+      <td>Seven Days Now</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>2008-01-29</td>
+      <td>TRS-80</td>
+      <td>The New You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/01J6E8wiJ-H2yZUKtjBE7xV5MnfG2LjjZ5QQyBmzccY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQy/Mjc4LTE1NTQyOTU4/MjUtOTEzOC5qcGVn.jpeg" alt="Cover for Looking Up From underwater" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-04-10</td>
+      <td>Celeste Lear</td>
+      <td>Looking Up From underwater</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 67</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 80</li>
+            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbfcfce949634377ae9a5e735c38e1fd.png" alt="Cover for Los Angeles" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-05-09</td>
+      <td>Flying Lotus</td>
+      <td>Los Angeles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/320b762eb177965fddb4dd62497503f1.png" alt="Cover for Bacano" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-10-01</td>
+      <td>Orgone</td>
+      <td>Bacano</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a></li>
+            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/iU4QuKdFGFMmVmKMEhXC9U7uTczXVMqJrwpV8aPRG2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTEw/OTEtMTUzODIyMzE0/MS02ODI3LmpwZWc.jpeg" alt="Cover for Future Sons &amp; Daughters" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>AM</td>
+      <td>Future Sons &amp; Daughters</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b03dbcf95804122c1d11b7098ebdfe9.png" alt="Cover for Doll Domination (International Deluxe Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>The Pussycat Dolls</td>
+      <td>Doll Domination (International Deluxe Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/ShRlq-4tfi92J9_ibochY5Th2kMfigRSd2gdgft15ys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDE0/MjAtMTI0MzYwODE1/Ny5qcGVn.jpeg" alt="Cover for (初心) Grimmrobes Live 101008" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Sunn O)))</td>
+      <td>(初心) Grimmrobes Live 101008</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4174433c06700631c610e6d78899bb0a.png" alt="Cover for Same Old Love Song" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-05-25</td>
+      <td>Ceschi</td>
+      <td>Same Old Love Song</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td>2009-05-26</td>
+      <td>Glasser</td>
+      <td>Apply EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1b41347ad21182e432d6818e428268b.png" alt="Cover for Milo Goes To Compton" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-01-01</td>
+      <td>Colleen Green</td>
+      <td>Milo Goes To Compton</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/235d6ea6ac564ad8b93dac85436fd557.png" alt="Cover for Swan Song" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-02-16</td>
+      <td>Giant Drag</td>
+      <td>Swan Song</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16bc7e6e8e32319807924deae406ab85.png" alt="Cover for Hella Personal Film Festival" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-05-11</td>
+      <td>Open Mike Eagle</td>
+      <td>Hella Personal Film Festival</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 21</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53547bef95db4f0acf999af55210a984.png" alt="Cover for No Becoming" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-01-01</td>
+      <td>Lee Noble</td>
+      <td>No Becoming</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 38</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 87</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 87</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 92</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 96</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d2b4280a03345db89cd34515fdf4fc4.png" alt="Cover for Love Notes&#x2F;Letter Bombs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-04-05</td>
+      <td>The Submarines</td>
+      <td>Love Notes&#x2F;Letter Bombs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4b27649421be2d1f8226cf7e2c9fb68.png" alt="Cover for Horizons" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-04-26</td>
+      <td>TRS-80</td>
+      <td>Horizons</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/nKTo61W5DEEceN86kdxiZWvE7WKuk4MEmdHOnGTC8BI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUx/MTYtMTMyMDgwMzk2/OS5qcGVn.jpeg" alt="Cover for The Promise" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-10-18</td>
+      <td>Freestyle Fellowship</td>
+      <td>The Promise</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/jMw0FE1p9uG-HSWrvXqoJrwCoCXt36Tk3_p7fyGihUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzIw/MTIxLTE1ODk2ODQx/NzUtODkzNC5qcGVn.jpeg" alt="Cover for Something Better - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Beat Club</td>
+      <td>Something Better - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d48dbcee46e4ba2a0956ba671d805c9.png" alt="Cover for Eight" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-01-29</td>
+      <td>Radar Bros.</td>
+      <td>Eight</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88ae9c8d5c54404dd693b814eaff2c01.png" alt="Cover for Afraid Of Heights" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-03-26</td>
+      <td>Wavves</td>
+      <td>Afraid Of Heights</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a97b2f491d6988c712b8cd4d53900ec1.png" alt="Cover for Ministry of Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-04-02</td>
+      <td>IO Echo</td>
+      <td>Ministry of Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e100292266c4c83bee0dc282d62f823.png" alt="Cover for Patterns" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-07-04</td>
+      <td>Froth</td>
+      <td>Patterns</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/soiXSd8Pkm0j6AxGX-Oq38ol1HkotgVrx6cNHLm7ooM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njgy/NTUtMTUxODgzODU2/Ny01Mjk0LmpwZWc.jpeg" alt="Cover for Nu Mixx Klazzics Vol. 2 (Evolution: Duets And Remixes)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-10-06</td>
+      <td>2Pac</td>
+      <td>Nu Mixx Klazzics Vol. 2 (Evolution: Duets And Remixes)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 35</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/dsay5SLCnBvbjq2i1R8BNTHYDhaLAQ-TsxcRxm4zJmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODEw/ODctMTQ3OTU2ODc3/OC00MjIwLmpwZWc.jpeg" alt="Cover for On His Own Live in L.A." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>John Mayer</td>
+      <td>On His Own Live in L.A.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/6yYOjuY93IgNbQH1o8Cmshhjj8x6-V68zJMoWQF9olk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDM5/NzUtMTQ2OTExMTgw/NC01MjUxLnBuZw.jpeg" alt="Cover for Prophets Of Rage" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-07-18</td>
+      <td>Prophets Of Rage</td>
+      <td>Prophets Of Rage</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 80</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 89</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/n7f0MpTDmglxBM1Nftb4lKoLJ7juGKLxZAup2Ov9CoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjY5/MzYxLTE1MzE4MzA0/NTctODQ0MS5qcGVn.jpeg" alt="Cover for Cocaine EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-07-20</td>
+      <td>The Internet</td>
+      <td>Cocaine EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db408206b5c30e973bbfddc18b40bcca.png" alt="Cover for Age of Unreason" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-05-03</td>
+      <td>Bad Religion</td>
+      <td>Age of Unreason</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 11</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c2c7468e08c755f7eca7cf7a1d286d7.png" alt="Cover for Signal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-09-27</td>
+      <td>Automatic</td>
+      <td>Signal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/AXeHkhF-wotnXZgKj9kpc9Byow0ySCiIb-pp4WRVBZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY4/MzQ4LTE1NzUxNDU2/NzQtMjg2NC5qcGVn.jpeg" alt="Cover for Live in LA" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-11-30</td>
+      <td>beabadoobee</td>
+      <td>Live in LA</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/MPn3nvHnVxwtvVi2dUhk8qY4Xs83Y1h8A4OVOCMwr_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjcx/MTk5LTE2MzE5MTEz/MTMtMjk0MC5qcGVn.jpeg" alt="Cover for To Mix With Time" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-04-24</td>
+      <td>Brendan Eder Ensemble</td>
+      <td>To Mix With Time</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/mSkBeDpp9u0opGui7WjwskhwJW8qQcPRVc5I0mHo8dw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTk5/ODQ0LTE2NTA4MzQz/MTItOTMwMS5qcGVn.jpeg" alt="Cover for LP Giobbi x Insomniac Records Presents Femme House" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-10-09</td>
+      <td>LP Giobbi</td>
+      <td>LP Giobbi x Insomniac Records Presents Femme House</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3332d50004c84bbbb654afe6f22730bf.png" alt="Cover for Chemical Warfare" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-01-28</td>
+      <td>Alchemist</td>
+      <td>Chemical Warfare</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york" | relative_url }}">new york</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 31</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 32</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 34</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 44</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 54</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36fe8e711d13323cc37e3c49dc78cc5a.png" alt="Cover for Signal Remixes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-02</td>
+      <td>Automatic</td>
+      <td>Signal Remixes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a757b054320f45f4384cac595d795fb7.png" alt="Cover for half-life (deluxe)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-02</td>
+      <td>hollis</td>
+      <td>half-life (deluxe)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/zwhop3MbOizdnfuK2J0d0jWycyPPPNBEPdbHgu5MRPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTM4/MDE1LTE2NTE4NzMw/NDMtMTY2OS5qcGVn.jpeg" alt="Cover for Mulholland Drive" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>Eyedress</td>
+      <td>Mulholland Drive</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 97</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/jlzqUclFhq3tCK-C7nBGM4ienrK1UmlpATnxfNfl8Fk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTE4/OTMtMTQ2NTk0NDQx/My04MjM3LmpwZWc.jpeg" alt="Cover for Toon Time Raw!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-04-15</td>
+      <td>Jerry Paper</td>
+      <td>Toon Time Raw!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 47</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d73f719827b23cb6295e41e59ca4bac.png" alt="Cover for Excess" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-06-24</td>
+      <td>Automatic</td>
+      <td>Excess</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/uGA01wc_drMDMzBM-krIAcQsOYP1ywal0JkqLkI8ZSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzYy/NDQ0LTE1NzI5ODkz/NjMtNTU0Ni5qcGVn.jpeg" alt="Cover for Togetherness" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-05-12</td>
+      <td>LP Giobbi</td>
+      <td>Togetherness</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Loui Sixteen</td>
+      <td>Baba Cool</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 29</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mueller&#x2F;Feldbauer</td>
+      <td>autorama</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 37</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd6b716f7ee1c0838b06c9bc21905b4f.png" alt="Cover for Method Acting act II : The Blue Note" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Wil$on</td>
+      <td>Method Acting act II : The Blue Note</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Jules Larson</td>
+      <td>Strangers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Jules Larson</td>
+      <td>Let&#39;s Stay Young</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
