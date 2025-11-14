@@ -1,118 +1,2173 @@
 ---
 category: genre
-date: 2025-10-26T07:44:33.969Z
+date: 2025-11-14T16:37:32.760Z
 permalink: tags/8-bit
 title: 8-bit
 ---
 
 ## 8-bit
 
-Last updated: <time datetime="2025-10-26T07:44:33.969Z">Sun Oct 26 2025 09:44:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T16:37:32.760Z">Fri Nov 14 2025 18:37:32 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+8-bit music, also known as chiptune music, is a genre of electronic music that is produced using sound chips from vintage computers, game consoles, and arcade machines that were popular in the 1980s and early 1990s. These sound chips typically have a limited range of sounds and channels, resulting in a unique, lo-fi sound that is characterized by its bleeps, bloops, and other digital noises. Chiptune music has gained popularity in recent years, and many artists create new music using retro sound chips or emulations of them, often using software that allows them to create chiptune music on modern computers.
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 82 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1987 | Various Artists | 8-Bit Operators |
-| 35 | ![Cover](https://i.discogs.com/VxKEAn6K7cwONxhzga793OkmS7TCoz0HR3yWU8PBazA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODA3/OS0xMTQzNTYzMDMz/LmpwZWc.jpeg) | 1995-11-22 | Yellow Magic Orchestra | イエロー・マジック・オーケストラ(US版) |
-| 60 |  | 1998 | Neutral Milk Hotel | Holland, 1945 |
-| 44 |  | 1999 | Yuppster | The Okinawa Campaign 1 |
-| 3 | ![Cover](https://i.discogs.com/zzxMl6XlGoU4d_KGPzvIH54_QrrU5tVMXLvFGkP3EaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTg2/NzItMTU5MzU5MTgz/NC0zMzcyLnBuZw.jpeg) | 2001-09 | HORSE the band | I Am a Small Wooden Statue on a Patch of Crabgrass Next to a Dried Up Riverbed |
-| 26 |  | 2001-12-03 | Puss | We Are Puss |
-| 1 |  | 2002 | Nullsleep | The Gameboy Singles 2002 |
-| 42 |  | 2002-08-09 | HORSE the band | Beautiful Songs by Men |
-| 18 |  | 2004-01 | 777minus111 | children of DOS |
-| 90 |  | 2004-11-03 | YMCK | Family Music |
-| 21 |  | 2005 | Divag | Gameboy tunes |
-| 87 |  | 2005 | Sabrepulse | Famicom Connection |
-| 6 |  | 2005-12 | Kola Kid | (9 013 248 bytes) |
-| 2 |  | 2005-12-27 | 8bit bEtty | Too Bleep to Blop |
-| 53 |  | 2006 | Sabrepulse | Chipbreak Wars |
-| 86 | ![Cover](https://i.discogs.com/IlDnigc_XAfHj5JCoI9hOfJxZh-VL83NVYOCYw6rjRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTA5/MC0xMTQ3OTY2MzUy/LmpwZWc.jpeg) | 2006-01-20 | Bondage Fairies | What You Didnt Know When You Hired Me |
-| 72 |  | 2006-02 | hai! Robotto | Attack, Clap and Roll |
-| 13 | ![Cover](https://i.discogs.com/Q8x0c6Hsu9_tJh9AYI78wyaAvwgCTYRmfERKaRT6UZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcz/MjUtMTM5MzY3NjMy/NC0yMDk1LmpwZWc.jpeg) | 2006-06-28 | 047 | Robopop-Vi Tar Cdn Dit Vi Kommer |
-| 55 | ![Cover](https://i.discogs.com/6g_GeA5PwRISKpCSLUupQRpDxVVUt2O0U3M842OGOC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzEw/My0xNTgzMTA1ODIz/LTU3MzMuanBlZw.jpeg) | 2006-07-26 | Mouse on Mars | Varcharz |
-| 74 |  | 2006-08-26 | Anamanaguchi | Power Supply |
-| 5 |  | 2006-10-05 | Disasterpeace | Atebite and the Warring Nations |
-| 17 | ![Cover](https://i.discogs.com/Rxc9RUwKxSP1hSnSQNtCvS2rbjNff-gfsdEXGip9Zs8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzk2/NjAtMTQ3Nzg0OTMy/Ni00OTU0LnBuZw.jpeg) | 2007 | Karate High School | League Of Tomorrow |
-| 59 | ![Cover](https://i.discogs.com/pVrDDUJ_99qq2E2HXOQovVqU46nkMu_LB0o8PmhQBHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjU3/MjUtMTQ4NzYxMDcz/Ny0zODU0LmpwZWc.jpeg) | 2007 | Sabrepulse | Verão |
-| 27 |  | 2007-01-23 | virt | FX3 |
-| 70 |  | 2007-03 | Kplecraft | Multi-Boxer |
-| 67 |  | 2007-07-11 | Random | Bad Joke EP |
-| 37 |  | 2007-07-24 | Makeup and Vanity Set | Presents: The Protomen |
-| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/205df34ad6ff4fba878292bc5aa9d759.png) | 2007-08-21 | Karate High School | The League Of Tomorrow |
-| 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4c2118ee2db0462c965dd352869ac1ec.png) | 2007-08-31 | pornophonique | 8-bit lagerfeuer |
-| 88 |  | 2007-12-31 | Stu | GreateST HITs |
-| 80 |  | 2008 | Sabrepulse | Turbo City |
-| 31 | ![Cover](https://i.discogs.com/bqCAPdJuI4I_CaPfX7ntclABkUfsb-zdAd-EYVCm3WE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQy/ODAtMTQwMjAyNDE0/MC0xNjI2LmpwZWc.jpeg) | 2008-01-31 | Disasterpeace | Level |
-| 62 |  | 2008-03-13 | Amy can flyy | Dinosaurs Go Rawr |
-| 77 |  | 2008-03-16 | Machinae Supremacy | Arcade |
-| 71 |  | 2008-04-18 | Yerzmyey | FREAKuencies |
-| 29 | ![Cover](https://i.discogs.com/9oMBJPt_Zt3XrV--maKM6gzHdsnibMonyzctQ8Ck2H0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODIw/MjctMTIxNDc3NTg2/OS5qcGVn.jpeg) | 2008-05-05 | Uoki-Toki | Porno Game |
-| 52 | ![Cover](https://i.discogs.com/3Hoin0RDo16-vypM2uUTQmU43Y80E2bCoF8vok52gWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY0/NDItMTIxMTU0NTMw/Ny5naWY.jpeg) | 2008-05-22 | Trash80 | Icarus EP |
-| 66 | ![Cover](https://i.discogs.com/HdzeTnPfu46d3X9sefUKUrgMhfBWzzzQXffZ1ReFr0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjc2/ODAtMTIyNjIyNTcw/Mi5qcGVn.jpeg) | 2008-06 | You Love Her | Kitsuné: Inner City Angst |
-| 98 | ![Cover](https://i.discogs.com/HdzeTnPfu46d3X9sefUKUrgMhfBWzzzQXffZ1ReFr0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjc2/ODAtMTIyNjIyNTcw/Mi5qcGVn.jpeg) | 2008-06 | You Love Her Coz She&#39;s Dead | Inner City Angst EP |
-| 93 | ![Cover](https://i.discogs.com/HdzeTnPfu46d3X9sefUKUrgMhfBWzzzQXffZ1ReFr0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjc2/ODAtMTIyNjIyNTcw/Mi5qcGVn.jpeg) | 2008-06-00 | You Love Her Coz She&#39;s Dead | Inner City Angst |
-| 4 |  | 2008-07-27 | Henry Homesweet | Palm Trance |
-| 30 |  |  | GO! With Fourteen O | The End Is Close. Almost No Need For Money. |
-| 34 |  |  | 100DEADRABBITS!!! | Teeth |
-| 38 | ![Cover](https://i.discogs.com/5yPoT_XJ04pp67VzGZ_Cei2JqT7Nlc0qO6a1R3M_UqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjE4/OS0xMTkzNTc0NzY4/LmpwZWc.jpeg) | 2005-04-25 | Desert Planet | Mario Built My Hot Rod |
-| 39 |  | 2007-08-01 | Disasterpeace | Neutralite |
-| 36 |  | 2007-08-09 | iamerror | Demo &#39;06 |
-| 46 |  | 2008-01-16 | YMCK | FAMILY GENESIS |
-| 63 |  | 2008-11-01 | She | chiptek |
-| 40 |  | 2008-12-10 | She | 2008 |
-| 7 | ![Cover](https://i.discogs.com/n-u6o-3Qi2L3jNwQ9L2jdXFchg_ZGmfm6wR58Xy7rds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDQ5/NjctMTQ0MDc5NTM5/NC04MjgyLmpwZWc.jpeg) | 2009 | 047 | General Error EP |
-| 16 |  | 2009 | N# | Hello World |
-| 51 |  | 2009 | 64Revolt | What a Horrible Night to Have a Curse |
-| 61 |  | 2009 | Unicorn Kid | Lion Hat |
-| 76 | ![Cover](https://i.discogs.com/ZSxmhlQiYymWdnB-6biJWc8dUZDGCBxqr2djkxN551Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTg4/MDQtMTM5NDk0NTAz/Mi0yNzAyLnBuZw.jpeg) | 2009 | iamerror | Demo &#39;09 |
-| 68 |  | 2009-03-03 | Anamanaguchi | Dawn Metropolis |
-| 56 |  | 2009-03-23 | Glomag | DaMaGe |
-| 64 |  | 2009-06-01 | Math the Band | Don&#39;t Worry |
-| 91 | ![Cover](https://i.discogs.com/lHBUhjcBboGt1ZyEb8Xid4ODncEXtM_Ie1N7zx3-nUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg0/NzEtMTI0NDY3OTgy/NS5qcGVn.jpeg) | 2009-06-22 | Bibio | Ambivalence Avenue |
-| 28 | ![Cover](https://i.discogs.com/RIHeVgKBP64yvku0M0erADRJ00Fxb6qAsX1GKFqXFA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQ5/MjQtMTQxNDYyOTg2/OC0zODc0LmpwZWc.jpeg) | 2009-12-25 | Glomag | Roland &amp; The Lamprey |
-| 57 | ![Cover](https://i.discogs.com/umVUYmlOLPSLl-pwg6yiKc_yWWmXflymD7S8m6rjYdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDM3/MjgtMTMwODQ0Nzg0/Ny5wbmc.jpeg) | 2010 | FUCKING WEREWOLF ASSO | Kid, Just Letting You Know We Are Doing It Again |
-| 41 |  | 2010-01-11 | Shirobon | Golden Apples E.p |
-| 24 | ![Cover](https://i.discogs.com/AP16CcsHvRHTAwTrOiCJP7IDYlu1ujq9FHAn5k27lfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjQw/OTYtMTM3MTMyMTcz/Ny0zMzIxLmpwZWc.jpeg) | 2010-02-26 | mind.in.a.box | R.E.T.R.O |
-| 89 |  | 2010-02-26 | mind.in.a.box | R.E.T.R.O. |
-| 100 |  | 2010-05-18 | Crystal Castles | Crystal Castles |
-| 97 |  | 2010-07-15 | Anamanaguchi | Airbrushed |
-| 95 |  | 2010-07-30 | Anamanaguchi | My Skateboard Will Go On |
-| 84 | ![Cover](https://i.discogs.com/3RljXRmpwVatFKQDorTofftVS1O1PANp_Yt5SboBjMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzM4/NzAtMTI4NjA5NjMz/MS5qcGVn.jpeg) | 2010-10-04 | Rustie | Sunburst EP |
-| 75 |  | 2011-01-01 | Disasterpeace | Rise of the Obsidian Interstellar |
-| 96 | ![Cover](https://i.discogs.com/e_3vCZ_afLLQLfUtbPmJaGV3k_gGrsQECtwIhH68lps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDgx/OTEtMTM0Njc1OTUx/Ny01NDMwLmpwZWc.jpeg) | 2011-11-08 | Zedd | Shave It - The Aftershave |
-| 11 | ![Cover](https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg) | 2012 | Various Artists | The X-Dump: Filesystems |
-| 19 |  | 2012-09-09 | Bossfight | Caps On, Hats Off |
-| 69 | ![Cover](https://i.discogs.com/NdpKg49I_yix-CYmDR0mM7uGa-Qz1-jysFiMII4zK1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTgz/MzYtMTM2NzE2MTE2/Ni01MDg5LmpwZWc.jpeg) | 2012-09-13 | Waka Flocka Flame | Game On (feat. Good Charlotte) [from &quot;Pixels - The Movie&quot;] |
-| 43 |  | 2012-11-20 | Math the Band | Get Real |
-| 65 | ![Cover](https://i.discogs.com/m_kFRyRY_HeAyt8HtqAYvNWMTV20KunUr3RMHZQnBPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk0/MjA0LTE1MjI1MDM2/OTEtMTAzNC5qcGVn.jpeg) | 2013-01-18 | Kubbi | Gas Powered - EP |
-| 33 |  | 2013-08-29 | Crying | Get Olde |
-| 54 |  | 2013-11-19 | Disasterpeace | Somewhere |
-| 45 | ![Cover](https://i.discogs.com/hRIb1yhb89uDwK68TLwlb8vDWS6l95i3SMLgKBsCYNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTgx/MzctMTQyODgyMjI3/OS04NjkyLmpwZWc.jpeg) | 2014-08-08 | Rainbowdragoneyes | The Secret Mirror |
-| 10 | ![Cover](https://i.discogs.com/EYM9_RADFRBUx9zVUAljzsf8fvOjzMbpFbUY5SuJFh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTc5/NjYtMTQzNjQxMzkw/NC01MjAzLmpwZWc.jpeg) | 2014-10-23 | FrankJavCee | 8-BIT |
-| 25 |  | 2014-11-25 | Slime Girls | Heart On Wave |
-| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0e906f6f79db4c7dcc561221fb87d9da.png) | 2014-12-09 | I Fight Dragons | The Near Future |
-| 49 | ![Cover](https://i.discogs.com/82E7VrSgK4uwKtv27s21s9yrdi5c6GRoUvknoHs5Fic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTc0/Ni0xNDE0NTk4OTcz/LTMwMTYuanBlZw.jpeg) | 2015-01 | Anamanaguchi | Meow - Single |
-| 8 | ![Cover](https://i.discogs.com/hYnmW7bsFBXCIl6Onv4IDknWSkrR8xn9MV3SAk60jzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTU3/MTUtMTQ3ODEyNjM0/My0xMjYwLmpwZWc.jpeg) | 2015-02-10 | Sabrepulse | Realization |
-| 12 |  |  | 100DEADRABBITS!!! | Teeth EP |
-| 47 | ![Cover](https://i.discogs.com/6LHpMkV0irvc82nG77OSEUOaQTJsfmhxLSGP7JKvsnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTUw/NjktMTQ4OTE3Mzkz/NC02NDYxLmpwZWc.jpeg) | 2015-01 | Random | Happy Ending After All (8BP051) |
-| 73 | ![Cover](https://i.discogs.com/SSUjJ6hcc-q-q768gAe2-cbLciY7i2yIljDjcjmVYCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjM4/MzUtMTQzMjg3NDI3/MC0zMzAxLnBuZw.jpeg) | 2015-05-11 | You Love Her Coz She&#39;s Dead | New Superheroes &amp; Demos |
-| 81 | ![Cover](https://i.discogs.com/LWAMpmEXi3zUfr5nKPuFhwpFz5vbv1zAPKT5E7EUAP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjE4/NDY0LTE1MTk1MDkw/OTQtOTkzNS5qcGVn.jpeg) | 2016-04-24 | Error37 | Error37 |
-| 58 | ![Cover](https://i.discogs.com/GchKcuqZyNrveGxOgT7ub7AXF6v-e6rEK7TiGOnkXU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg1/NDg4LTE1MzAwMTU3/NDEtODQzOS5qcGVn.jpeg) | 2016-07-01 | daniwellP | I Nyaned for Hours ( &#39; w&#39;)‼ [feat. 初音ミク] |
-| 85 | ![Cover](https://i.discogs.com/5MNhG1y9F4vf7lWhmFz_8isCGNmvMfxX_91wci7-Dsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/Mjg1LTE1MzYzMzgy/NjgtMjE1Mi5qcGVn.jpeg) | 2016-09-19 | GIRLi | Girl I Met On The Internet |
-| 22 | ![Cover](https://i.discogs.com/7xp0UowGLQcD_BsskBjjSUQKUJ-mtYKei0B_J0NZgjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MDA2/MzMtMTQ4ODIwNjM2/Ni00NzY2LmpwZWc.jpeg) | 2016-11-15 | Shirobon | Special Selection, Vol.1 (2006-2019) |
-| 78 | ![Cover](https://i.discogs.com/DX-fPbvXvhs8NHPSWxBtNDHxqdVxXrja62uLbjOKvIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjAx/NTQ1LTE1MDA3Mzc0/MjgtNDM2MS5qcGVn.jpeg) | 2017-07-21 | Bondage Fairies | Alfa Gaga Cp Wifi |
-| 48 | ![Cover](https://i.discogs.com/GYTdy_F1NDOzOerFu3nGxYFLmJ8h4c3kfras92Fzla0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI0/MTAxLTE1MTk1OTEx/MjYtMTgwNy5qcGVn.jpeg) | 2018-04-25 | Hyper Potions | Gameboy Luke Commissions |
-| 23 | ![Cover](https://i.discogs.com/w7Bo6di2mbWXwzSQb3msSzx1aZr-L6X0k_oCEQWTuTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU3/NzE3LTE1Mzk0Nzgw/MDMtODQ5OS5qcGVn.jpeg) | 2018-08-24 | Abandoned By Bears | Bear-sides |
-| 83 | ![Cover](https://i.discogs.com/CpdRzxGUVLoFiuxhAKFLqPQ0ucbbf4lwTDHJ2kOn8f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzgz/NDc0LTE1NDE4Njgx/NjQtNDE5MC5wbmc.jpeg) | 2018-11-02 | The Algorithm | Compiler Optimization Techniques |
-| 99 | ![Cover](https://i.discogs.com/qZApha-FoMcCOsOJ-YtYkxKF8THXH9nm6W6OTnq9zKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDcx/NzIyLTE2MTM2NDc2/NjYtNzEzMC5qcGVn.jpeg) | 2018-11-08 | Дайте танк (!) | На вырост |
-| 92 | ![Cover](https://i.discogs.com/Vbiorwra_l4-J0z85a4mVAp8W4YfkIfUX0QNyc2xSgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzA3/NjAyLTE1NTE3OTU3/MjMtMjI4OC5qcGVn.jpeg) | 2019-02-23 | Snail&#39;s house | Snailchan Adventure |
-| 79 |  | 2020-07-04 | Cyriak Harris | Animation Mix |
-| 14 | ![Cover](https://i.discogs.com/O26xHMZ-_p9W45nM9MzkNeCJtTI8BWjJjhjTNLn8OR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDkz/ODQ3LTE2MDMzMDg4/ODEtNDAzMS5qcGVn.jpeg) | 2020-09-25 | Makeup and Vanity Set | Presents... The Protomen |
-| 50 |  |  | 100DEADRABBITS!!! | Guardians |
-| 15 | ![Cover](https://i.discogs.com/m0x59uyGfjQHqPj9oegTPgcS7JyCa-_ucnL7EvMkLIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY2/Mjk3LTE1OTkyNDA0/OTQtMzU4MS5qcGVn.jpeg) | 2022 | Capcom Sound Team | Mega Man 6 Sound Collection |
-| 32 | ![Cover](https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg) | 2023 | Various Artists | AY Riders- ZX Spectrum is Alive |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for 8-Bit Operators" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Various Artists</td>
+      <td>8-Bit Operators</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 20</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/VxKEAn6K7cwONxhzga793OkmS7TCoz0HR3yWU8PBazA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODA3/OS0xMTQzNTYzMDMz/LmpwZWc.jpeg" alt="Cover for イエロー・マジック・オーケストラ(US版)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-11-22</td>
+      <td>Yellow Magic Orchestra</td>
+      <td>イエロー・マジック・オーケストラ(US版)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa2618c7d1cb48ae9bc1538395b1839d.png" alt="Cover for Holland, 1945" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Neutral Milk Hotel</td>
+      <td>Holland, 1945</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 76</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 86</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Yuppster</td>
+      <td>The Okinawa Campaign 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/zzxMl6XlGoU4d_KGPzvIH54_QrrU5tVMXLvFGkP3EaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTg2/NzItMTU5MzU5MTgz/NC0zMzcyLnBuZw.jpeg" alt="Cover for I Am a Small Wooden Statue on a Patch of Crabgrass Next to a Dried Up Riverbed" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-09</td>
+      <td>HORSE the band</td>
+      <td>I Am a Small Wooden Statue on a Patch of Crabgrass Next to a Dried Up Riverbed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 56</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td>2001-12-03</td>
+      <td>Puss</td>
+      <td>We Are Puss</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>Nullsleep</td>
+      <td>The Gameboy Singles 2002</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 13</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7d1fe085cb4b3568019a7612c1507e1.png" alt="Cover for Beautiful Songs by Men" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-08-09</td>
+      <td>HORSE the band</td>
+      <td>Beautiful Songs by Men</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 68</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5624fc1d8ac6afc340100fae15f7bd9a.png" alt="Cover for children of DOS" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-01</td>
+      <td>777minus111</td>
+      <td>children of DOS</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7de7230aa21641d28bbe9688c3ddd1d4.png" alt="Cover for Family Music" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-11-03</td>
+      <td>YMCK</td>
+      <td>Family Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Divag</td>
+      <td>Gameboy tunes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Sabrepulse</td>
+      <td>Famicom Connection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 5</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/5yPoT_XJ04pp67VzGZ_Cei2JqT7Nlc0qO6a1R3M_UqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjE4/OS0xMTkzNTc0NzY4/LmpwZWc.jpeg" alt="Cover for Mario Built My Hot Rod" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-04-25</td>
+      <td>Desert Planet</td>
+      <td>Mario Built My Hot Rod</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/4iKooBAL-I8sme5yYLxfkuC5-SFe9u9p-om8UFUGUH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDkz/NS0xMTI3NTA3MTky/LmdpZg.jpeg" alt="Cover for Delete The Elite" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-06-13</td>
+      <td>Covox</td>
+      <td>Delete The Elite</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td>2005-12-27</td>
+      <td>8bit bEtty</td>
+      <td>Too Bleep to Blop</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td>2005-12</td>
+      <td>Kola Kid</td>
+      <td>(9 013 248 bytes)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42b957b1e3fb4ceca75c53efc82ba4cd.png" alt="Cover for Chipbreak Wars" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Sabrepulse</td>
+      <td>Chipbreak Wars</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97e44b8bdb4143bdbf1fd01350961f7a.png" alt="Cover for What You Didnt Know When You Hired Me" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-01-20</td>
+      <td>Bondage Fairies</td>
+      <td>What You Didnt Know When You Hired Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>2006-02</td>
+      <td>hai! Robotto</td>
+      <td>Attack, Clap and Roll</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/Q8x0c6Hsu9_tJh9AYI78wyaAvwgCTYRmfERKaRT6UZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcz/MjUtMTM5MzY3NjMy/NC0yMDk1LmpwZWc.jpeg" alt="Cover for Robopop-Vi Tar Cdn Dit Vi Kommer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-06-28</td>
+      <td>047</td>
+      <td>Robopop-Vi Tar Cdn Dit Vi Kommer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/6g_GeA5PwRISKpCSLUupQRpDxVVUt2O0U3M842OGOC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzEw/My0xNTgzMTA1ODIz/LTU3MzMuanBlZw.jpeg" alt="Cover for Varcharz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-07-26</td>
+      <td>Mouse on Mars</td>
+      <td>Varcharz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td>2006-08-26</td>
+      <td>Anamanaguchi</td>
+      <td>Power Supply</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 48</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 58</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/Rxc9RUwKxSP1hSnSQNtCvS2rbjNff-gfsdEXGip9Zs8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzk2/NjAtMTQ3Nzg0OTMy/Ni00OTU0LnBuZw.jpeg" alt="Cover for League Of Tomorrow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Karate High School</td>
+      <td>League Of Tomorrow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 80</li>
+            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/pVrDDUJ_99qq2E2HXOQovVqU46nkMu_LB0o8PmhQBHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjU3/MjUtMTQ4NzYxMDcz/Ny0zODU0LmpwZWc.jpeg" alt="Cover for Verão" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Sabrepulse</td>
+      <td>Verão</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td>2007-01-23</td>
+      <td>virt</td>
+      <td>FX3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7676018ec4525727757620107004c356.png" alt="Cover for Multi-Boxer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-03</td>
+      <td>Kplecraft</td>
+      <td>Multi-Boxer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 1</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 5</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 17</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 19</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 32</li>
+            <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 45</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 70</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>2007-07-11</td>
+      <td>Random</td>
+      <td>Bad Joke EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td>2007-07-24</td>
+      <td>Makeup and Vanity Set</td>
+      <td>Presents: The Protomen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td>2007-08-09</td>
+      <td>iamerror</td>
+      <td>Demo &#39;06</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 73</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 78</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/205df34ad6ff4fba878292bc5aa9d759.png" alt="Cover for The League Of Tomorrow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-08-21</td>
+      <td>Karate High School</td>
+      <td>The League Of Tomorrow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 81</li>
+            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c2118ee2db0462c965dd352869ac1ec.png" alt="Cover for 8-bit lagerfeuer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-08-31</td>
+      <td>pornophonique</td>
+      <td>8-bit lagerfeuer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>2007-12-31</td>
+      <td>Stu</td>
+      <td>GreateST HITs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b03ceffcb22f0d36ef30e63208b292f.png" alt="Cover for Turbo City" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Sabrepulse</td>
+      <td>Turbo City</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>2008-01-16</td>
+      <td>YMCK</td>
+      <td>FAMILY GENESIS</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>2008-03-13</td>
+      <td>Amy can flyy</td>
+      <td>Dinosaurs Go Rawr</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2008-03-16</td>
+      <td>Machinae Supremacy</td>
+      <td>Arcade</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 34</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td>2008-04-18</td>
+      <td>Yerzmyey</td>
+      <td>FREAKuencies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 23</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/9oMBJPt_Zt3XrV--maKM6gzHdsnibMonyzctQ8Ck2H0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODIw/MjctMTIxNDc3NTg2/OS5qcGVn.jpeg" alt="Cover for Porno Game" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-05-05</td>
+      <td>Uoki-Toki</td>
+      <td>Porno Game</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/3Hoin0RDo16-vypM2uUTQmU43Y80E2bCoF8vok52gWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY0/NDItMTIxMTU0NTMw/Ny5naWY.jpeg" alt="Cover for Icarus EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-05-22</td>
+      <td>Trash80</td>
+      <td>Icarus EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ee966ea1120e894f1609db72d75b5f7.png" alt="Cover for Inner City Angst" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-06-00</td>
+      <td>You Love Her Coz She&#39;s Dead</td>
+      <td>Inner City Angst</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 86</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/HdzeTnPfu46d3X9sefUKUrgMhfBWzzzQXffZ1ReFr0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjc2/ODAtMTIyNjIyNTcw/Mi5qcGVn.jpeg" alt="Cover for Kitsuné: Inner City Angst" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-06</td>
+      <td>You Love Her</td>
+      <td>Kitsuné: Inner City Angst</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 9</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 75</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1fe82c2e09847e49cfd46b95ac0466d.png" alt="Cover for Inner City Angst EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-06</td>
+      <td>You Love Her Coz She&#39;s Dead</td>
+      <td>Inner City Angst EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 57</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 93</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>2008-07-27</td>
+      <td>Henry Homesweet</td>
+      <td>Palm Trance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/RvdUjiajK3ELipgxoINZfvtJcPcPTidFrfJq-NOCtPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjcz/NjAtMTI2NzY0ODgz/OS5qcGVn.jpeg" alt="Cover for YMCK SONGBOOK -songs before 8bit" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-09-04</td>
+      <td>YMCK</td>
+      <td>YMCK SONGBOOK -songs before 8bit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c61bceeade730ab9e0c148ad96e6dc8.png" alt="Cover for chiptek" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-11-01</td>
+      <td>She</td>
+      <td>chiptek</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/494c241316b4c8817d3ec72f55742ac8.png" alt="Cover for 2008" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-12-10</td>
+      <td>She</td>
+      <td>2008</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5aab8fd0729adeb23e2a8f05859ad4c1.png" alt="Cover for General Error EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>047</td>
+      <td>General Error EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e1053f939fa6009012c9ca080d1e27d.png" alt="Cover for What a Horrible Night to Have a Curse" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>64Revolt</td>
+      <td>What a Horrible Night to Have a Curse</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/999f3e3256c3404e8e4df22dddd9e456.png" alt="Cover for Lion Hat" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Unicorn Kid</td>
+      <td>Lion Hat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/ZSxmhlQiYymWdnB-6biJWc8dUZDGCBxqr2djkxN551Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTg4/MDQtMTM5NDk0NTAz/Mi0yNzAyLnBuZw.jpeg" alt="Cover for Demo &#39;09" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>iamerror</td>
+      <td>Demo &#39;09</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>N#</td>
+      <td>Hello World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/003e3fc86cfb4374c348b2297afe48f2.png" alt="Cover for Dawn Metropolis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-03-03</td>
+      <td>Anamanaguchi</td>
+      <td>Dawn Metropolis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 93</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td>2009-03-23</td>
+      <td>Glomag</td>
+      <td>DaMaGe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25a013c1b07c67f590a2c49e10973fc1.png" alt="Cover for Don&#39;t Worry" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-06-01</td>
+      <td>Math the Band</td>
+      <td>Don&#39;t Worry</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 7</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45fc50722e8e41c3bfa0c5b95c5d795a.png" alt="Cover for Ambivalence Avenue" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-06-22</td>
+      <td>Bibio</td>
+      <td>Ambivalence Avenue</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 67</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 89</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 89</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/RIHeVgKBP64yvku0M0erADRJ00Fxb6qAsX1GKFqXFA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQ5/MjQtMTQxNDYyOTg2/OC0zODc0LmpwZWc.jpeg" alt="Cover for Roland &amp; The Lamprey" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-12-25</td>
+      <td>Glomag</td>
+      <td>Roland &amp; The Lamprey</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e328606823c8487fa1bf1693b8ad604f.png" alt="Cover for Kid, Just Letting You Know We Are Doing It Again" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>FUCKING WEREWOLF ASSO</td>
+      <td>Kid, Just Letting You Know We Are Doing It Again</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 78</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td>2010-01-11</td>
+      <td>Shirobon</td>
+      <td>Golden Apples E.p</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b3578730230f497676ad3f57932876d.png" alt="Cover for R.E.T.R.O" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-02-26</td>
+      <td>mind.in.a.box</td>
+      <td>R.E.T.R.O</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 21</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3664aa10e0a44b80a871f8234850d045.png" alt="Cover for R.E.T.R.O." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-02-26</td>
+      <td>mind.in.a.box</td>
+      <td>R.E.T.R.O.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 6</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9205e5a6d7da6921e1bd9def33f25067.png" alt="Cover for Crystal Castles" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-05-18</td>
+      <td>Crystal Castles</td>
+      <td>Crystal Castles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 31</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 51</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 54</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45de5b3b6d4f4f5c8b1c59f414bce86a.png" alt="Cover for Airbrushed" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-07-15</td>
+      <td>Anamanaguchi</td>
+      <td>Airbrushed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 90</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 93</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 97</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4cd5c808f097a715cbfdf7790f3b707.png" alt="Cover for My Skateboard Will Go On" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-07-30</td>
+      <td>Anamanaguchi</td>
+      <td>My Skateboard Will Go On</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 88</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 95</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/3RljXRmpwVatFKQDorTofftVS1O1PANp_Yt5SboBjMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzM4/NzAtMTI4NjA5NjMz/MS5qcGVn.jpeg" alt="Cover for Sunburst EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-10-04</td>
+      <td>Rustie</td>
+      <td>Sunburst EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46c4cff1416b490395a390bf2ec4183f.png" alt="Cover for Rise of the Obsidian Interstellar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-01-01</td>
+      <td>Disasterpeace</td>
+      <td>Rise of the Obsidian Interstellar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td>2011-11-02</td>
+      <td>Disasterpeace</td>
+      <td>Deorbit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/e_3vCZ_afLLQLfUtbPmJaGV3k_gGrsQECtwIhH68lps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDgx/OTEtMTM0Njc1OTUx/Ny01NDMwLmpwZWc.jpeg" alt="Cover for Shave It - The Aftershave" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-11-08</td>
+      <td>Zedd</td>
+      <td>Shave It - The Aftershave</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg" alt="Cover for The X-Dump: Filesystems" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Various Artists</td>
+      <td>The X-Dump: Filesystems</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b91a828004254f53a1fb9699cb55e4a3.png" alt="Cover for Caps On, Hats Off" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-09-09</td>
+      <td>Bossfight</td>
+      <td>Caps On, Hats Off</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 75</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/350b27c95d385b5149381013c462e007.png" alt="Cover for Game On (feat. Good Charlotte) [from &quot;Pixels - The Movie&quot;]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-09-13</td>
+      <td>Waka Flocka Flame</td>
+      <td>Game On (feat. Good Charlotte) [from &quot;Pixels - The Movie&quot;]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/410999b7a8698b96af29bf51c6f60c9e.png" alt="Cover for Get Real" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-11-20</td>
+      <td>Math the Band</td>
+      <td>Get Real</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 41</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 68</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e8a4cd03d315a9a8126038adb36f19c.png" alt="Cover for Gas Powered - EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-01-18</td>
+      <td>Kubbi</td>
+      <td>Gas Powered - EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 8</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e6174756d114e4ab883c1ba4828fd35.png" alt="Cover for Get Olde" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-08-29</td>
+      <td>Crying</td>
+      <td>Get Olde</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td>2013-11-19</td>
+      <td>Disasterpeace</td>
+      <td>Somewhere</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6208053979e94f5ccfbf476634081392.png" alt="Cover for The Secret Mirror" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-08-08</td>
+      <td>Rainbowdragoneyes</td>
+      <td>The Secret Mirror</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/EYM9_RADFRBUx9zVUAljzsf8fvOjzMbpFbUY5SuJFh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTc5/NjYtMTQzNjQxMzkw/NC01MjAzLmpwZWc.jpeg" alt="Cover for 8-BIT" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-10-23</td>
+      <td>FrankJavCee</td>
+      <td>8-BIT</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td>2014-11-25</td>
+      <td>Slime Girls</td>
+      <td>Heart On Wave</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e906f6f79db4c7dcc561221fb87d9da.png" alt="Cover for The Near Future" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-12-09</td>
+      <td>I Fight Dragons</td>
+      <td>The Near Future</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/82E7VrSgK4uwKtv27s21s9yrdi5c6GRoUvknoHs5Fic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTc0/Ni0xNDE0NTk4OTcz/LTMwMTYuanBlZw.jpeg" alt="Cover for Meow - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-01</td>
+      <td>Anamanaguchi</td>
+      <td>Meow - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 66</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 69</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/6LHpMkV0irvc82nG77OSEUOaQTJsfmhxLSGP7JKvsnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTUw/NjktMTQ4OTE3Mzkz/NC02NDYxLmpwZWc.jpeg" alt="Cover for Happy Ending After All (8BP051)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-01</td>
+      <td>Random</td>
+      <td>Happy Ending After All (8BP051)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/hYnmW7bsFBXCIl6Onv4IDknWSkrR8xn9MV3SAk60jzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTU3/MTUtMTQ3ODEyNjM0/My0xMjYwLmpwZWc.jpeg" alt="Cover for Realization" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-02-10</td>
+      <td>Sabrepulse</td>
+      <td>Realization</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d65a6514989eb23bb30e7a4c611bb710.png" alt="Cover for New Superheroes &amp; Demos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-05-11</td>
+      <td>You Love Her Coz She&#39;s Dead</td>
+      <td>New Superheroes &amp; Demos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 3</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 29</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 73</li>
+            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c605e7745619400120dbe2fe201c3859.png" alt="Cover for Error37" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-04-24</td>
+      <td>Error37</td>
+      <td>Error37</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 43</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 84</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ba2f869c61f9cd6677ea50e21ff94aa.png" alt="Cover for I Nyaned for Hours ( &#39; w&#39;)‼ [feat. 初音ミク]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-07-01</td>
+      <td>daniwellP</td>
+      <td>I Nyaned for Hours ( &#39; w&#39;)‼ [feat. 初音ミク]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 71</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/5MNhG1y9F4vf7lWhmFz_8isCGNmvMfxX_91wci7-Dsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/Mjg1LTE1MzYzMzgy/NjgtMjE1Mi5qcGVn.jpeg" alt="Cover for Girl I Met On The Internet" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-09-19</td>
+      <td>GIRLi</td>
+      <td>Girl I Met On The Internet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 49</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e6c7d3ad74963b7c876d064e70344b2.png" alt="Cover for Special Selection, Vol.1 (2006-2019)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-11-15</td>
+      <td>Shirobon</td>
+      <td>Special Selection, Vol.1 (2006-2019)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c555f7271ad8228903e40a994f3c6e9c.png" alt="Cover for Alfa Gaga Cp Wifi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-07-21</td>
+      <td>Bondage Fairies</td>
+      <td>Alfa Gaga Cp Wifi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a6a1014084d6bb15f529da212328ced.png" alt="Cover for Gameboy Luke Commissions" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-04-25</td>
+      <td>Hyper Potions</td>
+      <td>Gameboy Luke Commissions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b86ac85d60e487ec81a7d22114c5daf.png" alt="Cover for Bear-sides" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-08-24</td>
+      <td>Abandoned By Bears</td>
+      <td>Bear-sides</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 46</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/CpdRzxGUVLoFiuxhAKFLqPQ0ucbbf4lwTDHJ2kOn8f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzgz/NDc0LTE1NDE4Njgx/NjQtNDE5MC5wbmc.jpeg" alt="Cover for Compiler Optimization Techniques" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-11-02</td>
+      <td>The Algorithm</td>
+      <td>Compiler Optimization Techniques</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 57</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 69</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/qZApha-FoMcCOsOJ-YtYkxKF8THXH9nm6W6OTnq9zKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDcx/NzIyLTE2MTM2NDc2/NjYtNzEzMC5qcGVn.jpeg" alt="Cover for На вырост" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-11-08</td>
+      <td>Дайте танк (!)</td>
+      <td>На вырост</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7f5a9b8927002ee3a94dc3582ce7737.png" alt="Cover for Snailchan Adventure" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-02-23</td>
+      <td>Snail&#39;s house</td>
+      <td>Snailchan Adventure</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 56</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 73</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f18c9493df3c1dbcdc4f6c355e62bc5.png" alt="Cover for Animation Mix" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-07-04</td>
+      <td>Cyriak Harris</td>
+      <td>Animation Mix</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/O26xHMZ-_p9W45nM9MzkNeCJtTI8BWjJjhjTNLn8OR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDkz/ODQ3LTE2MDMzMDg4/ODEtNDAzMS5qcGVn.jpeg" alt="Cover for Presents... The Protomen" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-09-25</td>
+      <td>Makeup and Vanity Set</td>
+      <td>Presents... The Protomen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/m0x59uyGfjQHqPj9oegTPgcS7JyCa-_ucnL7EvMkLIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY2/Mjk3LTE1OTkyNDA0/OTQtMzU4MS5qcGVn.jpeg" alt="Cover for Mega Man 6 Sound Collection" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>Capcom Sound Team</td>
+      <td>Mega Man 6 Sound Collection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for AY Riders- ZX Spectrum is Alive" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>AY Riders- ZX Spectrum is Alive</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td></td>
+      <td>100DEADRABBITS!!!</td>
+      <td>Teeth EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 67</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5b53f46f158f0394d55b68a72bd84b3.png" alt="Cover for The End Is Close. Almost No Need For Money." style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>GO! With Fourteen O</td>
+      <td>The End Is Close. Almost No Need For Money.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 66</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 75</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td></td>
+      <td>100DEADRABBITS!!!</td>
+      <td>Teeth</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 77</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+      </td>
+      <td></td>
+      <td>100DEADRABBITS!!!</td>
+      <td>Guardians</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 79</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
@@ -120,8 +2175,8 @@ Last updated: <time datetime="2025-10-26T07:44:33.969Z">Sun Oct 26 2025 09:44:33
 - [electronic]({{ "/tags/electronic" | relative_url }})
 - [bitcore]({{ "/tags/bitcore" | relative_url }})
 - [metalcore]({{ "/tags/metalcore" | relative_url }})
-- [electronica]({{ "/tags/electronica" | relative_url }})
 - [post-hardcore]({{ "/tags/post-hardcore" | relative_url }})
+- [electronica]({{ "/tags/electronica" | relative_url }})
 - [electronicore]({{ "/tags/electronicore" | relative_url }})
 - [bitpop]({{ "/tags/bitpop" | relative_url }})
 - [instrumental]({{ "/tags/instrumental" | relative_url }})
