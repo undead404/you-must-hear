@@ -1,18 +1,21 @@
 ---
 category: list
-date: 2025-11-13T16:42:28.310Z
+date: 2025-11-13T20:01:42.250Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-13T16:42:28.310Z">Thu Nov 13 2025 18:42:28 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T20:01:42.250Z">Thu Nov 13 2025 22:01:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [rock alternativo]({{ "tags/rock-alternativo" | relative_url }}) | <time datetime="2025-11-13T20:01:42.250Z">Thu Nov 13 2025 22:01:42 GMT+0200 (Eastern European Standard Time)</time> |
+| [shoegaze]({{ "tags/shoegaze" | relative_url }}) | <time datetime="2025-11-13T19:45:59.612Z">Thu Nov 13 2025 21:45:59 GMT+0200 (Eastern European Standard Time)</time> |
+| [new jersey]({{ "tags/new-jersey" | relative_url }}) | <time datetime="2025-11-13T18:26:16.444Z">Thu Nov 13 2025 20:26:16 GMT+0200 (Eastern European Standard Time)</time> |
 | [midwest]({{ "tags/midwest" | relative_url }}) | <time datetime="2025-11-13T16:42:28.310Z">Thu Nov 13 2025 18:42:28 GMT+0200 (Eastern European Standard Time)</time> |
 | [live recording]({{ "tags/live-recording" | relative_url }}) | <time datetime="2025-11-13T16:40:35.168Z">Thu Nov 13 2025 18:40:35 GMT+0200 (Eastern European Standard Time)</time> |
 | [toronto]({{ "tags/toronto" | relative_url }}) | <time datetime="2025-11-13T16:39:26.357Z">Thu Nov 13 2025 18:39:26 GMT+0200 (Eastern European Standard Time)</time> |
@@ -282,8 +285,6 @@ Last updated: <time datetime="2025-11-13T16:42:28.310Z">Thu Nov 13 2025 18:42:28
 | [breaks]({{ "tags/breaks" | relative_url }}) | <time datetime="2025-11-11T10:20:24.138Z">Tue Nov 11 2025 12:20:24 GMT+0200 (Eastern European Standard Time)</time> |
 | [berlin]({{ "tags/berlin" | relative_url }}) | <time datetime="2025-11-11T10:20:15.330Z">Tue Nov 11 2025 12:20:15 GMT+0200 (Eastern European Standard Time)</time> |
 | [phonk]({{ "tags/phonk" | relative_url }}) | <time datetime="2025-11-11T10:19:50.812Z">Tue Nov 11 2025 12:19:50 GMT+0200 (Eastern European Standard Time)</time> |
-| [shoegaze]({{ "tags/shoegaze" | relative_url }}) | <time datetime="2025-11-11T10:19:21.060Z">Tue Nov 11 2025 12:19:21 GMT+0200 (Eastern European Standard Time)</time> |
-| [new jersey]({{ "tags/new-jersey" | relative_url }}) | <time datetime="2025-11-11T10:19:12.550Z">Tue Nov 11 2025 12:19:12 GMT+0200 (Eastern European Standard Time)</time> |
 | [slow jams]({{ "tags/slow-jams" | relative_url }}) | <time datetime="2025-11-11T10:17:58.700Z">Tue Nov 11 2025 12:17:58 GMT+0200 (Eastern European Standard Time)</time> |
 | [chillout]({{ "tags/chillout" | relative_url }}) | <time datetime="2025-11-11T10:17:49.154Z">Tue Nov 11 2025 12:17:49 GMT+0200 (Eastern European Standard Time)</time> |
 | [french pop]({{ "tags/french-pop" | relative_url }}) | <time datetime="2025-11-11T10:17:42.867Z">Tue Nov 11 2025 12:17:42 GMT+0200 (Eastern European Standard Time)</time> |
@@ -849,7 +850,6 @@ Last updated: <time datetime="2025-11-13T16:42:28.310Z">Thu Nov 13 2025 18:42:28
 | [american indie]({{ "tags/american-indie" | relative_url }}) | <time datetime="2025-10-28T05:55:28.838Z">Tue Oct 28 2025 07:55:28 GMT+0200 (Eastern European Standard Time)</time> |
 | [colombia]({{ "tags/colombia" | relative_url }}) | <time datetime="2025-10-28T05:55:13.427Z">Tue Oct 28 2025 07:55:13 GMT+0200 (Eastern European Standard Time)</time> |
 | [nu metalcore]({{ "tags/nu-metalcore" | relative_url }}) | <time datetime="2025-10-28T05:54:10.763Z">Tue Oct 28 2025 07:54:10 GMT+0200 (Eastern European Standard Time)</time> |
-| [rock alternativo]({{ "tags/rock-alternativo" | relative_url }}) | <time datetime="2025-10-28T05:53:38.460Z">Tue Oct 28 2025 07:53:38 GMT+0200 (Eastern European Standard Time)</time> |
 | [opera]({{ "tags/opera" | relative_url }}) | <time datetime="2025-10-28T05:42:21.359Z">Tue Oct 28 2025 07:42:21 GMT+0200 (Eastern European Standard Time)</time> |
 | [bebop]({{ "tags/bebop" | relative_url }}) | <time datetime="2025-10-28T05:42:13.500Z">Tue Oct 28 2025 07:42:13 GMT+0200 (Eastern European Standard Time)</time> |
 | [michigan]({{ "tags/michigan" | relative_url }}) | <time datetime="2025-10-28T05:42:08.045Z">Tue Oct 28 2025 07:42:08 GMT+0200 (Eastern European Standard Time)</time> |

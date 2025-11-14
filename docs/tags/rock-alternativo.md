@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T05:53:38.460Z
+date: 2025-11-13T20:01:42.250Z
 permalink: tags/rock-alternativo
 title: rock alternativo
 ---
 
 ## rock alternativo
 
-Last updated: <time datetime="2025-10-28T05:53:38.460Z">Tue Oct 28 2025 07:53:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-13T20:01:42.250Z">Thu Nov 13 2025 22:01:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
   </thead>
   <tbody>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/9K0fY_y2sJc7qlOyep-R2aHnKG2GHDucsT4AB1v17FY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQx/MDgzLTE1NDY5ODQ2/MjAtNTc4NS5qcGVn.jpeg" alt="Cover for Oitoitenta" style="max-width:120px; height:auto;" />
       </td>
@@ -90,7 +90,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 48</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 49</li>
             <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 63</li>
             <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 73</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 91</li>
@@ -98,8 +98,9 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6c3bb4294f24393b573401c739b136e.png" alt="Cover for Popsambalanço E Outras Levadas" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Lulu Santos</td>
@@ -120,7 +121,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/u3UwEqri9NZVa5xoGxJLP4wI23HctwBC9EwCMq2m9-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NDAz/OC0xNTQ5OTc0MjM1/LTM4OTYuanBlZw.jpeg" alt="Cover for Doble opuesto" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bb2d6dbb3bf8e1ca2d58adf6d9aa791.png" alt="Cover for Doble opuesto" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>La Ley</td>
@@ -141,7 +142,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 67</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 68</li>
             <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 80</li>
             <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 85</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 97</li>
@@ -172,7 +173,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/226a11ce44f882551290561136276fd0.png" alt="Cover for Várias Variáveis" style="max-width:120px; height:auto;" />
       </td>
@@ -232,12 +233,12 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 37</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/jDKKXv7jD-z0KhRCiaUAjePhGAC0SXomdP7jLHlKbTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ0/OTktMTMxMDQwNjcz/OC5qcGVn.jpeg" alt="Cover for Cesarea" style="max-width:120px; height:auto;" />
       </td>
@@ -296,7 +297,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/03995f74f50aca5b8350cd67c7634fdb.png" alt="Cover for Skank (Ao Vivo)" style="max-width:120px; height:auto;" />
       </td>
@@ -337,6 +338,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 1</li>
             <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 42</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 77</li>
         </ul>
@@ -367,7 +369,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/pxRU-hzZSB8ixh1W8_CQ_o9JpLy_GY_gTMYunSGLkYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkz/NTctMTM5OTM0Njgx/NS0yMzkyLmpwZWc.jpeg" alt="Cover for El Avión Ya Se Estrelló Y Yo Sigo Volando" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/577f4c1c31d0c541e6810cfe63bad874.png" alt="Cover for El Avión Ya Se Estrelló Y Yo Sigo Volando" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Jaime Sin Tierra</td>
@@ -388,8 +390,8 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 6</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 20</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 9</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 29</li>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 67</li>
             <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 69</li>
         </ul>
@@ -510,7 +512,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 23</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 24</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 42</li>
         </ul>
       </td>
@@ -570,7 +572,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 26</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 27</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 44</li>
         </ul>
       </td>
@@ -660,12 +662,12 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 38</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 54</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 84</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 87</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/sivQlPhPVRDjMh953WfldT8533qLK2wGabSJQ0lvIFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTg0/NTcwLTE1Nzg3ODM3/NTUtODIzMi5qcGVn.jpeg" alt="Cover for Os Paralamas do Sucesso Em Casa" style="max-width:120px; height:auto;" />
       </td>
@@ -772,15 +774,15 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 52</li>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 80</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 54</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/OUekImr452eW2_7CZFTp047ZEixxhPTq8eGC48xhjYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDQ3/NTktMTI3ODQyMjU2/MC5qcGVn.jpeg" alt="Cover for Lapso" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa63161ab91e28a248ab7e2fbed1a4c6.png" alt="Cover for Lapso" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Posguerra</td>
@@ -798,7 +800,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/GJ-UBPbzOcoKSu4e_XyreT_RKwVgDpzuNO1zq99UDpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzEy/NjYtMTQ3NDI1MTIz/My00ODI4LnBuZw.jpeg" alt="Cover for Macrosensor" style="max-width:120px; height:auto;" />
       </td>
@@ -835,7 +837,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/gNCwD1xXeHauevDFd9spwyzL_ugnEOFKJjbnj1F2wvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDcx/ODEtMTI3MjE3MTA5/Ni5qcGVn.jpeg" alt="Cover for Yo Soy Yo" style="max-width:120px; height:auto;" />
       </td>
@@ -864,7 +866,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/gNCwD1xXeHauevDFd9spwyzL_ugnEOFKJjbnj1F2wvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDcx/ODEtMTI3MjE3MTA5/Ni5qcGVn.jpeg" alt="Cover for Otro Lugar" style="max-width:120px; height:auto;" />
       </td>
@@ -889,7 +891,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/rxSQk85SwGZr1zu7KEduMukQFKMH4rxq4COfzYLi-W4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDY0/NDgtMTMwNDM1ODUx/MS5qcGVn.jpeg" alt="Cover for In America" style="max-width:120px; height:auto;" />
       </td>
@@ -911,27 +913,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/251632662b396abec035e64a5f3dcda2.png" alt="Cover for O Rio A Cidade A Árvore" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-05-02</td>
-      <td>Fresno</td>
-      <td>O Rio A Cidade A Árvore</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/cGVQsqflagrSI4BqVPqV_a2HIAPKXD2j58weNChLJ7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM2/NTg4LTE0OTk0NDQy/ODMtMzY2NS5qcGVn.jpeg" alt="Cover for Niñoboy" style="max-width:120px; height:auto;" />
       </td>
@@ -997,7 +979,6 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/IJZHCgxQdpw2PsQjouHx3sUmwmoiADCSD9FUd_w6SvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjA2/MTAtMTIyNTczNjYz/OC5qcGVn.jpeg" alt="Cover for Untitled Album" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-26</td>
       <td>Red Light Company</td>
@@ -1028,12 +1009,12 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 92</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/0FdmPC9TDtl2-1_2X6phNb5F4Br4q2hQrELWSE2OPhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDY2/MjMtMTM0MTE0Mjcw/Ni01MTMzLmpwZWc.jpeg" alt="Cover for Os crimes do dR.estranhoamor e outras estórias" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,7 +1033,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d666b1f4d33f8f46d7393c9b12e1901e.png" alt="Cover for Sete Chaves" style="max-width:120px; height:auto;" />
       </td>
@@ -1131,7 +1112,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/26ffbdfb49e74cc28d6aed4cd7b42dc3.png" alt="Cover for La Ceremonia de la Confusión" style="max-width:120px; height:auto;" />
       </td>
@@ -1169,12 +1150,12 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 79</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/jy5VLGx1Irv5FW0Xrm705CFQx31x5RMsguwuaTT60HE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDcy/NjgtMTI5NDA0NzA4/Mi5qcGVn.jpeg" alt="Cover for B-Sides &amp; Covers" style="max-width:120px; height:auto;" />
       </td>
@@ -1216,7 +1197,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/TFrLqp265BwXKRCEKeamjEpcHhJ1t5hYc0Fd6MZ8rXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDY5/MTktMTI4OTg0NTE4/NC5qcGVn.jpeg" alt="Cover for Live At iTunes Festival 2012" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,7 +1215,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e2c24b23021e7a7f8855711f7990c83.png" alt="Cover for SEP7IMO DIA" style="max-width:120px; height:auto;" />
       </td>
@@ -1269,7 +1250,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/300e737149ba6b50cde514b750985b3f.png" alt="Cover for The 1975 (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1287,7 +1268,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2014-10-19</td>
@@ -1304,7 +1285,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/017e1438f7bab715ddc08b501df1e053.png" alt="Cover for Run" style="max-width:120px; height:auto;" />
       </td>
@@ -1347,9 +1328,9 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/vUyWVEYsvQebjNwnXMIg0EVPGLsGcg0aIym5kEC7HzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDg2/MjAyLTE1OTIzMjc5/ODItNDUwMy5qcGVn.jpeg" alt="Cover for Monstro" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1c46e59796a68c3245a713033959b28.png" alt="Cover for Monstro" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Defalla</td>
@@ -1446,9 +1427,9 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/gnYdN2Cl6V_Nbe1eA-AzqRzf_zlCqYVjveu-OpaMvRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTEx/MjkwLTE1NDgyNTEy/MzQtMzUzOC5qcGVn.jpeg" alt="Cover for EP2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d8846aa627d449ac40e94901f9c3556.png" alt="Cover for EP2" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Detonautas Roque Clube</td>
@@ -1487,7 +1468,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/rvyqOCvvjyO_sT_AKnMZdRuCCW7ZCk-68zB2HHVbQ78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg1/OTg1LTE1MjgwMTUw/MTAtNzk2OC5qcGVn.jpeg" alt="Cover for Pigmento" style="max-width:120px; height:auto;" />
       </td>
@@ -1546,7 +1527,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/gwP4VqZjbk9QnjZPvyf9aCgqGDg6XDhK8qRFLXUgnsw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA2/MjY4LTE1MTM4NTky/NDUtOTkwMS5qcGVn.jpeg" alt="Cover for You´re a Liar" style="max-width:120px; height:auto;" />
       </td>
@@ -1585,7 +1566,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/uYLtEUImrKB3-qxRfcKGwtu9EmiidYcOx9eMnyM-g3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTUz/NDgtMTI3MjY0MDA5/NS5qcGVn.jpeg" alt="Cover for Pausa" style="max-width:120px; height:auto;" />
       </td>
@@ -1607,7 +1588,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/4aEcVj6M3Oete1peWGgpx5epr47HRZx4VrXwX4_yqfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjAy/NjAtMTUzMzg3MTEw/MS00NjU3LmpwZWc.jpeg" alt="Cover for Silencios" style="max-width:120px; height:auto;" />
       </td>
@@ -1625,12 +1606,12 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 13</li>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/hnWIKf7iPX9uqvxa5lTxglCQWN44JrSBC7GPrfiGAIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzI4/OTQ4LTE2MzUxODgz/MzEtMjc4OC5qcGVn.jpeg" alt="Cover for A Ver a Qué Sabe" style="max-width:120px; height:auto;" />
       </td>
@@ -1680,9 +1661,9 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/xe4hUDp5V9es6xaoUghKt0XbUfYtc0LhxRNIy6a5isI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzAx/Njc4LTE2NjQ3NDMy/OTEtODUyNy5qcGVn.jpeg" alt="Cover for Window" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5099f924f7fab4ee4b9c16b258d01bf4.png" alt="Cover for Window" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-07</td>
       <td>Telescoping</td>
@@ -1751,7 +1732,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/HsMAZEjBp4MjzlRSqCXSluC_DVTsLbP-wmF4QuIteHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDMy/OTIzLTE2NjI0Nzc3/NTgtMzk5OS5qcGVn.jpeg" alt="Cover for Silver Tongues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7f3ea3218555d9b0cd665734c9f5a61.png" alt="Cover for Silver Tongues" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-02</td>
       <td>Louis Tomlinson</td>
@@ -1771,7 +1752,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/vAhOjXpk8DA8ul88fm7hryMET5rEmFEKm7qtEv1Dww0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDQ4/OC0xMjcxMTc4MzUw/LmpwZWc.jpeg" alt="Cover for All The Good Sh**. 14 Solid Gold Hits (2000-2008)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bdb40293e07f31ad53b6f2c8e843c22.png" alt="Cover for All The Good Sh**. 14 Solid Gold Hits (2000-2008)" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-12</td>
       <td>Sum 41</td>
@@ -1791,6 +1772,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cc567fb5a1884f244faeffc04683c03.png" alt="Cover for Mosaicos" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>ODD MAMI</td>
@@ -1834,7 +1816,25 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dac3680dce49e7a880af08fe02520f92.png" alt="Cover for Vai Dá Certo" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Abdallah</td>
+      <td>Vai Dá Certo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/616ce54d3083dbf4ac4d9ec600eb234e.png" alt="Cover for Sistole" style="max-width:120px; height:auto;" />
       </td>
@@ -1855,7 +1855,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1872,8 +1872,9 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80f7650c2acea0ebc0013d3901109036.png" alt="Cover for A Cabeça Estendida Na Viga Do Braço" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Cômodo Marfim</td>
@@ -1891,7 +1892,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -1908,7 +1909,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c16dacb1b98ccb70cba11d45c736403b.png" alt="Cover for Tiempo - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1926,8 +1927,9 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57b5351701596cedcd05417fd75754d3.png" alt="Cover for internet crush &#x2F; manic" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>mxrian</td>
@@ -1945,7 +1947,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -1963,7 +1965,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -1989,7 +1991,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5748ace034c3a02373b0821ba7f1f72.png" alt="Cover for Primavera Em Pedaços" style="max-width:120px; height:auto;" />
       </td>
@@ -2015,7 +2017,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>
@@ -2032,7 +2034,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1bb336484a24d39a9989172f5f8c597.png" alt="Cover for Mr. Eko - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -2127,6 +2129,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46b48e449518ca12fb1decd949a08c5a.png" alt="Cover for Ubicación en Tiempo Real" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Barbi Recanati</td>
