@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-18T13:50:33.266Z
+date: 2025-11-14T00:20:49.305Z
 permalink: tags/melodic-punk
 title: melodic punk
 ---
 
 ## melodic punk
 
-Last updated: <time datetime="2025-10-18T13:50:33.266Z">Sat Oct 18 2025 16:50:33 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-14T00:20:49.305Z">Fri Nov 14 2025 02:20:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
   </thead>
   <tbody>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/KFlaeWOKZrEOVRu0tQ-UNJohMOWCkh700Spnenukin0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDI1/MjktMTMzNjk3MTkz/MC04MTEwLmpwZWc.jpeg" alt="Cover for Shingo Japanese Remix Album" style="max-width:120px; height:auto;" />
       </td>
@@ -49,7 +49,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/KFlaeWOKZrEOVRu0tQ-UNJohMOWCkh700Spnenukin0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDI1/MjktMTMzNjk3MTkz/MC04MTEwLmpwZWc.jpeg" alt="Cover for Shingo Japanese Remix Album" style="max-width:120px; height:auto;" />
       </td>
@@ -113,15 +113,16 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c287c51d91844d60cdfedace76c70767.png" alt="Cover for Don&#39;t Turn Away" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Face to Face</td>
       <td>Don&#39;t Turn Away</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
         </ul>
       </td>
       <td>
@@ -131,7 +132,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/QwTXSKrwrf6qKjUDxx5zsceZONZTmph0bkVT7oTSETI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTEy/MjItMTQxNzIwMzMz/Ny03ODY5LmpwZWc.jpeg" alt="Cover for Pennywise (remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -150,7 +151,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4efe2ce186a5f4453c3a8d86d2f4d30.png" alt="Cover for Nook" style="max-width:120px; height:auto;" />
       </td>
@@ -168,8 +169,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38cd3f37211c5882995791e878ff41fa.png" alt="Cover for Earwig" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-10-24</td>
       <td>Pegboy</td>
@@ -190,7 +192,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/AUu88cHJSpGM-GwbNaH8Q6_XfLyzcSrywjkqARyh1eE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzA0/MzYtMTM2OTY3Mjcw/OC0xMzQxLmpwZWc.jpeg" alt="Cover for About Time (remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -209,7 +211,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
       </td>
       <td>1996</td>
@@ -248,24 +250,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>1997-04-22</td>
-      <td>Pennywise</td>
-      <td>Full Circle</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/xwy5BB1QL34MbiVKsC8-UHa_DVdEOQ83gZbD69QsbKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjAz/MjUtMTI4MzA5ODYz/Mi5qcGVn.jpeg" alt="Cover for America&#39;s Favorite Pastime" style="max-width:120px; height:auto;" />
       </td>
@@ -285,24 +270,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>48</td>
-      <td>
-      </td>
-      <td>1998-05-08</td>
-      <td>Bad Religion</td>
-      <td>No Substance</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/ur3GT7_1QlyMHfudF4f4KDTHmJifRuoiMG3UC1RsBPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDMz/NjEtMTM4NTY5MDE4/MC04MjYxLmpwZWc.jpeg" alt="Cover for Silent Days" style="max-width:120px; height:auto;" />
       </td>
@@ -324,8 +292,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f86c3162eb50047859ff5653d2de130.png" alt="Cover for A Guided Tour of Chicago" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-10-26</td>
       <td>The Lawrence Arms</td>
@@ -344,8 +313,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/afcc31a27ed1ed0be57a7e199c5f0036.png" alt="Cover for Fanbelt Algebra" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-03-21</td>
       <td>Grey Area</td>
@@ -361,9 +331,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/fwunFuC8iC_Epf8tkCNBt3BHeGtrAi1HKw5AnwhGUMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNDEy/NC0xNTkzMTEyODkw/LTU4OTguanBlZw.jpeg" alt="Cover for Hero" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60c3581a0a6243f1a0d86f07058129dd.png" alt="Cover for Hero" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>All Wound Up</td>
@@ -380,8 +350,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7dd43f30a0d94db88f3c10d197bc9d30.png" alt="Cover for Vote for Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Uncommonmenfrommars</td>
@@ -400,9 +371,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
-          <img src="https://i.discogs.com/poHi1Wos_omuV8fW_mvyvpql9jYVmhTcBitPrNT2O-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjk4/OTU4LTE0OTQ4ODk0/MzQtMTUxNi5qcGVn.jpeg" alt="Cover for Collected in Comfort" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fba9b815528740c29f3d7ca5a751598e.png" alt="Cover for Collected in Comfort" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Fifth Hour Hero</td>
@@ -419,7 +390,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/Y3YcV23azGSGY6tbK6BvwHCYnb154tM2htPZeKILihk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjY0/NzgtMTQ0NDE2NDEy/MS01NjQ4LmpwZWc.jpeg" alt="Cover for These Shattered Lives" style="max-width:120px; height:auto;" />
       </td>
@@ -439,7 +410,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/aJiKO9vIidbUwCss8Liu40llIMo7fheWHmmtoYs1b70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzI2/NzUwLTE2MTI4MjYw/MDYtNjMyMC5qcGVn.jpeg" alt="Cover for Caught Off Guard" style="max-width:120px; height:auto;" />
       </td>
@@ -457,9 +428,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/lB3Yshzn6qLXw8_lm7CnTdbwqdRkuT0NjHYaK9NELjg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQw/NDItMTU2Njk5ODc4/Ni05NjI5LmpwZWc.jpeg" alt="Cover for Svoga tijela gospodar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/882383520df4550d79a7af68f90de459.png" alt="Cover for Svoga tijela gospodar" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Mikrofonija</td>
@@ -480,7 +451,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6aa2ed1528d402c89c26156bb71dc76.png" alt="Cover for The Process of Belief" style="max-width:120px; height:auto;" />
       </td>
@@ -494,13 +465,14 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 24</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6784db35667b11b7faee372d990bbcf3.png" alt="Cover for Apathy and Exhaustion" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-02-12</td>
       <td>The Lawrence Arms</td>
@@ -517,7 +489,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/udOXT3A-43E7Y-be73RGzEBb67mDRxvPoGOyNk0pteg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjY4/NTktMTM2NTY4Mzkz/Mi0zNTMwLmpwZWc.jpeg" alt="Cover for Lyckliga land" style="max-width:120px; height:auto;" />
       </td>
@@ -535,7 +507,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af52449dcab54a44b72d7a62d90e6611.png" alt="Cover for Revolutions Per Minute" style="max-width:120px; height:auto;" />
       </td>
@@ -544,22 +516,20 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       <td>Revolutions Per Minute</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 18</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 37</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 64</li>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 95</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/-E5x_2bWBce3_s4cGloiRc4QdFdUiBftDm2yJzQ657Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDU3/NTgtMTM2MTI2ODQ1/NS0xMDU0LmpwZWc.jpeg" alt="Cover for Songs To Turn The Tide" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/246c4095818341ea8d2ccf5e6933cb2c.png" alt="Cover for Songs To Turn The Tide" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-10-14</td>
       <td>Marathon</td>
@@ -578,9 +548,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
-          <img src="https://i.discogs.com/fVGb9EoI3zDG4G8Nf88rCwljf6wuhHQedyoHQ_o3nKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzM4/NzUtMTQwNTA4MTM5/OS03MzI0LmpwZWc.jpeg" alt="Cover for 愛彌々" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75ee754c43b35236e8e4dc071c2a5014.png" alt="Cover for 愛彌々" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-03-18</td>
       <td>MONGOL800</td>
@@ -598,7 +568,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
       </td>
       <td>2004-11-09</td>
@@ -615,7 +585,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>86</td>
       <td>
       </td>
       <td>2005-04-05</td>
@@ -634,9 +604,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/DAoSluVQFnmzJAsnsmbIx_03hTYIa2okrN0jkUDMIEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTc5/NDYtMTQzODM2MDE1/MC00ODkyLmpwZWc.jpeg" alt="Cover for Romance On The Phone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fbd061b29f940b49dcbab14b15046c0.png" alt="Cover for Romance On The Phone" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Road Trip&#39;s Over</td>
@@ -653,7 +623,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca4dbdcd71778a39a372dcbdcc642292.png" alt="Cover for Keep Your Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -671,7 +641,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/iklguT8XvVxWCYOTqDIzHhW2GeSZ7E7awhKq8ja1QY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTIz/MjMtMTIzNzI5MTcz/My5qcGVn.jpeg" alt="Cover for Missed The Boat" style="max-width:120px; height:auto;" />
       </td>
@@ -690,9 +660,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/Rg52URPDjdWt6ndhQI7qAvaHGjeKt9fW9AdLS6S6GSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjI5/MTktMTQyNTMzNjQw/Ni01ODExLmpwZWc.jpeg" alt="Cover for Shorter Than Danny DeVito" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bec3d917d6f91a90726574969617270e.png" alt="Cover for Shorter Than Danny DeVito" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-08-01</td>
       <td>Bankrupt</td>
@@ -706,15 +676,16 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 15</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 11</li>
             <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 43</li>
             <li> <a href="{{ "/tags/magyar" | relative_url }}">magyar</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed709f29d4f5f85b105248178f55ea4f.png" alt="Cover for Tomorrow I&#39;ll Play God" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-27</td>
       <td>5Bugs</td>
@@ -733,8 +704,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e82cb5c193404eadced4c024ec3f5674.png" alt="Cover for We Are Still Alive" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Latterman</td>
@@ -751,8 +723,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a29bf4c8cd4eec7f644201972a5564d6.png" alt="Cover for This Is Noise" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-07-10</td>
       <td>Rise Against</td>
@@ -768,7 +741,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/ouI5d_S9jflYgTYTh9yLPV1IqsfRFSwYcXnUhCJXUg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDI1/OTAtMTQ4NTY1OTU4/Ni0zOTEzLmpwZWc.jpeg" alt="Cover for Perfect Feeling" style="max-width:120px; height:auto;" />
       </td>
@@ -816,7 +789,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/RL3sQ-8uz-HiTUZqI_aSt3Xfm14FMoIZmO-0xxFIt3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjQ0/MzMtMTU2MDQzNzMy/NS04NDg0LmpwZWc.jpeg" alt="Cover for Наша Любовь, Наша Ненависть" style="max-width:120px; height:auto;" />
       </td>
@@ -835,9 +808,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/8hNo1CQNwRrwJKegJSzYBSkvF9yWpW4WisQeWYL4uPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDc4/OTYtMTU4NDI5MjIy/My04MDQxLmpwZWc.jpeg" alt="Cover for In Punk We Rust" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a91d9d9ad0a7442ab62fbd2f1704fe5d.png" alt="Cover for In Punk We Rust" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Maypole</td>
@@ -854,9 +827,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/DrXl7t_iHic8x4AdNpDrWSUmltqeTFAqjfRWR2TY9iw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MjI0/MzItMTQyMTE2NTAx/NS05MzEyLmpwZWc.jpeg" alt="Cover for Victims of a Mockery" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/715a1d45773e4a1aa0fc6c6ccb131a1b.png" alt="Cover for Victims of a Mockery" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Abandin All Hope</td>
@@ -878,9 +851,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/z9PhgZnJWbD0Yfnj4ndptczrZm7TF1C3n_E4oBbfhik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk3/NjQ5LTE1NDQwOTAw/MzktMTU5NS5qcGVn.jpeg" alt="Cover for Brand-new old-style" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fb6e0c8fd694b3fa1917e53d102d330.png" alt="Cover for Brand-new old-style" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>locofrank</td>
@@ -898,7 +871,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb677c1248338e1299b91b8dcc5afe87.png" alt="Cover for Weekend Warriors" style="max-width:120px; height:auto;" />
       </td>
@@ -918,9 +891,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/3PPLyEnaOuuoVyHn0FWf_pTQie63sKUCjLc8FwXK2FI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDcx/MDMtMTM1MTM0MDgx/MS0yMzE1LmpwZWc.jpeg" alt="Cover for Rocket to Riot City" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b57b790c3ccf8685da62427229033546.png" alt="Cover for Rocket to Riot City" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-01</td>
       <td>Bankrupt</td>
@@ -939,15 +912,16 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5e8ffb13078bb3e6aa40786446e5aa7.png" alt="Cover for From the Bottom" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-22</td>
       <td>Off With Their Heads</td>
       <td>From the Bottom</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
         </ul>
       </td>
       <td>
@@ -956,9 +930,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
-          <img src="https://i.discogs.com/jhUUmBqYVZgutAzFuv8fyWNea1CwH6vp6aELW2DqKY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzM5/NC0xMTA4NTAwMjU5/LmpwZw.jpeg" alt="Cover for Re-Education (Through Labor) - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17d50e3d346c4d72922b1c745aab67ea.png" alt="Cover for Re-Education (Through Labor) - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-25</td>
       <td>Rise Against</td>
@@ -978,9 +952,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>87</td>
       <td>
-          <img src="https://i.discogs.com/DfihUddRGXwAoRulCgrJnCO74qyYRHgxpCCpKg28TQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTk2/NzgtMTI2OTE5MDY4/Ni5qcGVn.jpeg" alt="Cover for Skin or Swim" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a0ae7778a2d4834c875f62ce30f8989.png" alt="Cover for Skin or Swim" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-14</td>
       <td>The Gaslight Anthem</td>
@@ -1000,12 +974,12 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 14</li>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 77</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c68291415334c489bf27ceabf3fe6fc.png" alt="Cover for Appeal to Reason" style="max-width:120px; height:auto;" />
       </td>
@@ -1014,19 +988,17 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       <td>Appeal to Reason</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 92</li>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 98</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 69</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/k8e4ur9tWJDLBhUzzctbUK_q008MhdgHibSHPPYNPfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDEw/MTEtMTM3NzE2ODIx/NC03NTcyLmpwZWc.jpeg" alt="Cover for In your hands" style="max-width:120px; height:auto;" />
       </td>
@@ -1044,7 +1016,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/_otyjqOStkmCCT1FdFpeWGCoVEPpVWslMsFyGUHbvsA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjIz/NDEtMTM1MTg3MTI3/NC0xMTEzLmpwZWc.jpeg" alt="Cover for Indiscreed" style="max-width:120px; height:auto;" />
       </td>
@@ -1096,7 +1068,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/MouHspsOOEAkvJ0-Bqzqy6z3fbxAy2ZsBSH-Rh_-Mj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MjIy/NTYtMTYxODc3NTY4/MS01NTE0LmpwZWc.jpeg" alt="Cover for It Ain&#39;t About The Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1114,7 +1086,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for Punk-O-Rama, Volume 5" style="max-width:120px; height:auto;" />
       </td>
@@ -1131,8 +1103,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2800ede9e8b302c6ffb96b44c20f70cf.png" alt="Cover for Distractions" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-03</td>
       <td>The Loved Ones</td>
@@ -1149,9 +1122,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/iPXbhJesY1F4RyyS-U1qPOmY9B1CiHOP_PxbXpyJ-4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODIy/ODMtMTU5NDQ3NDMz/MC03MTk1LmpwZWc.jpeg" alt="Cover for Distances" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9890cc040a3543e4aef2b57d58e35248.png" alt="Cover for Distances" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-10</td>
       <td>The Wonder Years, All Or Nothing</td>
@@ -1166,7 +1139,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>83</td>
       <td>
       </td>
       <td>2009-03-24</td>
@@ -1183,7 +1156,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/_qjneDRdDbrpL_tKzSqT2ba5_aiecm2gL8LuJcERrXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjYz/NDkzLTE2MjA2MTc3/OTItOTkzNS5qcGVn.jpeg" alt="Cover for Endorphin" style="max-width:120px; height:auto;" />
       </td>
@@ -1225,8 +1198,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2f349ff5c4e07f7ac6b93791f470663.png" alt="Cover for American Rubicon" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-07-14</td>
       <td>Cobra Skulls</td>
@@ -1243,9 +1217,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/SmAjqOiy9iFsf88tYf6gFJNMLC7pWdptDH9f7M1Jfbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDA1/NTctMTU4Njc3MDYz/My0xODE1LmpwZWc.jpeg" alt="Cover for Functional Dysfunctionality" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67bd935f916946279c882bb1311bec39.png" alt="Cover for Functional Dysfunctionality" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-21</td>
       <td>Uncommonmenfrommars</td>
@@ -1263,8 +1237,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32ef8f0806e5461b9f6c720d802b1645.png" alt="Cover for A Wilhelm Scream" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11-20</td>
       <td>A Wilhelm Scream</td>
@@ -1280,9 +1255,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/jduSTGsL-EbvMe2glDjfUtKQQm-SlWptMhXFpfAd47g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTcw/NTItMTMzMzcxNjQ2/NS5qcGVn.jpeg" alt="Cover for Winds of Promise - EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9489bf41a9864ddaa5283ff1de10c635.png" alt="Cover for Winds of Promise - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Remission</td>
@@ -1302,7 +1277,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/4I1CptOrrn4II3_LNAgrcdSLDq38kbFq2BebMGbg83k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzM2/NzYtMTQxNjcwNDEz/NC05NjUwLmpwZWc.jpeg" alt="Cover for I brist på annat" style="max-width:120px; height:auto;" />
       </td>
@@ -1322,8 +1297,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10953684ad8c4c3bbb6beb4d6adcbb34.png" alt="Cover for SMILE" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-10</td>
       <td>northern19</td>
@@ -1342,9 +1318,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>74</td>
       <td>
-          <img src="https://i.discogs.com/yhdD1SWwXljhYMysvf_jndCl-8bra-hnV7QHFfvJjOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzA5/NjAtMTQxMjg0MTc4/Mi0zODEwLmpwZWc.jpeg" alt="Cover for Wasted Potential" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0550386e60734c1d9c1783c1a25e0017.png" alt="Cover for Wasted Potential" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-16</td>
       <td>Brendan Kelly</td>
@@ -1362,9 +1338,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/NHfsnr8p6JJN8jxmBMexh8lcOl_tkCbl1wf1df-bWxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzU2/OTYtMTI3Mzg2NTAz/OC5qcGVn.jpeg" alt="Cover for Raising Ruins For The Future" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27802d827848c5303f05f3d896af2ee7.png" alt="Cover for Raising Ruins For The Future" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-26</td>
       <td>Mighty Midgets</td>
@@ -1382,7 +1358,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab60c27d9ed98b0f5aca041114c469d4.png" alt="Cover for It&#39;s a Trap!" style="max-width:120px; height:auto;" />
       </td>
@@ -1399,7 +1375,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>2010-06-02</td>
@@ -1422,9 +1398,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/EitAMmKDk5cj5Q9n6WZQBhNyNCzz01OXewR32wxTB9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzMx/NjQtMTM5NDI2NzY0/Ni0zOTg3LmpwZWc.jpeg" alt="Cover for OVER DRIVE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1cc1c00ed31485192aea742bcdf88bb.png" alt="Cover for OVER DRIVE" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-09</td>
       <td>TOTALFAT</td>
@@ -1442,8 +1418,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f420c8f7ea7f7aefb01c1c4f1339084b.png" alt="Cover for The Speakeasy" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-09</td>
       <td>Smoke or Fire</td>
@@ -1460,9 +1437,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/mp-Tm_6yQdU8b9g4Yo9VV9xpPupnkjEMhS9gf8_S6f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI0/OTI3LTE1NDI2NjIw/OTUtMzI0Mi5qcGVn.jpeg" alt="Cover for What do you mean We&#39;re just Friends?!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8f9cae93f864396bdd14c566a46ce15.png" alt="Cover for What do you mean We&#39;re just Friends?!" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-12</td>
       <td>Mane Horse</td>
@@ -1512,15 +1489,15 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       <td>
         <ul>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 1</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 51</li>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 65</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 49</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/mp-Tm_6yQdU8b9g4Yo9VV9xpPupnkjEMhS9gf8_S6f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI0/OTI3LTE1NDI2NjIw/OTUtMzI0Mi5qcGVn.jpeg" alt="Cover for Lord Unicorn &amp; The Masters" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6b6cd6ec1ff42d9b39d8678d213c646.png" alt="Cover for Lord Unicorn &amp; The Masters" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-12</td>
       <td>Mane Horse</td>
@@ -1569,16 +1546,16 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 3</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 7</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 12</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 17</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 58</li>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 71</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 56</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83fde7792b08c346f15b028215342759.png" alt="Cover for Relapse in the River City" style="max-width:120px; height:auto;" />
       </td>
@@ -1600,14 +1577,38 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 52</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 55</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/182c55ac7ae6e8b810cfecc12388ebaf.png" alt="Cover for Rewound" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Bankrupt</td>
+      <td>Rewound</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf" | relative_url }}">surf</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c113589dd2b47ebb274fe3278dcdc43.png" alt="Cover for IV" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Паразиты</td>
@@ -1627,9 +1628,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/U8OZDSAP2TdWGDccYuFXu6frIRNZlJon0oMgds99ZCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM3/NTczLTE0OTc0Mjg4/MzctMjM0OS5qcGVn.jpeg" alt="Cover for Four" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95462f25db5bb61163daba6856f272db.png" alt="Cover for Four" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Ken Yokoyama</td>
@@ -1648,7 +1649,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/857f406954024a779cf9a2ed2195f020.png" alt="Cover for With Joe Riley" style="max-width:120px; height:auto;" />
       </td>
@@ -1665,9 +1666,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
-          <img src="https://i.discogs.com/2TAzld_Sm14X9KhiainMd3_ZFbd52sGgU9CeIC1c6OU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MjEx/NzMtMTQyMTEzNjI3/My0zNDI3LmpwZWc.jpeg" alt="Cover for Free Your Mind" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a97b66e16f57f58b200d14fd8e9e5c77.png" alt="Cover for Free Your Mind" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-04</td>
       <td>HEY-SMITH</td>
@@ -1688,8 +1689,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49ca81a519be4653a41a49fb3bb62324.png" alt="Cover for Captain Planet" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-16</td>
       <td>Captain Planet</td>
@@ -1708,7 +1710,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/687f62050e6344d9c43646b8abcf3bcb.png" alt="Cover for The Difference In Good and Bad Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -1728,7 +1730,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/No9wbT5Ir23LLi0PZRKNrPL95ew0o03tqnP2JYvFgrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTI3/ODgtMTQ0NzM0NTgz/MC01NzE4LmpwZWc.jpeg" alt="Cover for Another Year" style="max-width:120px; height:auto;" />
       </td>
@@ -1749,8 +1751,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43969172277d405c8b3f6fd7cea3512f.png" alt="Cover for Easy Cure" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-30</td>
       <td>Uncommonmenfrommars</td>
@@ -1768,9 +1771,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/C9uhpjkPwH-PNDNTJf2gTGZ8zJa1iQtqzXt_kHev1SE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjg3/NzAtMTQxMjc4MzU3/MC0yMTk3LmpwZWc.jpeg" alt="Cover for For what it&#39;s worth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b0ab83bede74fd68714ed0bee3374d3.png" alt="Cover for For what it&#39;s worth" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Dead Market</td>
@@ -1789,9 +1792,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/iijR1I3DLi_frVt5cX74CjA6Z4_Cndz4oaSHcfUmel4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTUw/OTMtMTQ1NjE2Mzcx/Ny0zMzM2LmpwZWc.jpeg" alt="Cover for Bail City" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4559b73b4ceb403ac0749875e5601169.png" alt="Cover for Bail City" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Ellesmere</td>
@@ -1809,7 +1812,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/LGUlv-NlYCp44kKzvVYKIePVJZtj1h8Q9I_49Q7jLWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjcw/NTYtMTM2NzQxMjg4/NC00NzI5LmpwZWc.jpeg" alt="Cover for Spooky Action" style="max-width:120px; height:auto;" />
       </td>
@@ -1827,7 +1830,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/cQukNZ06CoGInqCZoyLQr-9r010q_thsDZm4R0JbHNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDQ1/MTMtMTQxNjk1NjA0/MC0xMTgyLmpwZWc.jpeg" alt="Cover for Trashfiction" style="max-width:120px; height:auto;" />
       </td>
@@ -1866,31 +1869,25 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/yfL92-trj5hsWKtB3NDxAVdPnUlDhK-ZpPZoEVdlGgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgw/NzYtMTQ4Njg2NDg5/MC0zODM0LmpwZWc.jpeg" alt="Cover for Chemical Miracle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09f74cbaef9a3da2e51e6b5a282d2dda.png" alt="Cover for Chemical Miracle" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-14</td>
       <td>Trophy Eyes</td>
       <td>Chemical Miracle</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 33</li>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/zpZELryx7cse2dbMLfHFW2b1rUU4CwHTHD1AieAbXlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzY1/NjQ3LTE1MTUwMTk3/MTQtMzE0My5qcGVn.jpeg" alt="Cover for Illuminate" style="max-width:120px; height:auto;" />
       </td>
@@ -1911,9 +1908,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/OBHi3cChtvWX5wvqX_Z3lWp5acSV_iSA5-Ss8mBQAlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTIz/MDAwLTE1Mjg3NTUy/NTgtNzY1OS5qcGVn.jpeg" alt="Cover for Get By" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9579853c48400ec1c6de8017d9c2a220.png" alt="Cover for Get By" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-16</td>
       <td>Real Friends</td>
@@ -1932,7 +1929,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/2RqMPjqEGp6QklEyKy98SGBLbTF20OCBaM64xgQ-tcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDgz/NzkwLTE1MzYxODQy/NjktMzAyNi5qcGVn.jpeg" alt="Cover for Peace Through Vandalism" style="max-width:120px; height:auto;" />
       </td>
@@ -1952,9 +1949,27 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/59f23d673c7fc50aa777dac08888ccb5.png" alt="Cover for Composure" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-07-13</td>
+      <td>Real Friends</td>
+      <td>Composure</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/IpQ58rYVGbvG4whKbQ_15ytO613Wwny_n9anxDxxg4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzM5/ODEzLTE1NTU5Mzc0/MzAtNDE0OS5qcGVn.jpeg" alt="Cover for The American Dream" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc96a939c8772ddd3165ac6078192389.png" alt="Cover for The American Dream" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-03</td>
       <td>Trophy Eyes</td>
@@ -1973,13 +1988,13 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 17</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 39</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 27</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/KdKX9eUWV9hFQR4IZPRvK9bBHHNPx8z0-nlDy5MbYEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTY1/NjAtMTcwMzAxNTUy/My0zMzc0LmpwZWc.jpeg" alt="Cover for Oi! To The World (Christmas With The Vandals)" style="max-width:120px; height:auto;" />
       </td>
@@ -1999,7 +2014,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/7eSTjxSVxWHI92fswkkQV2cBeS8x5lYMe2tWyD187CI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTU1/OTk5LTE2ODgyOTY4/MzUtOTA4MC5qcGVn.jpeg" alt="Cover for torches" style="max-width:120px; height:auto;" />
       </td>
@@ -2021,7 +2036,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/4C0VGNa3h_oP3MssqTeDnDPTYPNGv2NrerOT7sihows/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTE2/MzU2LTE1ODQwMzM5/ODUtNjg3OS5qcGVn.jpeg" alt="Cover for Cross the Void (Demo)" style="max-width:120px; height:auto;" />
       </td>
@@ -2044,7 +2059,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/RmOEWKkaMIHt4HXTdsznUxsx1sugqk3YzPUHjGvaF6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTI5/NDU4LTE2NDAwMjgx/NTktMzA2Ni5qcGVn.jpeg" alt="Cover for Грустные песни для уставших людей" style="max-width:120px; height:auto;" />
       </td>
@@ -2064,7 +2079,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
       </td>
       <td>2022</td>
@@ -2083,9 +2098,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/uR02o9UdxOxJmsOIiaqs0oSTbAvf4JSV6taAibQKLAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTMy/NzM3LTE2NTE1NzQ0/MjItNjczNy5qcGVn.jpeg" alt="Cover for The Best of All Possible Worlds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f34a9972326c2fea810f56a31392163f.png" alt="Cover for The Best of All Possible Worlds" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-04-01</td>
       <td>Elway</td>
@@ -2103,7 +2118,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
