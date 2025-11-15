@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T06:23:24.942Z
+date: 2025-11-14T23:29:51.767Z
 permalink: tags/quartet
 title: quartet
 ---
 
 ## quartet
 
-Last updated: <time datetime="2025-11-13T06:23:24.942Z">Thu Nov 13 2025 08:23:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T23:29:51.767Z">Sat Nov 15 2025 01:29:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -398,7 +398,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/mL5ftm6_1Bd_cvP3LtyAVQASmkZY_4Q_jQX1S0p1OqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzgy/ODk1LTE1NzM0MDg0/NjYtOTkxMy5qcGVn.jpeg" alt="Cover for Magnard, Faure: String Quartets" style="max-width:120px; height:auto;" />
       </td>
@@ -605,24 +605,6 @@ A quartet is a musical composition for four instruments or voices, also referrin
       <td>2001</td>
       <td>Come Shine</td>
       <td>Come Shine</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/qkAdOKaxHBIZiV_drPA3Jb64EXr4L8ElN3wDBz52_Cs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTgz/OS0xMzk3NzY4NDA0/LTI3NTcuanBlZw.jpeg" alt="Cover for シューベルト:「死と乙女」「ロザムンデ」　85" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Alban Berg Quartet</td>
-      <td>シューベルト:「死と乙女」「ロザムンデ」　85</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
@@ -1002,7 +984,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 10</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 9</li>
             <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 56</li>
         </ul>
       </td>
@@ -1059,7 +1041,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       <td>
         <ul>
             <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 33</li>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 53</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1178,7 +1160,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/XbMhnYYUemoybCqY9HCrS3VJIhjHpsihzm_ZS9whXwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzc5/NDgtMTM4ODQwOTU2/OS0yMjg2LmpwZWc.jpeg" alt="Cover for Distance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd10bca628104316835a39703f2c66a8.png" alt="Cover for Distance" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-28</td>
       <td>Starmetis</td>
@@ -1251,7 +1233,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/ftrhx2LTaAHfEpNQ8GHPz1RFxXtP4ALZI0IARlHO0G8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgx/OTk2LTE1Nzc1MzM4/NjQtMzYxOC5qcGVn.jpeg" alt="Cover for beko_97" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd00c00bed91485d93154228a6c3dd4f.png" alt="Cover for beko_97" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Dale Cooper Quartet &amp; The Dictaphones</td>
@@ -1393,8 +1375,8 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 8</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 34</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 7</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1574,6 +1556,26 @@ A quartet is a musical composition for four instruments or voices, also referrin
       <td>
       </td>
       <td></td>
+      <td>Tim Woodson and The Heirs of Harmony</td>
+      <td>Live In Newport News - &quot;Millionaire&quot;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td></td>
       <td>Giulio Genovese</td>
       <td>Presages</td>
       <td>
@@ -1625,7 +1627,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>

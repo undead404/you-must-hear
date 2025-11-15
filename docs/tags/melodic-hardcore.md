@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T06:26:20.148Z
+date: 2025-11-14T23:32:48.667Z
 permalink: tags/melodic-hardcore
 title: melodic hardcore
 ---
 
 ## melodic hardcore
 
-Last updated: <time datetime="2025-11-13T06:26:20.148Z">Thu Nov 13 2025 08:26:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T23:32:48.667Z">Sat Nov 15 2025 01:32:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
   </thead>
   <tbody>
     <tr>
-      <td>83</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d521c2b2b2d4958a85263506c42d53d.png" alt="Cover for Can I Say" style="max-width:120px; height:auto;" />
       </td>
@@ -38,18 +38,16 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       <td>Can I Say</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>1989-06-24</td>
@@ -63,14 +61,14 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 35</li>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 79</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 43</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 82</li>
             <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63b3866ddfb9438e9b03b47c94e1348f.png" alt="Cover for Pennywise" style="max-width:120px; height:auto;" />
       </td>
@@ -88,7 +86,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5d2fc0631f0987c20f6bc6e7366f7b9.png" alt="Cover for Unknown Road" style="max-width:120px; height:auto;" />
       </td>
@@ -107,7 +105,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/348b9239b0ee8435aaff4d1e38cbbfe7.png" alt="Cover for Hello Bastards" style="max-width:120px; height:auto;" />
       </td>
@@ -122,12 +120,12 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 13</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/201ebe568bc5b384310e143a80f9c9d7.png" alt="Cover for Suburban Teenage Wasteland Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -143,12 +141,12 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 69</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a273d2884d975993572088087e9419c.png" alt="Cover for Jersey&#39;s Best Dancers" style="max-width:120px; height:auto;" />
       </td>
@@ -167,7 +165,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6707f4778d314e36ce36c2e4a9232f35.png" alt="Cover for Twisted By Design" style="max-width:120px; height:auto;" />
       </td>
@@ -183,12 +181,12 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 45</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>1998-09-01</td>
@@ -206,7 +204,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6aafc671b4a7483d96be372336a51de2.png" alt="Cover for Today&#39;s Empires, Tomorrow&#39;s Ashes" style="max-width:120px; height:auto;" />
       </td>
@@ -223,7 +221,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3465b263834bd9135fe120fb2f5467be.png" alt="Cover for The Unraveling" style="max-width:120px; height:auto;" />
       </td>
@@ -236,13 +234,11 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 8</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ee4cd32d16528321de2c1ca962f3a50.png" alt="Cover for Go" style="max-width:120px; height:auto;" />
       </td>
@@ -260,7 +256,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b8be4ebef0448ceb7d0a54f4a52aec6.png" alt="Cover for Land of the Free?" style="max-width:120px; height:auto;" />
       </td>
@@ -273,11 +269,12 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>88</td>
       <td>
       </td>
       <td>2002</td>
@@ -294,7 +291,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a250588f4a314663afa61330d069c37e.png" alt="Cover for Situationist Comedy" style="max-width:120px; height:auto;" />
       </td>
@@ -313,7 +310,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56ee3a075b744a739796c95f71d81911.png" alt="Cover for West for Wishing" style="max-width:120px; height:auto;" />
       </td>
@@ -332,7 +329,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af52449dcab54a44b72d7a62d90e6611.png" alt="Cover for Revolutions Per Minute" style="max-width:120px; height:auto;" />
       </td>
@@ -345,14 +342,13 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 14</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 37</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 64</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 16</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ce14e0d1a88406bc0fc46bb44098d9d.png" alt="Cover for RPM10" style="max-width:120px; height:auto;" />
       </td>
@@ -370,7 +366,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
       </td>
       <td>2003-06-03</td>
@@ -387,7 +383,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c14a2a6c124c9cc9e5504fef2f908e07.png" alt="Cover for Exit English" style="max-width:120px; height:auto;" />
       </td>
@@ -406,7 +402,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a48bc9776661e2211a11340df311b65b.png" alt="Cover for Mute Print" style="max-width:120px; height:auto;" />
       </td>
@@ -425,7 +421,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40861aaf29d0e9ede5f896f1c9801407.png" alt="Cover for 91025" style="max-width:120px; height:auto;" />
       </td>
@@ -445,7 +441,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       <td>
         <ul>
             <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 40</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 44</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -463,13 +459,12 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 65</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 80</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63580aab40516e14f0494a355a3fb802.png" alt="Cover for Exile In Oblivion" style="max-width:120px; height:auto;" />
       </td>
@@ -478,8 +473,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       <td>Exile In Oblivion</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a></li>
         </ul>
       </td>
       <td>
@@ -488,7 +482,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/2qZFsg4f1oKOiKag9F9I94CQ8YSj2sBC1HOI7dNfeQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjQw/MjEtMTQyMzgwNjQ1/NS04OTc1LmpwZWc.jpeg" alt="Cover for Extinction In Stereo" style="max-width:120px; height:auto;" />
       </td>
@@ -506,7 +500,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/39db6358824c4c41cc4598d179f46868.png" alt="Cover for To Live In Discontent" style="max-width:120px; height:auto;" />
       </td>
@@ -525,7 +519,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>74</td>
       <td>
       </td>
       <td>2005-02-28</td>
@@ -543,7 +537,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>2005-03-22</td>
@@ -561,7 +555,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/779fc0bf82abf8df90d50e0335b751f2.png" alt="Cover for Reset" style="max-width:120px; height:auto;" />
       </td>
@@ -579,7 +573,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>50</td>
       <td>
       </td>
       <td>2005-08-30</td>
@@ -598,7 +592,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>60</td>
       <td>
       </td>
       <td>2006</td>
@@ -618,7 +612,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0dffb0bb5c24a929e9dae6440cea7f6.png" alt="Cover for Procedimentos De Emergência" style="max-width:120px; height:auto;" />
       </td>
@@ -636,7 +630,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/OWfaRK3PLfqO8kKop9GUtdDYpXl1qrQVDUDdI_g7xhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MzUz/NS0xMTc5NTcwNjg0/LmpwZWc.jpeg" alt="Cover for The Troubled Stateside" style="max-width:120px; height:auto;" />
       </td>
@@ -655,7 +649,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>2006-05-02</td>
@@ -703,13 +697,12 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 69</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 88</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a396a9edb855463b8059dbb3c9bed591.png" alt="Cover for Lifetime" style="max-width:120px; height:auto;" />
       </td>
@@ -728,7 +721,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2007-02-20</td>
@@ -745,7 +738,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/66d1984628f8cfd6b1ef3aeba22d6db4.png" alt="Cover for Blackhawks Over Los Angeles" style="max-width:120px; height:auto;" />
       </td>
@@ -763,7 +756,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2007-07-03</td>
@@ -781,7 +774,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c94bb19e77364d192889ed9feb70ce7c.png" alt="Cover for Paper Ships Under A Burning Bridge" style="max-width:120px; height:auto;" />
       </td>
@@ -799,7 +792,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4907e6da159cffd160c65e2fceb1bc23.png" alt="Cover for Career Suicide" style="max-width:120px; height:auto;" />
       </td>
@@ -817,7 +810,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>69</td>
       <td>
       </td>
       <td>2007-11-07</td>
@@ -829,12 +822,12 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 83</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
       </td>
       <td>2008-01-08</td>
@@ -852,7 +845,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>45</td>
       <td>
       </td>
       <td>2008-03-04</td>
@@ -869,14 +862,14 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 39</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 46</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 52</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 47</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6c15d617b73b3a19c3809e0d1e7bb09.png" alt="Cover for Reason To Believe" style="max-width:120px; height:auto;" />
       </td>
@@ -908,13 +901,13 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 39</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 92</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 40</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2009-04-07</td>
@@ -931,7 +924,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca541e60d19d01d507d3d348fcacee8c.png" alt="Cover for The Last Thing You Forget" style="max-width:120px; height:auto;" />
       </td>
@@ -949,7 +942,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>63</td>
       <td>
       </td>
       <td>2009-07-21</td>
@@ -968,7 +961,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11734ffeac4c9f66db601b3202647dea.png" alt="Cover for Iron Front" style="max-width:120px; height:auto;" />
       </td>
@@ -986,7 +979,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>49</td>
       <td>
       </td>
       <td>2009-09-22</td>
@@ -1004,7 +997,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/s8coUOMMRBx2AWxmTRTxpA4PkGmxBhULa4BtGhFioH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTQx/MDgtMTMwNDA4MDc2/Ni5qcGVn.jpeg" alt="Cover for Pedestals" style="max-width:120px; height:auto;" />
       </td>
@@ -1022,7 +1015,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>76</td>
       <td>
       </td>
       <td>2010-02-23</td>
@@ -1040,7 +1033,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5462f71989a439bc37a4d0bc5161a0c.png" alt="Cover for Love Let Me Go" style="max-width:120px; height:auto;" />
       </td>
@@ -1059,7 +1052,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
       </td>
       <td>2010-06-08</td>
@@ -1077,7 +1070,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>83</td>
       <td>
       </td>
       <td>2010-08-31</td>
@@ -1094,7 +1087,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0867cc8e04ab428dba4ff2b97ab263af.png" alt="Cover for Empty Days &amp; Sleepless Nights" style="max-width:120px; height:auto;" />
       </td>
@@ -1109,12 +1102,12 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 63</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8873021d0234327a4fc46e76b78263d.png" alt="Cover for Endgame" style="max-width:120px; height:auto;" />
       </td>
@@ -1128,12 +1121,30 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 68</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2011-05-23</td>
+      <td>Heart in Hand</td>
+      <td>Only Memories</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/60b1b44d07f3e119ce59260120a665c7.png" alt="Cover for 61 Penn" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,7 +1163,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e22ed11d1e0649c4bdea765f5f90e022.png" alt="Cover for Back Burner" style="max-width:120px; height:auto;" />
       </td>
@@ -1171,7 +1182,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f2a504b9d6f406bba878547a7dfdb50.png" alt="Cover for I Wish I Could Stay Here" style="max-width:120px; height:auto;" />
       </td>
@@ -1180,8 +1191,6 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       <td>I Wish I Could Stay Here</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
         </ul>
       </td>
       <td>
@@ -1192,7 +1201,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/zLBRzEWIYpYuISMI_7sIiFhlhmaki0Wd5oIig18laso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzA5/NTctMTU3MzU0MzMz/My02OTIyLmpwZWc.jpeg" alt="Cover for Parting The Sea Between Brightness And Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61f4245e88044d01bb5658b23a185fd7.png" alt="Cover for Parting The Sea Between Brightness And Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-07</td>
       <td>Touché Amoré</td>
@@ -1206,12 +1215,12 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 49</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/efd920aac3e8ca91c7e7f67b5bf50275.png" alt="Cover for Clash Battle Guilt Pride" style="max-width:120px; height:auto;" />
       </td>
@@ -1229,7 +1238,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>40</td>
       <td>
       </td>
       <td>2011-09-27</td>
@@ -1247,7 +1256,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/TpbsyDqf47T6d4FTF7t_fcOmq_89BOaE7tWvVaC6zhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzk2/MDItMTMxOTMxODkx/MS5qcGVn.jpeg" alt="Cover for Avalanche United" style="max-width:120px; height:auto;" />
       </td>
@@ -1265,7 +1274,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>56</td>
       <td>
       </td>
       <td>2011-10-24</td>
@@ -1279,12 +1288,12 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 10</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/713fa98dec584f3ca747609de1812e8d.png" alt="Cover for Empty Hands and Heavy Hearts" style="max-width:120px; height:auto;" />
       </td>
@@ -1304,8 +1313,9 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc04ade5fdfb49c7a9cc790ec70c46f3.png" alt="Cover for Diamond" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-27</td>
       <td>Stick to Your Guns</td>
@@ -1324,7 +1334,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>2012-06-19</td>
@@ -1341,7 +1351,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df2c36e39a7071f0926904b453fb5615.png" alt="Cover for Floral Green" style="max-width:120px; height:auto;" />
       </td>
@@ -1355,12 +1365,12 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 81</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2012-10-23</td>
@@ -1378,7 +1388,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c706334ccdaf1a42c4029af89fce61d.png" alt="Cover for Anti-Social" style="max-width:120px; height:auto;" />
       </td>
@@ -1397,15 +1407,15 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       <td>
         <ul>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 30</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 58</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 63</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>68</td>
       <td>
-          <img src="https://i.discogs.com/8aJNRHRFVuPg9SRgKZRMfiYrsS8o9y_buin-gLRbWak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MzAz/NjYtMTM3MzY2NzE5/MC00OTkyLmpwZWc.jpeg" alt="Cover for Letters Home" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4188cbfcd93140fcc05fce00f10dfc3d.png" alt="Cover for Letters Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-16</td>
       <td>Defeater</td>
@@ -1422,7 +1432,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>80</td>
       <td>
       </td>
       <td>2013-07-23</td>
@@ -1440,8 +1450,9 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef0e2d67e8f0a085a208015553388bce.png" alt="Cover for Is Survived By" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-24</td>
       <td>Touché Amoré</td>
@@ -1455,12 +1466,12 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 18</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e448a19bf77ecf16acc2b8ca7a991af4.png" alt="Cover for Partycrasher" style="max-width:120px; height:auto;" />
       </td>
@@ -1478,7 +1489,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2cc5648e85384649c64e2237189d24a8.png" alt="Cover for The Black Market" style="max-width:120px; height:auto;" />
       </td>
@@ -1496,7 +1507,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44f5a9e9fb684be5cb814f557b477bd5.png" alt="Cover for Hang" style="max-width:120px; height:auto;" />
       </td>
@@ -1512,14 +1523,14 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 72</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>72</td>
       <td>
-          <img src="https://i.discogs.com/zQbJPX8C0UwljqzmFBKkg51GDJ-3uvmedaEKtunSJks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTE1/NTgtMTU3MzU0MzA2/Ny0zMjA4LmpwZWc.jpeg" alt="Cover for Disobedient" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/921035da6965486dc8756d3370c1c9a0.png" alt="Cover for Disobedient" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-02-10</td>
       <td>Stick to Your Guns</td>
@@ -1535,9 +1546,9 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>87</td>
       <td>
-          <img src="https://i.discogs.com/sYtp4fNMTZN4j6DUnq6YmfetFh1mFC3iK6DekOAWrZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDcw/NjYtMTQ1MTQwMTA5/My05OTkxLmpwZWc.jpeg" alt="Cover for Fade" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4b29d754ea0c97de4f5a80945ea81f5.png" alt="Cover for Fade" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-01</td>
       <td>Casey</td>
@@ -1553,7 +1564,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b66e203856ea0ee67de29beb8a93a83.png" alt="Cover for Happiness In Self Destruction" style="max-width:120px; height:auto;" />
       </td>
@@ -1572,7 +1583,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa0cad62dbf96c5228e8681856edc4ca.png" alt="Cover for All Messed Up (Acoustic)" style="max-width:120px; height:auto;" />
       </td>
@@ -1595,16 +1606,16 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 33</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 33</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 35</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 40</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/410AUfOcel0rYprd3cL48vyx6irKfE3ZsD6kqQJfF2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjY2/OTMtMTQ3NzY1NjYy/MS0xMDUwLmpwZWc.jpeg" alt="Cover for Love Is Not Enough" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be3f80ac957bb7edafeb862a804d2a54.png" alt="Cover for Love Is Not Enough" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Casey</td>
@@ -1620,30 +1631,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>89</td>
-      <td>
-          <img src="https://i.discogs.com/WBJMWOG8rODqn1dKOWiAojGVcPybv6ThanrtQtME0h4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTcx/MzQtMTQ2MDgyNDQ1/My0xNDkxLmpwZWc.jpeg" alt="Cover for Promise Everything (Deluxe)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-01-29</td>
-      <td>Basement</td>
-      <td>Promise Everything (Deluxe)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 55</li>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 70</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/463aaf1cde232b8d91e4a6c3a9353b3b.png" alt="Cover for Blame It On This Song" style="max-width:120px; height:auto;" />
       </td>
@@ -1656,15 +1644,15 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 95</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 96</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/VrDOoddS1qQmmSrxauf_1mdVgOvLBVMRE08AkhLzx5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTgy/ODkyLTE1MDc2NDI4/OTEtNDA2MC5qcGVn.jpeg" alt="Cover for True View" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/add1cf652d6e0efa20b62b1b31e0904a.png" alt="Cover for True View" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Stick to Your Guns</td>
@@ -1689,7 +1677,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fcd740c157ff401deeda795637dee3d.png" alt="Cover for Wolves" style="max-width:120px; height:auto;" />
       </td>
@@ -1707,7 +1695,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/tdBa6NKr4f8rMw_9XYHSSMQXH8HjyxPj0jRFeFZ9v_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODgw/ODA4LTE2MTk4NjUw/MzItMzg4NS5qcGVn.jpeg" alt="Cover for You&#39;re Not You Anymore" style="max-width:120px; height:auto;" />
       </td>
@@ -1723,12 +1711,12 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 27</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/pcezqdWblL2nNQPnGwnMEbA2_PWWs-CKelbkarOE7F8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDY4/MDE5LTE2MDI4NjI4/MDgtNzc1MC5qcGVn.jpeg" alt="Cover for Beds Are Burning &#x2F; Little Soldier" style="max-width:120px; height:auto;" />
       </td>
@@ -1747,7 +1735,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc96a939c8772ddd3165ac6078192389.png" alt="Cover for The American Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1768,13 +1756,13 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 38</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 41</li>
             <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5829c1c153377024ed938a0ac8ad50ea.png" alt="Cover for Belmont" style="max-width:120px; height:auto;" />
       </td>
@@ -1794,14 +1782,14 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       <td>
         <ul>
             <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 34</li>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 90</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
-          <img src="https://i.discogs.com/Mi0fu8ZrDKVxTFkd2F9Olnkc7VfY6tJuOQDOpW45snw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk1/NzkxLTE1NTUwNDQy/MDEtODg4MC5qcGVn.jpeg" alt="Cover for Shine On" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7624a2c3cc50693efaf035f0080f5371.png" alt="Cover for Shine On" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-24</td>
       <td>The Amity Affliction</td>
@@ -1821,17 +1809,17 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 2</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 69</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 77</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 87</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 29</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 72</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 80</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 88</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 89</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/35pYG30sTIC5Y4NWnyEuDQteG0jJUghKgDgRRjR6RPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDgw/ODA1LTE1NjcyNTY1/OTAtNTg5NC5qcGVn.jpeg" alt="Cover for Private Room" style="max-width:120px; height:auto;" />
       </td>
@@ -1850,9 +1838,9 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>86</td>
       <td>
-          <img src="https://i.discogs.com/eeYCQE5LdFlE_3JOaG_N522iMucUq50qZauN881fi8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjIw/Njk4LTE1NTQwOTgz/MDQtODEwOC5qcGVn.jpeg" alt="Cover for Ivy (Doomsday)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dae6264739e14f8314e694a39a2f8a6.png" alt="Cover for Ivy (Doomsday)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-29</td>
       <td>The Amity Affliction</td>
@@ -1872,16 +1860,16 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 11</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 45</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 70</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 71</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 20</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 51</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 71</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 75</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/ZwyXhqQyouqqS1IAFvUmc-BTKyaM-0usYFOtfFdvSEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzE0/NjkzLTE1NzMxMDIy/MDctMjY2Mi5qcGVn.jpeg" alt="Cover for Nothing Left To Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1900,7 +1888,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/jx3tsY4VgWcevEhTdE1PSxXMSQtEm1FBby9BccPtfUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDM0/NTUzLTE2NTQ1ODcx/NjctNzc2OC5qcGVn.jpeg" alt="Cover for No Pressure (LP)" style="max-width:120px; height:auto;" />
       </td>
@@ -1916,12 +1904,13 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 87</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 1</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f19d8a452a0151dbaf7cd53bbbdfd492.png" alt="Cover for The Hum Goes On Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -1944,7 +1933,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e0cde5dcd10583bb5c1da8a02cce225.png" alt="Cover for Rock The Fuck On Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -1960,12 +1949,12 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 3</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1090c2e01f8c824ace358895b49b087.png" alt="Cover for As You Please" style="max-width:120px; height:auto;" />
       </td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T06:24:20.280Z
+date: 2025-11-14T23:30:55.024Z
 permalink: tags/acoustic
 title: acoustic
 ---
 
 ## acoustic
 
-Last updated: <time datetime="2025-11-13T06:24:20.280Z">Thu Nov 13 2025 08:24:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T23:30:55.024Z">Sat Nov 15 2025 01:30:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 79</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 85</li>
             <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 93</li>
         </ul>
       </td>
@@ -65,7 +65,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 83</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 84</li>
             <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 97</li>
         </ul>
       </td>
@@ -93,7 +93,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/161e060c537934a369cff24e8db598bf.png" alt="Cover for Running on Ice" style="max-width:120px; height:auto;" />
       </td>
@@ -128,13 +128,13 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 25</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 27</li>
             <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb902776c17dfb8d69ba053b33275bda.png" alt="Cover for Something Else" style="max-width:120px; height:auto;" />
       </td>
@@ -158,7 +158,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30c58f994ac54b39b333f635efab9cfc.png" alt="Cover for Live At Luther College" style="max-width:120px; height:auto;" />
       </td>
@@ -195,7 +195,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15fee1f88fb0cd6385f01fa011c18412.png" alt="Cover for The John Denver Collection, Vol. 1: Take Me Home Country Roads" style="max-width:120px; height:auto;" />
       </td>
@@ -228,26 +228,6 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 59</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f987c735d61d4353c34a4384f052c2ab.png" alt="Cover for The Swiss Army Romance" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000-11-14</td>
-      <td>Dashboard Confessional</td>
-      <td>The Swiss Army Romance</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -267,7 +247,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 1</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 2</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 66</li>
         </ul>
       </td>
@@ -287,7 +267,6 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 15</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -327,12 +306,12 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 36</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 92</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b85b3e6cb75544a78a8d5778888f7f4c.png" alt="Cover for The Other Side" style="max-width:120px; height:auto;" />
       </td>
@@ -365,8 +344,8 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 36</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 65</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 54</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 66</li>
             <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 78</li>
         </ul>
       </td>
@@ -454,7 +433,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d28df63c458682d37a529f9963b3804.png" alt="Cover for Curtains" style="max-width:120px; height:auto;" />
       </td>
@@ -490,7 +469,26 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e160fd85145fe1a91809d55885f36c5b.png" alt="Cover for Acústico (Ao Vivo)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Cássia Eller</td>
+      <td>Acústico (Ao Vivo)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/259007651a004cb0883113c1b8b33e36.png" alt="Cover for Please Come Home" style="max-width:120px; height:auto;" />
       </td>
@@ -561,13 +559,13 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 6</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 29</li>
             <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be782ebfa4704ef5ab4ef22be07e2ac3.png" alt="Cover for Awake" style="max-width:120px; height:auto;" />
       </td>
@@ -603,7 +601,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e61d925c177dcdb7bba935a782560b8.png" alt="Cover for Spotify Singles" style="max-width:120px; height:auto;" />
       </td>
@@ -640,7 +638,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54fbd72858b2b45ab95283f7f39bca18.png" alt="Cover for Art of Motion" style="max-width:120px; height:auto;" />
       </td>
@@ -730,7 +728,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d889cdfce2044e74bf56f5c156275866.png" alt="Cover for The Avalanche" style="max-width:120px; height:auto;" />
       </td>
@@ -750,7 +748,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2006-07-31</td>
@@ -799,7 +797,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 65</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 78</li>
             <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 100</li>
         </ul>
       </td>
@@ -877,7 +875,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e58f04b1bac2fa35e7ab9b36914d687a.png" alt="Cover for Avalon" style="max-width:120px; height:auto;" />
       </td>
@@ -931,12 +929,12 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 87</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54614669de55473ea48824b76e5de044.png" alt="Cover for Sort of Revolution" style="max-width:120px; height:auto;" />
       </td>
@@ -971,14 +969,14 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 30</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 34</li>
             <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 79</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f54491f43ae4bd9cb5d340c49565747.png" alt="Cover for what is love?" style="max-width:120px; height:auto;" />
       </td>
@@ -1038,7 +1036,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c73ce8b5b0c2fbaca34b6e778757550d.png" alt="Cover for Harmony" style="max-width:120px; height:auto;" />
       </td>
@@ -1056,7 +1054,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e21208e4351466dbd9b7ae1f0c06d06.png" alt="Cover for Philharmonics" style="max-width:120px; height:auto;" />
       </td>
@@ -1069,10 +1067,8 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 36</li>
             <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 79</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 81</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1112,12 +1108,13 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 29</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 20</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b180e31fc83a41208b191b03db8f0b47.png" alt="Cover for Folksongs &amp; Ballads" style="max-width:120px; height:auto;" />
       </td>
@@ -1136,7 +1133,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 74</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 75</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 93</li>
             <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 96</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 100</li>
@@ -1187,15 +1184,15 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 60</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 71</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 73</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 77</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 97</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b01eb23031f3b7afa9f7e4789490545d.png" alt="Cover for Eyes Closed" style="max-width:120px; height:auto;" />
       </td>
@@ -1239,8 +1236,8 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 3</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 62</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 5</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 64</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 93</li>
             <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 94</li>
             <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 100</li>
@@ -1291,7 +1288,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/60176ed0b8764fb6cfdb612566034bbc.png" alt="Cover for Believe Acoustic" style="max-width:120px; height:auto;" />
       </td>
@@ -1327,7 +1324,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/74a0e7c56cda41b094ff4aa5577e6442.png" alt="Cover for The Civil Wars" style="max-width:120px; height:auto;" />
       </td>
@@ -1348,7 +1345,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 22</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 37</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 83</li>
             <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 91</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 98</li>
@@ -1375,7 +1372,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24076d3c92674c06cc0c08af886a2767.png" alt="Cover for Between The Bars (EP)" style="max-width:120px; height:auto;" />
       </td>
@@ -1391,6 +1388,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1413,7 +1411,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 42</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 56</li>
             <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 99</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 100</li>
             <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 100</li>
@@ -1421,7 +1419,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6339987921d74b2bcb252166e61169ad.png" alt="Cover for Let It Go" style="max-width:120px; height:auto;" />
       </td>
@@ -1483,7 +1481,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a1e3b34df224066c04a36f1fdedb2cb.png" alt="Cover for Vestiges &amp; Claws" style="max-width:120px; height:auto;" />
       </td>
@@ -1498,12 +1496,12 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 13</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/908W-X9L4AVteSmZYbK2rFMbBRSvlA9h1xzcIQ4i_4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Mjcy/MTktMTQ0MzMzMjgx/OS03NTQ1LmpwZWc.jpeg" alt="Cover for Four Songs for Losing You" style="max-width:120px; height:auto;" />
       </td>
@@ -1521,7 +1519,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3974d0406f82134d33e1ad8888b9d4e2.png" alt="Cover for Patroas 35%" style="max-width:120px; height:auto;" />
       </td>
@@ -1543,7 +1541,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9cf9a458b08ab6d98bef14ee1b2bf13.png" alt="Cover for Miss You 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1562,13 +1560,13 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 4</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 20</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6905bda2515e422b1f1dc626bc3617f.png" alt="Cover for Marília Mendonça - Ao Vivo" style="max-width:120px; height:auto;" />
       </td>
@@ -1605,7 +1603,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 69</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 84</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 85</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 95</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 100</li>
         </ul>
@@ -1630,8 +1628,8 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 80</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 93</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 98</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 94</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1693,7 +1691,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0aea7a85e09220b53070c08b66b9fe42.png" alt="Cover for EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1709,7 +1707,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 7</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1740,7 +1738,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/879e3d406746eb49f90ec3c650e9819b.png" alt="Cover for Politics of Living" style="max-width:120px; height:auto;" />
       </td>
@@ -1761,7 +1759,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/Qf0QFX4c6s_iqHklqB-oYL8-7SMUdNSlkkisZRQWUFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjIw/NTk0LTE1Mzg3NTQ2/NjctNjQ1Ny5qcGVn.jpeg" alt="Cover for abysskiss" style="max-width:120px; height:auto;" />
       </td>
@@ -1777,12 +1775,12 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 10</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/670bc5165036784a548930b5caa4d618.png" alt="Cover for Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1800,7 +1798,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 26</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 54</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1824,7 +1822,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76288fca296d338835ddabbd1c6cb3c3.png" alt="Cover for Feeding Seahorses By Hand" style="max-width:120px; height:auto;" />
       </td>
@@ -1861,7 +1859,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca12c443d6857858bb8b6b34ea91656a.png" alt="Cover for Cure for Me (Acoustic)" style="max-width:120px; height:auto;" />
       </td>
@@ -1897,7 +1895,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 72</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 74</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 76</li>
         </ul>
       </td>
@@ -1961,7 +1959,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a1b70c32850512e9c4b2ca17943ad7d.png" alt="Cover for (i would have followed you)" style="max-width:120px; height:auto;" />
       </td>
@@ -1978,12 +1976,12 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 6</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/abe5993e01179cb71682f49170ffa336.png" alt="Cover for jamie" style="max-width:120px; height:auto;" />
       </td>
@@ -2019,14 +2017,14 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 59</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 70</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 79</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 80</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 87</li>
             <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbcc509f87416b7eb5dde035ffb2cc18.png" alt="Cover for closer to closure" style="max-width:120px; height:auto;" />
       </td>
@@ -2046,7 +2044,7 @@ Acoustic music emphasizes natural, unamplified instruments like guitars and pian
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8891e056c50a69f2d25c11004c2532c.png" alt="Cover for THIS IS NOT WHAT IT LOOKS LIKE!" style="max-width:120px; height:auto;" />
       </td>
